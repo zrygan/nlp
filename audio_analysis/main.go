@@ -21,6 +21,18 @@ func audioAnalysis(f *os.File, fn string, emotion string) {
 }
 
 func main() {
+	if len(os.Args) > 0 {
+		f, err := os.Open(os.Args[1])
+		if err != nil {
+			panic(err)
+		}
+
+		audioAnalysis(f, os.Args[1], "extras")
+
+		f.Close()
+		return
+	}
+
 	dir, err := os.ReadDir("data")
 	if err != nil {
 		panic(err)
