@@ -1,0 +1,24 @@
+Language Set: [
+//  Language Name,	ISO 639,	Bible Link
+    Tagalog,		tgl,		https://www.bible.com/bible/2195/GEN.1.ABTAG01
+    Cebuano,		ceb,	    https://www.bible.com/bible/562/GEN.1.RCPV
+    Ilocano,		ilo,		https://www.bible.com/bible/782/GEN.1.RIPV	
+    Hiligaynon,		hil,		https://www.bible.com/bible/2190/GEN.1.MBBHIL12
+    Bikol Language,	bik (bcl),	https://www.bible.com/versions/890-mbbbik92-marahay-na-bareta-biblia	
+    Waray-Waray,	war,		https://www.bible.com/bible/2198/GEN.1.MBBSAM	
+    Kapampangan,	pam,		https://www.bible.com/versions/1141-pmpv-ing-mayap-a-balita-biblia	
+    Pangasinan,		pag,		https://www.bible.com/bible/2194/GEN.1.MBBPAN83	
+    Adasen,         tiu,        https://www.bible.com/bible/2812/MAT.1.YBT
+    Chavacano,		cbk,		https://www.bible.com/versions/1129-cbknt-el-nuevo-testamento
+    Paranan, 		prf,		https://www.bible.com/bible/438/MAT.1.PRF
+    Tausug,		    tsg,	    https://www.bible.com/versions/1319-tsg-kitab-inji	
+    Romblomanon,    rol,        https://www.bible.com/bible/2244/MAT.1.BKR
+    Masbatenyo,		msb,		https://www.bible.com/bible/1222/MAT.1.MSB
+    Kinaray-a, 		krj,		https://www.bible.com/bible/1489/MAT.1.KRJNT
+    Yami language,	tao,		https://www.bible.com/bible/2364/MAT.1.SNT	
+]
+
+# of Corpora: 		16 	(also the number of corpora)
+Corpus Size: 		50_000
+Total Corpus Size: 	800_000 (50_000 * 16) 
+# of Parallel Corpora:	7
