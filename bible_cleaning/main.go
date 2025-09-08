@@ -11,7 +11,7 @@ import (
 
 func corpus() {
 	// 1189 is the total number of chapters in the English Bible
-	total := 10
+	total := 80
 
 	cleaningRes := []*regexp.Regexp{
 		regexp.MustCompile(`[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`),
@@ -59,6 +59,7 @@ func corpus() {
 	}
 
 	var wg sync.WaitGroup
+	var mu sync.Mutex
 	for language, root := range bibles {
 		count := 1
 
@@ -66,15 +67,18 @@ func corpus() {
 		wg.Add(1)
 		go func(lang, url string, count *int) {
 			defer wg.Done()
-			corpusSizes[language] = scraper.ScrapeAndParse(
-				root,
-				language,
-				"corpus/"+language,
+			res := scraper.ScrapeAndParse(
+				url,
+				lang,
+				"corpus/"+lang,
 				cleaningRes,
 				make(map[string]bool),
 				count,
 				total,
 			)
+			mu.Lock()
+			corpusSizes[lang] = res
+			mu.Unlock()
 		}(language, root, &count)
 	}
 
