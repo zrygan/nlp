@@ -119,6 +119,7 @@ func ScrapeAndParse(
 	chapterCounter *int,
 	maxCount int,
 ) int {
+	// base/edge
 	if visited[url] || *chapterCounter > maxCount {
 		return 0
 	}

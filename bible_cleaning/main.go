@@ -8,7 +8,6 @@ import (
 )
 
 func main() {
-
 	cleaningRes := []*regexp.Regexp{
 		regexp.MustCompile(`[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`),
 		regexp.MustCompile(`[:\s]+$`),
@@ -16,6 +15,7 @@ func main() {
 	}
 
 	bibles := map[string]string{
+		//  ISO 639: Root URL
 		"tgl": "https://www.bible.com/bible/2195/GEN.1.ABTAG01",
 		"ceb": "https://www.bible.com/bible/562/GEN.1.RCPV",
 		"ilo": "https://www.bible.com/bible/782/GEN.1.RIPV",
