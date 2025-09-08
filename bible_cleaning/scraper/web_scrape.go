@@ -125,7 +125,11 @@ func ScrapeAndParse(
 		}
 	}
 
-	totalVerses := len(verses)
+	wordCount := 0
+	for _, v := range verses {
+		words := strings.Fields(v)
+		wordCount += len(words)
+	}
 
 	*chapterCounter++
 
@@ -133,13 +137,13 @@ func ScrapeAndParse(
 	nextURL, err := getNextChapterURL(url)
 	if err != nil {
 		log.Println("Error getting next chapter URL:", err)
-		return totalVerses
+		return wordCount
 	}
 
 	if nextURL != "" && !visited[nextURL] {
 		// maybe we can parallelize this to mkae it faster?
 		// recursive call
-		totalVerses += ScrapeAndParse(nextURL,
+		wordCount += ScrapeAndParse(nextURL,
 			language,
 			outputDir, cleaningRes,
 			visited,
@@ -148,5 +152,5 @@ func ScrapeAndParse(
 		)
 	}
 
-	return totalVerses
+	return wordCount
 }
