@@ -84,9 +84,13 @@ func corpus() {
 
 	wg.Wait()
 
+	sum := 0
 	for language, corpusSize := range corpusSizes {
+		sum += corpusSize
 		fmt.Println(language, " : ", corpusSize)
 	}
+
+	fmt.Println("Sig", " : ", sum)
 }
 
 func main() {
