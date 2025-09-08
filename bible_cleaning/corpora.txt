@@ -1,5 +1,7 @@
-Language Set: [
-//  Language Name,	ISO 639,	Bible Link
+Corpus Specifications
+
+Language Set: 
+//  Language Name,	ISO 639,	Bible Link (Reference)
     Tagalog,		tgl,		https://www.bible.com/bible/2195/GEN.1.ABTAG01
     Cebuano,		ceb,	    https://www.bible.com/bible/562/GEN.1.RCPV
     Ilocano,		ilo,		https://www.bible.com/bible/782/GEN.1.RIPV	
@@ -16,9 +18,27 @@ Language Set: [
     Masbatenyo,		msb,		https://www.bible.com/bible/1222/MAT.1.MSB
     Kinaray-a, 		krj,		https://www.bible.com/bible/1489/MAT.1.KRJNT
     Yami language,	tao,		https://www.bible.com/bible/2364/MAT.1.SNT	
-]
 
-# of Corpora: 		16 	(also the number of corpora)
-Corpus Size: 		50_000
-Total Corpus Size: 	800_000 (50_000 * 16) 
-# of Parallel Corpora:	7
+
+# of Corpora: 		16 	(also the number of Languages)
+Corpus Sizes:  
+    tiu, 110_115
+    cbk, 116_023
+    rol, 86_782
+    msb, 84_621
+    tao, 102_431
+    ceb, 59_339
+    bik, 58_225
+    pam, 61_587
+    pag, 57_769
+    tsg, 103_776
+    krj, 93_026
+    war, 64_826
+    prf, 87_635
+    tgl, 64_836
+    ilo, 51_571
+    jil, 65_949
+
+Total Corpus Size: 	1_268_511
+(required*) # of Parallel Corpora:	7
+
