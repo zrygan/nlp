@@ -1,13 +1,15 @@
 package main
 
 import (
-	"fmt"
 	"regexp"
+	"sync"
 
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
 )
 
 func main() {
+	total := 10
+
 	cleaningRes := []*regexp.Regexp{
 		regexp.MustCompile(`[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`),
 		regexp.MustCompile(`[:\s]+$`),
@@ -33,6 +35,15 @@ func main() {
 		"krj": "https://www.bible.com/bible/1489/MAT.1.KRJNT",
 		"tao": "https://www.bible.com/bible/2364/MAT.1.SNT",
 	}
-	count := 0
-	fmt.Println(scraper.ScrapeAndParse(bibles["tgl"], "tgl", "corpus/tgl", cleaningRes, make(map[string]bool), &count, 100))
+	var wg sync.WaitGroup
+	for language, root := range bibles {
+		count := 0
+		wg.Add(1)
+		go func(lang, url string, count *int) {
+			defer wg.Done()
+			scraper.ScrapeAndParse(root, language, "corpus/"+language, cleaningRes, make(map[string]bool), count, total)
+		}(language, root, &count)
+	}
+
+	wg.Wait()
 }
