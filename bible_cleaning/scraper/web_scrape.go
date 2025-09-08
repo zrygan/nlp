@@ -3,7 +3,6 @@ package scraper
 import (
 	"fmt"
 	"log"
-	"net/url"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -13,20 +12,8 @@ import (
 	"github.com/gocolly/colly"
 )
 
-// Helper: compare URLs ignoring query parameters
-func urlEquals(u1, u2 string) bool {
-	u1Parsed, err1 := url.Parse(u1)
-	u2Parsed, err2 := url.Parse(u2)
-	if err1 != nil || err2 != nil {
-		return u1 == u2
-	}
-	u1Parsed.RawQuery = ""
-	u2Parsed.RawQuery = ""
-	return u1Parsed.String() == u2Parsed.String()
-}
-
 // ScrapeChapter scrapes a single chapter: returns verses and chapter name
-func ScrapeChapter(chapterURL string, cleaningRes []*regexp.Regexp) ([]string, string, error) {
+func scrapeChapter(chapterURL string, cleaningRes []*regexp.Regexp) ([]string, string, error) {
 	var verses []string
 	var chapterName string
 
@@ -68,7 +55,7 @@ func ScrapeChapter(chapterURL string, cleaningRes []*regexp.Regexp) ([]string, s
 }
 
 // SaveChapter saves the verses to a file
-func SaveChapter(outputDir, language, chapterName string, verses []string) error {
+func saveChapter(outputDir, language, chapterName string, verses []string) error {
 	if chapterName == "" {
 		chapterName = "chapter"
 	}
@@ -90,7 +77,7 @@ func SaveChapter(outputDir, language, chapterName string, verses []string) error
 }
 
 // GetNextChapterURL finds the next chapter link
-func GetNextChapterURL(chapterURL string) (string, error) {
+func getNextChapterURL(chapterURL string) (string, error) {
 	var nextURL string
 	c := colly.NewCollector()
 
@@ -126,14 +113,14 @@ func ScrapeAndParse(
 	visited[url] = true
 
 	// Scrape current chapter
-	verses, chapterName, err := ScrapeChapter(url, cleaningRes)
+	verses, chapterName, err := scrapeChapter(url, cleaningRes)
 	if err != nil {
 		log.Println("Error scraping chapter:", err)
 		return 0
 	}
 
 	if len(verses) > 0 {
-		if err := SaveChapter(outputDir, language, chapterName, verses); err != nil {
+		if err := saveChapter(outputDir, language, chapterName, verses); err != nil {
 			log.Println("Error saving chapter:", err)
 		}
 	}
@@ -143,14 +130,22 @@ func ScrapeAndParse(
 	*chapterCounter++
 
 	// Get next chapter
-	nextURL, err := GetNextChapterURL(url)
+	nextURL, err := getNextChapterURL(url)
 	if err != nil {
 		log.Println("Error getting next chapter URL:", err)
 		return totalVerses
 	}
 
 	if nextURL != "" && !visited[nextURL] {
-		totalVerses += ScrapeAndParse(nextURL, language, outputDir, cleaningRes, visited, chapterCounter, maxCount)
+		// maybe we can parallelize this to mkae it faster?
+		// recursive call
+		totalVerses += ScrapeAndParse(nextURL,
+			language,
+			outputDir, cleaningRes,
+			visited,
+			chapterCounter,
+			maxCount,
+		)
 	}
 
 	return totalVerses

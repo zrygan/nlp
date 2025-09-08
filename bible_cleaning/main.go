@@ -2,14 +2,16 @@ package main
 
 import (
 	"fmt"
+	"os"
 	"regexp"
 	"sync"
 
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
 )
 
-func main() {
-	total := 1189
+func corpus() {
+	// 1189 is the total number of chapters in the English Bible
+	total := 10
 
 	cleaningRes := []*regexp.Regexp{
 		regexp.MustCompile(`[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`),
@@ -36,26 +38,62 @@ func main() {
 		"krj": "https://www.bible.com/bible/1489/MAT.1.KRJNT",
 		"tao": "https://www.bible.com/bible/2364/MAT.1.SNT",
 	}
+
+	corpusSizes := map[string]int{
+		"tgl": 0,
+		"ceb": 0,
+		"ilo": 0,
+		"jil": 0,
+		"bik": 0,
+		"war": 0,
+		"pam": 0,
+		"pag": 0,
+		"tiu": 0,
+		"cbk": 0,
+		"prf": 0,
+		"tsg": 0,
+		"rol": 0,
+		"msb": 0,
+		"krj": 0,
+		"tao": 0,
+	}
+
 	var wg sync.WaitGroup
 	for language, root := range bibles {
 		count := 1
+
+		// parallelize this
 		wg.Add(1)
 		go func(lang, url string, count *int) {
 			defer wg.Done()
-			fmt.Println(
+			corpusSizes[language] = scraper.ScrapeAndParse(
+				root,
 				language,
-				scraper.ScrapeAndParse(
-					root,
-					language,
-					"corpus/"+language,
-					cleaningRes,
-					make(map[string]bool),
-					count,
-					total,
-				),
+				"corpus/"+language,
+				cleaningRes,
+				make(map[string]bool),
+				count,
+				total,
 			)
 		}(language, root, &count)
 	}
 
 	wg.Wait()
+
+	for language, corpusSize := range corpusSizes {
+		fmt.Println(language, " : ", corpusSize)
+	}
+}
+
+func main() {
+	if len(os.Args) < 2 {
+		panic("No argument provided")
+	}
+
+	switch os.Args[1] {
+	case "corpus":
+		corpus()
+	default:
+		panic("Non-exaustive switch-case or argument not found")
+	}
 }
