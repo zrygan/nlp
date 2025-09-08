@@ -1,0 +1,20 @@
+1: Purihin ang Panginoon !
+: Purihin ninyo, O mga lingkod ng Panginoon ,
+: purihin ang pangalan ng Panginoon !
+2: Purihin ang pangalan ng Panginoon
+: mula sa panahong ito at magpakailanman.
+3: Mula sa pagsikat ng araw hanggang sa paglubog nito,
+: ang pangalan ng Panginoon ay dapat purihin!
+4: Ang Panginoon ay higit na mataas sa lahat ng mga bansa,
+: at ang kanyang kaluwalhatian sa itaas ng kalangitan.
+5: Sino ang gaya ng Panginoon nating Diyos,
+: na nakaupo sa itaas,
+6: na nagpapakababang tumitingin
+: sa kalangitan at sa lupa?
+7: Ibinabangon niya ang dukha mula sa alabok,
+: at itinataas ang nangangailangan mula sa bunton ng abo,
+8: upang kasama ng mga pinuno ay paupuin sila,
+: mga pinuno ng kanyang bayan ang kanilang kasama.
+9: Ginagawa niyang manatili sa bahay ang baog na babae,
+: isang masayang ina ng mga anak.
+: Purihin ang Panginoon !

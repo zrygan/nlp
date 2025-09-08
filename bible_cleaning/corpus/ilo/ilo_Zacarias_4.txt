@@ -1,0 +1,18 @@
+1: Immay manen ti anghel a nakisasao kaniak ket riniingnak a kasla ket matmaturogakon.
+2: Ania ti makitam? sinaludsodna.
+: Makitak ti maysa a kandelero a pasig a balitok, insungbatko. Iti rabawna, adda malukong a pagyanan ti lana. Adda pito a pagsilawan ti kandelero, tunggal maysa adda pagsaadan ti pito a pabelo.
+3: Adda dua a kayo nga olibo iti abay ti kandelero, maysa iti tunggal sikigan.
+4: Sinaludsodko iti anghel, Ania ti kaipapanan dagitoy, apo?
+5: Dimo kad ammo? sinaludsodna.
+: Saan, apo, insungbatko.
+10: Kinuna kaniak ti anghel, Dagiti pito a pagsilawan isuda dagiti pito a mata ti Apo a kumitkita iti entero a daga.
+11: Sinaludsodko, Ania ti kaipapanan dagiti kayo ti olibo iti agsumbangir a sikigan ti kandelero?
+12: Ket ania ti kaipapanan dagitoy dua a sanga ti olibo iti abay dagiti balitok a tubo a pagayusan dagiti lana ti olibo?
+13: Dimo kad ammo? sinaludsodna.
+: Saan, apo, kinunak.
+14: Dagitoy dagiti dua a lallaki a pinili ken kinonsagrar ti Dios nga agserbi kenkuana nga Apo ti entero a daga, kinunana.
+6: Imbaga ti anghel nga ipakaammok ken ni Zerubbabel daytoy a mensahe ti Apo Agballigika, saan nga iti bileg ti armada wenno iti bukodmo a pigsa no di ket babaen iti pannakabalin nga aggapu kaniak.
+7: Mapukawto dagiti lapped a kas iti kadadakkel dagiti bantay. Bangonemto manen ti Templo ket inton ikabilmo ti maudi a bato, idir-into dagiti tattao, Nagpintasen! Nagpintasen!
+8: Adda sabali a mensahe nga imbaga kaniak ti Apo .
+9: Kinunana, Insaad ni Zerubbabel ti fondasion ti Templo ket leppasennanto ti patakder. Inton mapasamak daytoy, maammoanto dagiti tattao a siak ti nangibaon kenka a mapan kadakuada.
+10: Maupayda gapu ta bassit ti nagapuanan. Ngem maragsakandanto inton makitada ni Zerubbabel a mangitultuloy a mangbangon iti Templo.
