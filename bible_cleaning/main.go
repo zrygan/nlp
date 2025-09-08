@@ -5,8 +5,6 @@ import (
 	"os"
 	"regexp"
 	"sync"
-
-	"github.com/zrygan.nlp/bible_cleaning/scraper"
 )
 
 func corpus() {
@@ -67,7 +65,7 @@ func corpus() {
 		wg.Add(1)
 		go func(lang, url string, count *int) {
 			defer wg.Done()
-			res := scraper.ScrapeAndParse(
+			res := ScrapeAndParse(
 				url,
 				lang,
 				"corpus/"+lang,
