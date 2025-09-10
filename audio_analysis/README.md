@@ -20,6 +20,7 @@ audio_analysis/
 ├── fourier/        <--- FFT written in Go
 ├── spectrogram/    <--- A spectrogram generator written in Go
 ├── docs/           <--- Research paper written in LaTeX with its assets
+│   └── ...
 ├── go.mod          <--- Go module
 ├── go.sum          <--- Go dependency checksums
 ├── main.go         <--- Entry point

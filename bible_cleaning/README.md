@@ -9,6 +9,7 @@ HTML parsing, and regular expressions.
 audio_analysis/
 ├── corpus     <--- The SQL query used for the Hugging Face data
 ├── docs/      <--- Research paper written in LaTeX with its assets
+│   └── ...
 ├── data/      <--- WAVs and Spectrograms  
 ├── scraper/   <--- Web scraping, HTML parsing, and corpus cleaner written in Go
 ├── go.mod     <--- Go module
