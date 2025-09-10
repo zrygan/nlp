@@ -2,7 +2,7 @@
 
 # Natural Language Processing (NLP)
 
-Small NLP projects for an NLP elective at De La Salle University.
+A repository of small NLP projects.
 
 **Contributors**:
 
