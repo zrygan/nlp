@@ -115,10 +115,15 @@ The source code of the methodology may be accessed in this GitHub repository:
 
 Since YouVersion is an online platform written in the Hypertext Markup Language
 (HTML). We started by analyzing the structure of each webpage, pinning down the
-location of the biblical content in each page.
+location of the relevant biblical content in each page. In this case, we need
+to find the location of the verses of each chapter in the HTML source.
 
-From this, we determined that all spans with \texttt{ChapterContent\_verse\_\_}
-as the prefix of its class is biblical text.
+Doing a manual scan of the source code, we determined that all spans with
+\texttt{ChapterContent\_verse\_\_} as the prefix of its class is biblical text.
+
+The listing below contains an excerpt of the source code with the specific tag
+which contains a verse of that chapter. The \cref{list:chapter_content} is the
+first verse of Genesis chapter 1.
 
 \begin{lstlisting}[language=HTML, caption={\texttt{ChapterContent\_verse\_\_} tag}, label={list:chapter_content}]
 <span 
@@ -144,19 +149,29 @@ as the prefix of its class is biblical text.
 </span>
 \end{lstlisting}
 
-In \cref{list:chapter_content}, the text inside the desired tag are extracted
-while the rest are disregarded. An example of which is the
-\texttt{CharcterContent\_note\_} tag which are notes provided by YouVersion to
-the reader.
+The notation we will use to refer to a specific biblical chapter and a verse is
+\[\texttt{ChapterShorthand ChapterNumber:VerseNumber}\]
+For example, the above chapter and verse in the above listing will be referred
+to as Gen 1:1. For a range of verses we will instead use
+\[\texttt{ChapterShorthand ChapterNumber:RangeStart-RangeEnd}\]
+For example, we will use Gen 1:1-3 to refer to the first three verses of
+Genesis chapter 1.
 
-Therefore, after scraping the HTML webpages we need to parse these sections to
-extract the desired information for the biblical corpora.
+Furthermore, we will only extract all those children-spans\todo{is this the
+    correct word (children-spans)? Maybe sub-spans or nested-spans?} whose class is
+prefixed with \texttt{ChapterContent\_content\_\_}. While we will discard the
+rest. For instance, we will disregard the \texttt{CharcterContent\_note\_} tag
+which are notes provided by YouVersion to the reader.
 
 To make the solution efficient, the web scraping and parsing step occur
 simultaneously. The web scraper uses the Colly framework for Go (or Golang).
-While the parsing uses a combination of string search functions (looking for
-the \texttt{ChapterContent\_verse\_\_} tag) and regular expressions for
-cleaning.
+While the parsing uses a combination of string search functions and regular
+expressions for cleaning.
+
+On~\cref{list:parse_and_clean}, we scrape the HTML source code and find all
+instances of the desired tag. We then extract and clean the contents within
+that tag. The code uses a couple of regular expressions (RE) for cleaning which
+are enumerated in~\cref{tab:regex}.
 
 \begin{lstlisting}[language=Go, caption={Parsing and Cleaning Step}, label={list:parse_and_clean}]
 c := colly.NewCollector()
@@ -183,33 +198,30 @@ c.OnHTML("span[class^='ChapterContent_verse__']", func(e *colly.HTMLElement) {
 })
 \end{lstlisting}
 
-On~\cref{list:parse_and_clean}, we scrape the HTML source code and find all
-instances of the desired tag. We then extract and clean the contents within
-that tag. The code uses a couple of regular expressions (RE) for cleaning which are
-enumerated in~\cref{tab:regex}.
-
 \begin{table}[h!]
     \centering
     \begin{tabular}{p{\dimexpr0.5\linewidth\relax} p{\dimexpr0.4\linewidth\relax}}
         \hline
-        \textbf{Regular Expression (RE)} & \textbf{Purpose} \\
+        \textbf{Regular Expression (RE)}        & \textbf{Purpose}                                                                      \\
         \hline
         \verb|[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+| & Remove all characters that are not letters, digits, whitespace, or basic punctuation. \\
-        \verb|[:\s]+$| & Match one or more colons or spaces at the end of a line. \\
-        \verb|^[\d#:\s]+| & Remove leading numbers, hashes, colons, or spaces at the start of a line. \\
+        \verb|[:\s]+$|                          & Match one or more colons or spaces at the end of a line.                              \\
+        \verb|^[\d#:\s]+|                       & Remove leading numbers, hashes, colons, or spaces at the start of a line.             \\
         \hline
     \end{tabular}
     \caption{REs used for text cleaning}\label{tab:regex}
 \end{table}
 
-To allow for the algorithm to continuously run, we now needed to find the location of
-the next Bible chapter in the webpage. Again, the approach is straightforward and we 
-simply needed to determine the tag or class containing the hyperlink to the next page.
+To allow for the algorithm to continuously run, we now needed to find the
+location of the next Bible chapter in the webpage. Again, the approach is
+straightforward and we simply needed to determine the tag or class containing
+the hyperlink to the next page.
 
-We found that any \texttt{<a>} tag with the \texttt{href} leading to a \texttt{/bible/}
-page are navigation buttons. So, we simply created a \texttt{visited} hash table 
-containing all visited hyperlinks. And all \texttt{<a>} tags are cross-referenced with 
-that hash table. Excerpts of this routine are found in~\cref{list:next_chap,list:open_next}
+We found that any \texttt{<a>} tag with the \texttt{href} leading to a
+\texttt{/bible/} page are navigation buttons. So, we simply created a
+\texttt{visited} hash table containing all visited hyperlinks. And all
+\texttt{<a>} tags are cross-referenced with that hash table. Excerpts of this
+routine are found in~\cref{list:next_chap,list:open_next}
 
 \begin{lstlisting}[language=Go, caption={Finding the next chapter using the HTML tags}, label={list:next_chap}]
 c := colly.NewCollector()
@@ -245,10 +257,10 @@ Finally, concurrency was used to make the algorithm efficient.
 
 \vfill
 {\footnotesize
-    \noindent\textbf{Declaration of AI Use:} The author used ChatGPT-5 to 
-    assist with language editing and improving the clarity of the manuscript. 
-    All content generated by the AI was carefully reviewed and edited by the 
-    authors. The authors take full responsibility for the accuracy and integrity 
+    \noindent\textbf{Declaration of AI Use:} The author used ChatGPT-5 to
+    assist with language editing and improving the clarity of the manuscript.
+    All content generated by the AI was carefully reviewed and edited by the
+    authors. The authors take full responsibility for the accuracy and integrity
     of the final manuscript.
     \par}
 
