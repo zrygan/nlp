@@ -1,32 +1,32 @@
-1: Kanitang minunang panaun metung ya mu salita ing mabilug a yatu at paraparehu la mu ding amanung magagamit.
-2: Kabang manintun lang pituknangan ding tau king bandang aslagan, miras la king lugal a patag king sakup ning Sinar at karin la menuknangan.
-3: Ngarang misabi-sabi, Tara, gawa tamung tisa at ilutu ta la king ornu. Ding tisa ilang peka batu ra at ing alketran ya ing peka semento ra.
-4: Tara, ngara, mitalakad tamu ngening metung a siudad at gawa tamung toreng miraras banua ba tamung maging pikabaluan at e misalbag king mabilug a yatu.
-5: Tinipa ya ing Ginu ban lawan ne ing siudad at ing toreng telakad da ring tau.
-6: Kanita sinabi na ning Ginu , Ngening misanmetung la at metung la salita agawa ra iti, e lumuat ala nang makasabat pa king buri dang gawan.
-7: Mayap pa ing puntalan ta la at guluan a salita ban e la mikakaintindi.
-8: Ibat karin peniambulat na la ning Ginu king mabilug a yatu, at tiknangan deng tatalakad ing siudad.
-9: Ita ya ing sangkan nung inya inaus deng Babel ing lugal a ita uling karin ne giluan ning Ginu ing salita da ring tau ning mabilug a yatu at simbulat ding tau king mabilug a yatu.
-10: Ila deti ring lahi nang Sem. Kanitang dinalan yang banua i Sem ayanak ne i Arpaksad. Adua nang banua ing milabas kanita kaybat ning albug.
-11: Mebie ya pang limang dalan a banua i Sem kaybat nang mibait Arpaksad, at mika aliwa ya pang anak a lalaki ampon babai.
-12: Kanitang atlu yang pulu't limang banua i Arpaksad ayanak ne i Sela.
-13: Mebie yang apat a ralan at atlung banua i Arpaksad kaybat nang mibait Sela, at mika aliwa ya pang anak a lalaki ampon babai.
-14: Kanitang atlu yang pulung banua i Sela ayanak ne i Eber.
-15: Mebie yang apat a ralan atlung banua i Sela kaybat nang mibait Eber, at mika aliwa ya pang anak a lalaki ampon babai.
-16: Kanitang atlu yang pulu't apat a banua i Eber ayanak ne i Peleg.
-17: Mebie yang apat a ralan atlung pulung banua i Eber kaybat nang mibait Peleg, at mika aliwa ya pang anak a lalaki ampon babai.
-18: Kanitang atlu yang pulung banua i Peleg ayanak ne i Reu.
-19: Mebie yang aduang dalan at siam a banua i Peleg kaybat nang mibait Reu, at mika aliwa ya pang anak a lalaki ampon babai.
-20: Kanitang atlu yang pulu't aduang banua i Reu ayanak ne i Serug.
-21: Mebie yang aduang dalan at pitung banua i Reu kaybat nang mibait Serug, at mika aliwa ya pang anak a lalaki ampon babai.
-22: Kanitang atlu yang pulung banua i Serug ayanak ne i Nahor.
-23: Mebie yang aduang dalan a banua i Serug kaybat nang mibait Nahor, at mika aliwa ya pang anak a lalaki ampon babai.
-24: Kanitang adua yang pulu't siam a banua i Nahor ayanak ne i Tera.
-25: Mebie yang dinalan at labing siam a banua i Nahor kaybat nang mibait Tera, at mika aliwa ya pang anak a lalaki ampon babai.
-26: Kanitang pitu yang pulung banua i Tera ayanak na la di Abram, Nahor, at i Haran.
-27: Ila deti ring lahi nang Tera. Anak na lang Tera di Abram, Nahor, at Haran. Anak neng Haran i Lot.
-28: Minuna yang mete i Haran kang tata nang i Tera karin king balen a tibuan na, king Ur da ring Caldeo.
-29: Mekiasawa la di Abram at Nahor. Sarai ya lagyu ing asawa nang Abram, at itang kang Nahor Milka ne man a lagyu. I Milka anak neng Haran a tata ra di Milka at Isca.
-30: Ala yang anak i Sarai uli na ning baug ya.
-31: Tiki neng Tera ing anak nang i Abram, ing apu nang i Lot a anak nang Haran at ing manuyang nang i Sarai a asawa nang Abram a anak na. Meko la king Ur da ring Caldeo at minta la king sakup ning Canaan. Oneng inyang miras la Haran, karin na la menuknangan.
-32: Mebie yang aduang dalan at limang banua i Tera. Kaybat na nita mete ya karin king Haran.
+Kanitang minunang panaun metung ya mu salita ing mabilug a yatu at paraparehu la mu ding amanung magagamit.
+Kabang manintun lang pituknangan ding tau king bandang aslagan, miras la king lugal a patag king sakup ning Sinar at karin la menuknangan.
+Ngarang misabi-sabi, Tara, gawa tamung tisa at ilutu ta la king ornu. Ding tisa ilang peka batu ra at ing alketran ya ing peka semento ra.
+Tara, ngara, mitalakad tamu ngening metung a siudad at gawa tamung toreng miraras banua ba tamung maging pikabaluan at e misalbag king mabilug a yatu.
+Tinipa ya ing Ginu ban lawan ne ing siudad at ing toreng telakad da ring tau.
+Kanita sinabi na ning Ginu , Ngening misanmetung la at metung la salita agawa ra iti, e lumuat ala nang makasabat pa king buri dang gawan.
+Mayap pa ing puntalan ta la at guluan a salita ban e la mikakaintindi.
+Ibat karin peniambulat na la ning Ginu king mabilug a yatu, at tiknangan deng tatalakad ing siudad.
+Ita ya ing sangkan nung inya inaus deng Babel ing lugal a ita uling karin ne giluan ning Ginu ing salita da ring tau ning mabilug a yatu at simbulat ding tau king mabilug a yatu.
+Ila deti ring lahi nang Sem. Kanitang dinalan yang banua i Sem ayanak ne i Arpaksad. Adua nang banua ing milabas kanita kaybat ning albug.
+Mebie ya pang limang dalan a banua i Sem kaybat nang mibait Arpaksad, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulu't limang banua i Arpaksad ayanak ne i Sela.
+Mebie yang apat a ralan at atlung banua i Arpaksad kaybat nang mibait Sela, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulung banua i Sela ayanak ne i Eber.
+Mebie yang apat a ralan atlung banua i Sela kaybat nang mibait Eber, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulu't apat a banua i Eber ayanak ne i Peleg.
+Mebie yang apat a ralan atlung pulung banua i Eber kaybat nang mibait Peleg, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulung banua i Peleg ayanak ne i Reu.
+Mebie yang aduang dalan at siam a banua i Peleg kaybat nang mibait Reu, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulu't aduang banua i Reu ayanak ne i Serug.
+Mebie yang aduang dalan at pitung banua i Reu kaybat nang mibait Serug, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang atlu yang pulung banua i Serug ayanak ne i Nahor.
+Mebie yang aduang dalan a banua i Serug kaybat nang mibait Nahor, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang adua yang pulu't siam a banua i Nahor ayanak ne i Tera.
+Mebie yang dinalan at labing siam a banua i Nahor kaybat nang mibait Tera, at mika aliwa ya pang anak a lalaki ampon babai.
+Kanitang pitu yang pulung banua i Tera ayanak na la di Abram, Nahor, at i Haran.
+Ila deti ring lahi nang Tera. Anak na lang Tera di Abram, Nahor, at Haran. Anak neng Haran i Lot.
+Minuna yang mete i Haran kang tata nang i Tera karin king balen a tibuan na, king Ur da ring Caldeo.
+Mekiasawa la di Abram at Nahor. Sarai ya lagyu ing asawa nang Abram, at itang kang Nahor Milka ne man a lagyu. I Milka anak neng Haran a tata ra di Milka at Isca.
+Ala yang anak i Sarai uli na ning baug ya.
+Tiki neng Tera ing anak nang i Abram, ing apu nang i Lot a anak nang Haran at ing manuyang nang i Sarai a asawa nang Abram a anak na. Meko la king Ur da ring Caldeo at minta la king sakup ning Canaan. Oneng inyang miras la Haran, karin na la menuknangan.
+Mebie yang aduang dalan at limang banua i Tera. Kaybat na nita mete ya karin king Haran.

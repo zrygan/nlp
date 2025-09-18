@@ -48,3 +48,8 @@ Steps:
 - [ ] The parallel corpus is also organized by sentences.
 
 Soft Deadline: September 27, 2025
+
+## Demo Video
+
+Requirements:
+ - 

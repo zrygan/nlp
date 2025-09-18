@@ -7,17 +7,12 @@ import (
 	"sync"
 
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
+	"github.com/zrygan.nlp/bible_cleaning/types"
 )
 
-func corpus() {
-	// 1189 is the total number of chapters in the English Bible
-	total := 80
-
-	cleaningRes := []*regexp.Regexp{
-		regexp.MustCompile(`[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`),
-		regexp.MustCompile(`[:\s]+$`),
-		regexp.MustCompile(`^[\d#:\s]+`),
-	}
+// initialize sets up the initial parameters for the webscraping process
+func initialize() (int, map[string]string, map[string]int) {
+	chapterLimit := 80
 
 	bibles := map[string]string{
 		//  ISO 639: Root URL
@@ -58,33 +53,47 @@ func corpus() {
 		"tao": 0,
 	}
 
+	return chapterLimit, bibles, corpusSizes
+}
+
+// webscrapeBibles handles concurrent webscraping of multiple bibles
+func webscrapeBibles(
+	bibleURLs map[string]string,
+	corpusSizes map[string]int,
+	cleaningConfig []types.FindReplaceTuple[*regexp.Regexp],
+	chapterLimit int,
+) {
 	var wg sync.WaitGroup
 	var mu sync.Mutex
-	for language, root := range bibles {
-		count := 1
 
-		// parallelize this
+	for language, root := range bibleURLs {
+		chapterCount := 1
+
 		wg.Add(1)
-		go func(lang, url string, count *int) {
+
+		classification := types.LanguageClass{Language: language, OutputDir: "corpus/" + language}
+
+		go func(lang *types.LanguageClass, bibleURL string, chapterCount *int) {
 			defer wg.Done()
-			res := scraper.ScrapeAndParse(
-				url,
-				lang,
-				"corpus/"+lang,
-				cleaningRes,
-				make(map[string]bool),
-				count,
-				total,
-			)
+
+			res := scraper.WebscrapeAndParse(bibleURL, lang, &cleaningConfig, make(map[string]bool), chapterCount, chapterLimit)
+			//res := scraper.ConcurrentWebscrapeAndParse(bibleURL, lang, &cleaningConfig, chapterLimit, 5)
+
+			// Critical Section: Update shared map
 			mu.Lock()
-			corpusSizes[lang] = res
+			corpusSizes[lang.Language] = res
 			mu.Unlock()
-		}(language, root, &count)
+
+		}(&classification, root, &chapterCount)
 	}
 
 	wg.Wait()
+}
 
+// summarizeCorpus prints the corpus sizes per language and the total sum
+func summarizeCorpus(corpusSizes map[string]int) {
 	sum := 0
+
 	for language, corpusSize := range corpusSizes {
 		sum += corpusSize
 		fmt.Println(language, " : ", corpusSize)
@@ -93,15 +102,41 @@ func corpus() {
 	fmt.Println("Sig", " : ", sum)
 }
 
+// getCorpus orchestrates the entire process of webscraping and corpus generation
+func getCorpus() {
+	// 1189 is the chapterLimit number of chapters in the English Bible
+	chapterLimit, bibles, corpusSizes := initialize()
+
+	cleaningTuples := types.TurnToRegexpsTuple([]types.FindReplaceTuple[string]{
+		{
+			Find:    `[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`,
+			Replace: "",
+		}, {
+			Find:    `[:\s]+$`,
+			Replace: "",
+		}, {
+			Find:    `^[\d#:\s]+`,
+			Replace: "",
+		},
+	})
+
+	webscrapeBibles(bibles, corpusSizes, cleaningTuples, chapterLimit)
+
+	summarizeCorpus(corpusSizes)
+
+}
+
 func main() {
+
 	if len(os.Args) < 2 {
 		panic("No argument provided")
 	}
 
 	switch os.Args[1] {
 	case "corpus":
-		corpus()
+		getCorpus()
 	default:
-		panic("Non-exaustive switch-case or argument not found")
+		panic("Non-exaustive switch-case or argument not found.")
 	}
+
 }
