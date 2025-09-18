@@ -75,9 +75,10 @@ func webscrapeBibles(
 
 		go func(lang *types.LanguageClass, bibleURL string, chapterCount *int) {
 			defer wg.Done()
-			
+
 			res := scraper.WebscrapeAndParse(bibleURL, lang, &cleaningConfig, make(map[string]bool), chapterCount, chapterLimit)
 			//res := scraper.ConcurrentWebscrapeAndParse(bibleURL, lang, &cleaningConfig, chapterLimit, 5)
+
 			// Critical Section: Update shared map
 			mu.Lock()
 			corpusSizes[lang.Language] = res
@@ -85,7 +86,7 @@ func webscrapeBibles(
 
 		}(&classification, root, &chapterCount)
 	}
-	
+
 	wg.Wait()
 }
 
@@ -118,11 +119,11 @@ func getCorpus() {
 			Replace: "",
 		},
 	})
-	
+
 	webscrapeBibles(bibles, corpusSizes, cleaningTuples, chapterLimit)
 
 	summarizeCorpus(corpusSizes)
-	
+
 }
 
 func main() {

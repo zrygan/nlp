@@ -7,12 +7,13 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
-	"time"
-	"github.com/PuerkitoBio/goquery"
-	"github.com/zrygan.nlp/bible_cleaning/types"
-	"github.com/gocolly/colly"
 	"sync"
 	"sync/atomic"
+	"time"
+
+	"github.com/PuerkitoBio/goquery"
+	"github.com/gocolly/colly"
+	"github.com/zrygan.nlp/bible_cleaning/types"
 )
 
 // ScrapeChapter scrapes a single chapter: returns verses and chapter name
@@ -32,10 +33,10 @@ func scrapeChapter(chapterURL string, cleaningConfig *[]types.FindReplaceTuple[*
 			if text != "" {
 				clean := text
 
-				for _, tuple := range (*cleaningConfig) {
+				for _, tuple := range *cleaningConfig {
 					clean = tuple.Find.ReplaceAllString(clean, tuple.Replace.String())
 				}
-				
+
 				if clean != "" {
 					verseTexts = append(verseTexts, clean)
 				}
@@ -43,7 +44,6 @@ func scrapeChapter(chapterURL string, cleaningConfig *[]types.FindReplaceTuple[*
 		})
 
 		if len(verseTexts) > 0 {
-			// remove the verseNumber here.
 			verses = append(verses, fmt.Sprintf("%s", strings.Join(verseTexts, " ")))
 		}
 	})
@@ -142,7 +142,6 @@ func WebscrapeAndParse(
 	}
 	visited[websiteURL] = true
 
-	
 	wordCount := countWordsFromURL(websiteURL, *langClass, cleaningConfig)
 	*chapterCounter++
 
@@ -158,7 +157,7 @@ func WebscrapeAndParse(
 		// recursive call
 		wordCount += WebscrapeAndParse(
 			nextURL,
-			langClass, 
+			langClass,
 			cleaningConfig,
 			visited,
 			chapterCounter,
@@ -171,36 +170,34 @@ func WebscrapeAndParse(
 
 // Context for concurrent web scraping
 type WebscrapeContext struct {
-	visited       map[string]bool
-	visitedMu     *sync.Mutex
-	urlCh         chan string																	// Channel for URLs to process
-	tasks         *sync.WaitGroup															// Wait group for tracking tasks
-	langClass     *types.LanguageClass
+	visited        map[string]bool
+	visitedMu      *sync.Mutex
+	urlCh          chan string     // Channel for URLs to process
+	tasks          *sync.WaitGroup // Wait group for tracking tasks
+	langClass      *types.LanguageClass
 	cleaningConfig *[]types.FindReplaceTuple[*regexp.Regexp]
 	chapterCounter *atomic.Int64
-	maxCount      int
+	maxCount       int
 	totalWordCount *int64
 }
 
-
 func prefetchStaringURLs(url string, depth int, ctx *WebscrapeContext) {
-		if depth <= 0 {
-			return
-		}
+	if depth <= 0 {
+		return
+	}
 
-		ctx.tasks.Add(1)
-		ctx.urlCh <- url
+	ctx.tasks.Add(1)
+	ctx.urlCh <- url
 
-		nextURL, err := getNextChapterURL(url)
-		if err != nil {
-			log.Println("[Prefetch] Error fetching next URL:", err)
-			return
-		}
-		if nextURL != "" {
-			prefetchStaringURLs(nextURL, depth-1, ctx)
-		}
+	nextURL, err := getNextChapterURL(url)
+	if err != nil {
+		log.Println("[Prefetch] Error fetching next URL:", err)
+		return
+	}
+	if nextURL != "" {
+		prefetchStaringURLs(nextURL, depth-1, ctx)
+	}
 }
-
 
 // BFSWebscrape is a worker function for concurrent web scraping
 // Check [here](../docs/devs.md)
@@ -216,7 +213,6 @@ func BFSWebscrape(ctx *WebscrapeContext) {
 		}
 		ctx.visited[url] = true
 		(*ctx.visitedMu).Unlock()
-
 
 		// stop if max reached
 		nextCount := ctx.chapterCounter.Add(1)
@@ -263,8 +259,8 @@ func ConcurrentWebscrapeAndParse(
 	numWorkers int,
 ) int {
 	var (
-		visited       = make(map[string]bool)
-		visitedMu     sync.Mutex
+		visited        = make(map[string]bool)
+		visitedMu      sync.Mutex
 		totalWordCount int64
 		chapterCounter atomic.Int64
 	)
@@ -273,15 +269,15 @@ func ConcurrentWebscrapeAndParse(
 	var tasks sync.WaitGroup
 
 	ctx := &WebscrapeContext{
-			visited:        visited,
-			visitedMu:      &visitedMu,
-			urlCh:          urlCh,
-			tasks:          &tasks,
-			langClass:      langClass,
-			cleaningConfig: cleaningConfig,
-			chapterCounter: &chapterCounter,
-			maxCount:       maxCount,
-			totalWordCount: &totalWordCount,
+		visited:        visited,
+		visitedMu:      &visitedMu,
+		urlCh:          urlCh,
+		tasks:          &tasks,
+		langClass:      langClass,
+		cleaningConfig: cleaningConfig,
+		chapterCounter: &chapterCounter,
+		maxCount:       maxCount,
+		totalWordCount: &totalWordCount,
 	}
 
 	// enqueue initial URL
