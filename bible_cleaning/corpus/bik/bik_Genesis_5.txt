@@ -1,32 +1,32 @@
-1: Iyo ini an mga kapagarakian ni Adan. Kan lalangon nin Dios an katawohan, ginibo niya sindang arog sa saiya.
-2: Linalang niya sindang lalaki asin babae, benendisyonan, dangan nginaranan, Katawohan.
-3: Kan syento treynta na an edad ni Adan, nagkaigwa siya nin aking lalaki na arog saiya. Nginaranan niya ining Set.
-4: Dangan nabuhay pa si Adan sa laog nin otso syentos na taon asin nagkaigwa pa nin ibang aking lalaki saka babae
-5: bago siya nagadan sa edad na nwebe syentos treyntang taon.
-6: Kan syento singko na an edad ni Set, nagkaigwa siya nin aking lalaki na iyo si Enos.
-7: Dangan nabuhay pa si Set sa laog nin otso syentos syeteng taon asin nagkaigwa pa nin ibang mga aki
-8: bago siya nagadan sa edad na nwebe syentos doseng taon.
-9: Kan nubentang taon na an edad ni Enos, nagkaigwa siya nin aking lalaki na iyo si Kenan.
-10: Dangan nabuhay pa siya sa laog nin otso syentos kinseng taon asin nagkaigwa pa nin ibang mga aki
-11: bago siya nagadan sa edad na nwebe syentos singkong taon.
-12: Kan setenta na an edad ni Kenan, nagkaigwa siya nin aking lalaki na iyo si Mahalalel.
-13: Dangan nabuhay pa siya sa laog nin otso syentos kwarentang taon asin nagkaigwa pa nin ibang mga aki
-14: bago siya nagadan sa edad na nwebe syentos dyes na taon.
-15: Kan sesenta y singko na an edad ni Mahalalel, nagkaigwa siya nin aking lalaki na iyo si Jared.
-16: Dangan nabuhay pa siya nin otso syentos treyntang taon asin nagkaigwa pa nin ibang mga aki
-17: bago nagadan sa edad na otso syentos nubenta y singkong taon.
-18: Kan syento sesenta y dos na an edad ni Jared, nagkaigwa siya nin aking lalaki na iyo si Enoc.
-19: Dangan nabuhay pa siya sa laog nin otso syentos na taon asin nagkaigwa pa nin ibang mga aki
-20: bago nagadan sa edad na nwebe syentos sesenta y dos na taon.
-21: Kan sesenta y singko na an edad ni Enoc, nagkaigwa siya nin aking lalaki na iyo si Metusela.
-22: Dangan nabuhay pa siya nin tres syentos na taon sa kaibahan nin Dios asin nagkaigwa pa nin ibang mga aki.
-23: Nabuhay siya sagkod sa edad na tres syentos sesenta y singkong taon.
-24: Naglakaw si Enoc sa kaibahan nin Dios dangan nawara siya, huli ta kinua siya nin Dios.
-25: Kan syento otsenta y syeteng taon na an edad ni Metusela, nagkaigwa siya nin aking lalaki na iyo si Lamec.
-26: Dangan nabuhay pa siya nin syete syentos otsenta y dos na taon asin nagkaigwa pa nin ibang mga aki
-27: bago nagadan sa edad na nwebe syentos sesenta y nwebeng taon.
-28: Kan syento otsenta y dos na an edad ni Lamec, nagkaigwa siya nin sarong aking lalaki.
-29: Nagsabi siya, Hale sa dagang isinumpa nin Kagurangnan , an aking ini madara sato nin kaginhawahan sa gabos nyatong kapagalan; kaya Noe an inginaran niya sa aki.
-30: Nabuhay pa si Lamec sa laog nin kinyentos nubenta y singkong taon asin nagkaigwa pa nin ibang aki.
-31: Nagadan siya sa edad na syete syentos setenta y syeteng taon.
-32: Kinyentos na an edad ni Noe kan siya nagkaigwa nin tolong aking lalaki, si Sem, si Ham asin si Jafet.
+Iyo ini an mga kapagarakian ni Adan. Kan lalangon nin Dios an katawohan, ginibo niya sindang arog sa saiya.
+Linalang niya sindang lalaki asin babae, benendisyonan, dangan nginaranan, Katawohan.
+Kan syento treynta na an edad ni Adan, nagkaigwa siya nin aking lalaki na arog saiya. Nginaranan niya ining Set.
+Dangan nabuhay pa si Adan sa laog nin otso syentos na taon asin nagkaigwa pa nin ibang aking lalaki saka babae
+bago siya nagadan sa edad na nwebe syentos treyntang taon.
+Kan syento singko na an edad ni Set, nagkaigwa siya nin aking lalaki na iyo si Enos.
+Dangan nabuhay pa si Set sa laog nin otso syentos syeteng taon asin nagkaigwa pa nin ibang mga aki
+bago siya nagadan sa edad na nwebe syentos doseng taon.
+Kan nubentang taon na an edad ni Enos, nagkaigwa siya nin aking lalaki na iyo si Kenan.
+Dangan nabuhay pa siya sa laog nin otso syentos kinseng taon asin nagkaigwa pa nin ibang mga aki
+bago siya nagadan sa edad na nwebe syentos singkong taon.
+Kan setenta na an edad ni Kenan, nagkaigwa siya nin aking lalaki na iyo si Mahalalel.
+Dangan nabuhay pa siya sa laog nin otso syentos kwarentang taon asin nagkaigwa pa nin ibang mga aki
+bago siya nagadan sa edad na nwebe syentos dyes na taon.
+Kan sesenta y singko na an edad ni Mahalalel, nagkaigwa siya nin aking lalaki na iyo si Jared.
+Dangan nabuhay pa siya nin otso syentos treyntang taon asin nagkaigwa pa nin ibang mga aki
+bago nagadan sa edad na otso syentos nubenta y singkong taon.
+Kan syento sesenta y dos na an edad ni Jared, nagkaigwa siya nin aking lalaki na iyo si Enoc.
+Dangan nabuhay pa siya sa laog nin otso syentos na taon asin nagkaigwa pa nin ibang mga aki
+bago nagadan sa edad na nwebe syentos sesenta y dos na taon.
+Kan sesenta y singko na an edad ni Enoc, nagkaigwa siya nin aking lalaki na iyo si Metusela.
+Dangan nabuhay pa siya nin tres syentos na taon sa kaibahan nin Dios asin nagkaigwa pa nin ibang mga aki.
+Nabuhay siya sagkod sa edad na tres syentos sesenta y singkong taon.
+Naglakaw si Enoc sa kaibahan nin Dios dangan nawara siya, huli ta kinua siya nin Dios.
+Kan syento otsenta y syeteng taon na an edad ni Metusela, nagkaigwa siya nin aking lalaki na iyo si Lamec.
+Dangan nabuhay pa siya nin syete syentos otsenta y dos na taon asin nagkaigwa pa nin ibang mga aki
+bago nagadan sa edad na nwebe syentos sesenta y nwebeng taon.
+Kan syento otsenta y dos na an edad ni Lamec, nagkaigwa siya nin sarong aking lalaki.
+Nagsabi siya, Hale sa dagang isinumpa nin Kagurangnan , an aking ini madara sato nin kaginhawahan sa gabos nyatong kapagalan; kaya Noe an inginaran niya sa aki.
+Nabuhay pa si Lamec sa laog nin kinyentos nubenta y singkong taon asin nagkaigwa pa nin ibang aki.
+Nagadan siya sa edad na syete syentos setenta y syeteng taon.
+Kinyentos na an edad ni Noe kan siya nagkaigwa nin tolong aking lalaki, si Sem, si Ham asin si Jafet.
