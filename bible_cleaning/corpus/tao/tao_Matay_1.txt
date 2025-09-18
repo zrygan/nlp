@@ -1,26 +1,26 @@
-1: O yamalavat rana ngarangaran do jya am ineynapo na ni Yeso Kizisto a sivovoong na ni Tawey. Si Tawey am sivovoong na ni Apolahan.
-2: O anak na ni Apolahan am si Isa. O anak na ni Isa am si Yakebo. O anak na ni Yakebo am si Yoda kano kakakteh na.
-3: O anak na ni Yoda kani Tama am si Veyletse a kani Syala. O anak na ni Veyletse am si Heselon. O anak na ni Heselon am si Yalan.
-4: O anak na ni Yalan am si Aminata. O anak na ni Aminata am si Nason. O anak na ni Nason am si Saarmen.
-5: O anak na ni Saarmen a kani Laha am si Poatse. O anak na ni Poatse a kani Lote am si Opeyte. O anak na ni Opeyte am si Yesi.
-6: O anak na ni Yesi am si Tawey.
-: O anak na ni Tawey am si Solomen. O ina na am mina mavakes na ni Odiya.
-7: O anak na ni Solomen am si Lopoan. O anak na ni Lopoan am si Apiya. O anak na ni Apiya am si Yasa.
-8: O anak na ni Yasa am si Yesava. O anak na ni Yesava am si Yelan. O anak na ni Yelan am si Ociya.
-9: O anak na ni Ociya am si Yetan. O anak na ni Yetan am si Ahatse. O anak na ni Ahatse am si Sisicya.
-10: O anak na ni Sisicya am si Manase. O anak na ni Manase am si Amen. O anak na ni Amen am si Yeseya.
-11: No karakep da so Isedi a tao a yangay do Papilon am meytaodtod si Yeseya. O anak na am si Yoyacin a kano kakakteh na.
-12: Yangay da sira do Papilon am meytaodtod si Yekeniya. O anak na am si Salati. O anak na ni Salati am si Solopapey.
-13: O anak na ni Solopapey am si Apio. O anak na ni Apio am si Idiacing. O anak na ni Idiacing am si Aso.
-14: O anak na ni Aso am si Sato. O anak na ni Sato am si Asin. O anak na ni Asin am si Idio.
-15: O anak na ni Idio am si Idiasa. O anak na ni Idiasa am si Matan. O anak na ni Matan am si Yakebo.
-16: O anak na ni Yakebo am si Yoseyvo a kahanghangan ni Madiya. O meyngaran si Yeso am anak na ni Madiya. Si Yeso am Misayya.
-17: No ko vilangan am no yapwen ji Apolahan a kangay na ji Tawey am apat o ikarwa na 14 no katatapilan da rana. No yapwen ji Tawey a kangay na do nirakpan da so Isedi a yangay do Papilon am akman sang a apat so ikarwa 14 so katatapilan sira. No vilangan o niyan da no Isedi a tao do Papilon a kangay na do cinatazak na no Misayya am akman sang, ta apat so ikarwa 14 o katatapilan da.
-18: Kasasaodan ni Yeso Kizisto no katazak na. Si Madiya a ina na a nitamtamkan ni Yoseyvo am ji pa nizomagpit do vahay da am katenngan na rana ni Madiya o kapangalavat na so metdeh, do kowyat na jya no Seyzi na ni Ama ta do to.
-19: O mangay na seksekan a tao a meyngaran so Yoseyvo am tey yapya o ahahapan na so vazay na do icyatatao na. Am ori o naknakman na sya do onowned na so kato na rana ngaolyan so tamtamek da. Ta ji nakzan o kapeyrengerengay da jya no tao a katenngan.
-20: Naknakmen na o akman sang a vazay am mangay na patateynepan no tinsi ni Ama ta do to. Maniring am, Mo Yoseyvo a sivovoong ni Tawey, ji ka nyahey. Ta ahapen mo si Madiya kataned mo do vahay. Ta o na alavaten am yapo do Seyzi na ni Ama ta do to.
-21: Si Madiya am mangahanas so mahakay. No si malikey am ingaran mo jya si Yeso, ta iya o mapatastas so omraralay nya tao do peyraratenan da.
-22: O aro a vazay eya am todey mangononong do mina ciring no panoyonoywan na so ciring ni Ama ta do to. Ta o mina ciring na am,
-23: Amyan so ji meylimoteng so onowned a mavakes a mangalavat so mahakay. O ngaran na am Imaneydi. O peypeypangayan na am, Macilovot jyaten si Ama ta do to.
-24: Mayokay si Yoseyvo am to na mangozai o mina ciring na jya no tinsi na ni Ama ta do to a mapasakay si Madiya.
-25: Am no kaji na pa tazakan no kanakan a mahakay am ji pa nimacitovong si Yoseyvo ji Madiya. Matazak rana a tao o kanakan am ngaranan na ni Yoseyvo a si Yeso.
+O yamalavat rana ngarangaran do jya am ineynapo na ni Yeso Kizisto a sivovoong na ni Tawey. Si Tawey am sivovoong na ni Apolahan.
+O anak na ni Apolahan am si Isa. O anak na ni Isa am si Yakebo. O anak na ni Yakebo am si Yoda kano kakakteh na.
+O anak na ni Yoda kani Tama am si Veyletse a kani Syala. O anak na ni Veyletse am si Heselon. O anak na ni Heselon am si Yalan.
+O anak na ni Yalan am si Aminata. O anak na ni Aminata am si Nason. O anak na ni Nason am si Saarmen.
+O anak na ni Saarmen a kani Laha am si Poatse. O anak na ni Poatse a kani Lote am si Opeyte. O anak na ni Opeyte am si Yesi.
+O anak na ni Yesi am si Tawey.
+O anak na ni Tawey am si Solomen. O ina na am mina mavakes na ni Odiya.
+O anak na ni Solomen am si Lopoan. O anak na ni Lopoan am si Apiya. O anak na ni Apiya am si Yasa.
+O anak na ni Yasa am si Yesava. O anak na ni Yesava am si Yelan. O anak na ni Yelan am si Ociya.
+O anak na ni Ociya am si Yetan. O anak na ni Yetan am si Ahatse. O anak na ni Ahatse am si Sisicya.
+O anak na ni Sisicya am si Manase. O anak na ni Manase am si Amen. O anak na ni Amen am si Yeseya.
+No karakep da so Isedi a tao a yangay do Papilon am meytaodtod si Yeseya. O anak na am si Yoyacin a kano kakakteh na.
+Yangay da sira do Papilon am meytaodtod si Yekeniya. O anak na am si Salati. O anak na ni Salati am si Solopapey.
+O anak na ni Solopapey am si Apio. O anak na ni Apio am si Idiacing. O anak na ni Idiacing am si Aso.
+O anak na ni Aso am si Sato. O anak na ni Sato am si Asin. O anak na ni Asin am si Idio.
+O anak na ni Idio am si Idiasa. O anak na ni Idiasa am si Matan. O anak na ni Matan am si Yakebo.
+O anak na ni Yakebo am si Yoseyvo a kahanghangan ni Madiya. O meyngaran si Yeso am anak na ni Madiya. Si Yeso am Misayya.
+No ko vilangan am no yapwen ji Apolahan a kangay na ji Tawey am apat o ikarwa na 14 no katatapilan da rana. No yapwen ji Tawey a kangay na do nirakpan da so Isedi a yangay do Papilon am akman sang a apat so ikarwa 14 so katatapilan sira. No vilangan o niyan da no Isedi a tao do Papilon a kangay na do cinatazak na no Misayya am akman sang, ta apat so ikarwa 14 o katatapilan da.
+Kasasaodan ni Yeso Kizisto no katazak na. Si Madiya a ina na a nitamtamkan ni Yoseyvo am ji pa nizomagpit do vahay da am katenngan na rana ni Madiya o kapangalavat na so metdeh, do kowyat na jya no Seyzi na ni Ama ta do to.
+O mangay na seksekan a tao a meyngaran so Yoseyvo am tey yapya o ahahapan na so vazay na do icyatatao na. Am ori o naknakman na sya do onowned na so kato na rana ngaolyan so tamtamek da. Ta ji nakzan o kapeyrengerengay da jya no tao a katenngan.
+Naknakmen na o akman sang a vazay am mangay na patateynepan no tinsi ni Ama ta do to. Maniring am, Mo Yoseyvo a sivovoong ni Tawey, ji ka nyahey. Ta ahapen mo si Madiya kataned mo do vahay. Ta o na alavaten am yapo do Seyzi na ni Ama ta do to.
+Si Madiya am mangahanas so mahakay. No si malikey am ingaran mo jya si Yeso, ta iya o mapatastas so omraralay nya tao do peyraratenan da.
+O aro a vazay eya am todey mangononong do mina ciring no panoyonoywan na so ciring ni Ama ta do to. Ta o mina ciring na am,
+Amyan so ji meylimoteng so onowned a mavakes a mangalavat so mahakay. O ngaran na am Imaneydi. O peypeypangayan na am, Macilovot jyaten si Ama ta do to.
+Mayokay si Yoseyvo am to na mangozai o mina ciring na jya no tinsi na ni Ama ta do to a mapasakay si Madiya.
+Am no kaji na pa tazakan no kanakan a mahakay am ji pa nimacitovong si Yoseyvo ji Madiya. Matazak rana a tao o kanakan am ngaranan na ni Yoseyvo a si Yeso.

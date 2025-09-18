@@ -1,20 +1,20 @@
-1: Hadto nga panahon nagdamo na an mga tawo ha bug-os nga kalibutan, ngan may-ada nira mga anak nga kababayen-an.
-2: Hinkit-an hin pira nga mga langitnon nga binuhat nga maghusay ini nga kababayen-an, sanglit pinangasawa nira an ira naruyagan.
-3: Niyan nagsiring an Ginoo , Diri ako matugot nga mabuhi hin kadayonan an mga tawo kay may-ada nira kamatayon. Tikang yana diri na hira mabubuhi kapin hin 120 ka tuig.
-4: Hadto nga mga adlaw, ngan bisan ha orhe na, may-ada mga higante dinhe ha tuna, nga mga tulin hin kababayen-an nga sugad ha aton ngan hin mga langitnon nga mga binuhat. Amo hira an mga gamhanan ngan bantogan nga kalalaken-an hadto nga kadaan nga panahon.
-5: Han pakasabot han Ginoo nga uraura na hin kamagraot an ngatanan nga mga tawo ha tuna, ngan dayuday mangil-ad an ira mga panhunahuna,
-6: nagbasol hiya nga iya ginhimo hira ngan iginbutang hira dinhe han tuna. Dako gud an iya pagbasol,
-7: sanglit nakasiring hiya, Pagpupuohon ko ini nga mga tawo nga akon gintuha, pati an kamanampan, ngan an katamsihan, kay nagbabasol ako nga ginhimo ko hira.
-8: Kundi hi Noe nakalipay han Ginoo .
-910: Amo ini an susumaton mahitungod kan Noe. May-ada hiya tulo nga mga anak nga kalalaken-an: hira Sem, Ham, ug Jafet. Matadong nga tawo hi Noe ha atubangan han Dyos ngan maupay gud nga tawo hadto nga panahon. Nag-ukoy hiya hin kinabuhi nga nakalipay han Dyos,
-11: kundi magraot gud an ngatanan nga iba nga mga tawo ha atubangan han Dyos, ngan nakaluob na an ira kamaraot ha ngatanan nga dapit.
-12: Kinmita an Dyos han kalibutan ngan hinsabotan niya nga maraot gud ini, kay diri na matadong an kinabuhi han ngatanan nga mga tawo.
-13: Nagsiring an Dyos kan Noe, Karuyag ko na gud pagpuo han ngatanan nga mga tawo. Pagpupuohon ko hira, kay puno na an kalibutan han ira magraot nga mga binuhatan.
-14: Paghimo hin arka para ha imo ngahaw tikang hin pinili nga kahoy; himoi ini hin mga kwarto, ngan buliha ini hin alkitran ha sulod ngan ha gawas.
-15: Himoa ini nga 133 ka metros an kahilaba, 22 ka metros an kahiluag, ngan 13 ka metros an kahitaas.
-16: Himoi hin atop an arka, ngan lat-angi hin 44 ka sentimetros tikang han atop ngada han mga ligid han arka. Himoa ini nga tulo ka andana, ngan butangi hin porta dida han kagiliran hini.
-17: Magpapadara ako hin lunop dinhe han tuna basi mapuo an ngatanan nga buhi nga mga binuhat. Magkakamatay an ngatanan dinhe ha tuna,
-18: kundi maghihimo ako ha imo hin ginsabotan. Sulod ikaw ngadto han arka upod an imo asawa, an imo mga anak nga kalalaken-an, ngan an ira kaasaw-an.
-1920: Pagdara upod ha imo ngadto han arka hin lalaki ngan hin babayi han ngatanan nga magkalainlain nga mga mananap, ngan han ngatanan nga magkalainlain nga tamsi, basi diri hira mapuo.
-21: Pagdara han ngatanan nga magkalainlain nga pagkaon para ha imo ngan para ha ira.
-22: Ginbuhat ni Noe an ngatanan nga iginsugo han Dyos.
+Hadto nga panahon nagdamo na an mga tawo ha bug-os nga kalibutan, ngan may-ada nira mga anak nga kababayen-an.
+Hinkit-an hin pira nga mga langitnon nga binuhat nga maghusay ini nga kababayen-an, sanglit pinangasawa nira an ira naruyagan.
+Niyan nagsiring an Ginoo , Diri ako matugot nga mabuhi hin kadayonan an mga tawo kay may-ada nira kamatayon. Tikang yana diri na hira mabubuhi kapin hin 120 ka tuig.
+Hadto nga mga adlaw, ngan bisan ha orhe na, may-ada mga higante dinhe ha tuna, nga mga tulin hin kababayen-an nga sugad ha aton ngan hin mga langitnon nga mga binuhat. Amo hira an mga gamhanan ngan bantogan nga kalalaken-an hadto nga kadaan nga panahon.
+Han pakasabot han Ginoo nga uraura na hin kamagraot an ngatanan nga mga tawo ha tuna, ngan dayuday mangil-ad an ira mga panhunahuna,
+nagbasol hiya nga iya ginhimo hira ngan iginbutang hira dinhe han tuna. Dako gud an iya pagbasol,
+sanglit nakasiring hiya, Pagpupuohon ko ini nga mga tawo nga akon gintuha, pati an kamanampan, ngan an katamsihan, kay nagbabasol ako nga ginhimo ko hira.
+Kundi hi Noe nakalipay han Ginoo .
+Amo ini an susumaton mahitungod kan Noe. May-ada hiya tulo nga mga anak nga kalalaken-an: hira Sem, Ham, ug Jafet. Matadong nga tawo hi Noe ha atubangan han Dyos ngan maupay gud nga tawo hadto nga panahon. Nag-ukoy hiya hin kinabuhi nga nakalipay han Dyos,
+kundi magraot gud an ngatanan nga iba nga mga tawo ha atubangan han Dyos, ngan nakaluob na an ira kamaraot ha ngatanan nga dapit.
+Kinmita an Dyos han kalibutan ngan hinsabotan niya nga maraot gud ini, kay diri na matadong an kinabuhi han ngatanan nga mga tawo.
+Nagsiring an Dyos kan Noe, Karuyag ko na gud pagpuo han ngatanan nga mga tawo. Pagpupuohon ko hira, kay puno na an kalibutan han ira magraot nga mga binuhatan.
+Paghimo hin arka para ha imo ngahaw tikang hin pinili nga kahoy; himoi ini hin mga kwarto, ngan buliha ini hin alkitran ha sulod ngan ha gawas.
+Himoa ini nga 133 ka metros an kahilaba, 22 ka metros an kahiluag, ngan 13 ka metros an kahitaas.
+Himoi hin atop an arka, ngan lat-angi hin 44 ka sentimetros tikang han atop ngada han mga ligid han arka. Himoa ini nga tulo ka andana, ngan butangi hin porta dida han kagiliran hini.
+Magpapadara ako hin lunop dinhe han tuna basi mapuo an ngatanan nga buhi nga mga binuhat. Magkakamatay an ngatanan dinhe ha tuna,
+kundi maghihimo ako ha imo hin ginsabotan. Sulod ikaw ngadto han arka upod an imo asawa, an imo mga anak nga kalalaken-an, ngan an ira kaasaw-an.
+Pagdara upod ha imo ngadto han arka hin lalaki ngan hin babayi han ngatanan nga magkalainlain nga mga mananap, ngan han ngatanan nga magkalainlain nga tamsi, basi diri hira mapuo.
+Pagdara han ngatanan nga magkalainlain nga pagkaon para ha imo ngan para ha ira.
+Ginbuhat ni Noe an ngatanan nga iginsugo han Dyos.

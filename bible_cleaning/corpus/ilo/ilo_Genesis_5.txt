@@ -1,32 +1,32 @@
-1: Daytoy ti listaan dagiti kaputotan ni Adan. Idi parsuaen ti Dios ti tao, inaramidna a kas kenkuana.
-2: Nangparsua iti lalaki ken babai. Binendisionan ken pinanagananna ida iti Tao.
-3: Idi agtawen ni Adan iti 130, naparaburan iti anak a lalaki a kas kenkuana, ket pinanagananna iti Set.
-4: Nagbiag pay ni Adan iti 800 a tawen. Adda pay dadduma nga annakna.
-5: Natay idi agtawen iti 930.
-6: Idi agtawen ni Set iti 105, naparaburan iti anak a lalaki a pinanagananna iti Enos.
-7: Nagbiag pay iti 807 a tawen. Adda pay dadduma nga annakna.
-8: Natay idi agtawen iti 912.
-9: Idi agtawen ni Enos iti 90, naparaburan iti anak a lalaki a pinanagananna iti Kenan.
-10: Nagbiag pay iti 815 a tawen. Adda pay dadduma nga annakna.
-11: Natay idi agtawen iti 905.
-12: Idi agtawen ni Kenan iti 70, naparaburan iti anak a lalaki a pinanagananna iti Mahalalel.
-13: Nagbiag pay iti 840 a tawen. Adda pay dadduma nga annakna.
-14: Natay idi agtawen iti 910.
-15: Idi agtawen ni Mahalalel iti 65, naparaburan iti anak a lalaki a pinanagananna iti Jared.
-16: Nagbiag pay iti 830 a tawen. Adda pay dadduma nga annakna.
-17: Natay idi agtawen iti 895.
-18: Idi agtawen ni Jared iti 162, naparaburan iti anak a lalaki a pinanagananna iti Enoc.
-19: Nagbiag pay iti 800 a tawen. Adda pay dadduma nga annakna.
-20: Natay idi agtawen iti 962.
-21: Idi agtawen ni Enoc iti 65, naparaburan iti anak a lalaki a pinanagananna iti Matusalem.
-22: Nagbiag ni Enoc a nakikadkadua iti Dios iti 300 a tawen. Adda pay dadduma nga annakna.
-23: Kalpasanna, nagbiag pay iti 365 a tawen.
-24: Nagbiag iti sidong ti Dios. Kalpasanna, nagpukaw, agsipud ta innala ti Dios.
-25: Idi agtawen ni Matusalem iti 187, naparaburan iti anak a lalaki a pinanagananna iti Lamec.
-26: Nagbiag pay iti 782 a tawen. Adda pay dadduma nga annakna.
-27: Natay idi agtawen iti 969.
-28: Idi agtawen ni Lamec iti 182, naparaburan iti anak a lalaki.
-29: Kinuna ni Lamec, Manipud iti daga nga inlunod ti Apo , mangyeg daytoy nga ubing iti gin-awa kadagiti amin a nadagsen a trabahotayo. Isu a pinanagananna iti Noe.
-30: Nagbiag pay ni Lamec iti 595 a tawen. Adda pay dadduma nga annakna.
-31: Natay idi agtawen iti 777.
-32: Agtawen ni Noe iti 500 idi naparaburan iti tallo nga annak a lallaki: da Sem, Ham ken Jafet.
+Daytoy ti listaan dagiti kaputotan ni Adan. Idi parsuaen ti Dios ti tao, inaramidna a kas kenkuana.
+Nangparsua iti lalaki ken babai. Binendisionan ken pinanagananna ida iti Tao.
+Idi agtawen ni Adan iti 130, naparaburan iti anak a lalaki a kas kenkuana, ket pinanagananna iti Set.
+Nagbiag pay ni Adan iti 800 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 930.
+Idi agtawen ni Set iti 105, naparaburan iti anak a lalaki a pinanagananna iti Enos.
+Nagbiag pay iti 807 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 912.
+Idi agtawen ni Enos iti 90, naparaburan iti anak a lalaki a pinanagananna iti Kenan.
+Nagbiag pay iti 815 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 905.
+Idi agtawen ni Kenan iti 70, naparaburan iti anak a lalaki a pinanagananna iti Mahalalel.
+Nagbiag pay iti 840 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 910.
+Idi agtawen ni Mahalalel iti 65, naparaburan iti anak a lalaki a pinanagananna iti Jared.
+Nagbiag pay iti 830 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 895.
+Idi agtawen ni Jared iti 162, naparaburan iti anak a lalaki a pinanagananna iti Enoc.
+Nagbiag pay iti 800 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 962.
+Idi agtawen ni Enoc iti 65, naparaburan iti anak a lalaki a pinanagananna iti Matusalem.
+Nagbiag ni Enoc a nakikadkadua iti Dios iti 300 a tawen. Adda pay dadduma nga annakna.
+Kalpasanna, nagbiag pay iti 365 a tawen.
+Nagbiag iti sidong ti Dios. Kalpasanna, nagpukaw, agsipud ta innala ti Dios.
+Idi agtawen ni Matusalem iti 187, naparaburan iti anak a lalaki a pinanagananna iti Lamec.
+Nagbiag pay iti 782 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 969.
+Idi agtawen ni Lamec iti 182, naparaburan iti anak a lalaki.
+Kinuna ni Lamec, Manipud iti daga nga inlunod ti Apo , mangyeg daytoy nga ubing iti gin-awa kadagiti amin a nadagsen a trabahotayo. Isu a pinanagananna iti Noe.
+Nagbiag pay ni Lamec iti 595 a tawen. Adda pay dadduma nga annakna.
+Natay idi agtawen iti 777.
+Agtawen ni Noe iti 500 idi naparaburan iti tallo nga annak a lallaki: da Sem, Ham ken Jafet.

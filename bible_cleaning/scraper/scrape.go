@@ -43,7 +43,8 @@ func scrapeChapter(chapterURL string, cleaningConfig *[]types.FindReplaceTuple[*
 		})
 
 		if len(verseTexts) > 0 {
-			verses = append(verses, fmt.Sprintf("%s: %s", verseNumber, strings.Join(verseTexts, " ")))
+			// remove the verseNumber here.
+			verses = append(verses, fmt.Sprintf("%s", strings.Join(verseTexts, " ")))
 		}
 	})
 

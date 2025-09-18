@@ -1,32 +1,32 @@
-1: Idi un-unana, maymaysa ti lengguahe dagiti tattao iti entero a lubong ket agpapada dagiti sao nga usarenda.
-2: Iti panagturongda iti daya, dimtengda iti maysa a daga iti Siniar ket nagnaedda sadiay.
-3: Nagtutulagda nga agaramid iti adu a ladrilio ket lutuenda a naimbag tapno tumangken. Ket naaddaanda kadagiti ladrilio a pagbangonda ken alketran a pannakasementoda.
-4: Kinunada, Ita, mangbangontayo iti siudad nga addaan iti torre a dumanon idiay langit tapno agbalintayo a nalatak ket ditay masinasina iti entero a daga.
-5: Bimmaba ni Yahweh tapno kitaenna ti siudad ken ti torre a binangon dagitoy a tattao.
-6: Kinunana, Sangsangkamaysa dagitoy a tattao ket maymaysa ti pagsasaoda. Pangrugian la daytoy ti panggepda nga aramiden. Kabaelandanton nga aramiden ti aniaman a kaykayatda.
-7: Bumabatayo ket kirokiroentayo ti pagsasaoda tapno dida agkikinnaawatan.
-8: Iti kasta, inwaras ida ni Yahweh iti entero a daga ket naisardeng ti pannakabangon ti siudad.
-9: Napanaganan ti siudad iti Babel agsipud ta kinirokiro ni Yahweh ti pagsasao dagiti amin a tattao ket manipud sadiay, impanna ida iti nadumaduma a paset ti daga.
-10: Dagitoy dagiti kaputotan ni Sem. Dua a tawen kalpasan ti layus, naparaburan iti anak a lalaki a napanaganan iti Arpaksad. Agtawen idin ni Sem iti sangagasut.
-11: Nagbiag pay ni Sem iti 500 a tawen ket naaddaan pay iti dadduma nga annak.
-12: Idi agtawen ni Arpaksad iti 35, naparaburan iti anak a lalaki, ni Sela.
-13: Nagbiag pay ni Arpaksad iti 403 a tawen ket naaddaan iti dadduma nga annak.
-14: Idi agtawen ni Sela iti tallopulo, naparaburan iti anak a lalaki, ni Eber.
-15: Nagbiag pay ni Sela iti 403 a tawen ket naaddaan pay iti dadduma nga annak.
-16: Idi agtawen ni Eber iti 34, naparaburan iti anak a lalaki, ni Peleg.
-17: Nagbiag pay ni Eber iti 430 a tawen ket naaddaan pay iti dadduma nga annak.
-18: Idi agtawen ni Peleg iti tallopulo, naparaburan iti anak a lalaki, ni Reu.
-19: Nagbiag pay ni Peleg iti 209 a tawen ket naaddaan pay iti dadduma nga annak.
-20: Idi agtawen ni Reu iti 32, naparaburan iti anak a lalaki, ni Serug.
-21: Nagbiag pay ni Reu iti 207 a tawen ket naaddaan pay iti dadduma nga annak.
-22: Idi agtawen ni Serug iti tallopulo, naparaburan iti anak a lalaki, ni Nahor.
-23: Nagbiag pay ni Serug iti 200 a tawen ket naaddaan pay iti dadduma nga annak.
-24: Idi agtawen ni Nahor iti 29, naparaburan iti anak a lalaki, ni Tera.
-25: Nagbiag pay ni Nahor iti 119 a tawen ket naaddaan pay iti dadduma nga annak.
-26: Idi agtawen ni Tera iti pitopulo, naparaburan kadagiti lallaki nga annak, da Abram, Nahor ken Haran.
-27: Dagitoy dagiti kaputotan ni Tera: Ni Tera ti ama da Abram, Nahor ken Haran. Ni Haran ti ama ni Lot.
-28: Natay ni Haran iti ili a nakayanakanna, idiay Ur iti Caldea. Sibibiag pay idi ni amana.
-29: Inasawa ni Abram ni Sarai. Inasawa ni Nahor ni Milca nga anak ni Haran nga ama ni Isca.
-30: Lupes idi ni Sarai.
-31: Pimmanaw ni Tera idiay Ur. Kinakuyogna ni Abram nga anakna, ni Lot nga apokona nga anak ni Haran agraman ti manugangna nga asawa ni Abram. Agturongda idiay Canaan, ngem idi dumanonda idiay Haran, nagsardengda ket sadiay ti nagnaedanda.
-32: Sadiay ti nakatayan ni Tera idi agtawen iti 205.
+Idi un-unana, maymaysa ti lengguahe dagiti tattao iti entero a lubong ket agpapada dagiti sao nga usarenda.
+Iti panagturongda iti daya, dimtengda iti maysa a daga iti Siniar ket nagnaedda sadiay.
+Nagtutulagda nga agaramid iti adu a ladrilio ket lutuenda a naimbag tapno tumangken. Ket naaddaanda kadagiti ladrilio a pagbangonda ken alketran a pannakasementoda.
+Kinunada, Ita, mangbangontayo iti siudad nga addaan iti torre a dumanon idiay langit tapno agbalintayo a nalatak ket ditay masinasina iti entero a daga.
+Bimmaba ni Yahweh tapno kitaenna ti siudad ken ti torre a binangon dagitoy a tattao.
+Kinunana, Sangsangkamaysa dagitoy a tattao ket maymaysa ti pagsasaoda. Pangrugian la daytoy ti panggepda nga aramiden. Kabaelandanton nga aramiden ti aniaman a kaykayatda.
+Bumabatayo ket kirokiroentayo ti pagsasaoda tapno dida agkikinnaawatan.
+Iti kasta, inwaras ida ni Yahweh iti entero a daga ket naisardeng ti pannakabangon ti siudad.
+Napanaganan ti siudad iti Babel agsipud ta kinirokiro ni Yahweh ti pagsasao dagiti amin a tattao ket manipud sadiay, impanna ida iti nadumaduma a paset ti daga.
+Dagitoy dagiti kaputotan ni Sem. Dua a tawen kalpasan ti layus, naparaburan iti anak a lalaki a napanaganan iti Arpaksad. Agtawen idin ni Sem iti sangagasut.
+Nagbiag pay ni Sem iti 500 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Arpaksad iti 35, naparaburan iti anak a lalaki, ni Sela.
+Nagbiag pay ni Arpaksad iti 403 a tawen ket naaddaan iti dadduma nga annak.
+Idi agtawen ni Sela iti tallopulo, naparaburan iti anak a lalaki, ni Eber.
+Nagbiag pay ni Sela iti 403 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Eber iti 34, naparaburan iti anak a lalaki, ni Peleg.
+Nagbiag pay ni Eber iti 430 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Peleg iti tallopulo, naparaburan iti anak a lalaki, ni Reu.
+Nagbiag pay ni Peleg iti 209 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Reu iti 32, naparaburan iti anak a lalaki, ni Serug.
+Nagbiag pay ni Reu iti 207 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Serug iti tallopulo, naparaburan iti anak a lalaki, ni Nahor.
+Nagbiag pay ni Serug iti 200 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Nahor iti 29, naparaburan iti anak a lalaki, ni Tera.
+Nagbiag pay ni Nahor iti 119 a tawen ket naaddaan pay iti dadduma nga annak.
+Idi agtawen ni Tera iti pitopulo, naparaburan kadagiti lallaki nga annak, da Abram, Nahor ken Haran.
+Dagitoy dagiti kaputotan ni Tera: Ni Tera ti ama da Abram, Nahor ken Haran. Ni Haran ti ama ni Lot.
+Natay ni Haran iti ili a nakayanakanna, idiay Ur iti Caldea. Sibibiag pay idi ni amana.
+Inasawa ni Abram ni Sarai. Inasawa ni Nahor ni Milca nga anak ni Haran nga ama ni Isca.
+Lupes idi ni Sarai.
+Pimmanaw ni Tera idiay Ur. Kinakuyogna ni Abram nga anakna, ni Lot nga apokona nga anak ni Haran agraman ti manugangna nga asawa ni Abram. Agturongda idiay Canaan, ngem idi dumanonda idiay Haran, nagsardengda ket sadiay ti nagnaedanda.
+Sadiay ti nakatayan ni Tera idi agtawen iti 205.

@@ -1,33 +1,33 @@
-1: Intugot ni Jose ti lima kadagiti kakabsatna ket napan iti ari. Imbagana kenkuana, Simmangpeten ni tatang ken dagiti kakabsatko a naggapu idiay Canaan. Inkuyogda dagiti arbanda ken ti amin a sanikuada. Addada ita iti deppaar ti Gosen.
-2: Ket indatagna dagiti kakabsatna iti ari.
-3: Ania ti trabahoyo? sinaludsod ti ari kadakuada.
-: Insungbatda, Agpaspastorkami a kas kadagiti kapuonanmi, apo.
-4: Immaykam agnaed ditoy, apo, gapu ta nakaro unay ti bisin idiay Canaan ket awanen ti pangipastoranmi kadagiti arbanmi. Palubosannakami koma nga agnaed idiay Gosen.
-5: Kinuna ti ari ken ni Jose, Ita ta simmangpeten ni tatangmo ken dagiti kakabsatmo,
-6: ibilangda koma a kukuada ti Egipto. Pagnaedem ida iti kasayaatan a paset ti pagilian, iti daga ti Gosen. Ket no adda dagiti makabael kadakuada, isaadmo ida nga agaywan kadagiti animalko.
-7: Kalpasanna, indatag ni Jose ti amana iti ari. Kinablaawan ni Jacob ti ari.
-8: Mano ti tawenmon? sinaludsod ti ari.
-9: Insungbat ni Jacob, Aganay a sangagasut ket tallopulo a tawenen nga agalla-allaak iti rabaw ti daga. Bassit ken narigat dagiti tawen a panagbiagko, saan a kas kapaut ti panagbiag dagiti kapuonak.
-10: Binendisionan ni Jacob ti ari ket kalpasanna pimmanaw.
-11: Pinagtaeng ni Jose ni tatangna ken dagiti kakabsatna iti Egipto. Kas imbilin ti ari, inikkanna ida iti daga iti kasayaatan a paset ti pagilian, iti asideg ti siudad ti Rameses.
-12: Inikkan ni Jose ni tatangna iti taraon, dagiti kakabsatna ken amin a familia ti amana agraman ti kaubingan.
-13: Awanen ti masarakan a taraon ket kasta unayen ti panagbisin dagiti tattao ti Egipto ken Canaan.
-14: Tunggal adda gumatang iti irik, alaen ni Jose ti kuarta a paglakoan sana ipan iti palasio.
-15: Idi awanen ti igatang dagiti tattao iti irik, napan dagiti Egipcio kenkuana ket kinunada, Naibusen ti kuartami. Ikkannakami koma iti makan, ta mataykamin iti bisin.
-16: Insungbat ni Jose, No awanen ti kuartayo, yegyo dagiti animalyo ta sukatak iti taraon.
-17: Ngarud, impanda kenkuana dagiti animaldakabalio, karnero, kalding, baka, asnoket sinuktanna dagitoy iti makan.
-18: Iti sumuno a tawen, napanda ken ni Jose ket kinunada, Apo, dimi mailibak a naibusen ti kuartami ket naitedmi pay aminen kenka dagiti animalmi. Pulos nga awanen ti nabati kadakami, malaksid dagiti bagimi ken dagiti dagami.
-19: Dimo koma ipalubos a mataykami. Tulongannakami! Dimo ipalubos nga aglangalang dagiti talonmi. Gatangennakami ken dagiti dagami a kas sukat ti taraon. Agbalinkami a tagabu ti ari ket tagikuaenna dagiti dagami. Ikkannakami koma iti irik agraman bukbukel nga imulami kadagiti talonmi tapno dikam matay iti bisin.
-20: Ginatang ni Jose ti amin a talon idiay Egipto para iti ari. Kapilitan nga inlako dagiti Egipcio dagiti talonda gapu ta nakaro unay ti bisin, isu a nagbalin a kukua ti ari ti amin a daga.
-21: Nagbalin a tagabu dagiti tattao iti amin a paset ti Egipto.
-22: Dagiti laeng daga dagiti papadi ti saan a nagatang. Adda ngamin abastoda nga it-ited ti ari ket saan a masapul nga ilakoda ti dagada.
-23: Kinuna ni Jose kadagiti tattao, Kitaenyo, ginatangkayon agraman dagiti dagayo para iti ari. Adtoy dagiti bukel nga imulayo.
-24: Iti tiempo ti panagani, masapul nga itedyo iti ari ti apagkalima ti apit. Mabalinyo nga usaren ti mabati a kas bin-i ken taraon nga agpaay kadakayo a sangafamiliaan.
-25: Insungbatda, Naimbagka unay kadakami, apo. Inispalnakami. Sisasaganakami nga agbalin a tagabu ti ari.
-26: Manipud idin, nagbalin a linteg iti entero nga Egipto ti pannakaited iti ari ti apagkalima ti maapit. Agpapan ita, masursurot pay laeng daytoy a linteg nga impaulog ni Jose. Dagiti laeng daga dagiti papadi ti saan a tinagikua ti ari.
-27: Nagnaed dagiti Israelita iti deppaar ti Gosen idiay Egipto. Bimmaknangda ken immadu dagiti annakda.
-28: Sangapulo ket pito a tawen a nagnaed ni Jacob idiay Egipto agingga a nadanonna ti 147 a tawen.
-29: Idi umasidegen ti ipapatayna, pinaayabanna ni Jose nga anakna ket kinunana, Ikabilmo ti imam iti baet dagiti luppok ket isapatam a dinakto itabon ditoy Egipto.
-30: Kayatko a maitabonak iti nakaitaneman dagidi kapuonak. Ipanawnak ditoy Egipto ket itabonnak iti nakaitanemanda.
-: Aramidek ti dawatmo, ama, insungbat ni Jose.
-31: Kinuna ni Jacob, Isapatam a tungpalem. Nagsapata ni Jose ket nagtamed ni Jacob iti uloanan ti iddana.
+Intugot ni Jose ti lima kadagiti kakabsatna ket napan iti ari. Imbagana kenkuana, Simmangpeten ni tatang ken dagiti kakabsatko a naggapu idiay Canaan. Inkuyogda dagiti arbanda ken ti amin a sanikuada. Addada ita iti deppaar ti Gosen.
+Ket indatagna dagiti kakabsatna iti ari.
+Ania ti trabahoyo? sinaludsod ti ari kadakuada.
+Insungbatda, Agpaspastorkami a kas kadagiti kapuonanmi, apo.
+Immaykam agnaed ditoy, apo, gapu ta nakaro unay ti bisin idiay Canaan ket awanen ti pangipastoranmi kadagiti arbanmi. Palubosannakami koma nga agnaed idiay Gosen.
+Kinuna ti ari ken ni Jose, Ita ta simmangpeten ni tatangmo ken dagiti kakabsatmo,
+ibilangda koma a kukuada ti Egipto. Pagnaedem ida iti kasayaatan a paset ti pagilian, iti daga ti Gosen. Ket no adda dagiti makabael kadakuada, isaadmo ida nga agaywan kadagiti animalko.
+Kalpasanna, indatag ni Jose ti amana iti ari. Kinablaawan ni Jacob ti ari.
+Mano ti tawenmon? sinaludsod ti ari.
+Insungbat ni Jacob, Aganay a sangagasut ket tallopulo a tawenen nga agalla-allaak iti rabaw ti daga. Bassit ken narigat dagiti tawen a panagbiagko, saan a kas kapaut ti panagbiag dagiti kapuonak.
+Binendisionan ni Jacob ti ari ket kalpasanna pimmanaw.
+Pinagtaeng ni Jose ni tatangna ken dagiti kakabsatna iti Egipto. Kas imbilin ti ari, inikkanna ida iti daga iti kasayaatan a paset ti pagilian, iti asideg ti siudad ti Rameses.
+Inikkan ni Jose ni tatangna iti taraon, dagiti kakabsatna ken amin a familia ti amana agraman ti kaubingan.
+Awanen ti masarakan a taraon ket kasta unayen ti panagbisin dagiti tattao ti Egipto ken Canaan.
+Tunggal adda gumatang iti irik, alaen ni Jose ti kuarta a paglakoan sana ipan iti palasio.
+Idi awanen ti igatang dagiti tattao iti irik, napan dagiti Egipcio kenkuana ket kinunada, Naibusen ti kuartami. Ikkannakami koma iti makan, ta mataykamin iti bisin.
+Insungbat ni Jose, No awanen ti kuartayo, yegyo dagiti animalyo ta sukatak iti taraon.
+Ngarud, impanda kenkuana dagiti animaldakabalio, karnero, kalding, baka, asnoket sinuktanna dagitoy iti makan.
+Iti sumuno a tawen, napanda ken ni Jose ket kinunada, Apo, dimi mailibak a naibusen ti kuartami ket naitedmi pay aminen kenka dagiti animalmi. Pulos nga awanen ti nabati kadakami, malaksid dagiti bagimi ken dagiti dagami.
+Dimo koma ipalubos a mataykami. Tulongannakami! Dimo ipalubos nga aglangalang dagiti talonmi. Gatangennakami ken dagiti dagami a kas sukat ti taraon. Agbalinkami a tagabu ti ari ket tagikuaenna dagiti dagami. Ikkannakami koma iti irik agraman bukbukel nga imulami kadagiti talonmi tapno dikam matay iti bisin.
+Ginatang ni Jose ti amin a talon idiay Egipto para iti ari. Kapilitan nga inlako dagiti Egipcio dagiti talonda gapu ta nakaro unay ti bisin, isu a nagbalin a kukua ti ari ti amin a daga.
+Nagbalin a tagabu dagiti tattao iti amin a paset ti Egipto.
+Dagiti laeng daga dagiti papadi ti saan a nagatang. Adda ngamin abastoda nga it-ited ti ari ket saan a masapul nga ilakoda ti dagada.
+Kinuna ni Jose kadagiti tattao, Kitaenyo, ginatangkayon agraman dagiti dagayo para iti ari. Adtoy dagiti bukel nga imulayo.
+Iti tiempo ti panagani, masapul nga itedyo iti ari ti apagkalima ti apit. Mabalinyo nga usaren ti mabati a kas bin-i ken taraon nga agpaay kadakayo a sangafamiliaan.
+Insungbatda, Naimbagka unay kadakami, apo. Inispalnakami. Sisasaganakami nga agbalin a tagabu ti ari.
+Manipud idin, nagbalin a linteg iti entero nga Egipto ti pannakaited iti ari ti apagkalima ti maapit. Agpapan ita, masursurot pay laeng daytoy a linteg nga impaulog ni Jose. Dagiti laeng daga dagiti papadi ti saan a tinagikua ti ari.
+Nagnaed dagiti Israelita iti deppaar ti Gosen idiay Egipto. Bimmaknangda ken immadu dagiti annakda.
+Sangapulo ket pito a tawen a nagnaed ni Jacob idiay Egipto agingga a nadanonna ti 147 a tawen.
+Idi umasidegen ti ipapatayna, pinaayabanna ni Jose nga anakna ket kinunana, Ikabilmo ti imam iti baet dagiti luppok ket isapatam a dinakto itabon ditoy Egipto.
+Kayatko a maitabonak iti nakaitaneman dagidi kapuonak. Ipanawnak ditoy Egipto ket itabonnak iti nakaitanemanda.
+Aramidek ti dawatmo, ama, insungbat ni Jose.
+Kinuna ni Jacob, Isapatam a tungpalem. Nagsapata ni Jose ket nagtamed ni Jacob iti uloanan ti iddana.
