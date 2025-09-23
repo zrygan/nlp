@@ -153,6 +153,11 @@ func main() {
 		getCorpus()
 	case "parallelize":
 		parallizeCorpus()
+	case "sentences":
+		err := processCorpus("corpus", "corpus_sentences")
+		if err != nil {
+			panic(err)
+		}
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}
