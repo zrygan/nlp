@@ -6,6 +6,7 @@ import (
 	"regexp"
 	"sync"
 
+	parallelcorpus "github.com/zrygan.nlp/bible_cleaning/parallelbuilder"
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
 	"github.com/zrygan.nlp/bible_cleaning/types"
 )
@@ -24,6 +25,7 @@ func initialize() (int, map[string]string, map[string]int) {
 		"war": "https://www.bible.com/bible/2198/GEN.1.MBBSAM",
 		"pam": "https://www.bible.com/bible/1141/GEN.1.PMPV",
 		"pag": "https://www.bible.com/bible/2194/GEN.1.MBBPAN83",
+
 		"tiu": "https://www.bible.com/bible/2812/MAT.1.YBT",
 		"cbk": "https://www.bible.com/bible/1129/MAT.1.CBKNT",
 		"prf": "https://www.bible.com/bible/438/MAT.1.PRF",
@@ -102,6 +104,19 @@ func summarizeCorpus(corpusSizes map[string]int) {
 	fmt.Println("Sig", " : ", sum)
 }
 
+func parallizeCorpus() {
+	corpora, err := parallelcorpus.GenerateParallelCorpus()
+	if err != nil {
+		panic(err)
+	}
+
+	for _, c := range corpora {
+		fmt.Printf("%s <--> %s (%d pairs)\n", c.SourceLang, c.TargetLang, len(c.Pairs))
+		err = c.SaveAsJSON(fmt.Sprintf("%s_%s.json", c.SourceLang, c.TargetLang))
+		fmt.Printf("%s\n", err)
+	}
+}
+
 // getCorpus orchestrates the entire process of webscraping and corpus generation
 func getCorpus() {
 	// 1189 is the chapterLimit number of chapters in the English Bible
@@ -124,6 +139,7 @@ func getCorpus() {
 
 	summarizeCorpus(corpusSizes)
 
+	parallizeCorpus()
 }
 
 func main() {
@@ -135,6 +151,8 @@ func main() {
 	switch os.Args[1] {
 	case "corpus":
 		getCorpus()
+	case "parallelize":
+		parallizeCorpus()
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}

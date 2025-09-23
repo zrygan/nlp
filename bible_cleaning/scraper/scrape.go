@@ -61,13 +61,25 @@ func scrapeChapter(chapterURL string, cleaningConfig *[]types.FindReplaceTuple[*
 }
 
 // SaveChapter saves the verses to a file
-func saveChapter(lang types.LanguageClass, chapterName string, verses []string) error {
+func saveChapter(lang types.LanguageClass, chapterName string, verses []string,  url string) error {
 	if chapterName == "" {
 		chapterName = "chapter"
 	}
 
+	cleaningTuples := types.TurnToRegexpsTuple([]types.FindReplaceTuple[string]{
+		{
+			Find:    `(https:\/\/www\.bible\.com\/bible\/[0-9]+\/)`,
+			Replace: "",
+		},
+	})
+
+	for _, tuple := range cleaningTuples {
+		url = tuple.Find.ReplaceAllString(url, tuple.Replace.String())
+	}
+	url = regexp.MustCompile(`(...)`).FindString(url)
+
 	chapterClean := regexp.MustCompile(`[^a-zA-Z0-9_-]+`).ReplaceAllString(chapterName, "_")
-	filename := fmt.Sprintf("%s_%s.txt", lang.Language, chapterClean)
+	filename := fmt.Sprintf("%s_%s_%s.txt", lang.Language, url, chapterClean)
 	filePath := filepath.Join(lang.OutputDir, filename)
 
 	if err := os.MkdirAll(lang.OutputDir, os.ModePerm); err != nil {
@@ -113,7 +125,7 @@ func countWordsFromURL(url string, langClass types.LanguageClass, cleaningConfig
 	}
 
 	if len(verses) > 0 {
-		if err := saveChapter(langClass, chapterName, verses); err != nil {
+		if err := saveChapter(langClass, chapterName, verses, url); err != nil {
 			log.Println("Error saving chapter:", err)
 		}
 	}
