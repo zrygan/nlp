@@ -2,8 +2,11 @@ package main
 
 import (
 	"fmt"
+	"io/fs"
 	"os"
+	"path/filepath"
 	"regexp"
+	"strings"
 	"sync"
 
 	parallelcorpus "github.com/zrygan.nlp/bible_cleaning/parallelbuilder"
@@ -142,6 +145,81 @@ func getCorpus() {
 	parallizeCorpus()
 }
 
+// splitSentences splits the existing corpus into sentences
+func splitSentences(root string) error {
+	var reSentence = regexp.MustCompile(`(G|Gng|Bb)\.|\s*([\?!.])\s*`)    
+    var reNormalize = regexp.MustCompile(`\s+`) 
+
+	return filepath.WalkDir(root, func(path string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if d.IsDir() {
+			return nil
+		}
+
+		data, err := os.ReadFile(path)
+
+		if err != nil {
+			return err
+		}
+
+		text := string(data)
+        text = reNormalize.ReplaceAllString(text, " ")
+		matches := reSentence.FindAllStringSubmatchIndex(text, -1)
+
+		var sentences []string
+		lastEnd := 0
+
+		for _, match := range matches {
+			fullEnd := match[1]
+
+			if match[4] != -1 {
+				sentence := text[lastEnd:match[5]]
+				trimmed := strings.TrimSpace(sentence)
+
+				if trimmed != "" {
+					sentences = append(sentences, trimmed)
+				}
+
+				lastEnd = fullEnd
+
+			} else if match[2] != -1 {
+				lastEnd = fullEnd
+			}
+		}
+
+		remaining := strings.TrimSpace(text[lastEnd:])
+		if remaining != "" {
+			lastSentenceIndex := len(sentences) - 1
+
+			if lastSentenceIndex >= 0 && !strings.HasSuffix(sentences[lastSentenceIndex], ".") &&
+				!strings.HasSuffix(sentences[lastSentenceIndex], "?") &&
+				!strings.HasSuffix(sentences[lastSentenceIndex], "!") {
+				sentences[lastSentenceIndex] += " " + remaining
+			} else {
+				sentences = append(sentences, remaining)
+			}
+		}
+
+		rel, _ := filepath.Rel(root, path)
+		outPath := filepath.Join("corpus_sentences", rel)
+		os.MkdirAll(filepath.Dir(outPath), 0755)
+
+		f, err := os.Create(outPath)
+		if err != nil {
+			return err
+		}
+		defer f.Close()
+
+		for _, s := range sentences {
+			_, _ = f.WriteString(s + "\n")
+		}
+
+		return nil
+	})
+}
+
 func main() {
 
 	if len(os.Args) < 2 {
@@ -154,10 +232,7 @@ func main() {
 	case "parallelize":
 		parallizeCorpus()
 	case "sentences":
-		err := processCorpus("corpus", "corpus_sentences")
-		if err != nil {
-			panic(err)
-		}
+		splitSentences("corpus")
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}
