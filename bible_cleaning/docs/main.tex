@@ -61,8 +61,7 @@ inclusive and enclose a large array of Austronesian sub-groups. The language
 family or phylogenic tree of the sample languages are
 on~\cref{fig:phylo_tree,fig:chavacano_phylo}. As an aside Chavacano is a
 Spanish-based creole (hence, it is not Austronesian) while the Yami language is
-a language of the Taiwanese indigenous people.~\todo{ Maybe add more
-    information here? /zrygan/}
+a language of the Taiwanese indigenous people.
 
 The ISO 639 codes and the Language families are from Ethnologue~\cite{ESF25}.
 \newpage \thispagestyle{empty} \input{assets/phylogenic_tree.tex} \newpage% removes page number for this page
@@ -111,8 +110,6 @@ The source code of the methodology may be accessed in this GitHub repository:
 
 \subsection{Web Scraping and Parsing}
 
-\todo{this is very rough, will work on this more}
-
 Since YouVersion is an online platform written in the Hypertext Markup Language
 (HTML). We started by analyzing the structure of each webpage, pinning down the
 location of the relevant biblical content in each page. In this case, we need
@@ -157,8 +154,7 @@ to as Gen 1:1. For a range of verses we will instead use
 For example, we will use Gen 1:1-3 to refer to the first three verses of
 Genesis chapter 1.
 
-Furthermore, we will only extract all those children-spans\todo{is this the
-    correct word (children-spans)? Maybe sub-spans or nested-spans?} whose class is
+Furthermore, we will only extract all those children-spans whose class is
 prefixed with \texttt{ChapterContent\_content\_\_}. While we will discard the
 rest. For instance, we will disregard the \texttt{CharcterContent\_note\_} tag
 which are notes provided by YouVersion to the reader.
