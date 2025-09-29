@@ -54,7 +54,7 @@ languages are enumerated in~\cref{tab:ph_languages}.
 \footnotetext{The code \texttt{bcl} is also used for the Bikol language.}
 
 To allow for the corpus to be inclusive and enclose a large array of
-Austronsian sub-groups
+Austronesian sub-groups
 
 These languages were selected in such a way that allows for the corpus to be
 inclusive and enclose a large array of Austronesian sub-groups. The language
@@ -101,7 +101,7 @@ the Tausug, Paranan, and Masbatenyo languages.
         Yami language     & \url{https://www.bible.com/bible/2364/MAT.1.SNT}      \\
         \hline
     \end{tabular}
-    \caption{Links to Genesis/Mathew translations in various languages.}
+    \caption{Links to Genesis/Matthew translations in various languages.}
 \end{table}
 
 \section{Corpus Construction}
@@ -248,9 +248,33 @@ if nextURL != "" && !visited[nextURL] {
 
 Finally, concurrency was used to make the algorithm efficient.
 
-\todo{Add segmentation}
+\section{Segmenting the Corpus}
+
+\subsection{Verse Segmenting}
+The verse segmenting is done during the web scraping step. Each verse has regular
+expressions applied in order to clean the text. The regular expressions used are
+enumerated in~\cref{tab:regex}.
+
+
+\subsection{Sentence Segmenting}
+The sentence segmenting takes the existing verse segmentation after being web scraped
+and further segments it into sentences by using a regular expression that matches 
+sentence-ending punctuation marks such as periods, exclamation marks, and question 
+marks. Cases such as titles were accounted for this in this regular expression in 
+order to avoid incorrect segmentation.
 
 \section{Parallel Corpus}
+
+\subsection{Indexing and Methodology}
+
+Indexing was used in order to align the verses of each language. The index was obtained 
+by applying a RegEx on the each respective file in order to determine the language prefix,
+the code for the book, the book name, and the verse number. Through this, we were able to 
+create a unique map that allows us to align the verses of each language.\\
+
+After which, we created a new file for each language that contains the verses that are
+aligned with the other languages. This was done by iterating through the index and checking
+if the verse exists in the respective language file. If it does, we append it to the new file.\\
 
 \bibliography{refs}
 \bibliographystyle{alpha}
