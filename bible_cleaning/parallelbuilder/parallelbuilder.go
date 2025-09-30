@@ -7,24 +7,31 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
-	"sync"
+	"sort"
 	"strings"
+	"sync"
+	"sync/atomic"
+	"time"
+
+	"github.com/zrygan.nlp/bible_cleaning/config"
 )
 
 type ParallelCorpusEntry struct {
-	SourceLang string   `json:"source_lang"`
-	TargetLang string   `json:"target_lang"`
-	Pairs      []TextPair       `json:"pairs"`
+	SourceLang string            `json:"source_lang"`
+	TargetLang string            `json:"target_lang"`
+	Pairs      TextPairArray     `json:"pairs"`
 	Metadata   map[string]string `json:"metadata,omitempty"`
 }
+
+type TextPairArray []TextPair
 
 type TextPair struct {
 	SourceText string `json:"source_text"`
 	TargetText string `json:"target_text"`
-	ID 			 string   `json:"id"`
+	ID         string `json:"id"`
 }
 
-func GetKeys(bibles map[string]map[string]string) []string{
+func GetKeys(bibles map[string]map[string]string) []string {
 	result := make([]string, 0, len(bibles))
 	for key := range bibles {
 		result = append(result, key)
@@ -33,17 +40,17 @@ func GetKeys(bibles map[string]map[string]string) []string{
 }
 
 func LoadParallelCorpus(sourcePath, targetPath, sourceLang, targetLang string) (*ParallelCorpusEntry, error) {
-	corpusPath := "corpus/"
+	corpusPath := config.SRC_PATH + "/"
 
-	sourceFile, err := os.Open(corpusPath+sourcePath)
+	sourceFile, err := os.Open(corpusPath + sourcePath)
 	if err != nil {
-			return nil, fmt.Errorf("failed to open source file: %w", err)
+		return nil, fmt.Errorf("failed to open source file: %w", err)
 	}
 	defer sourceFile.Close()
 
-	targetFile, err := os.Open(corpusPath+targetPath)
+	targetFile, err := os.Open(corpusPath + targetPath)
 	if err != nil {
-			return nil, fmt.Errorf("failed to open target file: %w", err)
+		return nil, fmt.Errorf("failed to open target file: %w", err)
 	}
 	defer targetFile.Close()
 
@@ -51,92 +58,150 @@ func LoadParallelCorpus(sourcePath, targetPath, sourceLang, targetLang string) (
 	targetScanner := bufio.NewScanner(targetFile)
 
 	corpus := &ParallelCorpusEntry{
-			SourceLang: sourceLang,
-			TargetLang: targetLang,
-			Pairs:      []TextPair{},
+		SourceLang: sourceLang,
+		TargetLang: targetLang,
+		Pairs:      []TextPair{},
 	}
-	lineNum := 0 
+	lineNum := 0
 	for sourceScanner.Scan() && targetScanner.Scan() {
 		lineNum++
 		sourceLine := strings.TrimSpace(sourceScanner.Text())
 		targetLine := strings.TrimSpace(targetScanner.Text())
 
 		if sourceLine != "" && targetLine != "" {
-				corpus.Pairs = append(corpus.Pairs, TextPair{
-						SourceText: sourceLine,
-						TargetText: targetLine,
-						ID:     fmt.Sprintf("pair_%d", lineNum),
-				})
+			corpus.Pairs = append(corpus.Pairs, TextPair{
+				SourceText: sourceLine,
+				TargetText: targetLine,
+				ID:         fmt.Sprintf("pair_%d", lineNum),
+			})
 		}
 	}
 
 	// Check for scanning errors
 	if err := sourceScanner.Err(); err != nil {
-			return nil, fmt.Errorf("error reading source file: %w", err)
+		return nil, fmt.Errorf("error reading source file: %w", err)
 	}
 	if err := targetScanner.Err(); err != nil {
-			return nil, fmt.Errorf("error reading target file: %w", err)
+		return nil, fmt.Errorf("error reading target file: %w", err)
 	}
 	return corpus, nil
+}
+
+func (pc TextPairArray) Sort() {
+	sort.Slice(pc, func(i, j int) bool {
+		return pc[i].ID < pc[j].ID
+	})
+}
+
+func (pc *ParallelCorpusEntry) Sort() {
+	pc.Pairs.Sort()
 }
 
 // SaveAsJSON saves the corpus as JSON
 func (pc *ParallelCorpusEntry) SaveAsJSON(path string) error {
 
-		path = filepath.Join("parallel_corpus", path);
+	path = filepath.Join("parallel_corpus", path)
 
-		if err := os.MkdirAll("parallel_corpus", os.ModePerm); err != nil {
-			return err
+	if err := os.MkdirAll("parallel_corpus", os.ModePerm); err != nil {
+		return err
+	}
+
+	file, err := os.Create(path)
+	if err != nil {
+		return fmt.Errorf("failed to JSON file: %w", err)
+	}
+	defer file.Close()
+
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")
+	return encoder.Encode(pc)
+}
+
+func (pc *ParallelCorpusEntry) SaveAsTSV(path string, outDir string) error {
+	path = filepath.Join(outDir, path)
+
+	if err := os.MkdirAll(outDir, os.ModePerm); err != nil {
+		return err
+	}
+
+	file, err := os.Create(path)
+	if err != nil {
+		return fmt.Errorf("failed to create TSV file: %w", err)
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
+
+	// Write header
+	_, err = writer.WriteString("id\tsource_text\ttarget_text\n")
+
+	if err != nil {
+		return fmt.Errorf("failed to write header to TSV file: %w", err)
+	}
+
+	// Write each text pair
+	for _, pair := range pc.Pairs {
+		line := fmt.Sprintf("%s\t%s\t%s\n", pair.ID, transfromEscapeCharTSV(pair.SourceText), transfromEscapeCharTSV(pair.TargetText))
+		_, err = writer.WriteString(line)
+		if err != nil {
+			return fmt.Errorf("failed to write line to TSV file: %w", err)
 		}
+	}
 
-    file, err := os.Create(path)
-    if err != nil {
-        return fmt.Errorf("failed to create file: %w", err)
-    }
-    defer file.Close()
+	return nil
+}
 
-    encoder := json.NewEncoder(file)
-    encoder.SetIndent("", "  ")
-    return encoder.Encode(pc)
+// Transform special characters for TSV format
+func transfromEscapeCharTSV(text string) string {
+	text = strings.ReplaceAll(text, "\t", "<TAB>")
+	text = strings.ReplaceAll(text, "\n", "<NEWLINE>")
+	text = strings.ReplaceAll(text, "\r", "<RETURN>")
+	return text
 }
 
 // Add adds a new text pair to the corpus
 func (pc *ParallelCorpusEntry) Add(source, target, id string) {
-    if id == "" {
-        id = fmt.Sprintf("pair_%d", len(pc.Pairs))
-    }
-    pc.Pairs = append(pc.Pairs, TextPair{
-        SourceText: source,
-        TargetText: target,
-        ID:     id,
-    })
+	if id == "" {
+		id = fmt.Sprintf("pair_%d", len(pc.Pairs))
+	}
+	pc.Pairs = append(pc.Pairs, TextPair{
+		SourceText: source,
+		TargetText: target,
+		ID:         id,
+	})
 }
 
 // Size returns the number of text pairs
 func (pc *ParallelCorpusEntry) Size() int {
-    return len(pc.Pairs)
+	return len(pc.Pairs)
 }
 
 // Filter filters pairs based on a predicate function
 func (pc *ParallelCorpusEntry) Filter(predicate func(TextPair) bool) *ParallelCorpusEntry {
-    filtered := &ParallelCorpusEntry{
-        SourceLang: pc.SourceLang,
-        TargetLang: pc.TargetLang,
-        Metadata:   pc.Metadata,
-        Pairs:      []TextPair{},
-    }
+	filtered := &ParallelCorpusEntry{
+		SourceLang: pc.SourceLang,
+		TargetLang: pc.TargetLang,
+		Metadata:   pc.Metadata,
+		Pairs:      []TextPair{},
+	}
 
-    for _, pair := range pc.Pairs {
-        if predicate(pair) {
-            filtered.Pairs = append(filtered.Pairs, pair)
-        }
-    }
+	for _, pair := range pc.Pairs {
+		if predicate(pair) {
+			filtered.Pairs = append(filtered.Pairs, pair)
+		}
+	}
 
-    return filtered
+	return filtered
 }
 
+/*
+Makes an index of files in the corpus directory
+Args:
+  - root (string): the root directory of the corpus
 
-// fileIndex: lang -> verseID -> filepath
+Returns a map of language -> (map of verseID -> file path)
+*/
 func indexFiles(root string) (map[string]map[string]string, error) {
 	files, err := filepath.Glob(root + "/*/*.txt")
 	if err != nil {
@@ -163,10 +228,21 @@ func indexFiles(root string) (map[string]map[string]string, error) {
 		}
 		index[lang][verseID] = file
 	}
+
 	return index, nil
 }
+
+func printProgress(current int32, total *int32, start time.Time, msg string) {
+
+	elapsed := time.Since(start)
+	avg := elapsed / time.Duration(current)
+	eta := avg*time.Duration(*total-current) + elapsed
+
+	println(fmt.Sprintf("... %s (%d/%d) in %s; ETA: %s.", msg, current, *total, (&elapsed).Truncate(time.Millisecond), (&eta).Truncate(time.Millisecond)))
+}
+
 // worker that builds corpus for one language pair
-func buildCorpus(src, tgt string, index map[string]map[string]string, wg *sync.WaitGroup, out chan<- *ParallelCorpusEntry) {
+func buildCorpusVerses(src, tgt string, index map[string]map[string]string, wg *sync.WaitGroup, start time.Time, done *atomic.Int32, total *int32, mtx *sync.Mutex, outdir string) {
 	defer wg.Done()
 
 	entry := &ParallelCorpusEntry{
@@ -186,44 +262,184 @@ func buildCorpus(src, tgt string, index map[string]map[string]string, wg *sync.W
 			})
 		}
 	}
-	out <- entry
+
+	entry.Sort()
+
+	current := int32(done.Add(1))
+	mtx.Lock()
+	printProgress(current, total, start, fmt.Sprintf("\tBuilt verse-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)))
+	mtx.Unlock()
+
+	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
 }
 
-func GenerateParallelCorpus() ([]*ParallelCorpusEntry, error) {
-	root := "corpus"
-	
-	index, err := indexFiles(root)
+
+// readLines reads a file into a slice of strings (one per line).
+func readLines(path string) ([]string, error) {
+	data, err := os.ReadFile(path)
 	if err != nil {
 		return nil, err
 	}
+	lines := strings.Split(string(data), "\n")
+	out := make([]string, 0, len(lines))
+	for _, line := range lines {
+		if trimmed := strings.TrimSpace(line); trimmed != "" {
+			out = append(out, trimmed)
+		}
+	}
+	return out, nil
+}
 
+// worker that builds corpus for one language pair at the sentence level
+func buildCorpusSentences(
+	src, tgt string,
+	index map[string]map[string]string, // verseID -> filepath per language
+	wg *sync.WaitGroup,
+	start time.Time,
+	done *atomic.Int32,
+	total *int32,
+	mtx *sync.Mutex,
+	outdir string,
+) {
+	defer wg.Done()
+
+	entry := &ParallelCorpusEntry{
+		SourceLang: src,
+		TargetLang: tgt,
+	}
+
+	for verseID, srcFile := range index[src] {
+		tgtFile, ok := index[tgt][verseID]
+		if !ok {
+			continue
+		}
+
+		srcLines, err := readLines(srcFile)
+		if err != nil {
+			continue
+		}
+		tgtLines, err := readLines(tgtFile)
+		if err != nil {
+			continue
+		}
+
+		// align by line number
+		n := min(len(srcLines), len(tgtLines))
+		for i := 0; i < n; i++ {
+			entry.Pairs = append(entry.Pairs, TextPair{
+				SourceText: strings.TrimSpace(srcLines[i]),
+				TargetText: strings.TrimSpace(tgtLines[i]),
+				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
+			})
+		}
+	}
+
+	entry.Sort()
+
+	current := int32(done.Add(1))
+	mtx.Lock()
+	printProgress(
+		current, total, start,
+		fmt.Sprintf("\tBuilt sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ",
+			src, tgt, len(entry.Pairs)),
+	)
+	mtx.Unlock()
+
+	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
+}
+
+
+func GenerateParallelCorpusByVerses() error {
+	root := config.CORPUS_VERSES_FOLDER
+
+	// Make sure destination directory exists
+	if err := os.MkdirAll(config.PARALLEL_VERSES_FOLDER, os.ModePerm); err != nil {
+		return err
+	}
+
+	index, err := indexFiles(root)
+
+	if err != nil {
+		return err
+	}
+
+	// Get a list of unique languages
 	langs := make([]string, 0, len(index))
 	for k := range index {
 		langs = append(langs, k)
 	}
 
-	var wg sync.WaitGroup
-	out := make(chan *ParallelCorpusEntry)
+	sort.Strings(langs)
 
-	// launch workers for each unique pair
+	var wg sync.WaitGroup
+	var done atomic.Int32
+	var mtx sync.Mutex
+
+	start := time.Now()
+
+	println(fmt.Sprintf("Found %d languages, generating parallel corpora...", len(langs)))
+	// n choose 2
+
+	// launch workers for each unique pair of languages
+	total := int32(len(langs) * (len(langs) - 1) / 2)
 	for i := 0; i < len(langs); i++ {
 		for j := i + 1; j < len(langs); j++ {
 			wg.Add(1)
-			go buildCorpus(langs[i], langs[j], index, &wg, out)
+			println(fmt.Sprintf("Building verse corpus for %s <--> %s...", langs[i], langs[j]))
+			go buildCorpusVerses(langs[i], langs[j], index, &wg, start, &done, &total, &mtx,  config.PARALLEL_VERSES_FOLDER) // n choose 2
 		}
 	}
 
-	// closer
-	go func() {
-		wg.Wait()
-		close(out)
-	}()
+	wg.Wait()
 
-	// collect
-	var results []*ParallelCorpusEntry
-	for entry := range out {
-		results = append(results, entry)
+	elapsed := time.Since(start)
+	println(fmt.Sprintf("All done in %s!", &elapsed))
+	return nil
+}
+
+func GenerateParallelCorpusBySentences() error {
+	
+	root := config.CORPUS_SENTENCES_FOLDER
+
+	// Make sure destination directory exists
+	if err := os.MkdirAll(config.PARALLEL_SENTENCES_FOLDER, os.ModePerm); err != nil {
+		return err
 	}
 
-	return results, nil
+	index, err := indexFiles(root)
+
+	if err != nil {
+		return err
+	}
+	
+	// Get a list of unique languages
+	langs := make([]string, 0, len(index))
+	for k := range index {
+		langs = append(langs, k)
+	}
+	
+	sort.Strings(langs)
+	var wg sync.WaitGroup
+	var done atomic.Int32
+	var mtx sync.Mutex
+	
+	start := time.Now()
+	println(fmt.Sprintf("Found %d languages, generating parallel corpora...", len(langs)))
+	// n choose 2
+	
+	// launch workers for each unique pair of languages
+	total := int32(len(langs) * (len(langs) - 1) / 2)
+	for i := 0; i < len(langs); i++ {
+		for j := i + 1; j < len(langs); j++ {
+			wg.Add(1)
+			println(fmt.Sprintf("Building sentence corpus for %s <--> %s...", langs[i], langs[j]))
+			go buildCorpusSentences(langs[i], langs[j], index, &wg, start, &done, &total, &mtx, config.PARALLEL_SENTENCES_FOLDER) // n choose 2
+		}
+	}
+	
+	wg.Wait()
+	
+	elapsed := time.Since(start)
+	println(fmt.Sprintf("All done in %s!", &elapsed))
+	return nil
 }

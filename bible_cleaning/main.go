@@ -2,15 +2,14 @@ package main
 
 import (
 	"fmt"
-	"io/fs"
 	"os"
-	"path/filepath"
 	"regexp"
-	"strings"
 	"sync"
 
+	"github.com/zrygan.nlp/bible_cleaning/config"
 	parallelcorpus "github.com/zrygan.nlp/bible_cleaning/parallelbuilder"
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
+	"github.com/zrygan.nlp/bible_cleaning/sentencecleaning"
 	"github.com/zrygan.nlp/bible_cleaning/types"
 )
 
@@ -75,8 +74,8 @@ func webscrapeBibles(
 		chapterCount := 1
 
 		wg.Add(1)
-
-		classification := types.LanguageClass{Language: language, OutputDir: "corpus/" + language}
+		filepath := fmt.Sprintf("%s/%s", config.CORPUS_VERSES_FOLDER, language)
+		classification := types.LanguageClass{Language: language, OutputDir: filepath}
 
 		go func(lang *types.LanguageClass, bibleURL string, chapterCount *int) {
 			defer wg.Done()
@@ -107,16 +106,27 @@ func summarizeCorpus(corpusSizes map[string]int) {
 	fmt.Println("Sig", " : ", sum)
 }
 
-func parallizeCorpus() {
-	corpora, err := parallelcorpus.GenerateParallelCorpus()
+func parallelizeCorpusByVerses() {
+	err := parallelcorpus.GenerateParallelCorpusByVerses()
+
 	if err != nil {
 		panic(err)
 	}
+}
 
-	for _, c := range corpora {
-		fmt.Printf("%s <--> %s (%d pairs)\n", c.SourceLang, c.TargetLang, len(c.Pairs))
-		err = c.SaveAsJSON(fmt.Sprintf("%s_%s.json", c.SourceLang, c.TargetLang))
-		fmt.Printf("%s\n", err)
+func parallelizeCorpusBySentences() {
+	err := parallelcorpus.GenerateParallelCorpusBySentences()
+
+	if err != nil {
+		panic(err)
+	}
+}
+
+func splitSentencesInCorpus() {
+	err := sentencecleaning.SplitCorpusBySentence(config.CORPUS_VERSES_FOLDER, config.CORPUS_SENTENCES_FOLDER)
+
+	if err != nil {
+		panic(err)
 	}
 }
 
@@ -142,82 +152,11 @@ func getCorpus() {
 
 	summarizeCorpus(corpusSizes)
 
-	parallizeCorpus()
-}
+	parallelizeCorpusByVerses()
 
-// splitSentences splits the existing corpus into sentences
-func splitSentences(root string) error {
-	var reSentence = regexp.MustCompile(`(G|Gng|Bb)\.|\s*([\?!.])\s*`)    
-    var reNormalize = regexp.MustCompile(`\s+`) 
+	splitSentencesInCorpus()
 
-	return filepath.WalkDir(root, func(path string, d fs.DirEntry, err error) error {
-		if err != nil {
-			return err
-		}
-		if d.IsDir() {
-			return nil
-		}
-
-		data, err := os.ReadFile(path)
-
-		if err != nil {
-			return err
-		}
-
-		text := string(data)
-        text = reNormalize.ReplaceAllString(text, " ")
-		matches := reSentence.FindAllStringSubmatchIndex(text, -1)
-
-		var sentences []string
-		lastEnd := 0
-
-		for _, match := range matches {
-			fullEnd := match[1]
-
-			if match[4] != -1 {
-				sentence := text[lastEnd:match[5]]
-				trimmed := strings.TrimSpace(sentence)
-
-				if trimmed != "" {
-					sentences = append(sentences, trimmed)
-				}
-
-				lastEnd = fullEnd
-
-			} else if match[2] != -1 {
-				lastEnd = fullEnd
-			}
-		}
-
-		remaining := strings.TrimSpace(text[lastEnd:])
-		if remaining != "" {
-			lastSentenceIndex := len(sentences) - 1
-
-			if lastSentenceIndex >= 0 && !strings.HasSuffix(sentences[lastSentenceIndex], ".") &&
-				!strings.HasSuffix(sentences[lastSentenceIndex], "?") &&
-				!strings.HasSuffix(sentences[lastSentenceIndex], "!") {
-				sentences[lastSentenceIndex] += " " + remaining
-			} else {
-				sentences = append(sentences, remaining)
-			}
-		}
-
-		rel, _ := filepath.Rel(root, path)
-		outPath := filepath.Join("corpus_sentences", rel)
-		os.MkdirAll(filepath.Dir(outPath), 0755)
-
-		f, err := os.Create(outPath)
-		if err != nil {
-			return err
-		}
-		defer f.Close()
-
-		for _, s := range sentences {
-			_, _ = f.WriteString(s + "\n")
-		}
-
-		return nil
-	})
+	parallelizeCorpusBySentences()
 }
 
 func main() {
@@ -229,10 +168,18 @@ func main() {
 	switch os.Args[1] {
 	case "corpus":
 		getCorpus()
-	case "parallelize":
-		parallizeCorpus()
-	case "sentences":
-		splitSentences("corpus")
+	case "split":
+		splitSentencesInCorpus()
+	case "parallel":
+		switch os.Args[2] {
+			default:
+				panic("No argument provided")
+			case "verses", "verse", "v":
+				parallelizeCorpusByVerses()
+			case "sentences", "sentence", "s":
+				parallelizeCorpusBySentences()
+		}
+
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}
