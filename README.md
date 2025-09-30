@@ -28,6 +28,6 @@ Contains code for web scraping and parsing HTML files of 16 Philippine language 
 [YouVersion](https://www.youversion.com/)
  (previously Bible.com or Bible App). The data is processed into Biblical corpora and parallel corpora. The methodology is documented in the accompanying LaTeX file.
 
-Also see [`audio_analysis/README.md`](audio_analysis/README.md)
+Also see [`bible_cleaning/README.md`](bible_cleaning/README.md)
 
 Status: In progress
