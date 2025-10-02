@@ -5,21 +5,7 @@ HTML parsing, and regular expressions.
 
 ## Project Files
 
-<pre style="font-family: monospace; background-color: transparent;">
-audio_analysis/
-├── corpus     <--- The SQL query used for the Hugging Face data
-├── docs/      <--- Research paper written in LaTeX with its assets
-├── data/      <--- WAVs and Spectrograms  
-├── scraper/   <--- Web scraping, HTML parsing, and corpus cleaner written in Go
-├── go.mod     <--- Go module
-├── go.sum     <--- Go dependency checksums
-└── main.go    <--- Entry point
-</pre>
-
-Some recordings are not included in this repository due to privacy concerns:
-
-- "Your power is mine" recordings — voice actor: Clarence  
-- "Halo-Halo" and its variations — voice actor: Zhean
+> 🚧 In Construction
 
 ## Corpora Specifications
 **Number of Corpora:** 16 (also the number of Languages)  
