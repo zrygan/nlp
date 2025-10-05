@@ -29,4 +29,4 @@ Once the first worker finishes processing, it adds another to a queue for anothe
 Here are some notes when using multiple multithreading strategies to optimize processing
 
 - N Language Choose 2 Workers: 136ms
-- 8 workers: 140ms
+- 8 workers: 132ms

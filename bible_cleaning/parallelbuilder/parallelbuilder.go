@@ -1,34 +1,29 @@
 package parallelcorpus
 
 import (
-	"bufio"
-	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
 	"regexp"
 	"sort"
 	"strings"
-	"sync"
-	"sync/atomic"
 	"time"
-	"github.com/zrygan.nlp/bible_cleaning/workerprogress"
+
 	"github.com/zrygan.nlp/bible_cleaning/config"
+	"github.com/zrygan.nlp/bible_cleaning/types"
+	"github.com/zrygan.nlp/bible_cleaning/workerprogress"
 )
 
-type ParallelCorpusEntry struct {
-	SourceLang string            `json:"source_lang"`
-	TargetLang string            `json:"target_lang"`
-	Pairs      TextPairArray     `json:"pairs"`
-	Metadata   map[string]string `json:"metadata,omitempty"`
+func nChoose2(n int) int {
+	return n * (n - 1) / 2
 }
 
-type TextPairArray []TextPair
-
-type TextPair struct {
-	SourceText string `json:"source_text"`
-	TargetText string `json:"target_text"`
-	ID         string `json:"id"`
+func getParallelQueenConfig() *workerprogress.QueenConfig {
+	return &workerprogress.QueenConfig{
+		IsDetailed:     config.IS_DETAILED,
+		ReportInterval: config.WORKER_REPORT_INTERVAL_MS, // milliseconds
+		UseProgressBar: config.USE_PROGRESS_BAR,
+	}
 }
 
 func GetKeys(bibles map[string]map[string]string) []string {
@@ -40,162 +35,21 @@ func GetKeys(bibles map[string]map[string]string) []string {
 	return result
 }
 
-func LoadParallelCorpus(sourcePath, targetPath, sourceLang, targetLang string) (*ParallelCorpusEntry, error) {
-	corpusPath := config.SRC_PATH + "/"
-
-	sourceFile, err := os.Open(corpusPath + sourcePath)
+// readLines reads a file into a slice of strings (one per line).
+func readLines(path string) ([]string, error) {
+	data, err := os.ReadFile(path)
 	if err != nil {
-		return nil, fmt.Errorf("failed to open source file: %w", err)
+		return nil, err
 	}
-	defer sourceFile.Close()
-
-	targetFile, err := os.Open(corpusPath + targetPath)
-	if err != nil {
-		return nil, fmt.Errorf("failed to open target file: %w", err)
-	}
-	defer targetFile.Close()
-
-	sourceScanner := bufio.NewScanner(sourceFile)
-	targetScanner := bufio.NewScanner(targetFile)
-
-	corpus := &ParallelCorpusEntry{
-		SourceLang: sourceLang,
-		TargetLang: targetLang,
-		Pairs:      []TextPair{},
-	}
-	lineNum := 0
-	for sourceScanner.Scan() && targetScanner.Scan() {
-		lineNum++
-		sourceLine := strings.TrimSpace(sourceScanner.Text())
-		targetLine := strings.TrimSpace(targetScanner.Text())
-
-		if sourceLine != "" && targetLine != "" {
-			corpus.Pairs = append(corpus.Pairs, TextPair{
-				SourceText: sourceLine,
-				TargetText: targetLine,
-				ID:         fmt.Sprintf("pair_%d", lineNum),
-			})
+	lines := strings.Split(string(data), "\n")
+	out := make([]string, 0, len(lines))
+	for _, line := range lines {
+		if trimmed := strings.TrimSpace(line); trimmed != "" {
+			out = append(out, trimmed)
 		}
 	}
-
-	// Check for scanning errors
-	if err := sourceScanner.Err(); err != nil {
-		return nil, fmt.Errorf("error reading source file: %w", err)
-	}
-	if err := targetScanner.Err(); err != nil {
-		return nil, fmt.Errorf("error reading target file: %w", err)
-	}
-	return corpus, nil
+	return out, nil
 }
-
-func (pc TextPairArray) Sort() {
-	sort.Slice(pc, func(i, j int) bool {
-		return pc[i].ID < pc[j].ID
-	})
-}
-
-func (pc *ParallelCorpusEntry) Sort() {
-	pc.Pairs.Sort()
-}
-
-// SaveAsJSON saves the corpus as JSON
-func (pc *ParallelCorpusEntry) SaveAsJSON(path string) error {
-
-	path = filepath.Join("parallel_corpus", path)
-
-	if err := os.MkdirAll("parallel_corpus", os.ModePerm); err != nil {
-		return err
-	}
-
-	file, err := os.Create(path)
-	if err != nil {
-		return fmt.Errorf("failed to JSON file: %w", err)
-	}
-	defer file.Close()
-
-	encoder := json.NewEncoder(file)
-	encoder.SetIndent("", "  ")
-	return encoder.Encode(pc)
-}
-
-func (pc *ParallelCorpusEntry) SaveAsTSV(path string, outDir string) error {
-	path = filepath.Join(outDir, path)
-
-	if err := os.MkdirAll(outDir, os.ModePerm); err != nil {
-		return err
-	}
-
-	file, err := os.Create(path)
-	if err != nil {
-		return fmt.Errorf("failed to create TSV file: %w", err)
-	}
-	defer file.Close()
-
-	writer := bufio.NewWriter(file)
-	defer writer.Flush()
-
-	// Write header
-	_, err = writer.WriteString("id\tsource_text\ttarget_text\n")
-
-	if err != nil {
-		return fmt.Errorf("failed to write header to TSV file: %w", err)
-	}
-
-	// Write each text pair
-	for _, pair := range pc.Pairs {
-		line := fmt.Sprintf("%s\t%s\t%s\n", pair.ID, transfromEscapeCharTSV(pair.SourceText), transfromEscapeCharTSV(pair.TargetText))
-		_, err = writer.WriteString(line)
-		if err != nil {
-			return fmt.Errorf("failed to write line to TSV file: %w", err)
-		}
-	}
-
-	return nil
-}
-
-// Transform special characters for TSV format
-func transfromEscapeCharTSV(text string) string {
-	text = strings.ReplaceAll(text, "\t", "<TAB>")
-	text = strings.ReplaceAll(text, "\n", "<NEWLINE>")
-	text = strings.ReplaceAll(text, "\r", "<RETURN>")
-	return text
-}
-
-// Add adds a new text pair to the corpus
-func (pc *ParallelCorpusEntry) Add(source, target, id string) {
-	if id == "" {
-		id = fmt.Sprintf("pair_%d", len(pc.Pairs))
-	}
-	pc.Pairs = append(pc.Pairs, TextPair{
-		SourceText: source,
-		TargetText: target,
-		ID:         id,
-	})
-}
-
-// Size returns the number of text pairs
-func (pc *ParallelCorpusEntry) Size() int {
-	return len(pc.Pairs)
-}
-
-// Filter filters pairs based on a predicate function
-func (pc *ParallelCorpusEntry) Filter(predicate func(TextPair) bool) *ParallelCorpusEntry {
-	filtered := &ParallelCorpusEntry{
-		SourceLang: pc.SourceLang,
-		TargetLang: pc.TargetLang,
-		Metadata:   pc.Metadata,
-		Pairs:      []TextPair{},
-	}
-
-	for _, pair := range pc.Pairs {
-		if predicate(pair) {
-			filtered.Pairs = append(filtered.Pairs, pair)
-		}
-	}
-
-	return filtered
-}
-
 
 func indexLanguageFileMap(root string) (map[string]map[string]string, error) {
 	files, err := filepath.Glob(root + "/*/*.txt")
@@ -227,30 +81,118 @@ func indexLanguageFileMap(root string) (map[string]map[string]string, error) {
 	return index, nil
 }
 
+/*
+Builds a channel of jobs for each unique language pair (n choose 2).
+*/
+func buildLanguagePairJobs(languageKeys []string) chan [2]string {
+	jobCh := make(chan [2]string, 200)
+	for i := 0; i < len(languageKeys); i++ {
+		for j := i + 1; j < len(languageKeys); j++ {
+			fmt.Printf("Queued job for language pair %s-%s...\n", languageKeys[i], languageKeys[j])
+			jobCh <- [2]string{languageKeys[i], languageKeys[j]}
+		}
+	}
+	close(jobCh)
+	return jobCh
+}
 
-// worker that builds corpus for one language pair
+/*
+Creates a thread pool to process language pairs in parallel.
+*/
+func createLanguagePairThreadPool(numOfThreads int, jobCh chan [2]string, queenCtx workerprogress.QueenContext, workerFunc func(string, string, workerprogress.WorkerProgressContext)) {
+	for i := 0; i < numOfThreads; i++ {
+		queenCtx.Wg.Add(1)
+
+		go func(id int) {
+			defer queenCtx.Wg.Done()
+			defer fmt.Printf("%s", fmt.Sprintf("Worker thread %d exiting...\n", id))
+
+			fmt.Printf("%s", fmt.Sprintf("Worker thread %d starting...\n", id))
+			for pair := range jobCh {
+
+				languagePair := fmt.Sprintf("%s-%s", pair[0], pair[1])
+				fmt.Printf("Processing language pair %s...\n", languagePair)
+				workerCtx := workerprogress.WorkerProgressContext{
+					Wg:       queenCtx.Wg,
+					Progress: queenCtx.ProgressCh,
+					WorkerID: languagePair,
+				}
+
+				workerFunc(pair[0], pair[1], workerCtx) // n choose 2
+			}
+
+		}(i)
+	}
+
+}
+
+/*
+Waits for all workers to finish, then closes the quit channel to signal the reporter to stop.
+*/
+func closeoutThreadPool(queenCtx *workerprogress.QueenContext) {
+	queenCtx.Wg.Wait()
+	close(queenCtx.Quit) // signal exiting
+
+	// Stop reporter goroutine
+	close(queenCtx.ProgressCh) // close progress updates
+	elapsed := time.Since(queenCtx.StartTime)
+	fmt.Printf("All done in %s!\n", &elapsed)
+}
+
+/*
+Reads the source and target lines for a given verseID from the index.
+Errors if the required file is not found.
+*/
+func readSrcTgtLines(srcFile string, index *map[string]map[string]string, tgt string, verseID string) ([]string, []string, error) {
+	tgtFile, ok := (*index)[tgt][verseID]
+
+	if !ok {
+		return nil, nil, fmt.Errorf("target file not found for %s in %s", verseID, tgt)
+	}
+
+	srcLines, err := readLines(srcFile)
+	if err != nil {
+		return nil, nil, err
+	}
+
+	tgtLines, err := readLines(tgtFile)
+	if err != nil {
+		return nil, nil, err
+	}
+
+	return srcLines, tgtLines, nil
+}
+
+/*
+
+	# Verse-level parallel corpus generation
+
+*/
+
+/*
+Given a source and target language, builds a parallel corpus by aligning verses by verseID.
+*/
 func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outdir string, prg workerprogress.WorkerProgressContext) {
-	defer prg.Wg.Done()
-
-	entry := &ParallelCorpusEntry{
+	entry := &types.ParallelCorpusEntry{
 		SourceLang: src,
 		TargetLang: tgt,
 	}
-	n := 0;
+	n := 0
 	total := len(index[src])
+
 	for verseID, srcFile := range index[src] {
 		if tgtFile, ok := index[tgt][verseID]; ok {
 			srcContent, _ := os.ReadFile(srcFile)
 			tgtContent, _ := os.ReadFile(tgtFile)
 
-			entry.Pairs = append(entry.Pairs, TextPair{
+			entry.Pairs = append(entry.Pairs, types.TextPair{
 				SourceText: strings.TrimSpace(string(srcContent)),
 				TargetText: strings.TrimSpace(string(tgtContent)),
 				ID:         verseID,
 			})
 		}
-		n = n + 1;
-		if (n % 50 == 0)  {
+		n = n + 1
+		if n%50 == 0 {
 			prg.Progress <- workerprogress.WorkerProgressMsg{
 				WorkerID: prg.WorkerID,
 				Percent:  float32(len(entry.Pairs)) / float32(len(index[src])),
@@ -261,43 +203,40 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 
 	entry.Sort()
 
-	prg.Progress <- workerprogress.WorkerProgressMsg {
+	prg.Progress <- workerprogress.WorkerProgressMsg{
 		WorkerID: prg.WorkerID,
-		Percent: 1.0,
-		Status: fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+		Percent:  1.0,
+		Status:   fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
 	}
 
 	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
 }
 
-// readLines reads a file into a slice of strings (one per line).
-func readLines(path string) ([]string, error) {
-	data, err := os.ReadFile(path)
-	if err != nil {
-		return nil, err
+/*
+Wrapper to pass additional parameters to the worker function.
+Mainly used for createLanguagePairThreadPool.
+*/
+func buildCorpusVersesWrapper(index map[string]map[string]string, outdir string) func(string, string, workerprogress.WorkerProgressContext) {
+	return func(src, tgt string, prg workerprogress.WorkerProgressContext) {
+		buildCorpusVerses(src, tgt, index, outdir, prg)
 	}
-	lines := strings.Split(string(data), "\n")
-	out := make([]string, 0, len(lines))
-	for _, line := range lines {
-		if trimmed := strings.TrimSpace(line); trimmed != "" {
-			out = append(out, trimmed)
-		}
-	}
-	return out, nil
 }
 
-func GenerateParallelCorpusByVerses() error {
+/*
+Initializes the verse-level parallel corpus generation by indexing the files and creating the output directory.
+*/
+func initializeParallelCorpusByVerses() (map[string]map[string]string, []string, error) {
 	root := config.CORPUS_VERSES_FOLDER
 
 	// Make sure destination directory exists
 	if err := os.MkdirAll(config.PARALLEL_VERSES_FOLDER, os.ModePerm); err != nil {
-		return err
+		return nil, nil, err
 	}
 
 	index, err := indexLanguageFileMap(root)
 
 	if err != nil {
-		return err
+		return nil, nil, err
 	}
 
 	// Get a list of unique languages
@@ -307,83 +246,38 @@ func GenerateParallelCorpusByVerses() error {
 	}
 
 	sort.Strings(langs)
+	return index, langs, nil
+}
 
+/*
+Generates the parallel corpus by verses for all language pairs found in the corpus/verses folder.
+It creates a thread pool to process multiple language pairs in parallel.
+*/
+func GenerateParallelCorpusByVerses() error {
+	index, langs, err := initializeParallelCorpusByVerses()
+
+	if err != nil {
+		return err
+	}
 
 	println(fmt.Sprintf("Found %d languages, generating parallel corpora...", len(langs)))
-	// n choose 2
-
 	// launch workers for each unique pair of languages
-	total := int32(len(langs) * (len(langs) - 1) / 2)	
-	workers := atomic.Int32{}
-	start := time.Now()
+	total := nChoose2(len(langs))
+	queenCtx := workerprogress.NewQueenContext(total, getParallelQueenConfig())
+	jobCh := buildLanguagePairJobs(langs)
+	fmt.Printf("Created %d jobs for %d languages.\n", len(jobCh), len(langs))
 
-	var queenWg sync.WaitGroup
-	progressCh := make(chan workerprogress.WorkerProgressMsg, 100)
-
-	queenCtx := workerprogress.QueenContext{
-			DoneWorkers:   &workers,
-			TotalWorkers:  int(total),
-			StartTime:     start,
-			Quit:          make(chan struct{}),
-			Wg:            &queenWg,
-			ProgressCh:    progressCh,
-	}
-
-	jobCh := make(chan [2]string)
-	for i := 0; i < len(langs); i++ {
-		for j := i + 1; j < len(langs); j++ {
-			jobCh <- [2]string{langs[i], langs[j],}
-		}
-	}
-
-	queenWg.Add(1)
 	go queenCtx.RunReporter()
-	numOfCores := 8;
-	for i := 0 ; i < numOfCores; i++ {
-		queenCtx.Wg.Add(1)
-		go func(id int) {
-			defer queenCtx.Wg.Done()
-			defer fmt.Printf(fmt.Sprintf("Worker thread %d exiting...\n", id))
-
-			for pair := range jobCh {
-			
-				workerID := fmt.Sprintf("%s-%s", pair[0], pair[1])
-
-				workerCtx := workerprogress.WorkerProgressContext{
-						Wg:       queenCtx.Wg,
-						Progress: progressCh,
-						WorkerID: workerID,
-				}
-
-				buildCorpusVerses(pair[0], pair[1], index, config.PARALLEL_VERSES_FOLDER, workerCtx) // n choose 2
-			}
-		}(i)
-	}
-	
-
-	queenWg.Wait()
-	close(queenCtx.Quit) // signal exiting
-	
-	// Stop reporter goroutine
-	close(progressCh)   // close progress updates
-	elapsed := time.Since(start)
-	println(fmt.Sprintf("All done in %s!", &elapsed))
+	createLanguagePairThreadPool(config.THREAD_POOL_SIZE, jobCh, *queenCtx, buildCorpusVersesWrapper(index, config.PARALLEL_VERSES_FOLDER))
+	closeoutThreadPool(queenCtx)
 	return nil
 }
 
-func nChoose2(n int) int {
-	return n * (n - 1) / 2
-}
+/**
+# Sentence-level parallel corpus generation.
+*/
 
-func getParallelQueenConfig() *workerprogress.QueenConfig {
-	return &workerprogress.QueenConfig{
-		IsDetailed:     false,
-		ReportInterval: 1000, // milliseconds
-		UseProgressBar: false,
-	}
-}
-
-func initializePCBySentences(root string) (map[string]map[string]string, []string, error) {
+func initializeParallelCorpusBySentences(root string) (map[string]map[string]string, []string, error) {
 
 	if err := os.MkdirAll(config.PARALLEL_SENTENCES_FOLDER, os.ModePerm); err != nil {
 		return nil, nil, err
@@ -400,55 +294,56 @@ func initializePCBySentences(root string) (map[string]map[string]string, []strin
 	return index, langs, nil
 }
 
-
-// worker that builds corpus for one language pair at the sentence level
+/*
+Given a source and target language, builds a parallel corpus by aligning sentences by line number.
+*/
 func buildCorpusSentences(
 	src, tgt string,
 	index map[string]map[string]string, // verseID -> filepath per language
 	outdir string,
 	prg workerprogress.WorkerProgressContext,
 ) {
-	defer prg.Wg.Done()
-
-	entry := &ParallelCorpusEntry{
+	entry := &types.ParallelCorpusEntry{
 		SourceLang: src,
 		TargetLang: tgt,
 	}
 
 	for verseID, srcFile := range index[src] {
 
-		tgtFile, ok := index[tgt][verseID]
+		srcLines, tgtLines, err := readSrcTgtLines(srcFile, &index, tgt, verseID)
 
-		if !ok {
-			continue
-		}
-
-		srcLines, err := readLines(srcFile)
 		if err != nil {
 			continue
 		}
 
-		tgtLines, err := readLines(tgtFile)
-		if err != nil {
-			continue
-		}
-
-		// align by line number
-		n := min(len(srcLines), len(tgtLines))
+		n := max(len(srcLines), len(tgtLines))
 
 		for i := 0; i < n; i++ {
-			entry.Pairs = append(entry.Pairs, TextPair{
-				SourceText: strings.TrimSpace(srcLines[i]),
-				TargetText: strings.TrimSpace(tgtLines[i]),
+			srcLine := srcLines[i]
+			tgtLine := tgtLines[i]
+
+			if i >= len(srcLines) {
+				srcLine = ""
+			}
+
+			if i >= len(tgtLines) {
+				tgtLine = ""
+			}
+
+			entry.Pairs = append(entry.Pairs, types.TextPair{
+				SourceText: strings.TrimSpace(srcLine),
+				TargetText: strings.TrimSpace(tgtLine),
 				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
 			})
 
-			if i % 50 == 0 {
-				prg.Progress <- workerprogress.WorkerProgressMsg{
-					WorkerID: prg.WorkerID,
-					Percent:  float32(i) / float32(n),
-					Status:   fmt.Sprintf("Processed %03d/%03d lines for %s <--> %s", i, n, src, tgt),
-				}
+			if i%50 != 0 {
+				continue
+			}
+
+			prg.Progress <- workerprogress.WorkerProgressMsg{
+				WorkerID: prg.WorkerID,
+				Percent:  float32(i) / float32(n),
+				Status:   fmt.Sprintf("Processed %03d/%03d lines for %s <--> %s", i, n, src, tgt),
 			}
 		}
 	}
@@ -457,15 +352,31 @@ func buildCorpusSentences(
 
 	prg.Progress <- workerprogress.WorkerProgressMsg{
 		WorkerID: prg.WorkerID,
-		Percent: 1.0,
-		Status: fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+		Percent:  1.0,
+		Status:   fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
 	}
-	
+	fmt.Printf("Saving TSV file %s\n", outdir)
 	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
 }
 
+/*
+Wrapper to pass additional parameters to the worker function.
+Mainly used for createLanguagePairThreadPool.
+*/
+func buildCorpusSentencesWrapper(index map[string]map[string]string, outdir string) func(string, string, workerprogress.WorkerProgressContext) {
+	return func(src, tgt string, prg workerprogress.WorkerProgressContext) {
+		buildCorpusSentences(src, tgt, index, outdir, prg)
+	}
+}
+
+/*
+Generates the parallel corpus by sentences for all language pairs found in the corpus/verses folder.
+It creates a thread pool to process multiple language pairs in parallel.
+*/
 func GenerateParallelCorpusBySentences() error {
-	index, langs, err := initializePCBySentences(config.CORPUS_SENTENCES_FOLDER)
+	root := config.CORPUS_SENTENCES_FOLDER
+
+	index, langs, err := initializeParallelCorpusBySentences(root)
 
 	if err != nil {
 		return err
@@ -473,23 +384,14 @@ func GenerateParallelCorpusBySentences() error {
 
 	queenCtx := workerprogress.NewQueenContext(nChoose2(len(langs)), getParallelQueenConfig())
 
+	fmt.Printf("Found %d languages, generating parallel corpora...\n", len(langs))
+	jobCh := buildLanguagePairJobs(langs)
+	fmt.Printf("Created %d jobs for %d languages.\n", len(jobCh), len(langs))
+
 	go queenCtx.RunReporter()
 
-	// Launch workers
-	for i := 0; i < len(langs); i++ {
-		for j := i + 1; j < len(langs); j++ {
-			workerCtx := queenCtx.CreateWorkerContext(fmt.Sprintf("%s-%s", langs[i], langs[j]))
-			go buildCorpusSentences(langs[i], langs[j], index, config.PARALLEL_SENTENCES_FOLDER, workerCtx)
-		}
-	}
+	createLanguagePairThreadPool(config.THREAD_POOL_SIZE, jobCh, *queenCtx, buildCorpusSentencesWrapper(index, config.PARALLEL_SENTENCES_FOLDER))
 
-	queenCtx.Wg.Wait()
-
-	close(queenCtx.Quit) 
-	close(queenCtx.ProgressCh)   
-
-	elapsed := time.Since(queenCtx.StartTime)
-
-	fmt.Printf("\nAll done in %s!\n", elapsed.Truncate(time.Millisecond))
+	closeoutThreadPool(queenCtx)
 	return nil
 }

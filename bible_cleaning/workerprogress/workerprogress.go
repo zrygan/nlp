@@ -115,6 +115,7 @@ func (q *QueenContext) RunReporter() {
 			}
 
 		case <-q.Quit:
+			fmt.Println("\n[Reporter] Received quit signal.")
 			return
 		}
 	}
