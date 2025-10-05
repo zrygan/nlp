@@ -168,9 +168,9 @@ func (pc *ParallelCorpusEntry) SaveAsTSV(path string, outDir string) error {
 
 // Transform special characters for TSV format
 func TransfromEscapeCharTSV(text string) string {
-	text = strings.ReplaceAll(text, "\t", "<TAB>")
-	text = strings.ReplaceAll(text, "\n", "<NEWLINE>")
-	text = strings.ReplaceAll(text, "\r", "<RETURN>")
+	text = strings.ReplaceAll(text, "\t", config.TOKEN_TAB)
+	text = strings.ReplaceAll(text, "\n", config.TOKEN_NEWLINE)
+	text = strings.ReplaceAll(text, "\r", config.TOKEN_RETURN)
 	return text
 }
 

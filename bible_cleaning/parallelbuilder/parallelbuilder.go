@@ -97,7 +97,7 @@ func buildLanguagePairJobs(languageKeys []string) chan [2]string {
 }
 
 /*
-Creates a thread pool to process language pairs in parallel.
+	Creates a thread pool to process language pairs in parallel.
 */
 func createLanguagePairThreadPool(numOfThreads int, jobCh chan [2]string, queenCtx workerprogress.QueenContext, workerFunc func(string, string, workerprogress.WorkerProgressContext)) {
 	for i := 0; i < numOfThreads; i++ {
@@ -127,7 +127,7 @@ func createLanguagePairThreadPool(numOfThreads int, jobCh chan [2]string, queenC
 }
 
 /*
-Waits for all workers to finish, then closes the quit channel to signal the reporter to stop.
+	Waits for all workers to finish, then closes the quit channel to signal the reporter to stop.
 */
 func closeoutThreadPool(queenCtx *workerprogress.QueenContext) {
 	queenCtx.Wg.Wait()
@@ -192,7 +192,7 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 			})
 		}
 		n = n + 1
-		if n%50 == 0 {
+		if n % config.WORKER_THREAD_REPORT_PROGRESS_RATE == 0 {
 			prg.Progress <- workerprogress.WorkerProgressMsg{
 				WorkerID: prg.WorkerID,
 				Percent:  float32(len(entry.Pairs)) / float32(len(index[src])),
@@ -319,15 +319,15 @@ func buildCorpusSentences(
 		n := max(len(srcLines), len(tgtLines))
 
 		for i := 0; i < n; i++ {
-			srcLine := srcLines[i]
-			tgtLine := tgtLines[i]
-
-			if i >= len(srcLines) {
-				srcLine = ""
+		
+			srcLine := config.TOKEN_MISSING_TRANSLATION
+			if i < len(srcLines) {
+				srcLine = srcLines[i]
 			}
+			tgtLine := config.TOKEN_MISSING_TRANSLATION
 
-			if i >= len(tgtLines) {
-				tgtLine = ""
+			if i < len(tgtLines) {
+				tgtLine = tgtLines[i]
 			}
 
 			entry.Pairs = append(entry.Pairs, types.TextPair{
@@ -336,7 +336,7 @@ func buildCorpusSentences(
 				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
 			})
 
-			if i%50 != 0 {
+			if i % config.WORKER_THREAD_REPORT_PROGRESS_RATE != 0 {
 				continue
 			}
 

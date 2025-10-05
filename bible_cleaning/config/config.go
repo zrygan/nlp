@@ -11,4 +11,15 @@ const (
 	THREAD_POOL_SIZE         	= 8   // number of worker threads
 	IS_DETAILED								= true
 	USE_PROGRESS_BAR					= true
+	WORKER_THREAD_REPORT_PROGRESS_RATE = 50  // report progress every N items processed
+)
+
+const (
+	TOKEN_MISSING_TRANSLATION = "<MISSING_TRANSLATION>"
+	TOKEN_NEWLINE						 = "<NEWLINE>"
+	TOKEN_SPACE							 = "<SPACE>"
+	TOKEN_TAB								 = "<TAB>"
+	TOKEN_RETURN						 = "<RETURN>"
+	DICE_SIMILARITY_THRESHOLD = 3.0
+	LENGTH_RATIO_BIAS = 1.0 - DICE_SIMILARITY_THRESHOLD
 )
