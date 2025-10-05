@@ -12,7 +12,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-
+	"github.com/zrygan.nlp/bible_cleaning/workerprogress"
 	"github.com/zrygan.nlp/bible_cleaning/config"
 )
 
@@ -36,6 +36,7 @@ func GetKeys(bibles map[string]map[string]string) []string {
 	for key := range bibles {
 		result = append(result, key)
 	}
+	sort.Strings(result)
 	return result
 }
 
@@ -195,14 +196,8 @@ func (pc *ParallelCorpusEntry) Filter(predicate func(TextPair) bool) *ParallelCo
 	return filtered
 }
 
-/*
-Makes an index of files in the corpus directory
-Args:
-  - root (string): the root directory of the corpus
 
-Returns a map of language -> (map of verseID -> file path)
-*/
-func indexFiles(root string) (map[string]map[string]string, error) {
+func indexLanguageFileMap(root string) (map[string]map[string]string, error) {
 	files, err := filepath.Glob(root + "/*/*.txt")
 	if err != nil {
 		return nil, err
@@ -232,24 +227,17 @@ func indexFiles(root string) (map[string]map[string]string, error) {
 	return index, nil
 }
 
-func printProgress(current int32, total *int32, start time.Time, msg string) {
-
-	elapsed := time.Since(start)
-	avg := elapsed / time.Duration(current)
-	eta := avg*time.Duration(*total-current) + elapsed
-
-	println(fmt.Sprintf("... %s (%d/%d) in %s; ETA: %s.", msg, current, *total, (&elapsed).Truncate(time.Millisecond), (&eta).Truncate(time.Millisecond)))
-}
 
 // worker that builds corpus for one language pair
-func buildCorpusVerses(src, tgt string, index map[string]map[string]string, wg *sync.WaitGroup, start time.Time, done *atomic.Int32, total *int32, mtx *sync.Mutex, outdir string) {
-	defer wg.Done()
+func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outdir string, prg workerprogress.WorkerProgressContext) {
+	defer prg.Wg.Done()
 
 	entry := &ParallelCorpusEntry{
 		SourceLang: src,
 		TargetLang: tgt,
 	}
-
+	n := 0;
+	total := len(index[src])
 	for verseID, srcFile := range index[src] {
 		if tgtFile, ok := index[tgt][verseID]; ok {
 			srcContent, _ := os.ReadFile(srcFile)
@@ -261,18 +249,26 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, wg *
 				ID:         verseID,
 			})
 		}
+		n = n + 1;
+		if (n % 50 == 0)  {
+			prg.Progress <- workerprogress.WorkerProgressMsg{
+				WorkerID: prg.WorkerID,
+				Percent:  float32(len(entry.Pairs)) / float32(len(index[src])),
+				Status:   fmt.Sprintf("Processed %03d/%03d verses for %s <--> %s", n, total, src, tgt),
+			}
+		}
 	}
 
 	entry.Sort()
 
-	current := int32(done.Add(1))
-	mtx.Lock()
-	printProgress(current, total, start, fmt.Sprintf("\tBuilt verse-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)))
-	mtx.Unlock()
+	prg.Progress <- workerprogress.WorkerProgressMsg {
+		WorkerID: prg.WorkerID,
+		Percent: 1.0,
+		Status: fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+	}
 
 	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
 }
-
 
 // readLines reads a file into a slice of strings (one per line).
 func readLines(path string) ([]string, error) {
@@ -290,65 +286,6 @@ func readLines(path string) ([]string, error) {
 	return out, nil
 }
 
-// worker that builds corpus for one language pair at the sentence level
-func buildCorpusSentences(
-	src, tgt string,
-	index map[string]map[string]string, // verseID -> filepath per language
-	wg *sync.WaitGroup,
-	start time.Time,
-	done *atomic.Int32,
-	total *int32,
-	mtx *sync.Mutex,
-	outdir string,
-) {
-	defer wg.Done()
-
-	entry := &ParallelCorpusEntry{
-		SourceLang: src,
-		TargetLang: tgt,
-	}
-
-	for verseID, srcFile := range index[src] {
-		tgtFile, ok := index[tgt][verseID]
-		if !ok {
-			continue
-		}
-
-		srcLines, err := readLines(srcFile)
-		if err != nil {
-			continue
-		}
-		tgtLines, err := readLines(tgtFile)
-		if err != nil {
-			continue
-		}
-
-		// align by line number
-		n := min(len(srcLines), len(tgtLines))
-		for i := 0; i < n; i++ {
-			entry.Pairs = append(entry.Pairs, TextPair{
-				SourceText: strings.TrimSpace(srcLines[i]),
-				TargetText: strings.TrimSpace(tgtLines[i]),
-				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
-			})
-		}
-	}
-
-	entry.Sort()
-
-	current := int32(done.Add(1))
-	mtx.Lock()
-	printProgress(
-		current, total, start,
-		fmt.Sprintf("\tBuilt sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ",
-			src, tgt, len(entry.Pairs)),
-	)
-	mtx.Unlock()
-
-	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
-}
-
-
 func GenerateParallelCorpusByVerses() error {
 	root := config.CORPUS_VERSES_FOLDER
 
@@ -357,7 +294,7 @@ func GenerateParallelCorpusByVerses() error {
 		return err
 	}
 
-	index, err := indexFiles(root)
+	index, err := indexLanguageFileMap(root)
 
 	if err != nil {
 		return err
@@ -371,75 +308,188 @@ func GenerateParallelCorpusByVerses() error {
 
 	sort.Strings(langs)
 
-	var wg sync.WaitGroup
-	var done atomic.Int32
-	var mtx sync.Mutex
-
-	start := time.Now()
 
 	println(fmt.Sprintf("Found %d languages, generating parallel corpora...", len(langs)))
 	// n choose 2
 
 	// launch workers for each unique pair of languages
-	total := int32(len(langs) * (len(langs) - 1) / 2)
+	total := int32(len(langs) * (len(langs) - 1) / 2)	
+	workers := atomic.Int32{}
+	start := time.Now()
+
+	var queenWg sync.WaitGroup
+	progressCh := make(chan workerprogress.WorkerProgressMsg, 100)
+
+	queenCtx := workerprogress.QueenContext{
+			DoneWorkers:   &workers,
+			TotalWorkers:  int(total),
+			StartTime:     start,
+			Quit:          make(chan struct{}),
+			Wg:            &queenWg,
+			ProgressCh:    progressCh,
+	}
+
+	jobCh := make(chan [2]string)
 	for i := 0; i < len(langs); i++ {
 		for j := i + 1; j < len(langs); j++ {
-			wg.Add(1)
-			println(fmt.Sprintf("Building verse corpus for %s <--> %s...", langs[i], langs[j]))
-			go buildCorpusVerses(langs[i], langs[j], index, &wg, start, &done, &total, &mtx,  config.PARALLEL_VERSES_FOLDER) // n choose 2
+			jobCh <- [2]string{langs[i], langs[j],}
 		}
 	}
 
-	wg.Wait()
+	queenWg.Add(1)
+	go queenCtx.RunReporter()
+	numOfCores := 8;
+	for i := 0 ; i < numOfCores; i++ {
+		queenCtx.Wg.Add(1)
+		go func(id int) {
+			defer queenCtx.Wg.Done()
+			defer fmt.Printf(fmt.Sprintf("Worker thread %d exiting...\n", id))
 
+			for pair := range jobCh {
+			
+				workerID := fmt.Sprintf("%s-%s", pair[0], pair[1])
+
+				workerCtx := workerprogress.WorkerProgressContext{
+						Wg:       queenCtx.Wg,
+						Progress: progressCh,
+						WorkerID: workerID,
+				}
+
+				buildCorpusVerses(pair[0], pair[1], index, config.PARALLEL_VERSES_FOLDER, workerCtx) // n choose 2
+			}
+		}(i)
+	}
+	
+
+	queenWg.Wait()
+	close(queenCtx.Quit) // signal exiting
+	
+	// Stop reporter goroutine
+	close(progressCh)   // close progress updates
 	elapsed := time.Since(start)
 	println(fmt.Sprintf("All done in %s!", &elapsed))
 	return nil
 }
 
-func GenerateParallelCorpusBySentences() error {
-	
-	root := config.CORPUS_SENTENCES_FOLDER
+func nChoose2(n int) int {
+	return n * (n - 1) / 2
+}
 
-	// Make sure destination directory exists
+func getParallelQueenConfig() *workerprogress.QueenConfig {
+	return &workerprogress.QueenConfig{
+		IsDetailed:     false,
+		ReportInterval: 1000, // milliseconds
+		UseProgressBar: false,
+	}
+}
+
+func initializePCBySentences(root string) (map[string]map[string]string, []string, error) {
+
 	if err := os.MkdirAll(config.PARALLEL_SENTENCES_FOLDER, os.ModePerm); err != nil {
-		return err
+		return nil, nil, err
 	}
 
-	index, err := indexFiles(root)
+	index, err := indexLanguageFileMap(root)
+	if err != nil {
+		return nil, nil, err
+	}
+
+	langs := GetKeys(index)
+
+	fmt.Printf("Found %d languages for sentence-level corpus generation.\n", len(langs))
+	return index, langs, nil
+}
+
+
+// worker that builds corpus for one language pair at the sentence level
+func buildCorpusSentences(
+	src, tgt string,
+	index map[string]map[string]string, // verseID -> filepath per language
+	outdir string,
+	prg workerprogress.WorkerProgressContext,
+) {
+	defer prg.Wg.Done()
+
+	entry := &ParallelCorpusEntry{
+		SourceLang: src,
+		TargetLang: tgt,
+	}
+
+	for verseID, srcFile := range index[src] {
+
+		tgtFile, ok := index[tgt][verseID]
+
+		if !ok {
+			continue
+		}
+
+		srcLines, err := readLines(srcFile)
+		if err != nil {
+			continue
+		}
+
+		tgtLines, err := readLines(tgtFile)
+		if err != nil {
+			continue
+		}
+
+		// align by line number
+		n := min(len(srcLines), len(tgtLines))
+
+		for i := 0; i < n; i++ {
+			entry.Pairs = append(entry.Pairs, TextPair{
+				SourceText: strings.TrimSpace(srcLines[i]),
+				TargetText: strings.TrimSpace(tgtLines[i]),
+				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
+			})
+
+			if i % 50 == 0 {
+				prg.Progress <- workerprogress.WorkerProgressMsg{
+					WorkerID: prg.WorkerID,
+					Percent:  float32(i) / float32(n),
+					Status:   fmt.Sprintf("Processed %03d/%03d lines for %s <--> %s", i, n, src, tgt),
+				}
+			}
+		}
+	}
+
+	entry.Sort()
+
+	prg.Progress <- workerprogress.WorkerProgressMsg{
+		WorkerID: prg.WorkerID,
+		Percent: 1.0,
+		Status: fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+	}
+	
+	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
+}
+
+func GenerateParallelCorpusBySentences() error {
+	index, langs, err := initializePCBySentences(config.CORPUS_SENTENCES_FOLDER)
 
 	if err != nil {
 		return err
 	}
-	
-	// Get a list of unique languages
-	langs := make([]string, 0, len(index))
-	for k := range index {
-		langs = append(langs, k)
-	}
-	
-	sort.Strings(langs)
-	var wg sync.WaitGroup
-	var done atomic.Int32
-	var mtx sync.Mutex
-	
-	start := time.Now()
-	println(fmt.Sprintf("Found %d languages, generating parallel corpora...", len(langs)))
-	// n choose 2
-	
-	// launch workers for each unique pair of languages
-	total := int32(len(langs) * (len(langs) - 1) / 2)
+
+	queenCtx := workerprogress.NewQueenContext(nChoose2(len(langs)), getParallelQueenConfig())
+
+	go queenCtx.RunReporter()
+
+	// Launch workers
 	for i := 0; i < len(langs); i++ {
 		for j := i + 1; j < len(langs); j++ {
-			wg.Add(1)
-			println(fmt.Sprintf("Building sentence corpus for %s <--> %s...", langs[i], langs[j]))
-			go buildCorpusSentences(langs[i], langs[j], index, &wg, start, &done, &total, &mtx, config.PARALLEL_SENTENCES_FOLDER) // n choose 2
+			workerCtx := queenCtx.CreateWorkerContext(fmt.Sprintf("%s-%s", langs[i], langs[j]))
+			go buildCorpusSentences(langs[i], langs[j], index, config.PARALLEL_SENTENCES_FOLDER, workerCtx)
 		}
 	}
-	
-	wg.Wait()
-	
-	elapsed := time.Since(start)
-	println(fmt.Sprintf("All done in %s!", &elapsed))
+
+	queenCtx.Wg.Wait()
+
+	close(queenCtx.Quit) 
+	close(queenCtx.ProgressCh)   
+
+	elapsed := time.Since(queenCtx.StartTime)
+
+	fmt.Printf("\nAll done in %s!\n", elapsed.Truncate(time.Millisecond))
 	return nil
 }

@@ -9,8 +9,6 @@ import (
 
 )
 
-
-
 func extractSentences(text string) []string {
 	reSentence := regexp.MustCompile(`(G|Gng|Bb)\.|\s*([\?!.])\s*`)
 	reNormalize := regexp.MustCompile(`\s+`)
