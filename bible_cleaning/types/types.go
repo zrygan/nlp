@@ -1,14 +1,15 @@
 package types
 
 import (
-	"regexp"
-	"sort"
-	"strings"
+	"bufio"
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
-	"encoding/json"
-	"bufio"
+	"regexp"
+	"sort"
+	"strings"
+
 	"github.com/zrygan.nlp/bible_cleaning/config"
 )
 
@@ -53,6 +54,10 @@ type TextPair struct {
 	SourceText string `json:"source_text"`
 	TargetText string `json:"target_text"`
 	ID         string `json:"id"`
+	Book 	   string `json:"book,omitempty"`
+	Chapter    string `json:"chapter,omitempty"`
+	Verse 	   string `json:"verse,omitempty"`
+	Sentence   string `json:"sentence,omitempty"`
 }
 
 
@@ -152,7 +157,7 @@ func (pc *ParallelCorpusEntry) SaveAsTSV(path string, outDir string) error {
 	defer writer.Flush()
 
 	// Write header
-	_, err = writer.WriteString("id\tsource_text\ttarget_text\n")
+	_, err = writer.WriteString("id\tbook\tchapter\tverse\tsource_text\ttarget_text\n")
 
 	if err != nil {
 		return fmt.Errorf("failed to write header to TSV file: %w", err)
@@ -160,7 +165,42 @@ func (pc *ParallelCorpusEntry) SaveAsTSV(path string, outDir string) error {
 
 	// Write each text pair
 	for _, pair := range pc.Pairs {
-		line := fmt.Sprintf("%s\t%s\t%s\n", pair.ID, TransfromEscapeCharTSV(pair.SourceText), TransfromEscapeCharTSV(pair.TargetText))
+		line := fmt.Sprintf("%s\t%s\t%s\t%s\t%s\t%s\n", pair.ID, pair.Book, pair.Chapter, pair.Verse, TransfromEscapeCharTSV(pair.SourceText), TransfromEscapeCharTSV(pair.TargetText))
+		_, err = writer.WriteString(line)
+		if err != nil {
+			return fmt.Errorf("failed to write line to TSV file: %w", err)
+		}
+	}
+
+	return nil
+}
+
+func (pc *ParallelCorpusEntry) SaveAsTSVSentences(path string, outDir string) error {
+	path = filepath.Join(outDir, path)
+
+	if err := os.MkdirAll(outDir, os.ModePerm); err != nil {
+		return err
+	}
+
+	file, err := os.Create(path)
+	if err != nil {
+		return fmt.Errorf("failed to create TSV file: %w", err)
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
+
+	// Write header
+	_, err = writer.WriteString("id\tbook\tchapter\tsentence_no\tsource_text\ttarget_text\n")
+
+	if err != nil {
+		return fmt.Errorf("failed to write header to TSV file: %w", err)
+	}
+
+	// Write each text pair
+	for _, pair := range pc.Pairs {
+		line := fmt.Sprintf("%s\t%s\t%s\t%s\t%s\t%s\n", pair.ID, pair.Book, pair.Chapter, pair.Sentence, TransfromEscapeCharTSV(pair.SourceText), TransfromEscapeCharTSV(pair.TargetText))
 		_, err = writer.WriteString(line)
 		if err != nil {
 			return fmt.Errorf("failed to write line to TSV file: %w", err)

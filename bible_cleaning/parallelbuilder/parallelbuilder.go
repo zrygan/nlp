@@ -124,7 +124,6 @@ func createLanguagePairThreadPool(numOfThreads int, jobCh chan [2]string, queenC
 
 		}(i)
 	}
-
 }
 
 /*
@@ -245,14 +244,26 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 
 	for verseID, srcFile := range index[src] {
 		if tgtFile, ok := index[tgt][verseID]; ok {
+			book := strings.SplitN(verseID, "_", 2)[0]
+			chapter := strings.SplitN(verseID, "_", 2)[1]
+
 			srcContent, _ := os.ReadFile(srcFile)
 			tgtContent, _ := os.ReadFile(tgtFile)
 
-			entry.Pairs = append(entry.Pairs, types.TextPair{
-				SourceText: strings.TrimSpace(string(srcContent)),
-				TargetText: strings.TrimSpace(string(tgtContent)),
-				ID:         verseID,
-			})
+			srcLines := strings.Split(strings.TrimSpace(string(srcContent)), "\n")
+			tgtLines := strings.Split(strings.TrimSpace(string(tgtContent)), "\n")
+
+			for v := 0; v < len(srcLines) && v < len(tgtLines); v++ {
+				verseNum := fmt.Sprintf("%d", v+1)
+				entry.Pairs = append(entry.Pairs, types.TextPair{
+					SourceText: strings.TrimSpace(srcLines[v]),
+					TargetText: strings.TrimSpace(tgtLines[v]),
+					ID:         fmt.Sprintf("%s_%s_%s", book, chapter, verseNum),
+					Book:       book,
+					Chapter:    chapter,
+					Verse:      verseNum,
+				})
+			}
 		}
 		n = n + 1
 		if n % config.WORKER_THREAD_REPORT_PROGRESS_RATE == 0 {
@@ -401,6 +412,23 @@ func buildCorpusSentences(
 			}
 
 			pairs := sentencealignment.AlignSentencesByGaleChurchDP(srcSentences, tgtSentences, verseID)
+			
+			chapterParts := strings.SplitN(chapterName, "_", 2)
+			if len(chapterParts) != 2 {
+				fmt.Printf("Invalid chapter name format: %s\n", chapterName)
+				continue
+			}
+			book := chapterParts[0]
+			chapter := chapterParts[1]
+
+			for i := range pairs {
+				sentenceNum := fmt.Sprintf("%d", i+1)
+				pairs[i].ID = fmt.Sprintf("%s_%s_%s", book, chapter, sentenceNum)
+				pairs[i].Book = book
+				pairs[i].Chapter = chapter
+				pairs[i].Sentence = sentenceNum
+			}
+			
 			entry.Pairs = append(entry.Pairs, pairs...)
 
 			prg.Progress <- workerprogress.WorkerProgressMsg{
@@ -414,7 +442,7 @@ func buildCorpusSentences(
 
 	outPath := fmt.Sprintf("%s_%s.tsv", src, tgt)
 	fmt.Printf("Saving aligned corpus: %s/%s\n", outdir, outPath)
-	entry.SaveAsTSV(outPath, outdir)
+	entry.SaveAsTSVSentences(outPath, outdir)
 
 	prg.Progress <- workerprogress.WorkerProgressMsg{
 		WorkerID: prg.WorkerID,
