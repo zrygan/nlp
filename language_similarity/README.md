@@ -15,11 +15,11 @@ Given the archipelagic and mountainous nature of the Philippines, settlement dis
 Following colonization, the establishment of Church-centered towns may have altered these dynamics, increasing interaction and thereby promoting partial linguistic homogenization.
 
 **Goals and Questions**
-1. Quantify lexical or phonological similarity as a function of spatial separation. 
+1. Quantify lexical or phonological similarity as a function of spatial separation.<br> 
 **(RQ 1)** To what extent does geographical distance correlate with linguistic similarity among Philippine languages?
-2. Examine whether terrain features predict language group boundaries. 
+1. Examine whether terrain features predict language group boundaries.<br> 
 **(RQ 2)** How do physical barriers (mountain ranges, waterways, island boundaries) influence the clustering of languages or dialects?
-3. Compare pre-colonial vs. colonial spatial models to see shifts in language clustering. 
+1. Compare pre-colonial vs. colonial spatial models to see shifts in language clustering. <br>
 **(RQ 3)** Do pre-colonial settlement patterns (riverine and coastal barangays) correspond more closely with linguistic similarity than colonial-era, Church-centered town distributions?
-5. Control for sociopolitical and demographic variables. 
+1. Control for sociopolitical and demographic variables. <br>
 **(RQ 4)** Which factor better explains linguistic variation — geographic isolation, population density, or colonial administrative influence?
