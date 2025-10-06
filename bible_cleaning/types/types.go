@@ -178,6 +178,13 @@ func TransfromEscapeCharTSV(text string) string {
 	return text
 }
 
+func RemoveEscapeCharTSV(text string) string {
+	text = strings.ReplaceAll(text, config.TOKEN_TAB, "\t")
+	text = strings.ReplaceAll(text, config.TOKEN_NEWLINE, "\n")
+	text = strings.ReplaceAll(text, config.TOKEN_RETURN, "\r")
+	return text
+}
+
 // Add adds a new text pair to the corpus
 func (pc *ParallelCorpusEntry) Add(source, target, id string) {
 	if id == "" {

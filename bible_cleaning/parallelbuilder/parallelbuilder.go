@@ -10,6 +10,7 @@ import (
 	"time"
 
 	"github.com/zrygan.nlp/bible_cleaning/config"
+	"github.com/zrygan.nlp/bible_cleaning/sentencealignment"
 	"github.com/zrygan.nlp/bible_cleaning/types"
 	"github.com/zrygan.nlp/bible_cleaning/workerprogress"
 )
@@ -183,6 +184,48 @@ func findVerseAlignments(srcIndex, tgtIndex map[string]string) (shared, missingS
 	return shared, missingSrc, missingTgt
 }
 
+func sharedKeys(a, b map[string][]string) []string {
+	var shared []string
+	for k := range a {
+		if _, ok := b[k]; ok {
+			shared = append(shared, k)
+		}
+	}
+	sort.Strings(shared)
+	return shared
+}
+
+func readVerseMap(path string) (map[string][]string, error) {
+	lines, err := readLines(path)
+	if err != nil {
+		return nil, err
+	}
+
+	if len(lines) > 0 && strings.HasPrefix(lines[0], "verse") {
+		lines = lines[1:] // remove header
+	}
+
+	verses := make(map[string][]string)
+
+	for _, line := range lines {
+		parts := strings.SplitN(line, "\t", 2)
+		if len(parts) != 2 {
+			continue
+		}
+		verseID := strings.TrimSpace(parts[0])
+		content := strings.TrimSpace(types.RemoveEscapeCharTSV(parts[1]))
+
+		if content == "" {
+			continue
+		}
+
+		verses[verseID] = append(verses[verseID], content)
+	}
+
+	return verses, nil
+}
+
+
 /*
 
 	# Verse-level parallel corpus generation
@@ -313,13 +356,12 @@ func initializeParallelCorpusBySentences(root string) (map[string]map[string]str
 	fmt.Printf("Found %d languages for sentence-level corpus generation.\n", len(langs))
 	return index, langs, nil
 }
+// buildCorpusSentences aligns verse-level TSVs (verse\tcontent) between src and tgt languages.
+// It performs safe sentence alignment per verse and accounts for missing or uneven sentence counts.
 
-/*
-Given a source and target language, builds a parallel corpus by aligning sentences by line number.
-*/
 func buildCorpusSentences(
 	src, tgt string,
-	index map[string]map[string]string, // verseID -> filepath per language
+	index map[string]map[string]string, // chapterName -> filepath per language
 	outdir string,
 	prg workerprogress.WorkerProgressContext,
 ) {
@@ -328,60 +370,59 @@ func buildCorpusSentences(
 		TargetLang: tgt,
 	}
 
-	for verseID, srcFile := range index[src] {
+	for chapterName, srcFile := range index[src] {
 
-		srcLines, tgtLines, err := readSrcTgtLines(srcFile, &index, tgt, verseID)
-
-		if err != nil {
+		// Find corresponding target file (same chapter)
+		tgtFile, ok := index[tgt][chapterName]
+		if !ok {
+			fmt.Printf("Missing chapter %s in %s\n", chapterName, tgt)
 			continue
 		}
 
-		n := max(len(srcLines), len(tgtLines))
+		srcVerses, err := readVerseMap(srcFile)
+		if err != nil {
+			fmt.Printf("Skipping chapter %s (%s): failed to read src: %v\n", chapterName, srcFile, err)
+			continue
+		}
+		tgtVerses, err := readVerseMap(tgtFile)
+		if err != nil {
+			fmt.Printf("Skipping chapter %s (%s): failed to read tgt: %v\n", chapterName, tgtFile, err)
+			continue
+		}
 
+		shared := sharedKeys(srcVerses, tgtVerses)
 
-		for i := 0; i < n; i++ {
-		
-			srcLine := config.TOKEN_MISSING_TRANSLATION
-			if i < len(srcLines) {
-				srcLine = srcLines[i]
-			}
+		for _, verseID := range shared {
+			srcSentences := srcVerses[verseID]
+			tgtSentences := tgtVerses[verseID]
 
-			tgtLine := config.TOKEN_MISSING_TRANSLATION
-			if i < len(tgtLines) {
-				tgtLine = tgtLines[i]
-			}
-			strings.Split(srcLine, "\t")
-			strings.Split(tgtLine, "\t")
-
-
-			entry.Pairs = append(entry.Pairs, types.TextPair{
-				SourceText: strings.TrimSpace(srcLine),
-				TargetText: strings.TrimSpace(tgtLine),
-				ID:         fmt.Sprintf("%s_%04d", verseID, i+1),
-			})
-
-			if i % config.WORKER_THREAD_REPORT_PROGRESS_RATE != 0 {
+			if len(srcSentences) == 0 || len(tgtSentences) == 0 {
 				continue
 			}
 
+			pairs := sentencealignment.AlignSentencesByGaleChurchDP(srcSentences, tgtSentences, verseID)
+			entry.Pairs = append(entry.Pairs, pairs...)
+
 			prg.Progress <- workerprogress.WorkerProgressMsg{
 				WorkerID: prg.WorkerID,
-				Percent:  float32(i) / float32(n),
-				Status:   fmt.Sprintf("Processed %03d/%03d lines for %s <--> %s", i, n, src, tgt),
+				Status:   fmt.Sprintf("Aligned %s (%d pairs)", verseID, len(pairs)),
 			}
 		}
 	}
 
 	entry.Sort()
 
+	outPath := fmt.Sprintf("%s_%s.tsv", src, tgt)
+	fmt.Printf("Saving aligned corpus: %s/%s\n", outdir, outPath)
+	entry.SaveAsTSV(outPath, outdir)
+
 	prg.Progress <- workerprogress.WorkerProgressMsg{
 		WorkerID: prg.WorkerID,
 		Percent:  1.0,
-		Status:   fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+		Status:   fmt.Sprintf("Finished alignment for %s <--> %s (%03d pairs)", src, tgt, len(entry.Pairs)),
 	}
-	fmt.Printf("Saving TSV file %s\n", outdir)
-	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
 }
+
 
 /*
 Wrapper to pass additional parameters to the worker function.
