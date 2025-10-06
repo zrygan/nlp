@@ -1,35 +1,38 @@
-Pagkatapos ng mga bagay na ito, sinubok ng Diyos si Abraham, at sinabi sa kanya, Abraham, at sinabi niya, Narito ako.
-At kanyang sinabi, Kunin mo ngayon ang iyong anak, ang iyong kaisa-isang anak na si Isaac, na iyong minamahal at pumunta ka sa lupain ng Moria.
-Ialay mo siya bilang handog na susunugin sa itaas ng isa sa mga bundok na aking sasabihin sa iyo.
-Si Abraham ay maagang bumangon at inihanda ang kanyang asno.
-Isinama niya ang dalawa sa kanyang mga batang tauhan at si Isaac na kanyang anak.
-Nagsibak siya ng kahoy para sa handog na susunugin; at siya'y naghanda at pumunta sa lugar na sinabi sa kanya ng Diyos.
-Nang ikatlong araw ay tumingin si Abraham at kanyang natanaw ang lugar na iyon sa malayo.
-Sinabi ni Abraham sa kanyang mga batang tauhan, Maghintay kayo rito at ng asno, at ako at ang bata ay pupunta roon upang kami ay sumamba.
-Babalikan namin kayo.
-At kinuha ni Abraham ang kahoy ng handog na susunugin, at ipinasan kay Isaac na kanyang anak.
-Dinala niya sa kanyang kamay ang apoy at ang patalim at sila'y umalis na magkasama.
-Nagsalita si Isaac kay Abraham na kanyang ama, Ama ko.
-At kanyang sinabi, Narito ako, anak.
-Sinabi niya, Narito ang apoy at ang kahoy, ngunit nasaan ang korderong handog na susunugin?
-Kaya't sinabi ni Abraham, Anak ko, ang Diyos ang magkakaloob ng korderong handog na susunugin.
-At sila'y umalis na magkasama.
-At sila'y dumating sa lugar na sinabi sa kanya ng Diyos.
-Nagtayo roon si Abraham ng isang dambana, inayos ang kahoy, at tinalian si Isaac na kanyang anak at inilagay sa ibabaw ng kahoy na nasa ibabaw ng dambana.
-Iniunat ni Abraham ang kanyang kamay at hinawakan ang patalim upang patayin ang kanyang anak.
-Ngunit tinawag siya ng anghel ng Panginoon mula sa langit, at sinabi, Abraham, Abraham.
-At kanyang sinabi, Narito ako.
-At sa kanya'y sinabi, Huwag mong sasaktan ang bata, o gawan man siya ng anuman, sapagkat ngayon ay nalalaman ko na ikaw ay may takot sa Diyos, at hindi mo ipinagkait sa akin ang iyong anak, ang iyong kaisa-isang anak.
-Kaya't tumingin si Abraham, at nakita niya ang isang tupang lalaki sa likuran niya na ang mga sungay ay sumabit sa mga tinik.
-Lumapit si Abraham at kinuha ang tupa, at siyang inialay na handog na susunugin kapalit ng kanyang anak.
-Kaya't tinawag ni Abraham ang lugar na iyon Yahweh-yireh.
-Kaya't sinasabi hanggang sa araw na ito: Sa bundok ng Panginoon ito ay ipagkakaloob.
-Mula sa langit ay muling tinawag ng anghel ng Panginoon si Abraham.
-At sinabi niya, Sumumpa ako sa aking sarili, wika ng Panginoon , sapagkat ginawa mo ito at hindi mo ipinagkait sa akin ang iyong anak, ang iyong kaisa-isang anak; tunay na pagpapalain kita, at pararamihin ko ang iyong binhi, na gaya ng mga bituin sa langit at mga buhangin sa baybayin ng dagat; at makakamit ng iyong binhi ang pintuang-bayan ng kanyang mga kaaway.
-At sa pamamagitan ng iyong binhi ay pagpapalain ang lahat ng bansa sa lupa, sapagkat sinunod mo ang aking tinig.
-Kaya't bumalik si Abraham sa kanyang mga batang tauhan, at sila'y tumayo at sama-samang nagtungo sa Beer-seba; at nanirahan si Abraham sa Beer-seba.
-Pagkatapos ng mga bagay na ito, ibinalita kay Abraham, Si Milca ay nagkaroon din ng mga anak kay Nahor na iyong kapatid.
-Si Uz ang kanyang panganay, si Buz na kanyang kapatid, at si Kemuel na ama ni Aram; Si Chesed, Hazo, Pildas, Jidlaf, at si Betuel.
-Si Betuel ang naging ama ni Rebecca.
-Ang walong ito ay naging anak ni Milca kay Nahor na kapatid ni Abraham.
-Gayundin, ipinanganak ng kanyang asawang-lingkod na si Reuma sina Teba, Gaham, Taas, at Maaca.
+verse	content
+001	Pagkatapos ng mga bagay na ito, sinubok ng Diyos si Abraham, at sinabi sa kanya, Abraham, at sinabi niya, Narito ako.
+002	At kanyang sinabi, Kunin mo ngayon ang iyong anak, ang iyong kaisa-isang anak na si Isaac, na iyong minamahal at pumunta ka sa lupain ng Moria.
+002	Ialay mo siya bilang handog na susunugin sa itaas ng isa sa mga bundok na aking sasabihin sa iyo.
+003	Si Abraham ay maagang bumangon at inihanda ang kanyang asno.
+003	Isinama niya ang dalawa sa kanyang mga batang tauhan at si Isaac na kanyang anak.
+003	Nagsibak siya ng kahoy para sa handog na susunugin; at siya'y naghanda at pumunta sa lugar na sinabi sa kanya ng Diyos.
+004	Nang ikatlong araw ay tumingin si Abraham at kanyang natanaw ang lugar na iyon sa malayo.
+005	Sinabi ni Abraham sa kanyang mga batang tauhan, Maghintay kayo rito at ng asno, at ako at ang bata ay pupunta roon upang kami ay sumamba.
+005	Babalikan namin kayo.
+006	At kinuha ni Abraham ang kahoy ng handog na susunugin, at ipinasan kay Isaac na kanyang anak.
+006	Dinala niya sa kanyang kamay ang apoy at ang patalim at sila'y umalis na magkasama.
+007	Nagsalita si Isaac kay Abraham na kanyang ama, Ama ko.
+007	At kanyang sinabi, Narito ako, anak.
+007	Sinabi niya, Narito ang apoy at ang kahoy, ngunit nasaan ang korderong handog na susunugin?
+008	Kaya't sinabi ni Abraham, Anak ko, ang Diyos ang magkakaloob ng korderong handog na susunugin.
+008	At sila'y umalis na magkasama.
+009	At sila'y dumating sa lugar na sinabi sa kanya ng Diyos.
+009	Nagtayo roon si Abraham ng isang dambana, inayos ang kahoy, at tinalian si Isaac na kanyang anak at inilagay sa ibabaw ng kahoy na nasa ibabaw ng dambana.
+010	Iniunat ni Abraham ang kanyang kamay at hinawakan ang patalim upang patayin ang kanyang anak.
+011	Ngunit tinawag siya ng anghel ng Panginoon mula sa langit, at sinabi, Abraham, Abraham.
+011	At kanyang sinabi, Narito ako.
+012	At sa kanya'y sinabi, Huwag mong sasaktan ang bata, o gawan man siya ng anuman, sapagkat ngayon ay nalalaman ko na ikaw ay may takot sa Diyos, at hindi mo ipinagkait sa akin ang iyong anak, ang iyong kaisa-isang anak.
+013	Kaya't tumingin si Abraham, at nakita niya ang isang tupang lalaki sa likuran niya na ang mga sungay ay sumabit sa mga tinik.
+013	Lumapit si Abraham at kinuha ang tupa, at siyang inialay na handog na susunugin kapalit ng kanyang anak.
+014	Kaya't tinawag ni Abraham ang lugar na iyon Yahweh-yireh.
+014	Kaya't sinasabi hanggang sa araw na ito: Sa bundok ng Panginoon ito ay ipagkakaloob.
+015	Mula sa langit ay muling tinawag ng anghel ng Panginoon si Abraham.
+016	At sinabi niya, Sumumpa ako sa aking sarili, wika ng Panginoon , sapagkat ginawa mo ito at hindi mo ipinagkait sa akin ang iyong anak, ang iyong kaisa-isang anak;
+017	tunay na pagpapalain kita, at pararamihin ko ang iyong binhi, na gaya ng mga bituin sa langit at mga buhangin sa baybayin ng dagat; at makakamit ng iyong binhi ang pintuang-bayan ng kanyang mga kaaway.
+018	At sa pamamagitan ng iyong binhi ay pagpapalain ang lahat ng bansa sa lupa, sapagkat sinunod mo ang aking tinig.
+019	Kaya't bumalik si Abraham sa kanyang mga batang tauhan, at sila'y tumayo at sama-samang nagtungo sa Beer-seba; at nanirahan si Abraham sa Beer-seba.
+020	Pagkatapos ng mga bagay na ito, ibinalita kay Abraham, Si Milca ay nagkaroon din ng mga anak kay Nahor na iyong kapatid.
+021	Si Uz ang kanyang panganay, si Buz na kanyang kapatid, at si Kemuel na ama ni Aram;
+022	Si Chesed, Hazo, Pildas, Jidlaf, at si Betuel.
+023	Si Betuel ang naging ama ni Rebecca.
+023	Ang walong ito ay naging anak ni Milca kay Nahor na kapatid ni Abraham.
+024	Gayundin, ipinanganak ng kanyang asawang-lingkod na si Reuma sina Teba, Gaham, Taas, at Maaca.

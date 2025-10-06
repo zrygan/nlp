@@ -1,47 +1,51 @@
-Ginbendisyonan han Ginoo hi Sara sumala han iya iginsaad, ngan nagburod hiya ngan nag-anak hin lalake bisan kon lagas na hi Abraham.
-Natawo an bata dida han panahon nga igintalaan han Dyos.
-Ginngaranan hiya ni Abraham nga Isaac.
-Han walo na ka adlaw an iya edad, gintori hiya ni Abraham sumala han iginsugo han Dyos.
-Ang panuigon ni Abraham 100 na an han katawo ni Isaac.
-Nagsiring hi Sara, Gindad-an ako han Dyos hin kalipay ngan pagtawa.
-Maduyog ha akon hin pagtawa an ngatanan nga makakabati hiunong hini.
-Ngan nagpadayon hiya, Hin-o in magsisiring kan Abraham nga magpapasuso pa hi Sara hin kabataan?
-Kundi nag-anak kami hin usa nga lalake dida han lagas na hiya.
-Tinmubo an bata, ngan dida han adlaw han kalutas niya, naghatag hi Abraham hin dako nga panagtawo.
-Usa ka adlaw, nag-uuyag hi Ismael nga anak nira Abraham ug Agar nga Ehiptohanon, ngan hi Isaac nga anak ni Sara.
-Hinkit-an hira ni Sara ngan ginsiring niya hi Abraham, Paiwasa ini nga oripon nga babaye ngan an iya anak.
-Kinahanglan an anak hini nga oripon nga babaye diri umangbit hin bisan ano nga bahin han imo manggad nga pagsusundon ni Isaac nga akon anak.
-Nakapaguol ini hin duro kan Abraham, kay anak man liwat niya hi Ismael.
-Kundi nagsiring an Dyos kan Abraham, Ayaw kabaraka hiunong han bata ngan kan Agar nga imo oripon.
-Buhata an isiring ha imo ni Sara, kay pinaagi ini kan Isaac nga magkakamay-ada ka han mga tulin nga akon iginsaad.
-Tatagan ko liwat hin damo nga mga anak hi Ismael, an anak han oripon nga babaye, basi mahimo hira nga usa nga nasod, kay anak mo liwat hiya.
-Timprano pa han pagkaaga gintagan ni Abraham hi Agar hin pagkaon ngan hin supot nga anit nga puno hin tubig.
-Iginpababa niya an bata kan Agar ngan ginpalakat hiya.
-Linmakat hi Agar ngan nagsinudoysudoy didto ha kamingawan han Berseba.
-Han kaubos na han tubig, ginbayaan niya an bata ha sirong hin usa nga tanaman ngan linmingkod hiya didto hin mga 90 ka metros an kahirayo tikang han bata.
-Nagsiring hiya ha iya ngahaw, Diri ako mailob hin pagkita nga mapatay an akon anak.
-Samtang nalingkod hiya didto, nagtinangis an bata.
-Hinbatian han Dyos nga nagtitinangis an bata, ngan tikang ha langit nagyakan kan Agar an anghel han Dyos, Ano an imo nagugul-an, Agar?
-Ayaw kahadlok.
-Hinbatian han Dyos nga nagtatangis an bata.
-Buhat, kadtoa, purota hiya, ngan pag-liawa hiya.
-Hihimoon ko in usa nga dako nga nasod tikang han iya mga tulin.
-Niyan ginpakita han Dyos kan Agar in usa nga atabay.
-Kinmadto hiya ngan ginpuno hin tubig an supot nga anit ngan ginpainom an bata.
-Kaupod an Dyos han bata samtang nagtutubo hiya; nag-ukoy hiya didto ha kamingawan han Paran ngan nahimo hiya nga batid nga parapanganop.
-Nakaagi an iroy niya hin Ehiptohanon nga asawa para ha iya.
-Hito nga panahon, inmupod hi Abimelec kan Picol nga kapitan han iya kasondalohan, ngan nagsiring kan Abraham, Kaupod nimo an Dyos ha ngatanan nga imo binubuhat.
-Sanglit pagsumpa dinhe ha atubangan han Dyos nga diri ka maglilingo ha akon, han akon mga anak, o han akon mga tulin.
-Nagin maunongon ako ha imo, sanglit pagsaad nga magmamaunongon ka liwat ha akon ngan hini nga nasod nga imo gin-uokyan.
-Nagsiring hi Abraham, Nagsaad ako.
-Nagsumbong hi Abraham kan Abimelec hiunong hin usa nga atabay nga gin-agaw han mga surugoon ni Abimelec.
-Nagsiring hi Abimelec, Diri ako maaram kon hin-o an nagbuhat hini.
-Waray mo man ako pagsumati hiunong hini, ngan syahan pa ini nga akon pakabati hini.
-Niyan gintagan ni Abraham hi Abimelec hin mga karnero, ngan mga baka, ngan naghimo hira nga duha hin ginsabotan.
-Ginlain ni Abraham in pito nga mga nati nga karnero tikang han iya panon, ngan pinmakiana ha iya hi Abimelec, Kay ano nga ginbuhat mo ito?
-Binmaton hi Abraham, Karawta ini nga pito nga mga nati nga karnero.
-Pinaagi hini, kinakarawat mo nga amo ako an nag-ukab hini nga atabay.
-Sanglit gintawag an dapit nga Berseba kay didto pagsumpa hira nga duha.
-Katapos nira maghimo hini nga ginsabotan didto ha Berseba, binmalik hira Abimelec ug Picol ngadto ha Filistia.
-Niyan nagtanom hi Abraham hin kahoy nga tamarindo didto ha Berseba ngan nagsingba hiya han Ginoo nga Waray Kataposan nga Dyos.
-Nag-ukoy hi Abraham didto ha Filistia sulod hin maiha nga panahon.
+verse	content
+001	Ginbendisyonan han Ginoo hi Sara sumala han iya iginsaad,
+002	ngan nagburod hiya ngan nag-anak hin lalake bisan kon lagas na hi Abraham.
+002	Natawo an bata dida han panahon nga igintalaan han Dyos.
+003	Ginngaranan hiya ni Abraham nga Isaac.
+004	Han walo na ka adlaw an iya edad, gintori hiya ni Abraham sumala han iginsugo han Dyos.
+005	Ang panuigon ni Abraham 100 na an han katawo ni Isaac.
+006	Nagsiring hi Sara, Gindad-an ako han Dyos hin kalipay ngan pagtawa.
+006	Maduyog ha akon hin pagtawa an ngatanan nga makakabati hiunong hini.
+007	Ngan nagpadayon hiya, Hin-o in magsisiring kan Abraham nga magpapasuso pa hi Sara hin kabataan?
+007	Kundi nag-anak kami hin usa nga lalake dida han lagas na hiya.
+008	Tinmubo an bata, ngan dida han adlaw han kalutas niya, naghatag hi Abraham hin dako nga panagtawo.
+009	Usa ka adlaw, nag-uuyag hi Ismael nga anak nira Abraham ug Agar nga Ehiptohanon, ngan hi Isaac nga anak ni Sara.
+010	Hinkit-an hira ni Sara ngan ginsiring niya hi Abraham, Paiwasa ini nga oripon nga babaye ngan an iya anak.
+010	Kinahanglan an anak hini nga oripon nga babaye diri umangbit hin bisan ano nga bahin han imo manggad nga pagsusundon ni Isaac nga akon anak.
+011	Nakapaguol ini hin duro kan Abraham, kay anak man liwat niya hi Ismael.
+012	Kundi nagsiring an Dyos kan Abraham, Ayaw kabaraka hiunong han bata ngan kan Agar nga imo oripon.
+012	Buhata an isiring ha imo ni Sara, kay pinaagi ini kan Isaac nga magkakamay-ada ka han mga tulin nga akon iginsaad.
+013	Tatagan ko liwat hin damo nga mga anak hi Ismael, an anak han oripon nga babaye, basi mahimo hira nga usa nga nasod, kay anak mo liwat hiya.
+014	Timprano pa han pagkaaga gintagan ni Abraham hi Agar hin pagkaon ngan hin supot nga anit nga puno hin tubig.
+014	Iginpababa niya an bata kan Agar ngan ginpalakat hiya.
+014	Linmakat hi Agar ngan nagsinudoysudoy didto ha kamingawan han Berseba.
+015	Han kaubos na han tubig, ginbayaan niya an bata ha sirong hin usa nga tanaman
+016	ngan linmingkod hiya didto hin mga 90 ka metros an kahirayo tikang han bata.
+016	Nagsiring hiya ha iya ngahaw, Diri ako mailob hin pagkita nga mapatay an akon anak.
+016	Samtang nalingkod hiya didto, nagtinangis an bata.
+017	Hinbatian han Dyos nga nagtitinangis an bata, ngan tikang ha langit nagyakan kan Agar an anghel han Dyos, Ano an imo nagugul-an, Agar?
+017	Ayaw kahadlok.
+017	Hinbatian han Dyos nga nagtatangis an bata.
+018	Buhat, kadtoa, purota hiya, ngan pag-liawa hiya.
+018	Hihimoon ko in usa nga dako nga nasod tikang han iya mga tulin.
+019	Niyan ginpakita han Dyos kan Agar in usa nga atabay.
+019	Kinmadto hiya ngan ginpuno hin tubig an supot nga anit ngan ginpainom an bata.
+020	Kaupod an Dyos han bata samtang nagtutubo hiya; nag-ukoy hiya didto ha kamingawan han Paran ngan nahimo hiya nga batid nga parapanganop.
+021	Nakaagi an iroy niya hin Ehiptohanon nga asawa para ha iya.
+022	Hito nga panahon, inmupod hi Abimelec kan Picol nga kapitan han iya kasondalohan, ngan nagsiring kan Abraham, Kaupod nimo an Dyos ha ngatanan nga imo binubuhat.
+023	Sanglit pagsumpa dinhe ha atubangan han Dyos nga diri ka maglilingo ha akon, han akon mga anak, o han akon mga tulin.
+023	Nagin maunongon ako ha imo, sanglit pagsaad nga magmamaunongon ka liwat ha akon ngan hini nga nasod nga imo gin-uokyan.
+024	Nagsiring hi Abraham, Nagsaad ako.
+025	Nagsumbong hi Abraham kan Abimelec hiunong hin usa nga atabay nga gin-agaw han mga surugoon ni Abimelec.
+026	Nagsiring hi Abimelec, Diri ako maaram kon hin-o an nagbuhat hini.
+026	Waray mo man ako pagsumati hiunong hini, ngan syahan pa ini nga akon pakabati hini.
+027	Niyan gintagan ni Abraham hi Abimelec hin mga karnero, ngan mga baka, ngan naghimo hira nga duha hin ginsabotan.
+028	Ginlain ni Abraham in pito nga mga nati nga karnero tikang han iya panon,
+029	ngan pinmakiana ha iya hi Abimelec, Kay ano nga ginbuhat mo ito?
+030	Binmaton hi Abraham, Karawta ini nga pito nga mga nati nga karnero.
+030	Pinaagi hini, kinakarawat mo nga amo ako an nag-ukab hini nga atabay.
+031	Sanglit gintawag an dapit nga Berseba kay didto pagsumpa hira nga duha.
+032	Katapos nira maghimo hini nga ginsabotan didto ha Berseba, binmalik hira Abimelec ug Picol ngadto ha Filistia.
+033	Niyan nagtanom hi Abraham hin kahoy nga tamarindo didto ha Berseba ngan nagsingba hiya han Ginoo nga Waray Kataposan nga Dyos.
+034	Nag-ukoy hi Abraham didto ha Filistia sulod hin maiha nga panahon.

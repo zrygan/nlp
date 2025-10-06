@@ -1,28 +1,31 @@
-Gumibo kamo nin sarong altar na akasya.
-Kwadrado ini, na dos metros beynte sentimetros an laba asin an lakbang; an langkaw sarong metro may treynta sentimetros.
-An ibabaw kan apat na kanto kan altar, pormahan nindo na garo mga sungay.
-Ini gibohon na magin sarong pedaso sana sagkod an altar dangan patoson nindo nin bronse an bilog na altar.
-Gumibo kamo nin mga kawa na bubugtakan kan abo; gumibo man kamo nin mga pala, mangko, pansipit saka mga bugtakan nin baga.
-Gibohon nindo iyan gabos sa bronse.
-Gumibo man kamo nin parilyang bronse dangan bugtakan nindo ini nin apat na siningsing na bronse sa lambang kanto.
-Dangan sa irarom kan sanipa, ibugtak nindo iyan magpoon sa kabangaan na parte kan altar paibaba.
-Gumibo kamo nin mga pasanan na akasya, asin patoson nindo nin bronse dangan isurok sa mga siningsing tanganing an mga pasanan yaon sa duwang gilid kan altar kun dinadara ini.
-Tabla an gamiton nindo sa altar, asin gibohon na mayong laog an tahaw kaini siring sa plano na ipinahiling ko saimo sa bukid.
-An patyo kan Tabernakulo gibohon nindo sa mga kurtina nin hinabol na pinong lino.
-Sa parteng habagat, kwarenta y kwatro metros an laba kan kurtina na titindihon sa beynteng bronseng harigi na papatindogan sa beynteng bronseng patungtongan.
-An mga kawit saka mga barat kan harigi gibohon nindo sa plata.
-Siring man an gibohon nindo sa parteng amihan kan patyo.
-Para sa parteng solnopan, gumamit kamo nin mga kurtinang beynte y dos metros an laba, sampolong harigi saka sampolong patungtongan.
-Para sa parteng sirangan na namumugtakan kan pintoan, beynte y dos metros an lakbang kan patyo.
-Sa sarong ibong kan pintoan, an mga kurtina igwa nin laba na seis metros sesenta sentimetros, asin igwa nin tolong harigi saka tolong patungtongan.
-Arog man kaiyan an sa ibong na parte: mga kurtinang seis metros sesenta sentimetros an laba, tolong harigi saka tolong patungtongan.
-An mismong pintoan bugtakan nindo nin binurdahan na kurtinang panlipod na siyam na metros an laba, gibo sa pinong lino asin telang lana na kolor asul, purpura saka pula.
-Isabit nindo ini sa apat na hariging napapatindog sa apat na patungtongan.
-An gabos na harigi sa patyo baratan nindo nin mga pambarat na plata.
-An mga kawit kan mga harigi gibohon sa plata asin an mga patungtongan gibohon sa bronse.
-Kwarenta y kwatro metros an laba kan patyo, beynte y dos metros an lakbang asin dos metros beynte sentimetros an langkaw.
-An mga kurtina gibohon sa hinabol na pinong lino asin an mga patungtongan gibohon sa bronse.
-An gabos na kagamitan sa laog kan Tabernakulo asin an gabos na palo kaini asin kan patyo gibohon nindo sa bronse.
-Pagbotan mo an mga Israelita na darahan ka kan pinakamarahay na lana nin oliba para sa ilawan tanganing padagos iyan na maglaad.
-Aldaw-bangging aatamanon ni Aaron asin kan saiyang mga aki an ilawan na ibubugtak sa laog kan Tabernakulo, sa luwas kan kurtina saka sa atubangan kan Kaban nin Tipan.
-An pagboot na ini ootobon kan mga Israelita asin kan saindang mga kapagarakian sagkod pa man.
+verse	content
+001	Gumibo kamo nin sarong altar na akasya.
+001	Kwadrado ini, na dos metros beynte sentimetros an laba asin an lakbang; an langkaw sarong metro may treynta sentimetros.
+002	An ibabaw kan apat na kanto kan altar, pormahan nindo na garo mga sungay.
+002	Ini gibohon na magin sarong pedaso sana sagkod an altar dangan patoson nindo nin bronse an bilog na altar.
+003	Gumibo kamo nin mga kawa na bubugtakan kan abo; gumibo man kamo nin mga pala, mangko, pansipit saka mga bugtakan nin baga.
+003	Gibohon nindo iyan gabos sa bronse.
+004	Gumibo man kamo nin parilyang bronse dangan bugtakan nindo ini nin apat na siningsing na bronse sa lambang kanto.
+005	Dangan sa irarom kan sanipa, ibugtak nindo iyan magpoon sa kabangaan na parte kan altar paibaba.
+006	Gumibo kamo nin mga pasanan na akasya, asin patoson nindo nin bronse
+007	dangan isurok sa mga siningsing tanganing an mga pasanan yaon sa duwang gilid kan altar kun dinadara ini.
+008	Tabla an gamiton nindo sa altar, asin gibohon na mayong laog an tahaw kaini siring sa plano na ipinahiling ko saimo sa bukid.
+009	An patyo kan Tabernakulo gibohon nindo sa mga kurtina nin hinabol na pinong lino.
+009	Sa parteng habagat, kwarenta y kwatro metros an laba kan kurtina
+010	na titindihon sa beynteng bronseng harigi na papatindogan sa beynteng bronseng patungtongan.
+010	An mga kawit saka mga barat kan harigi gibohon nindo sa plata.
+011	Siring man an gibohon nindo sa parteng amihan kan patyo.
+012	Para sa parteng solnopan, gumamit kamo nin mga kurtinang beynte y dos metros an laba, sampolong harigi saka sampolong patungtongan.
+013	Para sa parteng sirangan na namumugtakan kan pintoan, beynte y dos metros an lakbang kan patyo.
+014	Sa sarong ibong kan pintoan, an mga kurtina igwa nin laba na seis metros sesenta sentimetros, asin igwa nin tolong harigi saka tolong patungtongan.
+015	Arog man kaiyan an sa ibong na parte: mga kurtinang seis metros sesenta sentimetros an laba, tolong harigi saka tolong patungtongan.
+016	An mismong pintoan bugtakan nindo nin binurdahan na kurtinang panlipod na siyam na metros an laba, gibo sa pinong lino asin telang lana na kolor asul, purpura saka pula.
+016	Isabit nindo ini sa apat na hariging napapatindog sa apat na patungtongan.
+017	An gabos na harigi sa patyo baratan nindo nin mga pambarat na plata.
+017	An mga kawit kan mga harigi gibohon sa plata asin an mga patungtongan gibohon sa bronse.
+018	Kwarenta y kwatro metros an laba kan patyo, beynte y dos metros an lakbang asin dos metros beynte sentimetros an langkaw.
+018	An mga kurtina gibohon sa hinabol na pinong lino asin an mga patungtongan gibohon sa bronse.
+019	An gabos na kagamitan sa laog kan Tabernakulo asin an gabos na palo kaini asin kan patyo gibohon nindo sa bronse.
+020	Pagbotan mo an mga Israelita na darahan ka kan pinakamarahay na lana nin oliba para sa ilawan tanganing padagos iyan na maglaad.
+021	Aldaw-bangging aatamanon ni Aaron asin kan saiyang mga aki an ilawan na ibubugtak sa laog kan Tabernakulo, sa luwas kan kurtina saka sa atubangan kan Kaban nin Tipan.
+021	An pagboot na ini ootobon kan mga Israelita asin kan saindang mga kapagarakian sagkod pa man.

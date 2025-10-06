@@ -1,39 +1,48 @@
-Pimmanaw dagiti Israelita iti Refidim ket iti umuna nga aldaw iti maikatlo a bulan kalpasan ti ipapanawda idiay Egipto, dimtengda iti let-ang ti Sinai.
-Nagkampoda iti arisadsad ti Bantay Sinai, ket simmang-at ni Moises iti bantay tapno makiuman iti Dios.
-Inawagan ni Yahweh ni Moises manipud iti bantay ket imbagana kenkuana ti sawenna kadagiti Israelita a kaputotan ni Jacob Nakitayo ti inaramidko kadagiti Egipcio ken no kasano ti panangawitko kadakayokaslaak la agila a nangitayab kadagiti sibong a nangipan kadakayo ditoy.
-Ita, no agtulnogkayo kaniak ket salimetmetanyo ti tulagko, dakayonto dagiti tattaok.
-Kukuak ti entero a daga, ngem dakayto dagiti napili a tattaok, tattao a naikonsagrar nga agpaay laeng kaniak ket agserbikayonto kaniak a kas papadi.
-Simmalog ngarud ni Moises ket inayabanna dagiti amin a panglakayen dagiti tattao.
-Imbagana kadakuada ti amin nga imbilin ni Yahweh.
-Sangsangkamaysa a simmungbat dagiti amin a tattao a tungpalenda ti amin nga imbaga ni Yahweh.
-Ket impakaammo ni Moises ken ni Yahweh ti insungbat dagiti tattao.
-Kinuna ni Yahweh ken ni Moises, Umayakto kenka iti napuskol nga ulep tapno mangngeg dagiti tattao a makisasaoak kenka ket mamatida kenkan manipud ita.
-Imbaga ni Moises ken ni Yahweh ti insungbat dagiti tattao ket kinuna ni Yahweh kenkuana, Inka kadagiti tattao ket ibagam a dalusanda dagiti bagida ita ken inton bigat tapno agsaganada nga agdaydayaw.
-Masapul a labaanda dagiti pagan-anayda ket sisasaganadanton iti maikatlo nga aldaw.
-Iti dayta nga aldaw, bumabaakto iti Bantay Sinai tapno makitadak dagiti amin a tattao.
-Mangikabilkanto iti beddeng iti aglikmut ti bantay a pagpatinggaan dagiti tattao.
-Ibagam kadakuada a dida sumang-at wenno umasideg iti bantay.
-No adda bumaddek iti bantay, masapul a mapapatay Maubor wenno mapana agingga a matay ket maiparit ti mangsagid kenkuana.
-Kasta ti aramidenyo iti tao wenno iti animal; masapul a mapapatay.
-Ngem inton mapuyot ti tangguyob, sumang-atton dagiti tattao iti bantay.
-Simmalog ni Moises iti bantay ket pinagsaganana dagiti tattao nga agdaydayaw.
-Isu a linabaanda dagiti pagan-anayda, ket imbagana kadakuada, Nakasaganakayton iti maikatlo nga aldaw.
-Dikay pay la makikaidda iti assawayo.
-Iti agsapa iti maikatlo nga aldaw, naggurruod ken nagkimat iti bantay.
-Nagparang ti napuskol nga ulep.
-Immaweng ti nakapigpigsa nga uni ti trumpeta.
-Nagpigerger dagiti amin a tattao iti kampo gapu iti buteng.
-Indauloan ida ni Moises a rimmuar iti kampo tapno sabtenda ti Dios.
-Nagtakderda iti arisadsad ti bantay.
-Nakumotan ti Bantay Sinai iti asuk gapu ta bimmaba sadiay ni Yahweh babaen iti apuy.
-Nagpangato ti asuk a kas iti asuk ti urno ket kasta unay ti panagkintayeg ti bantay.
-Pimmigsa a pimmigsa ti uni ti trumpeta.
-Nagsao ni Moises ket sinungbatan ti Dios babaen iti panangibulosna iti gurruod.
-Bimmaba ni Yahweh iti tapaw ti Bantay Sinai, ket inayabanna ni Moises a sumang-at.
-Napan ni Moises iti tapaw, ket kinuna ni Yahweh kenkuana, Sumalogka ket ballaagam dagiti tattao a dida labsan ti beddeng nga umay kumita kaniak.
-No labsanda, adunto kadakuada ti matay.
-Uray dagiti papadi nga umasideg kaniak, masapul a dalusanda dagiti bagbagida, ta no saan, dusaek ida.
-Kinuna ni Moises ken ni Yahweh, Saan a mabalin a sumang-at dagiti tattao gapu ta imbilinmo kadakami nga ibilangmi a nasagradoan ti bantay ken mangikabilkami iti beddeng iti likmutna.
-Ngem kinuna ni Yahweh kenkuana, Sumalogka ket inka alaen ni Aaron.
-Ngem saan a labsan dagiti papadi ken dagiti tattao ti beddeng nga umasideg kaniak ta dusaek ida no aramidenda ti kasta.
-Simmalog ngarud ni Moises ket imbagana kadagiti tattao ti sinao ti Apo .
+verse	content
+001	Pimmanaw dagiti Israelita iti Refidim ket iti umuna nga aldaw iti maikatlo a bulan kalpasan ti ipapanawda idiay Egipto, dimtengda iti let-ang ti Sinai.
+001	Nagkampoda iti arisadsad ti Bantay Sinai, ket
+002	simmang-at ni Moises iti bantay tapno makiuman iti Dios.
+003	Inawagan ni Yahweh ni Moises manipud iti bantay ket imbagana kenkuana ti sawenna kadagiti Israelita a kaputotan ni Jacob
+004	Nakitayo ti inaramidko kadagiti Egipcio ken no kasano ti panangawitko kadakayokaslaak la agila a nangitayab kadagiti sibong a nangipan kadakayo ditoy.
+005	Ita, no agtulnogkayo kaniak ket salimetmetanyo ti tulagko, dakayonto dagiti tattaok.
+005	Kukuak ti entero a daga, ngem dakayto dagiti napili a tattaok,
+006	tattao a naikonsagrar nga agpaay laeng kaniak ket agserbikayonto kaniak a kas papadi.
+007	Simmalog ngarud ni Moises ket inayabanna dagiti amin a panglakayen dagiti tattao.
+007	Imbagana kadakuada ti amin nga imbilin ni Yahweh.
+008	Sangsangkamaysa a simmungbat dagiti amin a tattao a tungpalenda ti amin nga imbaga ni Yahweh.
+008	Ket impakaammo ni Moises ken ni Yahweh ti insungbat dagiti tattao.
+009	Kinuna ni Yahweh ken ni Moises, Umayakto kenka iti napuskol nga ulep tapno mangngeg dagiti tattao a makisasaoak kenka ket mamatida kenkan manipud ita.
+010	Imbaga ni Moises ken ni Yahweh ti insungbat dagiti tattao
+011	ket kinuna ni Yahweh kenkuana, Inka kadagiti tattao ket ibagam a dalusanda dagiti bagida ita ken inton bigat tapno agsaganada nga agdaydayaw.
+011	Masapul a labaanda dagiti pagan-anayda
+012	ket sisasaganadanton iti maikatlo nga aldaw.
+012	Iti dayta nga aldaw, bumabaakto iti Bantay Sinai tapno makitadak dagiti amin a tattao.
+013	Mangikabilkanto iti beddeng iti aglikmut ti bantay a pagpatinggaan dagiti tattao.
+013	Ibagam kadakuada a dida sumang-at wenno umasideg iti bantay.
+013	No adda bumaddek iti bantay, masapul a mapapatay
+014	Maubor wenno mapana agingga a matay ket maiparit ti mangsagid kenkuana.
+014	Kasta ti aramidenyo iti tao wenno iti animal; masapul a mapapatay.
+014	Ngem inton mapuyot ti tangguyob, sumang-atton dagiti tattao iti bantay.
+015	Simmalog ni Moises iti bantay ket pinagsaganana dagiti tattao nga agdaydayaw.
+015	Isu a linabaanda dagiti pagan-anayda,
+016	ket imbagana kadakuada, Nakasaganakayton iti maikatlo nga aldaw.
+016	Dikay pay la makikaidda iti assawayo.
+017	Iti agsapa iti maikatlo nga aldaw, naggurruod ken nagkimat iti bantay.
+017	Nagparang ti napuskol nga ulep.
+017	Immaweng ti nakapigpigsa nga uni ti trumpeta.
+017	Nagpigerger dagiti amin a tattao iti kampo gapu iti buteng.
+018	Indauloan ida ni Moises a rimmuar iti kampo tapno sabtenda ti Dios.
+018	Nagtakderda iti arisadsad ti bantay.
+019	Nakumotan ti Bantay Sinai iti asuk gapu ta bimmaba sadiay ni Yahweh babaen iti apuy.
+019	Nagpangato ti asuk a kas iti asuk ti urno ket kasta unay ti panagkintayeg ti bantay.
+020	Pimmigsa a pimmigsa ti uni ti trumpeta.
+020	Nagsao ni Moises ket sinungbatan ti Dios babaen iti panangibulosna iti gurruod.
+021	Bimmaba ni Yahweh iti tapaw ti Bantay Sinai, ket inayabanna ni Moises a sumang-at.
+021	Napan ni Moises iti tapaw,
+022	ket kinuna ni Yahweh kenkuana, Sumalogka ket ballaagam dagiti tattao a dida labsan ti beddeng nga umay kumita kaniak.
+022	No labsanda, adunto kadakuada ti matay.
+023	Uray dagiti papadi nga umasideg kaniak, masapul a dalusanda dagiti bagbagida, ta no saan, dusaek ida.
+024	Kinuna ni Moises ken ni Yahweh, Saan a mabalin a sumang-at dagiti tattao gapu ta imbilinmo kadakami nga ibilangmi a nasagradoan ti bantay ken mangikabilkami iti beddeng iti likmutna.
+025	Ngem kinuna ni Yahweh kenkuana, Sumalogka ket inka alaen ni Aaron.
+025	Ngem saan a labsan dagiti papadi ken dagiti tattao ti beddeng nga umasideg kaniak ta dusaek ida no aramidenda ti kasta.
+026	Simmalog ngarud ni Moises ket imbagana kadagiti tattao ti sinao ti Apo .

@@ -1,43 +1,46 @@
-Inarakup ni Jose ti amana ket agsangsangit a mangag-agek iti rupana.
-Kalpasanna, imbilinna a maembalsamo ti bangkayna.
-Inaramidda daytoy iti 40 nga aldaw, ti bilang ti aldaw a gagangay a panagembalsamo.
-Dinung-awan dagiti Egipcio iti 70 nga aldaw.
-Idi nalpas ti tiempo a panagdung-aw, kinuna ni Jose kadagiti ofisiales ti ari, Pangngaasiyo ta inkay ibaga iti ari a sakbay a matay ni tatangko, dinawatna nga itabonko idiay Canaan, iti tanem nga insaganana a para kenkuana.
-Inkarik a tungpalen ti dawatna.
-Ibagayo ngarud iti ari a kiddawek ti pammalubosna nga innak itabon ti amak.
-Agsubliakto met laeng.
-Inka itabon ni tatangmo a kas inkarim kenkuana, kinuna ti ari.
-Napan intabon ni Jose ti tatangna.
-Nakipamumpon dagiti amin nga ofisiales ti ari, dagiti panglakayen ti palasiona ken dagiti mabigbigbig nga umili iti Egipto.
-Kimmuyog ti familiana, dagiti kakabsatna ken ti familia ni tatangna.
-Dagiti laeng babassit nga annakda, dagiti kalding, karnero, ken bakada ti nabati idiay Gosen.
-Kimmuyog met kenkuana dagiti tattao a naglugan kadagiti lugan a pakigubat ken dagiti nagkabalio a soldado.
-Nakadakdakkel ti bunggoy.
-Idi dumtengda iti pagirikan iti Atad, iti daya ti Jordan, nagsardengda ket nabayag a nagdungdung-awda iti napigsa.
-Pito nga aldaw nga inannong ni Jose ti seremonia ti panagdung-aw.
-Idi makita dagiti umili ti Canaan dagiti agdudung-aw idiay Atad, kinunada, Nadaeg daytoy a seremonia ti panagdung-aw dagiti Egipcio.
-Daytoy ti gapuna nga Abel Mizraim ti naipanagan iti dayta a lugar.
-Tinungpal dagiti annak ni Jacob ti imbilin ti amada kadakuada.
-Impanda ti bangkayna idiay Canaan ket intabonda iti rukib idiay Macpela, iti daya ti Mamre, iti talon a ginatang ni Abraham ken ni Efron a Heteo.
-Kalpasan ti panangitabon ni Jose iti amana, nagsubli idiay Egipto agraman dagiti kakabsatna ken amin a kimmuyog kenkuana a nakipumpon.
-Kalpasan ti ipapatay ni tatangda, kinuna dagiti kakabsat ni Jose, Kaguranatayo pay laeng ngata ni Jose ket balsennatayo iti amin a kinadakes nga impaaytayo kenkuana?
-Iti kasta, pinaibagada ken ni Jose, Sakbay a natay ni tatang, imbagana kadakami nga ibagami daytoy kenka, Pangngaasim ta pakawanem dagiti kakabsatmo iti kinadakes nga inaramidda kenka.
-Ita, pakawanennakami koma iti dakes nga inaramidmi, dakami nga adipen ti Dios ni tatangmo.
-Nagsangit ni Jose idi maipakaammo daytoy kenkuana.
-Kalpasanna, mismo a dagiti kakabsatna ti dimmatag kenkuana ket nagruknoyda iti sangoananna.
-Adtoykami a sisasagana nga agserbi a kas tagabum, kinunada.
-Ngem kinuna ni Jose, Dikay agbuteng.
-Diak mabalin nga alaen ti lugar ti Dios.
-Dakes ti pinanggepyo nga aramiden kaniak, ngem pinagbalin ti Dios a naimbag daytoy tapno maispal ti adu a tattao a sibibiag ita nga aldaw gapu iti napasamak.
-Awan ti rumbeng a pagbutnganyo.
-Siak ti makaammo kadakayo ken kadagiti annakyo.
-Idi nangngegda daytoy, natignay ti pusoda ket timmured ti pakinakemda.
-Nagtalinaed ni Jose idiay Egipto agraman dagiti familia ti amana.
-Agtawen iti 110 idi matay.
-Nakitana pay dagiti dadduma nga annak ni Efraim ken dagiti appokona.
-Adda pay la a biag idi maipasngay dagiti annak ni Makir nga anak ni Manases; pinagbalinna ida a kameng ti familiana.
-Kinunana kadagiti kakabsatna, Dandanin ti ipapatayko, ngem awan pagdanaganyo ta aywanannakayo ti Dios.
-Ipanawnakayo iti daytoy a daga ket ipannakayo iti daga a sinapataanna nga ited kada Abraham, Isaac ken Jacob.
-Kalpasanna, pinagsapata ni Jose dagiti kakabagianna, Ikariyo nga inton ipannakayo ti Dios iti dayta a daga, ikuyogyonto ti bangkayko.
-Agtawen iti 110 ni Jose idi matay.
-Binalsamoda ti bangkayna idiay Egipto sada inkabil iti lungon.
+verse	content
+001	Inarakup ni Jose ti amana ket agsangsangit a mangag-agek iti rupana.
+002	Kalpasanna, imbilinna a maembalsamo ti bangkayna.
+003	Inaramidda daytoy iti 40 nga aldaw, ti bilang ti aldaw a gagangay a panagembalsamo.
+003	Dinung-awan dagiti Egipcio iti 70 nga aldaw.
+004	Idi nalpas ti tiempo a panagdung-aw, kinuna ni Jose kadagiti ofisiales ti ari, Pangngaasiyo ta inkay ibaga iti ari
+005	a sakbay a matay ni tatangko, dinawatna nga itabonko idiay Canaan, iti tanem nga insaganana a para kenkuana.
+005	Inkarik a tungpalen ti dawatna.
+005	Ibagayo ngarud iti ari a kiddawek ti pammalubosna nga innak itabon ti amak.
+005	Agsubliakto met laeng.
+006	Inka itabon ni tatangmo a kas inkarim kenkuana, kinuna ti ari.
+007	Napan intabon ni Jose ti tatangna.
+007	Nakipamumpon dagiti amin nga ofisiales ti ari, dagiti panglakayen ti palasiona ken dagiti mabigbigbig nga umili iti Egipto.
+008	Kimmuyog ti familiana, dagiti kakabsatna ken ti familia ni tatangna.
+008	Dagiti laeng babassit nga annakda, dagiti kalding, karnero, ken bakada ti nabati idiay Gosen.
+009	Kimmuyog met kenkuana dagiti tattao a naglugan kadagiti lugan a pakigubat ken dagiti nagkabalio a soldado.
+009	Nakadakdakkel ti bunggoy.
+010	Idi dumtengda iti pagirikan iti Atad, iti daya ti Jordan, nagsardengda ket nabayag a nagdungdung-awda iti napigsa.
+010	Pito nga aldaw nga inannong ni Jose ti seremonia ti panagdung-aw.
+011	Idi makita dagiti umili ti Canaan dagiti agdudung-aw idiay Atad, kinunada, Nadaeg daytoy a seremonia ti panagdung-aw dagiti Egipcio.
+011	Daytoy ti gapuna nga Abel Mizraim ti naipanagan iti dayta a lugar.
+012	Tinungpal dagiti annak ni Jacob ti imbilin ti amada kadakuada.
+013	Impanda ti bangkayna idiay Canaan ket intabonda iti rukib idiay Macpela, iti daya ti Mamre, iti talon a ginatang ni Abraham ken ni Efron a Heteo.
+014	Kalpasan ti panangitabon ni Jose iti amana, nagsubli idiay Egipto agraman dagiti kakabsatna ken amin a kimmuyog kenkuana a nakipumpon.
+015	Kalpasan ti ipapatay ni tatangda, kinuna dagiti kakabsat ni Jose, Kaguranatayo pay laeng ngata ni Jose ket balsennatayo iti amin a kinadakes nga impaaytayo kenkuana?
+016	Iti kasta, pinaibagada ken ni Jose, Sakbay a natay ni tatang,
+017	imbagana kadakami nga ibagami daytoy kenka, Pangngaasim ta pakawanem dagiti kakabsatmo iti kinadakes nga inaramidda kenka.
+017	Ita, pakawanennakami koma iti dakes nga inaramidmi, dakami nga adipen ti Dios ni tatangmo.
+017	Nagsangit ni Jose idi maipakaammo daytoy kenkuana.
+018	Kalpasanna, mismo a dagiti kakabsatna ti dimmatag kenkuana ket nagruknoyda iti sangoananna.
+018	Adtoykami a sisasagana nga agserbi a kas tagabum, kinunada.
+019	Ngem kinuna ni Jose, Dikay agbuteng.
+019	Diak mabalin nga alaen ti lugar ti Dios.
+020	Dakes ti pinanggepyo nga aramiden kaniak, ngem pinagbalin ti Dios a naimbag daytoy tapno maispal ti adu a tattao a sibibiag ita nga aldaw gapu iti napasamak.
+021	Awan ti rumbeng a pagbutnganyo.
+021	Siak ti makaammo kadakayo ken kadagiti annakyo.
+021	Idi nangngegda daytoy, natignay ti pusoda ket timmured ti pakinakemda.
+022	Nagtalinaed ni Jose idiay Egipto agraman dagiti familia ti amana.
+022	Agtawen iti 110 idi matay.
+023	Nakitana pay dagiti dadduma nga annak ni Efraim ken dagiti appokona.
+023	Adda pay la a biag idi maipasngay dagiti annak ni Makir nga anak ni Manases; pinagbalinna ida a kameng ti familiana.
+024	Kinunana kadagiti kakabsatna, Dandanin ti ipapatayko, ngem awan pagdanaganyo ta aywanannakayo ti Dios.
+024	Ipanawnakayo iti daytoy a daga ket ipannakayo iti daga a sinapataanna nga ited kada Abraham, Isaac ken Jacob.
+025	Kalpasanna, pinagsapata ni Jose dagiti kakabagianna, Ikariyo nga inton ipannakayo ti Dios iti dayta a daga, ikuyogyonto ti bangkayko.
+026	Agtawen iti 110 ni Jose idi matay.
+026	Binalsamoda ti bangkayna idiay Egipto sada inkabil iti lungon.

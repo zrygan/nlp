@@ -1,53 +1,90 @@
-Impaawit nen Jacob iray anak ton lalaki tan kuanto, Gali diad abay ko, ta ibagak so nagawad sikayo diad arapen a panaon Mantitipon tan dengel kayo, lalakin anak nen Jacob, Dengel kayod ama yon Israel.
-Ruben ya anak kon pangulowan, sikay biskeg ko, Tan onaan ya anak ko nen kabisbiskegan ko, Say sankamapaatageyan tan sankabiskegan ed amin da ray anak kon lalaki.
-Singa ka mabiskeg a delap, Balet ag ka magmaliw a sankatalonggaringan, Lapud akiakdul kad inamung kon bii, Tan dinotakan moy dokulan na amam.
-Sanagi ra di Simeon tan Levi.
-Ikakana ray armas dad panggawa ray deral.
-Ag ak mibalid maamut iran tongtongan da.
-Ag ak mibiang ed saray pandaragop da, Ta lapud petang na olo ra amatey iray totoo Tan nilopuy da ray bakan kalakyan a para galaw.
-Sakey a samba komuy niwala ed pasnuk da, lapud alablabas, Tan diad petang na olo ra, lapud mapalalon maruksa.
-Ikaykayat ko rad intiron dalin na Israel.
-Itaytayak ko rad saray totoo na Israel.
-Juda, idayew ka na saray agagim a lalaki.
-Tetekmelan mod beklew iray kalaban mo.
-Ondakmomod sika iray lalakin agagim.
-Si Juda et singa lion.
-Papateyen to ray labay ton pateyen, insan ompapawil ed balaung to.
-Maninat-inat tan mandokul-dokul.
-Anggapoy makakpel a manigensigen ed sikato.
-Bembenan toy baston na ari.
-Manoley lawas iray kabyangay boleg to.
-Maniter ed sikato iray bansa na buis da Tan ondakmomo ran ontoluk ed sikato.
-Isisinger tod sengeg na ubas so kilaw ya asno to, Isisinger tod sankaabigan ya ubas.
-Ipepesak toy kawes to ed alak ya ambalangan singa dala.
-Ombabalanga ray mata to lapud kakainom toy alak.
-Ompopoti ray ngipen to lapud kakainom toy gatas.
-Si Zabulon et manayam ed gilig na dayat.
-Magmaliw a puirto na saray barko iray sakop ton gilig na dayat.
-Say dalin to onsabi ya anggad Sidon.
-Si Isacar et singa mabiskeg ya asno A mandokdokul ed leet na saray sapin a sako.
-Balet nanenengneng ton maung a pasen so pampapainawaan to Tan makaroyroyo so dalin.
-Ipaparaan toy takeb ton manakbat Tan sikatoy napapasoot a mankimey a sakey ya aripen.
-Si Dan et manoley ed saray totoo to.
-Magmaliw iran singa saray arum a tribu na Israel.
-Magmaliw ya oleg ed gilig na dalan si Dan, Sakey a nanditan oleg diad gilig na basbas, A mangetket ed mokur na kabayo, Pian napelag a nabalongyar ed beneg to so akakabayo.
-Manalagar ak na panangilaban mo, Katawan .
-Dogpaan na sakey ya olup na matatakew si Gad, Balet poliktaran to ra, insan to ra osilan.
-Panlapwan na masustansian tagano so dalin nen Aser.
-Mangiter na kakanen a manepeg ed ari.
-Si Neftali et sakey ya ulsa a batik-batik ya anggan iner, Tan makapalikliket iray anak ton ankekelag.
-Si Jose et singa sakey ya asnod katakelan a walad gilig na sobul, Sakey a kilaw na kabayo a walad alusadsar na palandey.
-Pinasyan dogpaan na saray kalaban to, Tan osilan dan awit day pana ra.
-Balet mansiasiansian mabiskeg so pana to, Tan napapabiskeg iray taklay to Diad panamegley na pakayari na Makapanyarin Dios nen Jacob.
-Napapabiskeg na Managpastol, say Manangyagel ed Israel.
-Say Dios na amam so ontutulong ed sika, Say Makapanyarin-amin a Dios a mamibindision ed sika, Na saray bindision ya oran a manlalapud tawen Tan aralem iran sobul a manlalapud dalem na dalin, Saray bindision ya amayamay a baka tan amayamay ya anak, Saray bindision a trigo tan saray rosas, Saray bindision a dagdaan iran palandey, Saray makapalikliket a bengatlan manlalapud andi-anggaan iran pokdul.
-Mansiansia komun ira yan bindision ed olo nen Jose, Diad muling na samay nibiig nen saman ed saray agagi ton lalaki.
-Si Benjamin et singa sakey a maruksan asod katakelan.
-Agew-labin mamangakan na napapatey to.
-Sikara yay labinduan tribu na Israel, tan sikara yay kaonuran a salita nen ama ra nen bindisionan toy balang sakey ed sikara.
-Insan ingganggan nen Jacob iray lalakin anak to, Natan ta magano ak lan mitipon ed saray totook ya andi lad bilay, kerewen kon ipompon yo ak ya ipitipon ed amak tan saray lalakik diad lobuk a walad alog nen Efron a Heteo, diad Macpela a bokig na Mamre, diad dalin na Canaan.
-Sinaliw nen laki yon Abraham iman ya ongib tan alog ed kinen Efron a Heteo, pian pamponponan.
-Diman so angipomponan dad kindi laki Abraham tan di asawa ran Sara; diman so angipomponan ed kindi laki Isaac tan di asawa ran Rebeca; tan diman met so angipomponan kod kinen Lea.
-Asaliw ed saray Heteo ira may alog tan ongib.
-Diman yo ak ipompon.
-Kayarin binilin nen Jacob iray anak ton lalaki, pinmawil a dinmokul, insan inatey.
+verse	content
+001	Impaawit nen Jacob iray anak ton lalaki tan kuanto, Gali diad abay ko, ta ibagak so nagawad sikayo diad arapen a panaon
+002	Mantitipon tan dengel kayo,
+003	lalakin anak nen Jacob,
+004	Dengel kayod ama yon Israel.
+005	Ruben ya anak kon pangulowan,
+006	sikay biskeg ko,
+007	Tan onaan ya anak ko nen kabisbiskegan ko,
+008	Say sankamapaatageyan tan sankabiskegan ed amin da ray anak kon lalaki.
+009	Singa ka mabiskeg a delap,
+010	Balet ag ka magmaliw a sankatalonggaringan,
+011	Lapud akiakdul kad inamung kon bii,
+012	Tan dinotakan moy dokulan na amam.
+013	Sanagi ra di Simeon tan Levi.
+014	Ikakana ray armas dad panggawa ray deral.
+015	Ag ak mibalid maamut iran tongtongan da.
+016	Ag ak mibiang ed saray pandaragop da,
+017	Ta lapud petang na olo ra amatey iray totoo
+018	Tan nilopuy da ray bakan kalakyan a para galaw.
+019	Sakey a samba komuy niwala ed pasnuk da, lapud alablabas,
+020	Tan diad petang na olo ra, lapud mapalalon maruksa.
+021	Ikaykayat ko rad intiron dalin na Israel.
+022	Itaytayak ko rad saray totoo na Israel.
+023	Juda, idayew ka na saray agagim a lalaki.
+024	Tetekmelan mod beklew iray kalaban mo.
+025	Ondakmomod sika iray lalakin agagim.
+026	Si Juda et singa lion.
+027	Papateyen to ray labay ton pateyen, insan ompapawil ed balaung to.
+028	Maninat-inat tan mandokul-dokul.
+029	Anggapoy makakpel a manigensigen ed sikato.
+030	Bembenan toy baston na ari.
+031	Manoley lawas iray kabyangay boleg to.
+032	Maniter ed sikato iray bansa na buis da
+033	Tan ondakmomo ran ontoluk ed sikato.
+034	Isisinger tod sengeg na ubas so kilaw ya asno to,
+035	Isisinger tod sankaabigan ya ubas.
+036	Ipepesak toy kawes to ed alak ya ambalangan singa dala.
+037	Ombabalanga ray mata to lapud kakainom toy alak.
+038	Ompopoti ray ngipen to lapud kakainom toy gatas.
+039	Si Zabulon et manayam ed gilig na dayat.
+040	Magmaliw a puirto na saray barko iray sakop ton gilig na dayat.
+041	Say dalin to onsabi ya anggad Sidon.
+042	Si Isacar et singa mabiskeg ya asno
+043	A mandokdokul ed leet na saray sapin a sako.
+044	Balet nanenengneng ton maung a pasen so pampapainawaan to
+045	Tan makaroyroyo so dalin.
+046	Ipaparaan toy takeb ton manakbat
+047	Tan sikatoy napapasoot a mankimey a sakey ya aripen.
+048	Si Dan et manoley ed saray totoo to.
+049	Magmaliw iran singa saray arum a tribu na Israel.
+050	Magmaliw ya oleg ed gilig na dalan si Dan,
+051	Sakey a nanditan oleg diad gilig na basbas,
+052	A mangetket ed mokur na kabayo,
+053	Pian napelag a nabalongyar ed beneg to so akakabayo.
+054	Manalagar ak na panangilaban mo, Katawan .
+055	Dogpaan na sakey ya olup na
+056	matatakew si Gad,
+057	Balet poliktaran to ra, insan to ra osilan.
+058	Panlapwan na masustansian tagano so dalin nen Aser.
+059	Mangiter na kakanen a manepeg ed ari.
+060	Si Neftali et sakey ya ulsa a batik-batik ya anggan iner,
+061	Tan makapalikliket iray anak ton ankekelag.
+062	Si Jose et singa sakey ya asnod katakelan a walad gilig na sobul,
+063	Sakey a kilaw na kabayo a walad alusadsar na palandey.
+064	Pinasyan dogpaan na saray kalaban to,
+065	Tan osilan dan awit day pana ra.
+066	Balet mansiasiansian mabiskeg so pana to,
+067	Tan napapabiskeg iray taklay to
+068	Diad panamegley na pakayari na Makapanyarin Dios nen Jacob.
+069	Napapabiskeg na Managpastol, say Manangyagel ed Israel.
+070	Say Dios na amam so ontutulong ed sika,
+071	Say Makapanyarin-amin a Dios a mamibindision ed sika,
+072	Na saray bindision ya oran a manlalapud tawen
+073	Tan aralem iran sobul a manlalapud dalem na dalin,
+074	Saray bindision ya amayamay a baka tan amayamay ya anak,
+075	Saray bindision a trigo tan saray rosas,
+076	Saray bindision a dagdaan iran palandey,
+077	Saray makapalikliket a bengatlan manlalapud andi-anggaan iran pokdul.
+078	Mansiansia komun ira yan bindision ed olo nen Jose,
+079	Diad muling na samay nibiig nen saman ed saray agagi ton lalaki.
+080	Si Benjamin et singa sakey a maruksan asod katakelan.
+081	Agew-labin mamangakan na napapatey to.
+082	Sikara yay labinduan tribu na Israel, tan sikara yay kaonuran a salita nen ama ra nen bindisionan toy balang sakey ed sikara.
+083	Insan ingganggan nen Jacob iray lalakin anak to, Natan ta magano ak lan mitipon ed saray totook ya andi lad bilay, kerewen kon ipompon yo ak ya ipitipon ed amak tan saray lalakik diad lobuk a walad alog nen Efron a Heteo,
+084	diad Macpela a bokig na Mamre, diad dalin na Canaan.
+084	Sinaliw nen laki yon Abraham iman ya ongib tan alog ed kinen Efron a Heteo, pian pamponponan.
+085	Diman so angipomponan dad kindi laki Abraham tan di asawa ran Sara; diman so angipomponan ed kindi laki Isaac tan di asawa ran Rebeca; tan diman met so angipomponan kod kinen Lea.
+086	Asaliw ed saray Heteo ira may alog tan ongib.
+086	Diman yo ak ipompon.
+087	Kayarin binilin nen Jacob iray anak ton lalaki, pinmawil a dinmokul, insan inatey.

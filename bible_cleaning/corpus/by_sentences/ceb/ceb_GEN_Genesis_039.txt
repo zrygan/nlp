@@ -1,29 +1,33 @@
-Gidala si Jose sa mga Ismaelita ngadto sa Ehipto ug gipalit siya ni Potifar, usa ka opisyal sa Paraon ug kapitan sa mga guwardiya sa palasyo.
-Apan ang Ginoo nag-uban kang Jose ug nagmauswagon siya.
-Didto siya magpuyo sa balay sa iyang agalon nga Ehiptohanon.
-Nakita ni Potifar nga nag-uban kang Jose ang Ginoo ug tungod niini nagmalampuson gayod si Jose sa tanan niyang gibuhat.
-Gikahimut-an ni Potifar si Jose ug ang iyang pag-alagad kaniya busa gihimo niyang piniyalan si Jose sa iyang balay ug sa tanan niyang kabtangan.
-Sukad niadto, gipanalanginan sa Ginoo ang panimalay ni Potifar tungod kang Jose.
-Gipanalanginan sa Ginoo ang tanan nga diha sa iyang balay ug sa iyang kaumahan.
-Gipiyal ni Potifar kang Jose ang tanan ug wala na siyay laing hunahunaon gawas sa iyang pagkaon.
-Si Jose maayog barog ug guwapo nga pagkatawo.
-Wala madugay, ang asawa ni Potifar giabot ug kaibog kang Jose ug miingon siya, Magdulog kita.
-Apan midumili si Jose ug miingon, Samtang ania ako dinhi gipiyal kanako sa imong bana ang tanan nga ania niining balaya.
-Managsama kamig gahom niining balaya ug walay bisan unsa dinhi nga gihikaw niya kanako gawas kanimo nga iyang asawa.
-Busa dili ako makaako paghimo sa ingon kadaotang buhat ug sa pagpakasala batok sa Dios.
-Ug bisag adlaw-adlaw gidani sa asawa ni Potifar si Jose aron makighilawas kaniya, wala gayod manumbaling si Jose.
-Apan usa ka adlaw niana misulod si Jose sa balay aron pag-atiman sa iyang buluhaton.
-Nahiatol kini nga walay laing tawo didto.
-Gigunitan sa asawa ni Potifar ang sapot ni Jose ug miingon, Tana!
-Magdulog kita.
-Apan miipsot ug midagan si Jose ngadto sa gawas ug nahabilin ang iyang kupo didto sa kamot sa babaye.
-Kay ang bisti ra man ni Jose ang iyang nagunitan ug nakadagan man si Jose, gitawag sa asawa ni Potifar ang iyang mga sulugoon ug giingnan, Tan-awa ninyo kini!
-Gidala sa akong bana dinhi sa amo kining Hebreohanon ug karon buot niya kaming pakaulawan.
-Misulod siya sa akong kuwarto kay buot niya akong pahimuslan apan misinggit ako ug midagan siya ug nabiyaan niya kining iyang kupo.
-Gitagoan niya ang bisti ni Jose hangtod sa pag-uli sa iyang bana.
-Unya gisuginlan niya ang iyang bana sa tinumotumo niyang istorya: Kanang Hebreohanon nga imong gidala nganhi sa ato misulod sa akong kuwarto kay buot niya akong pahimuslan.
-Apan misinggit ako busa midagan siya ug nabiyaan niya kining iyang kupo.
-Misinta sa kasuko ang agalon ni Jose sa pagkabati niya niini.
-Gipadakop niya si Jose ug gipabilanggo tipon sa mga binilanggo sa hari.
-Apan nag-uban kang Jose ang Ginoo ug gikaluy-an niya si Jose mao nga gitagad siya pag-ayo sa guwardiya sa bilanggoan.
-Gitugyan sa guwardiya kang Jose ang katungod sa pagdumala sa tanang gimbuhaton sulod sa bilanggoan ug wala nay kinahanglan nga mabalaka pa siya sa bisan unsa nga iyang gipiyal kang Jose kay nag-uban man kang Jose ang Ginoo ug naghatag ug kalamposan sa tanan niyang gibuhat.
+verse	content
+001	Gidala si Jose sa mga Ismaelita ngadto sa Ehipto ug gipalit siya ni Potifar, usa ka opisyal sa Paraon ug kapitan sa mga guwardiya sa palasyo.
+002	Apan ang Ginoo nag-uban kang Jose ug nagmauswagon siya.
+002	Didto siya magpuyo sa balay sa iyang agalon nga Ehiptohanon.
+003	Nakita ni Potifar nga nag-uban kang Jose ang Ginoo ug tungod niini nagmalampuson gayod si Jose sa tanan niyang gibuhat.
+004	Gikahimut-an ni Potifar si Jose ug ang iyang pag-alagad kaniya busa gihimo niyang piniyalan si Jose sa iyang balay ug sa tanan niyang kabtangan.
+005	Sukad niadto, gipanalanginan sa Ginoo ang panimalay ni Potifar tungod kang Jose.
+005	Gipanalanginan sa Ginoo ang tanan nga diha sa iyang balay ug sa iyang kaumahan.
+006	Gipiyal ni Potifar kang Jose ang tanan ug wala na siyay laing hunahunaon gawas sa iyang pagkaon.
+007	Si Jose maayog barog ug guwapo nga pagkatawo.
+008	Wala madugay, ang asawa ni Potifar giabot ug kaibog kang Jose ug miingon siya, Magdulog kita.
+009	Apan midumili si Jose ug miingon, Samtang ania ako dinhi gipiyal kanako sa imong bana ang tanan nga ania niining balaya.
+010	Managsama kamig gahom niining balaya ug walay bisan unsa dinhi nga gihikaw niya kanako gawas kanimo nga iyang asawa.
+010	Busa dili ako makaako paghimo sa ingon kadaotang buhat ug sa pagpakasala batok sa Dios.
+011	Ug bisag adlaw-adlaw gidani sa asawa ni Potifar si Jose aron makighilawas kaniya, wala gayod manumbaling si Jose.
+012	Apan usa ka adlaw niana misulod si Jose sa balay aron pag-atiman sa iyang buluhaton.
+012	Nahiatol kini nga walay laing tawo didto.
+013	Gigunitan sa asawa ni Potifar ang sapot ni Jose ug miingon, Tana!
+013	Magdulog kita.
+013	Apan miipsot ug midagan si Jose ngadto sa gawas ug nahabilin ang iyang kupo didto sa kamot sa babaye.
+014	Kay ang bisti ra man ni Jose ang iyang nagunitan ug nakadagan man si Jose,
+015	gitawag sa asawa ni Potifar ang iyang mga sulugoon ug giingnan, Tan-awa ninyo kini!
+015	Gidala sa akong bana dinhi sa amo kining Hebreohanon ug karon buot niya kaming pakaulawan.
+015	Misulod siya sa akong kuwarto kay buot niya akong pahimuslan apan misinggit ako
+016	ug midagan siya ug nabiyaan niya kining iyang kupo.
+017	Gitagoan niya ang bisti ni Jose hangtod sa pag-uli sa iyang bana.
+018	Unya gisuginlan niya ang iyang bana sa tinumotumo niyang istorya: Kanang Hebreohanon nga imong gidala nganhi sa ato misulod sa akong kuwarto kay buot niya akong pahimuslan.
+019	Apan misinggit ako busa midagan siya ug nabiyaan niya kining iyang kupo.
+020	Misinta sa kasuko ang agalon ni Jose sa pagkabati niya niini.
+021	Gipadakop niya si Jose ug gipabilanggo tipon sa mga binilanggo sa hari.
+022	Apan nag-uban kang Jose ang Ginoo ug gikaluy-an niya si Jose mao nga gitagad siya pag-ayo sa guwardiya sa bilanggoan.
+023	Gitugyan sa guwardiya kang Jose ang katungod sa pagdumala sa tanang gimbuhaton sulod sa bilanggoan
+024	ug wala nay kinahanglan nga mabalaka pa siya sa bisan unsa nga iyang gipiyal kang Jose kay nag-uban man kang Jose ang Ginoo ug naghatag ug kalamposan sa tanan niyang gibuhat.

@@ -1,55 +1,59 @@
-Duman sa may sagradong mga kahoy ni Mamre, nagpahiling an Kagurangnan ki Abraham.
-Sa kainitan kan aldaw, mantang nagtutukaw siya sa may pintoan kan saiyang tolda, nagtingkalag siya asin nahiling niya an tolong lalaki na nagtitindog duman.
-Sinabat niya tolos sinda, nagdapa sa daga dangan nagsabi, Mga kagurangnan ko, kun nawilihan nindo ako, maghapit ngona kamo sa sakong harong; andam ako sa paglingkod saindo.
-Tugote akong magkua nin tubig tanganing makahanaw kamo kan saindong bitis; pwede kamong magpahingalo sa limpoy kan kahoy na ini.
-Dadarahan ko kamo nin dikit na kakanon tanganing magbalik an saindong kosog.
-Pakatapos kaiyan pwede na kamong magpadagos sa saindong paglakaw.
-Inonra nindo ako sa paghapit sa sakong harong, kaya tugoteng paglingkodan ko kamo.
-Ika an bahala, an simbag ninda.
-Dali-daling naglaog si Abraham sa tolda asin sinabihan si Sara, Dali, kuaha an pinakamarahay mong arina asin gumibo ka nin dakul na tinapay.
-Dangan nagdalagan siya pasiring sa mga baka asin nagpili nin sarong matabang ogbon na baka dangan itinao niya ini sa saiyang oripon na naghidali sa pagluto kaini.
-Nagkua man si Abraham nin keso asin gatas dangan an mga ini asin an linutong karne ipinuwesto niya sa mga lalaki na nasa sirong kan kahoy.
-Nagkakan sinda mantang nakatindog sa harani si Abraham.
-Dangan hinapot siya ninda, Haen an agom mong si Sara?
-Nasa laog kan tolda, an simbag ni Abraham.
-Nagtaram an Kagurangnan , Pakalihis nin siyam na bulan, mabalik ako asin magkakaigwa na nin aking lalaki an saimong agom na si Sara.
-Nadangog ini ni Sara na naghihimate sa may pintoan kan tolda, sa likodan kan nagtaram.
-Gurang na nin marahay si Abraham asin si Sara mala ta ini dai na inaabotan nin regla.
-Kaya napangisi si Sara asin nagsabi sa iya man sana, Ngunyan na pareho na kaming gurang nin marahay kan sakong agom makakakua pa daw ako nin kaogmahan sa pakipagdorog saiya?
-Hinapot nin Kagurangnan si Abraham, Tano ta nagngisi si Sara asin nagsabing, Pwede pa daw akong magkaaki sa edad kong ini?
-May imposible daw sa Kagurangnan ?
-Siring sa itinaram ko, pakalihis nin siyam na bulan ngunyan, mabalik ako asin si Sara mangangaki nin lalaki.
-Huli ta natakot si Sara, nagnegar siya asin nagsabi, Dai man ako nagngisi.
-Iyo baga, nagngisi ka, an simbag nin Kagurangnan .
-Naghale an mga lalaki asin nagduman sa sarong lugar na pwede nindang madungawan an Sodoma.
-Dinespedir sinda ni Abraham.
-Nagsaboot an Kagurangnan , Dai ko dapat pagtagoon ki Abraham an gigibohon ko, huli ta aram kong magigin dakula saka makosog siyang nasyon, asin sa paagi niya, bebendisyonan ko an gabos na nasyon sa daga.
-Pinili ko siya tanganing pagbotan niya an saiyang mga kapagarakian na magsunod sako asin maggibo kan tama saka matanos.
-Kun gibohon ninda ini, ootobon ko an gabos na ipinanuga ko saiya.
-Dangan tinaraman nin Kagurangnan si Abraham, Dakul nang marahay an sumbong laban sa Sodoma saka Gomorra asin grabe na an kasalan ninda.
-Kaipuhan magduman ako tanganing maaraman ko kun totoo o bako an mga sumbong na nadangog ko.
-Dangan naghale an mga lalaki asin naglakaw pasiring sa Sodoma, alagad nawalat an Kagurangnan sa kaibahan ni Abraham.
-Nagrani si Abraham sa Kagurangnan asin naghapot, Ipapadagos mo mananggad an pagtunaw sa mga matanos kaiba kan mga maraot?
-Halimbawa igwa nin sinkwentang matanos sa laog kan syudad, tutunawon mo pa daw iyan?
-Dai mo daw papatawadon an syudad tanganing ikaligtas an singkwenta?
-Aram kong dai mo gagadanon an matanos kaiba kan maraot.
-Dai mo gigibohon iyan!
-Kun gibohon mo iyan, madadamay an mga matanos sa pagpadusa kan mga maraot.
-Imposibleng gibohon mo iyan!
-Matanos an Hukom kan bilog na kinaban!
-Kun makakua ako nin singkwentang matanos na tawo sa Sodoma, papatawadon ko an syudad huli sa sainda, an simbag nin Kagurangnan .
-Nagpadagos si Abraham, Patawada ako, Kagurangnan , ta nangahas akong makiolay saimo, ako na saro sanang tawo asin mayo nin deretso na magsabi nin ano man.
-Halimbawa kwarenta y singko sanang matanos an idtoon, tutunawon mo pa daw an bilog na syudad huli ta kulang nin lima?
-Nagsimbag an Kagurangnan , Dai ko tutunawon an syudad minsan kwarenta y singko sana an matanos na tawo duman.
-Nagpadagos pa si Abraham, Kun igwa sanang kwarenta?
-Huli sa kwarenta, dai ko tutunawon an syudad, an simbag nin Kagurangnan .
-Dai ka man logod maanggot sako, Kagurangnan , huli ta mahapot pa ako.
-Halimbawa treynta sana an idtoon?
-an hapot ni Abraham.
-Dai ko tutunawon iyan kun makakua ako nin treynta, an simbag nin Kagurangnan .
-Nagsabi si Abraham, Patawada ako kun ako nangahas na magparapakiolay saimo, Kagurangnan , alagad paano kun beynte sana an makua?
-Nagsimbag an Kagurangnan , Dai ko raraoton an syudad kun makakua ako nin beynte.
-Giraray nagpadagos si Abraham, Dai ka logod maanggot sako, Kagurangnan , huli ta ini na sana an sasabihon ko.
-Halimbawa sampolo sana nanggad an makua?
-Nagsimbag an Kagurangnan , Dai ko raraoton an syudad kun may makua akong sampolo.
-Naghale na an Kagurangnan pakatapos niyang magtaram ki Abraham; nagpuli man si Abraham sa saiyang harong.
+verse	content
+001	Duman sa may sagradong mga kahoy ni Mamre, nagpahiling an Kagurangnan ki Abraham.
+001	Sa kainitan kan aldaw, mantang nagtutukaw siya sa may pintoan kan saiyang tolda,
+002	nagtingkalag siya asin nahiling niya an tolong lalaki na nagtitindog duman.
+002	Sinabat niya tolos sinda, nagdapa sa daga
+003	dangan nagsabi, Mga kagurangnan ko, kun nawilihan nindo ako, maghapit ngona kamo sa sakong harong; andam ako sa paglingkod saindo.
+004	Tugote akong magkua nin tubig tanganing makahanaw kamo kan saindong bitis; pwede kamong magpahingalo sa limpoy kan kahoy na ini.
+005	Dadarahan ko kamo nin dikit na kakanon tanganing magbalik an saindong kosog.
+005	Pakatapos kaiyan pwede na kamong magpadagos sa saindong paglakaw.
+005	Inonra nindo ako sa paghapit sa sakong harong, kaya tugoteng paglingkodan ko kamo.
+006	Ika an bahala, an simbag ninda.
+007	Dali-daling naglaog si Abraham sa tolda asin sinabihan si Sara, Dali, kuaha an pinakamarahay mong arina asin gumibo ka nin dakul na tinapay.
+008	Dangan nagdalagan siya pasiring sa mga baka asin nagpili nin sarong matabang ogbon na baka dangan itinao niya ini sa saiyang oripon na naghidali sa pagluto kaini.
+009	Nagkua man si Abraham nin keso asin gatas dangan an mga ini asin an linutong karne ipinuwesto niya sa mga lalaki na nasa sirong kan kahoy.
+009	Nagkakan sinda mantang nakatindog sa harani si Abraham.
+010	Dangan hinapot siya ninda, Haen an agom mong si Sara?
+011	Nasa laog kan tolda, an simbag ni Abraham.
+012	Nagtaram an Kagurangnan , Pakalihis nin siyam na bulan, mabalik ako asin magkakaigwa na nin aking lalaki an saimong agom na si Sara.
+013	Nadangog ini ni Sara na naghihimate sa may pintoan kan tolda, sa likodan kan nagtaram.
+014	Gurang na nin marahay si Abraham asin si Sara mala ta ini dai na inaabotan nin regla.
+015	Kaya napangisi si Sara asin nagsabi sa iya man sana, Ngunyan na pareho na kaming gurang nin marahay kan sakong agom makakakua pa daw ako nin kaogmahan sa pakipagdorog saiya?
+016	Hinapot nin Kagurangnan si Abraham, Tano ta nagngisi si Sara asin nagsabing, Pwede pa daw akong magkaaki sa edad kong ini?
+017	May imposible daw sa Kagurangnan ?
+017	Siring sa itinaram ko, pakalihis nin siyam na bulan ngunyan, mabalik ako asin si Sara mangangaki nin lalaki.
+018	Huli ta natakot si Sara, nagnegar siya asin nagsabi, Dai man ako nagngisi.
+019	Iyo baga, nagngisi ka, an simbag nin Kagurangnan .
+020	Naghale an mga lalaki asin nagduman sa sarong lugar na pwede nindang madungawan an Sodoma.
+020	Dinespedir sinda ni Abraham.
+021	Nagsaboot an Kagurangnan , Dai ko dapat pagtagoon ki Abraham an gigibohon ko,
+022	huli ta aram kong magigin dakula saka makosog siyang nasyon, asin sa paagi niya, bebendisyonan ko an gabos na nasyon sa daga.
+023	Pinili ko siya tanganing pagbotan niya an saiyang mga kapagarakian na magsunod sako asin maggibo kan tama saka matanos.
+023	Kun gibohon ninda ini, ootobon ko an gabos na ipinanuga ko saiya.
+024	Dangan tinaraman nin Kagurangnan si Abraham, Dakul nang marahay an sumbong laban sa Sodoma saka Gomorra asin grabe na an kasalan ninda.
+025	Kaipuhan magduman ako tanganing maaraman ko kun totoo o bako an mga sumbong na nadangog ko.
+026	Dangan naghale an mga lalaki asin naglakaw pasiring sa Sodoma, alagad nawalat an Kagurangnan sa kaibahan ni Abraham.
+027	Nagrani si Abraham sa Kagurangnan asin naghapot, Ipapadagos mo mananggad an pagtunaw sa mga matanos kaiba kan mga maraot?
+028	Halimbawa igwa nin sinkwentang matanos sa laog kan syudad, tutunawon mo pa daw iyan?
+028	Dai mo daw papatawadon an syudad tanganing ikaligtas an singkwenta?
+029	Aram kong dai mo gagadanon an matanos kaiba kan maraot.
+029	Dai mo gigibohon iyan!
+029	Kun gibohon mo iyan, madadamay an mga matanos sa pagpadusa kan mga maraot.
+029	Imposibleng gibohon mo iyan!
+029	Matanos an Hukom kan bilog na kinaban!
+030	Kun makakua ako nin singkwentang matanos na tawo sa Sodoma, papatawadon ko an syudad huli sa sainda, an simbag nin Kagurangnan .
+031	Nagpadagos si Abraham, Patawada ako, Kagurangnan , ta nangahas akong makiolay saimo, ako na saro sanang tawo asin mayo nin deretso na magsabi nin ano man.
+032	Halimbawa kwarenta y singko sanang matanos an idtoon, tutunawon mo pa daw an bilog na syudad huli ta kulang nin lima?
+033	Nagsimbag an Kagurangnan , Dai ko tutunawon an syudad minsan kwarenta y singko sana an matanos na tawo duman.
+034	Nagpadagos pa si Abraham, Kun igwa sanang kwarenta?
+035	Huli sa kwarenta, dai ko tutunawon an syudad, an simbag nin Kagurangnan .
+036	Dai ka man logod maanggot sako, Kagurangnan , huli ta mahapot pa ako.
+036	Halimbawa treynta sana an idtoon?
+036	an hapot ni Abraham.
+037	Dai ko tutunawon iyan kun makakua ako nin treynta, an simbag nin Kagurangnan .
+038	Nagsabi si Abraham, Patawada ako kun ako nangahas na magparapakiolay saimo, Kagurangnan , alagad paano kun beynte sana an makua?
+039	Nagsimbag an Kagurangnan , Dai ko raraoton an syudad kun makakua ako nin beynte.
+040	Giraray nagpadagos si Abraham, Dai ka logod maanggot sako, Kagurangnan , huli ta ini na sana an sasabihon ko.
+040	Halimbawa sampolo sana nanggad an makua?
+041	Nagsimbag an Kagurangnan , Dai ko raraoton an syudad kun may makua akong sampolo.
+042	Naghale na an Kagurangnan pakatapos niyang magtaram ki Abraham; nagpuli man si Abraham sa saiyang harong.

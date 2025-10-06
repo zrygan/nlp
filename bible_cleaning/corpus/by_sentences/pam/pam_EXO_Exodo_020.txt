@@ -1,30 +1,33 @@
-Migsalita ya ing Dios at ila deti ring amanu na Aku ing Ginung kekayung Dios a milual kekayu ibat Ehipto nung nukarin kayu meging ipus.
-E kayu mikaka aliwang dios subali kanaku.
-E kayu gagawang larawan para kekayu o nanumang kawangis ning nanumang atyu king banua, keti king yatu o king danuman king lalam ning yatu.
-E kayu duruku karing idolo o sasamba kareti, uling aku, ing Ginung kekayung Dios, Dios kung mapangalalu.
-Parusan ku la detang masama kanaku, at pati na ding lahi ra angga na karing apu ra at apu king tud.
-Oneng papakit ku ing lugud ku karing libu-libung lahi ra a malugud kanaku at mamintu karing utus ku.
-E ye gagamitan ing lagyu ku king e mayap a kapagnasan, uling aku, ing Ginung kekayung Dios, parusan ke ing ninumang gagamit e ustu king lagyu ku.
-Igalang ye ing Aldo ning Sabbath at ipangiling ye.
-Atin kayung anam a aldo ban daptan ing obra yu, oneng ing kapitung aldo metung yang aldo ning pamagpaynawa a makatalaga para kanaku.
-Ala metung man a malyaring magobra king aldong iti; e mu ikayu, nune pati na ding anak yu, ding ipus yu, ding sese yung animal o kaya ding dayuan a makipamalen kekayu.
-Kilub ding anam a aldo, aku, ing Ginung kekayung Dios, lelangan ke ing yatu, ing banua, ding dagat, at ing sablang atyu kareti, oneng pepaynawa ku king kapitung aldo.
-Iti ing sangkan nung inya aku, ing Ginu , binendisyunan ke ing Aldo ning Sabbath at gewa keng banal.
-Igalang ye i tata yu at i ima yu ban kumaba ing bie yu king gabun a babie ku kekayu.
-E kayu makamate kalupang tau.
-E kayu makipangalugud.
-E kayu manako.
-E kayu sasaksi king e katutuan laban king kenu man.
-E ye angkaminan ing bale na ning kalupa yung tau.
-E ye angkaminan ing asawa na, ding ipus na, ding baka na, ding asno na o ing nanumang bandi na.
-Ginalgal la king takut inyang dimdam da ring tau ing duldul, ing tiup na ning trumpeta, at ikit ing kildap ampon ing bunduk a mamasuk, at linaut la king bunduk.
-Ngara kang Moises, Makiramdam kami nung ika ing magsalita kekami, oneng e ne sana magsalita kekami ing Dios, pota mate kami.
-Nganang Moises, E kayu tatakut; dinatang ya ing Dios ba na kayu mung subukan, at ban kanita e mako kapilan man king kaisipan yu ing pamamintu, at ban e kayu mikasala.
-Menatili lang makatalakad king marayu ding tau at bukud mung i Moises ya ing linapit king makapal a biga nung nu ya atyu ing Dios.
-Ngana pa ning Ginu kang Moises, Sabian mu iti karing memalen na ning Israel: Ikayu mismu ikit yu nung makananung aku, ing Ginu , migsalita ku kekayu ibat banua.
-E kayu gagawang dios a pilak o gintu a pakipante yu kanaku at para samban subali kanaku.
-Igawa yu kung altar a gabun at babo na niti iyain yu la kanaku bilang ain ding tupa yu ampon baka.
-Iyain yu la bilang ain-a-durulukan at ain-a-pisulusuluan.
-Datangan da kayu, at bendisyunan king balang lugal a ituldu ku para king pamanyamba yu kanaku.
-Nung sakaling igawa yu kung altar a batu, e kayu gagamit batung tinabas, uling e ne maging karapatdapat kanaku kabud gemitanan yeng pataram.
-E kayu naman mumukiat king altar a atin eran a matas, pota king pamanuklu yu karing balitang, mayakit king ala kayung salol.
+verse	content
+001	Migsalita ya ing Dios at ila deti ring amanu na
+002	Aku ing Ginung kekayung Dios a milual kekayu ibat Ehipto nung nukarin kayu meging ipus.
+003	E kayu mikaka aliwang dios subali kanaku.
+004	E kayu gagawang larawan para kekayu o nanumang kawangis ning nanumang atyu king banua, keti king yatu o king danuman king lalam ning yatu.
+005	E kayu duruku karing idolo o sasamba kareti, uling aku, ing Ginung kekayung Dios, Dios kung mapangalalu.
+005	Parusan ku la detang masama kanaku, at pati na ding lahi ra angga na karing apu ra at apu king tud.
+006	Oneng papakit ku ing lugud ku karing libu-libung lahi ra a malugud kanaku at mamintu karing utus ku.
+007	E ye gagamitan ing lagyu ku king e mayap a kapagnasan, uling aku, ing Ginung kekayung Dios, parusan ke ing ninumang gagamit e ustu king lagyu ku.
+008	Igalang ye ing Aldo ning Sabbath at ipangiling ye.
+009	Atin kayung anam a aldo ban daptan ing obra yu,
+010	oneng ing kapitung aldo metung yang aldo ning pamagpaynawa a makatalaga para kanaku.
+010	Ala metung man a malyaring magobra king aldong iti; e mu ikayu, nune pati na ding anak yu, ding ipus yu, ding sese yung animal o kaya ding dayuan a makipamalen kekayu.
+011	Kilub ding anam a aldo, aku, ing Ginung kekayung Dios, lelangan ke ing yatu, ing banua, ding dagat, at ing sablang atyu kareti, oneng pepaynawa ku king kapitung aldo.
+011	Iti ing sangkan nung inya aku, ing Ginu , binendisyunan ke ing Aldo ning Sabbath at gewa keng banal.
+012	Igalang ye i tata yu at i ima yu ban kumaba ing bie yu king gabun a babie ku kekayu.
+013	E kayu makamate kalupang tau.
+014	E kayu makipangalugud.
+015	E kayu manako.
+016	E kayu sasaksi king e katutuan laban king kenu man.
+017	E ye angkaminan ing bale na ning kalupa yung tau.
+017	E ye angkaminan ing asawa na, ding ipus na, ding baka na, ding asno na o ing nanumang bandi na.
+018	Ginalgal la king takut inyang dimdam da ring tau ing duldul, ing tiup na ning trumpeta, at ikit ing kildap ampon ing bunduk a mamasuk, at linaut la king bunduk.
+019	Ngara kang Moises, Makiramdam kami nung ika ing magsalita kekami, oneng e ne sana magsalita kekami ing Dios, pota mate kami.
+020	Nganang Moises, E kayu tatakut; dinatang ya ing Dios ba na kayu mung subukan, at ban kanita e mako kapilan man king kaisipan yu ing pamamintu, at ban e kayu mikasala.
+021	Menatili lang makatalakad king marayu ding tau at bukud mung i Moises ya ing linapit king makapal a biga nung nu ya atyu ing Dios.
+022	Ngana pa ning Ginu kang Moises, Sabian mu iti karing memalen na ning Israel: Ikayu mismu ikit yu nung makananung aku, ing Ginu , migsalita ku kekayu ibat banua.
+023	E kayu gagawang dios a pilak o gintu a pakipante yu kanaku at para samban subali kanaku.
+024	Igawa yu kung altar a gabun at babo na niti iyain yu la kanaku bilang ain ding tupa yu ampon baka.
+024	Iyain yu la bilang ain-a-durulukan at ain-a-pisulusuluan.
+024	Datangan da kayu, at bendisyunan king balang lugal a ituldu ku para king pamanyamba yu kanaku.
+025	Nung sakaling igawa yu kung altar a batu, e kayu gagamit batung tinabas, uling e ne maging karapatdapat kanaku kabud gemitanan yeng pataram.
+026	E kayu naman mumukiat king altar a atin eran a matas, pota king pamanuklu yu karing balitang, mayakit king ala kayung salol.

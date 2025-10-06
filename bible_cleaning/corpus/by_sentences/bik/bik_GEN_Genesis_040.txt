@@ -1,26 +1,30 @@
-Dai nahaloy, nagkasala sa hade kan Egipto an saiyang kopero saka an saiyang panadero.
-Naanggot an hade sainda asin ipinabilanggo sa harong kan kapitan kan mga bantay, sa bilanggoan na namumugtakan ni Jose.
-Haloy na nabilanggo an duwa asin nagin sorogoon ninda si Jose sa pagboot kan kapitan.
-Sarong banggi, duman sa bilanggoan, nangatorogan an kopero asin an panadero alagad an saindang pangatorogan magkaiba an kahulogan.
-Pagkaaga, naabotan sinda ni Jose na parehong mamondo.
-Hinapot niya sinda, Tano ta mamondo kamo ngunyan?
-Nagsimbag sinda, Pareho kaming nangatorogan asin mayo digdi nin siisay man na makakapaliwanag kun ano an kahulogan.
-Nagsimbag si Jose, An Dios an nagtatao kan kakayahan sa pagpaliwanag nin mga pangatorogan.
-Istoryahan daw nindo sako.
-An kopero kan hade nagsabi, Sa pangatorogan ko, igwa nin sarong poon nin ubas sa atubang ko na igwa nin tolong sanga.
-Kan magdahon an mga sanga, namurak tolos ini dangan naghirinog an mga ubas.
-Kapot ko an kalis kan hade; ginuno ko an mga ubas asin pinuga ko an mga ini sa kalis dangan itinao ko sa hade.
-Nagsabi si Jose, Ini an kahulogan kan pangatorogan mo: an tolong sanga, tolong aldaw.
-Pakalihis nin tolong aldaw, papaluwason ka digdi kan hade, papatawadon asin papabalikon sa dati mong trabaho.
-Ika giraray an matao sa hade kan saiyang kalis siring kan enot na mga aldaw kan ika an saiyang kopero.
-Alagad giromdoma man ako kun nasa marahay ka nang kamugtakan, na maonabihan mo ako sa hade asin matabangan na makaluwas digdi sa bilanggoan.
-Bako kong kagustohan an pagdigdi sa Egipto; kinidnap ako sa daga kan mga Hebreyo, asin minsan digdi sa Egipto, mayo akong ginibong ano man tanganing ilaog sa bilanggoan.
-Pagkahiling kan panadero na marahay an paliwanag sa pangatorogan kan kopero kan hade, nagsabi siya ki Jose, Nagkaigwa man ako nin pangatorogan: suknong ko an tolong basket nin tinapay.
-An basket na nasa ibabaw nalalaogan kan manlaen-laen na kakanon para sa hade, asin kinarakan idto kan mga gamgam.
-Nagsimbag si Jose, Iyo ini an kahulogan: an tolong basket, tolong aldaw.
-Pakalihis nin tolong aldaw, papaluwason ka digdi kan hade asin papupugotan ka!
-Dangan ipapabitay niya an saimong bangkay sa sarong kahoy asin kakakanon kan mga gamgam an saimong laman.
-Pakalihis nin tolong aldaw, sa kumpleanyo kan hade, nagtao siya nin bangkete sa gabos niyang opisyal; pinaluwas niya sa bilanggoan an saiyang kopero asin an saiyang panadero dangan pinaatubang sinda sa saiyang mga opisyal.
-Ibinalik niya sa dating katongdan an saiyang kopero alagad ipinagadan niya an panadero.
-Nangyari an gabos siring sa sinabi ni Jose.
-Alagad dai nagiromdoman si Jose kan kopero kan hade; nalingawan na siya kaini.
+verse	content
+001	Dai nahaloy, nagkasala sa hade kan Egipto an saiyang kopero saka an saiyang panadero.
+002	Naanggot an hade sainda
+003	asin ipinabilanggo sa harong kan kapitan kan mga bantay, sa bilanggoan na namumugtakan ni Jose.
+004	Haloy na nabilanggo an duwa asin nagin sorogoon ninda si Jose sa pagboot kan kapitan.
+005	Sarong banggi, duman sa bilanggoan, nangatorogan an kopero asin an panadero alagad an saindang pangatorogan magkaiba an kahulogan.
+006	Pagkaaga, naabotan sinda ni Jose na parehong mamondo.
+007	Hinapot niya sinda, Tano ta mamondo kamo ngunyan?
+008	Nagsimbag sinda, Pareho kaming nangatorogan asin mayo digdi nin siisay man na makakapaliwanag kun ano an kahulogan.
+009	Nagsimbag si Jose, An Dios an nagtatao kan kakayahan sa pagpaliwanag nin mga pangatorogan.
+009	Istoryahan daw nindo sako.
+010	An kopero kan hade nagsabi, Sa pangatorogan ko, igwa nin sarong poon nin ubas sa atubang ko
+011	na igwa nin tolong sanga.
+011	Kan magdahon an mga sanga, namurak tolos ini dangan naghirinog an mga ubas.
+012	Kapot ko an kalis kan hade; ginuno ko an mga ubas asin pinuga ko an mga ini sa kalis dangan itinao ko sa hade.
+013	Nagsabi si Jose, Ini an kahulogan kan pangatorogan mo: an tolong sanga, tolong aldaw.
+014	Pakalihis nin tolong aldaw, papaluwason ka digdi kan hade, papatawadon asin papabalikon sa dati mong trabaho.
+014	Ika giraray an matao sa hade kan saiyang kalis siring kan enot na mga aldaw kan ika an saiyang kopero.
+015	Alagad giromdoma man ako kun nasa marahay ka nang kamugtakan, na maonabihan mo ako sa hade asin matabangan na makaluwas digdi sa bilanggoan.
+016	Bako kong kagustohan an pagdigdi sa Egipto; kinidnap ako sa daga kan mga Hebreyo, asin minsan digdi sa Egipto, mayo akong ginibong ano man tanganing ilaog sa bilanggoan.
+017	Pagkahiling kan panadero na marahay an paliwanag sa pangatorogan kan kopero kan hade, nagsabi siya ki Jose, Nagkaigwa man ako nin pangatorogan: suknong ko an tolong basket nin tinapay.
+018	An basket na nasa ibabaw nalalaogan kan manlaen-laen na kakanon para sa hade, asin kinarakan idto kan mga gamgam.
+019	Nagsimbag si Jose, Iyo ini an kahulogan: an tolong basket, tolong aldaw.
+020	Pakalihis nin tolong aldaw, papaluwason ka digdi kan hade asin papupugotan ka!
+020	Dangan ipapabitay niya an saimong bangkay sa sarong kahoy asin kakakanon kan mga gamgam an saimong laman.
+021	Pakalihis nin tolong aldaw, sa kumpleanyo kan hade, nagtao siya nin bangkete sa gabos niyang opisyal; pinaluwas niya sa bilanggoan an saiyang kopero asin an saiyang panadero dangan pinaatubang sinda sa saiyang mga opisyal.
+022	Ibinalik niya sa dating katongdan an saiyang kopero
+023	alagad ipinagadan niya an panadero.
+023	Nangyari an gabos siring sa sinabi ni Jose.
+024	Alagad dai nagiromdoman si Jose kan kopero kan hade; nalingawan na siya kaini.

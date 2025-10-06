@@ -1,45 +1,47 @@
-Tapos, nag-arapiki kan Jesus an mga disipulos kag naghunga, Sin-o an pinakalabaw sa kahadian san langit?
-May gintawag si Jesus na bata kag pinatindog sa atubangan ninda.
-Tapos nagsabat siya, Ginasiguro ko sa iyo na an pinakalabaw sa kahadian san langit amo an magmapainubuson pareho sani na tigdyutay na kabataan.
-Dili gayod kamo magigin sakop sa kahadian san langit hasta na dili kamo magbag-o kag magin mapainubuson pareho sani na dyutay na bata.
-An makaako naman sin pareho sani na bata alang-alang sa akon ginaako man ako.
-Pero kun may nakapakasala sani na mga kabataan na may pagtuod sa akon, maayo pa na bitayan idto sin dako na ginlingan na bato sa liog kag buntugan sa dagat.
-Kamakaluluoy san mga katawuhan san kinab-an kay may mga maghidara sa mga tawo paghimon kasal-an!
-Pirme gayod igwa sin sugad sana pero grabe an kastigo para sa iya na ginahalian sana na pagatintar.
-Niyan kun an imo kamot o tiil an dahilan san imo pagkasala, utuda kag ipilak!
-Mas maayo pa na mabuhay ka na pungkol ki sa duha an imo kamot o tiil tapos ipilak ka lang sa kalayo na dili gayod napaparong.
-Kun an imo naman mata an dahilan san imo pagkasala, lukata kag ipilak!
-Mas maayo pa na makasulod ka sa langit na usad lang an mata ki sa duha an mata tapos ipilak ka sa kalayo san impyerno.
-Kun sugad talinguhaa gayod niyo na dili kamo makadaug-daog bisan usad sani na mga tigdyutay na kabataan kay an inda mga anghel pirme ngani nasa atubangan san akon Ama sa langit.
-Nagkadi ngani ako na Anak San Tawo sa kinab-an para isalbar an mga tawo na nalalagalag sa dalan san kasal-an.
-Sugad baga sani na halimbawa.
-Sa paghuna niyo nano an pagahimuon san tawo na may usad ka gatos na karnero kun mawara anusad sani?
-Syimpre, babayaan niyaan 99 na nagapanginaon agod hanapon an nalalagalag.
-Matuod gayod na kun makita niya ini mas lalo na malilipay siya para sani ki sa 99 na dili nalagalag.
-Sugad man habo gayod an iyo Ama sa langit na may mawara bisan usad sani na mga tirigdyutay na kabataan.
-Niyan kun may nagkasala sa imo na kapwa, kadtua kag sabihi san iya nahimo na sala na kamo lang na duha.
-Kun magpamati siya sa imo, mabalik an iyo dati maayo na pagpasinunud-sunod.
-Pero kun habo siya magpamati sa imo, mag-agda ka sin usad o duha ka tawo agod mapamatuudan san duha o tulo na mga testigos an iyo tanan na gin-istoryahan.
-Kun habo siya magpamati sa inda, ipaaram sa pagtiripon san mga nagatuod bilang simbahan.
-Tapos kun habo pa gihapon siya magpamati bisan sani, ibilang mo na siya na waran paggalang sa Dios kaya pareho san dili-Judio kag parasukot san buwis.
-Ginasiguro ko sa iyo na an igabawal niyo sa kinab-an igabawal man sa langit kag an itutugot niyo sa kinab-an itutugot man sa langit.
-Ginasiguro ko sa iyo na kun may duha sa iyo didi sa duta magkausad sa pagpangadyi agod mangayo, igahatag ini sa iyo san akon Ama sa langit, kay kun hain man may duha o tulo na nagkatiripon dahilan sa akon ada ako kaupod ninda.
-Pakatapos sani nag-apiki si Pedro kan Jesus kag naghunga, Ginoo, kun may magkasala sa akon nakapwa ko, pira na beses ko siya dapat patawadon?
-Hasta sa ikapito?
-Ginsabat siya ni Jesus, Dili lang ngani kay pito na beses kundi pito na 70 beses.
-Kun kaya an kahadian naman san langit bagan hadi na gusto husayon an iya mga pautang sa iya mga suruguon.
-San pagtuna na pagkwenta san mga pautang may ginpaatubang sa iya na lalaki na un milyon pisos an utang.
-Niyan, kay wara siyan ikabayad, nagsugo an amo na ibaligya siya bilang uripon amo man an iya asawa, kaanakan kag san tanan niya na kasadirihan agod makabayad.
-Dahilan sani lumuhod an suruguon sa may tiilan san iya amo kag nakimaluoy, Pasensyaha anay ako yana kay pagabayadan ko man an tanan ko na utang.
-Naluoy sa iya an amo kaya pinatawad siya san iya utang kag pinauli.
-Pagluwas niya didto may nakasugat siya na iya kapwa suruguon na nakautang man sa iya sin syin pisos.
-Hinuyutan ini kag tinuok myintras ginasabihan, Bayadi an imo utang sa akon.
-Didi man nagluhod an kapwa niya suruguon sa may tiilan niya na nakimaluoy, Pasensyaha na lang anay ako yana kay pagabayadan ta man ikaw.
-Pero wara siya magtugot kundi pinapriso idto hasta na makabayad san utang.
-Pakakita sani na pangyari san kaurupod ninda na mga suruguon nagkaururit gayod.
-Tapos kumadto sinda sa amo kag ginsumat an tanan na pangyari.
-Kaya pinatawag san amo idton una na suruguon kag sinabihan, Waran pulos na suruguon!
-Pinatawad ta ikaw san tanan mo na utang kay nakimaluoy ka sa akon.
-Nano, dili ba dapat naluoy ka man sa kapwa mo suruguon pareho san pagkaluoy ko sa imo?
-Naurit gayod an amo kaya pinapriso ini hasta na mabayadan an tanan na utang.
-Sugad man sani an pagahimuon sa iyo tanan san akon Ama sa langit kun dili hali sa tagipusuon an pagpatawad niyo sa iyo kapwa.
+verse	content
+001	Tapos, nag-arapiki kan Jesus an mga disipulos kag naghunga, Sin-o an pinakalabaw sa kahadian san langit?
+002	May gintawag si Jesus na bata kag pinatindog sa atubangan ninda.
+003	Tapos nagsabat siya, Ginasiguro ko sa iyo na an pinakalabaw sa kahadian san langit amo an magmapainubuson pareho sani na tigdyutay na kabataan.
+003	Dili gayod kamo magigin sakop sa kahadian san langit hasta na dili kamo magbag-o kag magin mapainubuson pareho sani na dyutay na bata.
+004	An makaako naman sin pareho sani na bata alang-alang sa akon ginaako man ako.
+005	Pero kun may nakapakasala sani na mga kabataan na may pagtuod sa akon, maayo pa na bitayan idto sin dako na ginlingan na bato sa liog kag buntugan sa dagat.
+006	Kamakaluluoy san mga katawuhan san kinab-an kay may mga maghidara sa mga tawo paghimon kasal-an!
+006	Pirme gayod igwa sin sugad sana pero grabe an kastigo para sa iya na ginahalian sana na pagatintar.
+007	Niyan kun an imo kamot o tiil an dahilan san imo pagkasala, utuda kag ipilak!
+007	Mas maayo pa na mabuhay ka na pungkol ki sa duha an imo kamot o tiil tapos ipilak ka lang sa kalayo na dili gayod napaparong.
+008	Kun an imo naman mata an dahilan san imo pagkasala, lukata kag ipilak!
+008	Mas maayo pa na makasulod ka sa langit na usad lang an mata ki sa duha an mata tapos ipilak ka sa kalayo san impyerno.
+009	Kun sugad talinguhaa gayod niyo na dili kamo makadaug-daog bisan usad sani na mga tigdyutay na kabataan kay an inda mga anghel pirme ngani nasa atubangan san akon Ama sa langit.
+010	Nagkadi ngani ako na Anak San Tawo sa kinab-an para isalbar an mga tawo na nalalagalag sa dalan san kasal-an.
+011	Sugad baga sani na halimbawa.
+011	Sa paghuna niyo nano an pagahimuon san tawo na may usad ka gatos na karnero kun mawara anusad sani?
+011	Syimpre, babayaan niyaan 99 na nagapanginaon agod hanapon an nalalagalag.
+012	Matuod gayod na kun makita niya ini mas lalo na malilipay siya para sani ki sa 99 na dili nalagalag.
+013	Sugad man habo gayod an iyo Ama sa langit na may mawara bisan usad sani na mga tirigdyutay na kabataan.
+014	Niyan kun may nagkasala sa imo na kapwa, kadtua kag sabihi san iya nahimo na sala na kamo lang na duha.
+014	Kun magpamati siya sa imo, mabalik an iyo dati maayo na pagpasinunud-sunod.
+015	Pero kun habo siya magpamati sa imo, mag-agda ka sin usad o duha ka tawo agod mapamatuudan san duha o tulo na mga testigos an iyo tanan na gin-istoryahan.
+016	Kun habo siya magpamati sa inda, ipaaram sa pagtiripon san mga nagatuod bilang simbahan.
+016	Tapos kun habo pa gihapon siya magpamati bisan sani, ibilang mo na siya na waran paggalang sa Dios kaya pareho san dili-Judio kag parasukot san buwis.
+017	Ginasiguro ko sa iyo na an igabawal niyo sa kinab-an igabawal man sa langit kag an itutugot niyo sa kinab-an itutugot man sa langit.
+018	Ginasiguro ko sa iyo na kun may duha sa iyo didi sa duta magkausad sa pagpangadyi agod mangayo, igahatag ini sa iyo san akon Ama sa langit,
+019	kay kun hain man may duha o tulo na nagkatiripon dahilan sa akon ada ako kaupod ninda.
+020	Pakatapos sani nag-apiki si Pedro kan Jesus kag naghunga, Ginoo, kun may magkasala sa akon nakapwa ko, pira na beses ko siya dapat patawadon?
+020	Hasta sa ikapito?
+021	Ginsabat siya ni Jesus, Dili lang ngani kay pito na beses kundi pito na 70 beses.
+022	Kun kaya an kahadian naman san langit bagan hadi na gusto husayon an iya mga pautang sa iya mga suruguon.
+023	San pagtuna na pagkwenta san mga pautang may ginpaatubang sa iya na lalaki na un milyon pisos an utang.
+024	Niyan, kay wara siyan ikabayad, nagsugo an amo na ibaligya siya bilang uripon amo man an iya asawa, kaanakan kag san tanan niya na kasadirihan agod makabayad.
+025	Dahilan sani lumuhod an suruguon sa may tiilan san iya amo kag nakimaluoy, Pasensyaha anay ako yana kay pagabayadan ko man an tanan ko na utang.
+026	Naluoy sa iya an amo kaya pinatawad siya san iya utang kag pinauli.
+027	Pagluwas niya didto may nakasugat siya na iya kapwa suruguon na nakautang man sa iya sin syin pisos.
+027	Hinuyutan ini kag tinuok myintras ginasabihan, Bayadi an imo utang sa akon.
+028	Didi man nagluhod an kapwa niya suruguon sa may tiilan niya na nakimaluoy, Pasensyaha na lang anay ako yana kay pagabayadan ta man ikaw.
+029	Pero wara siya magtugot kundi pinapriso idto hasta na makabayad san utang.
+030	Pakakita sani na pangyari san kaurupod ninda na mga suruguon nagkaururit gayod.
+030	Tapos kumadto sinda sa amo kag ginsumat an tanan na pangyari.
+031	Kaya pinatawag san amo idton una na suruguon kag sinabihan, Waran pulos na suruguon!
+031	Pinatawad ta ikaw san tanan mo na utang kay nakimaluoy ka sa akon.
+032	Nano, dili ba dapat naluoy ka man sa kapwa mo suruguon pareho san pagkaluoy ko sa imo?
+033	Naurit gayod an amo kaya pinapriso ini hasta na mabayadan an tanan na utang.
+034	Sugad man sani an pagahimuon sa iyo tanan san akon Ama sa langit kun dili hali sa tagipusuon an pagpatawad niyo sa iyo kapwa.

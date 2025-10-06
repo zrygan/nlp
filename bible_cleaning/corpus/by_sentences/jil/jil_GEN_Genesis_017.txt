@@ -1,33 +1,37 @@
-Sang si Abram nagaedad na sing nobentay nwebe ka tuig, ang Ginoo nagpakita sa iya kag nagsiling, Ako ang Dios nga Makagagahom.
-Magtuman ka sa akon kag himua sa gihapon ang matarong.
-Magahimo ako sing kasugtanan sa imo kag hatagan ko ikaw sing madamo nga mga kaliwat.
-Dayon si Abram naghapa sa duta kag ang Dios nagsiling sa iya, Amo ini ang aton kasugtanan nga akon ginahimo sa imo: Nagasaad ako nga mangin-amay ka sang madamo nga mga pungsod.
-Ang imo ngalan indi na Abram, kundi Abraham tungod kay ginahimo ko ikaw nga amay sang madamo nga mga pungsod.
-Hatagan ko ikaw sing madamo nga mga kaliwat kag ang iban sa ila manginhari.
-Magadamo gid ang imo nga mga kaliwat kag mahimo sila nga mga pungsod.
-Pagatumanon ko ang akon saad sa imo kag sa imo nga mga kaliwat sa palaabuton nga mga kaliwatan subong isa ka walay katapusan nga kasugtanan.
-Ako mangin-imo Dios kag Dios sang imo mga kaliwat.
-Ihatag ko sa imo kag sa imo mga kaliwat ini nga duta sa diin isa ikaw subong ka dumoluong.
-Ang bug-os nga duta sang Canaan mangin-ila sang imo mga kaliwatan sa walay katubtoban, kag ako mangin-ila Dios.
-Ang Dios nagsiling kay Abraham, Ikaw dapat man magsugot sa pagtuman sang aton kasugtanan, ikaw kag ang imo mga kaliwat sa palaabuton nga mga kaliwatan.
-Ikaw kag ang imo mga kaliwat dapat magsugot sini: ang tagsa ka lalaki sa inyo dapat magpatuli.
-Sugod karon dapat ninyo tulion ang tagsa ninyo ka bata nga lalaki sa ikawalo nga adlaw halin sa iya pagkatawo, lakip ang mga ulipon nga natawo sa inyo balay kag ang ginpamakal ninyo nga mga ulipon sa mga dumoluong.
-Ini magapakita nga may kasugtanan kita.
-Ang tagsa sa inyo dapat tulion, kag ini mangintanda sa inyo mga lawas sa pagpakita nga ang akon kasugtanan sa inyo wala sing katapusan.
-Ang lalaki nga wala matuli indi na manginbahin sang akon mga tawo, tungod kay wala niya matuman ang kasugtanan niya sa akon.
-Ang Dios nagsiling kay Abraham, Indi mo na pagtawgon ang imo asawa kay Sarai, kundi sugod subong si Sara na ang iya ngalan.
-Bendisyunan ko sia kag hatagan ko ikaw sing anak nga lalaki paagi sa iya.
-Bendisyunan ko sia kag mangin-iloy sia sang madamo nga mga pungsod, kag ang iban niya nga mga kaliwat manginhari.
-Si Abraham naghapa sa duta pero nagkadlaw sia sang nagpanghunahuna sia sini, Makapabata pa bala ang lalaki nga nagaedad sing 100 ka tuig?
-Makabata pa bala si Sara nga nagaedad na sing nobenta ka tuig?
-Nagpamangkot sia sa Dios, Ngaa indi mo na lang himuon si Ismael nga akon manunubli?
-Pero ang Dios nagsiling, Indi mahimo!
-Ang imo asawa nga si Sara magaanak sing isa ka bata nga lalaki kag pagahingalanan mo sia kay Isaac.
-Pagatumanon ko ang akon kasugtanan sa iya kag sa iya mga kaliwat, kag ini nga kasugtanan wala sing katapusan.
-Nabatian ko ang imo pangabay nahanungod kay Ismael, gani bendisyunan ko sia kag hatagan sing madamo nga mga kaanakan kag madamo nga mga kaliwat.
-Mangin-amay sia sang dose ka mga prinsipe kag himuon ko nga daku nga pungsod ang iya mga kaliwat.
-Pero tumanon ko ang akon kasugtanan sa imo anak nga si Isaac, nga ibun-ag ni Sara sa mga amo man sini nga tion sa madason nga tuig.
-Sa tapos makahambal ang Dios kay Abraham, ginbayaan niya sia.
-Sa sadto gid nga adlaw, gintuli ni Abraham ang iya anak nga si Ismael kag ang tanan niya nga mga ulipon, ang mga natawo sa iya balay kag ang mga ginpamakal niya, ang tanan nga mga lalaki sa iya balay, suno sa ginsugo sa iya sang Dios.
-Si Abraham nagaedad sing nobentay nwebe ka tuig sang pagtuli sa iya, kag ang iya anak nga si Ismael nagaedad sing trese ka tuig.
-Sila nga duha gintuli sa amo man nga adlaw, upod sa tanan nga mga ulipon ni Abraham.
+verse	content
+001	Sang si Abram nagaedad na sing nobentay nwebe ka tuig, ang Ginoo nagpakita sa iya kag nagsiling, Ako ang Dios nga Makagagahom.
+001	Magtuman ka sa akon kag himua sa gihapon ang matarong.
+002	Magahimo ako sing kasugtanan sa imo kag hatagan ko ikaw sing madamo nga mga kaliwat.
+003	Dayon si Abram naghapa sa duta kag ang Dios nagsiling sa iya,
+004	Amo ini ang aton kasugtanan nga akon ginahimo sa imo: Nagasaad ako nga mangin-amay ka sang madamo nga mga pungsod.
+005	Ang imo ngalan indi na Abram, kundi Abraham tungod kay ginahimo ko ikaw nga amay sang madamo nga mga pungsod.
+006	Hatagan ko ikaw sing madamo nga mga kaliwat kag ang iban sa ila manginhari.
+006	Magadamo gid ang imo nga mga kaliwat kag mahimo sila nga mga pungsod.
+007	Pagatumanon ko ang akon saad sa imo kag sa imo nga mga kaliwat sa palaabuton nga mga kaliwatan subong isa ka walay katapusan nga kasugtanan.
+007	Ako mangin-imo Dios kag Dios sang imo mga kaliwat.
+008	Ihatag ko sa imo kag sa imo mga kaliwat ini nga duta sa diin isa ikaw subong ka dumoluong.
+008	Ang bug-os nga duta sang Canaan mangin-ila sang imo mga kaliwatan sa walay katubtoban, kag ako mangin-ila Dios.
+009	Ang Dios nagsiling kay Abraham, Ikaw dapat man magsugot sa pagtuman sang aton kasugtanan, ikaw kag ang imo mga kaliwat sa palaabuton nga mga kaliwatan.
+010	Ikaw kag ang imo mga kaliwat dapat magsugot sini: ang tagsa ka lalaki sa inyo dapat magpatuli.
+011	Sugod karon dapat ninyo tulion ang tagsa ninyo ka bata nga lalaki sa ikawalo nga adlaw halin sa iya pagkatawo, lakip ang mga ulipon nga natawo sa inyo balay kag ang ginpamakal ninyo nga mga ulipon sa mga dumoluong.
+011	Ini magapakita nga may kasugtanan kita.
+012	Ang tagsa sa inyo dapat tulion, kag ini mangintanda sa inyo mga lawas sa pagpakita nga ang akon kasugtanan sa inyo wala sing katapusan.
+013	Ang lalaki nga wala matuli indi na manginbahin sang akon mga tawo, tungod kay wala niya matuman ang kasugtanan niya sa akon.
+014	Ang Dios nagsiling kay Abraham, Indi mo na pagtawgon ang imo asawa kay Sarai, kundi sugod subong si Sara na ang iya ngalan.
+015	Bendisyunan ko sia kag hatagan ko ikaw sing anak nga lalaki paagi sa iya.
+015	Bendisyunan ko sia kag mangin-iloy sia sang madamo nga mga pungsod, kag ang iban niya nga mga kaliwat manginhari.
+016	Si Abraham naghapa sa duta pero nagkadlaw sia sang nagpanghunahuna sia sini, Makapabata pa bala ang lalaki nga nagaedad sing 100 ka tuig?
+016	Makabata pa bala si Sara nga nagaedad na sing nobenta ka tuig?
+017	Nagpamangkot sia sa Dios, Ngaa indi mo na lang himuon si Ismael nga akon manunubli?
+018	Pero ang Dios nagsiling, Indi mahimo!
+018	Ang imo asawa nga si Sara magaanak sing isa ka bata nga lalaki kag pagahingalanan mo sia kay Isaac.
+018	Pagatumanon ko ang akon kasugtanan sa iya kag sa iya mga kaliwat, kag ini nga kasugtanan wala sing katapusan.
+019	Nabatian ko ang imo pangabay nahanungod kay Ismael, gani bendisyunan ko sia kag hatagan sing madamo nga mga kaanakan kag madamo nga mga kaliwat.
+019	Mangin-amay sia sang dose ka mga prinsipe kag himuon ko nga daku nga pungsod ang iya mga kaliwat.
+020	Pero tumanon ko ang akon kasugtanan sa imo anak nga si Isaac, nga ibun-ag ni Sara sa mga amo man sini nga tion sa madason nga tuig.
+021	Sa tapos makahambal ang Dios kay Abraham, ginbayaan niya sia.
+022	Sa sadto gid nga adlaw, gintuli ni Abraham ang iya anak nga si Ismael kag ang tanan niya nga mga ulipon, ang mga natawo sa iya balay kag ang mga ginpamakal niya, ang tanan nga mga lalaki sa iya balay, suno sa ginsugo sa iya sang Dios.
+023	Si Abraham nagaedad sing nobentay nwebe ka tuig sang pagtuli sa iya,
+024	kag ang iya anak nga si Ismael nagaedad sing trese ka tuig.
+025	Sila nga duha gintuli sa amo man nga adlaw,
+026	upod sa tanan nga mga ulipon ni Abraham.

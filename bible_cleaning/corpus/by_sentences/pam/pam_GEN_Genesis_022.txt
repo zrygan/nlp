@@ -1,48 +1,51 @@
-Kaybat dang milyari deting bage, sibukan ne ning Dios i Abraham.
-Abraham, ngana.
-Nanu pu?
-nganang mekibat.
-Kanita sinabi na ning Dios, Abraham, ituki me i Isaac, ing anak mung kabubugtungan a pakamalan mu, at munta kayu king sakup ning Moria.
-Iyain me kanaku bilang ain-a-durulukan karin king bunduk a ituru ku keka.
-Maranun yang mibangun i Abraham; sekyan ne ing asno na, kayabe ne i Isaac at ding adua karing ipus nang lalaki.
-Migdala ya namang dutung para panangab king ain-a-durulukan a inutus na ning Dios a idala na.
-Kalabas da ring atlung aldo ikit neng Abraham ing lugal king marayu.
-Kanita sinabi na karing ipus na, Malakuan kayu keni ikayung adua, at banten ye ing asno kabang ing anak at aku munta kami karin.
-Samba kami at kaybat balikan da kayu.
-Kanita kinua nang Abraham ing dutung para king ain at pepapusan na kang Isaac at ya naman ing migdala king api at king pataram.
-Miglakad na la kanita ding mitata.
-Oneng nganang Isaac kang tata na, Tatang!
-Nanu ita, anak ku?
-nganang mekibat.
-Ating api at dutung a panangab, nukarin ya ing tupang paten?
-nganang mengutang Isaac.
-Anak ku, ing Dios ya ing balang munie king tupang paten ta!
-nganang mekibat Abraham.
-At sindu da ring mitata ing pamaglakad da.
-Karas da king lugal a tiru na ning Dios, mitalakad yang altar i Abraham at selansan na ing dutung a panangab babo na niti.
-Kaybat ginapus ne ing anak nang i Isaac at binili ne babo na ning dutung a panangab king altar.
-Kaybat dimput ne ing pataram ban saksakan ne ing anak na.
-Oneng inaus ne ning anghel ning Ginu .
-Ngana, Abraham, Abraham!
-Nanu pu?
-nganang mekibat.
-E me papaten o nananan balang ing anak, ngana ning anghel.
-Balu ku na ngeni king tapat ka pin king Dios uli na ning e me pigkaymut ing anak mung pakamalan.
-Tinalanga ya i Abraham at miglalawe.
-Ikit ne ing metung a tupang lalaki a mikulaput a sagu king masuksuk.
-Pintalan ne at dekap ban iyain bilang kalibe na ning anak na.
-Inaus neng Ing Ginu ya ing Babie ing lugal a ita.
-Makanyan deng ausan ngeni ding tau: King Bunduk ning Ginu Babie ya.
-Manibat banua inaus neng pasibayu ning anghel na ning Ginu i Abraham.
-Ngana, Susumpa ku king sarili kung amanu, ing Ginu ya ing magsalita, anti na ning e me pigkait kanaku ing anak mung pakamalan, pangaku kung bendisyunan da kang e makanyan-kanyan at parakalan ku la ding lahi mu.
-Maging kasing dakal da la ring batuin na ning banua at balas king pampang ning dagat.
-Sakupan da la ring siudad da ring karelang kalaban.
-Mibendisyunan la karing lahi mu ding heganaganang bansa keti king yatu.
-Matupad iti uli na ning pemintuan mu ku.
-Belikan na lang Abraham ding ipus na at miyabe-abe lang minuli Beerseba nung nu ya migdatun i Abraham.
-Kaybat nang milyari nita, mibalita kang Abraham king mikayanak yang lalaki i Milka king kapatad nang i Nahor.
-Uz ya lagyu ing pangane at Buz ya lagyu ing wali na.
-Sinalisi ya i Kemuel a tata nang Aram, i Kesed, Haso, Pildas, Jidlap, at Betuel.
-I Betuel ya ing tata nang Rebeca.
-Walu la ding ayanak nang Milka kang Nahor a kapatad nang Abraham.
-Oreni naman ding ayanak na king kasese babai nang i Reuma: di Teba, Gaham, Tahas, at i Maaca.
+verse	content
+001	Kaybat dang milyari deting bage, sibukan ne ning Dios i Abraham.
+001	Abraham, ngana.
+001	Nanu pu?
+001	nganang mekibat.
+002	Kanita sinabi na ning Dios, Abraham, ituki me i Isaac, ing anak mung kabubugtungan a pakamalan mu, at munta kayu king sakup ning Moria.
+002	Iyain me kanaku bilang ain-a-durulukan karin king bunduk a ituru ku keka.
+003	Maranun yang mibangun i Abraham; sekyan ne ing asno na, kayabe ne i Isaac at ding adua karing ipus nang lalaki.
+003	Migdala ya namang dutung para panangab king ain-a-durulukan a inutus na ning Dios a idala na.
+004	Kalabas da ring atlung aldo ikit neng Abraham ing lugal king marayu.
+005	Kanita sinabi na karing ipus na, Malakuan kayu keni ikayung adua, at banten ye ing asno kabang ing anak at aku munta kami karin.
+005	Samba kami at kaybat balikan da kayu.
+006	Kanita kinua nang Abraham ing dutung para king ain at pepapusan na kang Isaac at ya naman ing migdala king api at king pataram.
+006	Miglakad na la kanita ding mitata.
+007	Oneng nganang Isaac kang tata na, Tatang!
+008	Nanu ita, anak ku?
+008	nganang mekibat.
+009	Ating api at dutung a panangab, nukarin ya ing tupang paten?
+009	nganang mengutang Isaac.
+010	Anak ku, ing Dios ya ing balang munie king tupang paten ta!
+010	nganang mekibat Abraham.
+010	At sindu da ring mitata ing pamaglakad da.
+011	Karas da king lugal a tiru na ning Dios, mitalakad yang altar i Abraham at selansan na ing dutung a panangab babo na niti.
+011	Kaybat ginapus ne ing anak nang i Isaac at binili ne babo na ning dutung a panangab king altar.
+012	Kaybat dimput ne ing pataram ban saksakan ne ing anak na.
+013	Oneng inaus ne ning anghel ning Ginu .
+013	Ngana, Abraham, Abraham!
+014	Nanu pu?
+014	nganang mekibat.
+015	E me papaten o nananan balang ing anak, ngana ning anghel.
+015	Balu ku na ngeni king tapat ka pin king Dios uli na ning e me pigkaymut ing anak mung pakamalan.
+016	Tinalanga ya i Abraham at miglalawe.
+016	Ikit ne ing metung a tupang lalaki a mikulaput a sagu king masuksuk.
+016	Pintalan ne at dekap ban iyain bilang kalibe na ning anak na.
+017	Inaus neng Ing Ginu ya ing Babie ing lugal a ita.
+017	Makanyan deng ausan ngeni ding tau: King Bunduk ning Ginu Babie ya.
+018	Manibat banua inaus neng pasibayu ning anghel na ning Ginu i Abraham.
+019	Ngana, Susumpa ku king sarili kung amanu, ing Ginu ya ing magsalita, anti na ning e me pigkait kanaku ing anak mung pakamalan,
+020	pangaku kung bendisyunan da kang e makanyan-kanyan at parakalan ku la ding lahi mu.
+020	Maging kasing dakal da la ring batuin na ning banua at balas king pampang ning dagat.
+020	Sakupan da la ring siudad da ring karelang kalaban.
+021	Mibendisyunan la karing lahi mu ding heganaganang bansa keti king yatu.
+021	Matupad iti uli na ning pemintuan mu ku.
+022	Belikan na lang Abraham ding ipus na at miyabe-abe lang minuli Beerseba nung nu ya migdatun i Abraham.
+023	Kaybat nang milyari nita, mibalita kang Abraham king mikayanak yang lalaki i Milka king kapatad nang i Nahor.
+024	Uz ya lagyu ing pangane at Buz ya lagyu ing wali na.
+024	Sinalisi ya i Kemuel a tata nang Aram,
+025	i Kesed, Haso, Pildas, Jidlap, at Betuel.
+026	I Betuel ya ing tata nang Rebeca.
+026	Walu la ding ayanak nang Milka kang Nahor a kapatad nang Abraham.
+027	Oreni naman ding ayanak na king kasese babai nang i Reuma: di Teba, Gaham, Tahas, at i Maaca.

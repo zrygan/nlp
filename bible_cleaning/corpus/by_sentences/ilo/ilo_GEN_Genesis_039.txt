@@ -1,36 +1,39 @@
-Inkuyog dagiti Ismaelita ni Jose idiay Egipto.
-Idi dumtengda sadiay, inlakoda ni Jose iti maysa kadagiti ofisiales ti ari, ni Potifar a kapitan dagiti guardia ti palasio.
-Nagserbi ni Jose iti balay ti apona nga Egipcio.
-Tinultulongan ni Yahweh ket nagballigi iti aniaman nga aramidenna.
-Nadlaw ti apona nga adda ni Yahweh ken ni Jose.
-Naay-ayo ni Potifar kenkuana, ket pinagbalinna a katalek iti balay ken mangaywan iti amin a sanikuana.
-Manipud idin, binendisionan ni Yahweh ti entero a balay ti Egipcio gapu ken ni Jose.
-Rimmang-ayda a sangakabbalayan ket immadu ti apit iti talonna.
-Intalek ni Potifar ti amin ken ni Jose.
-Awanen ti pakaringgoran ni Potifar, malaksid ti taraon a kanenna.
-Nabaked ken naguapo ni Jose.
-Iti saan a mabayag, nakayawan kenkuana ti asawa ni Potifar.
-Ginargari ti babai nga agkaiddada.
-Nagkedked ni Jose, ket kinunana, Kitaem, awan ti pakaringgoran ni apok iti balay ta addaak ditoy.
-Intalekna ti amin a kukuana iti aywanko.
-Adda turayko a kas kenkuana iti daytoy a balay.
-Sika laeng ti dina intalek kaniak ta asawanaka.
-Kasano ngarud nga aramidek ti kasta a kinadakes, ket agbasolak iti Dios?
-Saan nga inkaskaso ni Jose ti inaldaw a pananggargari kenkuana ti babai.
-Ngem iti maysa nga aldaw, idi napan ni Jose iti balay tapno aramidenna ti trabahona, nairana nga awan sadiay dagiti dadduma a babaonen.
-Pagammoan, ginuyod ti babai ket kinunana, Kaiddaennak!
-Nagtaray a rimmuar ni Jose ngem naigawid ti babai ti kagayna.
-Idi makita ti babai a nabati ni Jose ti kagayna, nagtaray a rimmuar iti balay, pinukkawanna dagiti babaonenna iti balay, ket kinunana, Kitaenyo, ibabainnatayo daytoy a Hebreo nga insangpet ti asawak.
-Simrek iti kuartok, ket kayatnak a ramesen, ngem nagikkisak.
-Iti pannakangngegna iti ikkisko, nagtaray a rimmuar ket nabatina ti kagayna iti abayko.
-Indulin ti babai ti kagay ni Jose.
-Idi sumangpet ti apo ni Jose, inulitna kenkuana ti imbagana kadagiti babaonenna.
-Simrek iti kuartok dayta Hebreo a tagabu nga inyegmo ditoy, ket kayatnak a kaiddaen, kinunana.
-Ngem idi nagikkisak, nagtaray a rimmuar ket nabatina ti kagayna iti abayko.
-Kasta unay ti pungtot ni Potifar.
-Pinatiliwna ni Jose sana pinaipupok iti pagbaludan nga ayan dagiti balud ti ari.
-Sadiay ti nagyanan ni Jose.
-Ngem saan a binaybay-an ni Yahweh.
-Binendisionanna ni Jose, isu a nagbalin a nasayaat kenkuana ti guardia ti pagbaludan.
-Pinagbalinna a mangimaton kadagiti dadduma a balud ken mangidaulo iti amin nga aramid iti pagbaludan.
-Saan a nakibiang ti guardia ti aniaman a naipaannong ken ni Jose ta ammona a kaduana ni Yahweh, ket tultulonganna ni Jose iti amin nga aramidna.
+verse	content
+001	Inkuyog dagiti Ismaelita ni Jose idiay Egipto.
+001	Idi dumtengda sadiay, inlakoda ni Jose iti maysa kadagiti ofisiales ti ari, ni Potifar a kapitan dagiti guardia ti palasio.
+002	Nagserbi ni Jose iti balay ti apona nga Egipcio.
+002	Tinultulongan ni Yahweh ket nagballigi iti aniaman nga aramidenna.
+003	Nadlaw ti apona nga adda ni Yahweh ken ni Jose.
+004	Naay-ayo ni Potifar kenkuana, ket pinagbalinna a katalek iti balay ken mangaywan iti amin a sanikuana.
+005	Manipud idin, binendisionan ni Yahweh ti entero a balay ti Egipcio gapu ken ni Jose.
+005	Rimmang-ayda a sangakabbalayan ket immadu ti apit iti talonna.
+006	Intalek ni Potifar ti amin ken ni Jose.
+006	Awanen ti pakaringgoran ni Potifar, malaksid ti taraon a kanenna.
+007	Nabaked ken naguapo ni Jose.
+008	Iti saan a mabayag, nakayawan kenkuana ti asawa ni Potifar.
+008	Ginargari ti babai nga agkaiddada.
+009	Nagkedked ni Jose, ket kinunana, Kitaem, awan ti pakaringgoran ni apok iti balay ta addaak ditoy.
+009	Intalekna ti amin a kukuana iti aywanko.
+010	Adda turayko a kas kenkuana iti daytoy a balay.
+010	Sika laeng ti dina intalek kaniak ta asawanaka.
+010	Kasano ngarud nga aramidek ti kasta a kinadakes, ket agbasolak iti Dios?
+011	Saan nga inkaskaso ni Jose ti inaldaw a pananggargari kenkuana ti babai.
+012	Ngem iti maysa nga aldaw, idi napan ni Jose iti balay tapno aramidenna ti trabahona, nairana nga awan sadiay dagiti dadduma a babaonen.
+013	Pagammoan, ginuyod ti babai ket kinunana, Kaiddaennak!
+014	Nagtaray a rimmuar ni Jose ngem naigawid ti babai ti kagayna.
+015	Idi makita ti babai a nabati ni Jose ti kagayna, nagtaray a rimmuar iti balay,
+016	pinukkawanna dagiti babaonenna iti balay, ket kinunana, Kitaenyo, ibabainnatayo daytoy a Hebreo nga insangpet ti asawak.
+016	Simrek iti kuartok, ket kayatnak a ramesen, ngem nagikkisak.
+017	Iti pannakangngegna iti ikkisko, nagtaray a rimmuar ket nabatina ti kagayna iti abayko.
+018	Indulin ti babai ti kagay ni Jose.
+018	Idi sumangpet ti apo ni Jose,
+019	inulitna kenkuana ti imbagana kadagiti babaonenna.
+019	Simrek iti kuartok dayta Hebreo a tagabu nga inyegmo ditoy, ket kayatnak a kaiddaen, kinunana.
+020	Ngem idi nagikkisak, nagtaray a rimmuar ket nabatina ti kagayna iti abayko.
+021	Kasta unay ti pungtot ni Potifar.
+022	Pinatiliwna ni Jose sana pinaipupok iti pagbaludan nga ayan dagiti balud ti ari.
+022	Sadiay ti nagyanan ni Jose.
+023	Ngem saan a binaybay-an ni Yahweh.
+023	Binendisionanna ni Jose, isu a nagbalin a nasayaat kenkuana ti guardia ti pagbaludan.
+024	Pinagbalinna a mangimaton kadagiti dadduma a balud ken mangidaulo iti amin nga aramid iti pagbaludan.
+025	Saan a nakibiang ti guardia ti aniaman a naipaannong ken ni Jose ta ammona a kaduana ni Yahweh, ket tultulonganna ni Jose iti amin nga aramidna.

@@ -1,45 +1,54 @@
-Gawa kang altar a pidulukan insenso; dutung a akasia ing gamitan mu.
-Gawan meng kuadradu; labing walung pulgada ya king kaba, labing walung pulgada ne man king lapad, at atlung pulu't anam a pulgada ya king katas.
-Kailangan ing makasukung la ding peka sagu na karing apat nang suluk niti anting dake na.
-Ing peka mesa na at sanepa at ding sagu na balutanan mu la ngan gintu at dinan listun a gintu king makapadurut.
-Karing mingatba nang dane, lalam ning listun, mikabit kang tiduang telasingsing a gintu para pisuluran karing tambayuk a peka bitbitan na.
-Gawan mu la king dutung a akasia deting tambayuk, at balutanan mu la namang gintu.
-Ibili me iting altar king lual ning tabing arapan na ning Kaban ning Kasunduan.
-Iti ing lugal nung nukarin ku makitagpu kekayu.
-Balang abak, potang dirinan na lang laru ding sulu, kailangan ing duluk yang mabanglung insenso i Aaron keting altar.
-Makanyan munaman ing daptan na potang sindian na la ding sulu karas ning bengi.
-E yu kakalinguan iting pamiyain insenso aldo-aldo at pati ding maging lahi yu.
-E ye didinan iting altar king insensong e makapaintulut o king nanu pa mang animal a durulukan o nanu pa mang ain-a-kakanan; e ye tutugtuganan nanumang alak a yayain.
-Misan king pabanua sukat neng gampanan Aaron ing seremonia ning pamaglinis keting altar king kapamilatan na ning pamangaskas na karing apat nang sagu king daya ning animal a miyain para king pangapatawaran na ning kasalanan.
-Sukat marapat iti misan king pabanua at king kapilan pa man.
-Sukat yang lubus banal iting altar a makatalaga para kanaku, ing Ginu .
-Ngana ning Ginu kang Moises, Potang kuma kang sensus da ring memalen na ning Israel, sukat na kung bayaran ning balang katau metung a alaga ban kanita alang salut a malyaring miras king bie na kabang mararapat ing pamagsensus.
-Ing balang metung a miyabe king sensus sukat neng bayaran ing alagang mayayawad, agpang king timbangan na ning santuaryu.
-Kailangan nang bayaran iti ning balang metung at metung bilang ain para kanaku.
-Ing balang kataung mabilang king sensus, ngana wari, ing balang lalaking atyu na king idad a aduang pulung banua o maygit kaniti, sukat nang bayaran kanaku ing anti kaniting alaga.
-E ya kailangan mamayad maygit ing lalaking mabandi, at e ya kailangan mamayad kulang ing lalaking kalulu, potang ibie ra iting alaga a kalibe na ning bie ra.
-Likuman mu la reting salapi karing memalen na ning Israel, at ya ing gastusan mu para king pamaniustentu king Tolda a kanakung tuknangan.
-Iting buis ya ing bayad a kalibe na ning bie ra at aku naman e ku la kalinguan.
-Ngana pa ning Ginu kang Moises, Pagawa kang metung a palangganang tangsu a ating talpakan munamang tangsu.
-Ibili me iti pilatan na ning Toldang tuknangan ku ila ning altar at dinan meng danum.
-Iti ing danum a gamitan nang Aaron at ding anak nang lalaki para panos dang gamat at bitis bayu la lungub king Toldang tuknangan ku o kaya bayu la lumapit king altar ban miyain king ain-a-kakanan.
-E la mate nung daptan da iti.
-Kailangan da lang wasan ding gamat da at bitis ban e la mate.
-Metung ya iting tuntunan a sukat dang tuparan at ding maging lahi ra king kapilan pa man.
-Ngana pa ning Ginu kang Moises, Kuma ka karing pekamasanting a paniangkap: labing aduang librang mirang alang samut, anam a librang mabanglung kanela, anam a librang mabanglung kania, at labing aduang librang kasia agpang king timbangan ning santuaryu.
-Idagdag mu kaniti ing metung a galun a larung olibo, at gawa kang larung paglania a singkapan bilang pabanglu.
-Gamitan mu iti para paglania king Toldang kanakung tuknangan, king Kaban ning Kasunduan, king lamesa, at para karing sablang kasangkapan, king tumpakan-sulu, at karing sablang kasangkapan na, king altar a pidurulukan insenso, king altar a pidurulukan karing ain at ding sabla nang kasangkapan, king palangganang pipanuasan at ing talpakan na.
-Makanyan mu lang italaga kanaku deting sablang bage ban maging lubus lang banal, at manasakit ya king upaya na ning karelang kabanalan ing ninumang tagkil kareti.
-Kaybat lanian mia naman kaniti i Aaron at ding anak nang lalaki, at italaga mu la bilang pari a sumuyu kanaku.
-Sabian mu karing memalen na ning Israel, Manibat ngeni iting banal a larung paglania ya ing sukat magamit king pamaniuyu kanaku king sablang panaun.
-E sukat mitugtug karing karaniwan a tau at e yu bitasang gagamitan ing pormularyu na niti.
-Iti banal at sukat yung tunggen banal.
-Ninumang gawang kalupa na sangkap niti at saka na gamitan iti kenu pa mang e pari, e ne malyaring mibilang pang miembru na ning kanakung balen.
-Nganang sinabi ning Ginu kang Moises, Kuma kang parehu takal at timbang king balang metung kareting makatuking mabanglung paniangkap: estakte, onika, galbano, at insensong puru.
-Ila deti ring gamitan mu para gawa kang insenso, antimo nung makananu kang gagawang pabanglu.
-Dinan mung asin ban maging puru at banal.
-Dikdikan mung mapinu ing metung nang dake niti, at ibili mu king arap ning Tolda nung nukarin da kayu pakitagpuan.
-Tunggen yung banal iting insenso.
-E yu pakiapusan para gamitan king sarili yu ing pamangawang insenso king anti kaniting paralan.
-Tunggen yung banal iti uling iti bukud mung para king Ginu .
-Itiwalag ya karing memalen ku ing ninumang gawang pabanglu king anti kaniting paralan.
+verse	content
+001	Gawa kang altar a pidulukan insenso; dutung a akasia ing gamitan mu.
+002	Gawan meng kuadradu; labing walung pulgada ya king kaba, labing walung pulgada ne man king lapad, at atlung pulu't anam a pulgada ya king katas.
+002	Kailangan ing makasukung la ding peka sagu na karing apat nang suluk niti anting dake na.
+003	Ing peka mesa na at sanepa at ding sagu na balutanan mu la ngan gintu at dinan listun a gintu king makapadurut.
+004	Karing mingatba nang dane, lalam ning listun, mikabit kang tiduang telasingsing a gintu para pisuluran karing tambayuk a peka bitbitan na.
+005	Gawan mu la king dutung a akasia deting tambayuk, at balutanan mu la namang gintu.
+006	Ibili me iting altar king lual ning tabing arapan na ning Kaban ning Kasunduan.
+006	Iti ing lugal nung nukarin ku makitagpu kekayu.
+007	Balang abak, potang dirinan na lang laru ding sulu, kailangan ing duluk yang mabanglung insenso i Aaron keting altar.
+008	Makanyan munaman ing daptan na potang sindian na la ding sulu karas ning bengi.
+008	E yu kakalinguan iting pamiyain insenso aldo-aldo at pati ding maging lahi yu.
+009	E ye didinan iting altar king insensong e makapaintulut o king nanu pa mang animal a durulukan o nanu pa mang ain-a-kakanan; e ye tutugtuganan nanumang alak a yayain.
+010	Misan king pabanua sukat neng gampanan Aaron ing seremonia ning pamaglinis keting altar king kapamilatan na ning pamangaskas na karing apat nang sagu king daya ning animal a miyain para king pangapatawaran na ning kasalanan.
+010	Sukat marapat iti misan king pabanua at king kapilan pa man.
+010	Sukat yang lubus banal iting altar a makatalaga para kanaku, ing Ginu .
+011	Ngana ning Ginu kang Moises,
+012	Potang kuma kang sensus da ring memalen na ning Israel, sukat na kung bayaran ning balang katau metung a alaga ban kanita alang salut a malyaring miras king bie na kabang mararapat ing pamagsensus.
+013	Ing balang metung a miyabe king sensus sukat neng bayaran ing alagang mayayawad, agpang king timbangan na ning santuaryu.
+013	Kailangan nang bayaran iti ning balang metung at metung bilang ain para kanaku.
+014	Ing balang kataung mabilang king sensus, ngana wari, ing balang lalaking atyu na king idad a aduang pulung banua o maygit kaniti, sukat nang bayaran kanaku ing anti kaniting alaga.
+015	E ya kailangan mamayad maygit ing lalaking mabandi, at e ya kailangan mamayad kulang ing lalaking kalulu, potang ibie ra iting alaga a kalibe na ning bie ra.
+016	Likuman mu la reting salapi karing memalen na ning Israel, at ya ing gastusan mu para king pamaniustentu king Tolda a kanakung tuknangan.
+016	Iting buis ya ing bayad a kalibe na ning bie ra at aku naman e ku la kalinguan.
+017	Ngana pa ning Ginu kang Moises,
+018	Pagawa kang metung a palangganang tangsu a ating talpakan munamang tangsu.
+018	Ibili me iti pilatan na ning Toldang tuknangan ku ila ning altar at dinan meng danum.
+019	Iti ing danum a gamitan nang Aaron at ding anak nang lalaki para panos dang gamat at bitis
+020	bayu la lungub king Toldang tuknangan ku o kaya bayu la lumapit king altar ban miyain king ain-a-kakanan.
+020	E la mate nung daptan da iti.
+021	Kailangan da lang wasan ding gamat da at bitis ban e la mate.
+021	Metung ya iting tuntunan a sukat dang tuparan at ding maging lahi ra king kapilan pa man.
+022	Ngana pa ning Ginu kang Moises,
+023	Kuma ka karing pekamasanting a paniangkap: labing aduang librang mirang alang samut, anam a librang mabanglung kanela, anam a librang mabanglung kania,
+024	at labing aduang librang kasia agpang king timbangan ning santuaryu.
+024	Idagdag mu kaniti ing metung a galun a larung olibo,
+025	at gawa kang larung paglania a singkapan bilang pabanglu.
+026	Gamitan mu iti para paglania king Toldang kanakung tuknangan, king Kaban ning Kasunduan,
+027	king lamesa, at para karing sablang kasangkapan, king tumpakan-sulu, at karing sablang kasangkapan na, king altar a pidurulukan insenso,
+028	king altar a pidurulukan karing ain at ding sabla nang kasangkapan, king palangganang pipanuasan at ing talpakan na.
+029	Makanyan mu lang italaga kanaku deting sablang bage ban maging lubus lang banal, at manasakit ya king upaya na ning karelang kabanalan ing ninumang tagkil kareti.
+030	Kaybat lanian mia naman kaniti i Aaron at ding anak nang lalaki, at italaga mu la bilang pari a sumuyu kanaku.
+031	Sabian mu karing memalen na ning Israel, Manibat ngeni iting banal a larung paglania ya ing sukat magamit king pamaniuyu kanaku king sablang panaun.
+032	E sukat mitugtug karing karaniwan a tau at e yu bitasang gagamitan ing pormularyu na niti.
+032	Iti banal at sukat yung tunggen banal.
+033	Ninumang gawang kalupa na sangkap niti at saka na gamitan iti kenu pa mang e pari, e ne malyaring mibilang pang miembru na ning kanakung balen.
+034	Nganang sinabi ning Ginu kang Moises, Kuma kang parehu takal at timbang king balang metung kareting makatuking mabanglung paniangkap: estakte, onika, galbano, at insensong puru.
+035	Ila deti ring gamitan mu para gawa kang insenso, antimo nung makananu kang gagawang pabanglu.
+035	Dinan mung asin ban maging puru at banal.
+036	Dikdikan mung mapinu ing metung nang dake niti, at ibili mu king arap ning Tolda nung nukarin da kayu pakitagpuan.
+036	Tunggen yung banal iting insenso.
+037	E yu pakiapusan para gamitan king sarili yu ing pamangawang insenso king anti kaniting paralan.
+037	Tunggen yung banal iti uling iti bukud mung para king Ginu .
+038	Itiwalag ya karing memalen ku ing ninumang gawang pabanglu king anti kaniting paralan.

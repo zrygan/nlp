@@ -1,37 +1,40 @@
-Ngana ning Ginu kang Abram, Lakuan me ing balen mu, ding kamaganak mu, at ing pibalebale nang tata mu, at munta ka king bansang ituldu ku keka.
-Gawan da kang metung a maragul a bansa at bendisyunan da ka.
-Maging pikabaluan ka lagyu at manatad kang bendisyun.
-Bendisyunan ku la ding mamendisyun keka, oneng isumpa ku la ding maniumpa keka.
-At kapamilatan mu bendisyunan ku la ding sablang bansa.
-Meko ya i Abram antimo ing inutus na ning Ginu .
-Kayabe neng meko i Lot.
-Pitu yang pulu't limang banua i Abram inyang meko ya king Haran.
-Tiki ne ing asawa nang i Sarai, ing pangunakan nang i Lot, ing heganaganang pibandian a atipun da at ding heganaganang ipus a meging bandi ra karin Haran.
-At miglakbe lang papunta king sakup ning Canaan.
-Karas da king sakup ning Canaan, libutan neng Abram angga king miras ya king lele na ning sagradung tanaman ning More, ing banal a lugal karin Sikem.
-Manuknangan la pa kanita karin ding Cananeo.
-Pepakit ya karin ing Ginu kang Abram at ngana, Ibie ke ing gabun a iti karing kekang maging lahi.
-Karin mitalakad yang altar para king Ginung pepakit kang Abram.
-Ibat karin sinulung ya pa at miras king mabunduk a lugal king dane nang aslagan ning Betel.
-Telakad ne ing tolda na pilatan na ning Betel, king dane albugan at ning Ai king dane aslagan.
-Mitalakad yang altar karin para king Ginu at menalangin ya king lagyu na ning Ginu .
-Kaybat na nita, sindu na ing pamaglakad na at miras ya banda nang mauli ning Canaan.
-Mika maragul a danup king sakup na ning Canaan.
-Minta ya i Abram king Ehipto ban karin manuknangan uling tutung maragul ing danup.
-Inyang malapit na la Ehipto ngana king asawa nang i Sarai, Balu kung malagu kang babai.
-Potang akit da ka ding tau Ehipto sabian da, Asawa neng Abram yan.
-Kaybat paten da ku, oneng ika e ra ka nanan a balang.
-Ipakisabi ku keka king sabian mu sana ing kapatad mu ku ban uli mu e ra ku paten at pakiabayan da kung masalese.
-Inyang miras la Ehipto, ikit da ring tau Ehipto king malagu yang babai i Sarai.
-Panakit da ring panibalan na ning ari, belita re at pemuri arapan ning ari.
-Kaybat tiki da ne king palasyu na ning ari.
-Uli nang Sarai mesalese ya kabilian i Abram.
-Dininan deng tupa, kambing, baka, asno, kamelyu, at ipus a lalaki at babai.
-Oneng pepagpa yang mangabayat a parusa ing Ginu king ari at king pibalebale na uli na ning kinua ne i Sarai a asawa nang Abram.
-Kanita pepayaus ne ning ari i Abram at ngana, Abram, nanu iting depat mu kanaku!
-Obat e mu sinabing asawa me?
-Obat sinabi mung kapatad me?
-Kinua ke mo bilang asawa ku.
-Ngeni oyni ing asawa mo!
-Kuanan mu ne at mako na kayu!
-Inutus na ning ari karing tauan na ing paburen da na lang mako a darala ing heganaganang pibandian da.
+verse	content
+001	Ngana ning Ginu kang Abram, Lakuan me ing balen mu, ding kamaganak mu, at ing pibalebale nang tata mu, at munta ka king bansang ituldu ku keka.
+002	Gawan da kang metung a maragul a bansa at bendisyunan da ka.
+002	Maging pikabaluan ka lagyu at manatad kang bendisyun.
+003	Bendisyunan ku la ding mamendisyun keka,
+004	oneng isumpa ku la ding maniumpa keka.
+005	At kapamilatan mu bendisyunan ku la ding sablang bansa.
+006	Meko ya i Abram antimo ing inutus na ning Ginu .
+006	Kayabe neng meko i Lot.
+006	Pitu yang pulu't limang banua i Abram inyang meko ya king Haran.
+007	Tiki ne ing asawa nang i Sarai, ing pangunakan nang i Lot, ing heganaganang pibandian a atipun da at ding heganaganang ipus a meging bandi ra karin Haran.
+007	At miglakbe lang papunta king sakup ning Canaan.
+007	Karas da king sakup ning Canaan,
+008	libutan neng Abram angga king miras ya king lele na ning sagradung tanaman ning More, ing banal a lugal karin Sikem.
+008	Manuknangan la pa kanita karin ding Cananeo.
+009	Pepakit ya karin ing Ginu kang Abram at ngana, Ibie ke ing gabun a iti karing kekang maging lahi.
+009	Karin mitalakad yang altar para king Ginung pepakit kang Abram.
+010	Ibat karin sinulung ya pa at miras king mabunduk a lugal king dane nang aslagan ning Betel.
+010	Telakad ne ing tolda na pilatan na ning Betel, king dane albugan at ning Ai king dane aslagan.
+010	Mitalakad yang altar karin para king Ginu at menalangin ya king lagyu na ning Ginu .
+011	Kaybat na nita, sindu na ing pamaglakad na at miras ya banda nang mauli ning Canaan.
+012	Mika maragul a danup king sakup na ning Canaan.
+012	Minta ya i Abram king Ehipto ban karin manuknangan uling tutung maragul ing danup.
+013	Inyang malapit na la Ehipto ngana king asawa nang i Sarai, Balu kung malagu kang babai.
+014	Potang akit da ka ding tau Ehipto sabian da, Asawa neng Abram yan.
+014	Kaybat paten da ku, oneng ika e ra ka nanan a balang.
+015	Ipakisabi ku keka king sabian mu sana ing kapatad mu ku ban uli mu e ra ku paten at pakiabayan da kung masalese.
+016	Inyang miras la Ehipto, ikit da ring tau Ehipto king malagu yang babai i Sarai.
+017	Panakit da ring panibalan na ning ari, belita re at pemuri arapan ning ari.
+017	Kaybat tiki da ne king palasyu na ning ari.
+018	Uli nang Sarai mesalese ya kabilian i Abram.
+018	Dininan deng tupa, kambing, baka, asno, kamelyu, at ipus a lalaki at babai.
+019	Oneng pepagpa yang mangabayat a parusa ing Ginu king ari at king pibalebale na uli na ning kinua ne i Sarai a asawa nang Abram.
+020	Kanita pepayaus ne ning ari i Abram at ngana, Abram, nanu iting depat mu kanaku!
+020	Obat e mu sinabing asawa me?
+021	Obat sinabi mung kapatad me?
+021	Kinua ke mo bilang asawa ku.
+021	Ngeni oyni ing asawa mo!
+021	Kuanan mu ne at mako na kayu!
+022	Inutus na ning ari karing tauan na ing paburen da na lang mako a darala ing heganaganang pibandian da.

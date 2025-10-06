@@ -1,28 +1,31 @@
-Naghimangraw an Dyos, ngan amo ini an iya mga pulong Ako amo an Ginoo nga iyo Dyos nga nagdara ha iyo tikang ha Ehipto, diin mga oripon kamo.
-Ayaw kamo pagsingba hin lain nga diyos labot ha akon.
-Ayaw kamo paghimo para ha iyo ngahaw hin mga ladawan hin bisan ano nga butang nga aadto ha langit, o aanhi ha tuna, o aadto ha tubig, ha ilarom han tuna.
-Ayaw kamo pagyukbo o pagsingba hin bisan ano nga diyosdiyos, kay ako amo an Ginoo nga iyo Dyos ngan maabugho ako nga Dyos.
-Kinakastigo ko adton mga nagdudumot ha akon ngan an ira mga tulin, tubtob ngadto han ikatulo ngan ikaupat nga katulinan.
-Kundi ipinapakita ko an akon paghigugma ngadto ha yinukot nga mga katulinan hadton mga nahigugma ha akon ngan nagsusugot han akon mga balaod.
-Ayaw niyo paggamita an akon ngaran hin maraot nga panuyo, kay ako, an Ginoo nga iyo Dyos magakastigo han bisan hin-o nga nagamit han akon ngaran hin diri kaangayan.
-Tumana niyo an Adlaw nga Igparahuway ngan pagbaraana ini nga adlaw.
-May-ada niyo unom ka adlaw hin pagbuhat han ngatanan niyo nga buruhaton, kundi adlaw hin pagpahuway an ikapito ka adlaw ngan ighahalad ini niyo ha akon.
-Dida hito nga adlaw kinahanglan waray magtrabahobisan kamo, an iyo mga anak, an iyo mga oripon, an iyo mga hayop, o an mga lumalangyaw nga nag-uokoy dida han iyo nasod.
-Sulod hin unom ka adlaw ako nga Ginoo naghimo han tuna, han langit, han kadagatan, ngan han ngatanan nga aada hini, kundi pinmahuway ako dida han ikapito nga adlaw.
-Amo ito nga ako nga Ginoo nagbendisyon han Adlaw nga Igparahuway ngan ginhimo ko ini nga baraan.
-Tahora niyo an iyo amay ug an iyo iroy, basi maghilawig an iyo kinabuhi didto han tuna nga ihinahatag ko ha iyo.
-Ayaw kamo pagpatay hin tawo.
-Ayaw kamo panlibog.
-Ayaw kamo pangawat.
-Ayaw kamo pagsumbong hin buwa kontra han iyo igkasi-tawo.
-Ayaw kamo kaipa han balay hin lain nga tawo; ayaw kaipa han iya asawa, han iya mga oripon, han iya mga baka, han iya mga asno, o han bisan ano nga iya mga butang.
-Han pakabati han mga tawo han dalugdog ngan han tunog han trompeta, ngan han pakakita nira han kikidlat ngan han nag-usbok nga aso ha bukid, nangurog hira hin kahadlok ngan pinmahirayo hira hin pagtindog.
-Nagsiring hira kan Moises, Mamamati kami kon ikaw an maghimangraw ha amon; kundi nahadlok kami nga, kon an Dyos an maghimangraw ha amon, magkakamatay kami.
-Binmaton hi Moises, Ayaw kamo kahadlok; kinmahi la an Dyos hin pagsari ha iyo ngan hin pag-aghat nga dayuday magsugot kamo ha iya, basi diri kamo makasala.
-Kundi pinmahirayo la gihapon hin pagtindog an mga tawo, ngan hi Moises la an hinmarani han madakmol nga dampog diin nakadto an Dyos.
-Nagsugo an Ginoo kan Moises nga sidngon niya an mga Israelita: Hinkit-an na niyo kon gin-unan-o ko nga Ginoo hin pakighimangraw ha iyo tikang ha langit.
-Ayaw kamo paghimo para ha iyo kalugaringon hin kadiyosan nga salapi o bulawan nga pagsisingbahon niyo ngan itatampo ha akon.
-Paghimo kamo hin altar nga tuna para ha akon, ngan ighalad dida hini an iyo mga karnero ngan mga baka sugad nga mga halad nga tinubod ngan sugad nga mga halad hin pakig-urosa.
-Ha tagsa nga dapit nga akon igingahin nga pagsisingbahan niyo ha akon, makada ako ha iyo ngan magbibendisyon ako ha iyo.
-Kon magtindog kamo hin altar nga bato para ha akon, ayaw niyo pagtindoga ini tikang hin tinabas nga mga bato, kay kon ginagamitan niyo hin tigib an pagtabas han mga bato, hinihimo ini niyo nga diri na angay hin paggamit para han akon.
-Ayaw kamo pagtindog hin altar para ha akon nga may-ada mga balitang tipaigbaw, kay bangin ha pagsaka humuwaw kamo.
+verse	content
+001	Naghimangraw an Dyos, ngan amo ini an iya mga pulong
+002	Ako amo an Ginoo nga iyo Dyos nga nagdara ha iyo tikang ha Ehipto, diin mga oripon kamo.
+003	Ayaw kamo pagsingba hin lain nga diyos labot ha akon.
+004	Ayaw kamo paghimo para ha iyo ngahaw hin mga ladawan hin bisan ano nga butang nga aadto ha langit, o aanhi ha tuna, o aadto ha tubig, ha ilarom han tuna.
+005	Ayaw kamo pagyukbo o pagsingba hin bisan ano nga diyosdiyos, kay ako amo an Ginoo nga iyo Dyos ngan maabugho ako nga Dyos.
+005	Kinakastigo ko adton mga nagdudumot ha akon ngan an ira mga tulin, tubtob ngadto han ikatulo ngan ikaupat nga katulinan.
+006	Kundi ipinapakita ko an akon paghigugma ngadto ha yinukot nga mga katulinan hadton mga nahigugma ha akon ngan nagsusugot han akon mga balaod.
+007	Ayaw niyo paggamita an akon ngaran hin maraot nga panuyo, kay ako, an Ginoo nga iyo Dyos magakastigo han bisan hin-o nga nagamit han akon ngaran hin diri kaangayan.
+008	Tumana niyo an Adlaw nga Igparahuway ngan pagbaraana ini nga adlaw.
+009	May-ada niyo unom ka adlaw hin pagbuhat han ngatanan niyo nga buruhaton,
+010	kundi adlaw hin pagpahuway an ikapito ka adlaw ngan ighahalad ini niyo ha akon.
+010	Dida hito nga adlaw kinahanglan waray magtrabahobisan kamo, an iyo mga anak, an iyo mga oripon, an iyo mga hayop, o an mga lumalangyaw nga nag-uokoy dida han iyo nasod.
+011	Sulod hin unom ka adlaw ako nga Ginoo naghimo han tuna, han langit, han kadagatan, ngan han ngatanan nga aada hini, kundi pinmahuway ako dida han ikapito nga adlaw.
+011	Amo ito nga ako nga Ginoo nagbendisyon han Adlaw nga Igparahuway ngan ginhimo ko ini nga baraan.
+012	Tahora niyo an iyo amay ug an iyo iroy, basi maghilawig an iyo kinabuhi didto han tuna nga ihinahatag ko ha iyo.
+013	Ayaw kamo pagpatay hin tawo.
+014	Ayaw kamo panlibog.
+015	Ayaw kamo pangawat.
+016	Ayaw kamo pagsumbong hin buwa kontra han iyo igkasi-tawo.
+017	Ayaw kamo kaipa han balay hin lain nga tawo; ayaw kaipa han iya asawa, han iya mga oripon, han iya mga baka, han iya mga asno, o han bisan ano nga iya mga butang.
+018	Han pakabati han mga tawo han dalugdog ngan han tunog han trompeta, ngan han pakakita nira han kikidlat ngan han nag-usbok nga aso ha bukid, nangurog hira hin kahadlok ngan pinmahirayo hira hin pagtindog.
+019	Nagsiring hira kan Moises, Mamamati kami kon ikaw an maghimangraw ha amon; kundi nahadlok kami nga, kon an Dyos an maghimangraw ha amon, magkakamatay kami.
+020	Binmaton hi Moises, Ayaw kamo kahadlok; kinmahi la an Dyos hin pagsari ha iyo ngan hin pag-aghat nga dayuday magsugot kamo ha iya, basi diri kamo makasala.
+021	Kundi pinmahirayo la gihapon hin pagtindog an mga tawo, ngan hi Moises la an hinmarani han madakmol nga dampog diin nakadto an Dyos.
+022	Nagsugo an Ginoo kan Moises nga sidngon niya an mga Israelita: Hinkit-an na niyo kon gin-unan-o ko nga Ginoo hin pakighimangraw ha iyo tikang ha langit.
+023	Ayaw kamo paghimo para ha iyo kalugaringon hin kadiyosan nga salapi o bulawan nga pagsisingbahon niyo ngan itatampo ha akon.
+024	Paghimo kamo hin altar nga tuna para ha akon, ngan ighalad dida hini an iyo mga karnero ngan mga baka sugad nga mga halad nga tinubod ngan sugad nga mga halad hin pakig-urosa.
+024	Ha tagsa nga dapit nga akon igingahin nga pagsisingbahan niyo ha akon, makada ako ha iyo ngan magbibendisyon ako ha iyo.
+025	Kon magtindog kamo hin altar nga bato para ha akon, ayaw niyo pagtindoga ini tikang hin tinabas nga mga bato, kay kon ginagamitan niyo hin tigib an pagtabas han mga bato, hinihimo ini niyo nga diri na angay hin paggamit para han akon.
+026	Ayaw kamo pagtindog hin altar para ha akon nga may-ada mga balitang tipaigbaw, kay bangin ha pagsaka humuwaw kamo.

@@ -1,25 +1,33 @@
-Si Sara nagkabuhi sing 127 ka tuig.
-Napatay sia sa Hebron sa duta sang Canaan, kag si Abraham naglalaw sa iya.
-Karon ginbayaan niya anay ang bangkay sang iya asawa, nagkadto sa mga Hethanon kag nagsiling, Dumoluong ako nga nagaestar diri kaupod ninyo, pabakla man ninyo ako sing duta para himuon ko nga lulobngan, agod malubong ko ang akon asawa.
-Nagsabat sila, Tyoy, pamati ka sa amon.
-Gamhanan ka nga pangulo sa tunga namon.
-Ilubong ang imo asawa sa pinakamaayo nga lulobngan namon.
-Wala gid sing isa sa amon nga magadumili sang iya lulobngan, ukon magapugong sa imo sa paglubong sang imo patay.
-Dayon si Abraham nagtindog, nagsaludo sa ila, kag nagsiling, Kon magapasugot kamo nga ilubong ko ang akon asawa diri, palihog singgana ninyo si Efron, nga anak ni Zohar, nga ibaligya niya sa akon ang kweba sang Macpela nga yara sa higad sang iya uma.
-Singgana sia nga ibaligya niya ina sa iya gid nagakaigo nga bili nga saksi kamo, agod mangin-akon ina subong nga lulobngan.
-Karon si Efron mismo nagapungko man didto upod sa mga Hethanon sa tilipunan sang mga tawo sa pwerta sang siudad.
-Nagsabat sia nga nabatian gid sang tanan didto, Tyoy pamatii ako, indi na kinahanglan nga baklon mo pa.
-Ihatag ko sa imo ang bug-os nga uma kag ang lungib nga yara dira.
-Saksi ang akon mga kasimanwa nga ihatag ko ini sa imo, agod malubong mo ang imo asawa.
-Pero si Abraham nagsaludo sa atubang sang mga Hethanon, kag nagsiling kay Efron agod ang tanan makabati, Kon mahimo pamatii ako.
-Kon luyag mo gid man, baklon ko ang bug-os nga uma suno sa iya bili.
-Batuna ang akon bayad, agod malubong ko ang akon asawa didto.
-Si Efron nagsabat, Tyoy, ang duta nagabili lang sing 400 ka bilog nga pilak, pero ano gid ina sa aton?
-Ilubong ang imo asawa didto.
-Nagkasugot sila ni Abraham, kag gintimbang niya ang pilak nga ginsiling ni Efron nga nagapamati gid ang mga anak ni Het.
-Ang kadamuon sang pilak 400, suno sa talaksan sang mga negosyante.
-Amo ini ang paagi nga ang pagkabutang ni Efron sa Macpela, sa sidlangan sang Mamre, nangin-iya ni Abraham.
-Ini nagalakip sang uma, sang kweba nga yara dira, kag sang tanan nga mga kahoy tubtob sa iya mga dulonan.
-Ginkilala sang tanan nga mga Hethanon nga nagtipon didto, nga ini pagkabutang ni Abraham.
-Dayon ginlubong ni Abraham ang iya asawa nga si Sara sa sini nga kweba sa duta sang Canaan.
-Gani ang uma kag ang kweba sa sini nga duta nga iya anay sang mga Hethanon, nangin-iya ni Abraham subong duta nga lulobngan.
+verse	content
+001	Si Sara nagkabuhi sing 127 ka tuig.
+002	Napatay sia sa Hebron sa duta sang Canaan, kag si Abraham naglalaw sa iya.
+003	Karon ginbayaan niya anay ang bangkay sang iya asawa, nagkadto sa mga Hethanon kag nagsiling,
+004	Dumoluong ako nga nagaestar diri kaupod ninyo, pabakla man ninyo ako sing duta para himuon ko nga lulobngan, agod malubong ko ang akon asawa.
+005	Nagsabat sila,
+006	Tyoy, pamati ka sa amon.
+006	Gamhanan ka nga pangulo sa tunga namon.
+006	Ilubong ang imo asawa sa pinakamaayo nga lulobngan namon.
+006	Wala gid sing isa sa amon nga magadumili sang iya lulobngan, ukon magapugong sa imo sa paglubong sang imo patay.
+007	Dayon si Abraham nagtindog, nagsaludo sa ila,
+008	kag nagsiling, Kon magapasugot kamo nga ilubong ko ang akon asawa diri, palihog singgana ninyo si Efron, nga anak ni Zohar,
+009	nga ibaligya niya sa akon ang kweba sang Macpela nga yara sa higad sang iya uma.
+009	Singgana sia nga ibaligya niya ina sa iya gid nagakaigo nga bili nga saksi kamo, agod mangin-akon ina subong nga lulobngan.
+010	Karon si Efron mismo nagapungko man didto upod sa mga Hethanon sa tilipunan sang mga tawo sa pwerta sang siudad.
+010	Nagsabat sia nga nabatian gid sang tanan didto,
+011	Tyoy pamatii ako, indi na kinahanglan nga baklon mo pa.
+011	Ihatag ko sa imo ang bug-os nga uma kag ang lungib nga yara dira.
+011	Saksi ang akon mga kasimanwa nga ihatag ko ini sa imo, agod malubong mo ang imo asawa.
+012	Pero si Abraham nagsaludo sa atubang sang mga Hethanon,
+013	kag nagsiling kay Efron agod ang tanan makabati, Kon mahimo pamatii ako.
+013	Kon luyag mo gid man, baklon ko ang bug-os nga uma suno sa iya bili.
+013	Batuna ang akon bayad, agod malubong ko ang akon asawa didto.
+014	Si Efron nagsabat,
+015	Tyoy, ang duta nagabili lang sing 400 ka bilog nga pilak, pero ano gid ina sa aton?
+015	Ilubong ang imo asawa didto.
+016	Nagkasugot sila ni Abraham, kag gintimbang niya ang pilak nga ginsiling ni Efron nga nagapamati gid ang mga anak ni Het.
+016	Ang kadamuon sang pilak 400, suno sa talaksan sang mga negosyante.
+017	Amo ini ang paagi nga ang pagkabutang ni Efron sa Macpela, sa sidlangan sang Mamre, nangin-iya ni Abraham.
+017	Ini nagalakip sang uma, sang kweba nga yara dira, kag sang tanan nga mga kahoy tubtob sa iya mga dulonan.
+018	Ginkilala sang tanan nga mga Hethanon nga nagtipon didto, nga ini pagkabutang ni Abraham.
+019	Dayon ginlubong ni Abraham ang iya asawa nga si Sara sa sini nga kweba sa duta sang Canaan.
+020	Gani ang uma kag ang kweba sa sini nga duta nga iya anay sang mga Hethanon, nangin-iya ni Abraham subong duta nga lulobngan.

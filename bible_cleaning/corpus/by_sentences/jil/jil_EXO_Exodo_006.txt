@@ -1,45 +1,48 @@
-Dayon ang Ginoo nagsiling kay Moises, Karon makita mo ang akon himuon sa hari.
-Piliton ko sia sa pagpalakat sa akon mga tawo.
-Matuod gid nga mapilitan sia sa pagpagwa sa ila sa iya duta.
-Ang Dios nagsiling kay Moises, Ako amo ang Ginoo .
-Nagpakita ako kay Abraham, kay Isaac, kag kay Jacob, subong Makagagahom nga Dios.
-Wala ako magpakilala sa ila paagi sa akon balaan nga ngalan, ang Ginoo .
-Naghimo man ako sang akon kasugtanan sa ila, nga nagasaad sa paghatag sa ila sang duta sang Canaan, ang duta nga ila gin-estaran subong mga dumoluong.
-Karon nabatian ko ang mga panghakroy sang mga Israelinhon nga gin-ulipon sang mga Ehiptohanon, kag nadumdoman ko ang akon kasugtanan.
-Gani, dapat mo isiling sa mga Israelinhon, Ako amo ang Ginoo hilwayon ko kamo sa mabudlay nga mga trabaho nga ginapaobra sa inyo sang mga Ehiptohanon.
-Luwason ko kamo sa ila pag-ulipon sa inyo.
-Luwason ko kamo paagi sa akon makusog nga butkon nga nagadala sang makakulogmat nga silot.
-Mangin-akon kamo kaugalingon nga katawhan, kag ako mangin-inyo Dios.
-Mahibaluan ninyo nga ako amo ang Ginoo nga inyo Dios, nga nagahilway sa inyo sa mabudlay nga mga trabaho nga ginapaobra sa inyo sang mga Ehiptohanon.
-Dal-on ko kamo sa duta nga ginpanumpa ko nga ihatag kay Abraham, kay Isaac kag kay Jacob.
-Ihatag ko ini sa inyo subong inyo kaugalingon nga panublion.
-Ako amo ang Ginoo .
-Ginsugid ini ni Moises sa mga Israelinhon, pero indi sila magpamati sa iya, kay nadulaan na sila sing paglaom tungod sang mapintas nga pag-ulipon sa ila.
-Dayon ang Ginoo nagsiling kay Moises, Lakat kag isiling sa hari sang Ehipto nga dapat niya pagwaon ang mga Israelinhon sa iya duta.
-Pero si Moises nagsiling sa Ginoo , Kon ang mga Israelinhon indi gani magpamati sa akon, ano ang pagpamati sang hari sa akon?
-Indi ako maayo nga manughambal.
-Ang Ginoo nagmando kay Moises kag kay Aaron: Singgana ang mga Israelinhon kag ang hari sang Ehipto, nga ginsugo ko kamo sa pagpagwa sang mga Israelinhon halin sa duta sang Ehipto.
-Amo ini ang mga pangulo sang ila mga panimalay: ang mga anak nga lalaki ni Ruben nga panganay ni Jacob amo sanday Hanoc, Palu, Hezron, kag Carmi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Ruben.
-Si Simeon may anom ka mga kabataan nga lalaki nga amo sanday Jemuel, Jamin, Ohad, Jaquin, Zohar kag Shaul nga anak sang Canaanhon nga babayi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Simeon.
-Si Levi may tatlo ka mga anak nga lalaki nga amo sanday Gerson, Kohat, kag Merari; ini sila amo ang mga katigulangan sang mga kabarangayan ni Levi.
-Si Levi nagkabuhi sing 137 ka tuig.
-Ang mga anak nga lalaki ni Gerson amo sanday Libni, Simei, kag sila may madamo nga mga kaliwat.
-Ang apat ka mga anak nga lalaki ni Kohat amo sanday Amram, Izar, Hebron, kag Uziel.
-Si Kohat nagkabuhi sing 133 ka tuig.
-Ang duha ka mga anak nga lalaki ni Merari amo sanday Mali kag Musi.
-Amo ini ang mga kabarangayan ni Levi, kag ang ila mga kaliwatan.
-Si Amram nagpangasawa kay Jocabed nga utod sang iya amay, kag sia nagbata kay Aaron kag kay Moises.
-Si Amram nagkabuhi sing 137 ka tuig.
-Ang tatlo ka mga anak nga lalaki ni Izar amo sanday Core, Nepeg kag Zicri.
-Ang tatlo ka mga anak nga lalaki ni Uziel amo sanday Misael, Elzafan, kag Sitri.
-Si Aaron nagpangasawa kay Eliseba, nga anak ni Aminadab kag utod nga babayi ni Naason.
-Ang anak nanday Aaron kag Eliseba amo sanday Nadab, Abiu, Eleazar, kag Itamar.
-Ang tatlo ka mga anak nga lalaki ni Core amo sanday Asir, Elkana, kag Abiasaf; kabarangayan sang mga Corinhon.
-Si Eleazar nga anak ni Aaron, nagpangasawa sang isa sang mga anak ni Putiel, nga nag-anak kay Fineas.
-Amo ini ang mga pangulo sang mga panimalay ni Levi suno sa iya mga kabarangayan.
-Si Aaron kag si Moises amo ang ginsingganan sang Ginoo , Pagwaa ang mga Israelinhon halin sa duta sang Ehipto suno sa ila mga tribo.
-Sila ni Moises kag ni Aaron amo ang nagsiling sa hari sang Ehipto nga hilwayon ang mga Israelinhon.
-Sang paghambal sang Ginoo kay Moises didto sa Ehipto nagsiling sia, Ako amo ang Ginoo .
-Singgana ang hari sang Ehipto, sang tanan nga ginsiling ko sa imo.
-Pero nagsabat si Moises sa Ginoo , Nakahibalo ka nga indi ako maayo nga manughambal.
-Indi gid sia magpamati sa akon!
+verse	content
+001	Dayon ang Ginoo nagsiling kay Moises, Karon makita mo ang akon himuon sa hari.
+001	Piliton ko sia sa pagpalakat sa akon mga tawo.
+001	Matuod gid nga mapilitan sia sa pagpagwa sa ila sa iya duta.
+002	Ang Dios nagsiling kay Moises, Ako amo ang Ginoo .
+003	Nagpakita ako kay Abraham, kay Isaac, kag kay Jacob, subong Makagagahom nga Dios.
+003	Wala ako magpakilala sa ila paagi sa akon balaan nga ngalan, ang Ginoo .
+004	Naghimo man ako sang akon kasugtanan sa ila, nga nagasaad sa paghatag sa ila sang duta sang Canaan, ang duta nga ila gin-estaran subong mga dumoluong.
+005	Karon nabatian ko ang mga panghakroy sang mga Israelinhon nga gin-ulipon sang mga Ehiptohanon, kag nadumdoman ko ang akon kasugtanan.
+006	Gani, dapat mo isiling sa mga Israelinhon, Ako amo ang Ginoo hilwayon ko kamo sa mabudlay nga mga trabaho nga ginapaobra sa inyo sang mga Ehiptohanon.
+006	Luwason ko kamo sa ila pag-ulipon sa inyo.
+006	Luwason ko kamo paagi sa akon makusog nga butkon nga nagadala sang makakulogmat nga silot.
+007	Mangin-akon kamo kaugalingon nga katawhan, kag ako mangin-inyo Dios.
+007	Mahibaluan ninyo nga ako amo ang Ginoo nga inyo Dios, nga nagahilway sa inyo sa mabudlay nga mga trabaho nga ginapaobra sa inyo sang mga Ehiptohanon.
+008	Dal-on ko kamo sa duta nga ginpanumpa ko nga ihatag kay Abraham, kay Isaac kag kay Jacob.
+008	Ihatag ko ini sa inyo subong inyo kaugalingon nga panublion.
+008	Ako amo ang Ginoo .
+009	Ginsugid ini ni Moises sa mga Israelinhon, pero indi sila magpamati sa iya, kay nadulaan na sila sing paglaom tungod sang mapintas nga pag-ulipon sa ila.
+010	Dayon ang Ginoo nagsiling kay Moises,
+011	Lakat kag isiling sa hari sang Ehipto nga dapat niya pagwaon ang mga Israelinhon sa iya duta.
+012	Pero si Moises nagsiling sa Ginoo , Kon ang mga Israelinhon indi gani magpamati sa akon, ano ang pagpamati sang hari sa akon?
+012	Indi ako maayo nga manughambal.
+013	Ang Ginoo nagmando kay Moises kag kay Aaron: Singgana ang mga Israelinhon kag ang hari sang Ehipto, nga ginsugo ko kamo sa pagpagwa sang mga Israelinhon halin sa duta sang Ehipto.
+014	Amo ini ang mga pangulo sang ila mga panimalay: ang mga anak nga lalaki ni Ruben nga panganay ni Jacob amo sanday Hanoc, Palu, Hezron, kag Carmi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Ruben.
+015	Si Simeon may anom ka mga kabataan nga lalaki nga amo sanday Jemuel, Jamin, Ohad, Jaquin, Zohar kag Shaul nga anak sang Canaanhon nga babayi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Simeon.
+016	Si Levi may tatlo ka mga anak nga lalaki nga amo sanday Gerson, Kohat, kag Merari; ini sila amo ang mga katigulangan sang mga kabarangayan ni Levi.
+016	Si Levi nagkabuhi sing 137 ka tuig.
+017	Ang mga anak nga lalaki ni Gerson amo sanday Libni, Simei, kag sila may madamo nga mga kaliwat.
+018	Ang apat ka mga anak nga lalaki ni Kohat amo sanday Amram, Izar, Hebron, kag Uziel.
+018	Si Kohat nagkabuhi sing 133 ka tuig.
+019	Ang duha ka mga anak nga lalaki ni Merari amo sanday Mali kag Musi.
+019	Amo ini ang mga kabarangayan ni Levi, kag ang ila mga kaliwatan.
+020	Si Amram nagpangasawa kay Jocabed nga utod sang iya amay, kag sia nagbata kay Aaron kag kay Moises.
+020	Si Amram nagkabuhi sing 137 ka tuig.
+021	Ang tatlo ka mga anak nga lalaki ni Izar amo sanday Core, Nepeg kag Zicri.
+022	Ang tatlo ka mga anak nga lalaki ni Uziel amo sanday Misael, Elzafan, kag Sitri.
+023	Si Aaron nagpangasawa kay Eliseba, nga anak ni Aminadab kag utod nga babayi ni Naason.
+023	Ang anak nanday Aaron kag Eliseba amo sanday Nadab, Abiu, Eleazar, kag Itamar.
+024	Ang tatlo ka mga anak nga lalaki ni Core amo sanday Asir, Elkana, kag Abiasaf; kabarangayan sang mga Corinhon.
+025	Si Eleazar nga anak ni Aaron, nagpangasawa sang isa sang mga anak ni Putiel, nga nag-anak kay Fineas.
+025	Amo ini ang mga pangulo sang mga panimalay ni Levi suno sa iya mga kabarangayan.
+026	Si Aaron kag si Moises amo ang ginsingganan sang Ginoo , Pagwaa ang mga Israelinhon halin sa duta sang Ehipto suno sa ila mga tribo.
+027	Sila ni Moises kag ni Aaron amo ang nagsiling sa hari sang Ehipto nga hilwayon ang mga Israelinhon.
+028	Sang paghambal sang Ginoo kay Moises didto sa Ehipto
+029	nagsiling sia, Ako amo ang Ginoo .
+029	Singgana ang hari sang Ehipto, sang tanan nga ginsiling ko sa imo.
+030	Pero nagsabat si Moises sa Ginoo , Nakahibalo ka nga indi ako maayo nga manughambal.
+030	Indi gid sia magpamati sa akon!

@@ -1,46 +1,48 @@
-Ag la napokpokan nen Jose so liknaan to diad arap na saray aripen to, kanyan pinapaway to ran amin.
-Anggapoy atilak ed saramay aripen to nen impaamta toy sikaton dili ed saramay agagi to.
-Diad kasil na pansibsibek to, arengel na saray Egipsio, et imbalita ra ya ed ari.
-Inkuanen Jose ed saramay agagi to, Siak si Jose.
-Mabilay nin tuay amak?
-Balet diad ontan lan takot da ra may agagi to, ag ira makaebat.
-Insan inkuanen Jose ed sikara, Asingger kayo pa.
-Sinmingger ira, insan inkuanto, Siak si agi yon Jose ya inlako yod Egipto.
-Ag kayo mapaga tan ag yo tetetelen so sikayon dili lapud inlako yo ak dia.
-Ta say Dios so angibakid siak dia ya onaan nen say sikayo, pian mambilay iray totoo.
-Kumadwa yan taon labat na eras; wala niy limaran taon ya ag nayariy mambaka tan anggapoy naani.
-Say Dios so angibakid siak ya onaan nen say sikayo, pian nilaban kayo diad panamegley na sayan makapakelaw ya inkagawa, tan mambilay kayo tan saray kabyangay boleg yo.
-Kanyan aliwan sikayo so angibakid siak dia, no ag ta say Dios.
-Ginawa to ak a sankatageyan ya opisyal na ari.
-Siak to inkargado ed intiron bansa to; siak so manoley ed intiron Egipto.
-Natan sirin, ganatan yoy ompawil ed kindi ama tayo tan ibaga yod sikara yan papaibaga nen anak dan si Jose, Say Dios impagmaliw to ak a manoley ed intiron Egipto; dago kayon tampol ed siak.
-Nayarian yoy manayam ed dalin na Gosen, pian asingger kayod siaksikayo, saray anak yo, saray apo yo, saray karniro yo, saray kanding yo, saray baka yo, tan saray arum nin kayaryan yo.
-No wala kayod Gosen, naasikaso ta kayo.
-Wala niy limay taon na eras, et ag ko labay a naerasan kayo, saray pamilya yo, tan saray ayayep yo.
-Intuloy nen Jose ya inkuan, Natan amin yo, pati sika Benjamin, nanenengneng yo a siak a talaga si Jose.
-Ibaga yod kinen amak so ontan lan pakapanyarik dia ed Egipto, tan ibaga yoy amin ya anengneng yo.
-Insan ganatan yon iyakar ira dia ed siak.
-Nilakap toy Benjamin ya agi to tan nilakap met nen Benjamin, insan ira manakis a dua.
-Manakakis ni nen nilalakap tan inaanguban ton sansakey iray agagi to.
-Kasumpal to ya, akitongtong ed sikato ray agagi to.
-Nen sinmabid palasio so balita a sinmabi ray agagi nen Jose, akaliket so ari tan saray opisyal to.
-Inkuantod kinen Jose.
-Ibagam ed saray agagim a kargaan da ray beneg na ayayep da, onsempet irad dalin na Canaan, tan awiten day ama ra tan saray pamilya ra no ompawil ira dia.
-Iter kod sikaray sankamaungan a dalin ed Egipto, pian onsoluk so taganon pambilay da.
-Ibagam met ed sikara a mangawit iray pigaran kariton a manlapud Egipto, pian walay naloganan na saray kaasawaan da tan saray ankelag nin anak da.
-Paawit mo diay ama ra, no ompawil ira.
-Ag da kapagaan ya itilak iray kayaryan da, ta naitdan ira na sankamaungan a dalin ed Egipto.
-Sinumpal na saray anak nen Jacob so nibagad sikara.
-Initdan ira nen Jose na pigaran kariton, onung ed ganggan na ari, tan say nakan ed pambiahi ra.
-Initdan to met so balang sakey ed sikara na kawes ya ipales da, balet initdan toy Benjamin na talon lasus a kuartan pilak tan limaran kawes.
-Impawitan toy ama to na samploran asno a napnoy beneg da na sankamaungan iran bungay dalin ed Egipto, tan samploran asno a napnoy beneg da na trigo, tinapay, tan arum ni ran kakanen a para pambiahi nen ama to.
-Pinasiput to ray agagi to tan binilin to ra, Ag kayo mansesebeg ed dalan.
-Tinmaynan ira sirin ed Egipto tan sinmempet irad kinen ama ran Jacob ed Canaan.
-Mabilay niy Jose!
-inkuandad sikato.
-Sikatoy manooley ed intiron Egipto!
-Ag akaskasel si Jacob, tan ag to ra panisiaan.
-Balet nen asalita rad sikaton amin iray imbaga nen Jose ed sikara, tan anengneng to ra may kariton ya impaawit nen Jose a loganan to, kinmasil so liknaan to.
-Insan inkuanto, Mabilay niy anak kon Jose!
-Anto niy kerewen ko?
-Nakaukolan ya onla ak, pian nanengneng ko kasakbayan na ipatey ko.
+verse	content
+001	Ag la napokpokan nen Jose so liknaan to diad arap na saray aripen to, kanyan pinapaway to ran amin.
+001	Anggapoy atilak ed saramay aripen to nen impaamta toy sikaton dili ed saramay agagi to.
+002	Diad kasil na pansibsibek to, arengel na saray Egipsio, et imbalita ra ya ed ari.
+003	Inkuanen Jose ed saramay agagi to, Siak si Jose.
+003	Mabilay nin tuay amak?
+003	Balet diad ontan lan takot da ra may agagi to, ag ira makaebat.
+004	Insan inkuanen Jose ed sikara, Asingger kayo pa.
+004	Sinmingger ira, insan inkuanto, Siak si agi yon Jose ya inlako yod Egipto.
+005	Ag kayo mapaga tan ag yo tetetelen so sikayon dili lapud inlako yo ak dia.
+005	Ta say Dios so angibakid siak dia ya onaan nen say sikayo, pian mambilay iray totoo.
+006	Kumadwa yan taon labat na eras; wala niy limaran taon ya ag nayariy mambaka tan anggapoy naani.
+007	Say Dios so angibakid siak ya onaan nen say sikayo, pian nilaban kayo diad panamegley na sayan makapakelaw ya inkagawa, tan mambilay kayo tan saray kabyangay boleg yo.
+008	Kanyan aliwan sikayo so angibakid siak dia, no ag ta say Dios.
+008	Ginawa to ak a sankatageyan ya opisyal na ari.
+008	Siak to inkargado ed intiron bansa to; siak so manoley ed intiron Egipto.
+009	Natan sirin, ganatan yoy ompawil ed kindi ama tayo tan ibaga yod sikara yan papaibaga nen anak dan si Jose, Say Dios impagmaliw to ak a manoley ed intiron Egipto; dago kayon tampol ed siak.
+010	Nayarian yoy manayam ed dalin na Gosen, pian asingger kayod siaksikayo, saray anak yo, saray apo yo, saray karniro yo, saray kanding yo, saray baka yo, tan saray arum nin kayaryan yo.
+011	No wala kayod Gosen, naasikaso ta kayo.
+011	Wala niy limay taon na eras, et ag ko labay a naerasan kayo, saray pamilya yo, tan saray ayayep yo.
+012	Intuloy nen Jose ya inkuan, Natan amin yo, pati sika Benjamin, nanenengneng yo a siak a talaga si Jose.
+013	Ibaga yod kinen amak so ontan lan pakapanyarik dia ed Egipto, tan ibaga yoy amin ya anengneng yo.
+013	Insan ganatan yon iyakar ira dia ed siak.
+014	Nilakap toy Benjamin ya agi to tan nilakap met nen Benjamin, insan ira manakis a dua.
+015	Manakakis ni nen nilalakap tan inaanguban ton sansakey iray agagi to.
+015	Kasumpal to ya, akitongtong ed sikato ray agagi to.
+016	Nen sinmabid palasio so balita a sinmabi ray agagi nen Jose, akaliket so ari tan saray opisyal to.
+017	Inkuantod kinen Jose.
+017	Ibagam ed saray agagim a kargaan da ray beneg na ayayep da, onsempet irad dalin na Canaan,
+018	tan awiten day ama ra tan saray pamilya ra no ompawil ira dia.
+018	Iter kod sikaray sankamaungan a dalin ed Egipto, pian onsoluk so taganon pambilay da.
+019	Ibagam met ed sikara a mangawit iray pigaran kariton a manlapud Egipto, pian walay naloganan na saray kaasawaan da tan saray ankelag nin anak da.
+019	Paawit mo diay ama ra, no ompawil ira.
+020	Ag da kapagaan ya itilak iray kayaryan da, ta naitdan ira na sankamaungan a dalin ed Egipto.
+021	Sinumpal na saray anak nen Jacob so nibagad sikara.
+021	Initdan ira nen Jose na pigaran kariton, onung ed ganggan na ari, tan say nakan ed pambiahi ra.
+022	Initdan to met so balang sakey ed sikara na kawes ya ipales da, balet initdan toy Benjamin na talon lasus a kuartan pilak tan limaran kawes.
+023	Impawitan toy ama to na samploran asno a napnoy beneg da na sankamaungan iran bungay dalin ed Egipto, tan samploran asno a napnoy beneg da na trigo, tinapay, tan arum ni ran kakanen a para pambiahi nen ama to.
+024	Pinasiput to ray agagi to tan binilin to ra, Ag kayo mansesebeg ed dalan.
+025	Tinmaynan ira sirin ed Egipto tan sinmempet irad kinen ama ran Jacob ed Canaan.
+026	Mabilay niy Jose!
+026	inkuandad sikato.
+026	Sikatoy manooley ed intiron Egipto!
+026	Ag akaskasel si Jacob, tan ag to ra panisiaan.
+027	Balet nen asalita rad sikaton amin iray imbaga nen Jose ed sikara, tan anengneng to ra may kariton ya impaawit nen Jose a loganan to, kinmasil so liknaan to.
+028	Insan inkuanto, Mabilay niy anak kon Jose!
+028	Anto niy kerewen ko?
+028	Nakaukolan ya onla ak, pian nanengneng ko kasakbayan na ipatey ko.

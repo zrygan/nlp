@@ -1,40 +1,44 @@
-Igawaan mo so dalem na Tuldan Ayamay Katawan na samploran kurtina a pinon linen.
-Asul, purpura, tan ambalanga so tinebey da tan bordaan mo ra na saray kirubin.
-Gawam a nampapara so kabaleg da; labinapat a yarda so dokey da tan duaran yarda so benlag da.
-Pansasaip mon daiten so limara tan ontan met so gawaen mod saray limara.
-Manggawa kad gilig na samput na kapag saramay impansasaip mo na panagkawitan ya asul ya abel.
-Peketan mo na limamplon panagkawitan so onaan a kurtina ya impansasaip tan limamplo met so samput a kurtina ed samay sakey; tan pampepetekan mo ra.
-Manggawa ka na limamplon balituk a panagkawit a sikaray mamakasakey ed saramay duaran impansasaip a kurtina.
-Labinsakey a kurtina a bagoy kanding so gawaen mo a sakbung na Tulda.
-Gawam iran nampaparay kabaleg da, labinliman yarda so dokey da tan duaran yarda so benlag da.
-Pansasaip mon daiten so limara, tan ontan met so gawaen mod saray anemira.
-Itopim ya idobli so kumanem a kurtina diad tagey na arap na Tulda.
-Peketan mo na limamplon panagkawitan so gilig na samput a kurtina ed sakey ya impansasaip tan limamplo met so samput a kurtina ed samay sakey.
-Manggawa ka na limamplon gansan panagkawit tan ikawit mod saray panagkawitan, pian magmaliw a saksakey a sakbung ira may impansasaip.
-Ipaloyloy mo so soluk a kapalduan kurtina diad tagey na beneg na Tulda.
-Say soluk a kapalduay yarda na dokey na samay sakbung et ipaloyloy mod kapag dapag na Tulda, pian nasakbungan to.
-Manggawa ka ni na duaran sakbung, sakey so pinabalanga tan pinamagan katat na karniron kalakyan, tan say sakey pinon katat; saraya so sakbung ed tapew.
-Manggawa ka na saray tablan akasia a pamaalagey na Tulda.
-Limaran mitro so dokey na kapag tabla tan duamplo tan piton pulgada so lapar to.
-Nepeg a walay duaran kagur to, pian makapantetekep ira yan tabla.
-Amin a tabla nepeg a wala ray kagur dan amin.
-Manggawa kay duamplon tabla a para bandad abalaten na Tulda, tan manggawa ka na apataplon pilak a dapan na tabla, duaran dapan ed silong na kapag sakey a tabla a peketan ira na saramay duaran kagur.
-Manggawa ka na duamplon tablan para bandad baybay na Tulda, tan manggawa ka na apataplon pilak a dapan na tabla, duaran dapan ed silong na kapag sakey a tabla.
-Manggawa kay anemiran tabla ed bandad sagur a beneg na Tulda.
-Manggawa ka na duaran tablan para saray sokung.
-Sarayan tabla ed sokung et asangal ira manlapud leksab ya anggad tagey.
-Nepeg ya onyay pakagawa na duaran tabla a sikaray duaran sokung.
-Ontan sirin, walay waloran tabla a walay labinanem a pilak a dapan da, duara ed silong na kapag tabla.
-Manggawa ka na labinliman balewet ya akasia, limara so para saray tabla ed sakey a diking na Tulda, limara so para saray tabla ed sananey a diking tan limara so para saray tabla ed bandad sagur na Tulda diad beneg to.
-Nepeg a say karokey na pegley a balewet ya ilira ed pegley da ray tabla et manlapud sakey a samput ya anggad sakey a samput na Tulda.
-Okupan mo na balituk iray tabla tan peketan mo ra na saray balituk a liken a mangegnad saray balewet a naokupan met na balituk.
-Ipaalagey moy Tulda onung na samay planon impanengneng kod sika ed tagey na palandey.
-Manggawa ka na kurtina a pinon linen.
-Asul, purpura, tan ambalanga so tinebey da tan bordaan mo na saray kirubin.
-Ibitin mo rad apatiran lusek ya akasia a naokupan na balituk, apeketan ira na saray panagkawit, tan nilira ra ed apatiran dapan a pilak.
-Sayan kurtina so ibitin mod saray panagkawit a nipeket ya arasig ed tarung na Tulda, tan iliram ed sanib to so Kaban na Sipanan a nankarga na duaran tapyak a bato.
-Say kurtina so ketegan na Masanton Pasen tan say Sankasantosan a Pasen.
-Iliram ed tapew na Kaban na Sipanan so sakub to.
-Diad paway na Sankasantosan a Pasen iliram ed pireg na baybay a dapag na Tulda so lamisaan tan iliram ed pireg na abalaten a dapag na Tulda so panangipatoonan na lamparaan.
-Say lolooban na Tulda et igawaan mo na sakey a kurtina a pinon linen; asul, purpura, tan ambalanga so tinebey da tan bordaan mo.
-Para sayan kurtina manggawa ka na limaran lusek ya akasia ya inokupan na balituk tan wala ray nipeket a balituk a panagkawit; manggawa ka met na limaran gansan dapan a toonan na sarayan lusek.
+verse	content
+001	Igawaan mo so dalem na Tuldan Ayamay Katawan na samploran kurtina a pinon linen.
+001	Asul, purpura, tan ambalanga so tinebey da tan bordaan mo ra na saray kirubin.
+002	Gawam a nampapara so kabaleg da; labinapat a yarda so dokey da tan duaran yarda so benlag da.
+003	Pansasaip mon daiten so limara tan ontan met so gawaen mod saray limara.
+004	Manggawa kad gilig na samput na kapag saramay impansasaip mo na panagkawitan ya asul ya abel.
+005	Peketan mo na limamplon panagkawitan so onaan a kurtina ya impansasaip tan limamplo met so samput a kurtina ed samay sakey; tan pampepetekan mo ra.
+006	Manggawa ka na limamplon balituk a panagkawit a sikaray mamakasakey ed saramay duaran impansasaip a kurtina.
+007	Labinsakey a kurtina a bagoy kanding so gawaen mo a sakbung na Tulda.
+008	Gawam iran nampaparay kabaleg da, labinliman yarda so dokey da tan duaran yarda so benlag da.
+009	Pansasaip mon daiten so limara, tan ontan met so gawaen mod saray anemira.
+009	Itopim ya idobli so kumanem a kurtina diad tagey na arap na Tulda.
+010	Peketan mo na limamplon panagkawitan so gilig na samput a kurtina ed sakey ya impansasaip tan limamplo met so samput a kurtina ed samay sakey.
+011	Manggawa ka na limamplon gansan panagkawit tan ikawit mod saray panagkawitan, pian magmaliw a saksakey a sakbung ira may impansasaip.
+012	Ipaloyloy mo so soluk a kapalduan kurtina diad tagey na beneg na Tulda.
+013	Say soluk a kapalduay yarda na dokey na samay sakbung et ipaloyloy mod kapag dapag na Tulda, pian nasakbungan to.
+014	Manggawa ka ni na duaran sakbung, sakey so pinabalanga tan pinamagan katat na karniron kalakyan, tan say sakey pinon katat; saraya so sakbung ed tapew.
+015	Manggawa ka na saray tablan akasia a pamaalagey na Tulda.
+016	Limaran mitro so dokey na kapag tabla tan duamplo tan piton pulgada so lapar to.
+017	Nepeg a walay duaran kagur to, pian makapantetekep ira yan tabla.
+017	Amin a tabla nepeg a wala ray kagur dan amin.
+018	Manggawa kay duamplon tabla a para bandad abalaten na Tulda,
+019	tan manggawa ka na apataplon pilak a dapan na tabla, duaran dapan ed silong na kapag sakey a tabla a peketan ira na saramay duaran kagur.
+020	Manggawa ka na duamplon tablan para bandad baybay na Tulda,
+021	tan manggawa ka na apataplon pilak a dapan na tabla, duaran dapan ed silong na kapag sakey a tabla.
+022	Manggawa kay anemiran tabla ed bandad sagur a beneg na Tulda.
+023	Manggawa ka na duaran tablan para saray sokung.
+024	Sarayan tabla ed sokung et asangal ira manlapud leksab ya anggad tagey.
+024	Nepeg ya onyay pakagawa na duaran tabla a sikaray duaran sokung.
+025	Ontan sirin, walay waloran tabla a walay labinanem a pilak a dapan da, duara ed silong na kapag tabla.
+026	Manggawa ka na labinliman balewet ya akasia, limara so para saray tabla ed sakey a diking na Tulda,
+027	limara so para saray tabla ed sananey a diking tan limara so para saray tabla ed bandad sagur na Tulda diad beneg to.
+028	Nepeg a say karokey na pegley a balewet ya ilira ed pegley da ray tabla et manlapud sakey a samput ya anggad sakey a samput na Tulda.
+029	Okupan mo na balituk iray tabla tan peketan mo ra na saray balituk a liken a mangegnad saray balewet a naokupan met na balituk.
+030	Ipaalagey moy Tulda onung na samay planon impanengneng kod sika ed tagey na palandey.
+031	Manggawa ka na kurtina a pinon linen.
+031	Asul, purpura, tan ambalanga so tinebey da tan bordaan mo na saray kirubin.
+032	Ibitin mo rad apatiran lusek ya akasia a naokupan na balituk, apeketan ira na saray panagkawit, tan nilira ra ed apatiran dapan a pilak.
+033	Sayan kurtina so ibitin mod saray panagkawit a nipeket ya arasig ed tarung na Tulda, tan iliram ed sanib to so Kaban na Sipanan a nankarga na duaran tapyak a bato.
+033	Say kurtina so ketegan na Masanton Pasen tan say Sankasantosan a Pasen.
+034	Iliram ed tapew na Kaban na Sipanan so sakub to.
+035	Diad paway na Sankasantosan a Pasen iliram ed pireg na baybay a dapag na Tulda so lamisaan tan iliram ed pireg na abalaten a dapag na Tulda so panangipatoonan na lamparaan.
+036	Say lolooban na Tulda et igawaan mo na sakey a kurtina a pinon linen; asul, purpura, tan ambalanga so tinebey da tan bordaan mo.
+037	Para sayan kurtina manggawa ka na limaran lusek ya akasia ya inokupan na balituk tan wala ray nipeket a balituk a panagkawit; manggawa ka met na limaran gansan dapan a toonan na sarayan lusek.

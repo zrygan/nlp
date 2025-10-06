@@ -1,31 +1,39 @@
-Iyo ini an mga kapagarakian kan mga aking lalaki ni Noe na si Sem, Ham, asin Jafet.
-Sindang tolo nagkaigwa nin mga aking lalaki pakatapos kan baha.
-An mga aking lalaki ni Jafet iyo si Gomer, Magog, Madai, Javan, Tubal, Mesek, asin Tiras.
-An mga aking lalaki ni Gomer iyo si Askenaz, Rifat, asin Togarma.
-An mga aking lalaki ni Javan iyo si Elisa, Espanya, Chipre asin Rodas.
-Sinda an mga ginikanan kan mga tawong nag-eerok sa mga baybayon asin sa mga isla.
-Sinda an mga aking lalaki ni Jafet, na an lambang saro nagin dakulang nasyon na may sadiring daga saka lengwahe.
-An mga aking lalaki ni Ham iyo si Cus, Egipto, Libya, asin Canaan.
-An mga aking lalaki ni Cus iyo si Sheba, Havila, Sabta, Raama asin Sabteca.
-An mga aking lalaki ni Raama iyo si Sheba saka Dedan.
-Si Cus iyo an ama ni Nimrod; iyo ini an enot na tawo sa kinaban na nabantog bilang sarong mapangyaring mananakop.
-Sa atubang nin Kagurangnan , siya sarong dakulang paraayam, kun kaya nagkaigwa nin kasabihan, Siring ki Nimrod na dakulang paraayam sa atubangan nin Kagurangnan !
-Kaayon sa kaenot-enoteng kahadean na sakop niya iyo an Babilon, an Erek, asin an Accad, na gabos yaon sa daga kan Babilonia.
-Hale sa dagang ini nagduman siya sa Asiria asin itinugdok an mga syudad nin Nineve, Rehobot-ir, Cala, asin Resen na nasa pagultanan kan Nineve asin Cala, an dakulang syudad.
-An mga aking lalaki ni Egipto iyo si Lydia, Anam, Lehab, Naftu, Patrus, Caslu, na ginikanan kan mga Filisteo, asin ni Caftor.
-Si Canaan iyo an ama si Sidon, na matua niyang aking lalaki, asin ni Het.
-Si Canaan iyo man an ginikanan kan mga Jebuseo, Amoreo, Gergeseo, Heveo, Araceo, Sineo, Arvadeo, Zemareo asin Hamateo.
-Dangan nakalakop an manlaen-laen na tribu kan mga Cananeo.
-Hale sa Sidon, an saindang teritoryo nakaabot sa Gerar harani sa Gaza sa habagat asin sa Sodoma, Gomorra, Adma saka Zeboiim harani sa Lasa sa sirangan.
-Iyo ini an mga aki ni Ham, na an lambang saro nagin dakulang nasyon na may sadiring daga asin lengwahe.
-Si Sem na matuang tugang ni Jafet, iyo an ginikanan kan gabos na Hebreyo.
-An mga aking lalaki ni Sem iyo si Elam, Assur, Arpaksad, Lud asin Aram.
-An mga aking lalaki ni Aram iyo si Uz, Hul, Geter asin Mas.
-Si Arpaksad iyo an ama ni Sela na ama ni Eber.
-Duwa an nagin aking lalaki ni Eberan saro inapod niyang Peleg, huli ta sa panahon kaini nabanga an mga tawo sa daga; asin an ikaduwa, nginaranan niyang Joktan.
-Si Joktan iyo an ama ninda Almodad, Selef, Hazarmavet, Jera, Hadoram, Uzal, Dikla, Obal, Abimael, Sheba, Ofir, Havila, asin Jobab.
-Gabos sinda gikan ki Joktan.
-An teritoryo na saindang pinag-erokan nagpoon sa Mesa pasiring sa Sefar sagkod sa kabubuldan sa sirangan.
-Ini an mga aki ni Sem, na an lambang nasyon na may sadiring daga asin lengwahe.
-Iyo ini an mga pamilya kan mga aking lalaki ni Noe, sosog sa saindang mga kapagarakian.
-Sa sainda nagpoon an gabos na nasyon sa kinaban na nakalakop sa daga pakatapos kan baha.
+verse	content
+001	Iyo ini an mga kapagarakian kan mga aking lalaki ni Noe na si Sem, Ham, asin Jafet.
+001	Sindang tolo nagkaigwa nin mga aking lalaki pakatapos kan baha.
+002	An mga aking lalaki ni Jafet iyo si Gomer, Magog, Madai, Javan, Tubal, Mesek, asin Tiras.
+003	An mga aking lalaki ni Gomer iyo si Askenaz, Rifat, asin Togarma.
+004	An mga aking lalaki ni Javan iyo si Elisa, Espanya, Chipre asin Rodas.
+005	Sinda an mga ginikanan kan mga tawong nag-eerok sa mga baybayon asin sa mga isla.
+005	Sinda an mga aking lalaki ni Jafet, na an lambang saro nagin dakulang nasyon na may sadiring daga saka lengwahe.
+006	An mga aking lalaki ni Ham iyo si Cus, Egipto, Libya, asin Canaan.
+007	An mga aking lalaki ni Cus iyo si Sheba, Havila, Sabta, Raama asin Sabteca.
+007	An mga aking lalaki ni Raama iyo si Sheba saka Dedan.
+008	Si Cus iyo an ama ni Nimrod; iyo ini an enot na tawo sa kinaban na nabantog bilang sarong mapangyaring mananakop.
+009	Sa atubang nin Kagurangnan , siya sarong dakulang paraayam, kun kaya nagkaigwa nin kasabihan, Siring ki Nimrod na dakulang paraayam sa atubangan nin Kagurangnan !
+010	Kaayon sa kaenot-enoteng kahadean na sakop niya iyo an Babilon, an Erek, asin an Accad, na gabos yaon sa daga kan Babilonia.
+011	Hale sa dagang ini nagduman siya sa Asiria asin itinugdok an mga syudad nin Nineve, Rehobot-ir, Cala,
+012	asin Resen na nasa pagultanan kan Nineve asin Cala, an dakulang syudad.
+013	An mga aking lalaki ni Egipto iyo si Lydia, Anam, Lehab, Naftu,
+014	Patrus, Caslu, na ginikanan kan mga Filisteo, asin ni Caftor.
+015	Si Canaan iyo an ama si Sidon, na matua niyang aking lalaki, asin ni Het.
+016	Si Canaan iyo man an ginikanan kan mga Jebuseo, Amoreo, Gergeseo,
+017	Heveo, Araceo, Sineo,
+018	Arvadeo, Zemareo asin Hamateo.
+018	Dangan nakalakop an manlaen-laen na tribu kan mga Cananeo.
+019	Hale sa Sidon, an saindang teritoryo nakaabot sa Gerar harani sa Gaza sa habagat asin sa Sodoma, Gomorra, Adma saka Zeboiim harani sa Lasa sa sirangan.
+020	Iyo ini an mga aki ni Ham, na an lambang saro nagin dakulang nasyon na may sadiring daga asin lengwahe.
+021	Si Sem na matuang tugang ni Jafet, iyo an ginikanan kan gabos na Hebreyo.
+022	An mga aking lalaki ni Sem iyo si Elam, Assur, Arpaksad, Lud asin Aram.
+023	An mga aking lalaki ni Aram iyo si Uz, Hul, Geter asin Mas.
+024	Si Arpaksad iyo an ama ni Sela na ama ni Eber.
+025	Duwa an nagin aking lalaki ni Eberan saro inapod niyang Peleg, huli ta sa panahon kaini nabanga an mga tawo sa daga; asin an ikaduwa, nginaranan niyang Joktan.
+026	Si Joktan iyo an ama ninda Almodad, Selef, Hazarmavet, Jera,
+027	Hadoram, Uzal, Dikla,
+028	Obal, Abimael, Sheba,
+029	Ofir, Havila, asin Jobab.
+029	Gabos sinda gikan ki Joktan.
+030	An teritoryo na saindang pinag-erokan nagpoon sa Mesa pasiring sa Sefar sagkod sa kabubuldan sa sirangan.
+031	Ini an mga aki ni Sem, na an lambang nasyon na may sadiring daga asin lengwahe.
+032	Iyo ini an mga pamilya kan mga aking lalaki ni Noe, sosog sa saindang mga kapagarakian.
+032	Sa sainda nagpoon an gabos na nasyon sa kinaban na nakalakop sa daga pakatapos kan baha.

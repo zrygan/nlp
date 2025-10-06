@@ -1,32 +1,36 @@
-Kan nubenta y nuebe na an edad ni Abram, nagpahiling saiya an Kagurangnan asin nagtaram saiya, Ako an Makakamhan na Dios; kuyogon mo ako asin danay mong gibohon an matanos.
-Makikipagtipan ako saimo asin tatawan taka nin dakul na kapagarakian.
-Nagdapa si Abram sa daga dangan nagtaram saiya an Dios, Uya, makikipagtipan ako saimo: nangangako ako na ika an gigikanan nin dakul na nasyon.
-Poon ngunyan, bako nang Abram an saimong ngaran kundi Abraham huli ta gigibohon takang ama nin dakul na nasyon.
-Tatawan taka nin dakul na kapagarakian asin gigibohon ko sindang mga nasyon patin magigin mga hade an iba sainda.
-Ootobon ko an panuga ko saimo asin sa saimong mga kapagarakian sa mga maabot na henerasyon bilang sarong daing kataposan na tipan.
-Ako an magigin Dios mo asin kan saimong mga kapagarakian.
-Itatao ko saimo asin sa saimong mga kapagarakian an dagang ini, saen saro kang dayuhan ngunyan.
-An bilog na Canaan masasadirihan kan saimong mga kapagarakian sagkod pa man, asin ako an magigin Dios ninda.
-Nagtaram pa an Dios ki Abraham, Kaipuhan otobon mo man an pakipagtipan mo sa sako, ika asin an saimong mga kapagarakian sa maabot na henerasyon.
-Ini an sakong tipan na ootobon mo asin kan saimong mga kapagarakian: kaipuhan na serkomsisyonon an gabos na lalaki sa saindo.
-Magpoon ngunyan, kaipuhan serkomsisyonon mo an lambang aking lalaki pag-edad kaini nin walong aldaw, sagkod an mga oripon na namundag sa saindong mga harong asin an mga oripon na binakal nindo sa mga dayuhan.
-Ini an magigin tanda kan satong tipan.
-Kaipuhan serkomsisyonon an lambang saro; an tanda na ini sa saindong hawak iyo an magpapatotoo kan satong daing kataposan na tipan.
-An siisay man na lalaki na bakong serkomsisyonado dai ibibilang na kaayon sa sakong banwaan, huli ta dai niya inotob an pakipagtipan sako.
-Nagtaram an Dios ki Abraham, Dai mo na pag-apodon Sarai an saimong agom; poon ngunyan, Sara an magigin ngaran niya.
-Bebendisyonan ko siya asin tatawan taka nin aking lalaki huli saiya.
-Bebendisyonan ko siya asin magigin ina siya nin mga nasyon patin magigin hade an ibang magikan saiya.
-Nagdapa si Abraham sa daga, alagad napangisi siya kan saiyang isaboot, Pwede pa daw magkaaki an sarong arog sakong sanggatos na an edad?
-Pwede pa daw mag-aki si Sara sa edad na nubenta?
-Kaya hinapot niya an Dios, Tano ta bakong si Ismael na sana an sakong magin eredero?
-Alagad nagsimbag an Dios, Dai.
-Mangangaki nin lalaki si Sara na saimong agom asin ngangaranan mo siyang Isaac.
-Makikipagtipan ako saiya asin sa saiyang mga kapagarakian sagkod pa man.
-An tipan na iyan sarong daing kataposan na tipan.
-Nadangog ko an saimong pakimaherak manongod ki Ismael, kaya bebendisyonan ko siya asin tatawan nin dakul na aki asin kapagarakian.
-Magigin ama siya nin doseng prinsipe, asin gigibohon kong sarong dakulang nasyon an saiyang mga kapagarakian.
-Alagad ootobon ko an sakong tipan sa saimong aking si Isaac, na mamumundag ki Sara sa masunod na taon, sa arog kaining panahon.
-Pakataram kaini, binayaan nin Dios si Abraham.
-Kan aldaw na idto, kinuyog ni Abraham an Dios; sinerkomsisyon niya an aki niyang si Ismael asin an gabos na lalaki sa laog kan saiyang harong sagkod an mga lalaking oripon na namundag sa saiyang harong saka an mga oripon na binakal niya.
-Sinerkomsisyon si Abraham sa edad na nubenta y nwebeng taon, asin si Ismael na saiyang aki sa edad na treseng taon.
-Sinerkomsisyon sinda sa parehong aldaw, kaiba kan gabos na lalaking oripon ni Abraham.
+verse	content
+001	Kan nubenta y nuebe na an edad ni Abram, nagpahiling saiya an Kagurangnan asin nagtaram saiya, Ako an Makakamhan na Dios; kuyogon mo ako asin danay mong gibohon an matanos.
+002	Makikipagtipan ako saimo asin tatawan taka nin dakul na kapagarakian.
+003	Nagdapa si Abram sa daga dangan nagtaram saiya an Dios,
+004	Uya, makikipagtipan ako saimo: nangangako ako na ika an gigikanan nin dakul na nasyon.
+005	Poon ngunyan, bako nang Abram an saimong ngaran kundi Abraham huli ta gigibohon takang ama nin dakul na nasyon.
+006	Tatawan taka nin dakul na kapagarakian asin gigibohon ko sindang mga nasyon patin magigin mga hade an iba sainda.
+007	Ootobon ko an panuga ko saimo asin sa saimong mga kapagarakian sa mga maabot na henerasyon bilang sarong daing kataposan na tipan.
+007	Ako an magigin Dios mo asin kan saimong mga kapagarakian.
+008	Itatao ko saimo asin sa saimong mga kapagarakian an dagang ini, saen saro kang dayuhan ngunyan.
+008	An bilog na Canaan masasadirihan kan saimong mga kapagarakian sagkod pa man, asin ako an magigin Dios ninda.
+009	Nagtaram pa an Dios ki Abraham, Kaipuhan otobon mo man an pakipagtipan mo sa sako, ika asin an saimong mga kapagarakian sa maabot na henerasyon.
+010	Ini an sakong tipan na ootobon mo asin kan saimong mga kapagarakian: kaipuhan na serkomsisyonon an gabos na lalaki sa saindo.
+011	Magpoon ngunyan, kaipuhan serkomsisyonon mo an lambang aking lalaki pag-edad kaini nin walong aldaw, sagkod an mga oripon na namundag sa saindong mga harong asin an mga oripon na binakal nindo sa mga dayuhan.
+011	Ini an magigin tanda kan satong tipan.
+012	Kaipuhan serkomsisyonon an lambang saro; an tanda na ini sa saindong hawak iyo an magpapatotoo kan satong daing kataposan na tipan.
+013	An siisay man na lalaki na bakong serkomsisyonado dai ibibilang na kaayon sa sakong banwaan, huli ta dai niya inotob an pakipagtipan sako.
+014	Nagtaram an Dios ki Abraham, Dai mo na pag-apodon Sarai an saimong agom; poon ngunyan, Sara an magigin ngaran niya.
+015	Bebendisyonan ko siya asin tatawan taka nin aking lalaki huli saiya.
+015	Bebendisyonan ko siya asin magigin ina siya nin mga nasyon patin magigin hade an ibang magikan saiya.
+016	Nagdapa si Abraham sa daga, alagad napangisi siya kan saiyang isaboot, Pwede pa daw magkaaki an sarong arog sakong sanggatos na an edad?
+016	Pwede pa daw mag-aki si Sara sa edad na nubenta?
+017	Kaya hinapot niya an Dios, Tano ta bakong si Ismael na sana an sakong magin eredero?
+018	Alagad nagsimbag an Dios, Dai.
+018	Mangangaki nin lalaki si Sara na saimong agom asin ngangaranan mo siyang Isaac.
+018	Makikipagtipan ako saiya asin sa saiyang mga kapagarakian sagkod pa man.
+018	An tipan na iyan sarong daing kataposan na tipan.
+019	Nadangog ko an saimong pakimaherak manongod ki Ismael, kaya bebendisyonan ko siya asin tatawan nin dakul na aki asin kapagarakian.
+019	Magigin ama siya nin doseng prinsipe, asin gigibohon kong sarong dakulang nasyon an saiyang mga kapagarakian.
+020	Alagad ootobon ko an sakong tipan sa saimong aking si Isaac, na mamumundag ki Sara sa masunod na taon, sa arog kaining panahon.
+021	Pakataram kaini, binayaan nin Dios si Abraham.
+022	Kan aldaw na idto, kinuyog ni Abraham an Dios; sinerkomsisyon niya an aki niyang si Ismael asin an gabos na lalaki sa laog kan saiyang harong sagkod an mga lalaking oripon na namundag sa saiyang harong saka an mga oripon na binakal niya.
+023	Sinerkomsisyon si Abraham sa edad na nubenta y nwebeng taon,
+024	asin si Ismael na saiyang aki sa edad na treseng taon.
+025	Sinerkomsisyon sinda sa parehong aldaw,
+026	kaiba kan gabos na lalaking oripon ni Abraham.

@@ -1,36 +1,37 @@
-Ito nalpas to Algew Ngilinin, de Marya nga iMagdala, Marya nga ina de Santiyagu, se e Salume, nawe da ngimina ka bangbanglu nga ipay da kuma iya bangkay ne Jesus.
-Ket ito sumingsingising pekkem ya sinag iya agsapa niya Duminggu, nawe da iya nakaitamennan ne Jesus.
-Ket ito manmanalan dito babey, nagtetebbar da nga kinunen da, Nagan ngata ya pangibagaan tida nga mangbukalig ito dackel nga batu nga naigiset ito tamen?
-kunen da.
-Ket ito limang-ug da, nasingen da nga naibukalig met gayamin to dackel nga batu nga naigiset.
-Ket imuneg da ngarud ito nakaitamennan na.
-Ket uwed met nasingen da nga isa nga bagbagu nga agtugtugew iya dumna diwanan, nga nakakawwes met ka puraw nga sutana.
-Ket nasikuran ngarud nga unay dito babey yin.
-Ket to bagbagu, kinunen na igida, Madi kayu masikuran.
-Emmuc nga sapsapulen nu nge Jesus nga iNasaret nga nailansa ka krus.
-Ngem nagungar mettin, ket awan idi nin.
-Singen nu kad ya nangipayan da igina.
-Ngem kalpasan na, mawe kayu lugud ibaga kadiya adalan na, agraman e Pedru nga kunen nu ya agten idi: Mon-ona nge Jesus ngem dakayu nga mawe enna Galilya ngin.
-Masingen nu nad ngarud antuni, maikanatad mettas ito kinunen na dakayu itun, kunen nu, kunen nito nakapuraw.
-Ket rinumwar ngarud dito babey, nga nagtalew da ito edyan nito tamen, ta nakapilpig dan, se nagewweng da pe yin.
-Ket awan met kinagkagi da ka orey nagan na, ta mansing da met.
-Ket nagungar ngarud nge Jesus ito nasapa pekkem iya algew Duminggu.
-Ket nagpasingen nga nona e Marya nga iMagdala, nga itu to nangpatalawan na ka pitu nga sairu itun pekkem.
-Ket kalpasan nito panagpasingen ne Jesus igina, nawe ngarud nipakaemmu ne Marya kadito kinabkabulun ne Jesus itun, nga agladladingit se agberberrit.
-Ket ito nagicna da nga nabiyag kanu nge Jesusin se nasingen kanu pe ne Marya, ket madi da met pinati.
-Ket kalpasan niyan, e Jesus, nagbaliw ya langa na ito nagpasingen itun kadiya duwa nga pasurut na nga manmanalan iya dalan nga gayat ito siyudad.
-Ket dito duwa nga pasurut na, simoli da mettas iya siyudad, ket nipakaemmu da ngarud kadito kabulun da to napasamac.
-Ngem madi da latta namati igida.
-Ket itun, nagpasingen pe nge Jesus kadito sangapulu ket isa nga adalan na, ito nagsasangu da nga mangmangan.
-Ket dinanengdengngan na da ngarud gapu ta di da gabay ya mamati, se gapu ta nasukir da.
-Ta madi da met namati iya kagi dito nakasingen igina kalpasan nito panagungar na.
-Ket kinunen pe ne Jesus igida, Mawe kayu kadiya amin nga parte niya lubung, tasun ikasaba nu ya Makaparagsac nga Damag kadiya amin nga toltoley.
-Ket ya mamati se mabautisaran, maisalakan met.
-Ngem ya madi mamati, ket maukum met.
-Ket uwed nad pagilasinan nga maibulun kadiya mamati, nga agten idi: Gapu iya kinaturay ku, makapatalew da ka sairu, se makakagi da nad kadiya sabali nga pagkakagi nga bekken da nga naadal.
-Ket orey no makaikem da nad ka malaga, winno makainum da ka gamut, ket madi da nad maan-anu.
-Se ipatey da nad diya ima da kadiya agsacsakit, ket malaingan da met, kunen na.
-Ket itun, kalpasan nito pannakitbar ne Apu Jesus igida, ket naipangudu ka langitin.
-Ket enna langit, nagtugew iya kadayawan nga edyan, nga itu ya madiwanan ne Apu Diyus.
-Ket dito adalan na, pimanaw da ito edyan da, nga nawe da ngarud nangaskasaba kadiya amin nga luglugar.
-Ket ya Apu, tinulungan na da ngarud pe, ta nipanecnec na ya kinapudnu dito nikasaba da, gapu kadiya pagilasinan nga naibulun kadiya panangikasaba da iya kagi na.
+verse	content
+001	Ito nalpas to Algew Ngilinin, de Marya nga iMagdala, Marya nga ina de Santiyagu, se e Salume, nawe da ngimina ka bangbanglu nga ipay da kuma iya bangkay ne Jesus.
+002	Ket ito sumingsingising pekkem ya sinag iya agsapa niya Duminggu, nawe da iya nakaitamennan ne Jesus.
+003	Ket ito manmanalan dito babey, nagtetebbar da nga kinunen da, Nagan ngata ya pangibagaan tida nga mangbukalig ito dackel nga batu nga naigiset ito tamen?
+003	kunen da.
+004	Ket ito limang-ug da, nasingen da nga naibukalig met gayamin to dackel nga batu nga naigiset.
+005	Ket imuneg da ngarud ito nakaitamennan na.
+005	Ket uwed met nasingen da nga isa nga bagbagu nga agtugtugew iya dumna diwanan, nga nakakawwes met ka puraw nga sutana.
+005	Ket nasikuran ngarud nga unay dito babey yin.
+006	Ket to bagbagu, kinunen na igida, Madi kayu masikuran.
+006	Emmuc nga sapsapulen nu nge Jesus nga iNasaret nga nailansa ka krus.
+006	Ngem nagungar mettin, ket awan idi nin.
+006	Singen nu kad ya nangipayan da igina.
+007	Ngem kalpasan na, mawe kayu lugud ibaga kadiya adalan na, agraman e Pedru nga kunen nu ya agten idi: Mon-ona nge Jesus ngem dakayu nga mawe enna Galilya ngin.
+007	Masingen nu nad ngarud antuni, maikanatad mettas ito kinunen na dakayu itun, kunen nu, kunen nito nakapuraw.
+008	Ket rinumwar ngarud dito babey, nga nagtalew da ito edyan nito tamen, ta nakapilpig dan, se nagewweng da pe yin.
+008	Ket awan met kinagkagi da ka orey nagan na, ta mansing da met.
+009	Ket nagungar ngarud nge Jesus ito nasapa pekkem iya algew Duminggu.
+009	Ket nagpasingen nga nona e Marya nga iMagdala, nga itu to nangpatalawan na ka pitu nga sairu itun pekkem.
+010	Ket kalpasan nito panagpasingen ne Jesus igina, nawe ngarud nipakaemmu ne Marya kadito kinabkabulun ne Jesus itun, nga agladladingit se agberberrit.
+011	Ket ito nagicna da nga nabiyag kanu nge Jesusin se nasingen kanu pe ne Marya, ket madi da met pinati.
+012	Ket kalpasan niyan, e Jesus, nagbaliw ya langa na ito nagpasingen itun kadiya duwa nga pasurut na nga manmanalan iya dalan nga gayat ito siyudad.
+013	Ket dito duwa nga pasurut na, simoli da mettas iya siyudad, ket nipakaemmu da ngarud kadito kabulun da to napasamac.
+013	Ngem madi da latta namati igida.
+014	Ket itun, nagpasingen pe nge Jesus kadito sangapulu ket isa nga adalan na, ito nagsasangu da nga mangmangan.
+014	Ket dinanengdengngan na da ngarud gapu ta di da gabay ya mamati, se gapu ta nasukir da.
+014	Ta madi da met namati iya kagi dito nakasingen igina kalpasan nito panagungar na.
+015	Ket kinunen pe ne Jesus igida, Mawe kayu kadiya amin nga parte niya lubung, tasun ikasaba nu ya Makaparagsac nga Damag kadiya amin nga toltoley.
+016	Ket ya mamati se mabautisaran, maisalakan met.
+016	Ngem ya madi mamati, ket maukum met.
+017	Ket uwed nad pagilasinan nga maibulun kadiya mamati, nga agten idi: Gapu iya kinaturay ku, makapatalew da ka sairu, se makakagi da nad kadiya sabali nga pagkakagi nga bekken da nga naadal.
+018	Ket orey no makaikem da nad ka malaga, winno makainum da ka gamut, ket madi da nad maan-anu.
+018	Se ipatey da nad diya ima da kadiya agsacsakit, ket malaingan da met, kunen na.
+019	Ket itun, kalpasan nito pannakitbar ne Apu Jesus igida, ket naipangudu ka langitin.
+019	Ket enna langit, nagtugew iya kadayawan nga edyan, nga itu ya madiwanan ne Apu Diyus.
+020	Ket dito adalan na, pimanaw da ito edyan da, nga nawe da ngarud nangaskasaba kadiya amin nga luglugar.
+020	Ket ya Apu, tinulungan na da ngarud pe, ta nipanecnec na ya kinapudnu dito nikasaba da, gapu kadiya pagilasinan nga naibulun kadiya panangikasaba da iya kagi na.

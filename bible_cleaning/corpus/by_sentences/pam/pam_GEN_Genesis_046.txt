@@ -1,46 +1,51 @@
-Miglakbe ne kanita i Jacob; darala na ing sabla nang pibandian.
-Miras ya Beerseba at karin ya minie ain king Dios nang Isaac a tata na.
-Itang benging matudtud ya migsalita ya ing Dios kang Jacob king kapamilatan na ning tagimpan.
-Jacob!
-ngana.
-Nanu pu ita?
-nganang mekibat.
-Ngana ning Dios, Aku ing Dios, ing Dios nang tata mu.
-E ka tatakut munta Ehipto uling karin da ka gawan metung a maragul a bansa.
-Kayabe yu kung munta Ehipto at iyuli da kayu naman keti.
-Atyu king siping mu i Jose potang mate ka.
-Kaybat na nita, meko ya Beerseba i Jacob.
-Pepasaken de ring anak na at ding apu na at ding karelang asawa karing saken a peparala na ning ari.
-Dela da la naman ding karelang baka at ing sablang pibandian a atipun da king sakup ning Canaan.
-Miras ya Ehipto i Jacob at ding anak na ampon apu.
-Oreni ding lahi nang Jacob at ding anak nang miras Ehipto: i Ruben a pangane nang Jacob at ding anak na: i Hanok, Pallu, Hezron, at i Carmi.
-Ila deti ring anak nang Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, at i Saul a anak na king metung a babaing Cananeo.
-Ila naman deti ring anak nang Levi: i Gerson, Kohat, at i Merari.
-Ila deti ring anak nang Juda: i Er, i Onan, i Sela, Perez, at i Zera.
-Mete la Canaan di Er at Onan; ding anak nang Perez ila ri Hezron at Hamul.
-Ding anak nang Isacar ila ri Tola, Pua, Iob, at i Simron.
-Ding anak nang Zebulun ila ri Sered, Elon, Jaleel a anak nang Lea kang Jacob karin Padan-aram subali pa king anak nang i Dina.
-Ding lahi na kang Lea heganagana atlu lang pulu't atlu.
-Ding anak nang Gad ila ri Zefon, Haggi, Suni, Ezbon, Eri, Arodi, at i Areli.
-Ding anak nang Aser ila ri Imna, Isva, Isvi, Beria, at ing kapatad dang babaing i Sera.
-At ding anak nang Beria ila ri Heber at Malkiel.
-Deting labing anam ila ring lahi nang Jacob kang Zilpa, itang babaing ipus a binie nang Laban king anak nang i Lea.
-Ding anak nang Jacob king asawa nang i Raquel ila ri Jose at Benjamin.
-At ding meging anak nang Jose karin Ehipto ila ri Manase at Efraim.
-Ing ima ra ya i Asenat a anak nang Potifera a pari na ning Heliopolis.
-Ding anak na namang Benjamin ila ri Bela, Beker, Asbel, Gera, Naaman, Ehi, Ros, Mupim, Hupim, at i Ard.
-Ila deti ring anak nang Raquel kang Jacoblabing apat la ngan.
-Kayabe ya kareti i Dan at ing anak nang i Husim, i Neftali at ding anak nang di Jazeel, Guni, Jezer, at i Silem.
-Pitu la ring anak na at apu nang Jacob kang Bilha, itang babaing ipus a binie nang Laban king anak nang i Raquel.
-Anam lang pulu't anam ding anak na at apu nang Jacob a kayabe nang minta Ehipto.
-E la kabilang kareti ding asawa da ring anak na.
-Mikayanak yang aduang lalaki i Jose karin Ehipto.
-Makanyan lang meging pitung pulu ding lahi nang Jacob a minta karin Ehipto.
-Tiburan neng Jacob i Juda kang Jose ban saganan na la karin Gosen.
-Pepasadia neng Jose ing saken na at seganan ne i Jacob a tata na karin Gosen.
-Pepakilala ya keya; kinaul ne i tata na at saka ya menangis malambat king tula na.
-Nganang Jacob kang Jose, Ngeni malyari na kung mate uling ikit da kang pasibayu at balu ku king mabie ka pa!
-Kanita nganang Jose karing kapatad na at karing kamaganak na, Puntalan ke ing ari at sabian ku king ding kapatad ku at ding pamilya nang tatang ku dinatang na lang ibat Canaan.
-Sabian ku ing pastul kayu at manese baka at king dela yu la keti ding kawan yu at baka pati na ing sablang pibandian yu.
-Potang payaus na kayu ning ari at ikutang nung nanu ing kekayung kapanintunan, sabian yu king ibat na inyang anak kayu manese na kayung baka kalupa da ring pipumpunan yu ba na kayung patuknangan Gosen.
-Sinabi nang Jose iti uling masusumami la ring tau Ehipto kareng magpastul animal.
+verse	content
+001	Miglakbe ne kanita i Jacob; darala na ing sabla nang pibandian.
+001	Miras ya Beerseba at karin ya minie ain king Dios nang Isaac a tata na.
+002	Itang benging matudtud ya migsalita ya ing Dios kang Jacob king kapamilatan na ning tagimpan.
+002	Jacob!
+002	ngana.
+003	Nanu pu ita?
+003	nganang mekibat.
+004	Ngana ning Dios, Aku ing Dios, ing Dios nang tata mu.
+004	E ka tatakut munta Ehipto uling karin da ka gawan metung a maragul a bansa.
+005	Kayabe yu kung munta Ehipto at iyuli da kayu naman keti.
+005	Atyu king siping mu i Jose potang mate ka.
+006	Kaybat na nita, meko ya Beerseba i Jacob.
+006	Pepasaken de ring anak na at ding apu na at ding karelang asawa karing saken a peparala na ning ari.
+007	Dela da la naman ding karelang baka at ing sablang pibandian a atipun da king sakup ning Canaan.
+007	Miras ya Ehipto i Jacob at ding anak na ampon apu.
+008	Oreni ding lahi nang Jacob at ding anak nang miras Ehipto: i Ruben a pangane nang Jacob
+009	at ding anak na: i Hanok, Pallu, Hezron, at i Carmi.
+010	Ila deti ring anak nang Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, at i Saul a anak na king metung a babaing Cananeo.
+011	Ila naman deti ring anak nang Levi: i Gerson, Kohat, at i Merari.
+012	Ila deti ring anak nang Juda: i Er, i Onan, i Sela, Perez, at i Zera.
+012	Mete la Canaan di Er at Onan; ding anak nang Perez ila ri Hezron at Hamul.
+013	Ding anak nang Isacar ila ri Tola, Pua, Iob, at i Simron.
+014	Ding anak nang Zebulun ila ri Sered, Elon, Jaleel
+015	a anak nang Lea kang Jacob karin Padan-aram subali pa king anak nang i Dina.
+015	Ding lahi na kang Lea heganagana atlu lang pulu't atlu.
+016	Ding anak nang Gad ila ri Zefon, Haggi, Suni, Ezbon, Eri, Arodi, at i Areli.
+017	Ding anak nang Aser ila ri Imna, Isva, Isvi, Beria, at ing kapatad dang babaing i Sera.
+017	At ding anak nang Beria ila ri Heber at Malkiel.
+018	Deting labing anam ila ring lahi nang Jacob kang Zilpa, itang babaing ipus a binie nang Laban king anak nang i Lea.
+019	Ding anak nang Jacob king asawa nang i Raquel ila ri Jose at Benjamin.
+020	At ding meging anak nang Jose karin Ehipto ila ri Manase at Efraim.
+020	Ing ima ra ya i Asenat a anak nang Potifera a pari na ning Heliopolis.
+021	Ding anak na namang Benjamin ila ri Bela, Beker, Asbel, Gera, Naaman, Ehi, Ros, Mupim, Hupim, at i Ard.
+022	Ila deti ring anak nang Raquel kang Jacoblabing apat la ngan.
+023	Kayabe ya kareti i Dan at ing anak nang i Husim,
+024	i Neftali at ding anak nang di Jazeel, Guni, Jezer, at i Silem.
+025	Pitu la ring anak na at apu nang Jacob kang Bilha, itang babaing ipus a binie nang Laban king anak nang i Raquel.
+026	Anam lang pulu't anam ding anak na at apu nang Jacob a kayabe nang minta Ehipto.
+026	E la kabilang kareti ding asawa da ring anak na.
+027	Mikayanak yang aduang lalaki i Jose karin Ehipto.
+027	Makanyan lang meging pitung pulu ding lahi nang Jacob a minta karin Ehipto.
+028	Tiburan neng Jacob i Juda kang Jose ban saganan na la karin Gosen.
+029	Pepasadia neng Jose ing saken na at seganan ne i Jacob a tata na karin Gosen.
+029	Pepakilala ya keya; kinaul ne i tata na at saka ya menangis malambat king tula na.
+030	Nganang Jacob kang Jose, Ngeni malyari na kung mate uling ikit da kang pasibayu at balu ku king mabie ka pa!
+031	Kanita nganang Jose karing kapatad na at karing kamaganak na, Puntalan ke ing ari at sabian ku king ding kapatad ku at ding pamilya nang tatang ku dinatang na lang ibat Canaan.
+032	Sabian ku ing pastul kayu at manese baka at king dela yu la keti ding kawan yu at baka pati na ing sablang pibandian yu.
+033	Potang payaus na kayu ning ari at ikutang nung nanu ing kekayung kapanintunan,
+034	sabian yu king ibat na inyang anak kayu manese na kayung baka kalupa da ring pipumpunan yu ba na kayung patuknangan Gosen.
+034	Sinabi nang Jose iti uling masusumami la ring tau Ehipto kareng magpastul animal.

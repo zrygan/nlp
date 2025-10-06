@@ -1,37 +1,39 @@
-Pakatapos, nagduman si Moises asin si Aaron sa hade nin Egipto asin nagsabi, Nagtaram an Kagurangnan , an Dios kan Israel, Tugoteng humale an sakong banwaan tanganing magpyesta sinda sa kalangtadan sa pag-omaw sako.
-Siisay an Kagurangnan na iyan?
-an hapot kan hade.
-Tano ta pagdangogon ko siya asin pahaleon ko an mga Israelita?
-Dai ko midbid an Kagurangnan , asin dai ko nanggad tutugotan na humale an mga Israelita.
-Nagsimbag si Moises asin si Aaron, Nagpahiling samo an Dios kan mga Hebreyo.
-Tugote kaming lumakaw nin tolong aldaw pasiring sa kalangtadan tanganing mag-atang sa Kagurangnan na samong Dios.
-Kun dai mi magibo iyan, tibaad gadanon niya kami sa paagi nin gera o nin helang.
-Alagad sinabihan kan hade si Moises asin si Aaron, Tano ta papaontokon nindo an mga tawo sa pagtrabaho?
-Balik kamo sa saindong mga gibo!
-Mas dakul pa kamong mga Israelita ki sa mga Egipcio, asin ngunyan boot nindong mag-ontok sa pagtrabaho!
-Kan aldaw man sanang idto, nagboot an hade sa mga Egipciong parapamahala asin sa mga kapatas na Israelita, Ontokon an pagtao nin dagami sa mga tawo.
-Poon ngunyan sinda na an maghanap kan mga dagaming gagamiton ninda sa paggibo nin ladrilyo.
-Alagad piriton nindo sindang maggibo kan dating bilang nin ladrilyo; mayong kulang maski saro.
-Hinuhugakan sana sindang magtrabaho kaya nakikimaherak sindang tugotan ko na mag-atang sa saindang Dios!
-Dagdagi nindo an saindang trabaho tanganing mayo sinda nin oras sa pagdangog nin mga kaputikan.
-Naglakaw an mga parapamahala saka an mga kapatas asin nagsabi sa mga Israelita, Nagtaram an hade na dai na niya kamo tatawan nin dagami.
-Nagsabi siya na kamo na an maghanap asin magkua nin dagami alagad an bilang kan gigibohon nindong ladrilyo siring sa dati.
-Kaya nalibot kan mga tawo an bilog na Egipto sa paghanap nin dagami.
-Aroaldaw pinipirit sinda kan mga parapamahala na maggibo nin ladrilyo, siring sa nahahaman ninda kan tinatawan pa sinda nin dagami.
-Kun minakulang an mga ladrilyong nahahaman kan mga tawo, kinukulogan kan mga Egipciong parapamahala an mga kapatas na Israelita.
-Minahapot sinda, Tano ta kulang sa bilang an ginibo nindong ladrilyo ngunyan?
-Huli kaini nagduman sa hade an mga kapatas asin nagreklamo, Tano ta arog kaini an ginigibo mo samo?
-Dai na ngani kami tinatawan nin dagami, alagad pinapagibo pa nin ladrilyo, asin ngunyan hinahampak pa kami maski an mga sadiri mong tawohan an may sala.
-Nagsimbag an hade, Mga hugakon!
-Habo sana kamong magtrabaho kaya nakikimaherak kamong tugotan ko na mag-atang sa Kagurangnan .
-Hala, balik kamo sa trabaho!
-Dai kamo tatawan nin dagami, alagad parehong bilang nin ladrilyo an gigibohon nindo.
-Nahiling kan mga kapatas an masakit nindang kamugtakan kan sabihan sinda na dai nanggad pagpakulangan an ladrilyong gigibohon ninda aroaldaw.
-Pakahale kan mga kapatas sa atubang kan hade, nasabat ninda si Moises asin si Aaron na naghahalat sainda.
-Sinabihan ninda an duwa, Nahiling nin Kagurangnan an ginibo nindo asin huhukoman niya kamo!
-Huli sa saindo, naanggot sa samo an hade asin an saiyang mga opisyal.
-Tinawan nindo sinda nin dahelan na gadanon kami.
-Dangan namibi giraray si Moises, O Kagurangnan , tadaw ta pinapasakitan mo an saimong banwaan?
-Tano ta sinugo mo pa ako digdi?
-Huli ta poon na magdolok ako sa hade asin magtaram sa ngaran mo, pinapasakitan na niya an mga tawo.
-Alagad dai mo man lamang sinda tinabangan.
+verse	content
+001	Pakatapos, nagduman si Moises asin si Aaron sa hade nin Egipto asin nagsabi, Nagtaram an Kagurangnan , an Dios kan Israel, Tugoteng humale an sakong banwaan tanganing magpyesta sinda sa kalangtadan sa pag-omaw sako.
+002	Siisay an Kagurangnan na iyan?
+002	an hapot kan hade.
+002	Tano ta pagdangogon ko siya asin pahaleon ko an mga Israelita?
+002	Dai ko midbid an Kagurangnan , asin dai ko nanggad tutugotan na humale an mga Israelita.
+003	Nagsimbag si Moises asin si Aaron, Nagpahiling samo an Dios kan mga Hebreyo.
+003	Tugote kaming lumakaw nin tolong aldaw pasiring sa kalangtadan tanganing mag-atang sa Kagurangnan na samong Dios.
+003	Kun dai mi magibo iyan, tibaad gadanon niya kami sa paagi nin gera o nin helang.
+004	Alagad sinabihan kan hade si Moises asin si Aaron, Tano ta papaontokon nindo an mga tawo sa pagtrabaho?
+004	Balik kamo sa saindong mga gibo!
+005	Mas dakul pa kamong mga Israelita ki sa mga Egipcio, asin ngunyan boot nindong mag-ontok sa pagtrabaho!
+006	Kan aldaw man sanang idto, nagboot an hade sa mga Egipciong parapamahala asin sa mga kapatas na Israelita,
+007	Ontokon an pagtao nin dagami sa mga tawo.
+007	Poon ngunyan sinda na an maghanap kan mga dagaming gagamiton ninda sa paggibo nin ladrilyo.
+008	Alagad piriton nindo sindang maggibo kan dating bilang nin ladrilyo; mayong kulang maski saro.
+008	Hinuhugakan sana sindang magtrabaho kaya nakikimaherak sindang tugotan ko na mag-atang sa saindang Dios!
+009	Dagdagi nindo an saindang trabaho tanganing mayo sinda nin oras sa pagdangog nin mga kaputikan.
+010	Naglakaw an mga parapamahala saka an mga kapatas asin nagsabi sa mga Israelita, Nagtaram an hade na dai na niya kamo tatawan nin dagami.
+011	Nagsabi siya na kamo na an maghanap asin magkua nin dagami alagad an bilang kan gigibohon nindong ladrilyo siring sa dati.
+012	Kaya nalibot kan mga tawo an bilog na Egipto sa paghanap nin dagami.
+013	Aroaldaw pinipirit sinda kan mga parapamahala na maggibo nin ladrilyo, siring sa nahahaman ninda kan tinatawan pa sinda nin dagami.
+014	Kun minakulang an mga ladrilyong nahahaman kan mga tawo, kinukulogan kan mga Egipciong parapamahala an mga kapatas na Israelita.
+014	Minahapot sinda, Tano ta kulang sa bilang an ginibo nindong ladrilyo ngunyan?
+015	Huli kaini nagduman sa hade an mga kapatas asin nagreklamo, Tano ta arog kaini an ginigibo mo samo?
+016	Dai na ngani kami tinatawan nin dagami, alagad pinapagibo pa nin ladrilyo, asin ngunyan hinahampak pa kami maski an mga sadiri mong tawohan an may sala.
+017	Nagsimbag an hade, Mga hugakon!
+017	Habo sana kamong magtrabaho kaya nakikimaherak kamong tugotan ko na mag-atang sa Kagurangnan .
+018	Hala, balik kamo sa trabaho!
+018	Dai kamo tatawan nin dagami, alagad parehong bilang nin ladrilyo an gigibohon nindo.
+019	Nahiling kan mga kapatas an masakit nindang kamugtakan kan sabihan sinda na dai nanggad pagpakulangan an ladrilyong gigibohon ninda aroaldaw.
+020	Pakahale kan mga kapatas sa atubang kan hade, nasabat ninda si Moises asin si Aaron na naghahalat sainda.
+021	Sinabihan ninda an duwa, Nahiling nin Kagurangnan an ginibo nindo asin huhukoman niya kamo!
+021	Huli sa saindo, naanggot sa samo an hade asin an saiyang mga opisyal.
+021	Tinawan nindo sinda nin dahelan na gadanon kami.
+022	Dangan namibi giraray si Moises, O Kagurangnan , tadaw ta pinapasakitan mo an saimong banwaan?
+022	Tano ta sinugo mo pa ako digdi?
+023	Huli ta poon na magdolok ako sa hade asin magtaram sa ngaran mo, pinapasakitan na niya an mga tawo.
+023	Alagad dai mo man lamang sinda tinabangan.

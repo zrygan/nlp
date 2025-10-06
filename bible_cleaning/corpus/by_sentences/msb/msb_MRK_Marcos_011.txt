@@ -1,52 +1,56 @@
-San nagadangadang na sinda Jesus sa Jerusalem ada na an Betfage kag Betania na adto na sa Bukid San Kaolibohan.
-Didi nagsugo si Jesus sin duha san iya mga disipulos, Kumadto kamo sa kaatubang na baryo kag pagsulod dayon niyo, makakita kamo sin nakahigot na tinday na asno na wara pa gayod masakyi.
-Hubadi anay niyo tapos guyuda pakadi.
-Kun may maghunga sa iyo, Nano kay ginahimo niyo ina?
-Sabihi sinda na, Ginakinahanglan ini san Ginoo kag ibabalik man dayon.
-, Naglakat na sinda sa baryo kag nakita an nakahigot na tinday sa kilid san kamino halapit sa may pwertahan.
-San ginahubad ninda ini, may nagatindog na mga tawo didto na naghunga, Nano kay ginahubad niyo ina na tinday?
-Ginsurmatan sinda san pareho san ginpasabi sa inda ni Jesus kaya pinabayaan na lang sinda na guyudon an tinday.
-Ginuyod ninda ini pakadto kan Jesus tapos hinapinan san inda mga alikboy an likod sani kag nagsakay si Jesus.
-Damo na mga tawo an nagralatag san inda mga alikboy sa iya aagihan sa paggalang sa iya.
-An iba man naglatag sin madahon na mga sanga na ginbarali ninda sa mga kahoy sa umahan kay gusto ninda maggalang man.
-An mga tawo na nagkauruna sa iya kag san nagasurunod nagasiriyak sin, Hosanna!
-Ginpalabi ini siya na nagapakadi sa ngaran san Ginoo!
-Ginpalabi san Dios an nagaabot na hadi na masubli kan Hadin David na aton kalulululuhan!
-Umawon an pinakalabaw sa tanan!
-Pag-abot ni Jesus sa Jerusalem nagsulod sa templo.
-San makita na niya an tanan patalibod palibhasa tikapo na sa oras nagluwas siya kag nagbalik sa Betania na kaupod an dose.
-Pagkaaga san mahali na sinda sa Betania nakabatyag sin kagutom si Jesus.
-Harayo pa may puno san kahoy na ginatawag higera na madahon an nalantawan niya.
-Naghalapit siya agod kitaon kun may bunga pero wara gayod siyan nakita kundi mga dahon lang palibhasa dili pa tigbungahan.
-Ginsabihan niya an puno san higera, Wara na lugod sin makakaon pa san imo bunga.
-Ini nabatian san iya mga disipulos.
-Pag-abot ninda Jesus sa Jerusalem nagsulod siya sa templo kag nagtuna pagpaluwas san mga parabaligya kag mga nagapamakal didto.
-Pinangtumba naman niya an mga lamesa san mga parabaralyo sin kwarta kag an mga ingkudan sadton mga parabaligyan mga salampati.
-Ginbawal man niya na magsulod sa templo an mga dara na itirinda.
-Tapos gintukduan niya sinda kag ginsabihan, Dili ba nasurat na an ginsabi san Dios An akon balay amo an balay para sa tanan na katawuhan kag an pagatawagon sana amo an balay na pangadyian?
-Pero nano an ginhimo niyo?
-Ginhimo niyo ini bilang istaran san mga makawat.
-Nabaritaan ini san mga namumuno san kapadian kag mga paratukdo san Kasuguan.
-Kaya nagahanap sinda sin paagi na patayon siya kay nagakaharadlok sinda sa iya dahilan na an tanan na mga tawo nagkangarawa sa iya pagtukdo.
-Pagkagab-i naghali sinda Jesus sa syudad.
-Paglabay ninda otro aga nakita ninda an kahoy na higera na nag-uga hasta sa gamot.
-Nadumduman ni Pedro an nangyari kaya ginsabihan niya si Jesus, Maestro, kitaa!
-Nag-uga an higera na ginmaldisyon mo.
-Ginsabat sinda ni Jesus, Magtuod sa Dios.
-Matuod an ginasabi ko sa iyo: an magsabi sani na bukid, Gabot kag ipilak an sadiri mo sa dagat, na waran pagduha-duha sa iya tagipusuon kundi nagatuod na an iya ginasabi mangyayari, ini hihimuon san Dios para sa iya.
-Kaya matuod an ginasabi ko sa iyo, bisan nano man an ayuon niyo sa iyo pangadyi, magtuod na nabaton na kay ina mapapasa iyo.
-Sa iyo naman pagpangadyi na nakatindog, patawada anay an mga nagkasala sa iyo agod patawadon man san Ama sa langit an iyo mga nahimo na kasal-an.
-Kun dili man kamo magpatawad lalo na dili pagapatawadon san Ama sa langit an iyo mga kasal-an.
-Nag-abot man gihapon sinda sa Jerusalem kag myintras nagalakat si Jesus didto sa templo nagturulos sa iya an mga namumuno san kapadian, mga paratukdo san Kasuguan kag mga namumuno san mga Judio.
-Tapos ginhunga siya, Kanin-o pagbuot an paghimo mo sani?
-Sin-o gayod an naghatag sa imo sin otoridad sa paghimo sani?
-Ginsabat naman sinda ni Jesus, Hungaon ta man kamo kag kun masabat niyo ako pagasabaton ko naman kun kanin-o otoridad an paghimo ko sani.
-Niyan, sumati daw ako niyo kun kanin-o pagbuot naghali an otoridad ni Juan para magpambunyag.
-Hali sa Dios sa langit ina o sa mga tawo?
-Sabata niyo ako.
-Didi sinda nagpahurunga-hunga kun nano an ikasabat.
-Kun sabihon naton, Hali sa langit, mahunga naman siya, Kun amo, nano kay wara niyo siya pagtuudi?
-Nano, sasabaton naman naton, Hali sa tawo?
-, Habo sinda sana kay nahahadlok man sinda sa mga tawo kay an tanan ginakilala si Juan na matuod na propeta.
-Kaya an inda sabat kan Jesus amo ini, Dili namon aram.
-Ginsabat naman niya sinda, Kun sugad dili ko man sasabihon sa iyo kun kanin-o otoridad ginahimo ko ini.
+verse	content
+001	San nagadangadang na sinda Jesus sa Jerusalem ada na an Betfage kag Betania na adto na sa Bukid San Kaolibohan.
+001	Didi nagsugo si Jesus sin duha san iya mga disipulos,
+002	Kumadto kamo sa kaatubang na baryo kag pagsulod dayon niyo, makakita kamo sin nakahigot na tinday na asno na wara pa gayod masakyi.
+002	Hubadi anay niyo tapos guyuda pakadi.
+003	Kun may maghunga sa iyo, Nano kay ginahimo niyo ina?
+003	Sabihi sinda na, Ginakinahanglan ini san Ginoo kag ibabalik man dayon.,
+004	Naglakat na sinda sa baryo kag nakita an nakahigot na tinday sa kilid san kamino halapit sa may pwertahan.
+004	San ginahubad ninda ini,
+005	may nagatindog na mga tawo didto na naghunga, Nano kay ginahubad niyo ina na tinday?
+006	Ginsurmatan sinda san pareho san ginpasabi sa inda ni Jesus kaya pinabayaan na lang sinda na guyudon an tinday.
+007	Ginuyod ninda ini pakadto kan Jesus tapos hinapinan san inda mga alikboy an likod sani kag nagsakay si Jesus.
+008	Damo na mga tawo an nagralatag san inda mga alikboy sa iya aagihan sa paggalang sa iya.
+008	An iba man naglatag sin madahon na mga sanga na ginbarali ninda sa mga kahoy sa umahan kay gusto ninda maggalang man.
+009	An mga tawo na nagkauruna sa iya kag san nagasurunod nagasiriyak sin,
+010	Hosanna!
+010	Ginpalabi ini siya na nagapakadi sa ngaran san Ginoo!
+011	Ginpalabi san Dios an nagaabot na hadi na masubli kan Hadin David na aton kalulululuhan!
+012	Umawon an pinakalabaw sa tanan!
+013	Pag-abot ni Jesus sa Jerusalem nagsulod sa templo.
+013	San makita na niya an tanan patalibod palibhasa tikapo na sa oras nagluwas siya kag nagbalik sa Betania na kaupod an dose.
+014	Pagkaaga san mahali na sinda sa Betania nakabatyag sin kagutom si Jesus.
+015	Harayo pa may puno san kahoy na ginatawag higera na madahon an nalantawan niya.
+015	Naghalapit siya agod kitaon kun may bunga pero wara gayod siyan nakita kundi mga dahon lang palibhasa dili pa tigbungahan.
+016	Ginsabihan niya an puno san higera, Wara na lugod sin makakaon pa san imo bunga.
+016	Ini nabatian san iya mga disipulos.
+017	Pag-abot ninda Jesus sa Jerusalem nagsulod siya sa templo kag nagtuna pagpaluwas san mga parabaligya kag mga nagapamakal didto.
+017	Pinangtumba naman niya an mga lamesa san mga parabaralyo sin kwarta kag an mga ingkudan sadton mga parabaligyan mga salampati.
+018	Ginbawal man niya na magsulod sa templo an mga dara na itirinda.
+019	Tapos gintukduan niya sinda kag ginsabihan, Dili ba nasurat na an ginsabi san Dios
+020	An akon balay amo an balay para sa tanan na katawuhan kag an pagatawagon sana amo an balay na pangadyian?
+021	Pero nano an ginhimo niyo?
+021	Ginhimo niyo ini bilang istaran san mga makawat.
+022	Nabaritaan ini san mga namumuno san kapadian kag mga paratukdo san Kasuguan.
+022	Kaya nagahanap sinda sin paagi na patayon siya kay nagakaharadlok sinda sa iya dahilan na an tanan na mga tawo nagkangarawa sa iya pagtukdo.
+023	Pagkagab-i naghali sinda Jesus sa syudad.
+024	Paglabay ninda otro aga nakita ninda an kahoy na higera na nag-uga hasta sa gamot.
+025	Nadumduman ni Pedro an nangyari kaya ginsabihan niya si Jesus, Maestro, kitaa!
+025	Nag-uga an higera na ginmaldisyon mo.
+026	Ginsabat sinda ni Jesus, Magtuod sa Dios.
+027	Matuod an ginasabi ko sa iyo: an magsabi sani na bukid, Gabot kag ipilak an sadiri mo sa dagat, na waran pagduha-duha sa iya tagipusuon kundi nagatuod na an iya ginasabi mangyayari, ini hihimuon san Dios para sa iya.
+028	Kaya matuod an ginasabi ko sa iyo, bisan nano man an ayuon niyo sa iyo pangadyi, magtuod na nabaton na kay ina mapapasa iyo.
+029	Sa iyo naman pagpangadyi na nakatindog, patawada anay an mga nagkasala sa iyo agod patawadon man san Ama sa langit an iyo mga nahimo na kasal-an.
+030	Kun dili man kamo magpatawad lalo na dili pagapatawadon san Ama sa langit an iyo mga kasal-an.
+031	Nag-abot man gihapon sinda sa Jerusalem kag myintras nagalakat si Jesus didto sa templo nagturulos sa iya an mga namumuno san kapadian, mga paratukdo san Kasuguan kag mga namumuno san mga Judio.
+032	Tapos ginhunga siya, Kanin-o pagbuot an paghimo mo sani?
+032	Sin-o gayod an naghatag sa imo sin otoridad sa paghimo sani?
+033	Ginsabat naman sinda ni Jesus, Hungaon ta man kamo kag kun masabat niyo ako pagasabaton ko naman kun kanin-o otoridad an paghimo ko sani.
+034	Niyan, sumati daw ako niyo kun kanin-o pagbuot naghali an otoridad ni Juan para magpambunyag.
+034	Hali sa Dios sa langit ina o sa mga tawo?
+034	Sabata niyo ako.
+035	Didi sinda nagpahurunga-hunga kun nano an ikasabat.
+035	Kun sabihon naton, Hali sa langit, mahunga naman siya, Kun amo, nano kay wara niyo siya pagtuudi?
+036	Nano, sasabaton naman naton, Hali sa tawo?, Habo sinda sana kay nahahadlok man sinda sa mga tawo kay an tanan ginakilala si Juan na matuod na propeta.
+037	Kaya an inda sabat kan Jesus amo ini, Dili namon aram.
+038	Ginsabat naman niya sinda, Kun sugad dili ko man sasabihon sa iyo kun kanin-o otoridad ginahimo ko ini.

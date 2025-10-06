@@ -1,27 +1,29 @@
-Binmalhin hi Abraham tikang ha Mamre ngadto han timogan nga dapit han Canaan, ngan nag-ukoy hiya ha butnga han Cades ug Sur.
-Niyan, samtang nag-uokoy hiya didto ha Gerar, nagsiring hiya nga bugto la niya hi Sara nga iya asawa.
-Sanglit ginpakuha ni Hadi Abimelec hi Sara ngadto ha iya.
-Usa ka gab-i pinmakita an Dyos kan Abimelec dida hin usa nga inop ngan nagsiring, Mapatay ka, kay ginkuha mo ini nga babaye; inasaw-an na hiya.
-Kundi waray pa makighilawas kan Sara hi Abimelec, ngan nagsiring hiya, Ginoo, waray ko sala!
-Papatayon mo ba ako ngan an akon mga tawo?
-Hi Abraham ngahaw an nagsiring nga bugto la niya hi Sara, ngan nagsiring hi Sara nga bugto niya hi Abraham.
-Ginbuhat ko ini hin murayaw nga konsensya, ngan waray ko nabuhat nga sayop.
-Binmaton an Dyos dida han inop, Oo, maaram ako nga ginbuhat mo ini hin murayaw nga konsensya, sanglit waray ko ikaw tugoti hin pakasala kontra ha akon ngan waray ko itugot nga makighilawas ka ha iya.
-Kundi yana, igbalik an babaye ngadto han iya bana.
-Usa nga manaragna an iya bana, ngan mag-aampo hiya para ha imo, basi diri ka mamatay.
-Kundi kon diri mo hiya igbalik, ginpapahimatngon ko ikaw nga mapatay ka, ikaw ngan an ngatanan mo nga mga tawo.
-Timprano pa han pagkaaga gintawag ni Abimelec an ngatanan niya nga mga opisyal ngan ginsumatan hira kon ano an nahinabo, ngan nagkahahadlok gud hira.
-Niyan gintawag ni Abimelec hi Abraham ngan ginpakianhan hiya, Ano an imo ginbuhat ha amon?
-Ano nga sayop an akon nabuhat ha imo nga tinagan mo kami hini nga dako nga karat-an, ako ngan an akon ginhadian, nga diri unta angay pagbuhaton mo ha akon?
-Kay ano nga imo man ini ginbuhat?
-Binmaton hi Abraham, An akon hunahuna nga waray ha iyo dinhe nahadlok han Dyos, ngan nga pagpapatayon ako nira basi la makuha nira an akon asawa.
-Tinuod gud nga bugto ko hiya nga babaye.
-Bugto ko hiya ha amay, kundi diri ha iroy, ngan pinangasawa ko hiya.
-Sanglit han pagsugoa ha akon han Dyos tikang han balay han akon amay ngadto hin langyaw nga mga tuna, ginsiring ko hiya, Makakapakita ka han imo kamaunongon ha akon pinaagi hin pagsumat han tagsatagsa nga imo la ako bugto.
-Niyan ibinalik ni Abimelec hi Sara ngadto kan Abraham ngan gintagan pa hiya ni Abimelec hin mga karnero, mga baka, ngan hin mga oripon.
-Nagsiring hiya kan Abraham, Iini an bug-os ko nga katunaan.
-Pag-ukoy bisan diin an imo karuyag.
-Nagsiring hiya kan Sara, Tinatagan ko an imo bugto nga lalake hin usa ka yukot ka bug-os nga salapi basi hisabotan han ngatanan nga upod nimo nga waray ka sala; nga waray mo nabuhat nga sayop.
-Tungod han nahinabo kan Sara nga asawa ni Abraham, ginbuot han Dyos nga diri gud mag-anak an bisan hin-o nga babaye didto han palasyo ni Abimelec.
-Sanglit nag-ampo hi Abraham para kan Abimelec ngan gin-upay hiya han Dyos.
-Gin-upay liwat niya an iya asawa, ngan an iya mga oripon nga kababayen-an basi mag-anak na liwat hira.
+verse	content
+001	Binmalhin hi Abraham tikang ha Mamre ngadto han timogan nga dapit han Canaan, ngan nag-ukoy hiya ha butnga han Cades ug Sur.
+001	Niyan, samtang nag-uokoy hiya didto ha Gerar,
+002	nagsiring hiya nga bugto la niya hi Sara nga iya asawa.
+002	Sanglit ginpakuha ni Hadi Abimelec hi Sara ngadto ha iya.
+003	Usa ka gab-i pinmakita an Dyos kan Abimelec dida hin usa nga inop ngan nagsiring, Mapatay ka, kay ginkuha mo ini nga babaye; inasaw-an na hiya.
+004	Kundi waray pa makighilawas kan Sara hi Abimelec, ngan nagsiring hiya, Ginoo, waray ko sala!
+004	Papatayon mo ba ako ngan an akon mga tawo?
+005	Hi Abraham ngahaw an nagsiring nga bugto la niya hi Sara, ngan nagsiring hi Sara nga bugto niya hi Abraham.
+005	Ginbuhat ko ini hin murayaw nga konsensya, ngan waray ko nabuhat nga sayop.
+006	Binmaton an Dyos dida han inop, Oo, maaram ako nga ginbuhat mo ini hin murayaw nga konsensya, sanglit waray ko ikaw tugoti hin pakasala kontra ha akon ngan waray ko itugot nga makighilawas ka ha iya.
+007	Kundi yana, igbalik an babaye ngadto han iya bana.
+007	Usa nga manaragna an iya bana, ngan mag-aampo hiya para ha imo, basi diri ka mamatay.
+007	Kundi kon diri mo hiya igbalik, ginpapahimatngon ko ikaw nga mapatay ka, ikaw ngan an ngatanan mo nga mga tawo.
+008	Timprano pa han pagkaaga gintawag ni Abimelec an ngatanan niya nga mga opisyal ngan ginsumatan hira kon ano an nahinabo, ngan nagkahahadlok gud hira.
+009	Niyan gintawag ni Abimelec hi Abraham ngan ginpakianhan hiya, Ano an imo ginbuhat ha amon?
+009	Ano nga sayop an akon nabuhat ha imo nga tinagan mo kami hini nga dako nga karat-an, ako ngan an akon ginhadian, nga diri unta angay pagbuhaton mo ha akon?
+010	Kay ano nga imo man ini ginbuhat?
+011	Binmaton hi Abraham, An akon hunahuna nga waray ha iyo dinhe nahadlok han Dyos, ngan nga pagpapatayon ako nira basi la makuha nira an akon asawa.
+012	Tinuod gud nga bugto ko hiya nga babaye.
+012	Bugto ko hiya ha amay, kundi diri ha iroy, ngan pinangasawa ko hiya.
+013	Sanglit han pagsugoa ha akon han Dyos tikang han balay han akon amay ngadto hin langyaw nga mga tuna, ginsiring ko hiya, Makakapakita ka han imo kamaunongon ha akon pinaagi hin pagsumat han tagsatagsa nga imo la ako bugto.
+014	Niyan ibinalik ni Abimelec hi Sara ngadto kan Abraham ngan gintagan pa hiya ni Abimelec hin mga karnero, mga baka, ngan hin mga oripon.
+015	Nagsiring hiya kan Abraham, Iini an bug-os ko nga katunaan.
+015	Pag-ukoy bisan diin an imo karuyag.
+016	Nagsiring hiya kan Sara, Tinatagan ko an imo bugto nga lalake hin usa ka yukot ka bug-os nga salapi basi hisabotan han ngatanan nga upod nimo nga waray ka sala; nga waray mo nabuhat nga sayop.
+017	Tungod han nahinabo kan Sara nga asawa ni Abraham, ginbuot han Dyos nga diri gud mag-anak an bisan hin-o nga babaye didto han palasyo ni Abimelec.
+017	Sanglit nag-ampo hi Abraham para kan Abimelec ngan gin-upay hiya han Dyos.
+017	Gin-upay liwat niya an iya asawa, ngan an iya mga oripon nga kababayen-an basi mag-anak na liwat hira.

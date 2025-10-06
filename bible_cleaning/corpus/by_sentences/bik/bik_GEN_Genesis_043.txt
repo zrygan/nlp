@@ -1,52 +1,56 @@
-Orog na nagin makuri an gutom sa Canaan asin kan naubos na kan pamilya ni Jacob an mais na binakal ninda sa Egipto, nagsabi siya sa mga aki niya, Magduman giraray kamo asin magbakal nin dikit na pagkakan para sato.
-Nagsimbag si Juda, Pinatanidan nanggad kami kan lalaki na dai niya kami aatubangon sagkod na dai mi kaiba an samong tugang.
-Kun paibahon mo samo an samong tugang, maduman kami dangan mabakal nin pagkakan; alagad kun dai mo siya paibahon samo, dai kami maduman, huli ta sinabihan kami kan lalaki na dai niya kami aatubangon sagkod na dai mi kaiba an samong tugang!
-Nagsabi si Jacob, Tano ta tinawan nindo ako nin problema huli sa pagsabi sa lalaki na igwa pa kamo nin sarong tugang?
-Nagsimbag sinda, Pinagparahapot kami kan lalaki manongod samo asin sa samong pamilya, Buhay pa an saindong ama?
-Igwa pa kamong tugang?
-Kaipuhan simbagon mi an saiyang mga hapot.
-Paano mi maaaraman na ipapaiba niya samo an samong tugang?
-Nagsimbag si Juda sa saiyang ama, Paibaha na sako an aki dangan maduman na kami tanganing mabuhay kita asin dai magadan sa gutom.
-Iginagarantiya ko an sakong buhay; ako an masimbag para saiya.
-Kun dai ko siya ikabalik saimo na buhay, ako an basolon mo sagkod pa man.
-Duwang balik na kuta an naginibo mi kun dai kita nagparaatraso.
-Nagsabi si Jacob sainda, Kun siring an dapat na mangyari, giboha nindo ini: magdara kamo kan pinakamarahay na mga bunga kan daga bilang regalo sa gobernador: dikit na balsamo, dikit na dugos, mga pahamot asin mira, rekado saka almendras.
-Magdara man kamo nin dobleng kantidad, huli ta kaipuhan na iuli nindo an kwartang ibinugtak sa saindong sako.
-Tibaad nasala sana an pagkalaog duman.
-Ipag-iba nindo si Benjamin na saindong tugang asin magpuli tolos kamo.
-Gibohon logod kan Makakamhan na Dios na maherak saindo an lalaki tanganing ibalik niya saindo si Benjamin asin an saro pa nindong tugang.
-Kun mawawara an sakong mga aki, dai akong magiginibo.
-Kaya dinara kan magturugang an mga regalo asin an dobleng kantidad nin kwarta; nagduman sinda sa Egipto kaiba si Benjamin.
-Duman nag-atubang sinda ki Jose.
-Kan mahiling ni Jose si Benjamin na kaibahan ninda, sinabihan niya an oripon na namamahala kan saiyang harong, Ipag-iba mo an mga lalaking ini sa sakong harong.
-Kaiba ko sindang makakan ngunyan na odto, kaya magbuno ka nin hayop asin andamon mo.
-Sinunod kan oripon an pagboot saiya asin ipinag-iba an magturugang sa harong ni Jose.
-Mantang ipinag-iiba sinda sa harong, nagkatarakot sinda asin nagsaboot, Ipinag-iba kami digdi huli kan kwartang ibinalik sa samong sako.
-Tibaad bigla ninda kaming salakayon, kuahon an samong mga asno asin gibohon na mga oripon.
-Kaya pag-abot ninda sa may pintoan kan harong, sinabihan ninda an sorogoon na namamahala.
-Nagdigdi na kami kaidto sa pagbakal nin pagkakan.
-Kan magkampo kami sa dalan sa samong pagpuli, binukasan mi an samong mga sako dangan nakua kan lambang saro samo an saiyang kwarta sa ibabaw kan mais.
-Dinara mi giraray an kwarta tanganing ikaoli, saka nagdara pa kami nin ibang kwarta tanganing ibakal nin pagkakan.
-Dai mi aram kun siisay an nagbugtak kan kwarta sa samong sako.
-Nagsimbag an sorogoon, Dai kamo mahandal; dai kamo matakot.
-An saindong Dios, an Dios kan saindong ama, iyo an nagbugtak kan kwarta sa saindong mga sako para saindo.
-Naresibi ko an saindong kabayadan.
-Dangan pinaluwas kan sorogoon si Simeon asin dinara sa sainda.
-Pinadagos kan sorogoon an magturugang sa harong ni Jose; tinawan niya sinda nin tubig tanganing maghanaw kan saindang bitis, dangan pinakakan an saindang mga asno.
-Inandam kan magturugang an mga regalo na itatao ninda ki Jose pag-abot niya sa odto, huli ta nasabihan sindang kaiba niya sinda sa pagkakan.
-Pag-abot ni Jose sa harong, itinao ninda saiya an mga regalo asin nagdarapa sinda sa atubang niya sa paggalang.
-Kinomusta ni Jose an magturugang dangan hinapot, Sinabi nindong gurang na an saindong ama, komusta siya?
-Buhay pa siya?
-Nagsimbag sinda, Buhay pa siya asin marahay an kamugtakan.
-Dangan nagruluhod sinda sa saiyang atubang.
-Kan mahiling ni Jose an saiyang tugang na si Benjamin, nagsabi siya, Iyo ini an ngohod nindong tugang na sinabi nindo sako?
-Mapasaimo an bendisyon nin Dios, aki ko.
-Dangan binayaan ni Jose an mga tugang niya, huli ta dai niya mapugolan an luha niya kan mahiling niya si Benjamin.
-Kaya naglaog siya sa saiyang kwarto asin duman naghibi.
-Pakatapos niyang maghugas kan saiyang lalawogon, nagbalik siya asin pinakosog an saiyang boot, dangan nagsabi, Andamon an lamesa.
-Pinuwestohan si Jose sa sarong lamesa asin an mga tugang niya sa saro pang lamesa.
-An mga Egipcio na nagkakakan duman suhay man na pinuwestohan huli ta dai ninda maaako na makahampang sa pagkakan an mga Hebreyo.
-Nagturukaw sa atubangan ni Jose an magturugang sosog sa saindang pagkamundag, magpoon sa matua sagkod sa ngohod.
-Kan mareparo ninda kun paano sinda pinatukaw, ngaralas sindang naghirilingan.
-Dinarahan sinda nin pagkakan hale sa lamesa ni Jose asin si Benjamin dinarahan nin pagkakan na limang beses kadakul ki sa ibang tugang niya.
-Nagkakan sinda asin nag-inom sa kaibahan ni Jose sagkod na naburat sinda.
+verse	content
+001	Orog na nagin makuri an gutom sa Canaan
+002	asin kan naubos na kan pamilya ni Jacob an mais na binakal ninda sa Egipto, nagsabi siya sa mga aki niya, Magduman giraray kamo asin magbakal nin dikit na pagkakan para sato.
+003	Nagsimbag si Juda, Pinatanidan nanggad kami kan lalaki na dai niya kami aatubangon sagkod na dai mi kaiba an samong tugang.
+004	Kun paibahon mo samo an samong tugang, maduman kami dangan mabakal nin pagkakan;
+005	alagad kun dai mo siya paibahon samo, dai kami maduman, huli ta sinabihan kami kan lalaki na dai niya kami aatubangon sagkod na dai mi kaiba an samong tugang!
+006	Nagsabi si Jacob, Tano ta tinawan nindo ako nin problema huli sa pagsabi sa lalaki na igwa pa kamo nin sarong tugang?
+007	Nagsimbag sinda, Pinagparahapot kami kan lalaki manongod samo asin sa samong pamilya, Buhay pa an saindong ama?
+007	Igwa pa kamong tugang?
+007	Kaipuhan simbagon mi an saiyang mga hapot.
+007	Paano mi maaaraman na ipapaiba niya samo an samong tugang?
+008	Nagsimbag si Juda sa saiyang ama, Paibaha na sako an aki dangan maduman na kami tanganing mabuhay kita asin dai magadan sa gutom.
+009	Iginagarantiya ko an sakong buhay; ako an masimbag para saiya.
+009	Kun dai ko siya ikabalik saimo na buhay, ako an basolon mo sagkod pa man.
+010	Duwang balik na kuta an naginibo mi kun dai kita nagparaatraso.
+011	Nagsabi si Jacob sainda, Kun siring an dapat na mangyari, giboha nindo ini: magdara kamo kan pinakamarahay na mga bunga kan daga bilang regalo sa gobernador: dikit na balsamo, dikit na dugos, mga pahamot asin mira, rekado saka almendras.
+012	Magdara man kamo nin dobleng kantidad, huli ta kaipuhan na iuli nindo an kwartang ibinugtak sa saindong sako.
+012	Tibaad nasala sana an pagkalaog duman.
+013	Ipag-iba nindo si Benjamin na saindong tugang asin magpuli tolos kamo.
+014	Gibohon logod kan Makakamhan na Dios na maherak saindo an lalaki tanganing ibalik niya saindo si Benjamin asin an saro pa nindong tugang.
+014	Kun mawawara an sakong mga aki, dai akong magiginibo.
+015	Kaya dinara kan magturugang an mga regalo asin an dobleng kantidad nin kwarta; nagduman sinda sa Egipto kaiba si Benjamin.
+015	Duman nag-atubang sinda ki Jose.
+016	Kan mahiling ni Jose si Benjamin na kaibahan ninda, sinabihan niya an oripon na namamahala kan saiyang harong, Ipag-iba mo an mga lalaking ini sa sakong harong.
+016	Kaiba ko sindang makakan ngunyan na odto, kaya magbuno ka nin hayop asin andamon mo.
+017	Sinunod kan oripon an pagboot saiya asin ipinag-iba an magturugang sa harong ni Jose.
+018	Mantang ipinag-iiba sinda sa harong, nagkatarakot sinda asin nagsaboot, Ipinag-iba kami digdi huli kan kwartang ibinalik sa samong sako.
+018	Tibaad bigla ninda kaming salakayon, kuahon an samong mga asno asin gibohon na mga oripon.
+019	Kaya pag-abot ninda sa may pintoan kan harong, sinabihan ninda an sorogoon na namamahala.
+020	Nagdigdi na kami kaidto sa pagbakal nin pagkakan.
+021	Kan magkampo kami sa dalan sa samong pagpuli, binukasan mi an samong mga sako dangan nakua kan lambang saro samo an saiyang kwarta sa ibabaw kan mais.
+021	Dinara mi giraray an kwarta tanganing ikaoli,
+022	saka nagdara pa kami nin ibang kwarta tanganing ibakal nin pagkakan.
+022	Dai mi aram kun siisay an nagbugtak kan kwarta sa samong sako.
+023	Nagsimbag an sorogoon, Dai kamo mahandal; dai kamo matakot.
+023	An saindong Dios, an Dios kan saindong ama, iyo an nagbugtak kan kwarta sa saindong mga sako para saindo.
+023	Naresibi ko an saindong kabayadan.
+023	Dangan pinaluwas kan sorogoon si Simeon asin dinara sa sainda.
+024	Pinadagos kan sorogoon an magturugang sa harong ni Jose; tinawan niya sinda nin tubig tanganing maghanaw kan saindang bitis, dangan pinakakan an saindang mga asno.
+025	Inandam kan magturugang an mga regalo na itatao ninda ki Jose pag-abot niya sa odto, huli ta nasabihan sindang kaiba niya sinda sa pagkakan.
+026	Pag-abot ni Jose sa harong, itinao ninda saiya an mga regalo asin nagdarapa sinda sa atubang niya sa paggalang.
+027	Kinomusta ni Jose an magturugang dangan hinapot, Sinabi nindong gurang na an saindong ama, komusta siya?
+027	Buhay pa siya?
+028	Nagsimbag sinda, Buhay pa siya asin marahay an kamugtakan.
+028	Dangan nagruluhod sinda sa saiyang atubang.
+029	Kan mahiling ni Jose an saiyang tugang na si Benjamin, nagsabi siya, Iyo ini an ngohod nindong tugang na sinabi nindo sako?
+029	Mapasaimo an bendisyon nin Dios, aki ko.
+030	Dangan binayaan ni Jose an mga tugang niya, huli ta dai niya mapugolan an luha niya kan mahiling niya si Benjamin.
+030	Kaya naglaog siya sa saiyang kwarto asin duman naghibi.
+031	Pakatapos niyang maghugas kan saiyang lalawogon, nagbalik siya asin pinakosog an saiyang boot, dangan nagsabi, Andamon an lamesa.
+032	Pinuwestohan si Jose sa sarong lamesa asin an mga tugang niya sa saro pang lamesa.
+032	An mga Egipcio na nagkakakan duman suhay man na pinuwestohan huli ta dai ninda maaako na makahampang sa pagkakan an mga Hebreyo.
+033	Nagturukaw sa atubangan ni Jose an magturugang sosog sa saindang pagkamundag, magpoon sa matua sagkod sa ngohod.
+033	Kan mareparo ninda kun paano sinda pinatukaw, ngaralas sindang naghirilingan.
+034	Dinarahan sinda nin pagkakan hale sa lamesa ni Jose asin si Benjamin dinarahan nin pagkakan na limang beses kadakul ki sa ibang tugang niya.
+034	Nagkakan sinda asin nag-inom sa kaibahan ni Jose sagkod na naburat sinda.

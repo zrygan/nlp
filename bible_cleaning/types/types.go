@@ -29,7 +29,11 @@ func TurnToRegexpsTuple(tuples []FindReplaceTuple[string]) []FindReplaceTuple[*r
 
 	return result
 }
-
+type VerseRef struct {
+	book string
+	chapter string
+	verse string
+}
 type LanguageClass struct {
 	Language string
 	OutputDir string

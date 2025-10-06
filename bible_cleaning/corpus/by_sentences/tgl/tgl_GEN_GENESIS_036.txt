@@ -1,51 +1,58 @@
-Ito ang mga lahi ni Esau, na siya ring Edom.
-Si Esau ay nag-asawa mula sa mga anak ng Canaan; kay Ada na anak ni Elon na Heteo, kay Aholibama, anak ni Ana na anak ni Zibeon na Heveo; kay Basemat na anak ni Ismael, na kapatid ni Nebayot.
-Ipinanganak ni Ada si Elifaz kay Esau; at ipinanganak ni Basemat si Reuel; at ipinanganak ni Aholibama sina Jeus, Jalam, at Kora.
-Ito ang mga anak ni Esau, na ipinanganak sa kanya sa lupain ng Canaan.
-Dinala ni Esau ang kanyang mga asawa, ang kanyang mga anak na lalaki at babae, ang lahat ng tao sa kanyang bahay, ang kanyang hayop, lahat ng kanyang kawan, at ang lahat na kanyang tinipon sa lupain ng Canaan, at pumunta sa isang lupaing malayo sa kanyang kapatid na si Jacob.
-Sapagkat ang kanilang ari-arian ay totoong napakalaki para sa kanila na manirahang magkasama.
-Ang lupain na kanilang pinaglakbayan ay hindi sila makayang tustusan dahilan sa kanilang mga hayop.
-Kaya't nanirahan si Esau sa bundok ng Seir.
-Si Esau ay si Edom.
-Ito ang mga lahi ni Esau, na ama ng mga Edomita sa bundok ng Seir.
-Ito ang mga pangalan ng mga anak ni Esau: si Elifaz, na anak ni Ada na asawa ni Esau, si Reuel na anak ni Basemat, na asawa ni Esau.
-Ang mga anak ni Elifaz ay sina Teman, Omar, Zefo, Gatam at Kenaz.
-Si Timna ay asawang-lingkod ni Elifaz na anak ni Esau; at ipinanganak niya kay Elifaz si Amalek.
-Ito ang mga anak ni Ada na asawa ni Esau.
-Ito ang mga anak ni Reuel: sina Nahat, Zera, Shammah, at Mizza.
-Ito ang mga anak ni Basemat na asawa ni Esau.
-Ito ang mga anak ni Esau kay Aholibama, na anak ni Ana, na anak ni Zibeon.
-Ipinanganak niya kay Esau sina Jeus, Jalam at Kora.
-Ito ang mga pinuno sa mga anak ni Esau: ang mga anak ni Elifaz, na panganay ni Esau; ang mga pinunong sina Teman, Omar, Zefo, Kenaz, Kora, Gatam, at Amalek.
-Ito ang mga pinunong nagmula kay Elifaz sa lupain ng Edom; ito ang mga anak ni Ada.
-Ito ang mga anak ni Reuel na anak ni Esau: ang mga pinunong sina Nahat, Zera, Shammah, at Mizza.
-Ito ang mga pinunong nagmula kay Reuel sa lupain ng Edom; ito ang mga anak ni Basemat na asawa ni Esau.
-Ito ang mga anak ni Aholibama na asawa ni Esau: ang mga pinunong sina Jeus, Jalam, at Kora.
-Ito ang mga pinunong nagmula kay Aholibama na anak ni Ana, na asawa ni Esau.
-Ito ang mga anak ni Esau, na siyang Edom at ito ang kanilang mga pinuno.
-Ito ang mga anak ni Seir na Horeo, na naninirahan sa lupain: sina Lotan, Sobal, Zibeon, at si Ana, sina Dishon, Eser, at Disan.
-Ito ang mga pinunong nagmula sa mga Horeo, na mga angkan ni Seir sa lupain ng Edom.
-Ang mga anak ni Lotan ay sina Hori at Heman; at ang kapatid na babae ni Lotan ay si Timna.
-Ito ang mga anak ni Sobal: sina Alvan, Manahat, Ebal, Zefo, at si Onam.
-Ito ang mga anak ni Zibeon: sina Aya at Ana.
-Ito rin si Ana na nakatagpo ng maiinit na bukal sa ilang, habang kanyang inaalagaan ang mga asno ni Zibeon na kanyang ama.
-Ito ang mga anak ni Ana: sina Dishon at Aholibama, na anak na babae ni Ana.
-Ito ang mga anak ni Dishon: sina Hemdan, Esban, Itran, at Cheran.
-Ito ang mga anak ni Eser: sina Bilhan, Zaavan at Acan.
-Ito ang mga anak ni Disan: sina Uz at Aran.
-Ito ang mga pinunong nagmula sa mga Horeo: ang mga pinunong sina Lotan, Sobal, Zibeon, at Ana, Dishon, Eser, at Disan.
-Ito ang mga pinunong nagmula sa mga Horeo ayon sa kanilang mga angkan, sa lupain ng Seir.
-Ito ang mga hari na nagsipaghari sa lupain ng Edom bago maghari ang sinumang hari sa angkan ni Israel.
-Si Bela na anak ni Beor ay naghari sa Edom; at ang pangalan ng kanyang bayan ay Dinhaba.
-Namatay si Bela, at naghari na kapalit niya si Jobab na anak ni Zera, na taga-Bosra.
-Namatay si Jobab at naghari na kapalit niya si Husam, na taga-lupain ng mga Temanita.
-Namatay si Husam at naghari na kapalit niya si Adad, na anak ni Badad, na siyang gumapi kay Midian sa parang ni Moab at ang pangalan ng kanyang bayan ay Avith.
-Namatay si Adad at naghari na kapalit niya si Samla na taga-Masreca.
-Namatay si Samla at naghari na kapalit niya si Shaul na taga-Rehobot na tabi ng Eufrates.
-Namatay si Shaul at naghari na kapalit niya si Baal-hanan na anak ni Acbor.
-Namatay si Baal-hanan na anak ni Acbor at naghari na kapalit niya si Adar; at ang pangalan ng kanyang bayan ay Pau; at ang pangalan ng kanyang asawa ay Mehetabel na anak ni Matred, na anak na babae ni Mezaab.
-Ito ang mga pangalan ng mga pinunong nagmula kay Esau, ayon sa kanya-kanyang angkan, ayon sa kanya-kanyang lugar, alinsunod sa kanya-kanyang pangalan: ang mga pinunong sina Timna, Alva, Jetet; Aholibama, Ela, Pinon.
-Kenaz, Teman, Mibzar.
-Magdiel, at Hiram.
-Ito ang mga pinuno ni Edom, ayon sa kanya-kanyang tinitirhan sa lupain na kanilang pag-aari.
-Siya ay si Esau na ama ng mga Edomita.
+verse	content
+001	Ito ang mga lahi ni Esau, na siya ring Edom.
+002	Si Esau ay nag-asawa mula sa mga anak ng Canaan; kay Ada na anak ni Elon na Heteo, kay Aholibama, anak ni Ana na anak ni Zibeon na Heveo;
+003	kay Basemat na anak ni Ismael, na kapatid ni Nebayot.
+004	Ipinanganak ni Ada si Elifaz kay Esau; at ipinanganak ni Basemat si Reuel;
+005	at ipinanganak ni Aholibama sina Jeus, Jalam, at Kora.
+005	Ito ang mga anak ni Esau, na ipinanganak sa kanya sa lupain ng Canaan.
+006	Dinala ni Esau ang kanyang mga asawa, ang kanyang mga anak na lalaki at babae, ang lahat ng tao sa kanyang bahay, ang kanyang hayop, lahat ng kanyang kawan, at ang lahat na kanyang tinipon sa lupain ng Canaan, at pumunta sa isang lupaing malayo sa kanyang kapatid na si Jacob.
+007	Sapagkat ang kanilang ari-arian ay totoong napakalaki para sa kanila na manirahang magkasama.
+007	Ang lupain na kanilang pinaglakbayan ay hindi sila makayang tustusan dahilan sa kanilang mga hayop.
+008	Kaya't nanirahan si Esau sa bundok ng Seir.
+008	Si Esau ay si Edom.
+009	Ito ang mga lahi ni Esau, na ama ng mga Edomita sa bundok ng Seir.
+010	Ito ang mga pangalan ng mga anak ni Esau: si Elifaz, na anak ni Ada na asawa ni Esau, si Reuel na anak ni Basemat, na asawa ni Esau.
+011	Ang mga anak ni Elifaz ay sina Teman, Omar, Zefo, Gatam at Kenaz.
+012	Si Timna ay asawang-lingkod ni Elifaz na anak ni Esau; at ipinanganak niya kay Elifaz si Amalek.
+012	Ito ang mga anak ni Ada na asawa ni Esau.
+013	Ito ang mga anak ni Reuel: sina Nahat, Zera, Shammah, at Mizza.
+013	Ito ang mga anak ni Basemat na asawa ni Esau.
+014	Ito ang mga anak ni Esau kay Aholibama, na anak ni Ana, na anak ni Zibeon.
+014	Ipinanganak niya kay Esau sina Jeus, Jalam at Kora.
+015	Ito ang mga pinuno sa mga anak ni Esau: ang mga anak ni Elifaz, na panganay ni Esau; ang mga pinunong sina Teman, Omar, Zefo, Kenaz,
+016	Kora, Gatam, at Amalek.
+016	Ito ang mga pinunong nagmula kay Elifaz sa lupain ng Edom; ito ang mga anak ni Ada.
+017	Ito ang mga anak ni Reuel na anak ni Esau: ang mga pinunong sina Nahat, Zera, Shammah, at Mizza.
+017	Ito ang mga pinunong nagmula kay Reuel sa lupain ng Edom; ito ang mga anak ni Basemat na asawa ni Esau.
+018	Ito ang mga anak ni Aholibama na asawa ni Esau: ang mga pinunong sina Jeus, Jalam, at Kora.
+018	Ito ang mga pinunong nagmula kay Aholibama na anak ni Ana, na asawa ni Esau.
+019	Ito ang mga anak ni Esau, na siyang Edom at ito ang kanilang mga pinuno.
+020	Ito ang mga anak ni Seir na Horeo, na naninirahan sa lupain: sina Lotan, Sobal, Zibeon, at si Ana,
+021	sina Dishon, Eser, at Disan.
+021	Ito ang mga pinunong nagmula sa mga Horeo, na mga angkan ni Seir sa lupain ng Edom.
+022	Ang mga anak ni Lotan ay sina Hori at Heman; at ang kapatid na babae ni Lotan ay si Timna.
+023	Ito ang mga anak ni Sobal: sina Alvan, Manahat, Ebal, Zefo, at si Onam.
+024	Ito ang mga anak ni Zibeon: sina Aya at Ana.
+024	Ito rin si Ana na nakatagpo ng maiinit na bukal sa ilang, habang kanyang inaalagaan ang mga asno ni Zibeon na kanyang ama.
+025	Ito ang mga anak ni Ana: sina Dishon at Aholibama, na anak na babae ni Ana.
+026	Ito ang mga anak ni Dishon: sina Hemdan, Esban, Itran, at Cheran.
+027	Ito ang mga anak ni Eser: sina Bilhan, Zaavan at Acan.
+028	Ito ang mga anak ni Disan: sina Uz at Aran.
+029	Ito ang mga pinunong nagmula sa mga Horeo: ang mga pinunong sina Lotan, Sobal, Zibeon, at Ana,
+030	Dishon, Eser, at Disan.
+030	Ito ang mga pinunong nagmula sa mga Horeo ayon sa kanilang mga angkan, sa lupain ng Seir.
+031	Ito ang mga hari na nagsipaghari sa lupain ng Edom bago maghari ang sinumang hari sa angkan ni Israel.
+032	Si Bela na anak ni Beor ay naghari sa Edom; at ang pangalan ng kanyang bayan ay Dinhaba.
+033	Namatay si Bela, at naghari na kapalit niya si Jobab na anak ni Zera, na taga-Bosra.
+034	Namatay si Jobab at naghari na kapalit niya si Husam, na taga-lupain ng mga Temanita.
+035	Namatay si Husam at naghari na kapalit niya si Adad, na anak ni Badad, na siyang gumapi kay Midian sa parang ni Moab at ang pangalan ng kanyang bayan ay Avith.
+036	Namatay si Adad at naghari na kapalit niya si Samla na taga-Masreca.
+037	Namatay si Samla at naghari na kapalit niya si Shaul na taga-Rehobot na tabi ng Eufrates.
+038	Namatay si Shaul at naghari na kapalit niya si Baal-hanan na anak ni Acbor.
+039	Namatay si Baal-hanan na anak ni Acbor at naghari na kapalit niya si Adar; at ang pangalan ng kanyang bayan ay Pau; at ang pangalan ng kanyang asawa ay Mehetabel na anak ni Matred, na anak na babae ni Mezaab.
+040	Ito ang mga pangalan ng mga pinunong nagmula kay Esau, ayon sa kanya-kanyang angkan, ayon sa kanya-kanyang lugar, alinsunod sa kanya-kanyang pangalan: ang mga pinunong sina Timna, Alva, Jetet;
+041	Aholibama, Ela, Pinon.
+042	Kenaz, Teman, Mibzar.
+043	Magdiel, at Hiram.
+043	Ito ang mga pinuno ni Edom, ayon sa kanya-kanyang tinitirhan sa lupain na kanilang pag-aari.
+043	Siya ay si Esau na ama ng mga Edomita.

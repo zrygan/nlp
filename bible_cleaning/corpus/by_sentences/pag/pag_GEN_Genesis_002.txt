@@ -1,31 +1,35 @@
-Asumpal sirin ya apalsa so tawen tan dalin tan amin a logan da.
-Diad loob na anem agew asumpal na Dios a pinalsa ira yan amin, insan diad kumapiton agew nampainawa ed amin a kimey to.
-Binindisionan na Dios yan kumapiton agew tan imbiig ton sakey a masanton agew, ta diad sayan agew asumpal toy impamalsa tod ganagana tan nampainawa.
-Onya so istoria na inkapalsa na sansinakuban.
-Nen kayari na Katawan a Dios a pinalsa so tawen tan dalin, anggapo ni ray tanaman ed dalin odino bokel a tinmubo, lapud ag to ni pinaoran, tan anggapoy toon ondalus ed dalin.
-Balet pinmaway so danum ed saray sobul tan aparanuman so dalin.
-Insan say Katawan a Dios angalay dabuk ed dalin, minoli ton sakey a too-too, insan to iningasan na linawan manangiter na bilay ed saray abut na eleng to, et nagmaliw a mabilay a too.
-Insan say Katawan a Dios nanggawa na sakey a tanamanan diad bandad bokig a sakop na Eden, tan diman to impanayam imay toon minoli to.
-Pinatubo to rad may amin a klasiy mararakep a kiew tan pinabunga to ra na masasamit a prutas.
-Diad pegley na tanamanan so kawalaan na kiew a mangiiter na bilay, tan say kiew a mangiiter na pakaamta ed maung tan maoges.
-Walay ilog ya onaagos ed Eden tan sasalugen to may tanamanan; diad paway na Eden nansanga na apatiran ilog.
-Pison so ngaran na onaan ya ilog; onaagos ed kaliber-liber na bansa na Havila.
-Dia naalmoy puron balituk, tan pati nidoma-doman pabalingit tan saray ankablin batoy alahas.
-Gihon so ngaran na kumadwan ilog; onaagos ed kaliber-liber na bansa na Cus.
-Tigris so ngaran na kumatlon ilog; onaagos ed bandad bokig na Asiria, tan Eufrates so ngaran na kumapat ya ilog.
-Insan say Katawan a Dios inala to may too tan impasen tod tanamanan na Eden, pian nadalusan to tan naasikaso to.
-Ingganggan tod sikato, Nayarian mon kaney bunga na antokaman a kiew ed tanamanan, balet ag ka mamangan na bunga na samay kiew a mangiiter na pakaamta ed maung tan maoges.
-Ag nepeg a kanen so bunga na saman a kiew; ta no kanen mo, ompatey ka diad agew a pangan mo.
-Insan inkuan na Katawan a Dios, Aliwan maung a mambukbukor so too.
-Igawaan ko na sakey a manepeg a kaiba to tan katulongan to.
-Kanyan nanmoli na dalin tan sayan minoli to ginawa ton ayayep tan manomanok.
-Insan to ra inyakar ed samay too, ta nengnengen to no antoy pangingaran tod sikara.
-No antoy impanawag tod balang sakey, sikatoy ngaran to.
-Samay too sirin initdan toy kangaranan iray amin a manok tan ayayep; balet anggapod saraya so manepeg a kaiba to tan katulongan to.
-Insan say Katawan a Dios pinaogip toy malmalet imay too; nen naogip, angoyus na sakey ed saray taglang to may laki, insan to kinopit so laman ya angalaan to.
-Ginawa ton bii imay taglang, insan to inyakar ed samay laki.
-Inkuanto may laki, A, salamat, sikato yan siansiay kaparak.
-Pokel ya inalad saray pokel ko, tan laman ya inalad laman ko.
-Bii so ngaran to, ta inala ed laki.
-Sikato ya sirin so makasengeg no akin et taynan na laki so ama to tan say ina to tan mikasakey ed asawa to, et magmaliw iran saksakey a laman.
-Labus-lakseb imay laki tan samay asawa to, balet ag da ya imbaing.
+verse	content
+001	Asumpal sirin ya apalsa so tawen tan dalin tan amin a logan da.
+002	Diad loob na anem agew asumpal na Dios a pinalsa ira yan amin, insan diad kumapiton agew nampainawa ed amin a kimey to.
+003	Binindisionan na Dios yan kumapiton agew tan imbiig ton sakey a masanton agew, ta diad sayan agew asumpal toy impamalsa tod ganagana tan nampainawa.
+004	Onya so istoria na inkapalsa na sansinakuban.
+005	Nen kayari na Katawan a Dios a pinalsa so tawen tan dalin,
+006	anggapo ni ray tanaman ed dalin odino bokel a tinmubo, lapud ag to ni pinaoran, tan anggapoy toon ondalus ed dalin.
+007	Balet pinmaway so danum ed saray sobul tan aparanuman so dalin.
+008	Insan say Katawan a Dios angalay dabuk ed dalin, minoli ton sakey a too-too, insan to iningasan na linawan manangiter na bilay ed saray abut na eleng to, et nagmaliw a mabilay a too.
+009	Insan say Katawan a Dios nanggawa na sakey a tanamanan diad bandad bokig a sakop na Eden, tan diman to impanayam imay toon minoli to.
+010	Pinatubo to rad may amin a klasiy mararakep a kiew tan pinabunga to ra na masasamit a prutas.
+010	Diad pegley na tanamanan so kawalaan na kiew a mangiiter na bilay, tan say kiew a mangiiter na pakaamta ed maung tan maoges.
+011	Walay ilog ya onaagos ed Eden tan sasalugen to may tanamanan; diad paway na Eden nansanga na apatiran ilog.
+012	Pison so ngaran na onaan ya ilog; onaagos ed kaliber-liber na bansa na Havila.
+013	Dia naalmoy puron balituk, tan pati nidoma-doman pabalingit tan saray ankablin batoy alahas.
+014	Gihon so ngaran na kumadwan ilog; onaagos ed kaliber-liber na bansa na Cus.
+015	Tigris so ngaran na kumatlon ilog; onaagos ed bandad bokig na Asiria, tan Eufrates so ngaran na kumapat ya ilog.
+016	Insan say Katawan a Dios inala to may too tan impasen tod tanamanan na Eden, pian nadalusan to tan naasikaso to.
+017	Ingganggan tod sikato, Nayarian mon kaney bunga na antokaman a kiew ed tanamanan,
+018	balet ag ka mamangan na bunga na samay kiew a mangiiter na pakaamta ed maung tan maoges.
+018	Ag nepeg a kanen so bunga na saman a kiew; ta no kanen mo, ompatey ka diad agew a pangan mo.
+019	Insan inkuan na Katawan a Dios, Aliwan maung a mambukbukor so too.
+019	Igawaan ko na sakey a manepeg a kaiba to tan katulongan to.
+020	Kanyan nanmoli na dalin tan sayan minoli to ginawa ton ayayep tan manomanok.
+020	Insan to ra inyakar ed samay too, ta nengnengen to no antoy pangingaran tod sikara.
+020	No antoy impanawag tod balang sakey, sikatoy ngaran to.
+021	Samay too sirin initdan toy kangaranan iray amin a manok tan ayayep; balet anggapod saraya so manepeg a kaiba to tan katulongan to.
+022	Insan say Katawan a Dios pinaogip toy malmalet imay too; nen naogip, angoyus na sakey ed saray taglang to may laki, insan to kinopit so laman ya angalaan to.
+023	Ginawa ton bii imay taglang, insan to inyakar ed samay laki.
+024	Inkuanto may laki,
+025	A, salamat, sikato yan siansiay kaparak.
+026	Pokel ya inalad saray pokel ko, tan laman ya inalad laman ko.
+027	Bii so ngaran to, ta inala ed laki.
+028	Sikato ya sirin so makasengeg no akin et taynan na laki so ama to tan say ina to tan mikasakey ed asawa to, et magmaliw iran saksakey a laman.
+029	Labus-lakseb imay laki tan samay asawa to, balet ag da ya imbaing.

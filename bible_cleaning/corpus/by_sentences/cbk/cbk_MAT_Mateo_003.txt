@@ -1,24 +1,27 @@
-Durante aquel tiempo ya llega si Juan el Bautista y ta predica le na desierto de Judea.
-Y ta habla le, Arripinti ya el di ustedes maga pecado, cay cerca ya llega el tiempo para Dios ay principia ya reina.
-Antes pa, el profeta Isaias ta man cuento acerca di Juan cuando ya habla le, Tiene un gente ta anuncia gayot na desierto y ta habla le, Prepara ya el camino del Seor y hace limpio el lugar donde le ay pasa!
-Si Juan ta visti ropa hecho de pelo del camello, y ta usa le cinturon de cuero, y el di suyo comida amo el maga langostas y miel de panal.
-Ya anda para oi con Juan mucho maga gente del ciudad de Jerusalem y del entero provincia de Judea, y el maga gente tamen del entero lugar ambuslao del Rio de Jordan.
-Y ta confesa sila con Dios el di ila maga pecado, y si Juan ta bautisa canila na Rio de Jordan.
-Pero cuando ya mira le mucho del maga Pariseo y del maga Saduceo ta vene para manda con ele bautisa canila, ya habla le, Ustedes maga gente igual con el maga culebra que ta precura escapa con el fuego.
-Quien ba ya adverti con ustedes para precura ustedes escapa el castigo de Dios?
-Anda ya ustedes y hace el trabajo que puede dale mira con el maga gente que ustedes ta arripinti ya el di ustedes maga pecado.
-Y no gayot pensa que puede ustedes escapa el justicia de Dios por causa cay si Abraham el di ustedes tatarabuelo, cay ta habla gayot yo claro con ustedes, que masquin con este maga piedra Dios ay puede hace maga decendiente di Abraham.
-El hacha preparao ya para corta el palo hasta el ultimo reis, cay sabe kita todo el palo que hende ta dale buen fruta ay corta lang para quema.
-Ta bautisa lang yo con ustedes con agua para dale mira que ustedes ta arripinti, pero tiene un persona quien ay vene pa atras di mio y ele mas poderoso que conmigo.
-Hende yo merece masquin para carga ya lang el di suyo sandalias.
-Y ele amo ay bautisa con ustedes con el Espiritu Santo, y ay bautisa tamen le con fuego.
-Por ejemplo, ele como un gente quien ay limpia el lugar donde le ay trilla.
-Despues ay trilla le el palay para separa el palay con el ojote, y despues ay pone le el palay na saco pero el ojote ay quema lang.
-Aquel mismo tiempo si Jesus ya sale na Galilea, y ya anda le con Juan para si Juan ay bautisa con ele na Rio de Jordan.
-Pero si Juan ya protesta y ya habla, Porque man uste ay vene conmigo para bautisa yo con uste?
-Conviene uste ay bautisa conmigo!
-Pero si Jesus ya contesta con ele, Necesita kita hace ansina para cumpli todo el maga mandamiento de Dios.
-Entonces si Juan ya consinti.
-Apenas si Jesus ya recibi el bautismo, ya sale le dayun na agua.
-Despues ya mira le el cielo como abierto ya, y ya mira tamen ele con el Espiritu Santo ta abaja para con ele na forma de un paloma.
-Y despues ta sale na cielo el voz de Dios que ta habla, Este amo el di mio Hijo con quien ta ama gayot yo, y bien alegre tamen yo con ele.
+verse	content
+001	Durante aquel tiempo ya llega si Juan el Bautista y ta predica le na desierto de Judea.
+001	Y ta habla le,
+002	Arripinti ya el di ustedes maga pecado, cay cerca ya llega el tiempo para Dios ay principia ya reina.
+003	Antes pa, el profeta Isaias ta man cuento acerca di Juan cuando ya habla le,
+004	Tiene un gente ta anuncia gayot na desierto y ta habla le, Prepara ya el camino del Seor y hace limpio el lugar donde le ay pasa!
+005	Si Juan ta visti ropa hecho de pelo del camello, y ta usa le cinturon de cuero, y el di suyo comida amo el maga langostas y miel de panal.
+006	Ya anda para oi con Juan mucho maga gente del ciudad de Jerusalem y del entero provincia de Judea, y el maga gente tamen del entero lugar ambuslao del Rio de Jordan.
+007	Y ta confesa sila con Dios el di ila maga pecado, y si Juan ta bautisa canila na Rio de Jordan.
+008	Pero cuando ya mira le mucho del maga Pariseo y del maga Saduceo ta vene para manda con ele bautisa canila, ya habla le, Ustedes maga gente igual con el maga culebra que ta precura escapa con el fuego.
+008	Quien ba ya adverti con ustedes para precura ustedes escapa el castigo de Dios?
+009	Anda ya ustedes y hace el trabajo que puede dale mira con el maga gente que ustedes ta arripinti ya el di ustedes maga pecado.
+010	Y no gayot pensa que puede ustedes escapa el justicia de Dios por causa cay si Abraham el di ustedes tatarabuelo, cay ta habla gayot yo claro con ustedes, que masquin con este maga piedra Dios ay puede hace maga decendiente di Abraham.
+011	El hacha preparao ya para corta el palo hasta el ultimo reis, cay sabe kita todo el palo que hende ta dale buen fruta ay corta lang para quema.
+012	Ta bautisa lang yo con ustedes con agua para dale mira que ustedes ta arripinti, pero tiene un persona quien ay vene pa atras di mio y ele mas poderoso que conmigo.
+012	Hende yo merece masquin para carga ya lang el di suyo sandalias.
+012	Y ele amo ay bautisa con ustedes con el Espiritu Santo, y ay bautisa tamen le con fuego.
+013	Por ejemplo, ele como un gente quien ay limpia el lugar donde le ay trilla.
+013	Despues ay trilla le el palay para separa el palay con el ojote, y despues ay pone le el palay na saco pero el ojote ay quema lang.
+014	Aquel mismo tiempo si Jesus ya sale na Galilea, y ya anda le con Juan para si Juan ay bautisa con ele na Rio de Jordan.
+015	Pero si Juan ya protesta y ya habla, Porque man uste ay vene conmigo para bautisa yo con uste?
+015	Conviene uste ay bautisa conmigo!
+016	Pero si Jesus ya contesta con ele, Necesita kita hace ansina para cumpli todo el maga mandamiento de Dios.
+016	Entonces si Juan ya consinti.
+017	Apenas si Jesus ya recibi el bautismo, ya sale le dayun na agua.
+017	Despues ya mira le el cielo como abierto ya, y ya mira tamen ele con el Espiritu Santo ta abaja para con ele na forma de un paloma.
+018	Y despues ta sale na cielo el voz de Dios que ta habla, Este amo el di mio Hijo con quien ta ama gayot yo, y bien alegre tamen yo con ele.

@@ -1,48 +1,53 @@
-Nangasawa si Abraham ug laing babaye nga ginganlag Ketura.
-Nanganak si Ketura kang Zimran, Jocsan, Medan, Midian, Isbac ug Shua.
-Si Jocsan maoy amahan ni Sheba ug ni Dedan ug ang mga anak ni Dedan mao sila si Asurim, Letusim ug si Leumim.
-Ang mga anak ni Midian mao sila si Epa, Eper, Hanoc, Abida ug si Eldaa.
-Kini silang tanan mga kaliwat ni Ketura.
-Si Isaac maoy gipasunod ni Abraham sa iyang kabtangan.
-Apan sa wala pa mamatay si Abraham gihatagan niyag mga gasa ang mga anak niya sa uban niyang mga puyopuyo ug gipaadto niya sila sa silangan aron mahilayo sa iyang anak nga si Isaac.
-Miabot si Abraham sa edad nga 175.
-Namatay siya nga tigulang na kaayo ug natipon ngadto sa iyang katawhan.
-Gilubong siya ni Isaac ug ni Ismael didto sa langub sa Macpela, sa uma ni Efron nga anak ni Zohar nga Hitihanon, sa silangan sa Mamre.
-Ang maong uma napalit ni Abraham gikan sa mga Hitihanon.
-Didto gilubong si Abraham sa gilubngan sa iyang asawa nga si Sara.
-Sa namatay na si Abraham, gipanalanginan sa Dios si Isaac nga didto magpuyo duol sa atabay sa Beerla-hai-roi.
-Mao kini ang mga kaliwat ni Ismael, ang anak ni Abraham kang Agar nga Ehiptohanon nga ulipon ni Sara.
-Ang mga ngalan nila gikan sa kamagulangan ngadto sa kamanghoran mao kining mosunod: Nebaiot, Kedar, Adbeel, Mibsam, Misma, Duma, Masa, Hadad, Tema, Jetur, Napis ug si Kedema.
-Mao kini ang mga anak nga lalaki ni Ismael ug ang ilang mga ngalan mao ang ngalan sa ilang mga balangay ug mga kampohanan12 sila ka pangulo, usa sa matag tribo.
-Ang edad ni Ismael 137 dihang namatay siya ug gilubong siya tipon sa iyang katawhan.
-Nagpuyo ang mga kaliwat ni Ismael sa tungatunga sa Habila ug sa Shur, sa silangan sa Ehipto paingon sa Asiria.
-Milain sila pagpuyo sa tanan nilang kaparyentihan.
-Mao kini ang sugilanon mahitungod ni Isaac nga anak ni Abraham.
-Si Isaac nag-edad na ug 40 sa dihang nangasawa siya kang Rebecca nga anak ni Betuel nga taga-Aramea sa Mesopotamia.
-Si Rebecca igsoon ni Laban nga taga-Aramea usab.
-Wala manganak ang asawa ni Isaac.
-Busa nag-ampo siya sa Ginoo .
-Gidungog sa Ginoo ang iyang pag-ampo ug nagmabdos si Rebecca.
-Sa nagdinut-anay na ang kaluha sulod sa iyang tiyan, miingon si Rebecca, Nganong ingon man niini ang nahitabo kanako?
-Ug nag-ampo siya sa Ginoo aron pagpakisayod kon unsay angay niyang buhaton.
-Unya miingon ang Ginoo kaniya, Duha ka nasod ang anaa sa imong tiyan.
-Manganak ka ug duha ka katawhan nga magkontrahay.
-Ang usa mahimong mas gamhanan kay sa usa, ang magulang mahimong sulugoon sa manghod.
-Nanganak si Rebecca ug kaluhang lalaki.
-Ang unang gianak may pagkapula ug pamanit ug balhiboon busa ginganlan nila siyag Esau.
-Sa pagkatawo na sa iyang kaluha, nagkupot siya sa tikod ni Esau busa ginganlan siyag Jacob.
-Nag-edad na ug 60 si Isaac sa dihang nangatawo sila.
-Sa dagko na ang mga bata, nahimong batid nga mangangayam si Esau.
-Gusto siyang magsuroysuroy sa kapatagan samtang si Jacob hilomon ug gusto nga anha ra sa balay.
-Pinangga ni Isaac si Esau kay gusto man siyang mokaon sa mga inayaman ni Esau apan si Jacob maoy pinangga ni Rebecca.
-Usa niana ka adlaw, samtang naglata si Jacob ug mga liso, nahiuli si Esau gikan nga nangayam sa kapatagan.
-Gigutom siya ug miingon kang Jacob, Pakan-a ako nianang imong sabawng pula kay gigutom ako.
-Tungod niini ginganlan siyag Edom.
-Apan si Jacob mitubag, Pakan-on ko ikaw niini kon ihatag mo kanako ang imong mga katungod sa pagkamagulang.
-Miingon si Esau, Oo, ihatag ko!
-Unsa may kapuslanan sa akong katungod sa pagkamagulang kon mamatay ako karon sa kagutom?
-Si Jacob mitubag, Panumpa una nga ihatag mo gayod kanako ang imong mga katungod.
-Busa nanumpa si Esau ug iyang gibaligya kang Jacob ang iyang mga katungod sa pagkamagulang.
-Unya gihatagan siya ni Jacob ug pipila ka buok pan ug linat-ang mga liso.
-Ug gikaon niya kini unya miinom ug milakaw.
-Sa ingon niining paagiha gipakawalay bili niya ang iyang mga katungod sa pagkamagulang.
+verse	content
+001	Nangasawa si Abraham ug laing babaye nga ginganlag Ketura.
+002	Nanganak si Ketura kang Zimran, Jocsan, Medan, Midian, Isbac ug Shua.
+003	Si Jocsan maoy amahan ni Sheba ug ni Dedan ug ang mga anak ni Dedan mao sila si Asurim, Letusim ug si Leumim.
+004	Ang mga anak ni Midian mao sila si Epa, Eper, Hanoc, Abida ug si Eldaa.
+004	Kini silang tanan mga kaliwat ni Ketura.
+005	Si Isaac maoy gipasunod ni Abraham sa iyang kabtangan.
+006	Apan sa wala pa mamatay si Abraham gihatagan niyag mga gasa ang mga anak niya sa uban niyang mga puyopuyo ug gipaadto niya sila sa silangan aron mahilayo sa iyang anak nga si Isaac.
+007	Miabot si Abraham sa edad nga 175.
+008	Namatay siya nga tigulang na kaayo ug natipon ngadto sa iyang katawhan.
+009	Gilubong siya ni Isaac ug ni Ismael didto sa langub sa Macpela, sa uma ni Efron nga anak ni Zohar nga Hitihanon, sa silangan sa Mamre.
+010	Ang maong uma napalit ni Abraham gikan sa mga Hitihanon.
+010	Didto gilubong si Abraham sa gilubngan sa iyang asawa nga si Sara.
+011	Sa namatay na si Abraham, gipanalanginan sa Dios si Isaac nga didto magpuyo duol sa atabay sa Beerla-hai-roi.
+012	Mao kini ang mga kaliwat ni Ismael, ang anak ni Abraham kang Agar nga Ehiptohanon nga ulipon ni Sara.
+013	Ang mga ngalan nila gikan sa kamagulangan ngadto sa kamanghoran mao kining mosunod: Nebaiot, Kedar, Adbeel, Mibsam,
+014	Misma, Duma, Masa,
+015	Hadad, Tema, Jetur, Napis ug si Kedema.
+016	Mao kini ang mga anak nga lalaki ni Ismael ug ang ilang mga ngalan mao ang ngalan sa ilang mga balangay ug mga kampohanan12 sila ka pangulo, usa sa matag tribo.
+017	Ang edad ni Ismael 137 dihang namatay siya ug gilubong siya tipon sa iyang katawhan.
+018	Nagpuyo ang mga kaliwat ni Ismael sa tungatunga sa Habila ug sa Shur, sa silangan sa Ehipto paingon sa Asiria.
+018	Milain sila pagpuyo sa tanan nilang kaparyentihan.
+019	Mao kini ang sugilanon mahitungod ni Isaac nga anak ni Abraham.
+020	Si Isaac nag-edad na ug 40 sa dihang nangasawa siya kang Rebecca nga anak ni Betuel nga taga-Aramea sa Mesopotamia.
+020	Si Rebecca igsoon ni Laban nga taga-Aramea usab.
+021	Wala manganak ang asawa ni Isaac.
+021	Busa nag-ampo siya sa Ginoo .
+021	Gidungog sa Ginoo ang iyang pag-ampo ug nagmabdos si Rebecca.
+022	Sa nagdinut-anay na ang kaluha sulod sa iyang tiyan, miingon si Rebecca, Nganong ingon man niini ang nahitabo kanako?
+022	Ug nag-ampo siya sa Ginoo aron pagpakisayod kon unsay angay niyang buhaton.
+023	Unya miingon ang Ginoo kaniya,
+024	Duha ka nasod ang anaa sa imong tiyan.
+025	Manganak ka ug duha ka katawhan nga magkontrahay.
+026	Ang usa mahimong mas gamhanan kay sa usa,
+027	ang magulang mahimong sulugoon sa manghod.
+028	Nanganak si Rebecca ug kaluhang lalaki.
+029	Ang unang gianak may pagkapula ug pamanit ug balhiboon busa ginganlan nila siyag Esau.
+030	Sa pagkatawo na sa iyang kaluha, nagkupot siya sa tikod ni Esau busa ginganlan siyag Jacob.
+030	Nag-edad na ug 60 si Isaac sa dihang nangatawo sila.
+031	Sa dagko na ang mga bata, nahimong batid nga mangangayam si Esau.
+031	Gusto siyang magsuroysuroy sa kapatagan samtang si Jacob hilomon ug gusto nga anha ra sa balay.
+032	Pinangga ni Isaac si Esau kay gusto man siyang mokaon sa mga inayaman ni Esau apan si Jacob maoy pinangga ni Rebecca.
+033	Usa niana ka adlaw, samtang naglata si Jacob ug mga liso, nahiuli si Esau gikan nga nangayam sa kapatagan.
+034	Gigutom siya ug miingon kang Jacob, Pakan-a ako nianang imong sabawng pula kay gigutom ako.
+034	Tungod niini ginganlan siyag Edom.
+035	Apan si Jacob mitubag, Pakan-on ko ikaw niini kon ihatag mo kanako ang imong mga katungod sa pagkamagulang.
+036	Miingon si Esau, Oo, ihatag ko!
+036	Unsa may kapuslanan sa akong katungod sa pagkamagulang kon mamatay ako karon sa kagutom?
+037	Si Jacob mitubag, Panumpa una nga ihatag mo gayod kanako ang imong mga katungod.
+038	Busa nanumpa si Esau ug iyang gibaligya kang Jacob ang iyang mga katungod sa pagkamagulang.
+039	Unya gihatagan siya ni Jacob ug pipila ka buok pan ug linat-ang mga liso.
+039	Ug gikaon niya kini unya miinom ug milakaw.
+039	Sa ingon niining paagiha gipakawalay bili niya ang iyang mga katungod sa pagkamagulang.

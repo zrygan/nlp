@@ -1,56 +1,59 @@
-En kahariyan dilanget ay meparehu ten essa a tolay a maagap a tarud a lummuwas tnni magaryok ti magtarabahu ten kaubasan na.
-Ten dikona a magkasundu dn hidi ti upa a essa a dinaryo ti maghapun ay angay na dn hidi pinagtarabahu ten kaubasan na.
-Ten dikona a magalas nuwebi dn ten dimadimang ay lummuwas siya a ruway sakay naketa siya ti agum pa a palakad-lakad la ten palengki.
-Kinagi na dikodi, Angay kam bi magtarabahu ten kaubasan ku ta upaan takam ti tama a pggupa.
-Kaya ummangay bi hidi.
-Linumuwas dmman siya ten tanghali dn, sakay dikona magalas tres dn ten apon, ay kona labi hud en ginamet na.
-Ten dikona a magalasingku dn ten apon ay linumuwas siya a ruway sakay naketa pa ti katolayan a awan ti gamet.
-Kinagi na dikodi, Bakin a ked kam la hddi a mgtataknggn a maghapun?
-Tummbbig hidi, Awan biyay bi ti mangatd dikomi ti tarabahu!
-Sakay kinagi na dikodi, Ni kona bl hud ay kammoy dn magtarabahu ten kaubasan ku.
-Nadid, dikona apon dn ay kinagi nen makkkao ten kaubasan ten katiwala na, Angay mu dn dulawn en nagtarabahu hidi sakay upaan mu hidi.
-Sapul ten kadimudyanan hanggan ten kapurumeruwan a nagtarabahu.
-En nagsapul hidi ten magalasingku ten apon ay nakatanggap ti essa a denaryo.
-Sakay ten dikona a ummadeni en ngdipalongu hidi a nagtarabahu ay inisip di a makatanggap hidi ti mas higit haud; peru en balang essa dikodi ay tummanggap bi ti tatggessa di a dinaryo.
-Ten pkkatanggap di ten upa di ay nagreklamu hidi ten makkkao ten kaubasan.
-Kinagi di, Bakin konahud, en dimudyan hidi a dummemt ay essa la hidi a odas a nagtarabahu.
-Peru inupaan moy hidi ti kona ten upa mi.
-Samantala sikami ay ngtatiisn ten makapasi a init nen aldew ten buu a maghapun.
-Bakin pare-parehu la en inyupa moy dikomi?
-Sakay kinagi nen makkkao ten kaubasan ten essa dikodi, Amigu ku, awan taka dinaya.
-Awan beman pummayag ka ten essa a dinaryo a bayad moy?
-Alapn mu dn i upa muwen sakay maglakad ka dn.
-Upaan ku en dimudyan hidi ti kona ten upa mu ni gustu ku.
-Awank beman ti karapatan a manggamet ten gustu ku ten sadili ku a ari-ariyan?
-Oni bakay sumeni kam la gapu ten kabaitan ku?
-Kaya kinagi ni Jesus dikodi, En dimudyan ay medipalongu, sakay en nedipalongu ay medimudyan.
-Nadid, ten dikona a maglakad de Jesus a patamu ti Jerusalem ay imbukud na en sapulu ay ti duwwa a disepulus na hidi.
-Sakay kinagi na dikodi, Ilingn moy, umangay kitam ti Jerusalem.
-Itokyon di haud en Anak nen Tolay ten pinunu hidi nen padi hidi sakay ten tagapagtoldu hidi nen Kautusan.
-Hatulan di siya ti kamatayan, sakay iyatd di ten Hentil hidi.
-Insultuwn di siya, haplitn, sakay ipaku di ten kudus, peru ten katllu a aldew ay biyagn siya a ruway.
-Nadid, ummadeni knni Jesus en kabinga ni Zebedeo, kaguman na en duwwa na a anak a lllaki.
-Linumuhud siya ten atubengn ni Jesus gapu tehud siya a ipkpgguron.
-Tinanung siya ni Jesus, nya i gustu muwid?
-Tummbbig en bbbi, Nakuwan ay ni maghari ka dn ay paetnudn mu a kadatig mu i anak kuwidi a duwwa.
-Essa ten kawiri sakay essa ten kawanan.
-Peru tummbbig ti Jesus, Awan moy tukoy ni nya i agidn moyen.
-Kaya moy beman a tiisn en hirap a tiisn ku?
-Tummbbig hidi, Opo, kaya mi.
-Sakay kinagi ni Jesus, En hirap a tiisn ku ay matiis moy ngani.
-Peru bakn a sikn i mangpiliyid ni ti deya en mggetnud ten kawanan ku sakay ten kawiri ku.
-Hidi iyn a pggetnudan ay para ten pinnghandaan nen Ama ku.
-Ten dikona a masanig iyud nen sapulu a disepulus ay nagsaranta hidi ten matkaka.
-Kaya pinaadeni hidi ni Jesus sakay kinagi na dikodi, Tukoy moy a en pinunu nen Hentil hidi en maghari ten nasakupan na, sakay hidi en masunud ni nya en gustu di.
-Peru bakn a konahud i dapatid a mangyari dikomoy.
-Nan ni deya en masor a magin pinunu ay dapat a magin tagapagserbi nen agum.
-Sakay ni deyaman en masor a magin kataasan ay dapat a magin alipin moy.
-Kona ten Anak nen Tolay ay ummangay hddi bakn a para pagserbiyan nan para magserbi sakay iyalay na en biyag na para matubus en makpal a tolay.
-Dikona lumakad hidi ti Jerico ay ummunud knni Jesus en tunay ti kakpal a tolay.
-Tehud a duwwa a burk a mggetnud ten gilid nen dilan.
-Ten dikona a masanig di a magtalib ti Jesus ay impppkraw di a, Panginoon, Anak ni David, kagbiyan mu kami pay!
-Pinagkagiyan hidi nen katolayan a mgtahimik hidi, peru tulos di la impppkraw a, Panginoon, Anak ni David, kagbiyan mu kami pay!
-Ummimang ti Jesus, dinulaw na hidi sakay tinanung na hidi, nya i gustu moyid a gamitn ku dikomoy?
-Tummbbig hidi, Panginoon, gustu mi a maketa a ruway!
-Kinagbiyan hidi ni Jesus sakay tinawidan na en mata di.
-Pagdaka hidi a naketa sakay nkkuyug hidi dikona.
+verse	content
+001	En kahariyan dilanget ay meparehu ten essa a tolay a maagap a tarud a lummuwas tnni magaryok ti magtarabahu ten kaubasan na.
+002	Ten dikona a magkasundu dn hidi ti upa a essa a dinaryo ti maghapun ay angay na dn hidi pinagtarabahu ten kaubasan na.
+003	Ten dikona a magalas nuwebi dn ten dimadimang ay lummuwas siya a ruway sakay naketa siya ti agum pa a palakad-lakad la ten palengki.
+004	Kinagi na dikodi, Angay kam bi magtarabahu ten kaubasan ku ta upaan takam ti tama a pggupa.
+004	Kaya ummangay bi hidi.
+005	Linumuwas dmman siya ten tanghali dn, sakay dikona magalas tres dn ten apon, ay kona labi hud en ginamet na.
+006	Ten dikona a magalasingku dn ten apon ay linumuwas siya a ruway sakay naketa pa ti katolayan a awan ti gamet.
+006	Kinagi na dikodi, Bakin a ked kam la hddi a mgtataknggn a maghapun?
+007	Tummbbig hidi, Awan biyay bi ti mangatd dikomi ti tarabahu!
+007	Sakay kinagi na dikodi, Ni kona bl hud ay kammoy dn magtarabahu ten kaubasan ku.
+008	Nadid, dikona apon dn ay kinagi nen makkkao ten kaubasan ten katiwala na, Angay mu dn dulawn en nagtarabahu hidi sakay upaan mu hidi.
+008	Sapul ten kadimudyanan hanggan ten kapurumeruwan a nagtarabahu.
+009	En nagsapul hidi ten magalasingku ten apon ay nakatanggap ti essa a denaryo.
+010	Sakay ten dikona a ummadeni en ngdipalongu hidi a nagtarabahu ay inisip di a makatanggap hidi ti mas higit haud; peru en balang essa dikodi ay tummanggap bi ti tatggessa di a dinaryo.
+011	Ten pkkatanggap di ten upa di ay nagreklamu hidi ten makkkao ten kaubasan.
+012	Kinagi di, Bakin konahud, en dimudyan hidi a dummemt ay essa la hidi a odas a nagtarabahu.
+012	Peru inupaan moy hidi ti kona ten upa mi.
+012	Samantala sikami ay ngtatiisn ten makapasi a init nen aldew ten buu a maghapun.
+012	Bakin pare-parehu la en inyupa moy dikomi?
+013	Sakay kinagi nen makkkao ten kaubasan ten essa dikodi, Amigu ku, awan taka dinaya.
+013	Awan beman pummayag ka ten essa a dinaryo a bayad moy?
+014	Alapn mu dn i upa muwen sakay maglakad ka dn.
+014	Upaan ku en dimudyan hidi ti kona ten upa mu ni gustu ku.
+015	Awank beman ti karapatan a manggamet ten gustu ku ten sadili ku a ari-ariyan?
+015	Oni bakay sumeni kam la gapu ten kabaitan ku?
+016	Kaya kinagi ni Jesus dikodi, En dimudyan ay medipalongu, sakay en nedipalongu ay medimudyan.
+017	Nadid, ten dikona a maglakad de Jesus a patamu ti Jerusalem ay imbukud na en sapulu ay ti duwwa a disepulus na hidi.
+017	Sakay kinagi na dikodi,
+018	Ilingn moy, umangay kitam ti Jerusalem.
+018	Itokyon di haud en Anak nen Tolay ten pinunu hidi nen padi hidi sakay ten tagapagtoldu hidi nen Kautusan.
+018	Hatulan di siya ti kamatayan,
+019	sakay iyatd di ten Hentil hidi.
+019	Insultuwn di siya, haplitn, sakay ipaku di ten kudus, peru ten katllu a aldew ay biyagn siya a ruway.
+020	Nadid, ummadeni knni Jesus en kabinga ni Zebedeo, kaguman na en duwwa na a anak a lllaki.
+020	Linumuhud siya ten atubengn ni Jesus gapu tehud siya a ipkpgguron.
+021	Tinanung siya ni Jesus, nya i gustu muwid?
+022	Tummbbig en bbbi, Nakuwan ay ni maghari ka dn ay paetnudn mu a kadatig mu i anak kuwidi a duwwa.
+022	Essa ten kawiri sakay essa ten kawanan.
+023	Peru tummbbig ti Jesus, Awan moy tukoy ni nya i agidn moyen.
+023	Kaya moy beman a tiisn en hirap a tiisn ku?
+024	Tummbbig hidi, Opo, kaya mi.
+025	Sakay kinagi ni Jesus, En hirap a tiisn ku ay matiis moy ngani.
+025	Peru bakn a sikn i mangpiliyid ni ti deya en mggetnud ten kawanan ku sakay ten kawiri ku.
+025	Hidi iyn a pggetnudan ay para ten pinnghandaan nen Ama ku.
+026	Ten dikona a masanig iyud nen sapulu a disepulus ay nagsaranta hidi ten matkaka.
+027	Kaya pinaadeni hidi ni Jesus sakay kinagi na dikodi, Tukoy moy a en pinunu nen Hentil hidi en maghari ten nasakupan na, sakay hidi en masunud ni nya en gustu di.
+028	Peru bakn a konahud i dapatid a mangyari dikomoy.
+028	Nan ni deya en masor a magin pinunu ay dapat a magin tagapagserbi nen agum.
+029	Sakay ni deyaman en masor a magin kataasan ay dapat a magin alipin moy.
+030	Kona ten Anak nen Tolay ay ummangay hddi bakn a para pagserbiyan nan para magserbi sakay iyalay na en biyag na para matubus en makpal a tolay.
+031	Dikona lumakad hidi ti Jerico ay ummunud knni Jesus en tunay ti kakpal a tolay.
+032	Tehud a duwwa a burk a mggetnud ten gilid nen dilan.
+032	Ten dikona a masanig di a magtalib ti Jesus ay impppkraw di a, Panginoon, Anak ni David, kagbiyan mu kami pay!
+033	Pinagkagiyan hidi nen katolayan a mgtahimik hidi, peru tulos di la impppkraw a, Panginoon, Anak ni David, kagbiyan mu kami pay!
+034	Ummimang ti Jesus, dinulaw na hidi sakay tinanung na hidi, nya i gustu moyid a gamitn ku dikomoy?
+035	Tummbbig hidi, Panginoon, gustu mi a maketa a ruway!
+036	Kinagbiyan hidi ni Jesus sakay tinawidan na en mata di.
+036	Pagdaka hidi a naketa sakay nkkuyug hidi dikona.

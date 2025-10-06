@@ -1,47 +1,50 @@
-Nang magkagayo'y nagpatuloy si Jacob sa kanyang paglalakbay, at nagtungo sa lupain ng mga tao sa silangan.
-Siya'y tumingin at nakakita ng isang balon sa parang.
-May tatlong kawan ng mga tupa na nagpapahinga sa tabi roon, sapagkat sa balong iyon pinaiinom ang mga kawan.
-Ang batong nasa ibabaw ng labi ng balon ay napakalaki, at kapag nagkakatipon doon ang lahat ng kawan, iginugulong ng mga pastol ang batong nasa ibabaw ng labi ng balon, at pinaiinom ang mga tupa, at muling inilalagay ang bato sa kanyang lugar sa ibabaw ng balon.
-Sinabi sa kanila ni Jacob, Mga kapatid ko, taga-saan kayo?
-At kanilang sinabi, Taga-Haran kami.
-Sinabi niya sa kanila, Kilala ba ninyo si Laban na anak ni Nahor?
-At kanilang sinabi, Kilala namin siya.
-Sinabi niya sa kanila, Siya ba'y mabuti ang kalagayan?
-At kanilang sinabi, Oo; at narito ang kanyang anak na si Raquel na dumarating kasama ang mga tupa!
-Sinabi niya, Tingnan ninyo, maaga pa, hindi pa oras upang tipunin ang mga hayop; painumin ninyo ang mga tupa, at inyo silang pastulin.
-Subalit sinabi nila, Hindi namin magagawa hangga't hindi natitipong lahat ang kawan, at maigulong ang bato mula sa labi ng balon; at saka lamang namin paiinumin ang mga tupa.
-Samantalang nakikipag-usap pa siya sa kanila, dumating si Raquel kasama ang mga tupa ng kanyang ama; sapagkat siya ang nag-aalaga ng mga iyon.
-Nang makita ni Jacob si Raquel na anak ni Laban, na kapatid ng kanyang ina, at ang mga tupa ni Laban, lumapit si Jacob at iginulong ang bato mula sa labi ng balon at pinainom ang kawan ni Laban.
-Hinagkan ni Jacob si Raquel at umiyak nang malakas.
-Sinabi ni Jacob kay Raquel na siya'y kamag-anak ni Laban na kanyang ama, at anak siya ni Rebecca.
-Kaya't tumakbo si Raquel at sinabi sa kanyang ama.
-Nang marinig ni Laban ang balita ni Jacob na anak ng kanyang kapatid, tumakbo siya upang salubungin si Jacob at ito ay kanyang niyakap, hinagkan, at dinala sa kanyang bahay.
-Isinalaysay ni Jacob kay Laban ang lahat ng mga bagay na ito at sinabi sa kanya ni Laban, Talagang ikaw ay aking buto at aking laman.
-At siya'y tumigil doong kasama niya ng isang buwan.
-At sinabi ni Laban kay Jacob, Hindi ba't ikaw ay aking kamag-anak?
-Dapat ka bang maglingkod sa akin nang walang upa?
-Sabihin mo sa akin, ano ang magiging upa mo?
-May dalawang anak na babae si Laban; ang pangalan ng panganay ay Lea, at ang bunso ay si Raquel.
-Ang mga mata ni Lea ay mapupungay; at si Raquel ay magandang kumilos at kahali-halina.
-Mahal ni Jacob si Raquel; kaya't kanyang sinabi, Paglilingkuran kita ng pitong taon dahil kay Raquel na iyong anak na bunso.
-Sinabi ni Laban, Mas mabuti na ibigay ko siya sa iyo kaysa ibigay ko siya sa iba; tumira ka sa akin.
-At naglingkod si Jacob ng pitong taon dahil kay Raquel, na sa kanya'y naging parang ilang araw dahil sa pag-ibig niya sa kanya.
-Sinabi ni Jacob kay Laban, Ibigay mo sa akin ang aking asawa sapagkat naganap na ang aking mga araw at hayaan mong ako'y sumiping sa kanya.
-Tinipong lahat ni Laban ang mga tao roon at siya'y gumawa ng isang handaan.
-Kinagabihan, kanyang kinuha si Lea na kanyang anak at dinala kay Jacob na sumiping naman sa kanya.
-Ibinigay ni Laban kay Lea ang kanyang alilang babae na si Zilpa upang kanyang maging alila.
-Kinaumagahan, si Lea pala iyon!
-At kanyang sinabi kay Laban, Ano itong ginawa mo sa akin?
-Hindi ba pinaglingkuran kita dahil kay Raquel?
-Bakit mo ako dinaya?
-Sinabi ni Laban, Hindi ganyan ang kaugalian dito sa aming lupain, na ibinibigay ang bunso bago ang panganay.
-Tapusin mo ang linggong ito, at ibibigay rin namin sa iyo ang isa, bilang kapalit sa paglilingkod na gagawin mo sa akin na pitong taon pa.
-Ganoon ang ginawa ni Jacob, at tinapos niya ang linggo niya, at ibinigay ni Laban sa kanya si Raquel na kanyang anak upang maging asawa niya.
-Sa kanyang anak na si Raquel ay ibinigay ni Laban bilang alilang babae ang kanyang alilang si Bilha.
-Kaya't sumiping din si Jacob kay Raquel, at inibig si Raquel nang higit kaysa kay Lea; at naglingkod siya kay Laban ng pitong taon pa.
-Nang makita ng Panginoon na si Lea ay kinapootan, binuksan niya ang kanyang bahay-bata; subalit si Raquel ay baog.
-Naglihi si Lea at nanganak ng isang lalaki, at tinawag niyang Ruben; sapagkat kanyang sinabi, Sapagkat tiningnan ng Panginoon ang aking kapighatian; kaya't ngayo'y mamahalin ako ng aking asawa.
-Muli siyang naglihi at nanganak ng isang lalaki at sinabi, Sapagkat narinig ng Panginoon na ako'y kinapopootan, ibinigay rin niya sa akin ito; at tinawag niyang Simeon.
-Muli siyang naglihi at nanganak ng isang lalaki, at nagsabi, Ngayo'y makakasama ko na ang aking asawa, sapagkat nagkaanak ako sa kanya ng tatlong lalaki; kaya't ang kanyang pangalan ay Levi.
-At muli siyang naglihi at nanganak ng isang lalaki, at nagsabi, Ngayo'y pupurihin ko ang Panginoon .
-Kaya't tinawag niyang Juda; at hindi na siya nanganak.
+verse	content
+001	Nang magkagayo'y nagpatuloy si Jacob sa kanyang paglalakbay, at nagtungo sa lupain ng mga tao sa silangan.
+002	Siya'y tumingin at nakakita ng isang balon sa parang.
+002	May tatlong kawan ng mga tupa na nagpapahinga sa tabi roon, sapagkat sa balong iyon pinaiinom ang mga kawan.
+002	Ang batong nasa ibabaw ng labi ng balon ay napakalaki,
+003	at kapag nagkakatipon doon ang lahat ng kawan, iginugulong ng mga pastol ang batong nasa ibabaw ng labi ng balon, at pinaiinom ang mga tupa, at muling inilalagay ang bato sa kanyang lugar sa ibabaw ng balon.
+004	Sinabi sa kanila ni Jacob, Mga kapatid ko, taga-saan kayo?
+004	At kanilang sinabi, Taga-Haran kami.
+005	Sinabi niya sa kanila, Kilala ba ninyo si Laban na anak ni Nahor?
+005	At kanilang sinabi, Kilala namin siya.
+006	Sinabi niya sa kanila, Siya ba'y mabuti ang kalagayan?
+006	At kanilang sinabi, Oo; at narito ang kanyang anak na si Raquel na dumarating kasama ang mga tupa!
+007	Sinabi niya, Tingnan ninyo, maaga pa, hindi pa oras upang tipunin ang mga hayop; painumin ninyo ang mga tupa, at inyo silang pastulin.
+008	Subalit sinabi nila, Hindi namin magagawa hangga't hindi natitipong lahat ang kawan, at maigulong ang bato mula sa labi ng balon; at saka lamang namin paiinumin ang mga tupa.
+009	Samantalang nakikipag-usap pa siya sa kanila, dumating si Raquel kasama ang mga tupa ng kanyang ama; sapagkat siya ang nag-aalaga ng mga iyon.
+010	Nang makita ni Jacob si Raquel na anak ni Laban, na kapatid ng kanyang ina, at ang mga tupa ni Laban, lumapit si Jacob at iginulong ang bato mula sa labi ng balon at pinainom ang kawan ni Laban.
+011	Hinagkan ni Jacob si Raquel at umiyak nang malakas.
+012	Sinabi ni Jacob kay Raquel na siya'y kamag-anak ni Laban na kanyang ama, at anak siya ni Rebecca.
+012	Kaya't tumakbo si Raquel at sinabi sa kanyang ama.
+013	Nang marinig ni Laban ang balita ni Jacob na anak ng kanyang kapatid, tumakbo siya upang salubungin si Jacob at ito ay kanyang niyakap, hinagkan, at dinala sa kanyang bahay.
+013	Isinalaysay ni Jacob kay Laban ang lahat ng mga bagay na ito at
+014	sinabi sa kanya ni Laban, Talagang ikaw ay aking buto at aking laman.
+014	At siya'y tumigil doong kasama niya ng isang buwan.
+015	At sinabi ni Laban kay Jacob, Hindi ba't ikaw ay aking kamag-anak?
+015	Dapat ka bang maglingkod sa akin nang walang upa?
+015	Sabihin mo sa akin, ano ang magiging upa mo?
+016	May dalawang anak na babae si Laban; ang pangalan ng panganay ay Lea, at ang bunso ay si Raquel.
+017	Ang mga mata ni Lea ay mapupungay; at si Raquel ay magandang kumilos at kahali-halina.
+018	Mahal ni Jacob si Raquel; kaya't kanyang sinabi, Paglilingkuran kita ng pitong taon dahil kay Raquel na iyong anak na bunso.
+019	Sinabi ni Laban, Mas mabuti na ibigay ko siya sa iyo kaysa ibigay ko siya sa iba; tumira ka sa akin.
+020	At naglingkod si Jacob ng pitong taon dahil kay Raquel, na sa kanya'y naging parang ilang araw dahil sa pag-ibig niya sa kanya.
+021	Sinabi ni Jacob kay Laban, Ibigay mo sa akin ang aking asawa sapagkat naganap na ang aking mga araw at hayaan mong ako'y sumiping sa kanya.
+022	Tinipong lahat ni Laban ang mga tao roon at siya'y gumawa ng isang handaan.
+023	Kinagabihan, kanyang kinuha si Lea na kanyang anak at dinala kay Jacob na sumiping naman sa kanya.
+024	Ibinigay ni Laban kay Lea ang kanyang alilang babae na si Zilpa upang kanyang maging alila.
+025	Kinaumagahan, si Lea pala iyon!
+025	At kanyang sinabi kay Laban, Ano itong ginawa mo sa akin?
+025	Hindi ba pinaglingkuran kita dahil kay Raquel?
+025	Bakit mo ako dinaya?
+026	Sinabi ni Laban, Hindi ganyan ang kaugalian dito sa aming lupain, na ibinibigay ang bunso bago ang panganay.
+027	Tapusin mo ang linggong ito, at ibibigay rin namin sa iyo ang isa, bilang kapalit sa paglilingkod na gagawin mo sa akin na pitong taon pa.
+028	Ganoon ang ginawa ni Jacob, at tinapos niya ang linggo niya, at ibinigay ni Laban sa kanya si Raquel na kanyang anak upang maging asawa niya.
+029	Sa kanyang anak na si Raquel ay ibinigay ni Laban bilang alilang babae ang kanyang alilang si Bilha.
+030	Kaya't sumiping din si Jacob kay Raquel, at inibig si Raquel nang higit kaysa kay Lea; at naglingkod siya kay Laban ng pitong taon pa.
+031	Nang makita ng Panginoon na si Lea ay kinapootan, binuksan niya ang kanyang bahay-bata; subalit si Raquel ay baog.
+032	Naglihi si Lea at nanganak ng isang lalaki, at tinawag niyang Ruben; sapagkat kanyang sinabi, Sapagkat tiningnan ng Panginoon ang aking kapighatian; kaya't ngayo'y mamahalin ako ng aking asawa.
+033	Muli siyang naglihi at nanganak ng isang lalaki at sinabi, Sapagkat narinig ng Panginoon na ako'y kinapopootan, ibinigay rin niya sa akin ito; at tinawag niyang Simeon.
+034	Muli siyang naglihi at nanganak ng isang lalaki, at nagsabi, Ngayo'y makakasama ko na ang aking asawa, sapagkat nagkaanak ako sa kanya ng tatlong lalaki; kaya't ang kanyang pangalan ay Levi.
+035	At muli siyang naglihi at nanganak ng isang lalaki, at nagsabi, Ngayo'y pupurihin ko ang Panginoon .
+035	Kaya't tinawag niyang Juda; at hindi na siya nanganak.

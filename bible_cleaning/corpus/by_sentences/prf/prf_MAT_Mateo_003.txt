@@ -1,25 +1,28 @@
-Nadid ti panahunid a iyud ay dummemt ti Juan a Mgbinyag ten kaparangan ti Judea sakay nangaral.
-Kinagi na, Adggan moy dn en kasalanan moy hidi gapu adeni dn a dumemt en kahariyan dilanget!
-Ti Juan en gustu a kagiyn ni propeta Isaias dikona a kinagi na a, Tehud a magpkraw ten kaparangan.
-Ihanda moy dn en dilan nen Panginoon; maggamet kam ti masunong a dilan a paglakadan na!
-En damit ni Juan ay naladi a dutdut ni kamelyo sakay en sinturon na ay gubwat ten koblet ni hayup.
-En kkkann na ay raksa a dudun sakay pulut ni pitukan.
-Angay ngsanig dikona en tolay hidi a gubwat ti Jerusalem, ti Judea, sakay en mgyan hidi ten banuwan hidi a namagdibelyu ten dinom ti Jordan.
-Impahayag di en kasalanan di hidi sakay bininyagan hidi ni Juan ten dinom ti Jordan.
-Peru dikona a ketan ni Juan a makpal a Pariseo sakay Saduseo a umadeni tnni magpabinyag, ay kinagi na dikodi, Sikam a lahi ni biklat.
-Deya i nagkagiyid dikomoy a maginanan moy en parusa nen Diyos?
-Patunayan moy pa ten kkkabiyag moy a talaga a inadggan moy dn en kasalanan moy hidi.
-Sakay dyan moy kagiyn a makaligtas kam ten parusa nen Diyos gapu kagi moy a lahi kam ni Abraham.
-Kagiyn ku dikomoy a kaya nen Diyos a manglalang ti batuwiday hidi ti tatarudan a lahi ni Abraham.
-Nadid palla ay nakahanda dn en wasay a pagkttol ten gamot nen kayu; en bawat kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
-Binyagan takam ten dinom bilang tanda a nagsisi kamon sakay inumadg ten kasalanan moy hidi.
-Peru en dumemt a kasunud ku ay siya en mangbinyag dikomoy ti Banal a Ispiritu sakay ti apoy.
-Mas makapangyariyan siya nan sikn, awank ngani karapatdapat maski ni tagatawid la ten sandalyas na.
-Ipagpag na en yaut tnni maalap en paray, kttapos ay iyoli na en paray ten bilay na sakay en lups ay tutudn ten apoy a awan maadp maski nikan.
-Nadid ti Jesus ay dummemt ti Jordan a gubwat ti Galilea tnni angay magpabinyag knni Juan.
-Peru tinanggiyan ni Juan ti Jesus sakay kinagi na, Sikn i kailanganid a binyagan mu, bakin a angay ka magpabinyag dikoku?
-Tummbbig ti Jesus dikona, Pabayan mu la a iyd i mangyariyid nadid, gapu iyd i dapatid a gamitn tnni masunud en kaluuban nen Diyos.
-Kaya pummayag bi ti Juan.
-Ten dikona a mabinyagan ti Jesus ay ummawas siya ten dinom.
-Bigla a bummukas dilanget sakay netan na en Ispiritu nen Diyos a dummibbbi a kumn a kalapati sakay ummapon dikona.
-Sakay tehud a boses a nasanig a gubwat dilanget a kinagi na, Saiyd en mahal ku a Anak, masayak a tarud dikona!
+verse	content
+001	Nadid ti panahunid a iyud ay dummemt ti Juan a Mgbinyag ten kaparangan ti Judea sakay nangaral.
+002	Kinagi na, Adggan moy dn en kasalanan moy hidi gapu adeni dn a dumemt en kahariyan dilanget!
+003	Ti Juan en gustu a kagiyn ni propeta Isaias dikona a kinagi na a,
+004	Tehud a magpkraw ten kaparangan.
+005	Ihanda moy dn en dilan nen Panginoon;
+006	maggamet kam ti masunong a dilan a paglakadan na!
+007	En damit ni Juan ay naladi a dutdut ni kamelyo sakay en sinturon na ay gubwat ten koblet ni hayup.
+007	En kkkann na ay raksa a dudun sakay pulut ni pitukan.
+008	Angay ngsanig dikona en tolay hidi a gubwat ti Jerusalem, ti Judea, sakay en mgyan hidi ten banuwan hidi a namagdibelyu ten dinom ti Jordan.
+009	Impahayag di en kasalanan di hidi sakay bininyagan hidi ni Juan ten dinom ti Jordan.
+010	Peru dikona a ketan ni Juan a makpal a Pariseo sakay Saduseo a umadeni tnni magpabinyag, ay kinagi na dikodi, Sikam a lahi ni biklat.
+010	Deya i nagkagiyid dikomoy a maginanan moy en parusa nen Diyos?
+011	Patunayan moy pa ten kkkabiyag moy a talaga a inadggan moy dn en kasalanan moy hidi.
+012	Sakay dyan moy kagiyn a makaligtas kam ten parusa nen Diyos gapu kagi moy a lahi kam ni Abraham.
+012	Kagiyn ku dikomoy a kaya nen Diyos a manglalang ti batuwiday hidi ti tatarudan a lahi ni Abraham.
+013	Nadid palla ay nakahanda dn en wasay a pagkttol ten gamot nen kayu; en bawat kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
+014	Binyagan takam ten dinom bilang tanda a nagsisi kamon sakay inumadg ten kasalanan moy hidi.
+014	Peru en dumemt a kasunud ku ay siya en mangbinyag dikomoy ti Banal a Ispiritu sakay ti apoy.
+014	Mas makapangyariyan siya nan sikn, awank ngani karapatdapat maski ni tagatawid la ten sandalyas na.
+015	Ipagpag na en yaut tnni maalap en paray, kttapos ay iyoli na en paray ten bilay na sakay en lups ay tutudn ten apoy a awan maadp maski nikan.
+016	Nadid ti Jesus ay dummemt ti Jordan a gubwat ti Galilea tnni angay magpabinyag knni Juan.
+017	Peru tinanggiyan ni Juan ti Jesus sakay kinagi na, Sikn i kailanganid a binyagan mu, bakin a angay ka magpabinyag dikoku?
+018	Tummbbig ti Jesus dikona, Pabayan mu la a iyd i mangyariyid nadid, gapu iyd i dapatid a gamitn tnni masunud en kaluuban nen Diyos.
+018	Kaya pummayag bi ti Juan.
+019	Ten dikona a mabinyagan ti Jesus ay ummawas siya ten dinom.
+019	Bigla a bummukas dilanget sakay netan na en Ispiritu nen Diyos a dummibbbi a kumn a kalapati sakay ummapon dikona.
+020	Sakay tehud a boses a nasanig a gubwat dilanget a kinagi na, Saiyd en mahal ku a Anak, masayak a tarud dikona!

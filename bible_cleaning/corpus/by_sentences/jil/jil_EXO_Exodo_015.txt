@@ -1,40 +1,65 @@
-Dayon si Moises kag ang mga Israelinhon nagkanta sini nga ambahanon sa Ginoo Magaamba ako sa Ginoo , tungod kay dalayawon ang iya pagdaog, gintagbong niya sa dagat ang mga kabayo kag ang mga nagasakay sa ila.
-Ang Ginoo amo ang akon makusog nga mangangapin, sia amo ang nagluwas sa akon.
-Sia ang akon Dios, gani dayawon ko sia, sia ang Dios sang akon amay, gani ambahon ko ang iya pagkagamhanan.
-Ang Ginoo isa ka hangaway, ang Ginoo amo ang iya ngalan.
-Gintagbong niya sa dagat ang mga karwahi kag ang mga hangaway sang hari sang Ehipto, nagkalalumos sa Mapula nga Dagat ang iya pinili nga mga opisyales.
-Ang madalom nga dagat nagtabon sa ila, naglugdang sila sa kadadalman kaangay sang bato.
-Ang kusog sang imo tuo nga kamot makatilingala, O Ginoo , nga nagalaglag sang imo mga kaaway.
-Sa imo gamhanan nga pagdaog ginlutos mo ang imo mga kaaway, ang imo kaakig naghingalayo, kag nagasunog sa ila subong sang dagami.
-Naghuyop ka sa dagat kag naghawa ang tubig, nagtindog ini subong sang pader, ang madalom nga dagat nagtig-a tubtob sa iya kadadalman.
-Ang kaaway nagsiling, Lagson ko sila, kag dakpon, bahinbahinon ko ang ila mga manggad, kag kuhaon ko sa ila ang tanan ko nga naluyagan, gabuton ko ang akon espada, kag sa akon kusog kuhaon ko ang tanan nga yara sa ila.
-Pero sa isa mo ka paghuyop, O Ginoo , ang dagat nagtabon sa ila, naglugdang sila subong sang tingga, sa makakulogmat nga dagat.
-O Ginoo , sin-o bala sa mga diosdios ang makatupong sa imo?
-Sin-o bala ang makapareho sa imo nga makatilingala ang pagkabalaan?
-Sin-o bala ang kaangay sa imo, nga makahimo sang mga milagro kag mga buhat nga gamhanan?
-Gin-untay mo ang imo tuo nga kamot, kag ang duta naglamon sa amon nga kaaway.
-Matutom ka sa imo saad, gintuytoyan mo ang imo mga gintubos.
-Sa imo kusog gindala mo sila sa imo balaan nga duta.
-Ang mga pungsod nakabati, kag nagakurog sila sa kahadlok.
-Ang kahadlok naglambot sa mga Filistinhon.
-Ang mga pangulo sang Edom ginakugmat, ang mga maisog sa Moab ginakurog.
-Ang mga pumoluyo sa Canaan, nadulaan sing kaisog.
-Ang kakugmat kag kahadlok nagaabot sa ila, nakita nila ang imo kusog, O Ginoo , kay nagapahimuyong sila sa kahadlok tubtob nakaagi ang imo mga tawo, O Ginoo , ang mga tawo nga imo ginluwas gikan sa pagkaulipon.
-Pasudlon mo sila kag itanom sa imo kaugalingon nga bukid, sa lugar nga imo ginhimo nga balay, O Ginoo , sa Templo, O Ginoo , nga imo ginpatindog.
-Ikaw, O Ginoo , manginhari sa walay katubtoban.
-Ang mga kabayo sang hari, upod sang iya mga karwahi kag sang iya mga soldado nga nagasakay sa kabayo, nagpadayon sa paglakat sa dagat kag ang Ginoo nagpabalik sang tubig, kag gintabunan sila.
-Pero ang mga Israelinhon naglakat sa ginpamala nga duta sa tunga sang dagat.
-Si Miriam nga propeta, ang utod ni Aaron, nagkuha sing iya tamborin, kag ang tanan nga mga babayi nagsunod sa iya nga nagatukar sang ila mga tamborin kag nagasinaot.
-Si Miriam nag-amba sa ila sang masunod Magkanta sa Ginoo , tungod kay dalayawon ang iya pagdaog, gintagbong niya sa dagat, ang mga kabayo kag ang mga nagasakay sa ila.
-Dayon ginpangulohan ni Moises ang mga Israelinhon halin sa Mapula nga Dagat, kag nagpakadto sila sa desierto sang Sur.
-Sa sulod sang tatlo ka adlaw naglakat sila sa desierto, kag wala sila sing nakita nga tubig.
-Sang ulihi nakaabot sila sa lugar nga ginatawag Mara, pero ang tubig didto mapait gid sa bagay nga indi sila makainom sini.
-Gani gintawag ini nga Mara.
-Ang mga tawo nagreklamo kay Moises kag nagpamangkot, Ano bala ang amon imnon?
-Si Moises nagpangamuyo sing hugot sa Ginoo , kag ginpakita sang Ginoo sa iya ang isa ka utod nga kahoy.
-Ginhaboy niya ini sa tubig kag ang tubig nanginmaayo na imnon.
-Didto ang Ginoo naghatag sa ila sing mga pagsulondan nga ila igakabuhi kag didto iya man sila gintilawan.
-Nagsiling sia, Kon kamo magtuman sing bug-os sa akon, ang Ginoo nga inyo Dios, kag maghimo sang ginakabig ko nga matarong, kag magtuman sang akon mga sugo, indi ako magsilot sa inyo paagi sining mga balatian nga ginpadala ko sa mga Ehiptohanon.
-Ako amo ang Ginoo nga nagaayo sa inyo.
-Karon nag-abot sila sa Elim, sa diin may dose ka mga tuboran kag setenta ka mga kahoy nga palma.
-Didto nagpatindog sila sang ila mga tolda sa ubay sang tubig.
+verse	content
+001	Dayon si Moises kag ang mga Israelinhon nagkanta sini nga ambahanon sa Ginoo
+002	Magaamba ako sa Ginoo , tungod kay dalayawon ang iya pagdaog,
+003	gintagbong niya sa dagat ang mga kabayo kag ang mga nagasakay sa ila.
+004	Ang Ginoo amo ang akon makusog nga mangangapin,
+005	sia amo ang nagluwas sa akon.
+006	Sia ang akon Dios, gani dayawon ko sia,
+007	sia ang Dios sang akon amay, gani ambahon ko ang iya pagkagamhanan.
+008	Ang Ginoo isa ka hangaway,
+009	ang Ginoo amo ang iya ngalan.
+010	Gintagbong niya sa dagat ang mga karwahi kag ang mga hangaway sang hari sang Ehipto,
+011	nagkalalumos sa Mapula nga Dagat ang iya pinili nga mga opisyales.
+012	Ang madalom nga dagat nagtabon sa ila,
+013	naglugdang sila sa kadadalman kaangay sang bato.
+014	Ang kusog sang imo tuo nga kamot makatilingala, O Ginoo ,
+015	nga nagalaglag sang imo mga kaaway.
+016	Sa imo gamhanan nga pagdaog ginlutos mo ang imo mga kaaway,
+017	ang imo kaakig naghingalayo, kag nagasunog sa ila subong sang dagami.
+018	Naghuyop ka sa dagat kag naghawa ang tubig,
+019	nagtindog ini subong sang pader,
+020	ang madalom nga dagat nagtig-a tubtob sa iya kadadalman.
+021	Ang kaaway nagsiling, Lagson ko sila, kag dakpon,
+022	bahinbahinon ko ang ila mga manggad, kag kuhaon ko sa ila ang tanan ko nga naluyagan,
+023	gabuton ko ang akon espada, kag sa akon kusog kuhaon ko ang tanan nga yara sa ila.
+024	Pero sa isa mo ka paghuyop, O Ginoo , ang dagat nagtabon sa ila,
+025	naglugdang sila subong sang tingga, sa makakulogmat nga dagat.
+026	O Ginoo , sin-o bala sa mga diosdios ang makatupong sa imo?
+027	Sin-o bala ang makapareho sa imo nga makatilingala ang pagkabalaan?
+028	Sin-o bala ang kaangay sa imo, nga makahimo sang mga milagro kag mga buhat nga gamhanan?
+029	Gin-untay mo ang imo tuo nga kamot,
+030	kag ang duta naglamon sa amon nga kaaway.
+031	Matutom ka sa imo saad, gintuytoyan mo ang imo mga gintubos.
+032	Sa imo kusog gindala mo sila sa imo balaan nga duta.
+033	Ang mga pungsod nakabati, kag nagakurog sila sa kahadlok.
+034	Ang kahadlok naglambot sa mga Filistinhon.
+035	Ang mga pangulo sang Edom ginakugmat,
+036	ang mga maisog sa Moab ginakurog.
+037	Ang mga pumoluyo sa Canaan, nadulaan sing kaisog.
+038	Ang kakugmat kag kahadlok nagaabot sa ila,
+039	nakita nila ang imo kusog, O Ginoo ,
+040	kay nagapahimuyong sila sa kahadlok
+041	tubtob nakaagi ang imo mga tawo, O Ginoo ,
+042	ang mga tawo nga imo ginluwas gikan sa pagkaulipon.
+043	Pasudlon mo sila kag itanom sa imo kaugalingon nga bukid,
+044	sa lugar nga imo ginhimo nga balay, O Ginoo ,
+045	sa Templo, O Ginoo , nga imo ginpatindog.
+046	Ikaw, O Ginoo , manginhari sa walay katubtoban.
+047	Ang mga kabayo sang hari, upod sang iya mga karwahi kag sang iya mga soldado nga nagasakay sa kabayo, nagpadayon sa paglakat sa dagat kag ang Ginoo nagpabalik sang tubig, kag gintabunan sila.
+047	Pero ang mga Israelinhon naglakat sa ginpamala nga duta sa tunga sang dagat.
+048	Si Miriam nga propeta, ang utod ni Aaron, nagkuha sing iya tamborin, kag ang tanan nga mga babayi nagsunod sa iya nga nagatukar sang ila mga tamborin kag nagasinaot.
+049	Si Miriam nag-amba sa ila sang masunod
+050	Magkanta sa Ginoo , tungod kay dalayawon ang iya pagdaog,
+051	gintagbong niya sa dagat, ang mga kabayo kag ang mga nagasakay sa ila.
+052	Dayon ginpangulohan ni Moises ang mga Israelinhon halin sa Mapula nga Dagat, kag nagpakadto sila sa desierto sang Sur.
+052	Sa sulod sang tatlo ka adlaw naglakat sila sa desierto, kag wala sila sing nakita nga tubig.
+053	Sang ulihi nakaabot sila sa lugar nga ginatawag Mara, pero ang tubig didto mapait gid sa bagay nga indi sila makainom sini.
+053	Gani gintawag ini nga Mara.
+054	Ang mga tawo nagreklamo kay Moises kag nagpamangkot, Ano bala ang amon imnon?
+055	Si Moises nagpangamuyo sing hugot sa Ginoo , kag ginpakita sang Ginoo sa iya ang isa ka utod nga kahoy.
+055	Ginhaboy niya ini sa tubig kag ang tubig nanginmaayo na imnon.
+056	Didto ang Ginoo naghatag sa ila sing mga pagsulondan nga ila igakabuhi kag didto iya man sila gintilawan.
+057	Nagsiling sia, Kon kamo magtuman sing bug-os sa akon, ang Ginoo nga inyo Dios, kag maghimo sang ginakabig ko nga matarong, kag magtuman sang akon mga sugo, indi ako magsilot sa inyo paagi sining mga balatian nga ginpadala ko sa mga Ehiptohanon.
+057	Ako amo ang Ginoo nga nagaayo sa inyo.
+058	Karon nag-abot sila sa Elim, sa diin may dose ka mga tuboran kag setenta ka mga kahoy nga palma.
+058	Didto nagpatindog sila sang ila mga tolda sa ubay sang tubig.

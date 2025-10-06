@@ -1,32 +1,41 @@
-Binmaya han Refidim an mga tawo han Israel ngan inmabot hira ngadto ha kamingawan han Sinai dida han syahan nga adlaw han ikatulo nga bulan katapos nira bumaya han Ehipto.
-Didto nagkampo hira ha ubos han Bukid Sinai, ngan sinmagka han bukid hi Moises hin pakigkita han Dyos.
-Nagtawag an Ginoo kan Moises tikang han bukid ngan pinapaghimangraw hiya ha mga Israelita nga mga tulin ni Jacob hin pagsiring Hinkit-an niyo an ginbuhat ko nga Ginoo ha mga Ehiptohanon ngan an pagdara ko ha iyo nga sugad hin pagdara hin agila han iya mga piso ha bawbaw han iya mga pako, ngan gindara ko kamo nganhi ha akon.
-Yana, kon pagsugton ako niyo, ngan kon pagtumanon niyo an akon ginsaaran, magigin akon kamo kalugaringon nga mga tawo.
-Akon an bug-os nga tuna, kundi magigin akon kamo pinili nga mga tawo, mga tawo nga iginhalad ha akon gud la, ngan mag-aalagad kamo nga kapadian ha akon.
-Sanglit linmugsong hi Moises ngan gintirok niya an mga pangulo han mga tawo ngan ginsumatan hira han ngatanan nga iginsugo ha iya han Ginoo .
-Niyan binmaton hin durungan an ngatanan nga mga tawo, Pagbubuhaton namon an ngatanan nga iginsiring han Ginoo , ngan ginsumatan hini ni Moises an Ginoo .
-Nagsiring kan Moises an Ginoo , Mapakada ako ha imo dida hin madakmol nga dampog, basi makabati an mga tawo nga nakikighimangraw ako ha imo ngan basi tumoo na hira ha imo.
-Ginsumatan ni Moises an Ginoo han iginbaton han mga tawo, ngan nagsiring ha iya an Ginoo , Kadtoa an mga tawo ngan papaglinisa hira han ira kalugaringon yana ngan buwas para hin pagsingba.
-Kinahanglan pagbunakan nira an ira mga panapton, ngan maandam hira para sangbuwas nga adlaw.
-Dida hito nga adlaw malusad ako ngada ha Bukid Sinai diin hikikit-an ako han ngatanan nga mga tawo.
-Pagtigaman hin pag-ultan palibot han bukid.
-Kinahanglan diri magpasipara hin paglakad hini an mga tawo, ngan sidnga hira nga diri sumagka han bukid o bisan hin paghirani han bukid.
-An bisan hin-o nga makatamak ngan makalakad han pag-ultan, kinahanglan patayon hiya; kinahanglan pagbatohon o pagpanaon hiya, hin waray tawo nga maglalabot ha iya.
-Bubuhaton ini para han magpasipara nga mga tawo ngan mga mananap; kinahanglan patayon hira.
-Kundi kon patunggon na an trompeta, kinahanglan sumagka ngadto han bukid an mga tawo.
-Niyan linmugsong han bukid hi Moises ngan ginsumatan an mga tawo nga mag-andam hira hin pagsingba.
-Sanglit ginbunakan nira an ira mga panapton, ngan ginsiring hira ni Moises, kinahanglan maandam kamo dida han ikatulo ka adlaw ngan ayaw la anay kamo pakighilawas.
-Dida han pagkaaga na han ikatulo ka adlaw nagdalugdog ngan nagkikidlat, pinmakita in usa nga madakmol nga dampog ha bawbaw han bukid, ngan hinbatian in makusog hin duro nga tunog hin trompeta.
-Nangurog hin kahadlok an ngatanan nga mga tawo didto han kampo.
-Gin-unhan hira ni Moises paggawas han kampo hin pakigkita han Dyos, ngan tinmindog hira didto han ubos han bukid.
-Naputos hin aso an bug-os nga Bukid Sinai, kay linmusad an Ginoo dida hin kalayo.
-Inmusbok an aso sugad hin tikang hin usa nga hudno, ngan nangurog hin duro an ngatanan nga mga tawo.
-Nagtikadako an tunog han trompeta.
-Nagyakan hi Moises ngan ginbaton hiya han Dyos pinaagi hin dalugdog.
-Linmusad an Ginoo ngadto han bawbaw han Bukid Sinai ngan ginpakadto hi Moises ha bawbaw han bukid.
-Sinmagka hi Moises ngan nagsiring ha iya an Ginoo , Lusad ngan tugona an mga tawo nga diri hira lumakad han pag-ultan hin pagkadi ngan pagtan-aw ha akon; kon magtalapas hira hini, damo ha ira in magkakamatay.
-Kinahanglan maglinis ha ira ngahaw bisan an kapadian nga mahirani ha akon, kay kon diri, pagkakastigohon ko hira.
-Nagsiring hi Moises han Ginoo , Diri makakasagka an mga tawo, kay ginsugo mo kami nga pag-isipon namon nga baraan an bukid ngan amon paglibotan hin pag-ultan.
-Binmaton an Ginoo , Lusad ngan paupda ha imo hi Aaron kon bumalik ka.
-Kundi kinahanglan diri tumabok han pag-ultan an kapadian ngan an mga tawo hin pagkadi ha akon, kay kon tumabok hira, kakastigohon ko hira.
-Sanglit linmugsong hi Moises ngadto han mga tawo ngan ginsumatan hira han iginsiring han Ginoo .
+verse	content
+001	Binmaya han Refidim an mga tawo han Israel ngan inmabot hira ngadto ha kamingawan han Sinai dida han syahan nga adlaw han ikatulo nga bulan katapos nira bumaya han Ehipto.
+001	Didto nagkampo hira ha ubos han Bukid Sinai,
+002	ngan sinmagka han bukid hi Moises hin pakigkita han Dyos.
+003	Nagtawag an Ginoo kan Moises tikang han bukid ngan pinapaghimangraw hiya ha mga Israelita nga mga tulin ni Jacob hin pagsiring
+004	Hinkit-an niyo an ginbuhat ko nga Ginoo ha mga Ehiptohanon ngan an pagdara ko ha iyo nga sugad hin pagdara hin agila han iya mga piso ha bawbaw han iya mga pako, ngan gindara ko kamo nganhi ha akon.
+005	Yana, kon pagsugton ako niyo, ngan kon pagtumanon niyo an akon ginsaaran, magigin akon kamo kalugaringon nga mga tawo.
+005	Akon an bug-os nga tuna, kundi magigin akon kamo pinili nga mga tawo,
+006	mga tawo nga iginhalad ha akon gud la, ngan mag-aalagad kamo nga kapadian ha akon.
+007	Sanglit linmugsong hi Moises ngan gintirok niya an mga pangulo han mga tawo ngan ginsumatan hira han ngatanan nga iginsugo ha iya han Ginoo .
+008	Niyan binmaton hin durungan an ngatanan nga mga tawo, Pagbubuhaton namon an ngatanan nga iginsiring han Ginoo , ngan ginsumatan hini ni Moises an Ginoo .
+009	Nagsiring kan Moises an Ginoo , Mapakada ako ha imo dida hin madakmol nga dampog, basi makabati an mga tawo nga nakikighimangraw ako ha imo ngan basi tumoo na hira ha imo.
+010	Ginsumatan ni Moises an Ginoo han iginbaton han mga tawo,
+011	ngan nagsiring ha iya an Ginoo , Kadtoa an mga tawo ngan papaglinisa hira han ira kalugaringon yana ngan buwas para hin pagsingba.
+011	Kinahanglan pagbunakan nira an ira mga panapton,
+012	ngan maandam hira para sangbuwas nga adlaw.
+012	Dida hito nga adlaw malusad ako ngada ha Bukid Sinai diin hikikit-an ako han ngatanan nga mga tawo.
+013	Pagtigaman hin pag-ultan palibot han bukid.
+013	Kinahanglan diri magpasipara hin paglakad hini an mga tawo, ngan sidnga hira nga diri sumagka han bukid o bisan hin paghirani han bukid.
+013	An bisan hin-o nga makatamak ngan makalakad han pag-ultan, kinahanglan patayon hiya;
+014	kinahanglan pagbatohon o pagpanaon hiya, hin waray tawo nga maglalabot ha iya.
+014	Bubuhaton ini para han magpasipara nga mga tawo ngan mga mananap; kinahanglan patayon hira.
+014	Kundi kon patunggon na an trompeta, kinahanglan sumagka ngadto han bukid an mga tawo.
+015	Niyan linmugsong han bukid hi Moises ngan ginsumatan an mga tawo nga mag-andam hira hin pagsingba.
+015	Sanglit ginbunakan nira an ira mga panapton,
+016	ngan ginsiring hira ni Moises, kinahanglan maandam kamo dida han ikatulo ka adlaw ngan ayaw la anay kamo pakighilawas.
+017	Dida han pagkaaga na han ikatulo ka adlaw nagdalugdog ngan nagkikidlat, pinmakita in usa nga madakmol nga dampog ha bawbaw han bukid, ngan hinbatian in makusog hin duro nga tunog hin trompeta.
+017	Nangurog hin kahadlok an ngatanan nga mga tawo didto han kampo.
+018	Gin-unhan hira ni Moises paggawas han kampo hin pakigkita han Dyos, ngan tinmindog hira didto han ubos han bukid.
+019	Naputos hin aso an bug-os nga Bukid Sinai, kay linmusad an Ginoo dida hin kalayo.
+019	Inmusbok an aso sugad hin tikang hin usa nga hudno, ngan nangurog hin duro an ngatanan nga mga tawo.
+020	Nagtikadako an tunog han trompeta.
+020	Nagyakan hi Moises ngan ginbaton hiya han Dyos pinaagi hin dalugdog.
+021	Linmusad an Ginoo ngadto han bawbaw han Bukid Sinai ngan ginpakadto hi Moises ha bawbaw han bukid.
+021	Sinmagka hi Moises
+022	ngan nagsiring ha iya an Ginoo , Lusad ngan tugona an mga tawo nga diri hira lumakad han pag-ultan hin pagkadi ngan pagtan-aw ha akon; kon magtalapas hira hini, damo ha ira in magkakamatay.
+023	Kinahanglan maglinis ha ira ngahaw bisan an kapadian nga mahirani ha akon, kay kon diri, pagkakastigohon ko hira.
+024	Nagsiring hi Moises han Ginoo , Diri makakasagka an mga tawo, kay ginsugo mo kami nga pag-isipon namon nga baraan an bukid ngan amon paglibotan hin pag-ultan.
+025	Binmaton an Ginoo , Lusad ngan paupda ha imo hi Aaron kon bumalik ka.
+025	Kundi kinahanglan diri tumabok han pag-ultan an kapadian ngan an mga tawo hin pagkadi ha akon, kay kon tumabok hira, kakastigohon ko hira.
+026	Sanglit linmugsong hi Moises ngadto han mga tawo ngan ginsumatan hira han iginsiring han Ginoo .

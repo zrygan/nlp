@@ -1,38 +1,44 @@
-San gin-anak si Jesus sa lungsod san Betlehem sa probinsya san Judea si Herodes amo an hadi.
-Sani na panahon may nag-arabot na mga madunong na tawo sa Jerusalem hali sa nasyon sa sirangan.
-Nagahunga sinda, Hain an gin-anak na magigin hadi san mga Judio?
-San sa sirangan pa kami nakita namon an bituon na tanda na siya nabuhay na kaya nagkadi kami agod sambahon siya.
-Pakabati sani san hadi na si Herodes kinulbaan gayod siya hasta an tanan na mga taga-Jerusalem.
-Kaya ginpatiripon niya an tanan na mga namumuno san kapadian kag san mga paratukdo san Kasuguan tapos ginhunga kun diin iaanak an Cristo na magigin hadi san mga Judio.
-Sinabat siya ninda.
-Sa Betlehem sa Judea kay ini susog sa ginsurat san propeta, Lungsod san Betlehem sa kadutaan san mga lahi ni Juda, dili ka gayod an pinakamenos na lungsod didto, kay may mamumuno na mahali sa imo na amo an magapamahala san akon mga katawuhan, an mga taga-Israel.
-, Kaya ginpatawag ni Herodes idton mga madunong na tawo sa sikreto lang na makigkita sa iya kag ginhunga sa inda kun kasan-o gayod nagpakita an bituon.
-Pakaaram niya nagtugon sa inda, Magpa-Betlehem kamo kag hanapon sin maayo an bata.
-Kun makit-an niyo siya paaramon niyo ako kay agod makakadto man ako kag makasamba sa iya.
-Pakabati san ginsabi san hadi nagralakat na sinda.
-Sa inda paglakat nakita an bituon na nagpakita sa sirangan.
-Amo ini an nagagiya sa inda hasta na nag-abot sa tungod san lugar na nahuhulidan san bata.
-Tapos nag-udong.
-Pakakita ninda sani na nangyari nalipay gayod sinda kag nagsulod sa balay.
-Pag-abot ninda didto nakit-an an bata kaupod si Maria na iya iloy.
-Nagruluhod dayon sinda kag nagsamba sa iya.
-Pakatapos inabrihan an inda mga surudlan kag naghalad sa iya sin mga regalo na oro, mira kag mahal na kamangyan.
-Myintras didto pa sinda ginpadaanan sinda san Dios paagi sa damgo na dili magbalik kan Herodes.
-Kaya nag-uli sinda sa inda sadiri na nasyon na iba na an gin-agihan.
-Pakahali lang ninda may damgo si Jose.
-Didi nagpakita sa iya an anghel san Ginoo na nagasabi, Magbangon ka, iupod an bata kag san iya iloy, tapos dumulag kamo pa-Ehipto kay hahanapon ni Herodes an bata agod patayon.
-Tapos didto lang anay kamo hasta na sabihan ko ikaw.
-Kaya nagbangon dayon si Jose kag gin-upod an bata kag san iloy sani pa-Ehipto sana mismo na gabi.
-Pakatapos nag-istar sinda didto hasta san pagkamatay ni Herodes.
-Nangyari ini agod matuman an ginsabi san Ginoo na paagi sa propeta, Gintawag ko an akon anak hali sa Ehipto.
-Daku-dako gayod an kaurit ni Herodes pakaaram na linuko siya sadton mga madunong na tawo.
-Kaya nagsugo siya na patayon didto sa Betlehem kag sa mga baryo sani an tanan na mga bata na lalaki na may duha ka tuig an edad paubos.
-Susog ini sa panahon na iya naaraman sadton mga madunong na tawo na nagpakita an bituon.
-Paagi sani natuman an ginsabi san propeta na si Jeremias, May nabati na tangis, nagabakho kag malanog na pagnguyngoy sa Rama.
-Ginatangisan ni Raquel an iya mga anak kag habo mag-udong kay sinda tanan patay na.
-Niyan pakapatay ni Herodes may anghel san Ginoo na nagpakita gihapon kan Jose sa damgo didto sa Ehipto na nagasabi, Magbangon ka, darha an bata kag san iya iloy tapos magkadto kamo sa Israel kay patay na idton mga nagahandom na ipapatay an bata.
-Nagbangon si Jose kag gin-upod an bata kag san iloy sani pakadto sa Israel.
-Pero pakaaram niya na si Arquelao an nagsubli sa iya ama na si Herodes bilang hadi san Judea nahadlok si Jose na magbalik didto.
-Ugaling dahilan sa ginpadaanan na siya sa damgo naghali siya kag nagpakadto sa Galilea.
-Didto naman siya nag-istar sa lungsod na ginatawag na Nazaret.
-Paagi sani natuman na an ginsabi san mga propeta manungod kan Jesus, Pagatawagon siya na Nazareno.
+verse	content
+001	San gin-anak si Jesus sa lungsod san Betlehem sa probinsya san Judea si Herodes amo an hadi.
+001	Sani na panahon may nag-arabot na mga madunong na tawo sa Jerusalem hali sa nasyon sa sirangan.
+002	Nagahunga sinda, Hain an gin-anak na magigin hadi san mga Judio?
+002	San sa sirangan pa kami nakita namon an bituon na tanda na siya nabuhay na kaya nagkadi kami agod sambahon siya.
+003	Pakabati sani san hadi na si Herodes kinulbaan gayod siya hasta an tanan na mga taga-Jerusalem.
+004	Kaya ginpatiripon niya an tanan na mga namumuno san kapadian kag san mga paratukdo san Kasuguan tapos ginhunga kun diin iaanak an Cristo na magigin hadi san mga Judio.
+005	Sinabat siya ninda.
+005	Sa Betlehem sa Judea kay ini susog sa ginsurat san propeta,
+006	Lungsod san Betlehem sa kadutaan san mga lahi ni Juda, dili ka gayod an pinakamenos na lungsod didto,
+007	kay may mamumuno na mahali sa imo na amo an magapamahala san akon mga katawuhan, an mga taga-Israel.,
+008	Kaya ginpatawag ni Herodes idton mga madunong na tawo sa sikreto lang na makigkita sa iya kag ginhunga sa inda kun kasan-o gayod nagpakita an bituon.
+009	Pakaaram niya nagtugon sa inda, Magpa-Betlehem kamo kag hanapon sin maayo an bata.
+009	Kun makit-an niyo siya paaramon niyo ako kay agod makakadto man ako kag makasamba sa iya.
+010	Pakabati san ginsabi san hadi nagralakat na sinda.
+010	Sa inda paglakat nakita an bituon na nagpakita sa sirangan.
+010	Amo ini an nagagiya sa inda hasta na nag-abot sa tungod san lugar na nahuhulidan san bata.
+010	Tapos nag-udong.
+011	Pakakita ninda sani na nangyari nalipay gayod sinda kag nagsulod sa balay.
+012	Pag-abot ninda didto nakit-an an bata kaupod si Maria na iya iloy.
+012	Nagruluhod dayon sinda kag nagsamba sa iya.
+012	Pakatapos inabrihan an inda mga surudlan kag naghalad sa iya sin mga regalo na oro, mira kag mahal na kamangyan.
+013	Myintras didto pa sinda ginpadaanan sinda san Dios paagi sa damgo na dili magbalik kan Herodes.
+013	Kaya nag-uli sinda sa inda sadiri na nasyon na iba na an gin-agihan.
+014	Pakahali lang ninda may damgo si Jose.
+014	Didi nagpakita sa iya an anghel san Ginoo na nagasabi, Magbangon ka, iupod an bata kag san iya iloy, tapos dumulag kamo pa-Ehipto kay hahanapon ni Herodes an bata agod patayon.
+014	Tapos didto lang anay kamo hasta na sabihan ko ikaw.
+015	Kaya nagbangon dayon si Jose kag gin-upod an bata kag san iloy sani pa-Ehipto sana mismo na gabi.
+016	Pakatapos nag-istar sinda didto hasta san pagkamatay ni Herodes.
+016	Nangyari ini agod matuman an ginsabi san Ginoo na paagi sa propeta,
+017	Gintawag ko an akon anak hali sa Ehipto.
+018	Daku-dako gayod an kaurit ni Herodes pakaaram na linuko siya sadton mga madunong na tawo.
+018	Kaya nagsugo siya na patayon didto sa Betlehem kag sa mga baryo sani an tanan na mga bata na lalaki na may duha ka tuig an edad paubos.
+018	Susog ini sa panahon na iya naaraman sadton mga madunong na tawo na nagpakita an bituon.
+019	Paagi sani natuman an ginsabi san propeta na si Jeremias,
+020	May nabati na tangis, nagabakho kag malanog na pagnguyngoy sa Rama.
+021	Ginatangisan ni Raquel an iya mga anak kag habo mag-udong kay sinda tanan patay na.
+022	Niyan pakapatay ni Herodes may anghel san Ginoo na nagpakita gihapon kan Jose sa damgo didto sa Ehipto na nagasabi,
+023	Magbangon ka, darha an bata kag san iya iloy tapos magkadto kamo sa Israel kay patay na idton mga nagahandom na ipapatay an bata.
+024	Nagbangon si Jose kag gin-upod an bata kag san iloy sani pakadto sa Israel.
+025	Pero pakaaram niya na si Arquelao an nagsubli sa iya ama na si Herodes bilang hadi san Judea nahadlok si Jose na magbalik didto.
+025	Ugaling dahilan sa ginpadaanan na siya sa damgo naghali siya kag nagpakadto sa Galilea.
+026	Didto naman siya nag-istar sa lungsod na ginatawag na Nazaret.
+026	Paagi sani natuman na an ginsabi san mga propeta manungod kan Jesus, Pagatawagon siya na Nazareno.

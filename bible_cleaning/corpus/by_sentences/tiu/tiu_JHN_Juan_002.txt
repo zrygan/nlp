@@ -1,47 +1,48 @@
-Ket ito kalpasan niya duwa nga algew, uwed pakalun enna Kana, nga isa nga ili iya prubinsiya nga Galilya.
-Uwed antuni ya ina ne Jesus nga makipacpakalun.
-Ket naawis met pe nge Jesus se dito adalan na nga nawe nakipakalun.
-Ket to napasamac enna pagpapakalunan, naamin mettin to basi da nga ubas.
-Itu nga kinunen nito ina ne Jesus igina, Naaminan da ka basi yin, kunen na.
-Ket e Jesus, kinunen na, Ina, masapul nga iiyaken nas ya makaemmu kadiya wangwanglec.
-Madi pekkem nadatngan ya timpuc, kunen na.
-Ket to ina ne Jesus, kinunen na kadiya agsirsirbi iyan, Orey nagan ya ibaga na dakayu, tungpalen nu was, a, kunen na.
-Ket diya Hudyu, uwed alagaden niya pammati da maipanggep iya panagbeggu, itu nga uwed ennem antuni nga dadackel nga burnay nga batu, nga papayan ka danum.
-Ket dito burnay, aglaun ya tunggal isa ka pasar sangagasut nga litru.
-Ket kinunen ne Jesus kadito agsirsirbi, Pennuwen nu ka danum diyan nga papayan, kunen na.
-Ket pinnu da ngarud dito papayan agingga nga naninib da.
-Kalpasan na, kinunen manin ne Jesus igida, Ket ita, kumod kayu ket ipen nu iya manput, kunen na.
-Ket winangel da ngarud ya agten iyan.
-Ket ito naramanan nito manput to danum, ket basi met gayamin.
-Ngem madi na emmu ya naggayatan niyan nga basi.
-Ngem dito agsirsirbi nga gennung, emmu da met.
-Ket to manput, pinalbet na to mangasawa.
-Ket kinunen nito manput igina, Gangey diya toltoley nga ipasangu nga mona ya kaimasan nga basi, ket se da nad ipasangu ya kadawyan nga basi no adu ya nainum diya sangaili yin.
-Ngem dakayu, nipodi nu met ya kaimasan nga basi!
-kunen na.
-Ket yan nga inariman ne Jesus enna Kana iya prubinsiya nga Galilya, itu ya kaonaan nga nakaskasdaaw nga inariman na.
-Ket iya agten iyan, nipasingen na ya kinadayaw na antuni, ket namati igina dito adalan na.
-Kalpasan niyan, nawe nge Jesus ka Kapernaum nga kabulun na nge ina na, se dito kakabsat na nga lalaki, pati dito adalan na.
-Ket nagedyan da antuni ka sumagpipiga nga algew.
-Ket itun, dandani yin to padaya diya Hudyu nga maawagan ka Padaya Nitatalib.
-Ket nanang-at nge Jesus nga nawe ka Herusalem nga makipadaya.
-Ket enna emwag niya Templu, nadateng ne Jesus diya aglaclaku ka baka, karneru se kalapati, ket uwed da pe toley nga agtugtugew iya puwestu da nga agisucsukat ka kuwarta.
-Ket e Jesus, nagariman ka babaut nga tali, se na da pinagtalew nga amin iya emwag niya Templu, agraman dito baka se karneru.
-Niwarawara na met ya kuwarta dito agisucsukat, ket binalintukang na dito lamlamisaan da.
-Ket binilin na dito aglaclaku ka kalapati, nga kinunen na, Iruwar nu pe didi!
-Bekken nu nga pagbalinen nga tindaan ya baley ne Amac!
-kunen na.
-Ket ito nasingen dito adalan na ya winangel na, nalagip da to naisurat iya Bibliya nga kunen na, Apu Diyus, arig nga apuy nga mangung-ungew iyaken ya panangipateg ku iya baley mu.
-Ket itun, gapu ito winangel ne Jesus iya Templu, kinunen diya pangpangulu diya Hudyu igina, Nagan kad ya maipasingem nga pagilasinan, tasun ipanecnec mu dakami ya kalinteggam nga mangariman idi?
-kunen da.
-Ket nisungbat ne Jesus nga kinunen na, Lasangen nu yani nga pagdaydayawan e Apu Diyus, ket bangunec mettas ka unus tellu nga algew, kunen na.
-Ket kinunen dito pangpangulu diya Hudyu igina, Ahah!
-Mabangun mu ka unus tellu nga algew?
-Eppat nga pulu ket ennem nga dagun nga inar-ariman da yani nga Templu, kunen da.
-Ngem e Jesus, ya pagdaydayawan nga kinagi na, itu ya beggi na mettas.
-Itu ya gapu na nga ito napagungar nge Jesusin, nalagip dito adalan na nga kinagi na yan.
-Itu nga namati da ngarud ito naisurat iya Bibliya se ito kinagi ne Jesus.
-Ket itun, uwed nge Jesus ka Herusalem ito madama ya timpu Padaya Nitatalib.
-Ket adu diya namati iya turay na, gapu ta nasingen da diya nakaskasdaaw nga pagilasinan nga inar-ariman na.
-Ngem e Jesus, madi nagtalec iya panamati da, ta emmu na met ya uwed iya lemlemmet diya amin nga toley.
-Itu nga madi na masapul ya mangibaga igina maipanggep iya gangey toley, ta emmu na nga sigud ya uwed kadiya lemlemmet diya toley.
+verse	content
+001	Ket ito kalpasan niya duwa nga algew, uwed pakalun enna Kana, nga isa nga ili iya prubinsiya nga Galilya.
+001	Uwed antuni ya ina ne Jesus nga makipacpakalun.
+002	Ket naawis met pe nge Jesus se dito adalan na nga nawe nakipakalun.
+003	Ket to napasamac enna pagpapakalunan, naamin mettin to basi da nga ubas.
+003	Itu nga kinunen nito ina ne Jesus igina, Naaminan da ka basi yin, kunen na.
+004	Ket e Jesus, kinunen na, Ina, masapul nga iiyaken nas ya makaemmu kadiya wangwanglec.
+004	Madi pekkem nadatngan ya timpuc, kunen na.
+005	Ket to ina ne Jesus, kinunen na kadiya agsirsirbi iyan, Orey nagan ya ibaga na dakayu, tungpalen nu was, a, kunen na.
+006	Ket diya Hudyu, uwed alagaden niya pammati da maipanggep iya panagbeggu, itu nga uwed ennem antuni nga dadackel nga burnay nga batu, nga papayan ka danum.
+006	Ket dito burnay, aglaun ya tunggal isa ka pasar sangagasut nga litru.
+007	Ket kinunen ne Jesus kadito agsirsirbi, Pennuwen nu ka danum diyan nga papayan, kunen na.
+007	Ket pinnu da ngarud dito papayan agingga nga naninib da.
+008	Kalpasan na, kinunen manin ne Jesus igida, Ket ita, kumod kayu ket ipen nu iya manput, kunen na.
+009	Ket winangel da ngarud ya agten iyan.
+010	Ket ito naramanan nito manput to danum, ket basi met gayamin.
+010	Ngem madi na emmu ya naggayatan niyan nga basi.
+010	Ngem dito agsirsirbi nga gennung, emmu da met.
+010	Ket to manput, pinalbet na to mangasawa.
+011	Ket kinunen nito manput igina, Gangey diya toltoley nga ipasangu nga mona ya kaimasan nga basi, ket se da nad ipasangu ya kadawyan nga basi no adu ya nainum diya sangaili yin.
+011	Ngem dakayu, nipodi nu met ya kaimasan nga basi!
+011	kunen na.
+012	Ket yan nga inariman ne Jesus enna Kana iya prubinsiya nga Galilya, itu ya kaonaan nga nakaskasdaaw nga inariman na.
+012	Ket iya agten iyan, nipasingen na ya kinadayaw na antuni, ket namati igina dito adalan na.
+013	Kalpasan niyan, nawe nge Jesus ka Kapernaum nga kabulun na nge ina na, se dito kakabsat na nga lalaki, pati dito adalan na.
+013	Ket nagedyan da antuni ka sumagpipiga nga algew.
+014	Ket itun, dandani yin to padaya diya Hudyu nga maawagan ka Padaya Nitatalib.
+014	Ket nanang-at nge Jesus nga nawe ka Herusalem nga makipadaya.
+015	Ket enna emwag niya Templu, nadateng ne Jesus diya aglaclaku ka baka, karneru se kalapati, ket uwed da pe toley nga agtugtugew iya puwestu da nga agisucsukat ka kuwarta.
+016	Ket e Jesus, nagariman ka babaut nga tali, se na da pinagtalew nga amin iya emwag niya Templu, agraman dito baka se karneru.
+016	Niwarawara na met ya kuwarta dito agisucsukat, ket binalintukang na dito lamlamisaan da.
+017	Ket binilin na dito aglaclaku ka kalapati, nga kinunen na, Iruwar nu pe didi!
+017	Bekken nu nga pagbalinen nga tindaan ya baley ne Amac!
+017	kunen na.
+018	Ket ito nasingen dito adalan na ya winangel na, nalagip da to naisurat iya Bibliya nga kunen na, Apu Diyus, arig nga apuy nga mangung-ungew iyaken ya panangipateg ku iya baley mu.
+019	Ket itun, gapu ito winangel ne Jesus iya Templu, kinunen diya pangpangulu diya Hudyu igina, Nagan kad ya maipasingem nga pagilasinan, tasun ipanecnec mu dakami ya kalinteggam nga mangariman idi?
+019	kunen da.
+020	Ket nisungbat ne Jesus nga kinunen na, Lasangen nu yani nga pagdaydayawan e Apu Diyus, ket bangunec mettas ka unus tellu nga algew, kunen na.
+021	Ket kinunen dito pangpangulu diya Hudyu igina, Ahah!
+021	Mabangun mu ka unus tellu nga algew?
+021	Eppat nga pulu ket ennem nga dagun nga inar-ariman da yani nga Templu, kunen da.
+022	Ngem e Jesus, ya pagdaydayawan nga kinagi na, itu ya beggi na mettas.
+023	Itu ya gapu na nga ito napagungar nge Jesusin, nalagip dito adalan na nga kinagi na yan.
+023	Itu nga namati da ngarud ito naisurat iya Bibliya se ito kinagi ne Jesus.
+024	Ket itun, uwed nge Jesus ka Herusalem ito madama ya timpu Padaya Nitatalib.
+024	Ket adu diya namati iya turay na, gapu ta nasingen da diya nakaskasdaaw nga pagilasinan nga inar-ariman na.
+025	Ngem e Jesus, madi nagtalec iya panamati da, ta emmu na met ya uwed iya lemlemmet diya amin nga toley.
+026	Itu nga madi na masapul ya mangibaga igina maipanggep iya gangey toley, ta emmu na nga sigud ya uwed kadiya lemlemmet diya toley.

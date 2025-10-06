@@ -1,52 +1,55 @@
-Busa miadto si Jose ug miingon kang Paraon, Nahiabot na ang akong amahan ug mga igsoon gikan sa Canaan.
-Dala nila ang tanan nilang kahayopan ug kabtangan.
-Atua na sila sa Gosen.
-Unya gipaila niya kang Paraon ang lima niya ka igsoon nga iyang gipakuyog kaniya.
-Gipangutana sila ni Paraon, Unsa may inyong pangita?
-Mitubag sila, Mahal nga Paraon, mga magbalantay kami sa mga hayop sama sa among mga ginikanan.
-Mianhi kami aron anhi na puyo kay grabi ang gutom sa yuta sa Canaan ug wala nay kasibsiban ang among kahayopan.
-Kon mahimo papuy-a kami sa Gosen.
-Si Paraon miingon kang Jose, Karon nga ania na ang imong amahan ug mga igsoon, papuy-a sila sa labing maayong dapit niining yutaa nga mao ang Gosen.
-Ang tibuok yuta sa Ehipto ubos sa imong pagbuot.
-Kon may nailhan ka kanila nga may katakos, sila maoy paatimana sa akong kahayopan.
-Unya gidala ni Jose ang iyang amahan nga si Jacob ngadto kang Paraon ug gipanalanginan ni Jacob si Paraon.
-Nangutana si Paraon kang Jacob, Pila na bay imong edad?
-Si Jacob mitubag, 130 ka tuig ang akong paglangyaw-langyaw.
-Mubo ra ug lisod ang akong kinabuhi, lahi sa kinabuhi sa akong mga katigulangan sa ilang panahon.
-Unya nanalangin si Jacob kang Paraon ug milakaw.
-Busa gipapuyo ni Jose ang iyang amahan ug mga igsoon sa Ehipto ug gihatagan sila sa labing maayong yuta sa Ehipto, sa yuta ni Rameses sumala sa sugo ni Paraon.
-Gihatagan ni Jose ug pagkaon ang iyang amahan ug ang iyang mga igsoon ingon man ang tanang sakop sa panimalay sa iyang amahan lakip ang ilang kabataan.
-Tungod sa kagrabi sa gutom, nakabsan ug pagkaon ang tanang dapit ug nangaluya ang katawhan sa Ehipto ug Canaan.
-Gitigom ni Jose ang tanang salapi nga gibayad sa katawhan sa Ehipto ug Canaan alang sa mga pagkaon ug gidala niya kini ngadto sa palasyo ni Paraon.
-Sa dihang nahutdan na sa salapi ang katawhan sa Ehipto ug Canaan, miadto ang tanang Ehiptohanon kang Jose ug miingon, Hatagi kamig pagkaon!
-Ayaw intawon kami pasagding mamatay.
-Wala na kami salapi.
-Mitubag si Jose, Dad-a dinhi ang inyong mga kahayopan kay bayloan kog pagkaon kon wala na kamoy salaping ikabayad.
-Busa gidala nila kang Jose ang ilang mga kahayopan ug gibayloan niyag pagkaon ang ilang mga kabayo, mga karnero, mga kanding, mga baka ug mga asno.
-Nianang tuiga gihatagan niya silag pagkaon baylo sa tanan nilang mga kahayopan.
-Sa pagkasunod tuig, miadto na usab sila kang Jose ug miingon, Sir, dili namo ilimod kanimo nga nahutdan na gayod kamig salapi ug ang among kahayopan anaa na kanimo.
-Wala na gayod kami ikahatag kanimo, sir, gawas sa among lawas ug mga yuta.
-Ayaw intawon kami pasagdi aron dili kami mangamatay ug aron dili mahimong kamingawan ang among mga yuta.
-Bayloi kami ug ang among yuta ug pagkaon ug maulipon na kami ni Paraon ug maiya na ang among mga yuta.
-Hatagi kamig binhi nga among ipugas aron dili kami mangamatay ug dili kawad-ag tanom ang among yuta.
-Gipamalit ni Jose ang tanang yuta sa Ehipto alang kang Paraon.
-Gipamaligya usab sa mga Ehiptohanon ang ilang kaumahan kay grabi na man kaayo ang gutom.
-Busa ang tibuok Ehipto napanag-iya ni Paraon ug gihimo ni Jose nga ulipon ang tanang katawhan sa Ehipto.
-Ang yuta lamang sa mga pari ang wala niya palita.
-Wala nila ikabaligya ang ilang mga yuta kay pagahatagan man sila ni Paraon ug salapi.
-Giingnan ni Jose ang katawhan, Karong adlawa, gipalit ko kamo ug ang inyong mga yuta alang kang Paraon.
-Aniay binhi aron ipugas ninyo sa inyong mga uma.
-Inigkating-ani, kinahanglan nga ang ikalimang bahin sa abot ihatag ninyo kang Paraon.
-Inyo na ang mahibilin aron binhion ug kan-on ninyo ug sa inyong mga pamilya.
-Mitubag sila, Sir, giluwas mo ang among kinabuhi; maayo ka kanamo ug mga ulipon na kami ni Paraon.
-Busa gihimong balaod ni Jose sa tibuok Ehipto nga ang ikalimang bahin sa mga abot adto kang Paraon.
-Hangtod karon nagpabilin pa kining balaora.
-Ang yuta sa mga pari mao ray wala mapanag-iya ni Paraon.
-Busa ang mga Israelita mipuyo didto sa Gosen sa yuta sa Ehipto ug didto naadunahan ug midaghan sila pag-ayo.
-Mipuyo si Jacob ug 17 ka tuig didto sa Ehipto hangtod nga miabot ug 147 ang iyang edad.
-Sa dihang hapit na siya mamatay, gipatawag niya ang iyang anak nga si Jose ug giingnan niya, Kon gikahimut-an mo ako, ibutang ang imong kamot sa taliwala sa akong mga paa ug panumpa kanako nga magmatinud-anon ka gayod kanako ug dili mo ako ilubong dinhi sa Ehipto.
-Buot ko nga adto mo ako ilubong tipon sa akong mga katigulangan.
-Dad-a ako gawas sa Ehipto ug adto ako ilubong sa ilang lubnganan.
-Mitubag si Jose, Tumanon ko gayod ang imong gitugon.
-Si Jacob miingon, Panumpa kanako nga tumanon mo kini.
-Busa nanumpa si Jose ug nagpasalamat si Jacob didto sa iyang higdaanan.
+verse	content
+001	Busa miadto si Jose ug miingon kang Paraon, Nahiabot na ang akong amahan ug mga igsoon gikan sa Canaan.
+001	Dala nila ang tanan nilang kahayopan ug kabtangan.
+001	Atua na sila sa Gosen.
+002	Unya gipaila niya kang Paraon ang lima niya ka igsoon nga iyang gipakuyog kaniya.
+003	Gipangutana sila ni Paraon, Unsa may inyong pangita?
+004	Mitubag sila, Mahal nga Paraon, mga magbalantay kami sa mga hayop sama sa among mga ginikanan.
+005	Mianhi kami aron anhi na puyo kay grabi ang gutom sa yuta sa Canaan ug wala nay kasibsiban ang among kahayopan.
+005	Kon mahimo papuy-a kami sa Gosen.
+006	Si Paraon miingon kang Jose, Karon nga ania na ang imong amahan ug mga igsoon,
+007	papuy-a sila sa labing maayong dapit niining yutaa nga mao ang Gosen.
+007	Ang tibuok yuta sa Ehipto ubos sa imong pagbuot.
+007	Kon may nailhan ka kanila nga may katakos, sila maoy paatimana sa akong kahayopan.
+008	Unya gidala ni Jose ang iyang amahan nga si Jacob ngadto kang Paraon ug gipanalanginan ni Jacob si Paraon.
+009	Nangutana si Paraon kang Jacob, Pila na bay imong edad?
+010	Si Jacob mitubag, 130 ka tuig ang akong paglangyaw-langyaw.
+010	Mubo ra ug lisod ang akong kinabuhi, lahi sa kinabuhi sa akong mga katigulangan sa ilang panahon.
+011	Unya nanalangin si Jacob kang Paraon ug milakaw.
+012	Busa gipapuyo ni Jose ang iyang amahan ug mga igsoon sa Ehipto ug gihatagan sila sa labing maayong yuta sa Ehipto, sa yuta ni Rameses sumala sa sugo ni Paraon.
+013	Gihatagan ni Jose ug pagkaon ang iyang amahan ug ang iyang mga igsoon ingon man ang tanang sakop sa panimalay sa iyang amahan lakip ang ilang kabataan.
+014	Tungod sa kagrabi sa gutom, nakabsan ug pagkaon ang tanang dapit ug nangaluya ang katawhan sa Ehipto ug Canaan.
+015	Gitigom ni Jose ang tanang salapi nga gibayad sa katawhan sa Ehipto ug Canaan alang sa mga pagkaon ug gidala niya kini ngadto sa palasyo ni Paraon.
+016	Sa dihang nahutdan na sa salapi ang katawhan sa Ehipto ug Canaan, miadto ang tanang Ehiptohanon kang Jose ug miingon, Hatagi kamig pagkaon!
+016	Ayaw intawon kami pasagding mamatay.
+016	Wala na kami salapi.
+017	Mitubag si Jose, Dad-a dinhi ang inyong mga kahayopan kay bayloan kog pagkaon kon wala na kamoy salaping ikabayad.
+018	Busa gidala nila kang Jose ang ilang mga kahayopan ug gibayloan niyag pagkaon ang ilang mga kabayo, mga karnero, mga kanding, mga baka ug mga asno.
+018	Nianang tuiga gihatagan niya silag pagkaon baylo sa tanan nilang mga kahayopan.
+019	Sa pagkasunod tuig, miadto na usab sila kang Jose ug miingon, Sir, dili namo ilimod kanimo nga nahutdan na gayod kamig salapi ug ang among kahayopan anaa na kanimo.
+019	Wala na gayod kami ikahatag kanimo, sir, gawas sa among lawas ug mga yuta.
+020	Ayaw intawon kami pasagdi aron dili kami mangamatay ug aron dili mahimong kamingawan ang among mga yuta.
+020	Bayloi kami ug ang among yuta ug pagkaon ug maulipon na kami ni Paraon ug maiya na ang among mga yuta.
+020	Hatagi kamig binhi nga among ipugas aron dili kami mangamatay ug dili kawad-ag tanom ang among yuta.
+021	Gipamalit ni Jose ang tanang yuta sa Ehipto alang kang Paraon.
+021	Gipamaligya usab sa mga Ehiptohanon ang ilang kaumahan kay grabi na man kaayo ang gutom.
+021	Busa ang tibuok Ehipto napanag-iya ni Paraon
+022	ug gihimo ni Jose nga ulipon ang tanang katawhan sa Ehipto.
+023	Ang yuta lamang sa mga pari ang wala niya palita.
+023	Wala nila ikabaligya ang ilang mga yuta kay pagahatagan man sila ni Paraon ug salapi.
+024	Giingnan ni Jose ang katawhan, Karong adlawa, gipalit ko kamo ug ang inyong mga yuta alang kang Paraon.
+024	Aniay binhi aron ipugas ninyo sa inyong mga uma.
+025	Inigkating-ani, kinahanglan nga ang ikalimang bahin sa abot ihatag ninyo kang Paraon.
+025	Inyo na ang mahibilin aron binhion ug kan-on ninyo ug sa inyong mga pamilya.
+026	Mitubag sila, Sir, giluwas mo ang among kinabuhi; maayo ka kanamo ug mga ulipon na kami ni Paraon.
+027	Busa gihimong balaod ni Jose sa tibuok Ehipto nga ang ikalimang bahin sa mga abot adto kang Paraon.
+027	Hangtod karon nagpabilin pa kining balaora.
+027	Ang yuta sa mga pari mao ray wala mapanag-iya ni Paraon.
+028	Busa ang mga Israelita mipuyo didto sa Gosen sa yuta sa Ehipto ug didto naadunahan ug midaghan sila pag-ayo.
+029	Mipuyo si Jacob ug 17 ka tuig didto sa Ehipto hangtod nga miabot ug 147 ang iyang edad.
+030	Sa dihang hapit na siya mamatay, gipatawag niya ang iyang anak nga si Jose ug giingnan niya, Kon gikahimut-an mo ako, ibutang ang imong kamot sa taliwala sa akong mga paa ug panumpa kanako nga magmatinud-anon ka gayod kanako ug dili mo ako ilubong dinhi sa Ehipto.
+031	Buot ko nga adto mo ako ilubong tipon sa akong mga katigulangan.
+031	Dad-a ako gawas sa Ehipto ug adto ako ilubong sa ilang lubnganan.
+032	Mitubag si Jose, Tumanon ko gayod ang imong gitugon.
+033	Si Jacob miingon, Panumpa kanako nga tumanon mo kini.
+033	Busa nanumpa si Jose ug nagpasalamat si Jacob didto sa iyang higdaanan.

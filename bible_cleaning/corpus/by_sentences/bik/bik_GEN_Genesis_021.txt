@@ -1,42 +1,47 @@
-Benendisyonan nin Kagurangnan si Sara siring sa pangako niya, asin nagbados si Sara dangan nangaki nin sarong lalaki ki Abraham kan gurang na ini.
-Namundag an aki sa itinalaan na panahon nin Dios.
-Isaac an inginaran saiya ni Abraham, asin kan walong aldaw na an aki, sinerkomsisyon siya ni Abraham sosog sa pagboot nin Dios.
-Sanggatos na an edad ni Abraham kan mamundag si Isaac.
-Nagsabi si Sara, An Dios nagdara sako nin ngingisihan saka kaogmahan; asin an siisay man na makadangog kaini mangisi kaiba ko.
-Nagsabi pa siya, Siisay an makapagsabi ki Abraham na si Sara magpapadodo nin mga aki?
-Alagad uya, nagkaaki ako nin lalaki sa saiyang pagkagurang.
-Nagtalubo si Isaac, asin sa aldaw na binutas siya, nagtao si Abraham nin dakulang bangkete.
-Sarong aldaw, si Ismael na aki ni Hagar ki Abraham, nakikikawat ki Isaac na aki ni Sara.
-Nahiling sinda ni Sara kaya sinabihan niya si Abraham, Palayasa an babaeng oripon na ini asin an saiyang aki.
-Habo kong mahirasan an aki kan babaeng ini kan kayamanan mo na dapat manahon kan aki ko.
-Napurisaw nin marahay si Abraham huli ta aki man niya si Ismael.
-Alagad tinaraman nin Dios si Abraham, Dai ka maghadit sa aki asin sa oripon mong si Hagar.
-Gibohon mo sana an ano man na sabihon saimo ni Sara, huli ta ki Isaac ka magkakaigwa kan ipinangako kong mga kapagarakian.
-Gigibohon ko man na sarong nasyon an aki kan babaeng oripon huli ta aki mo siya.
-Kaya amay pa kan sunod na aldaw, tinawan si Hagar ni Abraham nin pagkakan asin nin sarong laogan na anit na pano nin tubig.
-Dangan ibinugtak ni Abraham an aki sa likod kan ina asin pinahale na ini.
-Naghale si Hagar asin nagparalakaw sa kalangtadan nin Beer-sheba.
-Kan maubos an tubig, binayaan kan ina an saiyang aki sa lindong nin sarong marambong na tinanom dangan tuminukaw sa sarong lugar na may sanggatos metros an rayo.
-Nagsaboot siya, Dai ko kayang hilingon an pagkagadan kan sakong aki.
-Mantang nagtutukaw siya duman, nagpoon siyang maghibi.
-Nadangog nin Dios na naghihibi an aki, asin hale sa kalangitan tinaraman si Hagar kan anghel nin Dios, Ano an problema mo, Hagar?
-Dai ka matakot; huli ta nadangog nin Dios an tingog kan saimong aki.
-Tumindog ka, lakaw, asin buhaton mo siya dangan lingaon mo.
-Gigibohon kong sarong dakulang nasyon an saiyang mga kapagarakian.
-Dangan binukasan nin Dios an mga mata ni Hagar asin nahiling niya an sarong bubon; kaya nagduman siya asin pinano nin tubig an laogan na anit asin pinainom an saiyang aki.
-Dai pinabayaan nin Dios an aki asin nagdakula ini.
-Nag-erok siya sa kalangtadan nin Paran asin nagin sarong ekspertong paraayam.
-Ikinua siya kan saiyang ina nin sarong babaeng taga Egipto na magin saiyang agom.
-Kaidtong panahon, si Abimelek asin an pamayo kan saiyang hukbo na si Ficol nagsabi ki Abraham, Kaiba mo an Dios sa gabos mong gibo.
-Kaya ngunyan magsumpa ka sa atubang nin Dios na dai mo ako lolokohon, ni an sakong mga aki o an sakong mga kapagarakian.
-Nagin marahay ako saimo kaya mangako kang siring man an ibabalos mo sako asin sa dagang ini na saimong pinag-eerokan.
-Nagsimbag si Abraham, Minasumpa ako.
-Dangan nagreklamo si Abraham ki Abimelek manongod sa sarong bubon na sinadiri kan mga oripon ni Abimelek.
-Nagsimbag si Abimelek, Dai ko aram kun siisay an naggibo kaini; dai mo man ini sinabi sako asin ngunyan ko pa sana ini naaraman.
-Kaya tinawan ni Abraham si Abimelek nin mga karnero asin mga baka, dangan naggibo sinda nin kontrata.
-Isinuhay ni Abraham sa kadaklan an pitong babaeng kordero kaya naghapot si Abimelek, Tano ta isinuhay mo an pitong kordero?
-Nagsimbag si Abraham, Akoa an pitong korderong ini bilang patotoo na ako an nagkalot kaining bubon.
-Kaya an lugar inapod na Beer-sheba, huli ta duman ninda ginibo an kontrata.
-Pakatapos na gibohon ninda an kontrata sa Beer-sheba, nagpuli si Abimelek asin si Ficol sa daga kan mga Filistio.
-Nagtanom si Abraham nin kahoy na sampalok sa Beer-sheba asin nag-omaw sa Kagurangnan , an Daing Kataposan na Dios.
-Nag-erok si Abraham sa daga kan mga Filistio sa haloy na panahon.
+verse	content
+001	Benendisyonan nin Kagurangnan si Sara siring sa pangako niya,
+002	asin nagbados si Sara dangan nangaki nin sarong lalaki ki Abraham kan gurang na ini.
+002	Namundag an aki sa itinalaan na panahon nin Dios.
+003	Isaac an inginaran saiya ni Abraham,
+004	asin kan walong aldaw na an aki, sinerkomsisyon siya ni Abraham sosog sa pagboot nin Dios.
+005	Sanggatos na an edad ni Abraham kan mamundag si Isaac.
+006	Nagsabi si Sara, An Dios nagdara sako nin ngingisihan saka kaogmahan; asin an siisay man na makadangog kaini mangisi kaiba ko.
+007	Nagsabi pa siya, Siisay an makapagsabi ki Abraham na si Sara magpapadodo nin mga aki?
+007	Alagad uya, nagkaaki ako nin lalaki sa saiyang pagkagurang.
+008	Nagtalubo si Isaac, asin sa aldaw na binutas siya, nagtao si Abraham nin dakulang bangkete.
+009	Sarong aldaw, si Ismael na aki ni Hagar ki Abraham, nakikikawat ki Isaac na aki ni Sara.
+010	Nahiling sinda ni Sara kaya sinabihan niya si Abraham, Palayasa an babaeng oripon na ini asin an saiyang aki.
+010	Habo kong mahirasan an aki kan babaeng ini kan kayamanan mo na dapat manahon kan aki ko.
+011	Napurisaw nin marahay si Abraham huli ta aki man niya si Ismael.
+012	Alagad tinaraman nin Dios si Abraham, Dai ka maghadit sa aki asin sa oripon mong si Hagar.
+012	Gibohon mo sana an ano man na sabihon saimo ni Sara, huli ta ki Isaac ka magkakaigwa kan ipinangako kong mga kapagarakian.
+013	Gigibohon ko man na sarong nasyon an aki kan babaeng oripon huli ta aki mo siya.
+014	Kaya amay pa kan sunod na aldaw, tinawan si Hagar ni Abraham nin pagkakan asin nin sarong laogan na anit na pano nin tubig.
+014	Dangan ibinugtak ni Abraham an aki sa likod kan ina asin pinahale na ini.
+014	Naghale si Hagar asin nagparalakaw sa kalangtadan nin Beer-sheba.
+015	Kan maubos an tubig, binayaan kan ina an saiyang aki sa lindong nin sarong marambong na tinanom
+016	dangan tuminukaw sa sarong lugar na may sanggatos metros an rayo.
+016	Nagsaboot siya, Dai ko kayang hilingon an pagkagadan kan sakong aki.
+016	Mantang nagtutukaw siya duman, nagpoon siyang maghibi.
+017	Nadangog nin Dios na naghihibi an aki, asin hale sa kalangitan tinaraman si Hagar kan anghel nin Dios, Ano an problema mo, Hagar?
+017	Dai ka matakot; huli ta nadangog nin Dios an tingog kan saimong aki.
+018	Tumindog ka, lakaw, asin buhaton mo siya dangan lingaon mo.
+018	Gigibohon kong sarong dakulang nasyon an saiyang mga kapagarakian.
+019	Dangan binukasan nin Dios an mga mata ni Hagar asin nahiling niya an sarong bubon; kaya nagduman siya asin pinano nin tubig an laogan na anit asin pinainom an saiyang aki.
+020	Dai pinabayaan nin Dios an aki asin nagdakula ini.
+020	Nag-erok siya sa kalangtadan nin Paran asin nagin sarong ekspertong paraayam.
+021	Ikinua siya kan saiyang ina nin sarong babaeng taga Egipto na magin saiyang agom.
+022	Kaidtong panahon, si Abimelek asin an pamayo kan saiyang hukbo na si Ficol nagsabi ki Abraham, Kaiba mo an Dios sa gabos mong gibo.
+023	Kaya ngunyan magsumpa ka sa atubang nin Dios na dai mo ako lolokohon, ni an sakong mga aki o an sakong mga kapagarakian.
+023	Nagin marahay ako saimo kaya mangako kang siring man an ibabalos mo sako asin sa dagang ini na saimong pinag-eerokan.
+024	Nagsimbag si Abraham, Minasumpa ako.
+025	Dangan nagreklamo si Abraham ki Abimelek manongod sa sarong bubon na sinadiri kan mga oripon ni Abimelek.
+026	Nagsimbag si Abimelek, Dai ko aram kun siisay an naggibo kaini; dai mo man ini sinabi sako asin ngunyan ko pa sana ini naaraman.
+027	Kaya tinawan ni Abraham si Abimelek nin mga karnero asin mga baka, dangan naggibo sinda nin kontrata.
+028	Isinuhay ni Abraham sa kadaklan an pitong babaeng kordero
+029	kaya naghapot si Abimelek, Tano ta isinuhay mo an pitong kordero?
+030	Nagsimbag si Abraham, Akoa an pitong korderong ini bilang patotoo na ako an nagkalot kaining bubon.
+031	Kaya an lugar inapod na Beer-sheba, huli ta duman ninda ginibo an kontrata.
+032	Pakatapos na gibohon ninda an kontrata sa Beer-sheba, nagpuli si Abimelek asin si Ficol sa daga kan mga Filistio.
+033	Nagtanom si Abraham nin kahoy na sampalok sa Beer-sheba asin nag-omaw sa Kagurangnan , an Daing Kataposan na Dios.
+034	Nag-erok si Abraham sa daga kan mga Filistio sa haloy na panahon.

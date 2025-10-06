@@ -1,63 +1,65 @@
-Adda pay sabali a panagbisin a dimteng iti daga malaksid daydi immuna idi panawen ni Abraham.
-Nakadanon ni Isaac idiay Gerar a sakup ni Abimelec, nga ari dagiti Filisteo.
-Sakbay daytoy, nagparang ni Yahweh ken ni Isaac ket kinunana kenkuana, Dika mapan idiay Egipto.
-Agyanka iti daga nga imbagak a pagyanam.
-Agnaedka ditoy ket addaakto kenka.
-Bendisionankanto.
-Itedkonto amin daytoy a daga kenka ken kadagiti kaputotam, kas inkarik ken ni tatangmo nga Abraham.
-Paraburankanto iti adu a kaputotan a kas iti kaadu dagiti bituen ket itedkonto kadakuada amin daytoy a daga.
-Dawatento dagiti amin a nasion ditoy lubong a bendisionak ida kas iti panangbendisionko kadagiti kaputotam.
-Bendisionanka gapu ken ni Abraham, ta nagtulnog kaniak ket tinungpalna amin a bilinko.
-Nagnaed ngarud ni Isaac idiay Gerar.
-No damagen idi dagiti lallaki a taga-sadiay ti maipapan iti asawana, ibagana a kabsatna ni Rebecca.
-Mabuteng ngamin a mangibaga nga asawana amangan no patayenda ket alaenda ni Rebecca a nakapimpintas a babai.
-Nabayag a nagtaeng ni Isaac sadiay.
-Iti maysa nga aldaw, timman-aw ni Abimelec ket nakitana nga aglinlinnailo da Isaac ken Rebecca.
-Pinaayaban ni Abimelec ni Isaac ket kinunana, Asawam met gayam!
-Apay nga imbagam a kabsatmo?
-Insungbat ni Isaac, Mabutengak amangan no mapapatayak no ibagak nga asawak.
-Kitaem ti inaramidmo, kinuna ti ari.
-No adda maysa kadagiti buyotko ti nanggaraw kenkuana, insarsaraknakami iti pagbasolan.
-Ket binallaagan ni Abimelec dagiti tattaona: Mapapatay ti siasinoman a mangdangran kadagitoy nga agassawa.
-Nagtalon ni Isaac iti dayta a daga.
-Iti dayta a tawen, nakaapit iti maminggasut a kaadu ti immulana, gapu ta binendisionan ni Yahweh.
-Rimmang-ay a rimmang-ay ti panagbiagna agingga a nagbalin a nakabakbaknang.
-Inapalan dagiti Filisteo ta adu ti tagabu ken arbanna a karnero ken baka.
-Iti kasta, ginaburan dagiti Filisteo dagiti amin a bubon a kinali dagiti adipen ni Abraham a tatangna idi sibibiag pay.
-Kinuna ni Abimelec ken ni Isaac, Panawam ti pagilianmi.
-Nagbalinkan a nabilbileg ngem dakami.
-Pimmanaw ngarud ni Isaac.
-Nagkampo iti Tanap ti Gerar ket ditoy ti nagnaedanna iti nabayag bassit a tiempo.
-Pinakalina manen dagiti bubon a ginaburan dagiti Filisteo kalpasan ti ipapatay ni Abraham.
-Pinanagananna dagiti bubon iti kas iti impanagan idi ni tatangna a nangkali kadagitoy idi panawenna.
-Idi agkalkali dagiti adipen ni Isaac iti tanap, nakasarakda iti ubbog ti danum.
-Nagsusuppiat dagiti agpaspastor a taga-Gerar ken dagiti tattao ni Isaac.
-Imbaga ngamin dagiti taga-sadiay a kukuada ti ubbog.
-Ket pinanaganan ni Isaac ti bubon iti Esek.
-Nagkali dagiti adipen ni Isaac iti sabali a bubon.
-Gapu ta rimsua manen ti riri, pinanaganan ni Isaac iti Sitnah.
-Pimmanaw sadiay ket nagkali iti sabali a bubon.
-Gapu ta awan ti riri a timmaud, pinanagananna iti Rehobot.
-Kinunana, Ita, inikkannatayo ti Apo iti wayawaya nga agnaed iti daga.
-Rumang-aytayo ditoy.
-Pimmanaw ni Isaac ket napan idiay Beerseba.
-Iti dayta a rabii, nagparang ni Yahweh kenkuana ket kinunana, Siak ti Dios ni Abraham a tatangmo.
-Dika agbuteng; addaak kenka.
-Bendisionanka ket paraburanka iti adu a kaputotan gapu iti karik ken ni adipenko nga Abraham.
-Nangbangon ni Isaac iti altar ket nagdaydayaw ken ni Yahweh.
-Sadiay ti nagkampoanna ket nagkali dagiti adipenna iti sabali a bubon.
-Dimteng ni Abimelec a kaduana ni Ahuzzat a mamalbalakad kenkuana, ken ni Ficol a pangulo ti armadana.
-Naggapuda idiay Gerar ket makisaoda ken ni Isaac.
-Kinunana, Apay nga immaykayo idinto ta kagurguradak idi ket pinagtalawdak iti iliyo?
-Insungbatda, Ammomi nga adda ti Dios kenka ket napanunotmi nga adda koma pagnunumoantayo.
-Kayatmi nga ikarim a dinakamto dangran a kas iti dimi panangdangran kenka.
-Naimbagkami idi kenka ket saandaka nga inan-ano idi pumanawka.
-Ita, nalawag a binendisionannaka ti Apo .
-Insaganaan ida ni Isaac iti maysa a padaya ket nagkakapangan ken nagiinumda.
-Iti agsapa iti sumuno a bigat, nagsisinnapatada a tungpalen ti tunggal maysa ti karina.
-Kalpasanna, pinarubbuatan ida ni Isaac ket manipud idi agsisinada, nagbalindan nga aggagayyem.
-Iti dayta nga aldaw, dimteng dagiti adipen ni Isaac ket impadamagda kenkuana a nakasarakda iti danum iti bubon a kinalida.
-Pinanaganan ni Isaac ti bubon iti Seba.
-Kastoy ti pannakapanagan ti siudad iti Beerseba.
-Idi 40 ti tawen ni Esau, nangasawa iti dua a babbai a Heteo: ni Judit nga anak ni Beeri ken ni Basemat nga anak ni Elon.
-Kasta unay ti panangpaladingitda iti biag da Isaac ken Rebecca.
+verse	content
+001	Adda pay sabali a panagbisin a dimteng iti daga malaksid daydi immuna idi panawen ni Abraham.
+001	Nakadanon ni Isaac idiay Gerar a sakup ni Abimelec, nga ari dagiti Filisteo.
+002	Sakbay daytoy, nagparang ni Yahweh ken ni Isaac ket kinunana kenkuana, Dika mapan idiay Egipto.
+002	Agyanka iti daga nga imbagak a pagyanam.
+003	Agnaedka ditoy ket addaakto kenka.
+003	Bendisionankanto.
+003	Itedkonto amin daytoy a daga kenka ken kadagiti kaputotam, kas inkarik ken ni tatangmo nga Abraham.
+004	Paraburankanto iti adu a kaputotan a kas iti kaadu dagiti bituen ket itedkonto kadakuada amin daytoy a daga.
+004	Dawatento dagiti amin a nasion ditoy lubong a bendisionak ida kas iti panangbendisionko kadagiti kaputotam.
+005	Bendisionanka gapu ken ni Abraham, ta nagtulnog kaniak ket tinungpalna amin a bilinko.
+006	Nagnaed ngarud ni Isaac idiay Gerar.
+007	No damagen idi dagiti lallaki a taga-sadiay ti maipapan iti asawana, ibagana a kabsatna ni Rebecca.
+007	Mabuteng ngamin a mangibaga nga asawana amangan no patayenda ket alaenda ni Rebecca a nakapimpintas a babai.
+008	Nabayag a nagtaeng ni Isaac sadiay.
+008	Iti maysa nga aldaw, timman-aw ni Abimelec ket nakitana nga aglinlinnailo da Isaac ken Rebecca.
+009	Pinaayaban ni Abimelec ni Isaac ket kinunana, Asawam met gayam!
+009	Apay nga imbagam a kabsatmo?
+010	Insungbat ni Isaac, Mabutengak amangan no mapapatayak no ibagak nga asawak.
+011	Kitaem ti inaramidmo, kinuna ti ari.
+011	No adda maysa kadagiti buyotko ti nanggaraw kenkuana, insarsaraknakami iti pagbasolan.
+012	Ket binallaagan ni Abimelec dagiti tattaona: Mapapatay ti siasinoman a mangdangran kadagitoy nga agassawa.
+013	Nagtalon ni Isaac iti dayta a daga.
+013	Iti dayta a tawen, nakaapit iti maminggasut a kaadu ti immulana, gapu ta binendisionan ni Yahweh.
+014	Rimmang-ay a rimmang-ay ti panagbiagna agingga a nagbalin a nakabakbaknang.
+015	Inapalan dagiti Filisteo ta adu ti tagabu ken arbanna a karnero ken baka.
+016	Iti kasta, ginaburan dagiti Filisteo dagiti amin a bubon a kinali dagiti adipen ni Abraham a tatangna idi sibibiag pay.
+017	Kinuna ni Abimelec ken ni Isaac, Panawam ti pagilianmi.
+017	Nagbalinkan a nabilbileg ngem dakami.
+018	Pimmanaw ngarud ni Isaac.
+018	Nagkampo iti Tanap ti Gerar ket ditoy ti nagnaedanna iti nabayag bassit a tiempo.
+019	Pinakalina manen dagiti bubon a ginaburan dagiti Filisteo kalpasan ti ipapatay ni Abraham.
+019	Pinanagananna dagiti bubon iti kas iti impanagan idi ni tatangna a nangkali kadagitoy idi panawenna.
+020	Idi agkalkali dagiti adipen ni Isaac iti tanap, nakasarakda iti ubbog ti danum.
+021	Nagsusuppiat dagiti agpaspastor a taga-Gerar ken dagiti tattao ni Isaac.
+021	Imbaga ngamin dagiti taga-sadiay a kukuada ti ubbog.
+021	Ket pinanaganan ni Isaac ti bubon iti Esek.
+022	Nagkali dagiti adipen ni Isaac iti sabali a bubon.
+022	Gapu ta rimsua manen ti riri, pinanaganan ni Isaac iti Sitnah.
+023	Pimmanaw sadiay ket nagkali iti sabali a bubon.
+023	Gapu ta awan ti riri a timmaud, pinanagananna iti Rehobot.
+023	Kinunana, Ita, inikkannatayo ti Apo iti wayawaya nga agnaed iti daga.
+023	Rumang-aytayo ditoy.
+024	Pimmanaw ni Isaac ket napan idiay Beerseba.
+025	Iti dayta a rabii, nagparang ni Yahweh kenkuana ket kinunana, Siak ti Dios ni Abraham a tatangmo.
+025	Dika agbuteng; addaak kenka.
+025	Bendisionanka ket paraburanka iti adu a kaputotan gapu iti karik ken ni adipenko nga Abraham.
+026	Nangbangon ni Isaac iti altar ket nagdaydayaw ken ni Yahweh.
+026	Sadiay ti nagkampoanna ket nagkali dagiti adipenna iti sabali a bubon.
+027	Dimteng ni Abimelec a kaduana ni Ahuzzat a mamalbalakad kenkuana, ken ni Ficol a pangulo ti armadana.
+027	Naggapuda idiay Gerar ket makisaoda ken ni Isaac.
+028	Kinunana, Apay nga immaykayo idinto ta kagurguradak idi ket pinagtalawdak iti iliyo?
+029	Insungbatda, Ammomi nga adda ti Dios kenka ket napanunotmi nga adda koma pagnunumoantayo.
+029	Kayatmi nga ikarim
+030	a dinakamto dangran a kas iti dimi panangdangran kenka.
+030	Naimbagkami idi kenka ket saandaka nga inan-ano idi pumanawka.
+030	Ita, nalawag a binendisionannaka ti Apo .
+031	Insaganaan ida ni Isaac iti maysa a padaya ket nagkakapangan ken nagiinumda.
+032	Iti agsapa iti sumuno a bigat, nagsisinnapatada a tungpalen ti tunggal maysa ti karina.
+032	Kalpasanna, pinarubbuatan ida ni Isaac ket manipud idi agsisinada, nagbalindan nga aggagayyem.
+033	Iti dayta nga aldaw, dimteng dagiti adipen ni Isaac ket impadamagda kenkuana a nakasarakda iti danum iti bubon a kinalida.
+034	Pinanaganan ni Isaac ti bubon iti Seba.
+034	Kastoy ti pannakapanagan ti siudad iti Beerseba.
+035	Idi 40 ti tawen ni Esau, nangasawa iti dua a babbai a Heteo: ni Judit nga anak ni Beeri ken ni Basemat nga anak ni Elon.
+036	Kasta unay ti panangpaladingitda iti biag da Isaac ken Rebecca.

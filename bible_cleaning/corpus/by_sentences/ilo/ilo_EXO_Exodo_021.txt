@@ -1,39 +1,46 @@
-Ipaulogmo dagitoy a linteg kadagiti Israelita No gumatangkayo iti lalaki a tagabu a Hebreo, agserbinto kadakayo iti innem a tawen.
-Iti maikapito a tawen, mawayawayaanto nga awan bayadanna.
-No awan asawana idi magatang, pumanawto met nga awan asawana.
-Ngem no adda asawana idi magatang, pumanawto agraman ti asawana.
-No ikkan ti amongna iti asawa ket aganak, kukua ti amongna ti asawana ken ti tunggal anakna.
-Ti lalaki laeng ti pumanawto.
-Ngem no dina kayat gapu ta ay-ayatenna ti amongna, ti asawa ken dagiti annakna, ket dina kayat ti mawayawayaan, ipanto ngarud ti amongna iti lugar a pagdaydayawan.
-Sadiay, pagtakderento ti amongna iti ruangan wenno iti baotek ti ruangan ket tebbengannanto.
-Ket tagabunanto agingga't tungpal biagna.
-No ilako ti maysa nga ama ti anakna a babai a kas tagabu, saanto a mawayawayaan daytoy a kas iti pannakawayawaya ti tagabu a lalaki.
-No mailako iti agpanggep a mangasawa kenkuana ngem dinto kayat ti lalaki, masapul a sakaen met laeng ti amana.
-Awan kalintegan ti amongna a mangilako kenkuana kadagiti ganggannaet ta saan a nasayaat ti panangtratarna kenkuana.
-No gumatang ti maysa a tao iti babai a tagabu nga ipaasawana iti anakna, masapul nga ibilangna a kas bukodna nga anak.
-No mangasawa dayta a lalaki iti sabali, masapul nga ituloyna nga ited ti sigud a taraon, kawes ken kalinteganna.
-No dina tungpalen dagitoy a pagrebbengan, masapul a wayawayaanna ti babai ket saanen a masapul nga agbayad ti babai iti pannakawayawayana.
-Siasinoman a mangkabil iti maysa a tao a pakaigapuan ti ipapatayna, rumbeng met a mapapatay.
-No dina inggagara wenno pinanggep a patayen, mabalinna ti mapan agkamang iti lugar nga itudingkonto ket awanto ti pakaan-annoanna sadiay.
-Ngem no makapungtot ti maysa a tao ket igagarana a patayen ti sabali, masapul a mapapatay uray no agkamang iti altarko.
-Siasinoman a mangkabil iti ama wenno inana, rumbeng a mapapatay.
-Siasinoman a mangkidnap iti maysa a tao tapno ilako wenno tagabuenna, rumbeng a mapapatay.
-Siasinoman a mangilunod iti ama wenno iti inana, rumbeng a mapapatay.
-No adda agapa ket madunor ti maysa babaen iti bato wenno gemgemna, saan a madusa no saan a matay ti dinangranna.
-Ngem no maidalit ti nadangran, ket mabalinna ti bumangon ken magna uray no agsarukod, bayadan ti nakadunor dagiti aldaw a napukawna ken taripatoenna agingga nga umimbag.
-Siasinoman a mangpang-or iti tagabuna, lalaki man wenno babai, rumbeng a madusa no matay a dagus ti pinang-orna.
-Ngem no saan a matay ti tagabu kalpasan ti maysa wenno dua nga aldaw, saan a madusa ti amo ta umdasen a dusana ti pannakapukaw ti tagabuna.
-No adda agkakabil a lallaki ket masaktanda ti maysa a masikog a pakaigapuan ti pannakaalisna ngem awanen ti sabali a dunorna, mamulta ti nakadunor iti gatad nga ikeddeng ti asawa ti nadangran, kas mayannurot iti inkeddeng ti ukom.
-Ngem no madunor ti babai, madusa ti nangdangran: biag iti biag, mata iti mata, ngipen iti ngipen, ima iti ima, saka iti saka, puor iti puor, sugat iti sugat, dunor iti dunor.
-No kabilen ti maysa a tao ti tagabuna, lalaki man wenno babai ket nabuldinganna, rebbengna a wayawayaan ti tagabu a kas bayad ti matana.
-Ket no natuppolanna ti tagabu, rebbengna a wayawayaan a kas bayad ti ngipenna.
-No matay ti siasinoman a sangdoen ti baka, masapul a maubor ti baka agingga a matay ket saan a sidaen ti karnena; nupay kasta, saan a madusa ti akimbaka.
-Ngem no sumasangdo ti baka ken napakdaaran ti akinkukua ngem dina ipupok, ket matay ti tao a sinangdona, maubor ti baka agingga a matay; mapapatay pay ti akinkukua.
-Ngem no mapalubosan nga agmulta ti akimbaka tapno maispal ti biagna, bayadanna ti amin a naikeddeng a pagbayad.
-No ubing a lalaki wenno babai ti mapatay ti baka, daytoy met laeng a linteg ti masurot.
-No tagabu a lalaki wenno babai ti mapatayna, agbayad ti akimbaka iti 30 a bagi ti pirak iti among ti tagabu ket mabato ti baka agingga a matay.
-No ikkaten ti maysa a tao ti kalub ti abut a pagurnongan iti danum wenno agkali iti sabali sa dina kaluban ket adda baka wenno asno a matnag ditoy, masapul a bayadanna ti animal.
-Itedna ti kuarta iti akinkukua iti abut ket alaenna ti natay nga animal.
-No ti baka ti maysa a tao patayenna ti baka ti sabali, mailako ti sibibiag a baka sada pagguduaan ti naglakoanda.
-Pagguduaanda met ti natay nga animal.
-Ngem no ugali ti baka ti sumangdo ngem saan nga ipupok ti akimbaka, masapul a sukatanna iti sibibiag a baka, ket kukuana metten ti natay nga animal.
+verse	content
+001	Ipaulogmo dagitoy a linteg kadagiti Israelita
+002	No gumatangkayo iti lalaki a tagabu a Hebreo, agserbinto kadakayo iti innem a tawen.
+002	Iti maikapito a tawen, mawayawayaanto nga awan bayadanna.
+003	No awan asawana idi magatang, pumanawto met nga awan asawana.
+003	Ngem no adda asawana idi magatang, pumanawto agraman ti asawana.
+004	No ikkan ti amongna iti asawa ket aganak, kukua ti amongna ti asawana ken ti tunggal anakna.
+004	Ti lalaki laeng ti pumanawto.
+005	Ngem no dina kayat gapu ta ay-ayatenna ti amongna, ti asawa ken dagiti annakna, ket dina kayat ti mawayawayaan,
+006	ipanto ngarud ti amongna iti lugar a pagdaydayawan.
+006	Sadiay, pagtakderento ti amongna iti ruangan wenno iti baotek ti ruangan ket tebbengannanto.
+006	Ket tagabunanto agingga't tungpal biagna.
+007	No ilako ti maysa nga ama ti anakna a babai a kas tagabu, saanto a mawayawayaan daytoy a kas iti pannakawayawaya ti tagabu a lalaki.
+008	No mailako iti agpanggep a mangasawa kenkuana ngem dinto kayat ti lalaki, masapul a sakaen met laeng ti amana.
+008	Awan kalintegan ti amongna a mangilako kenkuana kadagiti ganggannaet ta saan a nasayaat ti panangtratarna kenkuana.
+009	No gumatang ti maysa a tao iti babai a tagabu nga ipaasawana iti anakna, masapul nga ibilangna a kas bukodna nga anak.
+010	No mangasawa dayta a lalaki iti sabali, masapul nga ituloyna nga ited ti sigud a taraon, kawes ken kalinteganna.
+011	No dina tungpalen dagitoy a pagrebbengan, masapul a wayawayaanna ti babai ket saanen a masapul nga agbayad ti babai iti pannakawayawayana.
+012	Siasinoman a mangkabil iti maysa a tao a pakaigapuan ti ipapatayna, rumbeng met a mapapatay.
+013	No dina inggagara wenno pinanggep a patayen, mabalinna ti mapan agkamang iti lugar nga itudingkonto ket awanto ti pakaan-annoanna sadiay.
+014	Ngem no makapungtot ti maysa a tao ket igagarana a patayen ti sabali, masapul a mapapatay uray no agkamang iti altarko.
+015	Siasinoman a mangkabil iti ama wenno inana, rumbeng a mapapatay.
+016	Siasinoman a mangkidnap iti maysa a tao tapno ilako wenno tagabuenna, rumbeng a mapapatay.
+017	Siasinoman a mangilunod iti ama wenno iti inana, rumbeng a mapapatay.
+018	No adda agapa ket madunor ti maysa babaen iti bato wenno gemgemna, saan a madusa no saan a matay ti dinangranna.
+018	Ngem no maidalit ti nadangran,
+019	ket mabalinna ti bumangon ken magna uray no agsarukod, bayadan ti nakadunor dagiti aldaw a napukawna ken taripatoenna agingga nga umimbag.
+020	Siasinoman a mangpang-or iti tagabuna, lalaki man wenno babai, rumbeng a madusa no matay a dagus ti pinang-orna.
+021	Ngem no saan a matay ti tagabu kalpasan ti maysa wenno dua nga aldaw, saan a madusa ti amo ta umdasen a dusana ti pannakapukaw ti tagabuna.
+022	No adda agkakabil a lallaki ket masaktanda ti maysa a masikog a pakaigapuan ti pannakaalisna ngem awanen ti sabali a dunorna, mamulta ti nakadunor iti gatad nga ikeddeng ti asawa ti nadangran, kas mayannurot iti inkeddeng ti ukom.
+023	Ngem no madunor ti babai, madusa ti nangdangran: biag iti biag,
+024	mata iti mata, ngipen iti ngipen, ima iti ima, saka iti saka,
+025	puor iti puor, sugat iti sugat, dunor iti dunor.
+026	No kabilen ti maysa a tao ti tagabuna, lalaki man wenno babai ket nabuldinganna, rebbengna a wayawayaan ti tagabu a kas bayad ti matana.
+027	Ket no natuppolanna ti tagabu, rebbengna a wayawayaan a kas bayad ti ngipenna.
+028	No matay ti siasinoman a sangdoen ti baka, masapul a maubor ti baka agingga a matay ket saan a sidaen ti karnena; nupay kasta, saan a madusa ti akimbaka.
+029	Ngem no sumasangdo ti baka ken napakdaaran ti akinkukua ngem dina ipupok, ket matay ti tao a sinangdona, maubor ti baka agingga a matay; mapapatay pay ti akinkukua.
+030	Ngem no mapalubosan nga agmulta ti akimbaka tapno maispal ti biagna, bayadanna ti amin a naikeddeng a pagbayad.
+031	No ubing a lalaki wenno babai ti mapatay ti baka, daytoy met laeng a linteg ti masurot.
+032	No tagabu a lalaki wenno babai ti mapatayna, agbayad ti akimbaka iti 30 a bagi ti pirak iti among ti tagabu ket mabato ti baka agingga a matay.
+033	No ikkaten ti maysa a tao ti kalub ti abut a pagurnongan iti danum wenno agkali iti sabali sa dina kaluban ket adda baka wenno asno a matnag ditoy,
+034	masapul a bayadanna ti animal.
+034	Itedna ti kuarta iti akinkukua iti abut ket alaenna ti natay nga animal.
+035	No ti baka ti maysa a tao patayenna ti baka ti sabali, mailako ti sibibiag a baka sada pagguduaan ti naglakoanda.
+035	Pagguduaanda met ti natay nga animal.
+036	Ngem no ugali ti baka ti sumangdo ngem saan nga ipupok ti akimbaka, masapul a sukatanna iti sibibiag a baka, ket kukuana metten ti natay nga animal.

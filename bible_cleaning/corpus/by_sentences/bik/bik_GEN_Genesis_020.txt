@@ -1,26 +1,30 @@
-Hale sa Mamre, nagpasiring sa habagat na parte kan Canaan si Abraham asin nag-erok sa pagultanan kan Kades asin Sur.
-Kan nag-eerok na siya sa Gerar, ipinamidbid niya bilang tugang an saiyang agom na si Sara.
-Kaya ipinakua si Sara ni Abimelek na hade nin Gerar.
-Sarong banggi, nagpahiling an Dios ki Abimelek sa pangatorogan asin nagtaram, Magagadan ka huli ta kinua mo an babaeng ini na may agom.
-Alagad dai pa nararanihan ni Abimelek si Sara kaya nagsabi siya, Kagurangnan , mayo akong kasalan!
-Gagadanon mo daw ako asin an sakong banwaan?
-Si Abraham mismo an nagsabing tugang niya si Sara, asin iyo man an sabi kan babaeng ini.
-Malinig an sakong konsyensya asin mayo akong naginibong maraot.
-Nagsimbag an Dios sa pangatorogan, Aram kong malinig an saimong konsyensya kaya dai ko itinugot na magkasala ka sako asin madotdot mo siya.
-Kaya ngunyan ibalik mo siya sa saiyang agom na si Abraham.
-Saro siyang propeta asin ipapamibi ka niya tanganing dai ka magadan.
-Alagad kun dai mo ibalik si Sara, magagadan ka asin an gabos mong nasasakopan.
-Amay pa kan sunod na aldaw inapod ni Abimelek an gabos niyang opisyal dangan inosipan kan nangyari.
-Natakot sinda kaya inapod ni Abimelek si Abraham asin sinabihan, Ano ining ginibo mo samo?
-Ano an nagin kasalan ko saimo ta dinara mo sako asin sa bilog kong nasasakopan an kapahamakan na ini?
-Ginibo mo sa sako an mga bagay na dai dapat gibohon.
-Tadaw ta ginibo mo idto?
-Nagsimbag si Abraham, An paghona ko mayo nin siisay man digdi na may pagkatakot sa Dios, asin gagadanon ninda ako tanganing makua an sakong agom.
-Totoo na tugang ko si Sara.
-Aki siya kan sakong ama, alagad bako kan sakong ina, asin inagom ko siya.
-Kaya kan pahaleon ako nin Dios sa harong kan sakong ama, sinabihan ko siyang, Saen man kita makaabot ikakapahiling mo an saimong pagkamaimbod sako sa pagsabi sa kiisay man na tugang mo ako.
-Ibinalik ni Abimelek si Sara ki Abraham dangan tinawan pa niya ini nin mga karnero, mga baka, asin mga oripon.
-Sinabihan ni Abimelek si Abraham, Uya an bilog kong daga; mag-erok ka kun saen mo gusto.
-Sinabihan man niya si Sara, Tinawan ko an tugang mo nin sangribong pedasong plata bilang patotoo sa gabos mong kairiba na ika inosente; maaaraman ninda na mayo kang kasalan.
-Dangan namibi sa Dios si Abraham asin binulong nin Dios si Abimelek.
-Binulong man nin Dios an agom kan hade asin an mga oripon na babae tanganing magkaaki sinda, huli ta pinadusahan nin Kagurangnan na dai mangaki an mga babae sa palasyo ni Abimelek huli kan nangyari ki Sara na agom ni Abraham.
+verse	content
+001	Hale sa Mamre, nagpasiring sa habagat na parte kan Canaan si Abraham asin nag-erok sa pagultanan kan Kades asin Sur.
+001	Kan nag-eerok na siya sa Gerar,
+002	ipinamidbid niya bilang tugang an saiyang agom na si Sara.
+002	Kaya ipinakua si Sara ni Abimelek na hade nin Gerar.
+003	Sarong banggi, nagpahiling an Dios ki Abimelek sa pangatorogan asin nagtaram, Magagadan ka huli ta kinua mo an babaeng ini na may agom.
+004	Alagad dai pa nararanihan ni Abimelek si Sara kaya nagsabi siya, Kagurangnan , mayo akong kasalan!
+004	Gagadanon mo daw ako asin an sakong banwaan?
+005	Si Abraham mismo an nagsabing tugang niya si Sara, asin iyo man an sabi kan babaeng ini.
+005	Malinig an sakong konsyensya asin mayo akong naginibong maraot.
+006	Nagsimbag an Dios sa pangatorogan, Aram kong malinig an saimong konsyensya kaya dai ko itinugot na magkasala ka sako asin madotdot mo siya.
+007	Kaya ngunyan ibalik mo siya sa saiyang agom na si Abraham.
+007	Saro siyang propeta asin ipapamibi ka niya tanganing dai ka magadan.
+007	Alagad kun dai mo ibalik si Sara, magagadan ka asin an gabos mong nasasakopan.
+008	Amay pa kan sunod na aldaw inapod ni Abimelek an gabos niyang opisyal dangan inosipan kan nangyari.
+008	Natakot sinda
+009	kaya inapod ni Abimelek si Abraham asin sinabihan, Ano ining ginibo mo samo?
+009	Ano an nagin kasalan ko saimo ta dinara mo sako asin sa bilog kong nasasakopan an kapahamakan na ini?
+009	Ginibo mo sa sako an mga bagay na dai dapat gibohon.
+010	Tadaw ta ginibo mo idto?
+011	Nagsimbag si Abraham, An paghona ko mayo nin siisay man digdi na may pagkatakot sa Dios, asin gagadanon ninda ako tanganing makua an sakong agom.
+012	Totoo na tugang ko si Sara.
+012	Aki siya kan sakong ama, alagad bako kan sakong ina, asin inagom ko siya.
+013	Kaya kan pahaleon ako nin Dios sa harong kan sakong ama, sinabihan ko siyang, Saen man kita makaabot ikakapahiling mo an saimong pagkamaimbod sako sa pagsabi sa kiisay man na tugang mo ako.
+014	Ibinalik ni Abimelek si Sara ki Abraham dangan tinawan pa niya ini nin mga karnero, mga baka, asin mga oripon.
+015	Sinabihan ni Abimelek si Abraham, Uya an bilog kong daga; mag-erok ka kun saen mo gusto.
+016	Sinabihan man niya si Sara, Tinawan ko an tugang mo nin sangribong pedasong plata bilang patotoo sa gabos mong kairiba na ika inosente; maaaraman ninda na mayo kang kasalan.
+017	Dangan namibi sa Dios si Abraham asin binulong nin Dios si Abimelek.
+017	Binulong man nin Dios an agom kan hade asin an mga oripon na babae tanganing magkaaki sinda,
+018	huli ta pinadusahan nin Kagurangnan na dai mangaki an mga babae sa palasyo ni Abimelek huli kan nangyari ki Sara na agom ni Abraham.

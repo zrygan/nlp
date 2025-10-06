@@ -1,26 +1,32 @@
-Si Sarai nga asawa ni Abram wala manganak.
-Apan siya may babayeng ulipon nga Ehiptohanon nga ginganlag Hagar.
-Miingon si Sarai kang Abram, Nakita mo nga ang Ginoo wala motugot nga manganak ako busa adtoa ang akong ulipon ug pakighilawas kaniya basin pag makabaton akog anak pinaagi kaniya.
-Busa miuyon si Abram sa gisulti ni Sarai kaniya.
-Unya gihatag ni Sarai si Hagar kang Abram aron mahimong iyang asawa.
-Nahitabo kini sa nakapuyo na si Abram sa Canaan ug napulo ka tuig.
-Human si Abram makighilawas kang Hagar, nagmabdos si Hagar.
-Sa pagkasayod ni Hagar nga nagsabak siya, nagpagarbo siya ug gibiaybiay niya si Sarai.
-Unya miingon si Sarai kang Abram, Ikaw ang angay basolon sa pagbiaybiay ni Hagar kanako.
-Gihatag ko siya kanimo apan sukad siya masayod nga nagsabak siya, gibiaybiay niya ako.
-Maghukom unta ang Ginoo kon kinsay sad-an kanato.
-Si Abram mitubag, Kon mao kana, imo siyang ulipon ug ilalom sa imong pagbuot; ikaw nay mag-igo kaniya.
-Ug gidaugdaog pag-ayo ni Sarai si Hagar busa mikagiw si Hagar.
-Gitagbo si Hagar sa anghel sa Ginoo didto sa usa ka tubod sa kamingawan, sa dalan paingon sa yuta sa Shur.
-Ang anghel miingon, Hagar, ulipon ni Sarai, diin ka man gikan ug asa ka man padulong?
-Si Hagar mitubag, Mikagiw ako aron mahilayo sa akong agalon nga si Sarai.
-Ang anghel miingon, Balik kaniya ug tumana ang iyang isugo kanimo.
-Ug ang anghel mipadayon sa pag-ingon, Padaghanon ko pag-ayo ang imong mga kaliwat ug dili na sila maihap.
-Sa dili madugay manganak kag batang lalaki nga imong nganlag Ismael kay gidungog man sa Ginoo ang imong pagpakitabang.
-Apan ang imong anak magpuyo sama sa usa ka ihalas nga asno; makigbatok siya sa tanan ug ang tanan makigbatok kaniya.
-Magpahilayo siya sa iyang mga paryenti.
-Nakaingon si Hagar sa iyang kaugalingon, Nakita ko ba gayod kaha dinhi ang Ginoo ug magpabiling buhi aron pagsugilon bahin niini?
-Busa ginganlan niya ang Ginoo nga nakigsulti kaniya, Usa ka Dios nga makakita.
-Tungod niini, ang atabay nga nahimutang tungatunga sa Cades ug sa Bered gitawag sa mga tawo ug Beerla-hai-roi.
-Unya nanganak si Hagar ug batang lalaki ug ginganlan ni Abram ang iyang anak ug Ismael.
-Niadtong panahona 86 na ang panuigon ni Abram.
+verse	content
+001	Si Sarai nga asawa ni Abram wala manganak.
+001	Apan siya may babayeng ulipon nga Ehiptohanon nga ginganlag Hagar.
+002	Miingon si Sarai kang Abram, Nakita mo nga ang Ginoo wala motugot nga manganak ako busa adtoa ang akong ulipon ug pakighilawas kaniya basin pag makabaton akog anak pinaagi kaniya.
+002	Busa miuyon si Abram sa gisulti ni Sarai kaniya.
+003	Unya gihatag ni Sarai si Hagar kang Abram aron mahimong iyang asawa.
+003	Nahitabo kini sa nakapuyo na si Abram sa Canaan ug napulo ka tuig.
+004	Human si Abram makighilawas kang Hagar, nagmabdos si Hagar.
+004	Sa pagkasayod ni Hagar nga nagsabak siya, nagpagarbo siya ug gibiaybiay niya si Sarai.
+005	Unya miingon si Sarai kang Abram, Ikaw ang angay basolon sa pagbiaybiay ni Hagar kanako.
+005	Gihatag ko siya kanimo apan sukad siya masayod nga nagsabak siya, gibiaybiay niya ako.
+005	Maghukom unta ang Ginoo kon kinsay sad-an kanato.
+006	Si Abram mitubag, Kon mao kana, imo siyang ulipon ug ilalom sa imong pagbuot; ikaw nay mag-igo kaniya.
+006	Ug gidaugdaog pag-ayo ni Sarai si Hagar busa mikagiw si Hagar.
+007	Gitagbo si Hagar sa anghel sa Ginoo didto sa usa ka tubod sa kamingawan, sa dalan paingon sa yuta sa Shur.
+008	Ang anghel miingon, Hagar, ulipon ni Sarai, diin ka man gikan ug asa ka man padulong?
+009	Si Hagar mitubag, Mikagiw ako aron mahilayo sa akong agalon nga si Sarai.
+010	Ang anghel miingon, Balik kaniya ug tumana ang iyang isugo kanimo.
+011	Ug ang anghel mipadayon sa pag-ingon,
+012	Padaghanon ko pag-ayo ang imong mga kaliwat
+013	ug dili na sila maihap.
+014	Sa dili madugay manganak kag batang lalaki
+015	nga imong nganlag Ismael
+016	kay gidungog man sa Ginoo ang imong pagpakitabang.
+017	Apan ang imong anak magpuyo sama sa usa ka ihalas nga asno;
+018	makigbatok siya sa tanan ug ang tanan makigbatok kaniya.
+019	Magpahilayo siya sa iyang mga paryenti.
+020	Nakaingon si Hagar sa iyang kaugalingon, Nakita ko ba gayod kaha dinhi ang Ginoo ug magpabiling buhi aron pagsugilon bahin niini?
+020	Busa ginganlan niya ang Ginoo nga nakigsulti kaniya, Usa ka Dios nga makakita.
+021	Tungod niini, ang atabay nga nahimutang tungatunga sa Cades ug sa Bered gitawag sa mga tawo ug Beerla-hai-roi.
+022	Unya nanganak si Hagar ug batang lalaki ug ginganlan ni Abram ang iyang anak ug Ismael.
+023	Niadtong panahona 86 na ang panuigon ni Abram.

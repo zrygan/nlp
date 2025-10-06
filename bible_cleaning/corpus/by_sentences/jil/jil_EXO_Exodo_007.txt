@@ -1,34 +1,37 @@
-Ang Ginoo nagsiling kay Moises, Tan-awa bala, himuon ko ikaw nga daw Dios sa hari, kag si Aaron nga imo utod magahambal sa iya subong imo propeta.
-Sugiri si Aaron sang tanan nga ginsugo ko sa imo, kag sia magasiling sa hari nga tugotan niya ang mga Israelinhon sa paggwa sa iya pungsod.
-Pero patig-ahon ko ang tagipusoon sang hari, kag bisan magahimo ako sing madamo nga mga milagro kag makatilingala nga mga buhat sa Ehipto, indi sia magpamati sa inyo.
-Dayon halitan ko ang duta sang Ehipto, silutan ko sila sing tudotudo, kag pangulohan ko ang mga tribo sang akon katawhan nga mga Israelinhon pagwa sa Ehipto.
-Ang mga Ehiptohanon magakilala nga ako amo ang Ginoo , kon bayawon ko ang akon kamot batok sa ila, kag pagwaon ko ang mga Israelinhon sa ila pungsod.
-Gintuman ni Moises kag ni Aaron ang ginsugo sang Ginoo sa ila.
-Ang edad ni Moises otsenta ka tuig, kag ang edad ni Aaron otsentay tres ka tuig, sang maghambal sila sa hari.
-Ang Ginoo nagsiling kay Moises kag kay Aaron, Kon ang hari magsiling sa inyo, Pamatud-i ninyo ini paagi sa paghimo sing milagro, singgana si Aaron, Kuhaa ang imo sungkod kag ihaboy sa atubang sang hari, kag mahimo ini nga man-og.
-Gani si Moises kag si Aaron nagkadto sa hari, kag gintuman ang tanan nga ginsugo sang Ginoo sa ila.
-Ginhaboy ni Aaron ang iya sungkod sa atubang sang hari kag sang iya mga opisyales, kag nahimo ini nga man-og.
-Dayon gintawag sang hari ang iya mga mangin-alamon nga mga tawo kag mga madyikero, kag paagi sa ila mga madyik naghimo sila sing amo man.
-Ginhaboy nila ang ila mga sungkod sa duta kag nahimo ini nga mga man-og.
-Pero ang sungkod nga iya ni Aaron naghalunhon sang ila mga sungkod.
-Pero ang hari nagpatig-a sang iya tagipusoon, kag indi sia magpamati sa ila, subong sang ginsiling sang Ginoo .
-Karon ang Ginoo nagsiling kay Moises, Matig-a ang tagipusoon sang hari, kag indi gid niya pagpalakton ang mga tawo.
-Gani lakat ka kag pakigkitai ang hari pagkaaga, sa iya pagkadto sa Suba sang Nilo.
-Hulata sia sa pangpang sang suba.
-Dalha man ang sungkod nga nahimo nga man-og.
-Dayon singgana ang hari, Ang Ginoo , ang Dios sang mga Hebreo, nagpadala sa akon sa pagsiling sa imo: Palakta ang akon mga tawo, agod makasimba sila sa akon sa desierto.
-Pero tubtob karon indi ikaw magpamati.
-Karon, Mahal nga Hari amo ini ang ginasiling sang Ginoo Makakilala ikaw nga ako amo ang Ginoo paagi sa akon pagahimuon.
-Tan-awa bala, paagi sini nga sungkod hampakon ko ang tubig sang suba, kag mahimo ini nga dugo.
-Ang mga isda magakalamatay, kag ang suba magabaho gid sa bagay nga ang mga Ehiptohanon indi makainom sang iya sini tubig.
-Ang Ginoo nagsiling kay Moises, Singgana si Aaron nga kuhaon niya ang iya sungkod kag ibayaw ini sa ibabaw sang tanan nga tubig sa Ehipto, sa mga suba, sa mga kanal, kag sa mga punong.
-Ang tubig mahimo nga dugo, kag sa bug-os nga duta may dugo bisan pa sa mga sulodlan nga kahoy kag mga sulodlan nga bato.
-Gintuman ni Moises kag ni Aaron ang ginsugo sang Ginoo sa ila.
-Sa atubang sang hari kag sang iya mga opisyales, ginbayaw ni Aaron ang iya sungkod kag ginhampak ang tubig sa suba, kag ang tanan nga tubig sini nahimo nga dugo.
-Ang mga isda sa suba nagkalamatay, kag nagbaho gid ini sa bagay nga ang mga Ehiptohanon indi makainom sa tubig sang suba.
-Kag may dugo sa bug-os nga Ehipto.
-Dayon ang mga madyikero sang Ehipto naghimo man sini paagi sa ila mga madyik, kag ang hari nagpatig-a pa gid sang iya tagipusoon.
-Indi sia magpamati kay Moises kag kay Aaron, subong sang ginsiling sang Ginoo .
-Sa baylo ginbayaan sila sang hari kag nagbalik sia sa iya palasyo nga wala nagasapak sini.
-Ang tanan nga mga Ehiptohanon nagkutkot sa higad sang pangpang sang suba agod makainom, tungod kay indi sila makainom sang tubig sa suba.
-Nagligad ang pito ka adlaw sa tapos nga ginhampak sang Ginoo ang suba.
+verse	content
+001	Ang Ginoo nagsiling kay Moises, Tan-awa bala, himuon ko ikaw nga daw Dios sa hari, kag si Aaron nga imo utod magahambal sa iya subong imo propeta.
+002	Sugiri si Aaron sang tanan nga ginsugo ko sa imo, kag sia magasiling sa hari nga tugotan niya ang mga Israelinhon sa paggwa sa iya pungsod.
+003	Pero patig-ahon ko ang tagipusoon sang hari, kag bisan magahimo ako sing madamo nga mga milagro kag makatilingala nga mga buhat sa Ehipto,
+004	indi sia magpamati sa inyo.
+004	Dayon halitan ko ang duta sang Ehipto, silutan ko sila sing tudotudo, kag pangulohan ko ang mga tribo sang akon katawhan nga mga Israelinhon pagwa sa Ehipto.
+005	Ang mga Ehiptohanon magakilala nga ako amo ang Ginoo , kon bayawon ko ang akon kamot batok sa ila, kag pagwaon ko ang mga Israelinhon sa ila pungsod.
+006	Gintuman ni Moises kag ni Aaron ang ginsugo sang Ginoo sa ila.
+007	Ang edad ni Moises otsenta ka tuig, kag ang edad ni Aaron otsentay tres ka tuig, sang maghambal sila sa hari.
+008	Ang Ginoo nagsiling kay Moises kag kay Aaron,
+009	Kon ang hari magsiling sa inyo, Pamatud-i ninyo ini paagi sa paghimo sing milagro, singgana si Aaron, Kuhaa ang imo sungkod kag ihaboy sa atubang sang hari, kag mahimo ini nga man-og.
+010	Gani si Moises kag si Aaron nagkadto sa hari, kag gintuman ang tanan nga ginsugo sang Ginoo sa ila.
+010	Ginhaboy ni Aaron ang iya sungkod sa atubang sang hari kag sang iya mga opisyales, kag nahimo ini nga man-og.
+011	Dayon gintawag sang hari ang iya mga mangin-alamon nga mga tawo kag mga madyikero, kag paagi sa ila mga madyik naghimo sila sing amo man.
+012	Ginhaboy nila ang ila mga sungkod sa duta kag nahimo ini nga mga man-og.
+012	Pero ang sungkod nga iya ni Aaron naghalunhon sang ila mga sungkod.
+013	Pero ang hari nagpatig-a sang iya tagipusoon, kag indi sia magpamati sa ila, subong sang ginsiling sang Ginoo .
+014	Karon ang Ginoo nagsiling kay Moises, Matig-a ang tagipusoon sang hari, kag indi gid niya pagpalakton ang mga tawo.
+015	Gani lakat ka kag pakigkitai ang hari pagkaaga, sa iya pagkadto sa Suba sang Nilo.
+015	Hulata sia sa pangpang sang suba.
+015	Dalha man ang sungkod nga nahimo nga man-og.
+016	Dayon singgana ang hari, Ang Ginoo , ang Dios sang mga Hebreo, nagpadala sa akon sa pagsiling sa imo: Palakta ang akon mga tawo, agod makasimba sila sa akon sa desierto.
+016	Pero tubtob karon indi ikaw magpamati.
+017	Karon, Mahal nga Hari amo ini ang ginasiling sang Ginoo Makakilala ikaw nga ako amo ang Ginoo paagi sa akon pagahimuon.
+017	Tan-awa bala, paagi sini nga sungkod hampakon ko ang tubig sang suba, kag mahimo ini nga dugo.
+018	Ang mga isda magakalamatay, kag ang suba magabaho gid sa bagay nga ang mga Ehiptohanon indi makainom sang iya sini tubig.
+019	Ang Ginoo nagsiling kay Moises, Singgana si Aaron nga kuhaon niya ang iya sungkod kag ibayaw ini sa ibabaw sang tanan nga tubig sa Ehipto, sa mga suba, sa mga kanal, kag sa mga punong.
+019	Ang tubig mahimo nga dugo, kag sa bug-os nga duta may dugo bisan pa sa mga sulodlan nga kahoy kag mga sulodlan nga bato.
+020	Gintuman ni Moises kag ni Aaron ang ginsugo sang Ginoo sa ila.
+020	Sa atubang sang hari kag sang iya mga opisyales, ginbayaw ni Aaron ang iya sungkod kag ginhampak ang tubig sa suba, kag ang tanan nga tubig sini nahimo nga dugo.
+021	Ang mga isda sa suba nagkalamatay, kag nagbaho gid ini sa bagay nga ang mga Ehiptohanon indi makainom sa tubig sang suba.
+021	Kag may dugo sa bug-os nga Ehipto.
+022	Dayon ang mga madyikero sang Ehipto naghimo man sini paagi sa ila mga madyik, kag ang hari nagpatig-a pa gid sang iya tagipusoon.
+022	Indi sia magpamati kay Moises kag kay Aaron, subong sang ginsiling sang Ginoo .
+023	Sa baylo ginbayaan sila sang hari kag nagbalik sia sa iya palasyo nga wala nagasapak sini.
+024	Ang tanan nga mga Ehiptohanon nagkutkot sa higad sang pangpang sang suba agod makainom, tungod kay indi sila makainom sang tubig sa suba.
+025	Nagligad ang pito ka adlaw sa tapos nga ginhampak sang Ginoo ang suba.

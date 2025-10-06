@@ -1,58 +1,59 @@
-Kinuna ni Yahweh ken ni Moises, Inka iti ari.
-Pinatangkenko ti pusona, kasta met dagiti ofisialesna tapno ipakitak kadakuada daytoy a pannakabalinko.
-Inaramidko dagitoy a milagro tapno masaritamto kadagiti annakmo ken appokom no kasano ti panamagbalinko a maag dagiti Egipcio ket iti kasta, maammoanyonto amin a siak ni Yahweh.
-Napan da Moises ken Aaron iti ari ket kinunada kenkuana, Kastoy ti paibaga ti Apo a Dios dagiti Hebreo, Kasano pay ti kabayag ti dimo panagpakumbaba kaniak?
-Palubosam a pumanaw dagiti tattaok tapno umayda agdaydayaw kaniak.
-No madika latta, yegko inton bigat dagiti dudon iti pagiliam.
-Kasta unayto ti kaaduda ket agsaknapdanto agingga a saan a makita ti daga gapu iti kapuskolda.
-Ibusendanto ti amin a saan a dinadael ti yelo, uray pay dagiti natda a puon ti kayo.
-Serkendanto dagiti palasiom ken dagiti balay dagiti ofisialesmo ken amin a tattaom.
-Narangranggasdanto ngem ti aniaman a nakita dagidi kapuonanyo.
-Pimmanaw ni Moises apaman a naisaona daytoy.
-Kinuna kenkuana dagiti ofisiales ti ari, Kaanonto nga isardeng daytoy a tao ti panangriribukna kadatayo?
-Palubosam idan tapno mapanda agdaydayaw iti Apo a Diosda.
-Dimo kadi makita a madadaelen ti Egipto?
-Iti kasta, naidatag manen da Moises ken Aaron iti ari.
-Kinunana kadakuada, Mabalinyon ti mapan agdaydayaw iti Apo a Diosyo.
-Ngem siasino dagiti mapan?
-Insungbat ni Moises, Mapankami amin, agraman dagiti annakmi ken dagiti babbaket ken lallakay.
-Itugotmi dagiti karnero, kalding, ken dagiti bakami.
-Masapul nga inkami amin ta mangipaaykami iti maysa a parambak iti Apo .
-Kinuna ti ari kadakuada, Isapatak iti Apo a diak ipalubos nga itugotyo dagiti babbai ken dagiti ubbing!
-Nalawag a panggepyo ti umalsa.
-Saan a mabalin!
-Dagiti laeng lallaki ti mapan agdaydayaw iti Apo no dayta ti kalikagumanyo.
-Apaman a nasaona daytoy, napapanaw da Moises ken Aaron iti saklang ti ari.
-Kinuna ni Yahweh ken ni Moises, Yunnatmo ta imam iti daga ti Egipto tapno tumaud dagiti dudon.
-Umaydanto ibusen ti amin a mula a natda idi nagtinnag dagiti yelo.
-Inlayat ni Moises ti sarukodna iti daga ti Egipto.
-Pinataud ni Yahweh ti angin manipud iti daya ket nagmalmalem ken nagpatpatnag a nagpuypuyopoy.
-Kabigatanna, inyeg ti angin dagiti dudon.
-Pinangenpangenda a dimteng ket nagdissoda iti amin a lugar iti pagilian.
-Daytoy pay la ti kapuskolan a pangen ti dudon a timmaud ket awanen ti kastoy a kaadu, uray iti masakbayan.
-Uray la ngimmisit ti daga iti kaaduda; inibusda amin a tedda ti yelo, agraman dagiti bunga dagiti kayo.
-Awan ti bulong a natda iti kayo wenno mula iti entero nga Egipto.
-Dinardaras ti ari a pinaayaban da Moises ken Aaron ket kinunana kadakuada, Nakabasolak iti Apo a Diosyo, kasta met kadakayo.
-Pangngaasiyo ta pakawanenyo ti basolko, uray ita laeng.
-Idawdawatyo iti Apo a Diosyo nga ikkatenna kaniak daytoy makapatay a dusa.
-Pimmanaw ni Moises ket nagkararag ken ni Yahweh.
-Binaliwan ni Yahweh ti turongen ti angin a naggapu iti daya.
-Pinagbalinna a nakapigpigsa a naggapu iti laud a nangitayab kadagiti dudon ket impanna ida iti Baybay a Nalabaga.
-Pulos nga awan ti natda a dudon iti entero a daga ti Egipto.
-Ngem pinatangken ni Yahweh ti puso ti ari ket dina impalubos a pumanaw dagiti Israelita.
-Kinuna ni Yahweh ken ni Moises, Ingatom ta imam tapno makumotan ti entero nga Egipto iti nakaro a sipnget nga uray la agar-arikap dagiti tattao.
-Ingngato ni Moises ti imana ket nagsipnget ti entero nga Egipto.
-Tallo nga aldaw a nakumotan ti pagilian iti napuskol a sipnget.
-Saan a makapagkikinnita dagiti Egipcio, isu nga awan ti rimmuar iti balayna kabayatan dayta a tiempo.
-Ngem nalawag ti lugar a pagnaedan dagiti Israelita.
-Inayaban ti ari ni Moises.
-Ket kinunana kadakuada, Mabalinyon ti mapan agdaydayaw iti Apo .
-Itugotyo dagiti babbai ken ubbingyo, ngem mabati dagiti karnero, kalding ken bakayo.
-Kinuna ni Moises, No kasta ngarud, masapul nga ikkannakami kadagiti animal a puoranmi nga idaton iti Apo a Diosmi.
-Ngem kasapulan nga ikuyogmi dagiti animalmi; awan ti uray maysa a mabati.
-Ket pilienmi dagiti animal a pagdaydayaw iti Apo a Diosmi.
-Dimi pay ammo no ania dagiti idatonmi agingga a makadanonkami iti lugar a pagdaydayawanmi kenkuana.
-Pinatangken ni Yahweh ti puso ti ari ket dina impalubos a pumanaw dagiti Israelita.
-Kinuna ti ari ken ni Moises, Pumanawka ditoy ket saankan nga agpakpakita kaniak!
-Papapatayka iti kanito nga agpakitaka kaniak.
-Matungpal ti bilinyo, kinuna ni Moises, saandakton a makita.
+verse	content
+001	Kinuna ni Yahweh ken ni Moises, Inka iti ari.
+001	Pinatangkenko ti pusona, kasta met dagiti ofisialesna tapno ipakitak kadakuada daytoy a pannakabalinko.
+002	Inaramidko dagitoy a milagro tapno masaritamto kadagiti annakmo ken appokom no kasano ti panamagbalinko a maag dagiti Egipcio ket iti kasta, maammoanyonto amin a siak ni Yahweh.
+003	Napan da Moises ken Aaron iti ari ket kinunada kenkuana, Kastoy ti paibaga ti Apo a Dios dagiti Hebreo, Kasano pay ti kabayag ti dimo panagpakumbaba kaniak?
+003	Palubosam a pumanaw dagiti tattaok tapno umayda agdaydayaw kaniak.
+004	No madika latta, yegko inton bigat dagiti dudon iti pagiliam.
+005	Kasta unayto ti kaaduda ket agsaknapdanto agingga a saan a makita ti daga gapu iti kapuskolda.
+005	Ibusendanto ti amin a saan a dinadael ti yelo, uray pay dagiti natda a puon ti kayo.
+006	Serkendanto dagiti palasiom ken dagiti balay dagiti ofisialesmo ken amin a tattaom.
+006	Narangranggasdanto ngem ti aniaman a nakita dagidi kapuonanyo.
+006	Pimmanaw ni Moises apaman a naisaona daytoy.
+007	Kinuna kenkuana dagiti ofisiales ti ari, Kaanonto nga isardeng daytoy a tao ti panangriribukna kadatayo?
+007	Palubosam idan tapno mapanda agdaydayaw iti Apo a Diosda.
+007	Dimo kadi makita a madadaelen ti Egipto?
+008	Iti kasta, naidatag manen da Moises ken Aaron iti ari.
+009	Kinunana kadakuada, Mabalinyon ti mapan agdaydayaw iti Apo a Diosyo.
+009	Ngem siasino dagiti mapan?
+010	Insungbat ni Moises, Mapankami amin, agraman dagiti annakmi ken dagiti babbaket ken lallakay.
+010	Itugotmi dagiti karnero, kalding, ken dagiti bakami.
+010	Masapul nga inkami amin ta mangipaaykami iti maysa a parambak iti Apo .
+011	Kinuna ti ari kadakuada, Isapatak iti Apo a diak ipalubos nga itugotyo dagiti babbai ken dagiti ubbing!
+011	Nalawag a panggepyo ti umalsa.
+012	Saan a mabalin!
+012	Dagiti laeng lallaki ti mapan agdaydayaw iti Apo no dayta ti kalikagumanyo.
+012	Apaman a nasaona daytoy, napapanaw da Moises ken Aaron iti saklang ti ari.
+013	Kinuna ni Yahweh ken ni Moises, Yunnatmo ta imam iti daga ti Egipto tapno tumaud dagiti dudon.
+013	Umaydanto ibusen ti amin a mula a natda idi nagtinnag dagiti yelo.
+014	Inlayat ni Moises ti sarukodna iti daga ti Egipto.
+014	Pinataud ni Yahweh ti angin manipud iti daya ket nagmalmalem ken nagpatpatnag a nagpuypuyopoy.
+014	Kabigatanna, inyeg ti angin dagiti dudon.
+015	Pinangenpangenda a dimteng ket nagdissoda iti amin a lugar iti pagilian.
+015	Daytoy pay la ti kapuskolan a pangen ti dudon a timmaud ket awanen ti kastoy a kaadu, uray iti masakbayan.
+016	Uray la ngimmisit ti daga iti kaaduda; inibusda amin a tedda ti yelo, agraman dagiti bunga dagiti kayo.
+016	Awan ti bulong a natda iti kayo wenno mula iti entero nga Egipto.
+017	Dinardaras ti ari a pinaayaban da Moises ken Aaron ket kinunana kadakuada, Nakabasolak iti Apo a Diosyo, kasta met kadakayo.
+018	Pangngaasiyo ta pakawanenyo ti basolko, uray ita laeng.
+018	Idawdawatyo iti Apo a Diosyo nga ikkatenna kaniak daytoy makapatay a dusa.
+019	Pimmanaw ni Moises ket nagkararag ken ni Yahweh.
+020	Binaliwan ni Yahweh ti turongen ti angin a naggapu iti daya.
+020	Pinagbalinna a nakapigpigsa a naggapu iti laud a nangitayab kadagiti dudon ket impanna ida iti Baybay a Nalabaga.
+020	Pulos nga awan ti natda a dudon iti entero a daga ti Egipto.
+021	Ngem pinatangken ni Yahweh ti puso ti ari ket dina impalubos a pumanaw dagiti Israelita.
+022	Kinuna ni Yahweh ken ni Moises, Ingatom ta imam tapno makumotan ti entero nga Egipto iti nakaro a sipnget nga uray la agar-arikap dagiti tattao.
+023	Ingngato ni Moises ti imana ket nagsipnget ti entero nga Egipto.
+023	Tallo nga aldaw a nakumotan ti pagilian iti napuskol a sipnget.
+024	Saan a makapagkikinnita dagiti Egipcio, isu nga awan ti rimmuar iti balayna kabayatan dayta a tiempo.
+024	Ngem nalawag ti lugar a pagnaedan dagiti Israelita.
+025	Inayaban ti ari ni Moises.
+025	Ket kinunana kadakuada, Mabalinyon ti mapan agdaydayaw iti Apo .
+025	Itugotyo dagiti babbai ken ubbingyo, ngem mabati dagiti karnero, kalding ken bakayo.
+026	Kinuna ni Moises, No kasta ngarud, masapul nga ikkannakami kadagiti animal a puoranmi nga idaton iti Apo a Diosmi.
+027	Ngem kasapulan nga ikuyogmi dagiti animalmi; awan ti uray maysa a mabati.
+027	Ket pilienmi dagiti animal a pagdaydayaw iti Apo a Diosmi.
+027	Dimi pay ammo no ania dagiti idatonmi agingga a makadanonkami iti lugar a pagdaydayawanmi kenkuana.
+028	Pinatangken ni Yahweh ti puso ti ari ket dina impalubos a pumanaw dagiti Israelita.
+029	Kinuna ti ari ken ni Moises, Pumanawka ditoy ket saankan nga agpakpakita kaniak!
+029	Papapatayka iti kanito nga agpakitaka kaniak.
+030	Matungpal ti bilinyo, kinuna ni Moises, saandakton a makita.

@@ -1,50 +1,52 @@
-Kan panahon na iyan, binayaan ni Juda an saiyang mga tugang asin nag-erok siya sa kaibahan nin sarong lalaking Adullamita na an ngaran Hira.
-Duman niya namidbid an sarong babaeng taga Canaan na aki ni Sua.
-Inagom niya an daraga, asin nangaki ini nin lalaki na nginaranan niyang Er.
-Nagbados giraray an agom ni Juda asin nangaki nin lalaki na nginaranan niyang Onan.
-Nangaki pa nin lalaki an saiyang agom asin nginaranan niyang Shela.
-Nasa Akzib si Juda kan mamundag an aki.
-Si Er na saiyang matua, ikinua ni Juda nin agom na an ngaran Tamar.
-Alagad maraot an ugale ni Er asin dai siya naoyonan nin Kagurangnan , kaya ginadan siya nin Kagurangnan .
-Sinabihan ni Juda si Onan, Dorogi an balo kan saimong tugang, asin otoba an katongdan nin sarong bayaw tanganing magkaigwa nin aki an saimong tugang.
-Alagad aram ni Onan na dai man mapapasaiya an aki, kaya kan dorogan niya an agom kan saiyang tugang, inula niya sa daga an saiyang semilya, tanganing dai niya matawan nin aki an saiyang tugang.
-Dai naoyonan nin Kagurangnan an ginibo niya kaya ginadan man siya nin Kagurangnan .
-Dangan sinabihan ni Juda si Tamar na saiyang manugang, Magbalik ka sa harong kan saimong ama asin magdanay ka sa pagkanibalo sagkod na magdakula an aki kong si Shela.
-Sinabi niya ini huli ta natakot siyang magadan man si Shela arog kan mga tugang kaini.
-Kaya nagpuli si Tamar asin nag-erok sa harong kan saiyang ama.
-Dai nahaloy nagadan an agom ni Juda.
-Kan matapos na an panahon kan pagmondo, si Juda, kaiba an amigo niyang si Hira na Adullamita, nagduman sa Timna sa lugar na pinagguguntingan kan saiyang mga karnero.
-Igwang nakaosip ki Tamar na an saiyang panugangan maduman sa Timna sa paggunting kan mga karnero.
-Kaya hinuba ni Tamar an gubing niyang sa balo asin nagsulot nin iba; tinahoban niya nin belo an saiyang lalawogon dangan tuminukaw sa may trangkahan kan banwaan nin Enaim, sa dalan pasiring sa Timna.
-Aram ni Tamar na dakula na si Shela, an ngohod na aki ni Juda, alagad dai pa siya itinatao ni Juda ki Shela bilang agom.
-Kan mahiling ni Juda si Tamar, naghona siya na si Tamar sarong maraot na babae, huli ta tinahoban kaini an saiyang lalawogon.
-Dinolok siya ni Juda sa gilid kan dalan asin sinabihan, Gurano man an hagad mo?
-Dai namidbidan ni Juda na an babae iyo an saiyang manugang.
-Nagsimbag si Tamar, Ano an ikakatao mo sako?
-Nagsabi si Juda, Papadarahan taka nin sarong ogbon na kanding hale sa sakong mga ataman na hayop.
-Nagsimbag si Tamar, Tugot ako, kun wawalatan mo ako nin sangra sagkod na ikapadara mo sako an kanding.
-Ano an itatao ko saimo bilang sangra?
-an hapot ni Juda.
-Nagsimbag siya, An saimong singsing na pangmarka kaiba an gakod asin an dara mong sugkod.
-Itinao ini gabos ni Juda ki Tamar.
-Nagdorog sindang duwa, asin nagbados si Tamar.
-Nagpuli siya, hinale an belo, asin isinulot giraray an gubing niyang sa balo.
-Sinugo ni Juda an amigo niyang si Hira na darahon sa babae an ogbon na kanding asin kuahon saiya an mga isinangra niyang gamit.
-Alagad dai nakua ni Hira an babae.
-Naghapot siya sa mga lalaki kan Enaim, Haen na an maraot na babae na nagtutukaw digdi sa may dalan?
-Mayo man nin arog kaiyan na babae digdi minsan kaidto, an simbag ninda.
-Nagbalik si Hira ki Juda asin nagsabi, Dai ko nahiling an babae, asin an kalalakihan duman nagsabi na mayo man nin maraot na babae sa lugar ninda minsan kaidto.
-Nagsabi si Juda, Pabayaan ta na saiya an mga gamit ko ta tibaad pagngisihan kita kan mga tawo.
-Babayadan ko na kuta siya alagad dai mo man siya nahiling.
-Pakalihis nin tolong bulan, igwang nag-osip ki Juda, Nagin maraot na babae an manugang mong si Tamar asin bados siya ngunyan.
-Nagboot si Juda, Iluwas nindo siya asin suloon sagkod na magadan.
-Mantang ilinuluwas ninda si Tamar, nagpatogon siya sa panugangan niya, Nabadosan ako kan lalaking kagsadiri kan mga gamit na ini.
-Midbida nin marahay kun kiisay ining singsing na pangmarka kaiba an gakod asin ining sugkod.
-Namidbidan an mga ini ni Juda asin nagsabi siya, Orog na matanos siya ki sa sako, huli ta dai ko siya itinao sa aki kong si Shela bilang agom.
-Dai na nanggad dinorogan ni Juda si Tamar.
-Kan mangangaki na si Tamar, napag-araman na kambal an nasa tulak niya.
-Kan nagpoporos na si Tamar, ilinuwas kan sarong aki an saiyang kamot; kinapotan ini kan partera asin ginakodan nin pulang torsido dangan nagsabi, Ini an naenot.
-Alagad kan ilaog giraray kan aki an saiyang kamot, naenot na namundag an saiyang tugang.
-Nagsabi an partera, Siring palan kaini an paglusot mo!
-Kaya nginaranan siyang Perez.
-Dangan namundag man an saiyang tugang na may gakod nin pulang torsido sa saiyang kamot; nginaranan siyang Zera.
+verse	content
+001	Kan panahon na iyan, binayaan ni Juda an saiyang mga tugang asin nag-erok siya sa kaibahan nin sarong lalaking Adullamita na an ngaran Hira.
+002	Duman niya namidbid an sarong babaeng taga Canaan na aki ni Sua.
+002	Inagom niya an daraga,
+003	asin nangaki ini nin lalaki na nginaranan niyang Er.
+004	Nagbados giraray an agom ni Juda asin nangaki nin lalaki na nginaranan niyang Onan.
+005	Nangaki pa nin lalaki an saiyang agom asin nginaranan niyang Shela.
+005	Nasa Akzib si Juda kan mamundag an aki.
+006	Si Er na saiyang matua, ikinua ni Juda nin agom na an ngaran Tamar.
+007	Alagad maraot an ugale ni Er asin dai siya naoyonan nin Kagurangnan , kaya ginadan siya nin Kagurangnan .
+008	Sinabihan ni Juda si Onan, Dorogi an balo kan saimong tugang, asin otoba an katongdan nin sarong bayaw tanganing magkaigwa nin aki an saimong tugang.
+009	Alagad aram ni Onan na dai man mapapasaiya an aki, kaya kan dorogan niya an agom kan saiyang tugang, inula niya sa daga an saiyang semilya, tanganing dai niya matawan nin aki an saiyang tugang.
+010	Dai naoyonan nin Kagurangnan an ginibo niya kaya ginadan man siya nin Kagurangnan .
+011	Dangan sinabihan ni Juda si Tamar na saiyang manugang, Magbalik ka sa harong kan saimong ama asin magdanay ka sa pagkanibalo sagkod na magdakula an aki kong si Shela.
+011	Sinabi niya ini huli ta natakot siyang magadan man si Shela arog kan mga tugang kaini.
+011	Kaya nagpuli si Tamar asin nag-erok sa harong kan saiyang ama.
+012	Dai nahaloy nagadan an agom ni Juda.
+012	Kan matapos na an panahon kan pagmondo, si Juda, kaiba an amigo niyang si Hira na Adullamita, nagduman sa Timna sa lugar na pinagguguntingan kan saiyang mga karnero.
+013	Igwang nakaosip ki Tamar na an saiyang panugangan maduman sa Timna sa paggunting kan mga karnero.
+014	Kaya hinuba ni Tamar an gubing niyang sa balo asin nagsulot nin iba; tinahoban niya nin belo an saiyang lalawogon dangan tuminukaw sa may trangkahan kan banwaan nin Enaim, sa dalan pasiring sa Timna.
+014	Aram ni Tamar na dakula na si Shela, an ngohod na aki ni Juda, alagad dai pa siya itinatao ni Juda ki Shela bilang agom.
+015	Kan mahiling ni Juda si Tamar, naghona siya na si Tamar sarong maraot na babae, huli ta tinahoban kaini an saiyang lalawogon.
+016	Dinolok siya ni Juda sa gilid kan dalan asin sinabihan, Gurano man an hagad mo?
+016	Dai namidbidan ni Juda na an babae iyo an saiyang manugang.
+017	Nagsimbag si Tamar, Ano an ikakatao mo sako?
+018	Nagsabi si Juda, Papadarahan taka nin sarong ogbon na kanding hale sa sakong mga ataman na hayop.
+019	Nagsimbag si Tamar, Tugot ako, kun wawalatan mo ako nin sangra sagkod na ikapadara mo sako an kanding.
+020	Ano an itatao ko saimo bilang sangra?
+020	an hapot ni Juda.
+021	Nagsimbag siya, An saimong singsing na pangmarka kaiba an gakod asin an dara mong sugkod.
+021	Itinao ini gabos ni Juda ki Tamar.
+021	Nagdorog sindang duwa, asin nagbados si Tamar.
+022	Nagpuli siya, hinale an belo, asin isinulot giraray an gubing niyang sa balo.
+023	Sinugo ni Juda an amigo niyang si Hira na darahon sa babae an ogbon na kanding asin kuahon saiya an mga isinangra niyang gamit.
+023	Alagad dai nakua ni Hira an babae.
+024	Naghapot siya sa mga lalaki kan Enaim, Haen na an maraot na babae na nagtutukaw digdi sa may dalan?
+025	Mayo man nin arog kaiyan na babae digdi minsan kaidto, an simbag ninda.
+026	Nagbalik si Hira ki Juda asin nagsabi, Dai ko nahiling an babae, asin an kalalakihan duman nagsabi na mayo man nin maraot na babae sa lugar ninda minsan kaidto.
+027	Nagsabi si Juda, Pabayaan ta na saiya an mga gamit ko ta tibaad pagngisihan kita kan mga tawo.
+027	Babayadan ko na kuta siya alagad dai mo man siya nahiling.
+028	Pakalihis nin tolong bulan, igwang nag-osip ki Juda, Nagin maraot na babae an manugang mong si Tamar asin bados siya ngunyan.
+029	Nagboot si Juda, Iluwas nindo siya asin suloon sagkod na magadan.
+030	Mantang ilinuluwas ninda si Tamar, nagpatogon siya sa panugangan niya, Nabadosan ako kan lalaking kagsadiri kan mga gamit na ini.
+030	Midbida nin marahay kun kiisay ining singsing na pangmarka kaiba an gakod asin ining sugkod.
+031	Namidbidan an mga ini ni Juda asin nagsabi siya, Orog na matanos siya ki sa sako, huli ta dai ko siya itinao sa aki kong si Shela bilang agom.
+031	Dai na nanggad dinorogan ni Juda si Tamar.
+032	Kan mangangaki na si Tamar, napag-araman na kambal an nasa tulak niya.
+033	Kan nagpoporos na si Tamar, ilinuwas kan sarong aki an saiyang kamot; kinapotan ini kan partera asin ginakodan nin pulang torsido dangan nagsabi, Ini an naenot.
+034	Alagad kan ilaog giraray kan aki an saiyang kamot, naenot na namundag an saiyang tugang.
+034	Nagsabi an partera, Siring palan kaini an paglusot mo!
+034	Kaya nginaranan siyang Perez.
+035	Dangan namundag man an saiyang tugang na may gakod nin pulang torsido sa saiyang kamot; nginaranan siyang Zera.

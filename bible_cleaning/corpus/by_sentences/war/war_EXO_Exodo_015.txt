@@ -1,36 +1,65 @@
-Niyan nagkanta hi Moises ngan an mga Israelita ngadto han Ginoo hini nga kanta Magkakanta ako han Ginoo tungod han iya mahimayaon nga pagdarag-an; gintabog niya an mga kabayo ug an mga dikabayo ngadto ha kadagatan.
-An Ginoo amo an akon kusog ngan akon kalipay; amo hiya an nagtalwas ha akon.
-Amo hiya an akon Dyos, ngan pagdadayawon ko hiya, hiya an Dyos han akon amay, ngan kakantahan ko an iya pagkagamhanan.
-Usa nga paraaway an Ginoo ; an Ginoo amo an iya ngaran.
-Iginlabog niya ha dagat an kasondalohan han Ehipto ngan an ira mga karuwahe; nagkalulumos didto han Dagat Pula an gimamag-upayi nga mga opisyal.
-Ginlapwasan hira han hilarom nga dagat; linmunod hira ha kahiladman sugad hin bato.
-Makaaramdok an imo tuo nga kamot tungod han imo gahom, O Ginoo ; gindudugmok hini an kaaway.
-Ginpupukan mo an imo mga kaaway tungod han imo kagamhanan; naglalaga an imo kasina, ngan inuugtang mo hira sugad hin uhot.
-Ginhuyop mo an dagat ngan nagpundok hin hitaas an tubig; tinmindog ini sugad hin pader; ngan nagmara an salad han dagat.
-Nagsiring an kaaway, Lalanaton ngan dadakpon ko hira; pagbabahinbahinon ko an ira manggad ngan titikason ko an ngatanan nga akon naruruyagan.
-Huhulboton ko an akon espada, ngan aagawon ko an ngatanan nga ira mga butang.
-Kundi usa la nga huyop tikang ha imo, O Ginoo , nagkalulumos an mga Ehiptohanon; linmunod hira sugad hin timga didto han masulog nga tubig.
-O Ginoo , hin-o han kadiyosan in sugad ha imo?
-Hin-o in sugad ha imo nga urosahon an pagkabaraan?
-Hin-o in nakakagbuhat hin mga milagro ngan gamhanan nga mga buhat sugad han imo.
-Gin-unat mo an imo tuo nga kamot, ngan ginlam-oy han tuna an amon mga kaaway.
-Ha kamatinumanon mo han imo saad, gindara mo an mga tawo nga imo ginbawi; gindara mo hira pinaagi han imo kusog ngadto han imo baraan nga tuna.
-Hinbatian han kanasoran ngan nangungurog hira hin kahadlok; inaalpan hin duro nga kakulba an mga Filisteohanon Nalilisang an mga pangulo han Edumea; nangungurog an gamhanan nga mga tawo han Moab; nagmamatalaw an mga tawo han Canaan.
-Inaalpan hira hin kakulba ngan kahadlok.
-Nakita hira han imo kusog, O Ginoo , ngan waray nira nahihimo tungod hin kahadlok, tubtob han pag-agi han imo mga tawo an mga tawo nga imo gintalwas tikang hin pagkaoripon.
-Ginpasulod ngan ginpaukoy mo hira didto han imo bukid, an dapit nga imo ginpili, O Ginoo , nga imo urokyan, an Templo nga ikaw ngahaw an nagtindog.
-Maghahadi ka ha kadayonan, O Ginoo .
-Nagtabok han dagat an mga Israelita dida hin mamara nga salad han dagat.
-Kundi han pagkadto na han dagat han mga karuwahe han mga taga-Ehipto upod an ira mga kabayo ngan mga dikabayo, ginpabalik han Ginoo an tubig ngan ginlapwasan hira.
-Ginkuha ni Miriam nga manaragna, nga bugto ni Aaron, an iya tamborin, ngan sinmunod ha iya an ngatanan nga kababayen-an nga nagtotokar hin mga tamborin ngan nagsasarayaw.
-Nagkanta hi Miriam para ha ira Pagkanta ha Ginoo tungod han iya mahimayaon nga pagdarag-an; gintabog niya an mga kabayo ngan an ira mga dikabayo ngadto ha kadagatan.
-Niyan gindara ni Moises an mga tawo han Israel tikang han Dagat Pula ngadto ha kamingawan han Sur.
-Sulod hin tulo ka adlaw, ginlatas nira an kamingawan, kundi waray hira makaagi hin tubig.
-Niyan inamabot hira ngadto hin usa nga dapit nga ginngaranan nga Mara, kundi mapait hin duro an tubig didto nga waray hira makainom.
-Amo ito nga ginngaranan nga Mara ini nga dapit.
-Nagsumbong kan Moises an mga tawo ngan nagpakiana, Ano an aton iimnon?
-Nag-ampo hi Moises hin kinasingkasing ngadto han Ginoo , ngan ginpakita hiya han Ginoo hin lipak hin kahoy nga ipinilak niya ngadto han tubig, ngan waray na pagpait an tubig.
-Didto gintagan hira han Ginoo hin mga balaod nga pagtutumanon nira, ngan iya liwat ginsarihan hira didto.
-Nagsiring hiya, Kon pagsugton ako niyo hin hingpit pinaagi hin pagbuhat han akon gin-iisip nga matadong, ngan pinaagi hin pagtuman han akon mga sugo, diri ko kamo kakastigohon hin bisan ano nga sakit nga gindara ko ngadto han mga Ehiptohanon.
-Ako amo an Ginoo nga nagtatambal ha iyo.
-Sunod inmabot hira ngadto ha Elim, diin may-ada dose nga mga burabod ngan sitenta nga mga kahoy nga palmera; didto nagkampo hira ha ligid han tubig.
+verse	content
+001	Niyan nagkanta hi Moises ngan an mga Israelita ngadto han Ginoo hini nga kanta
+002	Magkakanta ako han Ginoo tungod han iya mahimayaon nga pagdarag-an;
+003	gintabog niya an mga kabayo ug an mga dikabayo ngadto ha kadagatan.
+004	An Ginoo amo an akon kusog ngan akon kalipay;
+005	amo hiya an nagtalwas ha akon.
+006	Amo hiya an akon Dyos, ngan pagdadayawon ko hiya,
+007	hiya an Dyos han akon amay, ngan kakantahan ko an iya pagkagamhanan.
+008	Usa nga paraaway an Ginoo ;
+009	an Ginoo amo an iya ngaran.
+010	Iginlabog niya ha dagat an kasondalohan han Ehipto ngan an ira mga karuwahe; nagkalulumos didto han Dagat Pula
+011	an gimamag-upayi nga mga opisyal.
+012	Ginlapwasan hira han hilarom nga dagat;
+013	linmunod hira ha kahiladman sugad hin bato.
+014	Makaaramdok an imo tuo nga kamot tungod han imo gahom, O Ginoo ;
+015	gindudugmok hini an kaaway.
+016	Ginpupukan mo an imo mga kaaway tungod han imo kagamhanan;
+017	naglalaga an imo kasina, ngan inuugtang mo hira sugad hin uhot.
+018	Ginhuyop mo an dagat ngan nagpundok hin hitaas an tubig;
+019	tinmindog ini sugad hin pader;
+020	ngan nagmara an salad han dagat.
+021	Nagsiring an kaaway,
+022	Lalanaton ngan dadakpon ko hira;
+023	pagbabahinbahinon ko an ira manggad ngan titikason ko an ngatanan nga akon naruruyagan.
+024	Huhulboton ko an akon espada, ngan aagawon ko an ngatanan nga ira mga butang.
+025	Kundi usa la nga huyop tikang ha imo, O Ginoo , nagkalulumos an mga Ehiptohanon;
+026	linmunod hira sugad hin timga didto han masulog nga tubig.
+027	O Ginoo , hin-o han kadiyosan in sugad ha imo?
+028	Hin-o in sugad ha imo nga urosahon an pagkabaraan?
+029	Hin-o in nakakagbuhat hin mga milagro ngan gamhanan nga mga buhat sugad han imo.
+030	Gin-unat mo an imo tuo nga kamot,
+031	ngan ginlam-oy han tuna an amon mga kaaway.
+032	Ha kamatinumanon mo han imo saad,
+033	gindara mo an mga tawo nga imo ginbawi;
+034	gindara mo hira pinaagi han imo kusog ngadto han imo baraan nga tuna.
+035	Hinbatian han kanasoran ngan nangungurog hira hin kahadlok;
+036	inaalpan hin duro nga kakulba an mga Filisteohanon
+037	Nalilisang an mga pangulo han Edumea;
+038	nangungurog an gamhanan nga mga tawo han Moab;
+039	nagmamatalaw an mga tawo han Canaan.
+040	Inaalpan hira hin kakulba ngan kahadlok.
+041	Nakita hira han imo kusog, O Ginoo ,
+042	ngan waray nira nahihimo tungod hin kahadlok,
+043	tubtob han pag-agi han imo mga tawo
+044	an mga tawo nga imo gintalwas tikang hin pagkaoripon.
+045	Ginpasulod ngan ginpaukoy mo hira didto han imo bukid,
+046	an dapit nga imo ginpili, O Ginoo , nga imo urokyan,
+047	an Templo nga ikaw ngahaw an nagtindog.
+048	Maghahadi ka ha kadayonan, O Ginoo .
+049	Nagtabok han dagat an mga Israelita dida hin mamara nga salad han dagat.
+049	Kundi han pagkadto na han dagat han mga karuwahe han mga taga-Ehipto upod an ira mga kabayo ngan mga dikabayo, ginpabalik han Ginoo an tubig ngan ginlapwasan hira.
+050	Ginkuha ni Miriam nga manaragna, nga bugto ni Aaron, an iya tamborin, ngan sinmunod ha iya an ngatanan nga kababayen-an nga nagtotokar hin mga tamborin ngan nagsasarayaw.
+051	Nagkanta hi Miriam para ha ira
+052	Pagkanta ha Ginoo tungod han iya mahimayaon nga pagdarag-an;
+053	gintabog niya an mga kabayo ngan an ira mga dikabayo ngadto ha kadagatan.
+054	Niyan gindara ni Moises an mga tawo han Israel tikang han Dagat Pula ngadto ha kamingawan han Sur.
+054	Sulod hin tulo ka adlaw, ginlatas nira an kamingawan, kundi waray hira makaagi hin tubig.
+055	Niyan inamabot hira ngadto hin usa nga dapit nga ginngaranan nga Mara, kundi mapait hin duro an tubig didto nga waray hira makainom.
+055	Amo ito nga ginngaranan nga Mara ini nga dapit.
+056	Nagsumbong kan Moises an mga tawo ngan nagpakiana, Ano an aton iimnon?
+057	Nag-ampo hi Moises hin kinasingkasing ngadto han Ginoo , ngan ginpakita hiya han Ginoo hin lipak hin kahoy nga ipinilak niya ngadto han tubig, ngan waray na pagpait an tubig.
+058	Didto gintagan hira han Ginoo hin mga balaod nga pagtutumanon nira, ngan iya liwat ginsarihan hira didto.
+059	Nagsiring hiya, Kon pagsugton ako niyo hin hingpit pinaagi hin pagbuhat han akon gin-iisip nga matadong, ngan pinaagi hin pagtuman han akon mga sugo, diri ko kamo kakastigohon hin bisan ano nga sakit nga gindara ko ngadto han mga Ehiptohanon.
+059	Ako amo an Ginoo nga nagtatambal ha iyo.
+060	Sunod inmabot hira ngadto ha Elim, diin may-ada dose nga mga burabod ngan sitenta nga mga kahoy nga palmera; didto nagkampo hira ha ligid han tubig.

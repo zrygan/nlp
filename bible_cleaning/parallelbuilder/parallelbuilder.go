@@ -163,6 +163,26 @@ func readSrcTgtLines(srcFile string, index *map[string]map[string]string, tgt st
 	return srcLines, tgtLines, nil
 }
 
+func findVerseAlignments(srcIndex, tgtIndex map[string]string) (shared, missingSrc, missingTgt []string) {
+	// 1. Check verses from src perspective
+	for verseID := range srcIndex {
+		if _, ok := tgtIndex[verseID]; ok {
+			shared = append(shared, verseID)
+		} else {
+			missingTgt = append(missingTgt, verseID)
+		}
+	}
+
+	// 2. Check verses from tgt perspective
+	for verseID := range tgtIndex {
+		if _, ok := srcIndex[verseID]; !ok {
+			missingSrc = append(missingSrc, verseID)
+		}
+	}
+
+	return shared, missingSrc, missingTgt
+}
+
 /*
 
 	# Verse-level parallel corpus generation
@@ -200,7 +220,7 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 			}
 		}
 	}
-
+	
 	entry.Sort()
 
 	prg.Progress <- workerprogress.WorkerProgressMsg{
@@ -318,17 +338,21 @@ func buildCorpusSentences(
 
 		n := max(len(srcLines), len(tgtLines))
 
+
 		for i := 0; i < n; i++ {
 		
 			srcLine := config.TOKEN_MISSING_TRANSLATION
 			if i < len(srcLines) {
 				srcLine = srcLines[i]
 			}
-			tgtLine := config.TOKEN_MISSING_TRANSLATION
 
+			tgtLine := config.TOKEN_MISSING_TRANSLATION
 			if i < len(tgtLines) {
 				tgtLine = tgtLines[i]
 			}
+			strings.Split(srcLine, "\t")
+			strings.Split(tgtLine, "\t")
+
 
 			entry.Pairs = append(entry.Pairs, types.TextPair{
 				SourceText: strings.TrimSpace(srcLine),

@@ -1,45 +1,46 @@
-Ikadwa na araw am amyan do Cyadidi do meyngaran so Cyana a ili so tao a meysinmo.
-Amyan dang o ina na ni Yeso.
-Si Yeso rana kano macinanao jya am nipanoyon da sira no matarek so vahay a tao.
-Am ori o nyangay da.
-Ikongo do nimagid rana o yopen da potaw cyo, am ori o nipancyan na ni ina na ji Yeso so, Apya sira ito a yabo rana so yopen.
-Maniring si Yeso am, Mo ina, ji mo to gacigaci yaken an.
-Ta beken pa ya araraw na no yako ipeyvazay.
-Maniring o ina na do lamlamsoy no meysinmo a tao am, To nyo ngamiznga o pahanhanan na jinyo.
-Amyan dang so anem a peraranom.
-Ori rana am iwawalam da no tao do Yotay a pavavanawan da.
-O kazomzomyan no peraranom am akman so makanateng a rarako a kama.
-Maniring do lamlamsoy da no meysinmo a tao si Yeso am, Apno kamo no ranom o peraranom.
-Karahan am kakadain da apnowen no ranom o peraranom.
-Maniring pa si Yeso am, Patwaw kamo na katoro nyo nya do yameymatmatngeh no vazay a tao.
-Makarahan am yangay da na.
-Tahaman no meymatmatngeh nya tao o nipeyvaliw na ni Yeso a potaw cyo am isavasavak na o nyahapan da sya.
-Am katenngan da no lamlamsoy na.
-Am ori o nipancyan na no nimapasakay a tao.
-Maniring jya am, Mamimin o tao a yamapanoma so apya potaw cyo.
-No mabsoy rana sira am ori o patwawan da so todna ka potaw cyo.
-Am imo am mo panowjin o ney yapya na potaw cyo.
-Oya rana am ney manma na vazay ni Yeso a yongkad no kayapo na ji Ama ta do to.
-Ori rana am mina vazay na ori ni Yeso do Cyana do Cyadidi.
-O vazay rana ya am ipacita na o admadmay na do tao.
-Nimacipinda do dang o nyanoyngan da rana jya no macinanao jya.
-Mateyka o vazay ori am macihza si Yeso do ina na kada wari na kano macinanao jya mangay do Cyapaynong a miseysan so makanateng so araraw.
-Masngen rana o ipamaring da so kanen a Iyeci am mangay si Yeso do Yelosaleng.
-Do livolivon no rako a panaralayan da am makacita so tao a manazang no baka kano kagling a kano hato a kano aro a tao a amlisna dang a mamalit so nizpi.
-Karahan am mangap si Yeso so kolili a kapaksoz na so baka kano kagling do rako a panaralayan a powboten, a kapasakeb na so pamalimalitan da no tao so nizpi a kavangan, a kapeyvwak no nizpi do teyrahem.
-Maniring do manazang no hato a tao am, Powbot kamo na o nyo ipanazang.
-Ji kamo todey meypananazangan do yararalayan ni Ama a vahay.
-Karahan am manakem da no macinanao jya o ciring do Seysyo.
-O ciring rana am, Mo Ama do to.
-Yakmey apoy o onowned ko so kakwakwat a yamnakenakem so yararalayan nimo.
-Pacicin da no panipanirsirngen no tao do Yotay.
-Maniring sira am, Pacittan pala o yongkad mo a vazay a apo ji Ama ta do to, do mo kato mapeyvwakan so tao do rako a panaralayan.
-Maniring si Yeso am, Tana kavakavahen nyo o panaralayan eya am cyaha, ta si katlo na araw am patanken ko.
-Maniring sira am, Yanem o ikasikalima na 46 kawan no nipatnek so rako a panaralayan am ikongo mo pancyan no kapakatlo mo a araw a mapatanek sya.
-Am o paingan ni Yeso so ciring na am kataotao na.
-Mirwa mavyay si Yeso am manakem da na no macinanao jya o mina ciring na.
-Ori o nyanoyngan da na do Seysyo a kano ciring na ni Yeso.
-Amyan si Yeso do Yelosaleng a macipamaring so kanen do Iyeci am aro tao a nimakacita so vazay na a yongkad no kapo na ji Ama ta do to.
-Am ori o nyanoyngan da rana jya.
-Am ji na meyhanhanan sira ni Yeso, ta katenngan na o kalas no onowned da.
-Tana ji da mancyan no tao ji Yeso o aktokto da am to na rana tenngi ni Yeso o onowned da.
+verse	content
+001	Ikadwa na araw am amyan do Cyadidi do meyngaran so Cyana a ili so tao a meysinmo.
+001	Amyan dang o ina na ni Yeso.
+002	Si Yeso rana kano macinanao jya am nipanoyon da sira no matarek so vahay a tao.
+002	Am ori o nyangay da.
+003	Ikongo do nimagid rana o yopen da potaw cyo, am ori o nipancyan na ni ina na ji Yeso so, Apya sira ito a yabo rana so yopen.
+004	Maniring si Yeso am, Mo ina, ji mo to gacigaci yaken an.
+004	Ta beken pa ya araraw na no yako ipeyvazay.
+005	Maniring o ina na do lamlamsoy no meysinmo a tao am, To nyo ngamiznga o pahanhanan na jinyo.
+006	Amyan dang so anem a peraranom.
+006	Ori rana am iwawalam da no tao do Yotay a pavavanawan da.
+006	O kazomzomyan no peraranom am akman so makanateng a rarako a kama.
+007	Maniring do lamlamsoy da no meysinmo a tao si Yeso am, Apno kamo no ranom o peraranom.
+007	Karahan am kakadain da apnowen no ranom o peraranom.
+008	Maniring pa si Yeso am, Patwaw kamo na katoro nyo nya do yameymatmatngeh no vazay a tao.
+008	Makarahan am yangay da na.
+009	Tahaman no meymatmatngeh nya tao o nipeyvaliw na ni Yeso a potaw cyo am isavasavak na o nyahapan da sya.
+009	Am katenngan da no lamlamsoy na.
+009	Am ori o nipancyan na no nimapasakay a tao.
+010	Maniring jya am, Mamimin o tao a yamapanoma so apya potaw cyo.
+010	No mabsoy rana sira am ori o patwawan da so todna ka potaw cyo.
+010	Am imo am mo panowjin o ney yapya na potaw cyo.
+011	Oya rana am ney manma na vazay ni Yeso a yongkad no kayapo na ji Ama ta do to.
+011	Ori rana am mina vazay na ori ni Yeso do Cyana do Cyadidi.
+011	O vazay rana ya am ipacita na o admadmay na do tao.
+011	Nimacipinda do dang o nyanoyngan da rana jya no macinanao jya.
+012	Mateyka o vazay ori am macihza si Yeso do ina na kada wari na kano macinanao jya mangay do Cyapaynong a miseysan so makanateng so araraw.
+013	Masngen rana o ipamaring da so kanen a Iyeci am mangay si Yeso do Yelosaleng.
+014	Do livolivon no rako a panaralayan da am makacita so tao a manazang no baka kano kagling a kano hato a kano aro a tao a amlisna dang a mamalit so nizpi.
+015	Karahan am mangap si Yeso so kolili a kapaksoz na so baka kano kagling do rako a panaralayan a powboten, a kapasakeb na so pamalimalitan da no tao so nizpi a kavangan, a kapeyvwak no nizpi do teyrahem.
+016	Maniring do manazang no hato a tao am, Powbot kamo na o nyo ipanazang.
+016	Ji kamo todey meypananazangan do yararalayan ni Ama a vahay.
+017	Karahan am manakem da no macinanao jya o ciring do Seysyo.
+017	O ciring rana am, Mo Ama do to.
+017	Yakmey apoy o onowned ko so kakwakwat a yamnakenakem so yararalayan nimo.
+018	Pacicin da no panipanirsirngen no tao do Yotay.
+018	Maniring sira am, Pacittan pala o yongkad mo a vazay a apo ji Ama ta do to, do mo kato mapeyvwakan so tao do rako a panaralayan.
+019	Maniring si Yeso am, Tana kavakavahen nyo o panaralayan eya am cyaha, ta si katlo na araw am patanken ko.
+020	Maniring sira am, Yanem o ikasikalima na 46 kawan no nipatnek so rako a panaralayan am ikongo mo pancyan no kapakatlo mo a araw a mapatanek sya.
+021	Am o paingan ni Yeso so ciring na am kataotao na.
+022	Mirwa mavyay si Yeso am manakem da na no macinanao jya o mina ciring na.
+022	Ori o nyanoyngan da na do Seysyo a kano ciring na ni Yeso.
+023	Amyan si Yeso do Yelosaleng a macipamaring so kanen do Iyeci am aro tao a nimakacita so vazay na a yongkad no kapo na ji Ama ta do to.
+023	Am ori o nyanoyngan da rana jya.
+024	Am ji na meyhanhanan sira ni Yeso, ta katenngan na o kalas no onowned da.
+025	Tana ji da mancyan no tao ji Yeso o aktokto da am to na rana tenngi ni Yeso o onowned da.

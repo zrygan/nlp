@@ -1,47 +1,89 @@
-Inayaban ni Jacob dagiti annakna ket kinunana, Umasidegkayo kaniak ket ibagak ti mapasamakto kadakayo iti masakbayan Aribungbongandak, dakayo nga annakko; denggenyo ni Israel a tatangyo.
-Ruben nga inauna, sika ti pigsak; wen, sika ti inauna a bungak, sika ti katangsitan ken kapigsaan kadagiti amin nga annakko.
-Mayarigka iti nadawel a karayan, ngem saanto a sika ti kangrunaan, ta kinaiddam ti babai nga inkabbalayko ket tinulawam ti idda ni amam.
-Agkabsat da Simeon ken Levi; inusarda ti armasda nga agranggas.
-Diak makiraman kadagiti nalimed a saritaanda, wenno makibiang kadagiti taripnongda, gapu ta agpapatayda iti tao iti pungtotda pagang-angawanda a pilayen dagiti toro a baka.
-Mailunod koma ti pungtotda ta nakaro unay; mailunod koma ti ungetda ta ranggasda ti napalalo.
-Iwaraskonto ida iti entero nga Israel Ket iwarakto ida kadagiti tattaona.
-Juda, dayawendakanto dagiti kakabsatmo.
-Bekkelem dagiti kabusormo.
-Agrukbabto kenka dagiti kakabsatmo.
-Leon ti kayarigan ni Juda.
-Patayenna ti tukmaanna sa agsubli iti aponna.
-Kasla leon nga agunnat sa agidda, awan makaitured a mangsinga kenkuana.
-Ikutan ni Juda ti setro, agnanayon nga agturay dagiti kaputotanna.
-Yegto dagiti nasion dagiti sagut a pagbayadda kenkuana.
-Ket agtamedda a mangipakita iti panagtulnogda.
-Igalutna ti urbon nga asnona iti puon ti ubas, iti kasayaatan nga ubas.
-Labaanna dagiti pagan-anayna iti arak a nalabaga.
-Nalabbaga dagiti matana iti kaiinumna iti arak.
-Napudaw dagiti ngipenna iti kaiinumna iti gatas.
-Agnaedto ni Zabulon iti igid ti taaw; pagsangladanto ti barko ti baybayna.
-Dumanonto idiay Sidon ti beddengna.
-Arig ni Issacar iti asno nga agidda iti baet dagiti pagkargaan.
-Ngem makitana a nasayaat ti paginanaan ken makaliwliwa ti daga ket agrukob a mangbaklay iti karga, mapilit nga agtrabaho a kas tagabu.
-Iturayanto ni Dan dagiti tattaona.
-Agbalindanto a kas kadagiti dadduma a tribu ti Israel.
-Arigto ni Dan iti uleg iti igid ti dalan; wen, nagita nga uleg iti igid ti dana a mangkagat iti mukod ti kabalio a pakatnagan ti nagsakay.
-Urayek ti panangispalmo, O Apo !
-Maysanto a bunggoy ti mannanakaw ti mangdarup ken ni Gad ngem sumarangetto ket sunsonenna ida.
-Agtaud iti talon ni Aser dagiti nababaknang a taraon; a maikari iti lamisaan ti ari.
-Maysa nga ugsa ni Neftali nga agtaray a siwawaya, napipintas dagiti urbon a yanakna.
-Kasla atap nga asno ni Jose iti igid ti maysa nga ubbog, urbon ti kabalio iti bakras ti turod.
-Sirurungsot a darupen dagiti kabusorna, ibiatda dagiti panada a mangsunson kenkuana.
-Ngem agtalinaed a nalagda ti bai ti panana ket mapapigsa dagiti takiagna gapu iti Mannakabalin a Dios ni Jacob, gapu iti Pastor a manalaknib iti Israel.
-Ti Dios ni amam ti tumulong kenka, ti Dios a Mannakabalin-amin ti mangbendision kenka Paraburannaka iti tudo nga aggapu iti ngato ken danum nga aggapu iti uneg ti daga.
-Paraburannaka iti annak ken adu a baka.
-Bendisionannaka iti bukel ken sabong, kadagiti bambantay idi ugma, dagiti makaay-ayo a banag nga aggapu kadagiti agnanayon a turod.
-Maisaad koma dagitoy a bendision iti ulo ni Jose, iti muging ti napili kadagiti kakabsatna a lallaki.
-Arig narungsot a lobo ni Benjamin Binigat ken rinabii nga agpapatay ken aglamut.
-Dagitoy dagiti sangapulo ket dua a tribu ti Israel ket daytoy ti imbaga ni tatangda idi agpakada kadakuada a nangbendisionanna iti tunggal maysa kadagiti annakna.
-Binilin ni Jacob dagiti annakna, Ita ta innakon tumipon kadagiti pimmusay a kapuonak, itabondak iti nakaitaneman dagiti nagannak kaniak iti rukib nga adda iti talon ni Efron a Heteo, idiay Macpela, iti daya ti Mamre iti daga ti Canaan.
-Ginatang ni Abraham daytoy a rukib ken ti talon ken ni Efron a Heteo tapno agpaay a pagitaneman.
-Sadiay ti nakaitabonan ni Abraham ken ni Sara nga asawana agraman ni Isaac ken ni Rebecca nga asawana.
-Sadiay met ti nangitanemak ken ni Lea.
-Nagatang kadagiti Heteo ti talon ken ti rukib nga adda iti sakupna.
-Itanemdak sadiay.
-Idi malpas ti panangbilin ni Jacob kadagiti annakna, nagidda ket natayen.
+verse	content
+001	Inayaban ni Jacob dagiti annakna ket kinunana, Umasidegkayo kaniak ket ibagak ti mapasamakto kadakayo iti masakbayan
+002	Aribungbongandak, dakayo nga annakko;
+003	denggenyo ni Israel a tatangyo.
+004	Ruben nga inauna, sika ti pigsak;
+005	wen, sika ti inauna a bungak,
+006	sika ti katangsitan ken kapigsaan kadagiti amin nga annakko.
+007	Mayarigka iti nadawel a karayan,
+008	ngem saanto a sika ti kangrunaan,
+009	ta kinaiddam ti babai nga inkabbalayko
+010	ket tinulawam ti idda ni amam.
+011	Agkabsat da Simeon ken Levi;
+012	inusarda ti armasda nga agranggas.
+013	Diak makiraman kadagiti nalimed a saritaanda,
+014	wenno makibiang kadagiti taripnongda,
+015	gapu ta agpapatayda iti tao iti pungtotda
+016	pagang-angawanda a pilayen dagiti toro a baka.
+017	Mailunod koma ti pungtotda ta nakaro unay;
+018	mailunod koma ti ungetda ta ranggasda ti napalalo.
+019	Iwaraskonto ida iti entero nga Israel
+020	Ket iwarakto ida kadagiti tattaona.
+021	Juda, dayawendakanto dagiti kakabsatmo.
+022	Bekkelem dagiti kabusormo.
+023	Agrukbabto kenka dagiti kakabsatmo.
+024	Leon ti kayarigan ni Juda.
+025	Patayenna ti tukmaanna sa agsubli iti aponna.
+026	Kasla leon nga agunnat sa agidda,
+027	awan makaitured a mangsinga kenkuana.
+028	Ikutan ni Juda ti setro,
+029	agnanayon nga agturay dagiti kaputotanna.
+030	Yegto dagiti nasion dagiti sagut a pagbayadda kenkuana.
+031	Ket agtamedda a mangipakita iti panagtulnogda.
+032	Igalutna ti urbon nga asnona iti puon ti ubas,
+033	iti kasayaatan nga ubas.
+034	Labaanna dagiti pagan-anayna iti arak a nalabaga.
+035	Nalabbaga dagiti matana iti kaiinumna iti arak.
+036	Napudaw dagiti ngipenna iti kaiinumna iti gatas.
+037	Agnaedto ni Zabulon iti igid ti taaw;
+038	pagsangladanto ti barko ti baybayna.
+039	Dumanonto idiay Sidon ti beddengna.
+040	Arig ni Issacar iti asno
+041	nga agidda iti baet dagiti pagkargaan.
+042	Ngem makitana a nasayaat ti paginanaan
+043	ken makaliwliwa ti daga
+044	ket agrukob a mangbaklay iti karga,
+045	mapilit nga agtrabaho a kas tagabu.
+046	Iturayanto ni Dan dagiti tattaona.
+047	Agbalindanto a kas kadagiti
+048	dadduma a tribu ti Israel.
+049	Arigto ni Dan iti uleg iti igid ti dalan;
+050	wen, nagita nga uleg iti igid ti dana
+051	a mangkagat iti mukod ti kabalio
+052	a pakatnagan ti nagsakay.
+053	Urayek ti panangispalmo, O Apo !
+054	Maysanto a bunggoy ti mannanakaw ti mangdarup ken ni Gad
+055	ngem sumarangetto ket sunsonenna ida.
+056	Agtaud iti talon ni Aser dagiti nababaknang a taraon;
+057	a maikari iti lamisaan ti ari.
+058	Maysa nga ugsa ni Neftali nga agtaray a siwawaya,
+059	napipintas dagiti urbon a yanakna.
+060	Kasla atap nga asno ni Jose iti igid ti maysa nga ubbog,
+061	urbon ti kabalio iti bakras ti turod.
+062	Sirurungsot a darupen dagiti kabusorna,
+063	ibiatda dagiti panada a mangsunson kenkuana.
+064	Ngem agtalinaed a nalagda ti bai ti panana
+065	ket mapapigsa dagiti takiagna
+066	gapu iti Mannakabalin a Dios ni Jacob,
+067	gapu iti Pastor a manalaknib iti Israel.
+068	Ti Dios ni amam ti tumulong kenka,
+069	ti Dios a Mannakabalin-amin ti mangbendision kenka
+070	Paraburannaka iti tudo nga aggapu iti ngato
+071	ken danum nga aggapu iti uneg ti daga.
+072	Paraburannaka iti annak ken adu a baka.
+073	Bendisionannaka iti bukel ken sabong,
+074	kadagiti bambantay idi ugma,
+075	dagiti makaay-ayo a banag nga aggapu kadagiti agnanayon a turod.
+076	Maisaad koma dagitoy a bendision iti ulo ni Jose,
+077	iti muging ti napili kadagiti kakabsatna a lallaki.
+078	Arig narungsot a lobo ni Benjamin
+079	Binigat ken rinabii nga agpapatay ken aglamut.
+080	Dagitoy dagiti sangapulo ket dua a tribu ti Israel ket daytoy ti imbaga ni tatangda idi agpakada kadakuada a nangbendisionanna iti tunggal maysa kadagiti annakna.
+081	Binilin ni Jacob dagiti annakna, Ita ta innakon tumipon kadagiti pimmusay a kapuonak, itabondak iti nakaitaneman dagiti nagannak kaniak iti rukib nga adda iti talon ni Efron a Heteo,
+082	idiay Macpela, iti daya ti Mamre iti daga ti Canaan.
+082	Ginatang ni Abraham daytoy a rukib ken ti talon ken ni Efron a Heteo tapno agpaay a pagitaneman.
+083	Sadiay ti nakaitabonan ni Abraham ken ni Sara nga asawana agraman ni Isaac ken ni Rebecca nga asawana.
+083	Sadiay met ti nangitanemak ken ni Lea.
+084	Nagatang kadagiti Heteo ti talon ken ti rukib nga adda iti sakupna.
+084	Itanemdak sadiay.
+085	Idi malpas ti panangbilin ni Jacob kadagiti annakna, nagidda ket natayen.

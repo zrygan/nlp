@@ -1,41 +1,42 @@
-Nadid, kllipas nen kaduwwa a aldew, ay tehud a kasalan ti Cana a sakup ni Galilea.
-Ked haud en ina ni Jesus.
-Imbitadu bi de Jesus ay ten disepulus na hidi ten kasalan.
-Naubusan hidi ti alak ten handaan.
-Kaya kinagi nen ina ni Jesus dikona, Naubusan dn hidi ti alak.
-Kinagi ni Jesus, Dyank mu dipalonguwan.
-Bakn palla a iyd en tama a odas.
-Kinagi nen ina na ten mgserbi hidi, Gamitn moy en nyaman a kagiyn na dikomoy.
-Tehud a nnm a tapayan a maglasn ti manga duwwa a pulu hanggan tllu a pulu a galon.
-Hidi iyd ay nehanda para pggugasan nen Judio hidi ayun ten relihiyon di.
-Kinagi ni Jesus ten mgserbi hidi, Sigi putatn moy ti dinom tapayanen hidi.
-Pinutat di ngani en tapayan hidi.
-Sakay kinagi na dikodi, Mangsigit kam sakay iyangay moy ten tagapamahala ten kasalan.
-Nangsigit ngani hidi sakay inyangay di ten tagapamahala ten kasalan.
-Dikona ennaman nen tagapamahala ten kasalan en dinom a nagin alak ay awan na tukoy ni hdya iyud a naggubwat.
-Peru tukoy nen mgserbi hidi a nangsigit.
-Kaya dinulaw nen tagapamahala en lllaki a kinasal.
-Kinagi na, En masarap a alak en purumeru a iluwas sakay iluwas en mahina a kalasi ni alak ni makpal dn a mainom en tolay hidi.
-Peru siko ay indimudyan mu a inluwas en masarap a alak.
-Iyd a ginamet ni Jesus ti Cana, en kapurumeruwan a ginamet na a himala.
-Ten pamamag-itan ni iyud ay nehayag en kapangyariyan na sakay naniwala en disepulus na hidi.
-Kttapos ni iyud, ay ummangay de Jesus ti Capernaum.
-Kaguman na en ina na, sakay en kkkapatkaka na hidi ay ten disepulus na hidi.
-Sakay nktulos hidi haud ti sangan a aldew.
-Nadid, dikona a adeni dn en Piyesta nen Aldew nen Pgtalib nen Judio hidi, ay ummangay ti Jesus ti Jerusalem.
-Ten kssddp na ten Templo, ay netan na en tolay hidi a maglaku-laku.
-Maglaku hidi ti kabakaan, tupa sakay kalapati, sakay netan na bi haud en mgpalit hidi ti pilak.
-Naggamet ti Jesus ti pghaplit a lubid sakay intabuy na a paluwas ten Templo en mglaku-laku hidi, pati en baka hidi sakay tupa hidi.
-Insapwar na en pilak nen mgpalit hidi sakay impgpasakb na en lamisaan di hidi.
-Sakay kinagi na ten maglaku hidi ti kalapati, Ibutan moy hddi hidi iyn, bakin ginamet moy a palengki en bilay nen Ama ku?
-Naala-ala nen disepulus na hidi en nesulat ten kasulatan a, En pgsurug ku ten bilay mu ay kumn a apoy a maggerab ti pusu kuwiday.
-Gapu haud, ay tinanung siya nen pinunu hidi nen Judio hidi, kinagi di, nya i mepeta muwid dikomi a himala, tnni patunay a tehud ka a karapatan a gamitn iyd?
-Tummbbig ti Jesus, Rbban moy i Templowid a iyd sakay ten alay nen tllu a aldew ay itakng ku iyd a ruway.
-Kinagi nen pinunu hidi nen Judio hidi, Samantala ppat a pulu ay ti nnm a taon a ginamet i Templowid a iyd?
-Sakay nadid ay itakng mu la ti tllu a aldew?
-Peru en Templo a kinagi ni Jesus ay en bggi na.
-Kaya, dikona nabiyag siya a ruway ten katllu a aldew, ay naala-ala nen disepulus na hidi iyud a kinagi na.
-Sakay lalu hidi a naniwala ten kasulatan sakay ten intoldu hidi ni Jesus.
-Nadid, ten Piyesta nen Aldew nen Pgtalib ti Jerusalem, ay makpal en summampalataya knni Jesus ten dikona ketan di en himala hidi a ginggamet na.
-Peru awan nagtiwala ti Jesus dikodi gapu tukoy na en ked ten isip di.
-Awan dn siya kailangan a baretaan tungkul ten deyaman, gapu tukoy na en ked ten isip nen atanan a tolay.
+verse	content
+001	Nadid, kllipas nen kaduwwa a aldew, ay tehud a kasalan ti Cana a sakup ni Galilea.
+001	Ked haud en ina ni Jesus.
+002	Imbitadu bi de Jesus ay ten disepulus na hidi ten kasalan.
+003	Naubusan hidi ti alak ten handaan.
+003	Kaya kinagi nen ina ni Jesus dikona, Naubusan dn hidi ti alak.
+004	Kinagi ni Jesus, Dyank mu dipalonguwan.
+004	Bakn palla a iyd en tama a odas.
+005	Kinagi nen ina na ten mgserbi hidi, Gamitn moy en nyaman a kagiyn na dikomoy.
+006	Tehud a nnm a tapayan a maglasn ti manga duwwa a pulu hanggan tllu a pulu a galon.
+006	Hidi iyd ay nehanda para pggugasan nen Judio hidi ayun ten relihiyon di.
+007	Kinagi ni Jesus ten mgserbi hidi, Sigi putatn moy ti dinom tapayanen hidi.
+008	Pinutat di ngani en tapayan hidi.
+009	Sakay kinagi na dikodi, Mangsigit kam sakay iyangay moy ten tagapamahala ten kasalan.
+010	Nangsigit ngani hidi sakay inyangay di ten tagapamahala ten kasalan.
+011	Dikona ennaman nen tagapamahala ten kasalan en dinom a nagin alak ay awan na tukoy ni hdya iyud a naggubwat.
+011	Peru tukoy nen mgserbi hidi a nangsigit.
+011	Kaya dinulaw nen tagapamahala en lllaki a kinasal.
+012	Kinagi na, En masarap a alak en purumeru a iluwas sakay iluwas en mahina a kalasi ni alak ni makpal dn a mainom en tolay hidi.
+012	Peru siko ay indimudyan mu a inluwas en masarap a alak.
+013	Iyd a ginamet ni Jesus ti Cana, en kapurumeruwan a ginamet na a himala.
+013	Ten pamamag-itan ni iyud ay nehayag en kapangyariyan na sakay naniwala en disepulus na hidi.
+014	Kttapos ni iyud, ay ummangay de Jesus ti Capernaum.
+014	Kaguman na en ina na, sakay en kkkapatkaka na hidi ay ten disepulus na hidi.
+014	Sakay nktulos hidi haud ti sangan a aldew.
+015	Nadid, dikona a adeni dn en Piyesta nen Aldew nen Pgtalib nen Judio hidi, ay ummangay ti Jesus ti Jerusalem.
+016	Ten kssddp na ten Templo, ay netan na en tolay hidi a maglaku-laku.
+016	Maglaku hidi ti kabakaan, tupa sakay kalapati, sakay netan na bi haud en mgpalit hidi ti pilak.
+017	Naggamet ti Jesus ti pghaplit a lubid sakay intabuy na a paluwas ten Templo en mglaku-laku hidi, pati en baka hidi sakay tupa hidi.
+017	Insapwar na en pilak nen mgpalit hidi sakay impgpasakb na en lamisaan di hidi.
+018	Sakay kinagi na ten maglaku hidi ti kalapati, Ibutan moy hddi hidi iyn, bakin ginamet moy a palengki en bilay nen Ama ku?
+019	Naala-ala nen disepulus na hidi en nesulat ten kasulatan a, En pgsurug ku ten bilay mu ay kumn a apoy a maggerab ti pusu kuwiday.
+020	Gapu haud, ay tinanung siya nen pinunu hidi nen Judio hidi, kinagi di, nya i mepeta muwid dikomi a himala, tnni patunay a tehud ka a karapatan a gamitn iyd?
+021	Tummbbig ti Jesus, Rbban moy i Templowid a iyd sakay ten alay nen tllu a aldew ay itakng ku iyd a ruway.
+022	Kinagi nen pinunu hidi nen Judio hidi, Samantala ppat a pulu ay ti nnm a taon a ginamet i Templowid a iyd?
+022	Sakay nadid ay itakng mu la ti tllu a aldew?
+023	Peru en Templo a kinagi ni Jesus ay en bggi na.
+024	Kaya, dikona nabiyag siya a ruway ten katllu a aldew, ay naala-ala nen disepulus na hidi iyud a kinagi na.
+024	Sakay lalu hidi a naniwala ten kasulatan sakay ten intoldu hidi ni Jesus.
+025	Nadid, ten Piyesta nen Aldew nen Pgtalib ti Jerusalem, ay makpal en summampalataya knni Jesus ten dikona ketan di en himala hidi a ginggamet na.
+026	Peru awan nagtiwala ti Jesus dikodi gapu tukoy na en ked ten isip di.
+027	Awan dn siya kailangan a baretaan tungkul ten deyaman, gapu tukoy na en ked ten isip nen atanan a tolay.

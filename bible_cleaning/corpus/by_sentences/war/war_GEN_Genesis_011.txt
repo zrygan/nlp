@@ -1,29 +1,39 @@
-Ha syahan may-ada usa la nga pinulongan an mga tawo ha bug-os nga kalibutan ngan waray kalainan an mga pulong nga ira ginagamit.
-Samtang nagtitipakadto hira ha sinirangan, nahingadto hira ha kapatagan didto ha Babilonia ngan didto hira pag-ukoy.
-Naggipasiringsiring hira, Tana, paghimo kita hin mga baldosa ngan banggaha ta hin maupay basi magmatig-a ini hin duro.
-Sanglit nagkamay-ada hira mga baldosa nga igtirindog ngan alkitran hin pagturugkop han mga baldosa.
-Nagsiring hira, Yana pagtindog kita hin usa nga syudad nga may-ada lantawan nga maabot ha langit, basi makaangkon kita hin ngaran para ha aton kalugaringon ngan diri kita magsarang ha bug-os nga tuna.
-Niyan linmusad an Ginoo hin pagkita han syudad ngan han lantawan nga gintindog hito nga mga tawo, ngan nagsiring hiya, Yana usa la nga katawhan ini hira ngatanan ngan nagyayakan hira hin usa la nga pinulongan; tinikangan pa la ini han ira nahuhunahunaan hin pagbuhat.
-Diri maiha mahihimo nira an bisan ano nga ira karuyag!
-Lusad kita ngan guponga ta an ira pinulongan basi diri hira magkasarabot.
-Sanglit ginpasarang han Ginoo hira ngatanan ha bug-os nga tuna ngan ginpaukoy nira an pagtindog han syudad.
-Gintawag nga Babilon an syudad, kay didto gingupong han Ginoo an pinulongan han ngatanan nga mga tawo, ngan ginpasarang hira ha bug-os nga tuna.
-Amo ini an mga tulin ni Sem.
-Duha ka tuig katapos han lunop, han 100 na an panuigon ni Sem, nagkamay-ada hiya anak nga lalake nga hi Arfacsad.
-Katapos hito nabuhi pa hiya hin 500 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 35 na an panuigon ni Arfacsad, nagkamay-ada hiya anak nga lalake nga hi Sela; katapos hito nabuhi pa hiya hin 403 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 30 na an panuigon ni Sela, nagkamay-ada hiya anak nga lalake nga hi Eber; katapos hito nabuhi pa hiya hin 403 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 34 na an panuigon ni Eber, nagkamay-ada hiya anak nga lalake nga hi Peleg; katapos hito nabuhi pa hiya hin 430 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 30 na an panuigon ni Peleg, nagkamay-ada hiya anak nga lalake nga hi Reu; katapos hito nabuhi pa hiya hin 209 ka tuig, ngan nagkamay-ada iba nga mga anak.
-Han 32 na an panuigon ni Reu, nagkamay-ada hiya anak nga lalake nga hi Serug; katapos hito nabuhi pa hiya hin 207 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 30 na an panuigon ni Serug, nagkamay-ada hiya anak nga lalake nga hi Nahor; katapos hito nabuhi pa hiya hin 200 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 29 na an panuigon ni Nahor, nagkamay-ada hiya anak nga lalake nga hi Tera; katapos hito nabuhi pa hiya hin 119 ka tuig ngan nagkamay-ada iba nga mga anak.
-Han 70 na an panuigon ni Tera, nagin amay hiya nira Abram, Nahor, ug Haran.
-Amo ini an mga tulin ni Tera nga amay nira Abram, Nahor, ug Haran.
-Hi Haran amo an amay ni Lot, ngan namatay hi Haran didto han iya natawhan nga bungto han Ur didto ha Babilonia samtang buhi pa an amay niya.
-Nangasawa hi Abram kan Sarai, ngan nangasawa hi Nahor kan Milca nga babaye nga anak ni Haran nga amay liwat ni Isca.
-Waray mag-anak hi Sarai.
-Gindara ni Tera hi Abram nga iya anak nga lalake, hi Lot nga iya apo, nga amo an anak nga lalake ni Haran, ngan hi Sarai nga iya umagad nga babaye, nga asawa ni Abram.
-Binayaan nira an syudad han Ur didto ha Babilonia ngan napakadto hira ha tuna han Canaan.
-Inmabot hira tubtob ha Haran ngan nag-ukoy hira didto.
-Didto namatay hi Tera ha panuigon nga 205.
+verse	content
+001	Ha syahan may-ada usa la nga pinulongan an mga tawo ha bug-os nga kalibutan ngan waray kalainan an mga pulong nga ira ginagamit.
+002	Samtang nagtitipakadto hira ha sinirangan, nahingadto hira ha kapatagan didto ha Babilonia ngan didto hira pag-ukoy.
+003	Naggipasiringsiring hira, Tana, paghimo kita hin mga baldosa ngan banggaha ta hin maupay basi magmatig-a ini hin duro.
+003	Sanglit nagkamay-ada hira mga baldosa nga igtirindog ngan alkitran hin pagturugkop han mga baldosa.
+004	Nagsiring hira, Yana pagtindog kita hin usa nga syudad nga may-ada lantawan nga maabot ha langit, basi makaangkon kita hin ngaran para ha aton kalugaringon ngan diri kita magsarang ha bug-os nga tuna.
+005	Niyan linmusad an Ginoo hin pagkita han syudad ngan han lantawan nga gintindog hito nga mga tawo,
+006	ngan nagsiring hiya, Yana usa la nga katawhan ini hira ngatanan ngan nagyayakan hira hin usa la nga pinulongan; tinikangan pa la ini han ira nahuhunahunaan hin pagbuhat.
+006	Diri maiha mahihimo nira an bisan ano nga ira karuyag!
+007	Lusad kita ngan guponga ta an ira pinulongan basi diri hira magkasarabot.
+008	Sanglit ginpasarang han Ginoo hira ngatanan ha bug-os nga tuna ngan ginpaukoy nira an pagtindog han syudad.
+009	Gintawag nga Babilon an syudad, kay didto gingupong han Ginoo an pinulongan han ngatanan nga mga tawo, ngan ginpasarang hira ha bug-os nga tuna.
+010	Amo ini an mga tulin ni Sem.
+010	Duha ka tuig katapos han lunop, han 100 na an panuigon ni Sem, nagkamay-ada hiya anak nga lalake nga hi Arfacsad.
+011	Katapos hito nabuhi pa hiya hin 500 ka tuig ngan nagkamay-ada iba nga mga anak.
+012	Han 35 na an panuigon ni Arfacsad, nagkamay-ada hiya anak nga lalake nga hi Sela;
+013	katapos hito nabuhi pa hiya hin 403 ka tuig ngan nagkamay-ada iba nga mga anak.
+014	Han 30 na an panuigon ni Sela, nagkamay-ada hiya anak nga lalake nga hi Eber;
+015	katapos hito nabuhi pa hiya hin 403 ka tuig ngan nagkamay-ada iba nga mga anak.
+016	Han 34 na an panuigon ni Eber, nagkamay-ada hiya anak nga lalake nga hi Peleg;
+017	katapos hito nabuhi pa hiya hin 430 ka tuig ngan nagkamay-ada iba nga mga anak.
+018	Han 30 na an panuigon ni Peleg, nagkamay-ada hiya anak nga lalake nga hi Reu;
+019	katapos hito nabuhi pa hiya hin 209 ka tuig, ngan nagkamay-ada iba nga mga anak.
+020	Han 32 na an panuigon ni Reu, nagkamay-ada hiya anak nga lalake nga hi Serug;
+021	katapos hito nabuhi pa hiya hin 207 ka tuig ngan nagkamay-ada iba nga mga anak.
+022	Han 30 na an panuigon ni Serug, nagkamay-ada hiya anak nga lalake nga hi Nahor;
+023	katapos hito nabuhi pa hiya hin 200 ka tuig ngan nagkamay-ada iba nga mga anak.
+024	Han 29 na an panuigon ni Nahor, nagkamay-ada hiya anak nga lalake nga hi Tera;
+025	katapos hito nabuhi pa hiya hin 119 ka tuig ngan nagkamay-ada iba nga mga anak.
+026	Han 70 na an panuigon ni Tera, nagin amay hiya nira Abram, Nahor, ug Haran.
+027	Amo ini an mga tulin ni Tera nga amay nira Abram, Nahor, ug Haran.
+027	Hi Haran amo an amay ni Lot,
+028	ngan namatay hi Haran didto han iya natawhan nga bungto han Ur didto ha Babilonia samtang buhi pa an amay niya.
+029	Nangasawa hi Abram kan Sarai, ngan nangasawa hi Nahor kan Milca nga babaye nga anak ni Haran nga amay liwat ni Isca.
+030	Waray mag-anak hi Sarai.
+031	Gindara ni Tera hi Abram nga iya anak nga lalake, hi Lot nga iya apo, nga amo an anak nga lalake ni Haran, ngan hi Sarai nga iya umagad nga babaye, nga asawa ni Abram.
+031	Binayaan nira an syudad han Ur didto ha Babilonia ngan napakadto hira ha tuna han Canaan.
+031	Inmabot hira tubtob ha Haran ngan nag-ukoy hira didto.
+032	Didto namatay hi Tera ha panuigon nga 205.

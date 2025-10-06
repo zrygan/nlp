@@ -1,36 +1,43 @@
-Binendisionan ti Dios ni Noe ken dagiti annakna.
-Kinunana, Aganakkayo iti adu tapno agwaras dagiti kaputotanyo iti amin a paset ti daga.
-Kabutengdakayto dagiti amin nga animal, tumatayab ken ikan.
-Mayawatda amin iti turayyo.
-Ita, mabalinyo a kanen dagitoy, kasta met dagiti nalangto a mula.
-Itedko amin dagitoy a taraonyo.
-Adda laeng banag a saanyo a kanenti karne nga adda pay laeng darana; ngamin, ti biag adda iti dara.
-No adda mangpatay iti tao, patayek met, uray ti animal.
-Patayek met ti siasinoman a mangpatay iti padana a tao.
-Siasinoman a mangpatay iti tao, patayento met ti padana a tao.
-Ngamin, naaramid ti tao a kaasping ti Dios.
-Masapul nga adu ti annakyo tapno agnaedto dagiti kaputotanyo iti amin a paset ti daga.
-Kinuna ti Dios ken ni Noe ken kadagiti annakna, Ita, makitulagakon kadakayo ken kadagiti kaputotanyo ken kadagiti amin nga adda biagnaamin a tumatayab, ken amin nga animalamin a kinaduam a rimmuar iti daong.
-Daytoy ti pagtutulagantayo: Ikarik a saankonton a pukawen ti amin a sibibiagawanton ti layus a mangdadael iti daga.
-Kas pakakitaan iti agnanayon a tulagko kadakayo ken iti amin nga adda biagna, ikabilko ti bullalayawko iti ulep.
-Daytoy ti tanda ti pannakitulagko iti lubong.
-Tunggal adda ulep iti tangatang ket agparang ti bullalayaw, laglagipekto ti karik kadakayo ken kadagiti animal nga awanton ti layus a mangpukaw kadagiti amin a parsua.
-No agparang ti bullalayaw iti ulep, makitakto ket malagipko ti agnanayon a pannakitulagko kadagiti amin a sibibiag a parsua iti daga.
-Kinuna ti Dios ken ni Noe, Daytoy ti pagilasinan ti tulagko kadagiti amin a sibibiag a parsua.
-Adtoy dagiti annak ni Noe a kinaduana iti daong: da Sem, Ham ken Jafet.
-Ni Ham ti tatang ni Canaan.
-Isuda a tallo ti kapuonan dagiti amin a tattao ditoy daga.
-Mannalon ni Noe ket isu ti immuna a nagmula iti ubas.
-Iti naminsan, nabartek iti yiinumna iti arak ti ubas; inuksobna ti pagan-anayna sa nagidda a lamolamo iti toldana.
-Idi nakita ni Ham a lamolamo ti amana, napanna imbaga kadagiti dua a kakabsatna.
-Nangala da Sem ken Jafet iti kagay ket inyabadayda kadagiti abagada.
-Simrekda a sitatallikud iti tolda sada inabbongan ti bagi ni tatangda; saanda a simmango tapno saanda a makita a lamolamo.
-Idi namunawan ni Noe ket naammoanna ti inaramid ti inaudi nga anakna, kinunana, Mailunod koma ni Canaan!
-Agbalinto a tagabu dagiti kakabsatna.
-Madaydayaw ti Apo a Dios ni Sem!
-Agbalinto ni Canaan a tagabu ni Sem.
-Palawaen koma ti Dios ti sakup ni Jafet.
-Makipagnaed koma dagiti kaputotanna kadagiti tattao ni Sem.
-Agbalinto ni Canaan a tagabu ni Jafet.
-Tallo gasut ket limapulo a tawen ti panagbiag ni Noe kalpasan ti layus.
-Agtawen iti 950 idi matay.
+verse	content
+001	Binendisionan ti Dios ni Noe ken dagiti annakna.
+001	Kinunana, Aganakkayo iti adu tapno agwaras dagiti kaputotanyo iti amin a paset ti daga.
+002	Kabutengdakayto dagiti amin nga animal, tumatayab ken ikan.
+002	Mayawatda amin iti turayyo.
+003	Ita, mabalinyo a kanen dagitoy, kasta met dagiti nalangto a mula.
+003	Itedko amin dagitoy a taraonyo.
+004	Adda laeng banag a saanyo a kanenti karne nga adda pay laeng darana; ngamin, ti biag adda iti dara.
+005	No adda mangpatay iti tao, patayek met, uray ti animal.
+005	Patayek met ti siasinoman a mangpatay iti padana a tao.
+006	Siasinoman a mangpatay iti tao, patayento met ti padana a tao.
+006	Ngamin, naaramid ti tao a kaasping ti Dios.
+007	Masapul nga adu ti annakyo tapno agnaedto dagiti kaputotanyo iti amin a paset ti daga.
+008	Kinuna ti Dios ken ni Noe ken kadagiti annakna,
+009	Ita, makitulagakon kadakayo ken kadagiti kaputotanyo
+010	ken kadagiti amin nga adda biagnaamin a tumatayab, ken amin nga animalamin a kinaduam a rimmuar iti daong.
+011	Daytoy ti pagtutulagantayo: Ikarik a saankonton a pukawen ti amin a sibibiagawanton ti layus a mangdadael iti daga.
+012	Kas pakakitaan iti agnanayon a tulagko kadakayo ken iti amin nga adda biagna,
+013	ikabilko ti bullalayawko iti ulep.
+013	Daytoy ti tanda ti pannakitulagko iti lubong.
+014	Tunggal adda ulep iti tangatang ket agparang ti bullalayaw,
+015	laglagipekto ti karik kadakayo ken kadagiti animal nga awanton ti layus a mangpukaw kadagiti amin a parsua.
+016	No agparang ti bullalayaw iti ulep, makitakto ket malagipko ti agnanayon a pannakitulagko kadagiti amin a sibibiag a parsua iti daga.
+017	Kinuna ti Dios ken ni Noe, Daytoy ti pagilasinan ti tulagko kadagiti amin a sibibiag a parsua.
+018	Adtoy dagiti annak ni Noe a kinaduana iti daong: da Sem, Ham ken Jafet.
+018	Ni Ham ti tatang ni Canaan.
+019	Isuda a tallo ti kapuonan dagiti amin a tattao ditoy daga.
+020	Mannalon ni Noe ket isu ti immuna a nagmula iti ubas.
+021	Iti naminsan, nabartek iti yiinumna iti arak ti ubas; inuksobna ti pagan-anayna sa nagidda a lamolamo iti toldana.
+022	Idi nakita ni Ham a lamolamo ti amana, napanna imbaga kadagiti dua a kakabsatna.
+023	Nangala da Sem ken Jafet iti kagay ket inyabadayda kadagiti abagada.
+023	Simrekda a sitatallikud iti tolda sada inabbongan ti bagi ni tatangda; saanda a simmango tapno saanda a makita a lamolamo.
+024	Idi namunawan ni Noe ket naammoanna ti inaramid ti inaudi nga anakna,
+025	kinunana,
+026	Mailunod koma ni Canaan!
+027	Agbalinto a tagabu dagiti kakabsatna.
+028	Madaydayaw ti Apo a Dios ni Sem!
+029	Agbalinto ni Canaan a tagabu ni Sem.
+030	Palawaen koma ti Dios ti sakup ni Jafet.
+031	Makipagnaed koma dagiti kaputotanna kadagiti tattao ni Sem.
+032	Agbalinto ni Canaan a tagabu ni Jafet.
+033	Tallo gasut ket limapulo a tawen ti panagbiag ni Noe kalpasan ti layus.
+034	Agtawen iti 950 idi matay.

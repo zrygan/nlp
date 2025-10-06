@@ -1,58 +1,60 @@
-Imbilin ni Jose iti agay-aywan iti balayna, Punnoem iti trigo dagiti sakoda kas kabaelanda nga awiten ket sakbay a galutam dagitoy, ikabilmo ti kuarta nga inggatangda.
-Iti sako ti inaudi, ikabilmo pay ti kopak a pirak.
-Inaramid ti adipen ti naibilin kenkuana.
-Kabigatanna, nasapa a nagrubbuat dagiti agkakabsat a nagsakay kadagiti asnoda.
-Dida pay nakaadayo iti siudad idi imbilin ni Jose iti agay-aywan iti balayna, Kamakamem dagidiay a lallaki ket ibagam kadakuada, Apay a dakes ti insubadyo iti naimbag?
-Apay a tinakawyo ti kopa a pirak a kukua ti apok?
-Daytoy ti kopa a pagin-inumanna.
-Isu ti ar-aramatenna a pagipadto.
-Nadagsen ti inaramidyo a krimen!
-Nakamakam ida ti adipen, ket kasta ti imbagana kadakuada.
-Insungbatda kenkuana, Ania ti kayatyo a sawen, apo?
-Apay a kasta ti saoyo?
-Saanmi a maaramid ti kasta.
-Kas makitam, insublimi kenka ti kuarta a nasarakanmi iti uneg dagiti sakomi, uray no nakadanonkami idin idiay Canaan.
-Apay ketdin nga agtakawkami iti pirak wenno balitok iti balay ti amom?
-Apo, rumbeng a mapapatay ti pakasarakam kadakami iti nasao a kopa ket agbalinkami amin a tagabu.
-Insungbat ti adipen, Ala wen.
-Ngem ti laeng pakasarakak iti kopa ti agbalin a tagabuk ket mapalubosan dagiti dadduma.
-Dinagdagusda nga imbaba dagiti sakoda ket linuktan ti tunggal maysa ti sakona.
-Sinaggaysa ti adipen a binukitkitan dagiti sakoda.
-Inrugina ti sako ti inauna agingga iti inaudi.
-Nasarakanna ti kopa iti sako ni Benjamin.
-Rinay-ab dagiti agkakabsat ti pagan-anayda iti napalalo a ladingitda.
-Inkargada met laeng dagiti sako kadagiti asnoda sada nagsubli iti siudad.
-Adda pay laeng ni Jose iti balay idi sumangpet ni Juda ken dagiti kakabsatna.
-Nagtamedda ti sangoananna ket kinuna ni Jose, Ania ti inaramidyo?
-Diyo kadi ammo a ti tao nga adda iti saadko maduktalanna iti inaramidyo babaen iti padto?
-Insungbat ni Juda, Ania pay koma ti masaomi kenka, apo?
-Kasano a makilinnawagkami?
-Ania ti ibagami tapno maipaneknekmi nga awan ti basolmi?
-Ti Dios ti nakasukal iti nakabasolanmi, apo.
-Ita, agbalinkamin a tagabum, dakami aminsaan la a ti nakasarakan iti kopa.
-Kinuna ni Jose, Saan a mabalin!
-Diak maaramid dayta.
-Ti laeng nakasarakan iti kopa ti agbalin a tagabuk.
-Mabalin nga agawid ti dadduma kadakayo iti amayo nga awan ti pakaan-anoanyo.
-Immasideg ni Juda ken ni Jose ket kinunana, Pangngaasim, apo, ta palubosannak koma nga agsao a siwawaya.
-Dinak koma kaunget.
-Natan-okka a kas iti mismo nga ari.
-Apo, dinamagmo idi no adda ama wenno kabsatmi a lalaki.
-Insungbatmi nga adda tatangmi a lakay ken adda pay adingmi a lalaki a nayanak idi lakayen ni tatangmi.
-Imbagami a natayen ti kabsatna ket isu laengen ti sibibiag nga anak ti inana, isu nga ay-ayaten unay ni amami.
-Apo, binilinnakami idi nga alaenmi ti kabsatmi tapno makitam.
-Inlawlawagmi met idi a narigat a mayadayo ti ubing ta daytoy ti pakatayan ti amami.
-Ket kinunam kadakami a dikam agparang kenka no dimi ikuyog ti inaudi a kabsatmi.
-Imbagami amin dagitoy ken ni tatangmi idi sumangpetkami.
-Iti saan a mabayag, imbagana nga agsublikami ditoy tapno gumatangkami iti taraon.
-Impalagipmi kenkuana a saannakami nga awaten no dimi ikuyog ti inaudi a kabsatmi.
-Kinuna ni tatangmi, Ammoyo met a dua laeng ti anakmi ken ni Raquel nga asawak.
-Napukaw ti maysa kadakuada ket nalabit a rinangrangkay dagiti narungsot nga animal ta diak pay nakita agingga ita.
-Ita, no ipanawyo manen daytoy kakaisuna a nabati, no adda dakes a mapagtengna, awan duadua a matayak iti ladingit.
-Ita, apo, no agsubliak a diak ikuyog ni Benjamin, awan duadua a matay ni tatang no saanna a makita ti ubing.
-Naisinggalut ti biagna iti dayta nga ubing ket gapu ta lakay unayen, mabalin nga ipatayna ti ladingit a yegmi kenkuana.
-Maysa pay, inkarik iti amak a ti biagko ti sumungbat no diak maisubli kenkuana ti ubing.
-Imbagak kenkuana a no diak isubli ti ubing, siakto ti mangibaklay iti pammabasol iti unos ti panagbiagko.
-Ita, apo, siak laengen ti agbati a kas tagabum ket palubosam ti ubing a makikuyog kadagiti kakabsatna.
-Diak agawid no diak ikuyog ti ubing.
-Diak maitured a kitaen daytoy a didigra a dumteng iti amak.
+verse	content
+001	Imbilin ni Jose iti agay-aywan iti balayna, Punnoem iti trigo dagiti sakoda kas kabaelanda nga awiten ket sakbay a galutam dagitoy, ikabilmo ti kuarta nga inggatangda.
+002	Iti sako ti inaudi, ikabilmo pay ti kopak a pirak.
+002	Inaramid ti adipen ti naibilin kenkuana.
+003	Kabigatanna, nasapa a nagrubbuat dagiti agkakabsat a nagsakay kadagiti asnoda.
+004	Dida pay nakaadayo iti siudad idi imbilin ni Jose iti agay-aywan iti balayna, Kamakamem dagidiay a lallaki ket ibagam kadakuada, Apay a dakes ti insubadyo iti naimbag?
+005	Apay a tinakawyo ti kopa a pirak a kukua ti apok?
+005	Daytoy ti kopa a pagin-inumanna.
+005	Isu ti ar-aramatenna a pagipadto.
+005	Nadagsen ti inaramidyo a krimen!
+006	Nakamakam ida ti adipen, ket kasta ti imbagana kadakuada.
+007	Insungbatda kenkuana, Ania ti kayatyo a sawen, apo?
+007	Apay a kasta ti saoyo?
+007	Saanmi a maaramid ti kasta.
+008	Kas makitam, insublimi kenka ti kuarta a nasarakanmi iti uneg dagiti sakomi, uray no nakadanonkami idin idiay Canaan.
+008	Apay ketdin nga agtakawkami iti pirak wenno balitok iti balay ti amom?
+009	Apo, rumbeng a mapapatay ti pakasarakam kadakami iti nasao a kopa ket agbalinkami amin a tagabu.
+010	Insungbat ti adipen, Ala wen.
+010	Ngem ti laeng pakasarakak iti kopa ti agbalin a tagabuk ket mapalubosan dagiti dadduma.
+011	Dinagdagusda nga imbaba dagiti sakoda ket linuktan ti tunggal maysa ti sakona.
+012	Sinaggaysa ti adipen a binukitkitan dagiti sakoda.
+012	Inrugina ti sako ti inauna agingga iti inaudi.
+012	Nasarakanna ti kopa iti sako ni Benjamin.
+013	Rinay-ab dagiti agkakabsat ti pagan-anayda iti napalalo a ladingitda.
+013	Inkargada met laeng dagiti sako kadagiti asnoda sada nagsubli iti siudad.
+014	Adda pay laeng ni Jose iti balay idi sumangpet ni Juda ken dagiti kakabsatna.
+014	Nagtamedda ti sangoananna
+015	ket kinuna ni Jose, Ania ti inaramidyo?
+015	Diyo kadi ammo a ti tao nga adda iti saadko maduktalanna iti inaramidyo babaen iti padto?
+016	Insungbat ni Juda, Ania pay koma ti masaomi kenka, apo?
+016	Kasano a makilinnawagkami?
+016	Ania ti ibagami tapno maipaneknekmi nga awan ti basolmi?
+016	Ti Dios ti nakasukal iti nakabasolanmi, apo.
+016	Ita, agbalinkamin a tagabum, dakami aminsaan la a ti nakasarakan iti kopa.
+017	Kinuna ni Jose, Saan a mabalin!
+017	Diak maaramid dayta.
+017	Ti laeng nakasarakan iti kopa ti agbalin a tagabuk.
+017	Mabalin nga agawid ti dadduma kadakayo iti amayo nga awan ti pakaan-anoanyo.
+018	Immasideg ni Juda ken ni Jose ket kinunana, Pangngaasim, apo, ta palubosannak koma nga agsao a siwawaya.
+018	Dinak koma kaunget.
+018	Natan-okka a kas iti mismo nga ari.
+019	Apo, dinamagmo idi no adda ama wenno kabsatmi a lalaki.
+020	Insungbatmi nga adda tatangmi a lakay ken adda pay adingmi a lalaki a nayanak idi lakayen ni tatangmi.
+020	Imbagami a natayen ti kabsatna ket isu laengen ti sibibiag nga anak ti inana, isu nga ay-ayaten unay ni amami.
+021	Apo, binilinnakami idi nga alaenmi ti kabsatmi tapno makitam.
+022	Inlawlawagmi met idi a narigat a mayadayo ti ubing ta daytoy ti pakatayan ti amami.
+023	Ket kinunam kadakami a dikam agparang kenka no dimi ikuyog ti inaudi a kabsatmi.
+024	Imbagami amin dagitoy ken ni tatangmi idi sumangpetkami.
+025	Iti saan a mabayag, imbagana nga agsublikami ditoy tapno gumatangkami iti taraon.
+026	Impalagipmi kenkuana a saannakami nga awaten no dimi ikuyog ti inaudi a kabsatmi.
+027	Kinuna ni tatangmi, Ammoyo met a dua laeng ti anakmi ken ni Raquel nga asawak.
+028	Napukaw ti maysa kadakuada ket nalabit a rinangrangkay dagiti narungsot nga animal ta diak pay nakita agingga ita.
+029	Ita, no ipanawyo manen daytoy kakaisuna a nabati, no adda dakes a mapagtengna, awan duadua a matayak iti ladingit.
+030	Ita, apo, no agsubliak a diak ikuyog ni Benjamin, awan duadua a matay ni tatang no saanna a makita ti ubing.
+030	Naisinggalut ti biagna iti dayta nga ubing ket gapu ta lakay unayen, mabalin nga ipatayna ti ladingit a yegmi kenkuana.
+031	Maysa pay, inkarik iti amak a ti biagko ti sumungbat no diak maisubli kenkuana ti ubing.
+031	Imbagak kenkuana a no diak isubli ti ubing, siakto ti mangibaklay iti pammabasol iti unos ti panagbiagko.
+032	Ita, apo, siak laengen ti agbati a kas tagabum ket palubosam ti ubing a makikuyog kadagiti kakabsatna.
+033	Diak agawid no diak ikuyog ti ubing.
+033	Diak maitured a kitaen daytoy a didigra a dumteng iti amak.

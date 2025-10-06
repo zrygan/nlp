@@ -1,28 +1,36 @@
-Sanglit nahuman an bug-os nga kalibutan ngan an mga butang ha kalangitan.
-Dida han ikapito ka adlaw, nahuman han Dyos an iya mga gintuha, ngan pinmahuway hiya.
-Ginbendisyonan niya an ikapito nga adlaw ngan ginlain niya ini sugad nga usa nga talagsaon nga adlaw, kay hito nga adlaw nahuman niya an iya pagtuha ngan hinmunong na hiya hin pagtuha.
-Ngan amo ini an paagi han pagtuhaa han bug-os nga kalibutan ngan han ngatanan nga aada ha langit.
-Han paghimoa han Ginoo nga Dyos han bug-os nga kalibutan, waray pa mga tanom dida han tuna ngan waray pa naturok nga mga binhe, kay waray pa man hiya magpadara hin uran, ngan waray pa tawo nga nag-uuma han tuna.
-Kundi naawas in tubig tikang ha ilarom han tuna ngan amo an nagtutubig han tuna.
-Niyan kinmuha an Ginoo nga Dyos hin tuna ngan naghimo hiya hin tawo; gininhawaan niya an irong han tawo ngan nabuhi an tawo.
-Niyan nagbutang an Ginoo nga Dyos hin usa nga tanaman didto ha Eden, didto ha Sinirangan, ngan didto iginbutang niya an tawo nga iya ginhimo.
-Ginpaturok niya didto an ngatanan nga magkalainlain nga magtahom nga mga kahoy nga nahatag hin magrasa nga mga bunga.
-Didto ha butnga han tanaman nakadto an kahoy nga nahatag hin kinabuhi, ngan an kahoy nga nahatag hin pakasabot han maupay ngan han maraot.
-Naawas in usa nga salog didto ha Eden ngan nagtutubig han tanaman; ha unhan han Eden nagsasanga ini ngan nahihimo nga upat nga mga salog.
-An syahan nga salog amo an Pison; naawas ini palibot han katunaan han Havila.
-Aadto hiaagii an puraw nga bulawan ngan an talagsaon liwat nga pahamot ngan mahal nga mga bato.
-An ikaduha nga salog amo an Gihon; naawas ini palibot han katunaan han Cus.
-An ikatulo nga salog amo an Tigris nga naawas ha sinirangan han Asiria, ngan an ikaupat nga salog amo an Eufrates.
-Niyan iginbutang han Ginoo nga Dyos an tawo didto han Tanaman han Eden basi niya pag-umhon ngan pagbantayan.
-Ginsiring hiya han Dyos, Makakakaon ka han bunga han bisan ano nga kahoy dinhe ha tanaman, labot han kahoy nga nahatag hin pakasabot han maupay ngan han maraot.
-Kinahanglan diri ka kumaon han bunga hito nga kahoy; kon kumaon ka hito, mapatay ka hito manta nga adlaw.
-Niyan nagsiring an Ginoo nga Dyos, Diri maupay nga mag-usaan la an tawo.
-Maghihimo ako hin angay niya nga kaupod-upod nga mabulig ha iya.
-Sanglit kinmuha hiya hin tuna ngan iya ginhimo an ngatanan nga kamanampan, ngan an ngatanan nga katamsihan, ngan gindara ini han Dyos ngadto han tawo basi pagngaranan niya ngatanan; sanglit amo ini an pagkamay-ada nira mga ngaran.
-Sanglit ginngaranan han tawo an ngatanan nga katamsihan, ngan an ngatanan nga kamanampan; kundi waray gud usa ha ira nga angay nga kaupod-upod hin pagbulig ha iya.
-Niyan dida han pagkaturog han tawo ginpahimuok hiya han Ginoo nga Dyos, ngan samtang hinmumuokan hiya, kinuha han Dyos in usa han mga gusok han tawo ngan ginputos ini hin unod.
-Ginhimo niya in usa nga babaye tikang han gusok nga ginkuha niya tikang han lalake, ngan gindara niya an babaye ngadto han lalake.
-Niyan nagsiring an lalake, Iini na gud man in usa nga sugad ha akon kapareho Tul-an nga tikang han akon tul-an, ngan unod nga tikang han akon unod.
-Tatawgon hiya nga Babaye kay kinuha hiya tikang han lalake.
-Sanglit amo ini an hinungdan nga an lalake kinahanglan bumaya han amay ug iroy niya ngan makigtampo han iya asawa, ngan hira nga duha uusa na la.
-Mga hubo-lubas nga duha an lalake ngan an babaye, kundi waray hira pagkaawod.
+verse	content
+001	Sanglit nahuman an bug-os nga kalibutan ngan an mga butang ha kalangitan.
+002	Dida han ikapito ka adlaw, nahuman han Dyos an iya mga gintuha, ngan pinmahuway hiya.
+003	Ginbendisyonan niya an ikapito nga adlaw ngan ginlain niya ini sugad nga usa nga talagsaon nga adlaw, kay hito nga adlaw nahuman niya an iya pagtuha ngan hinmunong na hiya hin pagtuha.
+004	Ngan amo ini an paagi han pagtuhaa han bug-os nga kalibutan ngan han ngatanan nga aada ha langit.
+005	Han paghimoa han Ginoo nga Dyos han bug-os nga kalibutan,
+006	waray pa mga tanom dida han tuna ngan waray pa naturok nga mga binhe, kay waray pa man hiya magpadara hin uran, ngan waray pa tawo nga nag-uuma han tuna.
+007	Kundi naawas in tubig tikang ha ilarom han tuna ngan amo an nagtutubig han tuna.
+008	Niyan kinmuha an Ginoo nga Dyos hin tuna ngan naghimo hiya hin tawo; gininhawaan niya an irong han tawo ngan nabuhi an tawo.
+009	Niyan nagbutang an Ginoo nga Dyos hin usa nga tanaman didto ha Eden, didto ha Sinirangan, ngan didto iginbutang niya an tawo nga iya ginhimo.
+010	Ginpaturok niya didto an ngatanan nga magkalainlain nga magtahom nga mga kahoy nga nahatag hin magrasa nga mga bunga.
+010	Didto ha butnga han tanaman nakadto an kahoy nga nahatag hin kinabuhi, ngan an kahoy nga nahatag hin pakasabot han maupay ngan han maraot.
+011	Naawas in usa nga salog didto ha Eden ngan nagtutubig han tanaman; ha unhan han Eden nagsasanga ini ngan nahihimo nga upat nga mga salog.
+012	An syahan nga salog amo an Pison; naawas ini palibot han katunaan han Havila.
+013	Aadto hiaagii an puraw nga bulawan ngan an talagsaon liwat nga pahamot ngan mahal nga mga bato.
+014	An ikaduha nga salog amo an Gihon; naawas ini palibot han katunaan han Cus.
+015	An ikatulo nga salog amo an Tigris nga naawas ha sinirangan han Asiria, ngan an ikaupat nga salog amo an Eufrates.
+016	Niyan iginbutang han Ginoo nga Dyos an tawo didto han Tanaman han Eden basi niya pag-umhon ngan pagbantayan.
+017	Ginsiring hiya han Dyos, Makakakaon ka han bunga han bisan ano nga kahoy dinhe ha tanaman,
+018	labot han kahoy nga nahatag hin pakasabot han maupay ngan han maraot.
+018	Kinahanglan diri ka kumaon han bunga hito nga kahoy; kon kumaon ka hito, mapatay ka hito manta nga adlaw.
+019	Niyan nagsiring an Ginoo nga Dyos, Diri maupay nga mag-usaan la an tawo.
+019	Maghihimo ako hin angay niya nga kaupod-upod nga mabulig ha iya.
+020	Sanglit kinmuha hiya hin tuna ngan iya ginhimo an ngatanan nga kamanampan, ngan an ngatanan nga katamsihan, ngan gindara ini han Dyos ngadto han tawo basi pagngaranan niya ngatanan; sanglit amo ini an pagkamay-ada nira mga ngaran.
+021	Sanglit ginngaranan han tawo an ngatanan nga katamsihan, ngan an ngatanan nga kamanampan; kundi waray gud usa ha ira nga angay nga kaupod-upod hin pagbulig ha iya.
+022	Niyan dida han pagkaturog han tawo ginpahimuok hiya han Ginoo nga Dyos, ngan samtang hinmumuokan hiya, kinuha han Dyos in usa han mga gusok han tawo ngan ginputos ini hin unod.
+023	Ginhimo niya in usa nga babaye tikang han gusok nga ginkuha niya tikang han lalake, ngan gindara niya an babaye ngadto han lalake.
+024	Niyan nagsiring an lalake,
+025	Iini na gud man in usa nga
+026	sugad ha akon kapareho
+027	Tul-an nga tikang han akon tul-an,
+028	ngan unod nga tikang han akon unod.
+029	Tatawgon hiya nga Babaye kay
+030	kinuha hiya tikang han lalake.
+031	Sanglit amo ini an hinungdan nga an lalake kinahanglan bumaya han amay ug iroy niya ngan makigtampo han iya asawa, ngan hira nga duha uusa na la.
+032	Mga hubo-lubas nga duha an lalake ngan an babaye, kundi waray hira pagkaawod.

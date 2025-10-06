@@ -1,16 +1,18 @@
-Niyan nagsiring kan Moises an Ginoo , Usa na la nga kastigo an akon igpapadara han hadi han Ehipto ngan han iya mga tawo.
-Katapos hito, palalakton na kamo niya.
-Ngani, paiiwason gud niya kamo ngatanan.
-Yana paghimangrawi an mga tawo han Israel ngan sidnga hira ngatanan nga pangaroan nira hin bulawan ngan salapi nga alahas an ira mga amyaw.
-Ginlarang han Ginoo nga pagtahoron han mga Ehiptohanon an mga Israelita.
-Gin-isip gud han mga opisyal ngan han ngatanan nga mga tawo nga usa nga dako gud nga pagkatawo hi Moises.
-Niyan ginsiring ni Moises an hadi, Nasiring an Ginoo , Ha katutnga han gab-i maglalatas ako han Ehipto, ngan magkakamatay an ngatanan nga mga suhag nga lalake dinhe ha Ehipto, tikang han anak han hadi nga amo an manurunod han trono ngadto han anak han oripon nga babaye nga naggigiling hin trigo.
-Magkakamatay liwat an ngatanan nga suhag nga mga anak han ngatanan nga mga baka.
-Magkakamay-ada dagko nga mga pagnguyngoy ha bug-os nga Ehipto nga waray pa gud mahinabo hadto, ngan diri na liwat mahinanabo.
-Kundi waray ngani usa nga ayam nga mag-uosig ngadto han mga Israelita o han ira mga hayop.
-Niyan mahibabaro kamo nga ako nga Ginoo maglalain han mga Ehiptohanon tikang han mga Israelita.
-Gintapos ni Moises pinaagi hin pagsiring, Madaop ngan mayukbo ha akon atubangan an ngatanan mo nga mga opisyal, ngan maghahangyo ini hira ha akon nga dad-on ko an ngatanan nga akon mga tawo ngan magkalakat hira.
-Katapos hito, malakat na ako.
-Niyan ha dako nga kasina binayaan ni Moises an hadi.
-Nagsiring kan Moises an Ginoo , Diri pa gihapon mamamati ha imo an hadi, basi pagbuhaton ko dinhe ha Ehipto in darudamo pa nga akon mga milagro.
-Ginbuhat nira Moises ug Aaron ini ngatanan nga mga milagro ha atubangan han hadi, kundi ginpatig-a han Ginoo an kasingkasing han hadi, ngan waray gud niya tugoti hin pagbaya han iya nasod an mga Israelita.
+verse	content
+001	Niyan nagsiring kan Moises an Ginoo , Usa na la nga kastigo an akon igpapadara han hadi han Ehipto ngan han iya mga tawo.
+001	Katapos hito, palalakton na kamo niya.
+001	Ngani, paiiwason gud niya kamo ngatanan.
+002	Yana paghimangrawi an mga tawo han Israel ngan sidnga hira ngatanan nga pangaroan nira hin bulawan ngan salapi nga alahas an ira mga amyaw.
+003	Ginlarang han Ginoo nga pagtahoron han mga Ehiptohanon an mga Israelita.
+003	Gin-isip gud han mga opisyal ngan han ngatanan nga mga tawo nga usa nga dako gud nga pagkatawo hi Moises.
+004	Niyan ginsiring ni Moises an hadi, Nasiring an Ginoo , Ha katutnga han gab-i maglalatas ako han Ehipto,
+005	ngan magkakamatay an ngatanan nga mga suhag nga lalake dinhe ha Ehipto, tikang han anak han hadi nga amo an manurunod han trono ngadto han anak han oripon nga babaye nga naggigiling hin trigo.
+005	Magkakamatay liwat an ngatanan nga suhag nga mga anak han ngatanan nga mga baka.
+006	Magkakamay-ada dagko nga mga pagnguyngoy ha bug-os nga Ehipto nga waray pa gud mahinabo hadto, ngan diri na liwat mahinanabo.
+007	Kundi waray ngani usa nga ayam nga mag-uosig ngadto han mga Israelita o han ira mga hayop.
+007	Niyan mahibabaro kamo nga ako nga Ginoo maglalain han mga Ehiptohanon tikang han mga Israelita.
+008	Gintapos ni Moises pinaagi hin pagsiring, Madaop ngan mayukbo ha akon atubangan an ngatanan mo nga mga opisyal, ngan maghahangyo ini hira ha akon nga dad-on ko an ngatanan nga akon mga tawo ngan magkalakat hira.
+008	Katapos hito, malakat na ako.
+008	Niyan ha dako nga kasina binayaan ni Moises an hadi.
+009	Nagsiring kan Moises an Ginoo , Diri pa gihapon mamamati ha imo an hadi, basi pagbuhaton ko dinhe ha Ehipto in darudamo pa nga akon mga milagro.
+010	Ginbuhat nira Moises ug Aaron ini ngatanan nga mga milagro ha atubangan han hadi, kundi ginpatig-a han Ginoo an kasingkasing han hadi, ngan waray gud niya tugoti hin pagbaya han iya nasod an mga Israelita.

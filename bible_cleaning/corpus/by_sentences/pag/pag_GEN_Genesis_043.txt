@@ -1,58 +1,60 @@
-Linmoor so eras ed Canaan.
-Nen naoput la na pamilya nen Jacob imay trigo a nanlapud Egipto, inkuanen Jacob ed saray anak ton lalaki, Pawil kayo, ta manaliw kayoy daiset a nakan tayo.
-Inkuanen Juda ed sikato, Impurpurek to may too ya ag kami naawat ed arap to no ag mi kaibay agi mi.
-No onabuloy kayon awiten miy agi mi, onla kamin manaliw na tagano a para sikayo.
-No ag kayo, ag kami met la onla, ta imbaga to may too ya ag kami naawat ed arap to no ag mi kaibay agi mi.
-Inkuanen Jacob, Akin et initdan yo ak na ontan lan gunigon diad impangibaga yon wala niy agi yo?
-Inmebat ira, Ag tinondaan na samay too a tinepet so nipaakar ed sikami tan say pamilya tayo, Mabilay niya ama yo?
-Wala niy agi yo?
-Nepeg min ebatan iray tepet to.
-Panoy pakaamta min paawit toy agi mi?
-Inkuanen Juda ed kinen ama to, Ipila yod siak si Benjamin, et onla kami lan tampol.
-Diad satan anggapod sikatayoy ompatey ed eras.
-Ipostak so bilay ko tan siak so makaoley ed sikato.
-No ag ko nipawil a mabilay ed sikayo, siak so mangakoy tetel ed anggad angga.
-No ag kami komun naabalan abaybayag, akakar tan akapawil kami la ya amidwa.
-Inkuanen ama ra, No ontan so nepeg a nagawa, onyay gawa yo sirin: Mangawit kayoy sankamaungan iran bungay dalin, ikarga yod saray balkut yo, tan irigalo yo rad satay gobirnador: pigaran pasas, daiset a dilo, saray rikado, alponsigo, tan almindra.
-Mangawit kayo met na kuartan mamidway karakel nen samay onaan ya inawit yo, ta nepeg yon ipawil imay kuartan walad saray sako yo.
-Nayarin lingo labat iman.
-Awit yo sirin si agi yo, insan ki la onla.
-Iyabuloy komun na Dios a Makapanyarin-amin a kasian to kayo tay too, pian ipawil tod sikayo si Benjamin tan samay sakey ya agi yo.
-Para say siak, no nepeg a naandid siak iray anak ko, sipaparaan ak.
-Kanyan saramay sanaagi inala da ra may irigalo ra tan samay kuarta, insan la ra linmad Egipto a kaiba ray Benjamin.
-Kasabi ra, pinmarontal irad kinen Jose.
-Nen anengneng nen Jose a kaiba ray Benjamin, inkuantod aripen ya inkargadod abung to, Itagar mod abung ira yan totoo.
-Mirongo rad siak no ogto, kanyan mamatas kay sakey ya ayep tan iparaan mo.
-Sinumpal to may aripen so pagagawad sikato, tan intagar tod abung nen Jose ira may sanaagi.
-Nen oonla la rad abung, natatakot ira tan inkuandad sikaran dili, Niaakar kami dia lapud samay kuartan nipawil ed saray sako mi nen onaan ya inyakar mi dia.
-Biglaan da kamin dogpaan, alaen da ray asno mi, tan gawaen da kamin aripen to.
-Nen wala rad puirtay abung, inkuandad samay inkargado, Wala pay ibaga mid sika.
-Linma kami la dian analiw na tagano.
-Nen ompapawil kami la, tinmonda kamin nampainawa, et nen nilokasan mi ray sako mi, nalmoy balang sakey ed sikami so kuarta to.
-Natan, inawit mi ra dian ipawil ed sika.
-Wala met so awit min kuartan panaliw mi na tagano.
-Ag mi amta no siopay angipawil ed saray sako mi na samay kuarta.
-Inkuanto may aripen, Ag kayo mapaga.
-Ag kayo natatakot.
-Angangko say Dios yo, say Dios na ama yo, so angipawil na kuarta yo.
-Inawat kod saman so bayar yo.
-Insan inyakar tod sikara si Simeon.
-Samay aripen inyakar tod abung ira may sanaagi.
-Initdan to ray danum a panoras day sali ra, tan pinakan to ray asno ra.
-Imparaan da ra may rigalon iter dad kinen Jose no onsabid kaagewan, ta nibagad sikaran mirongo rad sikato.
-Nen sinmabiy Jose, inyakar dad sikato ra may rigalo ra, tan dinmakmomo ra ed arap to ya anggad dalin so lupa ra.
-Tinepet toy kipapasen da, insan to ni tinepet, Komusta may ama yon asalita yod siak?
-Mabilay ni tan maksil ni?
-Inmebat ira, Say ama mi a mugmon aripen mo et mabilay ni tan maksil ni.
-Insan tinmalimukor ira tan tinmuek irad sikato.
-Nen anengneng nen Jose si Benjamin ya agi ton peteg inkuanto, Sikato ya sirin so sankayogtanan ya agi yo ya asalita yod siak.
-Bindisionan ka komuy Dios, anak ko.
-Insan biglan tinmaynan si Jose, ta napnoy puso to na panangarod kinen agi to.
-Ngalngali la makaakis, kanyan linmad kuarto to tan diman nanakis.
-Kasumpal ton nandilamus, pinmaway, binembenan toy inkasikato, tan ingganggan ton isaklang da la ray lamisaan.
-Sakey a lamisaan so anganan nen Jose, tan sananey so anganan da ray agagi to.
-Sananey met so anganan da ray Egipsio a mangakan diman, ta ipapasen dan ag onkana ray Hebreo a mirongod sikara.
-Akayorung iray sanaagi ed lamisan a walad arap nen Jose, manlapud pangulowan ya anggad yogtan.
-Nen anengneng da so pasen ed lamisaan na balang sakey ed sikara, nannenengnengan ira diad pankelaw da.
-Nanlapud lamisaan nen Jose so niparongod sikara; si Benjamin maminliman karakel so niiter ed sikato nen saramay arum.
-Angan tan inminom ira a kaiba ray Jose, tan ontan lay likeliket da.
+verse	content
+001	Linmoor so eras ed Canaan.
+002	Nen naoput la na pamilya nen Jacob imay trigo a nanlapud Egipto, inkuanen Jacob ed saray anak ton lalaki, Pawil kayo, ta manaliw kayoy daiset a nakan tayo.
+003	Inkuanen Juda ed sikato, Impurpurek to may too ya ag kami naawat ed arap to no ag mi kaibay agi mi.
+004	No onabuloy kayon awiten miy agi mi, onla kamin manaliw na tagano a para sikayo.
+005	No ag kayo, ag kami met la onla, ta imbaga to may too ya ag kami naawat ed arap to no ag mi kaibay agi mi.
+006	Inkuanen Jacob, Akin et initdan yo ak na ontan lan gunigon diad impangibaga yon wala niy agi yo?
+007	Inmebat ira, Ag tinondaan na samay too a tinepet so nipaakar ed sikami tan say pamilya tayo, Mabilay niya ama yo?
+007	Wala niy agi yo?
+007	Nepeg min ebatan iray tepet to.
+007	Panoy pakaamta min paawit toy agi mi?
+008	Inkuanen Juda ed kinen ama to, Ipila yod siak si Benjamin, et onla kami lan tampol.
+008	Diad satan anggapod sikatayoy ompatey ed eras.
+009	Ipostak so bilay ko tan siak so makaoley ed sikato.
+009	No ag ko nipawil a mabilay ed sikayo, siak so mangakoy tetel ed anggad angga.
+010	No ag kami komun naabalan abaybayag, akakar tan akapawil kami la ya amidwa.
+011	Inkuanen ama ra, No ontan so nepeg a nagawa, onyay gawa yo sirin: Mangawit kayoy sankamaungan iran bungay dalin, ikarga yod saray balkut yo, tan irigalo yo rad satay gobirnador: pigaran pasas, daiset a dilo, saray rikado, alponsigo, tan almindra.
+012	Mangawit kayo met na kuartan mamidway karakel nen samay onaan ya inawit yo, ta nepeg yon ipawil imay kuartan walad saray sako yo.
+012	Nayarin lingo labat iman.
+013	Awit yo sirin si agi yo, insan ki la onla.
+014	Iyabuloy komun na Dios a Makapanyarin-amin a kasian to kayo tay too, pian ipawil tod sikayo si Benjamin tan samay sakey ya agi yo.
+014	Para say siak, no nepeg a naandid siak iray anak ko, sipaparaan ak.
+015	Kanyan saramay sanaagi inala da ra may irigalo ra tan samay kuarta, insan la ra linmad Egipto a kaiba ray Benjamin.
+015	Kasabi ra, pinmarontal irad kinen Jose.
+016	Nen anengneng nen Jose a kaiba ray Benjamin, inkuantod aripen ya inkargadod abung to, Itagar mod abung ira yan totoo.
+016	Mirongo rad siak no ogto, kanyan mamatas kay sakey ya ayep tan iparaan mo.
+017	Sinumpal to may aripen so pagagawad sikato, tan intagar tod abung nen Jose ira may sanaagi.
+018	Nen oonla la rad abung, natatakot ira tan inkuandad sikaran dili, Niaakar kami dia lapud samay kuartan nipawil ed saray sako mi nen onaan ya inyakar mi dia.
+018	Biglaan da kamin dogpaan, alaen da ray asno mi, tan gawaen da kamin aripen to.
+019	Nen wala rad puirtay abung, inkuandad samay inkargado,
+020	Wala pay ibaga mid sika.
+020	Linma kami la dian analiw na tagano.
+021	Nen ompapawil kami la, tinmonda kamin nampainawa, et nen nilokasan mi ray sako mi, nalmoy balang sakey ed sikami so kuarta to.
+021	Natan, inawit mi ra dian ipawil ed sika.
+022	Wala met so awit min kuartan panaliw mi na tagano.
+022	Ag mi amta no siopay angipawil ed saray sako mi na samay kuarta.
+023	Inkuanto may aripen, Ag kayo mapaga.
+023	Ag kayo natatakot.
+023	Angangko say Dios yo, say Dios na ama yo, so angipawil na kuarta yo.
+023	Inawat kod saman so bayar yo.
+023	Insan inyakar tod sikara si Simeon.
+024	Samay aripen inyakar tod abung ira may sanaagi.
+024	Initdan to ray danum a panoras day sali ra, tan pinakan to ray asno ra.
+025	Imparaan da ra may rigalon iter dad kinen Jose no onsabid kaagewan, ta nibagad sikaran mirongo rad sikato.
+026	Nen sinmabiy Jose, inyakar dad sikato ra may rigalo ra, tan dinmakmomo ra ed arap to ya anggad dalin so lupa ra.
+027	Tinepet toy kipapasen da, insan to ni tinepet, Komusta may ama yon asalita yod siak?
+027	Mabilay ni tan maksil ni?
+028	Inmebat ira, Say ama mi a mugmon aripen mo et mabilay ni tan maksil ni.
+028	Insan tinmalimukor ira tan tinmuek irad sikato.
+029	Nen anengneng nen Jose si Benjamin ya agi ton peteg inkuanto, Sikato ya sirin so sankayogtanan ya agi yo ya asalita yod siak.
+029	Bindisionan ka komuy Dios, anak ko.
+030	Insan biglan tinmaynan si Jose, ta napnoy puso to na panangarod kinen agi to.
+030	Ngalngali la makaakis, kanyan linmad kuarto to tan diman nanakis.
+031	Kasumpal ton nandilamus, pinmaway, binembenan toy inkasikato, tan ingganggan ton isaklang da la ray lamisaan.
+032	Sakey a lamisaan so anganan nen Jose, tan sananey so anganan da ray agagi to.
+032	Sananey met so anganan da ray Egipsio a mangakan diman, ta ipapasen dan ag onkana ray Hebreo a mirongod sikara.
+033	Akayorung iray sanaagi ed lamisan a walad arap nen Jose, manlapud pangulowan ya anggad yogtan.
+033	Nen anengneng da so pasen ed lamisaan na balang sakey ed sikara, nannenengnengan ira diad pankelaw da.
+034	Nanlapud lamisaan nen Jose so niparongod sikara; si Benjamin maminliman karakel so niiter ed sikato nen saramay arum.
+034	Angan tan inminom ira a kaiba ray Jose, tan ontan lay likeliket da.

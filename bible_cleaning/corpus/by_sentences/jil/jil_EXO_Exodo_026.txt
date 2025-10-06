@@ -1,39 +1,45 @@
-Maghimo ka sing Tolda sang akon presensya nga ang nasulod nga bahin may napulo ka kurtina nga nahimo sa mapino kag nagakunotkunot nga lino, kag sang asol, granate, kag mapula nga delana.
-Bordahan mo sing maayo ini nga tela sing larawan sang mga kerubin.
-Ang tagsa ka kurtina may kalabaon nga katorse ka yarda kag may duha ka yarda ang kasangkaron, ang tanan nga kurtina pareho sing takos.
-Tambihon mo ang lima sa ila, kag amo man ang himuon mo sa lima.
-Himuan mo sing sulosingsing nga asol nga tela sa kilid sang nagwa nga bahin sang kurtina sa tagsa ka tinambitambi.
-Butangan mo man sing singkwenta ka mga sulosingsing ang nahauna nga kurtina sang nahauna nga tinambitambi, kag singkwenta man ka mga sulosingsing nga nagakitaay sa katapusan nga kurtina sang ikaduha ka tinambitambi.
-Himuan mo sing singkwenta ka mga kaw-it nga bulawan, nga nagatabid sang duha ka mga tinambitambi.
-Maghimo ka sing onse ka panid nga kurtina nga nahimo sa bulbol sang kanding nga mangin-atop sang Tolda.
-Ang kada-isa ka kurtina may kinse ka yarda ang kalabaon kag duha ka yarda ang kasangkaron, ang tanan pareho sing takos.
-Tambihon mo ang lima ka panid nga kurtina agod mangin-isa, kag ang nabilin nga anom imo man tambitambihon.
-Piluon mo ang ikan-om nga kurtina sing makaduha sa ibabaw sang atubangan sang Tolda.
-Butangan mo sing singkwenta ka mga sulosingsing ang kilid sang katapusan sang nahauna nga tambitambi, kag singkwenta man ka mga sulosingsing sa kilid sang ikaduha nga tambitambi.
-Maghimo ka sing singkwenta ka mga kaw-it nga bronsi kag iangot sa mga sulosingsing sang duha ka mga tambitambi agod nga mangin-isa ini.
-Ang katunga sang kurtina nga nagakabit sa ibabaw sang Tolda paluyloyon sa likod sang Tolda.
-Ang sobra nga tunga sa yarda sa tagsa ka kilid sang Tolda pakabiton sa mga kilid sang Tolda sa pagtabon sini.
-Maghimo ka sing duha pa ka inugtaklap sa Tolda.
-Ang isa ginhimo halin sa panit sang karnero nga lalaki nga nalugom sa pula, kag ang isa nahimo halin sa maayo nga panit sang kanding nga itabon sa ibabaw sini.
-Maghimo ka sing mga dingding nga patindog halin sa kahoy nga akasya para sa Tolda.
-Ang tagsa ka dingding nga tapi may kalabaon nga kinse ka tapak kag baynte siete ka pulgada ang kasangkaron, kag may duha ka mga diladila ang dingding nga tapi agod nga ang duha ka mga dingding nga tapi maangot sa isa kag isa.
-Himuan mo sing diladila ang tanan nga mga dingding nga tapi sang Tolda.
-Maghimo ka sing baynte ka mga dingding sa nabagatnan nga kilid, kag maghimo ka sing kwarenta ka mga sadsaran nga pilak nga tungtongan sini, duha ka mga sadsaran sa idalom sang tagsa ka dingding nga tapi nga maangtan sang duha ka mga diladila.
-Sa naaminhan nga kilid sang Tolda maghimo ka sing baynte ka mga dingding nga tapi kag kwarenta ka mga sadsaran nga pilak, duha ka mga sadsaran sa idalom sang tagsa ka dingding nga tapi.
-Sa likod sang Tolda sa nakatundan, maghimo ka sing anom ka mga dingding nga tapi, kag duha ka mga dingding nga tapi sa mga pamusod sa likod sang Tolda.
-Ining mga dingding nga tapi sa mga pamusod paanguton halin sa idalom tubtob sa ibabaw sa nahauna nga sulosingsing.
-Ang duha ka mga dingding nga tapi sa duha ka mga pamusod pagahimuon sa sini nga paagi.
-Gani may walo ka mga dingding nga tapi upod sa ila desi-sais ka mga sadsaran nga pilak, duha sa idalom sang tagsa ka dingding nga tapi.
-Maghimo ka sing mga baral nga kahoy nga akasya, lima para sa mga dingding nga tapi sa isa ka kilid sang Tolda, kag lima para sa mga dingding nga tapi sa pihak nga kilid, kag lima para sa mga dingding nga tapi sa nakatundan nayon, sa likod sang Tolda.
-Ang baral sa tungatunga sang mga dingding nga tapi, magahalin sa isa ka pamusod sang Tolda tubtob sa isa.
-Haklapan mo ang mga dingding nga tapi sing bulawan, kag takdan mo sing mga singsing nga bulawan sa paghugpong sang mga baral, kag ini nga mga baral haklapan man sing bulawan.
-Gani patindugon mo ang Tolda suno sa plano nga ginpakita ko sa imo sa bukid.
-Maghimo ka sing kurtina nga asol, granate, kag mapula nga delana, kag mapino nga nagakunotkunot nga lino.
-Pabordahan mo ini sing maayo sang laragway sang mga kerubin.
-Pakabiton mo ini sa apat ka mga haligi nga akasya nga kahoy nga nahaklapan sing bulawan, nga may mga kaw-it, kag iangot mo sa apat ka mga sadsaran nga pilak.
-Pakabiton mo ang kurtina sa mga kaw-it sa atop sang Tolda, kag ibutang mo sa likod sang kurtina ang Kaban sang Kasugtanan nga ginasudlan sang mga duha ka mga lapida nga bato.
-Ang kurtina magaulot sang Balaan nga Duog gikan sa Labing Balaan nga Duog.
-Ibutang mo ang takop sa ibabaw sang Kaban sang Kasugtanan.
-Ibutang mo ang lamisa sa gwa sang kurtina, kag ibutang mo ang kandelirohan sa bagatnan nga bahin sang Tolda, nga nagaatubang sa lamisa sa naaminhan nga bahin.
-Ang pwertahan sang Tolda himuan mo sing kurtina nga asol, granate, pula nga delana, kag mapino nga nagakunotkunot nga lino, nga nabordahan.
-Himuan mo ini nga kurtina sing lima ka mga haligi nga kahoy nga akasya nga nahaklapan sing bulawan, kag nabutangan sang mga kaw-it nga bulawan, kag maghimo ka sing lima ka mga sadsaran nga bronsi para sa sini nga mga haligi.
+verse	content
+001	Maghimo ka sing Tolda sang akon presensya nga ang nasulod nga bahin may napulo ka kurtina nga nahimo sa mapino kag nagakunotkunot nga lino, kag sang asol, granate, kag mapula nga delana.
+001	Bordahan mo sing maayo ini nga tela sing larawan sang mga kerubin.
+002	Ang tagsa ka kurtina may kalabaon nga katorse ka yarda kag may duha ka yarda ang kasangkaron, ang tanan nga kurtina pareho sing takos.
+003	Tambihon mo ang lima sa ila, kag amo man ang himuon mo sa lima.
+004	Himuan mo sing sulosingsing nga asol nga tela sa kilid sang nagwa nga bahin sang kurtina sa tagsa ka tinambitambi.
+005	Butangan mo man sing singkwenta ka mga sulosingsing ang nahauna nga kurtina sang nahauna nga tinambitambi, kag singkwenta man ka mga sulosingsing nga nagakitaay sa katapusan nga kurtina sang ikaduha ka tinambitambi.
+006	Himuan mo sing singkwenta ka mga kaw-it nga bulawan, nga nagatabid sang duha ka mga tinambitambi.
+007	Maghimo ka sing onse ka panid nga kurtina nga nahimo sa bulbol sang kanding nga mangin-atop sang Tolda.
+008	Ang kada-isa ka kurtina may kinse ka yarda ang kalabaon kag duha ka yarda ang kasangkaron, ang tanan pareho sing takos.
+009	Tambihon mo ang lima ka panid nga kurtina agod mangin-isa, kag ang nabilin nga anom imo man tambitambihon.
+009	Piluon mo ang ikan-om nga kurtina sing makaduha sa ibabaw sang atubangan sang Tolda.
+010	Butangan mo sing singkwenta ka mga sulosingsing ang kilid sang katapusan sang nahauna nga tambitambi, kag singkwenta man ka mga sulosingsing sa kilid sang ikaduha nga tambitambi.
+011	Maghimo ka sing singkwenta ka mga kaw-it nga bronsi kag iangot sa mga sulosingsing sang duha ka mga tambitambi agod nga mangin-isa ini.
+012	Ang katunga sang kurtina nga nagakabit sa ibabaw sang Tolda paluyloyon sa likod sang Tolda.
+013	Ang sobra nga tunga sa yarda sa tagsa ka kilid sang Tolda pakabiton sa mga kilid sang Tolda sa pagtabon sini.
+014	Maghimo ka sing duha pa ka inugtaklap sa Tolda.
+014	Ang isa ginhimo halin sa panit sang karnero nga lalaki nga nalugom sa pula, kag ang isa nahimo halin sa maayo nga panit sang kanding nga itabon sa ibabaw sini.
+015	Maghimo ka sing mga dingding nga patindog halin sa kahoy nga akasya para sa Tolda.
+016	Ang tagsa ka dingding nga tapi may kalabaon nga kinse ka tapak kag baynte siete ka pulgada ang kasangkaron,
+017	kag may duha ka mga diladila ang dingding nga tapi agod nga ang duha ka mga dingding nga tapi maangot sa isa kag isa.
+017	Himuan mo sing diladila ang tanan nga mga dingding nga tapi sang Tolda.
+018	Maghimo ka sing baynte ka mga dingding sa nabagatnan nga kilid,
+019	kag maghimo ka sing kwarenta ka mga sadsaran nga pilak nga tungtongan sini, duha ka mga sadsaran sa idalom sang tagsa ka dingding nga tapi nga maangtan sang duha ka mga diladila.
+020	Sa naaminhan nga kilid sang Tolda maghimo ka sing baynte ka mga dingding nga tapi
+021	kag kwarenta ka mga sadsaran nga pilak, duha ka mga sadsaran sa idalom sang tagsa ka dingding nga tapi.
+022	Sa likod sang Tolda sa nakatundan, maghimo ka sing anom ka mga dingding nga tapi,
+023	kag duha ka mga dingding nga tapi sa mga pamusod sa likod sang Tolda.
+024	Ining mga dingding nga tapi sa mga pamusod paanguton halin sa idalom tubtob sa ibabaw sa nahauna nga sulosingsing.
+024	Ang duha ka mga dingding nga tapi sa duha ka mga pamusod pagahimuon sa sini nga paagi.
+025	Gani may walo ka mga dingding nga tapi upod sa ila desi-sais ka mga sadsaran nga pilak, duha sa idalom sang tagsa ka dingding nga tapi.
+026	Maghimo ka sing mga baral nga kahoy nga akasya, lima para sa mga dingding nga tapi sa isa ka kilid sang Tolda,
+027	kag lima para sa mga dingding nga tapi sa pihak nga kilid, kag lima para sa mga dingding nga tapi sa nakatundan nayon, sa likod sang Tolda.
+028	Ang baral sa tungatunga sang mga dingding nga tapi, magahalin sa isa ka pamusod sang Tolda tubtob sa isa.
+029	Haklapan mo ang mga dingding nga tapi sing bulawan, kag takdan mo sing mga singsing nga bulawan sa paghugpong sang mga baral, kag ini nga mga baral haklapan man sing bulawan.
+030	Gani patindugon mo ang Tolda suno sa plano nga ginpakita ko sa imo sa bukid.
+031	Maghimo ka sing kurtina nga asol, granate, kag mapula nga delana, kag mapino nga nagakunotkunot nga lino.
+031	Pabordahan mo ini sing maayo sang laragway sang mga kerubin.
+032	Pakabiton mo ini sa apat ka mga haligi nga akasya nga kahoy nga nahaklapan sing bulawan, nga may mga kaw-it, kag iangot mo sa apat ka mga sadsaran nga pilak.
+033	Pakabiton mo ang kurtina sa mga kaw-it sa atop sang Tolda, kag ibutang mo sa likod sang kurtina ang Kaban sang Kasugtanan nga ginasudlan sang mga duha ka mga lapida nga bato.
+033	Ang kurtina magaulot sang Balaan nga Duog gikan sa Labing Balaan nga Duog.
+034	Ibutang mo ang takop sa ibabaw sang Kaban sang Kasugtanan.
+035	Ibutang mo ang lamisa sa gwa sang kurtina, kag ibutang mo ang kandelirohan sa bagatnan nga bahin sang Tolda, nga nagaatubang sa lamisa sa naaminhan nga bahin.
+036	Ang pwertahan sang Tolda himuan mo sing kurtina nga asol, granate, pula nga delana, kag mapino nga nagakunotkunot nga lino, nga nabordahan.
+037	Himuan mo ini nga kurtina sing lima ka mga haligi nga kahoy nga akasya nga nahaklapan sing bulawan, kag nabutangan sang mga kaw-it nga bulawan, kag maghimo ka sing lima ka mga sadsaran nga bronsi para sa sini nga mga haligi.

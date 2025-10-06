@@ -1,40 +1,43 @@
-Dangan nagtaram an Kagurangnan ki Moises, Mahihiling mo ngunyan kun ano an gigibohon ko sa hade.
-Mapipiritan siyang pahaleon an sakong banwaan.
-Talagang mapipiritan siyang isubol sinda paluwas sa saiyang daga.
-Nagtaram an Dios ki Moises, Ako an Kagurangnan .
-Nagpahiling ako ki Abraham, ki Isaac, asin ki Jacob bilang Dios na makakamhan sa gabos, alagad dai ako nagpamidbid sa sainda sa banal kong ngaran na Kagurangnan .
-Nakipagtipan man ako sa sainda, nanuga na itatao sainda an Canaan, an dagang pinag-erokan ninda kaidto bilang mga dayuhan.
-Ngunyan nadangog ko an inagrangay kan mga Israelita na inooripon kan mga Egipcio asin nagiromdoman ko an sakong tipan.
-Kaya sabihan mo an mga Israelita, Ako an Kagurangnan ; hahaleon asin papatalingkason ko kamo sa pang-ooripon kan mga Egipcio.
-Uunaton ko an sakong kamot tanganing padusahan sinda nin makuri asin ililigtas ko kamo.
-Kamo an magigin banwaan ko asin ako an magigin Dios nindo.
-Mamimidbid nindo na ako an Kagurangnan , an saindong Dios, na naghale sa saindo sa pang-ooripon kan mga Egipcio.
-Dadarahon ko kamo sa dagang ipinanuga ko ki Abraham, ki Isaac, asin ki Jacob; itatao ko iyan saindo bilang saindong sadiring rogaring.
-Ako an Kagurangnan .
-Sinabi ini ni Moises sa mga Israelita, alagad dai sinda nagtubod saiya; maluya na an saindang boot huli sa makuring kaoripnan.
-Dangan tinaraman nin Kagurangnan si Moises, Dumanon mo an hade nin Egipto asin sabihan mo na tugotan niyang humale sa saiyang nasyon an mga Israelita.
-Nagsimbag si Moises, Kun an mga Israelita dai ngani nagdangog sako, an hade pa daw, orog nang gayo na maluya akong magtaram?
-Alagad pinagbotan nin Kagurangnan si Moises asin si Aaron, Taraman nindo an mga Israelita asin an hade nin Egipto na sinusugo ko kamong duwa na pangenotan an mga Israelita sa pagluwas sa Egipto.
-Si Ruben, na matuang aki ni Jacob, igwa nin apat na aking lalaki: si Hanok, Pallu, Hezron, asin si Carmi; sinda an mga ginikanan kan mga kamaganakan na nagdadara kan saindang mga ngaran.
-Si Simeon igwa nin anom na aking lalaki: si Jemuel, Jamin, Ohad, Jakin, Zohar, asin si Shaul na aki nin sarong Cananea; sinda an mga ginikanan kan mga kamaganakan na nagdadara kan saindang mga ngaran.
-Si Levi igwa nin tolong aking lalaki: si Gerson, Kohat, asin si Merari; sinda an mga kamaganakan na nagdadara kan saindang mga ngaran.
-Si Levi nabuhay sa laog nin syento treynta y syeteng taon.
-Si Gerson igwa nin duwang aking lalaki: si Libni asin Simei, asin nagkaigwa sinda nin dakul na kapagarakian.
-Si Kohat igwa nin apat na aking lalaki: si Amram, Izar, Hebron, asin si Uzziel.
-Si Kohat nabuhay sa laog nin syento treynta y tres na taon.
-Si Merari igwa nin duwang aking lalaki: si Mali asin si Musi.
-Ini an mga kamaganakan ni Levi kaiba an saindang mga kapagarakian.
-Inagom ni Amram si Jokebed na tugang na babae kan saiyang ama; nagin mga aki ninda si Aaron asin si Moises.
-Nabuhay si Amram sa laog nin syento treynta y syeteng taon.
-Tolo an aking lalaki ni Izar: si Kora, Nefeg, asin Zikri.
-Tolo man an aking lalaki ni Uzziel: si Misael, si Elzafan asin si Sitri.
-Inagom ni Aaron si Eliseba na aki ni Amminadab asin tugang ni Nason; nagin mga aki ninda si Nadab, Abihu, Eleazar saka Itamar.
-Tolo an aking lalaki ni Kora: si Assir, si Elkana, asin si Abiasaf; sinda an mga ginikanan kan mga Korahita.
-Inagom ni Eleazar na aking lalaki ni Aaron an saro sa mga aking babae ni Putiel.
-Nagin aki ninda si Finehas.
-Ini an mga namamayo kan mga pamilya saka kan mga kamaganakan kan mga tribu ni Levi.
-Si Aaron asin si Moises iyo an mga tawong tinaraman nin Kagurangnan na, Pangenotan nindo an mga Israelita sa pagluwas sa Egipto.
-Sinda an mga tawong nagsabi sa hade nin Egipto na patalingkason an mga Israelita.
-Kan magtaram an Kagurangnan ki Moises duman sa daga nin Egipto, ini an sinabi niya, Ako an Kagurangnan .
-Sabihi an hade kan gabos na itinaram ko saimo.
-Alagad nagsimbag si Moises, Aram mong maluya akong magtaram; kaya tadaw ta pagdangogon ako kan hade?
+verse	content
+001	Dangan nagtaram an Kagurangnan ki Moises, Mahihiling mo ngunyan kun ano an gigibohon ko sa hade.
+001	Mapipiritan siyang pahaleon an sakong banwaan.
+001	Talagang mapipiritan siyang isubol sinda paluwas sa saiyang daga.
+002	Nagtaram an Dios ki Moises, Ako an Kagurangnan .
+003	Nagpahiling ako ki Abraham, ki Isaac, asin ki Jacob bilang Dios na makakamhan sa gabos, alagad dai ako nagpamidbid sa sainda sa banal kong ngaran na Kagurangnan .
+004	Nakipagtipan man ako sa sainda, nanuga na itatao sainda an Canaan, an dagang pinag-erokan ninda kaidto bilang mga dayuhan.
+005	Ngunyan nadangog ko an inagrangay kan mga Israelita na inooripon kan mga Egipcio asin nagiromdoman ko an sakong tipan.
+006	Kaya sabihan mo an mga Israelita, Ako an Kagurangnan ; hahaleon asin papatalingkason ko kamo sa pang-ooripon kan mga Egipcio.
+006	Uunaton ko an sakong kamot tanganing padusahan sinda nin makuri asin ililigtas ko kamo.
+007	Kamo an magigin banwaan ko asin ako an magigin Dios nindo.
+007	Mamimidbid nindo na ako an Kagurangnan , an saindong Dios, na naghale sa saindo sa pang-ooripon kan mga Egipcio.
+008	Dadarahon ko kamo sa dagang ipinanuga ko ki Abraham, ki Isaac, asin ki Jacob; itatao ko iyan saindo bilang saindong sadiring rogaring.
+008	Ako an Kagurangnan .
+009	Sinabi ini ni Moises sa mga Israelita, alagad dai sinda nagtubod saiya; maluya na an saindang boot huli sa makuring kaoripnan.
+010	Dangan tinaraman nin Kagurangnan si Moises,
+011	Dumanon mo an hade nin Egipto asin sabihan mo na tugotan niyang humale sa saiyang nasyon an mga Israelita.
+012	Nagsimbag si Moises, Kun an mga Israelita dai ngani nagdangog sako, an hade pa daw, orog nang gayo na maluya akong magtaram?
+013	Alagad pinagbotan nin Kagurangnan si Moises asin si Aaron, Taraman nindo an mga Israelita asin an hade nin Egipto na sinusugo ko kamong duwa na pangenotan an mga Israelita sa pagluwas sa Egipto.
+014	Si Ruben, na matuang aki ni Jacob, igwa nin apat na aking lalaki: si Hanok, Pallu, Hezron, asin si Carmi; sinda an mga ginikanan kan mga kamaganakan na nagdadara kan saindang mga ngaran.
+015	Si Simeon igwa nin anom na aking lalaki: si Jemuel, Jamin, Ohad, Jakin, Zohar, asin si Shaul na aki nin sarong Cananea; sinda an mga ginikanan kan mga kamaganakan na nagdadara kan saindang mga ngaran.
+016	Si Levi igwa nin tolong aking lalaki: si Gerson, Kohat, asin si Merari; sinda an mga kamaganakan na nagdadara kan saindang mga ngaran.
+016	Si Levi nabuhay sa laog nin syento treynta y syeteng taon.
+017	Si Gerson igwa nin duwang aking lalaki: si Libni asin Simei, asin nagkaigwa sinda nin dakul na kapagarakian.
+018	Si Kohat igwa nin apat na aking lalaki: si Amram, Izar, Hebron, asin si Uzziel.
+018	Si Kohat nabuhay sa laog nin syento treynta y tres na taon.
+019	Si Merari igwa nin duwang aking lalaki: si Mali asin si Musi.
+019	Ini an mga kamaganakan ni Levi kaiba an saindang mga kapagarakian.
+020	Inagom ni Amram si Jokebed na tugang na babae kan saiyang ama; nagin mga aki ninda si Aaron asin si Moises.
+020	Nabuhay si Amram sa laog nin syento treynta y syeteng taon.
+021	Tolo an aking lalaki ni Izar: si Kora, Nefeg, asin Zikri.
+022	Tolo man an aking lalaki ni Uzziel: si Misael, si Elzafan asin si Sitri.
+023	Inagom ni Aaron si Eliseba na aki ni Amminadab asin tugang ni Nason; nagin mga aki ninda si Nadab, Abihu, Eleazar saka Itamar.
+024	Tolo an aking lalaki ni Kora: si Assir, si Elkana, asin si Abiasaf; sinda an mga ginikanan kan mga Korahita.
+025	Inagom ni Eleazar na aking lalaki ni Aaron an saro sa mga aking babae ni Putiel.
+025	Nagin aki ninda si Finehas.
+025	Ini an mga namamayo kan mga pamilya saka kan mga kamaganakan kan mga tribu ni Levi.
+026	Si Aaron asin si Moises iyo an mga tawong tinaraman nin Kagurangnan na, Pangenotan nindo an mga Israelita sa pagluwas sa Egipto.
+027	Sinda an mga tawong nagsabi sa hade nin Egipto na patalingkason an mga Israelita.
+028	Kan magtaram an Kagurangnan ki Moises duman sa daga nin Egipto,
+029	ini an sinabi niya, Ako an Kagurangnan .
+029	Sabihi an hade kan gabos na itinaram ko saimo.
+030	Alagad nagsimbag si Moises, Aram mong maluya akong magtaram; kaya tadaw ta pagdangogon ako kan hade?

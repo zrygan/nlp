@@ -1,48 +1,52 @@
-Sa ginsugoran gintuga sang Dios ang kalangitan kag ang duta.
-Ang duta wala pa sing sulod kag porma.
-Ang mabalod nga kadagatan nga nagatabon sang tanan nalikupan sang bug-os nga kadudulman kag ang Espiritu sang Dios nagahulag sa ibabaw sang tubig.
-Dayon ang Dios nagmando, Magluntad ang kapawa!
-Kag may kapawa.
-Kag ang Dios nanamian sang iya nakita.
-Dayon ginpain niya ang kapawa sa kadudulman kag gintawag niya ang kapawa nga Adlaw, kag ang kadudulman nga Gab-i.
-Nagligad ang gab-i, kag nag-aga, amo yadto ang nahauna nga adlaw.
-Dayon ang Dios nagmando, Magluntad ang kahawaan nga magaseparar sang mga tubig sa duha ka lugar.
-Kag nahimo ini.
-Gani ang Dios naghimo sang kahawaan nga nagseparar sang tubig sa idalom kag sang tubig sa ibabaw.
-Gintawag niya ang kahawaan nga Langit.
-Nagligad ang gab-i kag nag-aga, amo yadto ang ikaduha nga adlaw.
-Dayon ang Dios nagmando, Magtingob ang tubig sa idalom sang langit sa isa ka lugar agod maggwa ang duta.
-Kag nahimo ini.
-Ang mamala nga lugar gintawag niya nga Duta, kag ang tubig nga nagtingob gintawag niya nga Kadagatan.
-Kag ang Dios nanamian sang iya nakita.
-Dayon ang Dios nagmando, Magpatubo ang duta sang tanan nga sahi sang mga tanom, ang mga nagapatubas sing uyas kag ang nagapamunga.
-Kag nahimo ini.
-Gani ang duta nagpatubo sang tanan nga sahi sang mga tanom, ang nagapatubas sing uyas kag ang mga nagapamunga.
-Kag ang Dios nanamian sang iya nakita.
-Nagligad ang gab-i, kag nag-aga, amo yadto ang ikatlo nga adlaw.
-Dayon ang Dios nagmando, Magluntad ang mga suga sa langit sa pagseparar sang adlaw gikan sa gab-i, kag sa pagtanda sang pagsugod sang mga inadlaw, mga tinuig, kag mga kapistahan.
-Magasiga sila sa langit sa paghatag kapawa sa duta.
-Kag nahimo ini.
-Gani ang Dios naghimo sang duha ka dalagku nga mga suga, ang adlaw sa paggahom sa kaadlawon kag ang bulan sa paggahom sa kagab-ihon.
-Ginhimo man niya ang mga bituon.
-Ginbutang niya ang mga suga sa langit sa pag-iwag sa duta, sa paggahom sa kaadlawon kag sa kagab-ihon, kag sa pagseparar sang kapawa sa kadudulman.
-Kag ang Dios nanamian sang iya nakita.
-Nagligad ang gab-i kag nag-aga, amo yadto ang ikap-at nga adlaw.
-Dayon ang Dios nagmando, Mapun-an ang tubig sang madamo nga mga sahi sang buhi nga mga tinuga, kag mapuno ang kahanginan sang mga pispis.
-Gani gintuga sang Dios ang dalagku nga mga sapat sa dagat, kag ang tanan nga sahi sang buhi nga mga tinuga nga nagaestar sa tubig, kag ang tanan nga sahi sang mga kapispisan.
-Kag ang Dios nanamian sang iya nakita.
-Kag ginbendisyunan niya sila tanan kag ginsingganan ang mga tinuga nga nagaestar sa tubig sa pagmuad kag sa pagpuno sang dagat, kag iya man ginsingganan ang mga kapispisan nga magdamo.
-Nagligad ang gab-i, kag nag-aga, amo yadto ang ikalima nga adlaw.
-Dayon ang Dios nagmando, Magpatubo ang duta sang tanan nga sahi sang mga kasapatan: naanta kag talunon, dalagku kag magamay.
-Kag nahimo ini.
-Gani ang Dios naghimo sa ila tanan kag nanamian sia sang iya nakita.
-Dayon ang Dios nagsiling, Kag karon himuon ta ang tawo nga manginkasubong sa aton kag manginkaanggid naton.
-Magagahom sila sa mga isda, mga kapispisan, kag sa tanan nga mga sapat, anta kag talunon, dalagku kag magamay.
-Gani gintuga sang Dios ang tawo nga kaanggid sa iya.
-Gintuga niya sila nga lalaki kag babayi, kag ginbendisyunan niya sila nga nagsiling, Magpamata kamo sing madamo, agod ang inyo mga kaliwat magalapta kag magagahom sa bug-os nga duta.
-Ginatugyan ko sa inyo ang mga kaisdaan, mga kapispisan, kag ang tanan nga mga kasapatan nga talunon.
-Ginahatag ko sa inyo ang tanan nga sahi sang uyas kag ang tanan nga sahi sang bunga sang kahoy nga inyo pagakaunon.
-Pero sa tanan nga mga sapat nga talunon, kag sa tanan nga mga kapispisan, ginahatag ko ang malagtom nga mga hilamon nga ila pagakaunon.
-Kag nahimo ini.
-Gintan-aw sang Dios ang tanan nga iya ginhimo, kag nanamian gid sia.
-Nagligad ang gab-i, kag nag-aga, amo yadto ang ikan-om nga adlaw.
+verse	content
+001	Sa ginsugoran gintuga sang Dios ang kalangitan kag ang duta.
+002	Ang duta wala pa sing sulod kag porma.
+002	Ang mabalod nga kadagatan nga nagatabon sang tanan nalikupan sang bug-os nga kadudulman kag ang Espiritu sang Dios nagahulag sa ibabaw sang tubig.
+003	Dayon ang Dios nagmando, Magluntad ang kapawa!
+003	Kag may kapawa.
+004	Kag ang Dios nanamian sang iya nakita.
+004	Dayon ginpain niya ang kapawa sa kadudulman
+005	kag gintawag niya ang kapawa nga Adlaw, kag ang kadudulman nga Gab-i.
+005	Nagligad ang gab-i, kag nag-aga, amo yadto ang nahauna nga adlaw.
+006	Dayon ang Dios nagmando, Magluntad ang kahawaan nga magaseparar sang mga tubig sa duha ka lugar.
+006	Kag nahimo ini.
+006	Gani ang Dios naghimo sang kahawaan nga nagseparar sang tubig sa idalom kag sang tubig sa ibabaw.
+007	Gintawag niya ang kahawaan nga Langit.
+007	Nagligad ang gab-i kag nag-aga, amo yadto ang ikaduha nga adlaw.
+008	Dayon ang Dios nagmando, Magtingob ang tubig sa idalom sang langit sa isa ka lugar agod maggwa ang duta.
+008	Kag nahimo ini.
+009	Ang mamala nga lugar gintawag niya nga Duta, kag ang tubig nga nagtingob gintawag niya nga Kadagatan.
+009	Kag ang Dios nanamian sang iya nakita.
+010	Dayon ang Dios nagmando, Magpatubo ang duta sang tanan nga sahi sang mga tanom, ang mga nagapatubas sing uyas kag ang nagapamunga.
+010	Kag nahimo ini.
+011	Gani ang duta nagpatubo sang tanan nga sahi sang mga tanom, ang nagapatubas sing uyas kag ang mga nagapamunga.
+011	Kag ang Dios nanamian sang iya nakita.
+012	Nagligad ang gab-i, kag nag-aga, amo yadto ang ikatlo nga adlaw.
+013	Dayon ang Dios nagmando, Magluntad ang mga suga sa langit sa pagseparar sang adlaw gikan sa gab-i, kag sa pagtanda sang pagsugod sang mga inadlaw, mga tinuig, kag mga kapistahan.
+014	Magasiga sila sa langit sa paghatag kapawa sa duta.
+014	Kag nahimo ini.
+015	Gani ang Dios naghimo sang duha ka dalagku nga mga suga, ang adlaw sa paggahom sa kaadlawon kag ang bulan sa paggahom sa kagab-ihon.
+015	Ginhimo man niya ang mga bituon.
+016	Ginbutang niya ang mga suga sa langit sa pag-iwag sa duta,
+017	sa paggahom sa kaadlawon kag sa kagab-ihon, kag sa pagseparar sang kapawa sa kadudulman.
+017	Kag ang Dios nanamian sang iya nakita.
+018	Nagligad ang gab-i kag nag-aga, amo yadto ang ikap-at nga adlaw.
+019	Dayon ang Dios nagmando, Mapun-an ang tubig sang madamo nga mga sahi sang buhi nga mga tinuga, kag mapuno ang kahanginan sang mga pispis.
+020	Gani gintuga sang Dios ang dalagku nga mga sapat sa dagat, kag ang tanan nga sahi sang buhi nga mga tinuga nga nagaestar sa tubig, kag ang tanan nga sahi sang mga kapispisan.
+020	Kag ang Dios nanamian sang iya nakita.
+021	Kag ginbendisyunan niya sila tanan kag ginsingganan ang mga tinuga nga nagaestar sa tubig sa pagmuad kag sa pagpuno sang dagat, kag iya man ginsingganan ang mga kapispisan nga magdamo.
+022	Nagligad ang gab-i, kag nag-aga, amo yadto ang ikalima nga adlaw.
+023	Dayon ang Dios nagmando, Magpatubo ang duta sang tanan nga sahi sang mga kasapatan: naanta kag talunon, dalagku kag magamay.
+023	Kag nahimo ini.
+024	Gani ang Dios naghimo sa ila tanan kag nanamian sia sang iya nakita.
+025	Dayon ang Dios nagsiling, Kag karon himuon ta ang tawo nga manginkasubong sa aton kag manginkaanggid naton.
+025	Magagahom sila sa mga isda, mga kapispisan, kag sa tanan nga mga sapat, anta kag talunon, dalagku kag magamay.
+026	Gani gintuga sang Dios ang tawo nga kaanggid sa iya.
+026	Gintuga niya sila nga lalaki kag babayi,
+027	kag ginbendisyunan niya sila nga nagsiling, Magpamata kamo sing madamo, agod ang inyo mga kaliwat magalapta kag magagahom sa bug-os nga duta.
+027	Ginatugyan ko sa inyo ang mga kaisdaan, mga kapispisan, kag ang tanan nga mga kasapatan nga talunon.
+028	Ginahatag ko sa inyo ang tanan nga sahi sang uyas kag ang tanan nga sahi sang bunga sang kahoy nga inyo pagakaunon.
+029	Pero sa tanan nga mga sapat nga talunon, kag sa tanan nga mga kapispisan, ginahatag ko ang malagtom nga mga hilamon nga ila pagakaunon.
+029	Kag nahimo ini.
+030	Gintan-aw sang Dios ang tanan nga iya ginhimo, kag nanamian gid sia.
+030	Nagligad ang gab-i, kag nag-aga, amo yadto ang ikan-om nga adlaw.

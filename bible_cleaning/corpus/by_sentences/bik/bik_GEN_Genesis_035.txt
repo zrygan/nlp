@@ -1,35 +1,39 @@
-Nagtaram an Dios ki Jacob, Magduman ka tolos sa Betel asin duman ka mag-erok.
-Gumibo ka nin sarong altar duman para sako, an Dios na nagpahiling saimo kan ika magdulag sa tugang mong si Esau.
-Kaya sinabihan ni Jacob an saiyang pamilya asin an gabos na kaibahan niya, Itapok nindo an mga dayuhan na dios na yaon saindo; maglinig kamo kan saindong sadiri asin magsangle kamo kan saindong gubing, huli ta maduman kita gabos sa Betel tanganing ikatugdok ko nin altar an Dios na nagtabang sako sa panahon nin kasakitan asin nag-iba sako saen man ako magduman.
-Kaya itinao ninda ki Jacob an gabos nindang mga dayuhan na dios sagkod an mga hikaw na sulot ninda.
-Ilinubong ini gabos ni Jacob sa irarom kan poon nin sarong hamurawon na kahoy na harani sa Shekem.
-Kan magpoon na sindang maglakaw, natakot nin marahay an mga tawong nag-eerok sa mga syudad sa palibot ninda, kaya dai sinda linamag kan mga ini.
-Nakaabot si Jacob asin an gabos na kaiba niya sa Luz o Betel sa daga nin Canaan.
-Itinugdok niya duman an sarong altar asin an lugar nginaranan niyang El-Betel, huli ta duman nagpahiling saiya an Dios kan nagdulag siya sa saiyang tugang.
-Duman nagadan si Debora na paraaling ni Rebecca.
-Ilinubong siya sa tangod nin sarong hamurawon na kahoy sa habagat kan Betel, kaya an lugar na idto nginaranan Allon-bacut.
-Nagpahiling giraray an Dios ki Jacob kan magbalik ini hale sa Mesopotamia.
-Benendisyonan siya nin Dios asin tinaraman, Jacob an ngaran mo, alagad poon ngunyan aapodon ka nang Israel.
-Kaya nagin Israel an saiyang ngaran.
-Nagtaram saiya an Dios, Ako an Makakamhan na Dios.
-Magkaigwa ka nin dakul na aki.
-Gigikanan ka nin dakul na nasyon asin sa saimo magikan an mga hade.
-Itatao ko saimo an daga na itinao ko ki Abraham saka ki Isaac, asin itatao ko man iyan sa saimong mga kapagarakian.
-Dangan binayaan siya nin Dios.
-Sa lugar na idto, saen nagtaram saiya an Dios, nagpatindog si Jacob nin hariging giromdoman na an ibabaw inulaan niya nin arak saka lana nin oliba.
-An lugar nginaranan niyang Betel.
-Naghale sa Betel si Jacob kaiba an saiyang pamilya, asin kan harani na sinda sa Efrat, nag-abot an oras kan pangaki ni Rachel; dipisil an saiyang pangaki.
-Kan grabe na an kulog kan pagporos niya, sinabihan siya kan partera, Dai ka matakot, Rachel; lalaki na naman an ipapangaki mo.
-Alagad naghihingagdan na si Rachel asin bago siya nautsan, nginaranan niyang Benoni an saiyang aki, alagad inapod ining Benjamin kan saiyang ama.
-Nagadan si Rachel asin ilinubong sa may dalan pasiring sa Efrat na ngunyan inaapod Betlehem.
-Nagbugtak si Jacob nin sarong hariging giromdoman sa linubongan ki Rachel asin sagkod ngunyan idtoon pa iyan duman.
-Dangan nagpadagos sa paglakaw si Jacob asin nagkampo sa ibong kan tore nin Eder.
-Kan nag-eerok na si Jacob sa dagang idto, dinorogan ni Ruben si Bilha na saro kan mga kasaroan nin saiyang ama; naanggot nin marahay si Jacob kan maisihan ini.
-Dose an mga aking lalaki ni Jacob.
-An mga aki ni Lea iyo si Ruben an matuang aking lalaki ni Jacob, si Simeon, Levi, Juda, Issakar, asin Zabulon.
-An mga aki ni Rachel iyo si Jose asin si Benjamin.
-An mga aki ni Bilha na katabang ni Rachel iyo si Dan asin si Neftali.
-An mga aki ni Zilpa na katabang ni Lea iyo si Gad saka si Aser.
-An mga ini iyo an mga aki ni Jacob na namundag saiya sa Mesopotamia.
-Dinalaw ni Jacob si Isaac na saiyang ama duman sa Mamre, harani sa Hebron, saen nakihimanwa si Abraham asin si Isaac.
-Nabuhay si Isaac sagkod sa edad na syento otsenta, asin nagadan sa pagkagurang; ilinubong siya kan mga aki niyang si Esau saka Jacob.
+verse	content
+001	Nagtaram an Dios ki Jacob, Magduman ka tolos sa Betel asin duman ka mag-erok.
+001	Gumibo ka nin sarong altar duman para sako, an Dios na nagpahiling saimo kan ika magdulag sa tugang mong si Esau.
+002	Kaya sinabihan ni Jacob an saiyang pamilya asin an gabos na kaibahan niya, Itapok nindo an mga dayuhan na dios na yaon saindo; maglinig kamo kan saindong sadiri asin magsangle kamo kan saindong gubing,
+003	huli ta maduman kita gabos sa Betel tanganing ikatugdok ko nin altar an Dios na nagtabang sako sa panahon nin kasakitan asin nag-iba sako saen man ako magduman.
+004	Kaya itinao ninda ki Jacob an gabos nindang mga dayuhan na dios sagkod an mga hikaw na sulot ninda.
+004	Ilinubong ini gabos ni Jacob sa irarom kan poon nin sarong hamurawon na kahoy na harani sa Shekem.
+005	Kan magpoon na sindang maglakaw, natakot nin marahay an mga tawong nag-eerok sa mga syudad sa palibot ninda, kaya dai sinda linamag kan mga ini.
+006	Nakaabot si Jacob asin an gabos na kaiba niya sa Luz o Betel sa daga nin Canaan.
+007	Itinugdok niya duman an sarong altar asin an lugar nginaranan niyang El-Betel, huli ta duman nagpahiling saiya an Dios kan nagdulag siya sa saiyang tugang.
+008	Duman nagadan si Debora na paraaling ni Rebecca.
+008	Ilinubong siya sa tangod nin sarong hamurawon na kahoy sa habagat kan Betel, kaya an lugar na idto nginaranan Allon-bacut.
+009	Nagpahiling giraray an Dios ki Jacob kan magbalik ini hale sa Mesopotamia.
+009	Benendisyonan siya nin Dios
+010	asin tinaraman, Jacob an ngaran mo, alagad poon ngunyan aapodon ka nang Israel.
+010	Kaya nagin Israel an saiyang ngaran.
+011	Nagtaram saiya an Dios, Ako an Makakamhan na Dios.
+011	Magkaigwa ka nin dakul na aki.
+011	Gigikanan ka nin dakul na nasyon asin sa saimo magikan an mga hade.
+012	Itatao ko saimo an daga na itinao ko ki Abraham saka ki Isaac, asin itatao ko man iyan sa saimong mga kapagarakian.
+013	Dangan binayaan siya nin Dios.
+014	Sa lugar na idto, saen nagtaram saiya an Dios, nagpatindog si Jacob nin hariging giromdoman na an ibabaw inulaan niya nin arak saka lana nin oliba.
+015	An lugar nginaranan niyang Betel.
+016	Naghale sa Betel si Jacob kaiba an saiyang pamilya, asin kan harani na sinda sa Efrat, nag-abot an oras kan pangaki ni Rachel; dipisil an saiyang pangaki.
+017	Kan grabe na an kulog kan pagporos niya, sinabihan siya kan partera, Dai ka matakot, Rachel; lalaki na naman an ipapangaki mo.
+018	Alagad naghihingagdan na si Rachel asin bago siya nautsan, nginaranan niyang Benoni an saiyang aki, alagad inapod ining Benjamin kan saiyang ama.
+019	Nagadan si Rachel asin ilinubong sa may dalan pasiring sa Efrat na ngunyan inaapod Betlehem.
+020	Nagbugtak si Jacob nin sarong hariging giromdoman sa linubongan ki Rachel asin sagkod ngunyan idtoon pa iyan duman.
+021	Dangan nagpadagos sa paglakaw si Jacob asin nagkampo sa ibong kan tore nin Eder.
+022	Kan nag-eerok na si Jacob sa dagang idto, dinorogan ni Ruben si Bilha na saro kan mga kasaroan nin saiyang ama; naanggot nin marahay si Jacob kan maisihan ini.
+023	Dose an mga aking lalaki ni Jacob.
+024	An mga aki ni Lea iyo si Ruben an matuang aking lalaki ni Jacob, si Simeon, Levi, Juda, Issakar, asin Zabulon.
+025	An mga aki ni Rachel iyo si Jose asin si Benjamin.
+026	An mga aki ni Bilha na katabang ni Rachel iyo si Dan asin si Neftali.
+027	An mga aki ni Zilpa na katabang ni Lea iyo si Gad saka si Aser.
+027	An mga ini iyo an mga aki ni Jacob na namundag saiya sa Mesopotamia.
+028	Dinalaw ni Jacob si Isaac na saiyang ama duman sa Mamre, harani sa Hebron, saen nakihimanwa si Abraham asin si Isaac.
+029	Nabuhay si Isaac sagkod sa edad na syento otsenta,
+030	asin nagadan sa pagkagurang; ilinubong siya kan mga aki niyang si Esau saka Jacob.

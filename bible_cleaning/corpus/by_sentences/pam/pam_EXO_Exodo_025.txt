@@ -1,41 +1,48 @@
-Nganang migsalita ning Ginu kang Moises, Sabian mu karing memalen na ning Israel ing misadia lang ain para kanaku.
-Ika ing tanggap king ain na ning balang katau a laus lub nang ibie.
-Oreti ding ain a tanggapan mu karela: gintu, pilak, tangsu; mapinung telang linen; asul, muradu, at malutung lana; telang megawa king bulbul kambing; balat lalaking tupa a kilulan malutu; balat a mapinu; tablang akasia; laru para karing sulu; pabanglung paniangkap king larung paglania, at paniamut king mabanglung insenso; batung onyx, at aliwa pang batung palamuti king efod at king takap-salu ning Pekapun a Pari.
-Sukat da kung panalakad metung a Toldang pipanalanginan ban maging tuknangan ku libutad da.
-Tukian me ing planung ipakit ku keka king pamitalakad mu kaniti at ing sablang kasangkapan a kailangan na.
-Gawa kayung metung a Kaban king dutung a akasia; apat apulu't limang pulgada ya king kaba, aduang pulu't pitu ya pulgada king lapad, at aduang pulu't pitu ya pulgada king katas.
-Balutanan yeng gintung puru king lual at kilub, at dinan yeng listun a gintu king makapadurut.
-Miyubug kayung apat a telasingsing gintu bilang bitbitan na, at ikabit yu la karing apat nang bitis; aduang telasingsing misusumangid na at ning Kaban.
-Gawa kayu namang aduang tambayuk king dutung a akasia, at balutanan yu la namang gintu, at isulud yu la deting tambayuk karing telasingsing king katalindikingan na ning Kaban ban maging bitbitan kaniti.
-Ipilmi la deting tambayuk karing telasingsing; e la sukat lalako.
-Ilulan yu la kilub na ning Kaban ding aduang tinabas a batu a ibie ku, nung nukarin la makasulat ding kautusan.
-Gawa kayung takap a puru gintu; apat apulu't lima ya pulgada king kaba at aduang pulu't pitu ya pulgada king lapad.
-Gawa kayung aduang kerubin; pikpuk a gintu ing gamitan yu.
-Pitunggalan yu la karing mingatba nang danggut niting takap.
-Gawan yu la ita sanang makatuglung la king takap.
-Piyarapan yu la; kailangan ing makaladlad la pakpak, at makatas, ita sanang sasalilungan de ing takap.
-Ibili yu la kilub ning Kaban ding aduang tinabas a batu, at saka ye ibili ing takap babo na.
-Karin da ka pakikitan at karin king babo na ning takap, pilatan da ring aduang kerubin, ibie ku la keka ding sablang kautusan ku para karing memalen na ning Israel.
-Gawa kayung metung a lamesa king dutung a akasia; atlung pulu't anam ya pulgada king kaba, labing walu ya pulgada king lapad, at aduang pulu't pitu ya pulgada king katas.
-Balutanan yeng gintung puru at palamutian gintung listun king makapadurut.
-Igawa yeng sanepa a atlung pulgada katas bilang kulung na babo, at dinan ya namang palamuting gintu king makapadurut.
-Igawa yeng apat a gintung telasingsing, at ikabit yu la deti karing apat nang suluk babo da ring apat nang bitis.
-Ikabit yu la ding telasingsing malapit king listun a peka kuadru na para pisuluran karing tambayuk a pamitbit da king lamesa.
-Gawa kayung tambayuk king dutung a akasia at balutanan yu la namang gintu.
-Ila deti ring pamitbit king lamesa.
-Gawa kayu namang pinggan, kopa, saru, at silyo para king alak a iyain da.
-Gintung puru ing gamitan yu.
-Ibili ye iting lamesa king arap ning Kaban ning Kasunduan, at king babo lamesa sukat mika tinape a miyain para kanaku king kapilan pa man.
-Gawa kayung metung a tumpakan-sulu a puru gintu.
-Gumamit kayung pikpuk a gintu para king talpakan na angga karing sanga na.
-Ding palamuting bulaklak na pati na ding buku, at makabukadkad nang talulut niti sukat maging metung lang pirasu.
-Dinan meng anam a sanga karing mingatba nang dane, titlung sanga king balang dane.
-Ing balang metung karing anam nang sanga mika atlu yang buku a kalupa da ring sampagang almendrong maki buku at talulut.
-Ing mismung sanga na ning tumpakan-sulu mika apat ya namang bukung kayubug da ring sampagang almendrong maki buku at talulut.
-Mika metung a buku lalam ning balang metung karing atlung paris a sanga.
-Sukat lang makatuglung ding buku at ding sanga king tumpakan-sulu.
-Kailangan ing gewa ya king metung mung piesang puru at pikpuk a gintu.
-Igawa yeng pitung sulu iting tumpakan-sulu at ibili yu la babo; ita sanang makatangad la aslag papunta arap na.
-Gawan yu la naman king gintung puru ding pamatdang sulu at pisaluran.
-Gumamit kayung pitung pulu't limang librang gintung puru para king pamangawa yu kaniting tumpakan-sulu at karing miyayaliwa nang kasangkapan.
-Pagkapilitan mung magawa la ngan deti agpang king planung pepakit ku keka king bunduk.
+verse	content
+001	Nganang migsalita ning Ginu kang Moises,
+002	Sabian mu karing memalen na ning Israel ing misadia lang ain para kanaku.
+002	Ika ing tanggap king ain na ning balang katau a laus lub nang ibie.
+003	Oreti ding ain a tanggapan mu karela: gintu, pilak, tangsu;
+004	mapinung telang linen; asul, muradu, at malutung lana; telang megawa king bulbul kambing;
+005	balat lalaking tupa a kilulan malutu; balat a mapinu; tablang akasia;
+006	laru para karing sulu; pabanglung paniangkap king larung paglania, at paniamut king mabanglung insenso;
+007	batung onyx, at aliwa pang batung palamuti king efod at king takap-salu ning Pekapun a Pari.
+008	Sukat da kung panalakad metung a Toldang pipanalanginan ban maging tuknangan ku libutad da.
+009	Tukian me ing planung ipakit ku keka king pamitalakad mu kaniti at ing sablang kasangkapan a kailangan na.
+010	Gawa kayung metung a Kaban king dutung a akasia; apat apulu't limang pulgada ya king kaba, aduang pulu't pitu ya pulgada king lapad, at aduang pulu't pitu ya pulgada king katas.
+011	Balutanan yeng gintung puru king lual at kilub, at dinan yeng listun a gintu king makapadurut.
+012	Miyubug kayung apat a telasingsing gintu bilang bitbitan na, at ikabit yu la karing apat nang bitis; aduang telasingsing misusumangid na at ning Kaban.
+013	Gawa kayu namang aduang tambayuk king dutung a akasia, at balutanan yu la namang gintu,
+014	at isulud yu la deting tambayuk karing telasingsing king katalindikingan na ning Kaban ban maging bitbitan kaniti.
+015	Ipilmi la deting tambayuk karing telasingsing; e la sukat lalako.
+016	Ilulan yu la kilub na ning Kaban ding aduang tinabas a batu a ibie ku, nung nukarin la makasulat ding kautusan.
+017	Gawa kayung takap a puru gintu; apat apulu't lima ya pulgada king kaba at aduang pulu't pitu ya pulgada king lapad.
+018	Gawa kayung aduang kerubin; pikpuk a gintu ing gamitan yu.
+019	Pitunggalan yu la karing mingatba nang danggut niting takap.
+019	Gawan yu la ita sanang makatuglung la king takap.
+020	Piyarapan yu la; kailangan ing makaladlad la pakpak, at makatas, ita sanang sasalilungan de ing takap.
+021	Ibili yu la kilub ning Kaban ding aduang tinabas a batu, at saka ye ibili ing takap babo na.
+022	Karin da ka pakikitan at karin king babo na ning takap, pilatan da ring aduang kerubin, ibie ku la keka ding sablang kautusan ku para karing memalen na ning Israel.
+023	Gawa kayung metung a lamesa king dutung a akasia; atlung pulu't anam ya pulgada king kaba, labing walu ya pulgada king lapad, at aduang pulu't pitu ya pulgada king katas.
+024	Balutanan yeng gintung puru at palamutian gintung listun king makapadurut.
+025	Igawa yeng sanepa a atlung pulgada katas bilang kulung na babo, at dinan ya namang palamuting gintu king makapadurut.
+026	Igawa yeng apat a gintung telasingsing, at ikabit yu la deti karing apat nang suluk babo da ring apat nang bitis.
+027	Ikabit yu la ding telasingsing malapit king listun a peka kuadru na para pisuluran karing tambayuk a pamitbit da king lamesa.
+028	Gawa kayung tambayuk king dutung a akasia at balutanan yu la namang gintu.
+028	Ila deti ring pamitbit king lamesa.
+029	Gawa kayu namang pinggan, kopa, saru, at silyo para king alak a iyain da.
+029	Gintung puru ing gamitan yu.
+030	Ibili ye iting lamesa king arap ning Kaban ning Kasunduan, at king babo lamesa sukat mika tinape a miyain para kanaku king kapilan pa man.
+031	Gawa kayung metung a tumpakan-sulu a puru gintu.
+031	Gumamit kayung pikpuk a gintu para king talpakan na angga karing sanga na.
+031	Ding palamuting bulaklak na pati na ding buku, at makabukadkad nang talulut niti sukat maging metung lang pirasu.
+032	Dinan meng anam a sanga karing mingatba nang dane, titlung sanga king balang dane.
+033	Ing balang metung karing anam nang sanga mika atlu yang buku a kalupa da ring sampagang almendrong maki buku at talulut.
+034	Ing mismung sanga na ning tumpakan-sulu mika apat ya namang bukung kayubug da ring sampagang almendrong maki buku at talulut.
+035	Mika metung a buku lalam ning balang metung karing atlung paris a sanga.
+036	Sukat lang makatuglung ding buku at ding sanga king tumpakan-sulu.
+036	Kailangan ing gewa ya king metung mung piesang puru at pikpuk a gintu.
+037	Igawa yeng pitung sulu iting tumpakan-sulu at ibili yu la babo; ita sanang makatangad la aslag papunta arap na.
+038	Gawan yu la naman king gintung puru ding pamatdang sulu at pisaluran.
+039	Gumamit kayung pitung pulu't limang librang gintung puru para king pamangawa yu kaniting tumpakan-sulu at karing miyayaliwa nang kasangkapan.
+040	Pagkapilitan mung magawa la ngan deti agpang king planung pepakit ku keka king bunduk.

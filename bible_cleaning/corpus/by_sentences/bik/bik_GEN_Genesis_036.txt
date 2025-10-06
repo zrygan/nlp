@@ -1,35 +1,48 @@
-Iyo ini an mga kapagarakian ni Esau na inaapod man Edom.
-Mga babaeng taga Canaan an saiyang inagom: Si Ada na aki ni Elon na Heteo, si Oholibama na aki ni Ana na aking lalaki ni Zibeon na Heveo, asin si Basemat na aki ni Ismael asin tugang ni Nebaiot.
-Namundag ki Ada si Elifaz; ki Basemat si Reuel; asin ki Oholibama si Jeus, Jalam saka si Kora.
-Ini an mga aki ni Esau na namundag saiya sa Canaan.
-Dangan dinara ni Esau an saiyang mga agom, an saiyang mga aking lalaki asin babae, an gabos na myembro kan saiyang harong sagkod an saiyang mga hayop saka rogaring na napasaiya sa daga nin Canaan, asin nagduman sa ibang daga na harayo sa tugang niyang si Jacob.
-Naghale siya huli ta an daga dai na nagkanigo sa saindang magtugang; dakul nang marahay an saindang mga hayop kaya dai na sinda pwedeng mag-erok sa parehong lugar.
-Kaya nag-erok si Esau sa mabulod na daga nin Edom.
-Iyo ini an mga kapagarakian ni Esau na ginikanan kan mga Edomeo.
-Ini an mga ngaran kan mga aking lalaki ni Esau sa saiyang mga agom: si Elifaz na aki ni Ada, si Reuel na aki ni Basemat.
-An mga aki ni Elifaz iyo si Teman, Omar, Zefo, Gatam asin Kenaz.
-Ki Timna na kasaroan ni Elifaz namundag si Amalek.
-Iyo ini an mga aking lalaki ni Esau ki Ada.
-An mga aking lalaki ni Reuel iyo si Nahat, Zera, Shamma, asin si Mizza.
-Iyo ini an mga aking lalaki ni Esau ki Basemat.
-An agom ni Esau na si Oholibama, na aking lalaki ni Ana, na aki ni Zibeon, nagkaigwa nin tolong aki: si Jeus, si Jalam asin si Kora.
-Iyo ini an mga pamayo na naggikan sa mga aki ni Esau.
-Sa matuang aking lalaki ni Esau na si Elifaz an mga pamayo iyo si Teman, Omar, Zefo, Kenaz, Kora, Gatam, asin Amalek.
-Sinda an mga aking lalaki ni Ada na agom ni Esau.
-An mga aking lalaki ni Reuel na aki ni Esau iyo si Nahat, Zera, Shamma, asin Mizza.
-Sinda an mga aking lalaki ni Basemat na agom ni Esau.
-Ini an mga aking lalaki ni Oholibama na aki ni Ana, na agom ni Esau: an mga pamayo iyo si Jeus, Jalam asin Kora.
-Sinda an mga aking lalaki ni Esau na inapod man Edom asin sinda an mga pamayo.
-An minasunod na mga aking lalaki ni Seir na Horeo iyo an ginikanan kan mga tawong enot na nag-erok sa Edom: si Lotan, Sobal, Zibeon, Ana, Dison, Ezer, asin si Disan.
-Si Lotan iyo an ama ni Hori asin ni Heman.
-Igwa siya nin tugang na babae na an ngaran Timna.
-An mga aking lalaki ni Sobal iyo si Alvan, Manahat, Ebal, Sefo, asin Onam.
-An mga aking lalaki ni Zibeon iyo si Aias asin si Ana.
-Iyo ini an Ana na nakahiling kan mainit na mga burabod sa kalangtadan kan binabantayan niya an mga asno kan ama niyang si Zibeon.
-Duwa an nagin aki ni Ana: sarong lalaki, si Dison, asin sarong babae, si Oholibama.
-An aking lalaki ni Dison iyo si Hemdan, Esban, Itran, asin Keran.
-An mga aking lalaki ni Ezer iyo si Bilhan, Zaavan, asin Akan.
-An mga aking lalaki ni Disan iyo si Uz saka si Aran.
-Ini an mga pamayo kan mga Horeo sa daga nin Edom: Lotan, Sobal, Zibeon, Ana, Dison, Ezer, asin Disan.
-An mga hadeng ini iyo an pasurunod-sunod na naghade sa Edom bago nagkaigwa nin hade sa Israel Si Bela na aking lalaki ni Beor na taga Dinhaba Si Jobab na aking lalaki ni Zera na taga Bozra Si Husam na hale sa rehiyon nin Teman Si Hadad na aking lalaki ni Bedad na taga Avit siya an nakadaog kan mga Midianita sa sarong gera sa daga nin Moab Si Samla na taga Masreka Si Shaul na taga Rehobot sa Eufrates Si Baal-hanan na aking lalaki ni Akbor Si Hadad na taga Pau an agom niya iyo si Mehetabel na aki ni Matred asin makoapo ni Mezahab Iyo ini an ngaran kan mga pamayong Edomeo na naggikan ki Esau: Timna, Alva, Jetet, Oholibama, Ela, Pinon, Kenaz, Teman, Mibzar, Magdiel, asin Iram.
-An dagang pinag-erokan kan lambang saro kaining mga pamayo namidbidan sa ngaran kan pamayo na nag-erok duman.
+verse	content
+001	Iyo ini an mga kapagarakian ni Esau na inaapod man Edom.
+002	Mga babaeng taga Canaan an saiyang inagom: Si Ada na aki ni Elon na Heteo, si Oholibama na aki ni Ana na aking lalaki ni Zibeon na Heveo,
+003	asin si Basemat na aki ni Ismael asin tugang ni Nebaiot.
+004	Namundag ki Ada si Elifaz; ki Basemat si Reuel;
+005	asin ki Oholibama si Jeus, Jalam saka si Kora.
+005	Ini an mga aki ni Esau na namundag saiya sa Canaan.
+006	Dangan dinara ni Esau an saiyang mga agom, an saiyang mga aking lalaki asin babae, an gabos na myembro kan saiyang harong sagkod an saiyang mga hayop saka rogaring na napasaiya sa daga nin Canaan, asin nagduman sa ibang daga na harayo sa tugang niyang si Jacob.
+007	Naghale siya huli ta an daga dai na nagkanigo sa saindang magtugang; dakul nang marahay an saindang mga hayop kaya dai na sinda pwedeng mag-erok sa parehong lugar.
+008	Kaya nag-erok si Esau sa mabulod na daga nin Edom.
+009	Iyo ini an mga kapagarakian ni Esau na ginikanan kan mga Edomeo.
+010	Ini an mga ngaran kan mga aking lalaki ni Esau sa saiyang mga agom: si Elifaz na aki ni Ada, si Reuel na aki ni Basemat.
+011	An mga aki ni Elifaz iyo si Teman, Omar, Zefo, Gatam asin Kenaz.
+012	Ki Timna na kasaroan ni Elifaz namundag si Amalek.
+012	Iyo ini an mga aking lalaki ni Esau ki Ada.
+013	An mga aking lalaki ni Reuel iyo si Nahat, Zera, Shamma, asin si Mizza.
+013	Iyo ini an mga aking lalaki ni Esau ki Basemat.
+014	An agom ni Esau na si Oholibama, na aking lalaki ni Ana, na aki ni Zibeon, nagkaigwa nin tolong aki: si Jeus, si Jalam asin si Kora.
+015	Iyo ini an mga pamayo na naggikan sa mga aki ni Esau.
+015	Sa matuang aking lalaki ni Esau na si Elifaz an mga pamayo iyo si Teman, Omar, Zefo, Kenaz,
+016	Kora, Gatam, asin Amalek.
+016	Sinda an mga aking lalaki ni Ada na agom ni Esau.
+017	An mga aking lalaki ni Reuel na aki ni Esau iyo si Nahat, Zera, Shamma, asin Mizza.
+017	Sinda an mga aking lalaki ni Basemat na agom ni Esau.
+018	Ini an mga aking lalaki ni Oholibama na aki ni Ana, na agom ni Esau: an mga pamayo iyo si Jeus, Jalam asin Kora.
+019	Sinda an mga aking lalaki ni Esau na inapod man Edom asin sinda an mga pamayo.
+020	An minasunod na mga aking lalaki ni Seir na Horeo iyo an ginikanan kan mga tawong enot na nag-erok sa Edom: si Lotan, Sobal, Zibeon, Ana, Dison, Ezer, asin si Disan.
+021	Si Lotan iyo an ama ni Hori asin ni Heman.
+021	Igwa siya nin tugang na babae na an ngaran Timna.
+022	An mga aking lalaki ni Sobal iyo si Alvan, Manahat, Ebal, Sefo, asin Onam.
+023	An mga aking lalaki ni Zibeon iyo si Aias asin si Ana.
+023	Iyo ini an Ana na nakahiling kan mainit na mga burabod sa kalangtadan kan binabantayan niya an mga asno kan ama niyang si Zibeon.
+024	Duwa an nagin aki ni Ana: sarong lalaki, si Dison, asin sarong babae, si Oholibama.
+025	An aking lalaki ni Dison iyo si Hemdan, Esban, Itran, asin Keran.
+026	An mga aking lalaki ni Ezer iyo si Bilhan, Zaavan, asin Akan.
+027	An mga aking lalaki ni Disan iyo si Uz saka si Aran.
+028	Ini an mga pamayo kan mga Horeo sa daga nin Edom: Lotan, Sobal, Zibeon, Ana, Dison, Ezer, asin Disan.
+029	An mga hadeng ini iyo an pasurunod-sunod na naghade sa Edom bago nagkaigwa nin hade sa Israel
+030	Si Bela na aking lalaki ni Beor na taga Dinhaba
+031	Si Jobab na aking lalaki ni Zera na taga Bozra
+032	Si Husam na hale sa rehiyon nin Teman
+033	Si Hadad na aking lalaki ni Bedad na taga Avit siya an nakadaog kan mga Midianita sa sarong gera sa daga nin Moab
+034	Si Samla na taga Masreka
+035	Si Shaul na taga Rehobot sa Eufrates
+036	Si Baal-hanan na aking lalaki ni Akbor
+037	Si Hadad na taga Pau an agom niya iyo si Mehetabel na aki ni Matred asin makoapo ni Mezahab
+038	Iyo ini an ngaran kan mga pamayong Edomeo na naggikan ki Esau: Timna, Alva, Jetet, Oholibama, Ela, Pinon, Kenaz, Teman, Mibzar, Magdiel, asin Iram.
+038	An dagang pinag-erokan kan lambang saro kaining mga pamayo namidbidan sa ngaran kan pamayo na nag-erok duman.

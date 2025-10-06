@@ -1,35 +1,37 @@
-Katapos hini, kinmadto han hadi han Ehipto hira Moises ug Aaron ngan nagsiring, Nasiring an Ginoo nga Dyos han Israel, Palakta an akon mga tawo, basi makagsaurog hira hin pyesta didto ha kamingawan ha pagpasidungog ha akon.
-Hin-o man ito nga an Ginoo ?
-pinmakiana an hadi.
-Kay ano nga mamamati ako ha iya ngan palalakton ko an Israel?
-Diri ako nakilala han Ginoo ; ngan diri ko palalakton an Israel.
-Binmaton hira Moises ug Aaron, Nagpadayag ha amon an Dyos han mga Hebreo.
-Tugoti kami hin paglakat hin tulo ka adlaw ngadto ha kamingawan basi maghalad kami hin mga halad nga tinubod ngadto han Ginoo nga amon Dyos.
-Kon diri kami maghalad, pamamatayon kami niya pinaagi hin sakit o hin araway.
-Nagsiring an hadi kanda Moises ug Aaron, Kay ano nga ginpapaundang niyo an mga tawo han ira trabaho?
-Pabalika ito nga mga oripon ngadto han trabaho!
-Darudamo na ngani kamo nga mga tawo kay han mga Ehiptohanon.
-Ngan yana karuyag na niyo umundang hin pagtrabaho!
-Hito manta nga adlaw ginsugo han hadi an mag-isog nga mga kapatas nga Ehiptohanon ngan an mga tinaporan nga mga Israelita, Ayaw na niyo pagtagi an mga tawo hin mga uhot nga hirimoon nga baldosa; hira ngahaw an papagbilnga hini.
-Kundi papaghimoa hira hin amo la gihapon kadamo nga mga baldosa kay han una ngan ayaw gud niyo pagpaibani.
-Kulang hira hin trabaho, sanglit naghihinangyo hira nga tugotan hira hin paglakat ngan paghalad hin mga halad nga tinubod ngadto han ira Dyos!
-Dugangi hin trabaho ini nga mga tawo ngan ayaw pahunonga hira hin pagtrabaho basi mawaray na nira panahon hin pamati hin mga buwa.
-Ginmawas an mag-isog nga mga kapatas han mga oripon ngan an mga tinaporan nga Israelita, ngan nagsiring hira ngadto han mga Israelita, Nagsiring an hadi nga diri na kamo niya tatagan hin mga uhot.
-Nasiring hiya nga kamo ngahaw an kinahanglan mamiling hini, bisan diin niyo hiaagii ini, kundi kinahanglan himoon gihapon niyo an sugad kadamo nga mga baldosa.
-Sanglit ginsahid han mga tawo an bug-os nga Ehipto hin pagbiling hin mga uhot.
-Ginpirit hira han mag-isog nga mga kapatas han mga oripon hin paghimo kada adlaw hin sugad gihapon kadamo nga mga baldosa han ira ginhimo hadto han gintatagan pa hira hin mga uhot.
-Ginhampak han mag-isog nga mga kapatas nga Ehiptohanon an mga tinaporan nga Israelita nga ira iginbutang nga tinaporan han trabaho ngan ginpakianhan hira, Kay ano nga diri kamo naghihimo hin sugad kadamo nga mga baldosa han iyo ginhimo hadto?
-Niyan kinmadto han hadi an mga tinaporan, ngan nagsumbong, Kay ano nga ginbubuhat mo ini ha amon, Harangdon nga Hadi?
-Diri kami tinatagan hin mga uhot kundi pinapahimo la gihapon kami hin mga baldosa!
-Ngan yana ginhahampak kami ngan aada ha imo an kasaypanan.
-Binmaton an hadi, Mga hubya kamo ngan diri kamo karuyag magtrabaho, sanglit naghahangyo kamo ha akon nga tugotan kamo hin pagkadto ngan paghalad hin mga halad nga tinubod ngadto han Ginoo .
-Hala, balik kamo dayon hin pagtrabaho!
-Diri kamo tatagan hin mga uhot, kundi kinahanglan maghimo kamo gihapon hin amo ngahaw nga kadamo nga mga baldosa.
-Hinsabtan han mga tinaporan nga makuri gud an ira kahimtang han pagsumati ha ira nga kinahanglan maghimo hira kada adlaw han sugad kadamo nga mga baldosa han ira ginhimo hadto.
-Han nabaya na hira, ira ginkatapo hira Moises ug Aaron, nga naghihinulat ha ira.
-Nagsiring hira kanda Moises ug Aaron, Hinkit-an han Ginoo an iyo ginbuhat ngan kakastigohon kamo kay gin-aghat niyo hin kasina ha amon an hadi ngan an iya mga opisyal hin kasina ha amon.
-Iyo tinagan hira hin pasangil hin pagpatay ha amon.
-Niyan binmalik na liwat ngadto han Ginoo hi Moises ngan nagsiring, Ginoo , kay ano nga ginpapag-antos mo an imo mga tawo?
-Kay ano nga ginpakanhi mo pa ako?
-Tikang la ako kumadto han hadi hin pakighimangraw para ha imo, iya na gintalumpigos hira.
-Ngan waray ka gud nabuhat hin pagbulig ha ira!
+verse	content
+001	Katapos hini, kinmadto han hadi han Ehipto hira Moises ug Aaron ngan nagsiring, Nasiring an Ginoo nga Dyos han Israel, Palakta an akon mga tawo, basi makagsaurog hira hin pyesta didto ha kamingawan ha pagpasidungog ha akon.
+002	Hin-o man ito nga an Ginoo ?
+002	pinmakiana an hadi.
+002	Kay ano nga mamamati ako ha iya ngan palalakton ko an Israel?
+002	Diri ako nakilala han Ginoo ; ngan diri ko palalakton an Israel.
+003	Binmaton hira Moises ug Aaron, Nagpadayag ha amon an Dyos han mga Hebreo.
+003	Tugoti kami hin paglakat hin tulo ka adlaw ngadto ha kamingawan basi maghalad kami hin mga halad nga tinubod ngadto han Ginoo nga amon Dyos.
+003	Kon diri kami maghalad, pamamatayon kami niya pinaagi hin sakit o hin araway.
+004	Nagsiring an hadi kanda Moises ug Aaron, Kay ano nga ginpapaundang niyo an mga tawo han ira trabaho?
+004	Pabalika ito nga mga oripon ngadto han trabaho!
+005	Darudamo na ngani kamo nga mga tawo kay han mga Ehiptohanon.
+005	Ngan yana karuyag na niyo umundang hin pagtrabaho!
+006	Hito manta nga adlaw ginsugo han hadi an mag-isog nga mga kapatas nga Ehiptohanon ngan an mga tinaporan nga mga Israelita,
+007	Ayaw na niyo pagtagi an mga tawo hin mga uhot nga hirimoon nga baldosa; hira ngahaw an papagbilnga hini.
+008	Kundi papaghimoa hira hin amo la gihapon kadamo nga mga baldosa kay han una ngan ayaw gud niyo pagpaibani.
+008	Kulang hira hin trabaho, sanglit naghihinangyo hira nga tugotan hira hin paglakat ngan paghalad hin mga halad nga tinubod ngadto han ira Dyos!
+009	Dugangi hin trabaho ini nga mga tawo ngan ayaw pahunonga hira hin pagtrabaho basi mawaray na nira panahon hin pamati hin mga buwa.
+010	Ginmawas an mag-isog nga mga kapatas han mga oripon ngan an mga tinaporan nga Israelita, ngan nagsiring hira ngadto han mga Israelita, Nagsiring an hadi nga diri na kamo niya tatagan hin mga uhot.
+011	Nasiring hiya nga kamo ngahaw an kinahanglan mamiling hini, bisan diin niyo hiaagii ini, kundi kinahanglan himoon gihapon niyo an sugad kadamo nga mga baldosa.
+012	Sanglit ginsahid han mga tawo an bug-os nga Ehipto hin pagbiling hin mga uhot.
+013	Ginpirit hira han mag-isog nga mga kapatas han mga oripon hin paghimo kada adlaw hin sugad gihapon kadamo nga mga baldosa han ira ginhimo hadto han gintatagan pa hira hin mga uhot.
+014	Ginhampak han mag-isog nga mga kapatas nga Ehiptohanon an mga tinaporan nga Israelita nga ira iginbutang nga tinaporan han trabaho ngan ginpakianhan hira, Kay ano nga diri kamo naghihimo hin sugad kadamo nga mga baldosa han iyo ginhimo hadto?
+015	Niyan kinmadto han hadi an mga tinaporan, ngan nagsumbong, Kay ano nga ginbubuhat mo ini ha amon, Harangdon nga Hadi?
+016	Diri kami tinatagan hin mga uhot kundi pinapahimo la gihapon kami hin mga baldosa!
+016	Ngan yana ginhahampak kami ngan aada ha imo an kasaypanan.
+017	Binmaton an hadi, Mga hubya kamo ngan diri kamo karuyag magtrabaho, sanglit naghahangyo kamo ha akon nga tugotan kamo hin pagkadto ngan paghalad hin mga halad nga tinubod ngadto han Ginoo .
+018	Hala, balik kamo dayon hin pagtrabaho!
+018	Diri kamo tatagan hin mga uhot, kundi kinahanglan maghimo kamo gihapon hin amo ngahaw nga kadamo nga mga baldosa.
+019	Hinsabtan han mga tinaporan nga makuri gud an ira kahimtang han pagsumati ha ira nga kinahanglan maghimo hira kada adlaw han sugad kadamo nga mga baldosa han ira ginhimo hadto.
+020	Han nabaya na hira, ira ginkatapo hira Moises ug Aaron, nga naghihinulat ha ira.
+021	Nagsiring hira kanda Moises ug Aaron, Hinkit-an han Ginoo an iyo ginbuhat ngan kakastigohon kamo kay gin-aghat niyo hin kasina ha amon an hadi ngan an iya mga opisyal hin kasina ha amon.
+021	Iyo tinagan hira hin pasangil hin pagpatay ha amon.
+022	Niyan binmalik na liwat ngadto han Ginoo hi Moises ngan nagsiring, Ginoo , kay ano nga ginpapag-antos mo an imo mga tawo?
+022	Kay ano nga ginpakanhi mo pa ako?
+023	Tikang la ako kumadto han hadi hin pakighimangraw para ha imo, iya na gintalumpigos hira.
+023	Ngan waray ka gud nabuhat hin pagbulig ha ira!

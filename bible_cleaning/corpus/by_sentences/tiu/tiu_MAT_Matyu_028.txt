@@ -1,37 +1,39 @@
-Ket ito nalabes sin to Algew Ngilin, ito gibegibet pekkem iya agsapa niya Duminggu, nawe siningen de Marya nga iMagdala se to isa pe nga Marya to tamen.
-Ket ya napasamac itun, uwed met nakabilbileg nga yegyeg.
-Ket nairana met yan iya panagdessag niya isa nga anghel ne Apu Diyus manipud ka langit.
-Ket nawe na nibukalig to dackel nga batu nga naigiset ito tamen, ket nagtugawan nan.
-Arig met nga kilawet ya darang nito anghel, se nakapurpuraw to luput na.
-Ket nagpilpilpig ngarudin dito guwardiya gapu ito ansing da ito anghel, ket arig da nga natey yin.
-Ket to anghel, kinunen na kadito babey, Madi kayu mansing.
-Emmuc nga sapsapulen nu nge Jesus nga nailansa ito krus.
-Awan met idi nin.
-Ta nagungarin, nga agten mettas ito kinunen na.
-Umbet nu singen to nakaipaidaan na itun.
-Ket se kayu gawaan ya mawe kadito adalan na, nga ipadamag nu igida nga agten idi: Nagungarin.
-Ket ita, mon-ona ngem dakayu nga mawe enna Galilya ngin.
-Masingen nu nad ngarud antuni, kunen nu kuma.
-Tandaanan nu ngarud yani nga nibagac dakayu, kunen nito anghel.
-Ket gapu ito nasingen se nagicna dito babey, naalistu da nga pimanawin ito edyan nito tamen, nga siaansing dan, se siaanggem da met pe yin.
-Ket nanagtag da nga nawe mangibaga kadito adalan ne Jesus.
-Ket ito uwed dito babey ito dalanin, uwed met iyanin nge Jesus nga simabet igida.
-Ket kinablaawan na da.
-Ket imadenni da ngarud e Jesus, nga nagparintumeng da nga nicman da diya saka na, ket nagdaydayaw da igina.
-Ket kinunen ne Jesus igida itun, Madi kayu kuma mansingin.
-Mawe kayu was ibaga kadiya kakabsat ku, nga mawe da kuma ka Galilya ngin.
-Ta ennan ya pakasingnan da nad iyaken, kunen na.
-Ito uwed pekkem mas dito babey ito dalan, uwed duduma kadito guwardiya nga nawe enna siyudad, nga nibaga da kadito pangpangulu diya agsirsirbi iya Templu amin nga napasamac itun.
-Ket dito pangpangulu diya agsirsirbi iya Templu, se dito panglakayen, nagiinnumanan da ngarudin.
-Ket nagtutulag da nga ecdan da ka adu nga kuwarta dito suldadu nga guwardiya, nga kinunen da igida, Ibaga nu kadiya toltoley nga inumbet dito pasurut na ito gabi nga linibas da to bangkay na ito matmatudug kayu, kunen nu, a.
-Ket no madamag nad niya gubernadur yani, ket dakami nad ya mangay-ayu igina tasun awan nad pakadanagan nu, kunen da.
-Ket inawat ngarud dito guwardiya to kuwarta, ket tinungpal da to naisuru igida.
-Ket iya agten iyan, to nipadamag dito guwardiya kadiya toltoley, itu pe yin ya is-istoryaen diya Hudyu orey ita pekkem nga timpu.
-Ket dito sangapulu ket isa nga adalan ne Jesus, nawe da ngarud itun ka Galilya, enna tageytey nga nisuru ne Jesus igida itun.
-Ket ito nasingen da nge Jesus antuni, nagparintumeng da ngarud nga nagdaydayaw igina.
-Ngem uwed da met duduma igida nga nagduwaduwa pekkem.
-Ket e Jesus, imadenni igidan, ket kinunen na igida, Naitalec iyaken amin nga turay nga uwed ka langit se iya lubung ngi.
-Itu nga mawe kayu kuma ngarud agpasurut kadiya toltoley kadiya amin nga pagpagiliyan, tasun umapu da iyaken.
-Bautisaran nu diya pasurut gapu iya turay nga uwed iya Ama, Anac, se iya Ispiritu Santu.
-Ket isuru nu da nga tungpalen da diya amin nga nibilin ku dakayu.
-Ket laglagipen nu kuma nga kabulun dac nga peyeng agingga iya panagpatingga nidi nga timpu, kunen na.
+verse	content
+001	Ket ito nalabes sin to Algew Ngilin, ito gibegibet pekkem iya agsapa niya Duminggu, nawe siningen de Marya nga iMagdala se to isa pe nga Marya to tamen.
+002	Ket ya napasamac itun, uwed met nakabilbileg nga yegyeg.
+002	Ket nairana met yan iya panagdessag niya isa nga anghel ne Apu Diyus manipud ka langit.
+002	Ket nawe na nibukalig to dackel nga batu nga naigiset ito tamen, ket nagtugawan nan.
+003	Arig met nga kilawet ya darang nito anghel, se nakapurpuraw to luput na.
+004	Ket nagpilpilpig ngarudin dito guwardiya gapu ito ansing da ito anghel, ket arig da nga natey yin.
+005	Ket to anghel, kinunen na kadito babey, Madi kayu mansing.
+005	Emmuc nga sapsapulen nu nge Jesus nga nailansa ito krus.
+006	Awan met idi nin.
+006	Ta nagungarin, nga agten mettas ito kinunen na.
+006	Umbet nu singen to nakaipaidaan na itun.
+007	Ket se kayu gawaan ya mawe kadito adalan na, nga ipadamag nu igida nga agten idi: Nagungarin.
+007	Ket ita, mon-ona ngem dakayu nga mawe enna Galilya ngin.
+007	Masingen nu nad ngarud antuni, kunen nu kuma.
+007	Tandaanan nu ngarud yani nga nibagac dakayu, kunen nito anghel.
+008	Ket gapu ito nasingen se nagicna dito babey, naalistu da nga pimanawin ito edyan nito tamen, nga siaansing dan, se siaanggem da met pe yin.
+008	Ket nanagtag da nga nawe mangibaga kadito adalan ne Jesus.
+009	Ket ito uwed dito babey ito dalanin, uwed met iyanin nge Jesus nga simabet igida.
+009	Ket kinablaawan na da.
+009	Ket imadenni da ngarud e Jesus, nga nagparintumeng da nga nicman da diya saka na, ket nagdaydayaw da igina.
+010	Ket kinunen ne Jesus igida itun, Madi kayu kuma mansingin.
+010	Mawe kayu was ibaga kadiya kakabsat ku, nga mawe da kuma ka Galilya ngin.
+010	Ta ennan ya pakasingnan da nad iyaken, kunen na.
+011	Ito uwed pekkem mas dito babey ito dalan, uwed duduma kadito guwardiya nga nawe enna siyudad, nga nibaga da kadito pangpangulu diya agsirsirbi iya Templu amin nga napasamac itun.
+012	Ket dito pangpangulu diya agsirsirbi iya Templu, se dito panglakayen, nagiinnumanan da ngarudin.
+012	Ket nagtutulag da nga ecdan da ka adu nga kuwarta dito suldadu nga guwardiya,
+013	nga kinunen da igida, Ibaga nu kadiya toltoley nga inumbet dito pasurut na ito gabi nga linibas da to bangkay na ito matmatudug kayu, kunen nu, a.
+014	Ket no madamag nad niya gubernadur yani, ket dakami nad ya mangay-ayu igina tasun awan nad pakadanagan nu, kunen da.
+015	Ket inawat ngarud dito guwardiya to kuwarta, ket tinungpal da to naisuru igida.
+015	Ket iya agten iyan, to nipadamag dito guwardiya kadiya toltoley, itu pe yin ya is-istoryaen diya Hudyu orey ita pekkem nga timpu.
+016	Ket dito sangapulu ket isa nga adalan ne Jesus, nawe da ngarud itun ka Galilya, enna tageytey nga nisuru ne Jesus igida itun.
+017	Ket ito nasingen da nge Jesus antuni, nagparintumeng da ngarud nga nagdaydayaw igina.
+017	Ngem uwed da met duduma igida nga nagduwaduwa pekkem.
+018	Ket e Jesus, imadenni igidan, ket kinunen na igida, Naitalec iyaken amin nga turay nga uwed ka langit se iya lubung ngi.
+019	Itu nga mawe kayu kuma ngarud agpasurut kadiya toltoley kadiya amin nga pagpagiliyan, tasun umapu da iyaken.
+019	Bautisaran nu diya pasurut gapu iya turay nga uwed iya Ama, Anac, se iya Ispiritu Santu.
+020	Ket isuru nu da nga tungpalen da diya amin nga nibilin ku dakayu.
+020	Ket laglagipen nu kuma nga kabulun dac nga peyeng agingga iya panagpatingga nidi nga timpu, kunen na.

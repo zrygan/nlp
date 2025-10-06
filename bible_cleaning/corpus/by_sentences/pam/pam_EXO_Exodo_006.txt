@@ -1,51 +1,53 @@
-Kanita ngana ning Ginu kang Moises, Akit mu mu rin nung nanu ing daptan ku king ari.
-Mapilit yang palakuan na la.
-Puersan keng itabi na la king kayarian na.
-Migsalita ya ing Dios kang Moises.
-Ngana, Aku ing Ginu .
-Pepakit ku kang Abraham, kang Isaac, at kang Jacob bilang Dios a Mayupayang tutu, oneng e ke pepabalu karela king ing lagyu ku Ginu .
-Ginawa ku namang kasunduan karela at pengaku ku karela king ibie ke ing Canaan, ing gabun nung nu la mekipamalen bilang dayuan.
-Dimdam ku ing saingsing da ring Israelitang inipusan da ring tau Ehipto at aganaka ke ing kasunduan ku.
-Inya sabian mu karing Israelita king iti ya ing sasabian ku karela, Aku ing Ginu , iligtas da kayu king kasakitan a daralanan yu karing gamat da ring tau Ehipto.
-Ilako da kayu king panga-ipus yu karela.
-Ipagpa ku karela ing bayat ning pamamarusa ku at sagipan da kayu.
-Gawan da kayung sarili kung memalen, at aku ing maging Dios yu.
-Abalu yu kanita king aku ing Ginung kekayung Dios a migligtas kekayu king panga-ipus yu Ehipto.
-Idala da kayu king gabun a tapat kung pengakung ibie kang Abraham, Isaac, at Jacob.
-Ibie ke kekayu iting gabun at maging bandi ye.
-Aku ing Ginu .
-Sinabi nang Moises iti karing Israelita, oneng e la bisang makiramdam uling mengaina na la at tutung mabayat ing kasakitan a daralanan da.
-Kanita ngana ning Ginu kang Moises, Sulung, sabian mu king ari ning Ehipto king paintulutan na lang mako ding Israelita king kayarian na.
-Pekibat nang Moises, Den mang pung Israelita e la mekiramdam kanaku, ing ari pa kaya?
-E ku pu talagang biasang magsalita.
-Ngana ning Ginu kang Moises at Aaron, Sabian yu karing Israelita at king ari ning Ehipto king inutusan da kayu ban panimunan yu lang ilual Ehipto ding Israelita.
-I Ruben, ing pangane nang Jacob, atin yang apat a anak a lalaki.
-Ila di Hanok, Pallu, Hezron, at Carmi.
-Ila ding penibatan da ring pamilyang magdala king lagyu ra.
-Mikayanak ne mang anam a lalaki i Simeon.
-Ila deti: Jemuel, Jamin, Ohad, Jakin, Zohar, at i Saul a ayanak na king babaing tau Canaan.
-Ila deti ring penibatan da ring pamilyang magdala king lagyu ra.
-Atlu la ding anak nang lalaking Levi: i Gerson, i Kohat, at i Merari.
-Ila deti ring penibatan da ring pamilyang magdala king lagyu ra.
-Miras yang dinalan atlung pulu't pitung banua i Levi.
-Mikayanak yang aduang lalaki i Gerson: i Libni at i Simei at deti dakal la meging lahi.
-Mika apat ne mang anak a lalaki i Kohat: i Amram, i Izar, i Hebron, at i Uziel.
-Mebie yang dinalan atlung pulu't atlung banua i Kohat.
-Mikayanak yang aduang lalaki i Merari: i Mahli at i Musi.
-Ila deti ring pamilya nang Levi a lahi na.
-Ayasawa neng Amram i Jokebed, ing kapatad nang babaing tata na, at ayanak da la ri Aaron at Moises.
-Mebie yang dinalan atlung pulu't pitung banua i Amram.
-Mikayanak yang atlung lalaki i Izar: i Kora, i Nefeg, at i Zikri.
-Mikayanak ya namang atlung lalaki i Uziel: i Misael, i Elsafan, at i Sitri.
-Mekiasawa ya i Aaron kang Eliseba a kapatad nang Nason at anak nang Aminadab.
-Ayanak da la ri Nadab, Abihu, Eleazar, at i Itamar.
-Atin yang atlung anak a lalaki i Kora; ila di Asir, Elkana, at i Abiasaf.
-Ila deti ring meging bunga na ning pamilya nang Kora.
-Mekapakiasawa ya i Eleazar a anak nang Aaron king metung karing anak nang Futiel, at ayanak de i Fineas.
-Ila deti ring buntuk ding pamilya at pamilya na ning tribu nang Levi.
-I Aaron at i Moises ila kabud ding inutusan na ning Dios ban panimunan la at ilual Ehipto ding Israelita, agpang king tribu da.
-Ila naman ding sinabi king ari ning Ehipto king palakuan na na la Ehipto ding Israelita.
-Migsalita ya ing Ginu kang Moises kanitang atyu ya karin king bansa ning Ehipto.
-Ngana, Aku ing Ginu .
-Sabian mu king ari ning Ehipto ing sablang sabian ku keka.
-Nganang tinutul Moises, Makananu na ku pung pakiramdaman ning ari ning Ehipto ngening e na ku man biasang magsalita?
+verse	content
+001	Kanita ngana ning Ginu kang Moises, Akit mu mu rin nung nanu ing daptan ku king ari.
+001	Mapilit yang palakuan na la.
+001	Puersan keng itabi na la king kayarian na.
+002	Migsalita ya ing Dios kang Moises.
+002	Ngana, Aku ing Ginu .
+003	Pepakit ku kang Abraham, kang Isaac, at kang Jacob bilang Dios a Mayupayang tutu, oneng e ke pepabalu karela king ing lagyu ku Ginu .
+004	Ginawa ku namang kasunduan karela at pengaku ku karela king ibie ke ing Canaan, ing gabun nung nu la mekipamalen bilang dayuan.
+005	Dimdam ku ing saingsing da ring Israelitang inipusan da ring tau Ehipto at aganaka ke ing kasunduan ku.
+006	Inya sabian mu karing Israelita king iti ya ing sasabian ku karela, Aku ing Ginu , iligtas da kayu king kasakitan a daralanan yu karing gamat da ring tau Ehipto.
+006	Ilako da kayu king panga-ipus yu karela.
+006	Ipagpa ku karela ing bayat ning pamamarusa ku at sagipan da kayu.
+007	Gawan da kayung sarili kung memalen, at aku ing maging Dios yu.
+007	Abalu yu kanita king aku ing Ginung kekayung Dios a migligtas kekayu king panga-ipus yu Ehipto.
+008	Idala da kayu king gabun a tapat kung pengakung ibie kang Abraham, Isaac, at Jacob.
+008	Ibie ke kekayu iting gabun at maging bandi ye.
+008	Aku ing Ginu .
+009	Sinabi nang Moises iti karing Israelita, oneng e la bisang makiramdam uling mengaina na la at tutung mabayat ing kasakitan a daralanan da.
+010	Kanita ngana ning Ginu kang Moises,
+011	Sulung, sabian mu king ari ning Ehipto king paintulutan na lang mako ding Israelita king kayarian na.
+012	Pekibat nang Moises, Den mang pung Israelita e la mekiramdam kanaku, ing ari pa kaya?
+012	E ku pu talagang biasang magsalita.
+013	Ngana ning Ginu kang Moises at Aaron, Sabian yu karing Israelita at king ari ning Ehipto king inutusan da kayu ban panimunan yu lang ilual Ehipto ding Israelita.
+014	I Ruben, ing pangane nang Jacob, atin yang apat a anak a lalaki.
+014	Ila di Hanok, Pallu, Hezron, at Carmi.
+014	Ila ding penibatan da ring pamilyang magdala king lagyu ra.
+015	Mikayanak ne mang anam a lalaki i Simeon.
+015	Ila deti: Jemuel, Jamin, Ohad, Jakin, Zohar, at i Saul a ayanak na king babaing tau Canaan.
+015	Ila deti ring penibatan da ring pamilyang magdala king lagyu ra.
+016	Atlu la ding anak nang lalaking Levi: i Gerson, i Kohat, at i Merari.
+016	Ila deti ring penibatan da ring pamilyang magdala king lagyu ra.
+016	Miras yang dinalan atlung pulu't pitung banua i Levi.
+017	Mikayanak yang aduang lalaki i Gerson: i Libni at i Simei at deti dakal la meging lahi.
+018	Mika apat ne mang anak a lalaki i Kohat: i Amram, i Izar, i Hebron, at i Uziel.
+018	Mebie yang dinalan atlung pulu't atlung banua i Kohat.
+019	Mikayanak yang aduang lalaki i Merari: i Mahli at i Musi.
+019	Ila deti ring pamilya nang Levi a lahi na.
+020	Ayasawa neng Amram i Jokebed, ing kapatad nang babaing tata na, at ayanak da la ri Aaron at Moises.
+020	Mebie yang dinalan atlung pulu't pitung banua i Amram.
+021	Mikayanak yang atlung lalaki i Izar: i Kora, i Nefeg, at i Zikri.
+022	Mikayanak ya namang atlung lalaki i Uziel: i Misael, i Elsafan, at i Sitri.
+023	Mekiasawa ya i Aaron kang Eliseba a kapatad nang Nason at anak nang Aminadab.
+023	Ayanak da la ri Nadab, Abihu, Eleazar, at i Itamar.
+024	Atin yang atlung anak a lalaki i Kora; ila di Asir, Elkana, at i Abiasaf.
+024	Ila deti ring meging bunga na ning pamilya nang Kora.
+025	Mekapakiasawa ya i Eleazar a anak nang Aaron king metung karing anak nang Futiel, at ayanak de i Fineas.
+025	Ila deti ring buntuk ding pamilya at pamilya na ning tribu nang Levi.
+026	I Aaron at i Moises ila kabud ding inutusan na ning Dios ban panimunan la at ilual Ehipto ding Israelita, agpang king tribu da.
+027	Ila naman ding sinabi king ari ning Ehipto king palakuan na na la Ehipto ding Israelita.
+028	Migsalita ya ing Ginu kang Moises kanitang atyu ya karin king bansa ning Ehipto.
+029	Ngana, Aku ing Ginu .
+029	Sabian mu king ari ning Ehipto ing sablang sabian ku keka.
+030	Nganang tinutul Moises, Makananu na ku pung pakiramdaman ning ari ning Ehipto ngening e na ku man biasang magsalita?

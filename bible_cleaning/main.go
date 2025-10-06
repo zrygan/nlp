@@ -130,6 +130,26 @@ func splitSentencesInCorpus() {
 	}
 }
 
+func getWebscrape() {
+	chapterLimit, bibles, corpusSizes := initialize()
+
+	cleaningTuples := types.TurnToRegexpsTuple([]types.FindReplaceTuple[string]{
+		{
+			Find:    `[^a-zA-Z0-9\s\.\,\;\:\!\?\'\"-]+`,
+			Replace: "",
+		}, {
+			Find:    `[:\s]+$`,
+			Replace: "",
+		}, {
+			Find:    `^[\d#:\s]+`,
+			Replace: "",
+		},
+	})
+
+	webscrapeBibles(bibles, corpusSizes, cleaningTuples, chapterLimit)
+
+}
+
 // getCorpus orchestrates the entire process of webscraping and corpus generation
 func getCorpus() {
 	// 1189 is the chapterLimit number of chapters in the English Bible
@@ -168,6 +188,8 @@ func main() {
 	switch os.Args[1] {
 	case "corpus":
 		getCorpus()
+	case "webscrape":
+		getWebscrape()
 	case "split":
 		splitSentencesInCorpus()
 	case "parallel":

@@ -1,25 +1,27 @@
-Mibalhin si Abraham gikan sa Mamre ngadto sa Negeb ug mipuyo siya sa tungatunga sa Cades ug Shur.
-Samtang nagpuyo siya sa Gerar, nagpatuo siya kanila nga igsoon niya si Sara nga iyang asawa.
-Busa si Sara gipakuha ni Abimelec, ang hari sa Gerar.
-Usa ka gabii niana, mipakita ang Dios kang Abimelec pinaagi sa usa ka damgo ug miingon, Mamatay ka kay minyo si Sara nga imong gikuha.
-Apan wala pa makahilabot si Abimelec kang Sara ug miingon si Abimelec, Ginoo , patyon mo ba diay ako ug ang akong katawhan nga walay sala?
-Miingon man gud si Abraham nga si Sara iyang igsoon ug si Sara miingon usab nga si Abraham iyang igsoon, busa gihimo ko kini ubos sa pagtuo nga dili daotan ang gibuhat ko.
-Mitubag ang Dios pinaagi gihapon sa damgo, Tinuod, gibuhat mo kini nga walay daotang tuyo.
-Busa aron dili ka makasala kanako, wala ko ikaw tugoti sa paghilabot kaniya.
-Apan iuli karon ang babaye ngadto sa iyang bana kay ang iyang bana propeta ug iampo ka niya aron dili ka mamatay.
-Apan kon ang babaye dili mo iuli, pasidan-an ko ikaw nga mamatay ka gayod ug ang tanan mong katawhan.
-Busa sayo sa buntag gipatawag ni Abimelec ang tanan niyang mga sulugoon.
-Gisuginlan niya sila mahitungod niining mga butanga ug nangahadlok sila pag-ayo.
-Unya gipaatubang ni Abimelec si Abraham ug gipangutana, Nganong gibuhat mo man kini kanamo?
-Unsay daotan nga akong nahimo kanimo aron ako ug ang akong gingharian dad-an mog dakong kadaot nga dili gayod angay mong buhaton kanako?
-Nganong gibuhat mo man kini?
-Si Abraham mitubag, Nagtuo man gud ako nga dinhi wala gayoy nahadlok sa Dios ug nga ila akong patyon aron mailog nila ang akong asawa.
-Ang tinuod mao nga siya akong igsoon kay anak man siya sa akong amahan apan dili sa akong inahan ug gipangasawa ko siya.
-Busa sa pagpadala sa Dios kanako gikan sa balay sa akong amahan ngadto sa laing nasod, giingnan ko si Sara, Bisag asa kita ingna nga igsoon mo ako ug pinaagi niini ikapakita mo ang imong pagkamaunongon kanako.
-Unya giuli ni Abimelec si Sara ngadto kang Abraham ug gihatagan usab siyag mga karnero, mga baka ug mga ulipon.
-Giingnan niya si Abraham, Ania ang tibuok kong yuta, makapuyo ka dinhi bisag asa.
-Giingnan niya si Sara, Hatagan ko ang imong igsoon ug 1,000 ka salapi nga plata.
-Kini maoy ilhanan alang sa tanan mong kauban nga wala ko ikaw kahilabti ug masayran sa tanan nga wala kay nabuhat nga daotan.
-Gihimo sa Ginoo nga dili manganak ang tanang babaye sa panimalay ni Abimelec tungod sa nahitabo kang Sara nga asawa ni Abraham.
-Busa nag-ampo si Abraham alang kang Abimelec ug giayo siya sa Dios.
-Giayo usab ang iyang asawa ug ang iyang mga ulipon nga babaye aron sila manganak.
+verse	content
+001	Mibalhin si Abraham gikan sa Mamre ngadto sa Negeb ug mipuyo siya sa tungatunga sa Cades ug Shur.
+001	Samtang nagpuyo siya sa Gerar,
+002	nagpatuo siya kanila nga igsoon niya si Sara nga iyang asawa.
+002	Busa si Sara gipakuha ni Abimelec, ang hari sa Gerar.
+003	Usa ka gabii niana, mipakita ang Dios kang Abimelec pinaagi sa usa ka damgo ug miingon, Mamatay ka kay minyo si Sara nga imong gikuha.
+004	Apan wala pa makahilabot si Abimelec kang Sara ug miingon si Abimelec, Ginoo , patyon mo ba diay ako ug ang akong katawhan nga walay sala?
+005	Miingon man gud si Abraham nga si Sara iyang igsoon ug si Sara miingon usab nga si Abraham iyang igsoon, busa gihimo ko kini ubos sa pagtuo nga dili daotan ang gibuhat ko.
+006	Mitubag ang Dios pinaagi gihapon sa damgo, Tinuod, gibuhat mo kini nga walay daotang tuyo.
+006	Busa aron dili ka makasala kanako, wala ko ikaw tugoti sa paghilabot kaniya.
+007	Apan iuli karon ang babaye ngadto sa iyang bana kay ang iyang bana propeta ug iampo ka niya aron dili ka mamatay.
+007	Apan kon ang babaye dili mo iuli, pasidan-an ko ikaw nga mamatay ka gayod ug ang tanan mong katawhan.
+008	Busa sayo sa buntag gipatawag ni Abimelec ang tanan niyang mga sulugoon.
+008	Gisuginlan niya sila mahitungod niining mga butanga ug nangahadlok sila pag-ayo.
+009	Unya gipaatubang ni Abimelec si Abraham ug gipangutana, Nganong gibuhat mo man kini kanamo?
+009	Unsay daotan nga akong nahimo kanimo aron ako ug ang akong gingharian dad-an mog dakong kadaot nga dili gayod angay mong buhaton kanako?
+010	Nganong gibuhat mo man kini?
+011	Si Abraham mitubag, Nagtuo man gud ako nga dinhi wala gayoy nahadlok sa Dios ug nga ila akong patyon aron mailog nila ang akong asawa.
+012	Ang tinuod mao nga siya akong igsoon kay anak man siya sa akong amahan apan dili sa akong inahan ug gipangasawa ko siya.
+013	Busa sa pagpadala sa Dios kanako gikan sa balay sa akong amahan ngadto sa laing nasod, giingnan ko si Sara, Bisag asa kita ingna nga igsoon mo ako ug pinaagi niini ikapakita mo ang imong pagkamaunongon kanako.
+014	Unya giuli ni Abimelec si Sara ngadto kang Abraham ug gihatagan usab siyag mga karnero, mga baka ug mga ulipon.
+015	Giingnan niya si Abraham, Ania ang tibuok kong yuta, makapuyo ka dinhi bisag asa.
+016	Giingnan niya si Sara, Hatagan ko ang imong igsoon ug 1,000 ka salapi nga plata.
+016	Kini maoy ilhanan alang sa tanan mong kauban nga wala ko ikaw kahilabti ug masayran sa tanan nga wala kay nabuhat nga daotan.
+017	Gihimo sa Ginoo nga dili manganak ang tanang babaye sa panimalay ni Abimelec tungod sa nahitabo kang Sara nga asawa ni Abraham.
+017	Busa nag-ampo si Abraham alang kang Abimelec ug giayo siya sa Dios.
+017	Giayo usab ang iyang asawa ug ang iyang mga ulipon nga babaye aron sila manganak.

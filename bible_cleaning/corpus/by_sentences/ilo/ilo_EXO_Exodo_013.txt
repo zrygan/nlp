@@ -1,34 +1,36 @@
-Kinuna ni Yahweh ken ni Moises, Idatonyo kaniak dagiti amin nga inauna nga annak a lallaki iti Israel.
-Kukuak ida, tao man wenno animal.
-Kinuna ni Moises kadagiti tattao, Laglagipenyo daytoy nga aldawti aldaw nga ipapanawyo idiay Egipto, a nakatagabuanyo.
-Daytoy ti aldaw nga inruarnakayo ti Apo babaen iti dakkel a pannakabalinna.
-Dikay mangan iti tinapay nga adda lebadurana.
-Panawanyo ti Egipto ita nga aldaw, iti umuna a bulan, iti bulan ti Abib.
-Inkari ti Apo kadagiti kapuonanyo nga itedna kadakayo ti daga dagiti Cananeo, Heteo, Amorreo, Heveo ken Jebuseo.
-Nabaknang ken nabunga dayta a daga.
-Inton ipannakay iti dayta a daga, tinawen a rambakanyo daytoy a fiesta iti umuna a bulan.
-Iti las-ud ti pito nga aldaw, mangankay iti tinapay nga awan lebadurana; iti maikapito nga aldaw, agfiestakayo iti maipaay iti Apo .
-Pito nga aldaw a mangankayo iti tinapay nga awan lebadurana; masapul nga awan ti tinapay nga adda lebadurana wenno lebadura a masarakan iti dagayo.
-Inton mangrugi ti fiesta, ibagayo kadagiti annakyo nga aramidenyo daytoy kas panglagip iti panangispal ti Apo kadakayo idi impanawnakayo idiay Egipto.
-Agbalinto daytoy a fiesta a pakalaglagipan kas iti maiputipot iti imayo wenno iti mugingyo; ipalagipnanto kadakayo nga itultuloyyo a basaen ken adalen ti Linteg ti Apo , gapu ta inruarnakayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
-Tinawen a rambakanyo daytoy a fiesta iti naituding a tiempo.
-Intuloy ni Moises, Ipannakayto ti Apo iti daga dagiti Cananeo nga insapatana nga ited kadakayo ken kadagiti kapuonanyo.
-Inton maitedna kadakayo dayta a daga, idatonyonto kenkuana ti amin nga inauna a lallaki.
-Kukua ti Apo ti amin nga inauna nga annak a lallaki dagiti animalyo.
-Ngem masapul a subbotenyonto ti amin nga inauna a kalakian nga urbon ti asno babaen iti panangidatonyo iti urbon a karnero.
-No diyo kayat a subboten, rungdoenyo ti tengngedna.
-Masapul a subbotenyo ti inauna a lalaki nga anakyo.
-Iti masakbayan, no saludsodento ti anakyo no ania ti kayat a sawen daytoy, kunayonto, Babaen iti dakkel a pannakabalinna, inruarnakami ti Apo idiay Egipto, ti lugar a nakatagabuanmi.
-Idi impatangken ti ari ti Egipto a dinakami palubosan, pinatay ti Apo ti amin nga inauna nga anak a lalaki iti daga ti Egipto, tao ken animal.
-Daytoy ti gapuna nga idatontayo iti Apo ti amin nga inauna nga anak a lalaki dagiti animal, ngem subbotentayo ti inauna a lalaki nga anaktayo.
-Agbalinto daytoy a pakalaglagipan, kas maysa a banag a maiputipot iti imatayo wenno iti mugingtayo; ipalagipnanto kadatayo nga inruarnatayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
-Idi pinalubosan ti ari ti Egipto a pumanaw dagiti Israelita, saan nga inturong ti Dios ida iti dalan iti igid ti baybay nga agpa-Filistia, nupay as-asideg a pagnaenda.
-Kinuna ti Dios, Diak kayat nga agbabawi dagiti tattao ket agsublida idiay Egipto inton maammoanda a masapul a makigubatda.
-Inlikawna ida nga impan idiay let-ang nga agturong iti Nalabaga a Baybay.
-Siaarmas dagiti Israelita ket nakasaganada a makigubat.
-Intugot ni Moises dagiti tulang ni Jose ta pinagsapata idi ni Jose dagiti Israelita nga aramidenda ti kasta.
-Inton ispalennakayo ti Dios, kinuna idi ni Jose, ket panawanyo daytoy a lugar, itugotyonto dagiti tultulangko.
-Pinanawanda ti Succot ket nagkampoda idiay Etam iti igid ti let-ang.
-Iti aldaw, indalan ida ni Yahweh babaen iti monmon nga ulep ket iti rabii, lawaganna ida babaen iti monmon nga apuy.
-Iti kasta, mabalinda ti magna iti aldaw ken iti rabii.
-Adda latta ti monmon nga ulep iti sangoanan dagiti tattao iti aldaw ken ti monmon nga apuy iti rabii.
+verse	content
+001	Kinuna ni Yahweh ken ni Moises, Idatonyo kaniak dagiti amin nga inauna nga annak a lallaki iti Israel.
+001	Kukuak ida, tao man wenno animal.
+002	Kinuna ni Moises kadagiti tattao, Laglagipenyo daytoy nga aldawti aldaw nga ipapanawyo idiay Egipto, a nakatagabuanyo.
+002	Daytoy ti aldaw nga inruarnakayo ti Apo babaen iti dakkel a pannakabalinna.
+002	Dikay mangan iti tinapay nga adda lebadurana.
+003	Panawanyo ti Egipto ita nga aldaw, iti umuna a bulan, iti bulan ti Abib.
+004	Inkari ti Apo kadagiti kapuonanyo nga itedna kadakayo ti daga dagiti Cananeo, Heteo, Amorreo, Heveo ken Jebuseo.
+004	Nabaknang ken nabunga dayta a daga.
+004	Inton ipannakay iti dayta a daga, tinawen a rambakanyo daytoy a fiesta iti umuna a bulan.
+005	Iti las-ud ti pito nga aldaw, mangankay iti tinapay nga awan lebadurana; iti maikapito nga aldaw, agfiestakayo iti maipaay iti Apo .
+006	Pito nga aldaw a mangankayo iti tinapay nga awan lebadurana; masapul nga awan ti tinapay nga adda lebadurana wenno lebadura a masarakan iti dagayo.
+007	Inton mangrugi ti fiesta, ibagayo kadagiti annakyo nga aramidenyo daytoy kas panglagip iti panangispal ti Apo kadakayo idi impanawnakayo idiay Egipto.
+008	Agbalinto daytoy a fiesta a pakalaglagipan kas iti maiputipot iti imayo wenno iti mugingyo; ipalagipnanto kadakayo nga itultuloyyo a basaen ken adalen ti Linteg ti Apo , gapu ta inruarnakayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
+009	Tinawen a rambakanyo daytoy a fiesta iti naituding a tiempo.
+010	Intuloy ni Moises, Ipannakayto ti Apo iti daga dagiti Cananeo nga insapatana nga ited kadakayo ken kadagiti kapuonanyo.
+010	Inton maitedna kadakayo dayta a daga,
+011	idatonyonto kenkuana ti amin nga inauna a lallaki.
+011	Kukua ti Apo ti amin nga inauna nga annak a lallaki dagiti animalyo.
+012	Ngem masapul a subbotenyonto ti amin nga inauna a kalakian nga urbon ti asno babaen iti panangidatonyo iti urbon a karnero.
+012	No diyo kayat a subboten, rungdoenyo ti tengngedna.
+012	Masapul a subbotenyo ti inauna a lalaki nga anakyo.
+013	Iti masakbayan, no saludsodento ti anakyo no ania ti kayat a sawen daytoy, kunayonto, Babaen iti dakkel a pannakabalinna, inruarnakami ti Apo idiay Egipto, ti lugar a nakatagabuanmi.
+014	Idi impatangken ti ari ti Egipto a dinakami palubosan, pinatay ti Apo ti amin nga inauna nga anak a lalaki iti daga ti Egipto, tao ken animal.
+014	Daytoy ti gapuna nga idatontayo iti Apo ti amin nga inauna nga anak a lalaki dagiti animal, ngem subbotentayo ti inauna a lalaki nga anaktayo.
+015	Agbalinto daytoy a pakalaglagipan, kas maysa a banag a maiputipot iti imatayo wenno iti mugingtayo; ipalagipnanto kadatayo nga inruarnatayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
+016	Idi pinalubosan ti ari ti Egipto a pumanaw dagiti Israelita, saan nga inturong ti Dios ida iti dalan iti igid ti baybay nga agpa-Filistia, nupay as-asideg a pagnaenda.
+016	Kinuna ti Dios, Diak kayat nga agbabawi dagiti tattao ket agsublida idiay Egipto inton maammoanda a masapul a makigubatda.
+017	Inlikawna ida nga impan idiay let-ang nga agturong iti Nalabaga a Baybay.
+018	Siaarmas dagiti Israelita ket nakasaganada a makigubat.
+019	Intugot ni Moises dagiti tulang ni Jose ta pinagsapata idi ni Jose dagiti Israelita nga aramidenda ti kasta.
+019	Inton ispalennakayo ti Dios, kinuna idi ni Jose, ket panawanyo daytoy a lugar, itugotyonto dagiti tultulangko.
+020	Pinanawanda ti Succot ket nagkampoda idiay Etam iti igid ti let-ang.
+021	Iti aldaw, indalan ida ni Yahweh babaen iti monmon nga ulep ket iti rabii, lawaganna ida babaen iti monmon nga apuy.
+021	Iti kasta, mabalinda ti magna iti aldaw ken iti rabii.
+022	Adda latta ti monmon nga ulep iti sangoanan dagiti tattao iti aldaw ken ti monmon nga apuy iti rabii.

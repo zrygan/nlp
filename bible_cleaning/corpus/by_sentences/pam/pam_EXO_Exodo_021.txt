@@ -1,36 +1,43 @@
-Ibie mu la karing Israelita deting tuntunan Nung sali kang ipus a lalaking Hebreo, suyuan na ka niti king anam a banua.
-Malyari na na kang lakuan king kapitung banua; dinan meng kalayaan at ala yang bayaran nanuman.
-Nung e ya talasawa kanitang miras ya keka bilang ipus, mako ya namang alang asawa; nung dinatang ya keka a talasawa na, tuki ya ing asawa na potang malaya ne.
-Nung kabang ipus ya iting lalaki, pekiasawa ne ning panginuan na at mikayanak ya king ayasawa na, ing asawa na at ding anak maging bandi na la ning panginuan; mako yang dili na ing lalaking ipus.
-Nung sabian na ning ipus king kaluguran ne ing panginuan na, ing asawa na, ding anak na, at e ya bisang maging malaya, ituki ne kanita ning panginuan ing ipus king lugal a pisasamban king Dios.
-Karas da karin tairan ne king pasbul o kaya king amba na ning pasbul, at karin ne busbusan a balugbug.
-Maging ipus na ne kanita kabang bie.
-Nung pisali ne bilang ipus ning metung a tata ing anak nang babai, e ne malyaring dinan kalayaan anti ding ipus a lalaki.
-Nung ing sinali buri neng maging asawa na at kaybat e ne kaluguran, malyari neng payatbus king tata na ning babai.
-E ne malyaring pisali karing dayuan, uling e ya meging tapat ing sinali.
-Nung telaga na ne man ning sinali ban ayasawa ne ning anak nang lalaki, ituring neng sarili nang anak.
-Nung makiasawa yang kadua ing lalaki, e ne sukat babawasan a sustentu ing minuna nang ayasawa, maging king pamangan, imalan o ing katuliran bilang asawa na.
-Kabud pigkait na la king minuna nang ayasawa deting katungkulan na, ing asawa nang iti malaya yang mako; ala yang bayaran nanuman para king kalayaan na king panginuan na.
-Ninuman ing dugpa gamat king metung a tau at kemate na iti, sukat yang paten ing mekamate.
-Nung e na sasarian at e ne seriang apate, malyari yang salikut ing mekapate ketang lugal a ituldu ku keka at e re ananu balang karin.
-Nung ing ninuman, king mua na seria neng pete ing kalupa nang tau, sukat yang paten agyang pang mulayi yang salikut king kakung altar.
-Paten ya ing ninumang dugpa gamat kang tata na o kang ima na.
-Paten ya ing ninumang dumukut tau ban pisali ne o kaya gawan neng sarili nang ipus.
-Paten ya ing ninumang lapastangan kang tata na o kang ima na.
-Nung ating mipapate at ing metung apanasakit ne king metung a batu o king tumbuk, oneng e na ne man apate, ala yang pakibatan ing mekapanasakit.
-Nung ing taung menasakit e ya makalakad, kaybat makabangun ya at makalakad makatukud, sukat neng bayaranan nitang mekapanasakit ketang panaun nang mesira at kailangan neng paulu angga king kumayap ya.
-Nung pelupalu ne ning panginuan ing ipus na, lalaki ya man o babai, at mete ya ing ipus, sukat yang parusan ing mekapate.
-Nung ing ipus ikua na pang mebie metung o aduang aldo, ala yang pakibatan ing panginuan.
-Ing pangamate na ning ipus sapat nang kaparusan king panginuan.
-Nung apanasakit de king pamipate ra ding lalaki ing metung a babaing mabuktut at mekikuan ya uli na nita, pero e ne man mepinsala king makananu mang paralan, sukat yang mamayaran ing taung mekatud king aduan ning asawa na ning babai at mamayaran ya agpang king desisyun da ring ukum.
-Nung mepinsala ya ing babai, bayaran bie ing bie, ing mata king mata, ing ipan king ipan, ing gamat king gamat, ing bitis king bitis, ing mepali king mepali, ing sugat king sugat, at ing galus king galus.
-Nung tiran ne mata ning ninuman ing ipus nang lalaki o babai at mebulag ya, sukat neng dinan kalayaan bilang kabayaran para king mata.
-Nung atanggal ne ipan ing ipus nang lalaki o babai, sukat neng dinan kalayaan ing ipus bilang kabayaran king ipan na.
-Nung asagu ne ning toro ing metung a tau at mete ya, sukat yang paten ing toro king basibas at e sukat kanan ing karni na; ala neng pakibatan ing makibandi king toro.
-Nung king milabas dakal ne segu at nung mirinan neng abiso ing makibandi at e ne pa kilung iti, nung wari't mekapate yang tau iting toro, paten ya king basibas at paten ya naman ing makibandi.
-Makanyan man, nung papamayaran dia mung multa ing makibandi bilang panatbus king bie na, bayaran na ing alaga a aduan da.
-Nung mekasagu ya ing toro at mekapate anak a lalaki o babai, ing mesabing tuntunan ya mu rin ing tukian.
-Nung ing segu na ning toro metung yang ipus a lalaki o babai, mamayaran yang atlung pulung pirasung pilak ing makibandi king makibandi king ipus at basibasan yang batu ing toro angga king mate ya.
-Nung lakuan neng alang takap ning ninuman ing talaga na o nung kaybat nang ginawang talaga e ne tikpan at mipaintagun ing metung a baka o kaya asno menabu ya karin, sukat yang mamayaran ing makibandi king talaga; bayaranan ne ing makibandi king animal at miyabie ya king maki bandi king talaga ing mete animal.
-Nung pete ne ning baka na ning metung a tau ing baka na ning aliwang tau, pisali de ring makibandi ing baka a mabie at pipitnan da la ring abli; pipitnan dia naman ing mete baka.
-Nung pikabaluan king dakal ne segu king milabas at e ne pa kilung ning makibandi, mamayaran yang mabie baka king apate na, pero miyabie ya ing bakang mete king makibandi.
+verse	content
+001	Ibie mu la karing Israelita deting tuntunan
+002	Nung sali kang ipus a lalaking Hebreo, suyuan na ka niti king anam a banua.
+002	Malyari na na kang lakuan king kapitung banua; dinan meng kalayaan at ala yang bayaran nanuman.
+003	Nung e ya talasawa kanitang miras ya keka bilang ipus, mako ya namang alang asawa; nung dinatang ya keka a talasawa na, tuki ya ing asawa na potang malaya ne.
+004	Nung kabang ipus ya iting lalaki, pekiasawa ne ning panginuan na at mikayanak ya king ayasawa na, ing asawa na at ding anak maging bandi na la ning panginuan; mako yang dili na ing lalaking ipus.
+005	Nung sabian na ning ipus king kaluguran ne ing panginuan na, ing asawa na, ding anak na, at e ya bisang maging malaya,
+006	ituki ne kanita ning panginuan ing ipus king lugal a pisasamban king Dios.
+006	Karas da karin tairan ne king pasbul o kaya king amba na ning pasbul, at karin ne busbusan a balugbug.
+006	Maging ipus na ne kanita kabang bie.
+007	Nung pisali ne bilang ipus ning metung a tata ing anak nang babai, e ne malyaring dinan kalayaan anti ding ipus a lalaki.
+008	Nung ing sinali buri neng maging asawa na at kaybat e ne kaluguran, malyari neng payatbus king tata na ning babai.
+008	E ne malyaring pisali karing dayuan, uling e ya meging tapat ing sinali.
+009	Nung telaga na ne man ning sinali ban ayasawa ne ning anak nang lalaki, ituring neng sarili nang anak.
+010	Nung makiasawa yang kadua ing lalaki, e ne sukat babawasan a sustentu ing minuna nang ayasawa, maging king pamangan, imalan o ing katuliran bilang asawa na.
+011	Kabud pigkait na la king minuna nang ayasawa deting katungkulan na, ing asawa nang iti malaya yang mako; ala yang bayaran nanuman para king kalayaan na king panginuan na.
+012	Ninuman ing dugpa gamat king metung a tau at kemate na iti, sukat yang paten ing mekamate.
+013	Nung e na sasarian at e ne seriang apate, malyari yang salikut ing mekapate ketang lugal a ituldu ku keka at e re ananu balang karin.
+014	Nung ing ninuman, king mua na seria neng pete ing kalupa nang tau, sukat yang paten agyang pang mulayi yang salikut king kakung altar.
+015	Paten ya ing ninumang dugpa gamat kang tata na o kang ima na.
+016	Paten ya ing ninumang dumukut tau ban pisali ne o kaya gawan neng sarili nang ipus.
+017	Paten ya ing ninumang lapastangan kang tata na o kang ima na.
+018	Nung ating mipapate at ing metung apanasakit ne king metung a batu o king tumbuk, oneng e na ne man apate, ala yang pakibatan ing mekapanasakit.
+018	Nung ing taung menasakit e ya makalakad,
+019	kaybat makabangun ya at makalakad makatukud, sukat neng bayaranan nitang mekapanasakit ketang panaun nang mesira at kailangan neng paulu angga king kumayap ya.
+020	Nung pelupalu ne ning panginuan ing ipus na, lalaki ya man o babai, at mete ya ing ipus, sukat yang parusan ing mekapate.
+021	Nung ing ipus ikua na pang mebie metung o aduang aldo, ala yang pakibatan ing panginuan.
+021	Ing pangamate na ning ipus sapat nang kaparusan king panginuan.
+022	Nung apanasakit de king pamipate ra ding lalaki ing metung a babaing mabuktut at mekikuan ya uli na nita, pero e ne man mepinsala king makananu mang paralan, sukat yang mamayaran ing taung mekatud king aduan ning asawa na ning babai at mamayaran ya agpang king desisyun da ring ukum.
+023	Nung mepinsala ya ing babai, bayaran bie ing bie,
+024	ing mata king mata, ing ipan king ipan, ing gamat king gamat, ing bitis king bitis,
+025	ing mepali king mepali, ing sugat king sugat, at ing galus king galus.
+026	Nung tiran ne mata ning ninuman ing ipus nang lalaki o babai at mebulag ya, sukat neng dinan kalayaan bilang kabayaran para king mata.
+027	Nung atanggal ne ipan ing ipus nang lalaki o babai, sukat neng dinan kalayaan ing ipus bilang kabayaran king ipan na.
+028	Nung asagu ne ning toro ing metung a tau at mete ya, sukat yang paten ing toro king basibas at e sukat kanan ing karni na; ala neng pakibatan ing makibandi king toro.
+029	Nung king milabas dakal ne segu at nung mirinan neng abiso ing makibandi at e ne pa kilung iti, nung wari't mekapate yang tau iting toro, paten ya king basibas at paten ya naman ing makibandi.
+030	Makanyan man, nung papamayaran dia mung multa ing makibandi bilang panatbus king bie na, bayaran na ing alaga a aduan da.
+031	Nung mekasagu ya ing toro at mekapate anak a lalaki o babai, ing mesabing tuntunan ya mu rin ing tukian.
+032	Nung ing segu na ning toro metung yang ipus a lalaki o babai, mamayaran yang atlung pulung pirasung pilak ing makibandi king makibandi king ipus at basibasan yang batu ing toro angga king mate ya.
+033	Nung lakuan neng alang takap ning ninuman ing talaga na o nung kaybat nang ginawang talaga e ne tikpan at mipaintagun ing metung a baka o kaya asno menabu ya karin,
+034	sukat yang mamayaran ing makibandi king talaga; bayaranan ne ing makibandi king animal at miyabie ya king maki bandi king talaga ing mete animal.
+035	Nung pete ne ning baka na ning metung a tau ing baka na ning aliwang tau, pisali de ring makibandi ing baka a mabie at pipitnan da la ring abli; pipitnan dia naman ing mete baka.
+036	Nung pikabaluan king dakal ne segu king milabas at e ne pa kilung ning makibandi, mamayaran yang mabie baka king apate na, pero miyabie ya ing bakang mete king makibandi.
