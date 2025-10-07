@@ -300,3 +300,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Shape Files
+.shape/
