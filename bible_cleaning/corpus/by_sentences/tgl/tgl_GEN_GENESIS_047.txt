@@ -1,0 +1,51 @@
+verse	content
+001	Kaya't pumunta si Jose sa Faraon at sinabi, Ang aking ama, ang aking mga kapatid, ang kanilang mga kawan, mga bakahan, at ang lahat nilang pag-aari, ay dumating na mula sa lupain ng Canaan.
+001	Sila ngayon ay nasa lupain ng Goshen.
+002	Kumuha siya ng limang kalalakihan mula sa kanyang mga kapatid at kanyang iniharap sila sa Faraon.
+003	Sinabi ng Faraon sa kanyang mga kapatid, Ano ang inyong hanapbuhay?
+003	At kanilang sinabi sa Faraon, Ang iyong mga lingkod ay mga pastol, gaya ng aming mga ninuno.
+004	Kanilang sinabi sa Faraon, Pumarito kami upang manirahan bilang dayuhan sa lupain.
+004	Walang pastulan para sa mga kawan na pag-aari ng iyong mga lingkod sapagkat ang taggutom ay matindi sa lupain ng Canaan.
+004	Ngayon ay pahintulutan mo na ang iyong mga lingkod ay manirahan sa lupain ng Goshen.
+005	Pagkatapos ay sinabi ng Faraon kay Jose, Ang iyong ama at ang iyong mga kapatid ay pumarito sa iyo.
+006	Ang lupain ng Ehipto ay nasa harapan mo; patirahin mo ang iyong ama at ang iyong mga kapatid sa pinakamabuti sa lupain, patirahin mo sila sa lupain ng Goshen at kung may alam ka sa kanilang may kakayahan, gawin mo silang mga tagapamahala ng aking mga hayop.
+007	Kaya't isinama ni Jose si Jacob na kanyang ama at pinatayo niya sa harapan ng Faraon, at binasbasan ni Jacob ang Faraon.
+008	Sinabi ng Faraon kay Jacob, Gaanong karami na ang mga araw ng mga taon ng iyong buhay?
+009	Sinabi ni Jacob sa Faraon, Ang mga taon ng aking paninirahan sa lupa ay isandaan at tatlumpung taon; kakaunti at masasama ang naging mga taon ng aking buhay.
+009	Hindi iyon maihahambing sa mga taon ng buhay ng aking mga ninuno sa panahon ng kanilang mahabang pamumuhay.
+010	At binasbasan ni Jacob ang Faraon at umalis sa harapan ng Faraon.
+011	Pinatira ni Jose ang kanyang ama at ang kanyang mga kapatid, at sila'y binigyan ng lugar sa lupain ng Ehipto, sa pinakamabuti sa lupain, sa lupain ng Rameses, gaya ng iniutos ng Faraon.
+012	Binigyan ni Jose ng pagkain ang kanyang ama, ang kanyang mga kapatid, at ang buong sambahayan ng kanyang ama, ayon sa bilang ng kanilang mga anak.
+013	Noon ay walang pagkain sa buong lupain sapagkat matindi ang taggutom, at ang lupain ng Ehipto at ang lupain ng Canaan ay nanghina dahil sa taggutom.
+014	Kaya't tinipon ni Jose ang lahat ng salapi na natagpuan sa lupain ng Ehipto at Canaan, kapalit ng trigong kanilang binibili at ipinasok ni Jose ang salapi sa bahay ng Faraon.
+015	Nang ang salapi ay maubos nang lahat sa lupain ng Ehipto at Canaan, pumunta kay Jose ang lahat ng mga Ehipcio, at nagsabi, Bigyan mo kami ng pagkain, bakit kami mamamatay sa iyong harapan?
+015	Sapagkat ang aming salapi ay naubos na.
+016	Sinabi ni Jose, Ibigay ninyo ang inyong mga hayop; at bibigyan ko kayo kapalit ng inyong mga hayop, kung naubos na ang salapi.
+017	Kaya't dinala nila ang kanilang mga hayop kay Jose, at binigyan sila ni Jose ng pagkain kapalit ng mga kabayo, mga kawan, mga bakahan, at mga asno.
+017	Nang taong iyon, sila'y kanyang binigyan ng pagkain kapalit ng lahat nilang mga hayop.
+018	Nang matapos ang taong iyon ay muli silang pumunta sa kanya nang ikalawang taon.
+018	Sinabi nila sa kanya, Hindi namin maililihim sa aming panginoon na ang pilak at mga kawan ng hayop ay naubos na at ang mga kawan ng hayop ay sa aking panginoon na.
+018	Wala nang naiiwan sa paningin ng aking panginoon kundi ang aming katawan at ang aming mga lupain.
+019	Dapat ba kaming mamatay sa inyong harapan, kami at ang aming lupain?
+019	Bilhin mo kami at ang aming mga lupain kapalit ng pagkain, at kami at ang aming lupain ay magiging mga alipin sa Faraon.
+019	Bigyan mo kami ng binhi, upang kami ay mabuhay at huwag mamatay, upang ang lupain ay huwag maging walang laman.
+020	Kaya't binili ni Jose ang buong lupain ng Ehipto para sa Faraon.
+020	Ipinagbili ng bawat isa sa mga Ehipcio ang kanyang bukid, sapagkat matindi para sa kanila ang taggutom.
+020	Kaya't ang lupain ay naging sa Faraon.
+021	At tungkol sa mga tao, kanyang ginawa silang mga alipin mula sa isang dulo ng hangganan ng Ehipto hanggang sa kabilang dulo.
+022	Tanging ang lupa lamang ng mga pari ang hindi niya binili, sapagkat ang Faraon ay nagtakda ng bahagi para sa mga pari at karaniwang kumakain sila mula sa bahagi na ibinibigay sa kanila ng Faraon.
+022	Dahil dito, hindi nila ipinagbili ang kanilang lupa.
+023	Nang magkagayo'y sinabi ni Jose sa bayan, Ngayo'y binili ko kayo sa araw na ito at ang inyong mga lupa para sa Faraon.
+023	Narito ang binhi para sa inyo; hasikan ninyo ang lupa.
+024	Sa panahon ng inyong pag-aani ay ibibigay ninyo ang ikalimang bahagi sa Faraon, at ang apat na bahagi ay para sa inyo, para sa binhi sa bukid at bilang pagkain ninyo, ng inyong mga kasambahay, at ng inyong mga anak.
+025	Kanilang sinabi, Iniligtas mo ang aming buhay; kung gugustuhin ng aking panginoon, kami ay magiging mga alipin ng Faraon.
+026	Kaya't ginawang kautusan ni Jose sa lupain ng Ehipto hanggang sa araw na ito na ang ikalimang bahagi ay para kay Faraon.
+026	Tanging ang lupa ng mga pari ang hindi naging kay Faraon.
+027	Kaya't si Israel ay nanirahan sa lupain ng Ehipto, sa lupain ng Goshen; at sila'y nagkaroon ng mga pag-aari roon, at sumagana at naging napakarami.
+028	Si Jacob ay nanirahan sa lupain ng Ehipto ng labimpitong taon; kaya't ang mga araw ni Jacob, ang mga taon ng kanyang buhay, ay isandaan at apatnapu't pitong taon.
+029	Nang ang araw ng kamatayan ni Israel ay malapit na, tinawag niya ang kanyang anak na si Jose, at sinabi sa kanya, Kung ako ngayon ay makakatagpo ng biyaya sa iyong paningin, hinihiling ko na ilagay mo ang iyong kamay sa ilalim ng aking hita, at mangako kang maging tapat at tunay sa akin.
+029	Huwag mo akong ililibing sa Ehipto.
+030	Kapag ako'y humimlay na kasama ng aking mga ninuno, ilabas mo ako mula sa Ehipto, at ilibing mo ako sa kanilang libingan.
+030	At sinabi ni Jose, Aking gagawin ang ayon sa iyong sinabi.
+031	Kanyang sinabi, Sumumpa ka sa akin; at sumumpa siya sa kanya.
+031	At yumuko si Israel sa ulunan ng kanyang higaan.

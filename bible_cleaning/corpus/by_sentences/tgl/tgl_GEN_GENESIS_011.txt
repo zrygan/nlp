@@ -1,0 +1,41 @@
+verse	content
+001	Noon, ang buong lupa ay iisa ang wika at magkakatulad ang salita.
+002	Sa kanilang paglalakbay sa silangan, nakatagpo sila ng isang kapatagan sa lupain ng Shinar, at sila'y tumira doon.
+003	At sinabi nila sa isa't isa, Halikayo!
+003	Tayo'y gumawa ng mga tisa at ating lutuing mabuti.
+003	At ang kanilang bato ay tisa at alkitran ang kanilang semento.
+004	Sinabi nila, Halikayo!
+004	Magtayo tayo ng isang lunsod at isang tore na ang taluktok nito ay hanggang sa langit, at gumawa tayo ng pangalan para sa ating mga sarili, baka tayo magkawatak-watak sa ibabaw ng buong lupa.
+005	Bumaba ang Panginoon upang tingnan ang lunsod at ang tore na itinayo ng mga anak ng mga tao.
+006	At sinabi ng Panginoon , Tingnan ninyo, sila'y iisang bayan at may isang wika; at ito ay pasimula pa lamang ng kanilang gagawin, at ngayon, walang makakapigil sa anumang kanilang binabalak gawin.
+007	Halikayo!
+007	Tayo'y bumaba at ating guluhin ang kanilang wika, upang hindi nila maunawaan ang pananalita ng bawat isa.
+008	Kaya't ikinalat sila ng Panginoon mula roon sa ibabaw ng buong lupa, at huminto sila sa pagtatayo ng lunsod.
+009	Kaya't ang ipinangalan dito ay Babel, sapagkat doon ay ginulo ng Panginoon ang wika ng buong lupa, at mula roon ay ikinalat sila ng Panginoon sa ibabaw ng buong lupa.
+010	Ito ang mga salinlahi ni Sem.
+010	May isandaang taong gulang si Sem nang maging anak si Arfaxad, dalawang taon pagkatapos ng baha.
+011	Nabuhay si Sem ng limandaang taon pagkatapos na maipanganak si Arfaxad, at nagkaanak pa ng mga lalaki at mga babae.
+012	Nang si Arfaxad ay tatlumpu't limang taon, naging anak niya si Shela.
+013	Nabuhay si Arfaxad ng apatnaraan at tatlong taon pagkatapos na maipanganak si Shela, at nagkaanak pa ng mga lalaki at mga babae.
+014	Nabuhay si Shela ng tatlumpung taon, at naging anak si Eber.
+015	Nabuhay si Shela ng apatnaraan at tatlumpung taon pagkatapos na maipanganak si Eber, at nagkaanak pa ng mga lalaki at mga babae.
+016	Nabuhay si Eber ng tatlumpu't apat na taon, at naging anak si Peleg.
+017	Nabuhay si Eber ng apatnaraan at tatlumpung taon pagkatapos na maipanganak si Peleg, at nagkaanak pa ng mga lalaki at mga babae.
+018	Nabuhay si Peleg ng tatlumpung taon, at naging anak si Reu.
+019	Nabuhay si Peleg ng dalawang daan at siyam na taon pagkatapos na maipanganak si Reu, at nagkaanak pa ng mga lalaki at mga babae.
+020	Nabuhay si Reu ng tatlumpu't dalawang taon, at naging anak si Serug.
+021	Nabuhay si Reu ng dalawang daan at pitong taon pagkatapos na maipanganak si Serug, at nagkaanak pa ng mga lalaki at mga babae.
+022	Nabuhay si Serug ng tatlumpung taon, at naging anak si Nahor.
+023	Nabuhay si Serug ng dalawang daang taon pagkatapos maipanganak si Nahor, at nagkaanak pa ng mga lalaki at mga babae.
+024	Nabuhay si Nahor ng dalawampu't siyam na taon, at naging anak si Terah.
+025	Nabuhay si Nahor ng isandaan at labinsiyam na taon pagkatapos na maipanganak si Terah, at nagkaanak pa ng mga lalaki at mga babae.
+026	At nabuhay si Terah ng pitumpung taon, at naging anak sina Abram, Nahor at Haran.
+027	Ito ang mga lahi ni Terah.
+027	Naging anak ni Terah sina Abram, Nahor, at Haran; at naging anak ni Haran si Lot.
+028	Unang namatay si Haran kaysa sa kanyang amang si Terah sa lupaing kanyang tinubuan, sa Ur ng mga Caldeo.
+029	At nagsipag-asawa sina Abram at Nahor.
+029	Ang pangalan ng asawa ni Abram ay Sarai, at ang pangalan ng asawa ni Nahor ay Milca, na anak na babae ni Haran na ama nina Milca at Iscah.
+030	At si Sarai ay baog; siya'y walang anak.
+031	Isinama ni Terah si Abram na kanyang anak, at si Lot na anak ni Haran, na anak ng kanyang anak, at si Sarai na kanyang manugang na asawa ni Abram na kanyang anak at sama-samang umalis sa Ur ng mga Caldeo upang magtungo sa lupain ng Canaan.
+031	Dumating sila sa Haran, at nanirahan doon.
+032	At ang mga naging araw ni Terah ay dalawandaan at limang taon, at namatay si Terah sa Haran.

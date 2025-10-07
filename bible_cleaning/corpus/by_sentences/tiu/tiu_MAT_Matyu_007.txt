@@ -1,0 +1,58 @@
+verse	content
+001	Madi kayu kuma pabasulen ya kapada nu, tasun madi kayu kuma pe mapabasul.
+002	Ta no kumaan niya inget niya panangusig nu, agten iyan nad met ya pannakausig nu.
+002	Se no kumaan niya panangaasi nu, agten iyan nad met ya pannakakaasi nu.
+003	Ape nga dellawem ya puling nga uwed iya mata niya kapadam, ngem madi ka met madlaw ya tabla nga uwed iya mismu nga matam?
+004	Ket bayat niya kauwed pekkem niya tabla iya matam, ape nga kunem iya kapadam nga, Da, ta ipac ku ya puling mu?
+005	Ay!
+005	Aginlilinteg ka met no agten iyan!
+005	Ta masapul nga ipac mu pekkem nga mona ya tabla nga uwed iya mismu nga matam, tasun nabatad ya panagsingem nga mangipac iya puling nga uwed iya mata niya kapadam.
+006	Ket no maipanggep kadiya maipaay e Apu Diyus, madi nu ngarud ipalak-am kadiya maibilang nga asu.
+006	Kaiyarigan na pe ya perlas nga alahas.
+006	Madi kayu ngarud ipalladaw diya perlas iya sangu diya maiyarig nga abuy, ta kaynun no gudgudlan da nga silulucsew, se dakayu ngas ranggasan.
+007	No uwed masapul nu, agadeng kayu kuma e Apu Diyus, ket maecdan kayu ngarud.
+007	Agsapul kayu, ket makasmac kayu ngarud.
+007	Agtogtog kayu, ket mailukat ya ruwangan dakayu.
+008	Ta amin nga agadeng, maecdan da.
+008	Ket ya agsapul, makasmac.
+008	Ket ya agtogtog, mailukat ngarud para igina ya ruwangan.
+009	Ket kaspagarigan pe no dakayu nga lalaki, no uwed agadeng nga anac mu ka tinapay, bekken met nga batu ya ecdem igina!
+010	Winno no lames kuma ya adngen na, malaga aya ya ecdem igina?
+010	Bekken met!
+011	Ngarud, orey dakayu nga toley nga uwed kinadakec na, emmu nu met latta ya mangecde ka nabaru kadiya anac nu.
+011	Ket no ya Ama nu nga uwed ka langit, di ngarud nangnangruna ya panangecde na ka nabaru kadiya agadeng igina?
+012	Ket iya agten iyan, ya gabay nu nga mawangel kuma dakayu, itu kuma ya wanglen nu mettas iya kapada nu.
+012	Ta itu ya kaipapennan niya sursuru iya Linteg nito Muyses se ya panursuru dito mammadtu.
+013	No maipanggep iya pannakaiturung iya biyag nga ecde ne Apu Diyus, maiyarig iya ruwangan.
+013	Ket ya nailet nga ruwangan kuma ngarud ya umuneggan nu.
+013	Ta ya ruwangan nga nawaya, se ya dalan nga nalaka, itu nga gennung ya mawe iya agnanayun nga pakapukawan, ket adu met diya toltoley nga lumnec iyan nga ruwangan.
+014	Ngem ya ruwangan nga mawe iya biyag nga ecde ne Apu Diyus, nailet nga gennung, se narigat met ya dalan, ket eteng ngas diya toley nga makasmac idi.
+015	Agannad kayu ngarud, ta uwed da met busid nga mangikaskasaba kanu ka kagi ne Apu Diyus, nga makapagparang dakayu nga arig nga karneru nga nanacman.
+015	Ngem ya kinapudnu na, agten da met iya atap nga asu nga nauyung.
+016	Ngem gapu iya pagbanagan niya ugali da, mailasin nu da.
+016	Ta agten mettas iya panangilasin kadiya mula: Bekken met nga maburas ka narasi nga mula ya bisic ubas, se bekken pe nga maburas ka narasi nga ruut ya bisic igus.
+017	Ket agten pe iyan ya kayu: Diya nabaru nga kayu, mamisic da met ka napaw-is.
+017	Ngem diya kayu nga uwed sakit da, mamisic da nga gennung ka dakec.
+018	Ngarud, madi mabalin nga mamisic ka dakec ya kayu nga nabaru.
+018	Ket ya kayu nga uwed sakit na, madi met mabalin nga mamisic ka napaw-is.
+019	Ket diya kayu nga madi makabisic ka napaw-is, macleng se maitemsit ka apuy.
+020	Ket iya agten met pe iyan, diya busid nga mangasaba, mailasin nu da gapu iya pagbanagan niya ugali da.
+021	Ket bekken nga amin nga mangawag iyaken ya makalak-am nad iya panangituray niya Nailangitan, orey diya agkunen iyaken nga, Apuc, Apuc.
+021	Ta diyan nas tutu nga agtungpal iya tarigagay niya Amac nga uwed ka langit diya makalak-am nad iya panangituray na.
+022	Ket nad no panangukum iya modi nga timpu, adu nad diya agkunen iyaken nga, Apu!
+022	Apu!
+022	Ape di nakami alac?
+022	Ket ya nagan mu mettas ya inusar mi ito panangikasaba mi iya kagim!
+022	Se nangpatalew kami met pe ka sairu gapu iya nagan mu, se adu met diya nakaskasdaaw nga inariman mi gapu iya panangusar mi iya nagan mu, kunen da nad met.
+023	Ket ibagac nad met igida, Pulus nga madi nakayu em-emmu.
+023	Agtalew kayu lugud idi nin, dakayu nga managdacdakec!
+023	kunec nad mettas.
+024	Dikad pe amin nga dumngeg kadidi nga kagic se agtungpal kadidi, maiyarig da met iya isa nga nasirib nga toley nga nangipasikad ka baley na iya pinas.
+025	Ket itun, nagudan, naglayus se nagbelluut, ket nadalapus yan nga baley.
+025	Ngem madi met narogpac, ta batu met ya nangisaadan na.
+026	Ngem diya toley nga agdengngeg kadidi nga kagic, ngem madi da met tungpalen, ket maiyarig da met iya isa nga toley nga awan pannakaawat na, nga nangipasikad ka baley na iya laplapuc nga edyan.
+027	Ket itun, nagudan, naglayus se nagbelluut, ket nadalapus met ya baley na.
+027	Ket narogpac nga pudnu win, kunen na.
+028	Ket nalpasin nge Jesus itun nga nangisuru kadiyan.
+028	Ket diya toltoley, nasdaaw da ngarud iya panangisuru na,
+029	ta naturay met ya panangisuru na, nga bekken nga agten iya panangisuru diya manursuru iya Linteg antuni.

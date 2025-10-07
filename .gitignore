@@ -30,6 +30,11 @@ go.work.sum
 .idea/
 .vscode/
 
+corpus/by_verses/
+corpus/by_sentences/
+
+.tsv
+
 # LaTeX
 *.acn
 *.acr

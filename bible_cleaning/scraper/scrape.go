@@ -10,7 +10,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-
+	"strconv"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly"
 	"github.com/zrygan.nlp/bible_cleaning/types"
@@ -76,10 +76,23 @@ func saveChapter(lang types.LanguageClass, chapterName string, verses []string, 
 	for _, tuple := range cleaningTuples {
 		url = tuple.Find.ReplaceAllString(url, tuple.Replace.String())
 	}
-	url = regexp.MustCompile(`(...)`).FindString(url)
 
-	chapterClean := regexp.MustCompile(`[^a-zA-Z0-9_-]+`).ReplaceAllString(chapterName, "_")
-	filename := fmt.Sprintf("%s_%s_%s.txt", lang.Language, url, chapterClean)
+	// extract chapter number string
+	chapterStr := regexp.MustCompile(`([0-9]+)`).FindString(url)
+
+	// convert to int
+	chapterNum, _ := strconv.Atoi(chapterStr)
+
+	// format with leading zeroes, e.g. 3 digits
+	chapterNumberPadded := fmt.Sprintf("%03d", chapterNum)
+
+	CleanUniversalName := regexp.MustCompile(`(...)`).FindString(url)
+
+	bookClean := regexp.MustCompile(`[^a-zA-Z0-9_-]+`).ReplaceAllString(chapterName, "_")
+	bookClean = regexp.MustCompile(`[_0-9]+`).ReplaceAllString(bookClean, "")
+
+
+	filename := fmt.Sprintf("%s_%s_%s_%s.txt", lang.Language, CleanUniversalName, bookClean, chapterNumberPadded)
 	filePath := filepath.Join(lang.OutputDir, filename)
 
 	if err := os.MkdirAll(lang.OutputDir, os.ModePerm); err != nil {
@@ -300,13 +313,9 @@ func ConcurrentWebscrapeAndParse(
 		go BFSWebscrape(ctx)
 	}
 
-	// closer
-	go func() {
-		tasks.Wait()
-		close(urlCh)
-	}()
 
 	// wait until all workers finish
 	tasks.Wait()
+	close(urlCh)
 	return int(totalWordCount)
 }

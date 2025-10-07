@@ -1,0 +1,42 @@
+verse	content
+001	Amo ini an lista han mga tulin ni Adan.
+001	Han pagtuhaa han Dyos han mga tawo, iya ginhimo hira nga ladawan han Dyos.
+002	Iya gintuha hira nga lalake ug babaye, ginbendisyonan hira, ngan ginngaranan hira nga Tawo.
+003	Han 130 na an panuigon ni Adan, nagkamay-ada hiya usa nga anak nga lalake nga supo gud ha iya, ngan iya ginngaranan nga Set.
+004	Kahuman katawo ni Set, nabuhi pa hi Adan hin 800 ka tuig.
+004	May-ada pa hiya iba nga mga anak,
+005	ngan namatay hiya ha panuigon nga 930.
+006	Han 105 na hi Set, nagkamay-ada hiya anak nga lalake nga hi Enos,
+007	ngan nabuhi pa hi Set hin 807 ka tuig.
+007	May-ada pa hiya iba nga mga anak,
+008	ngan namatay hiya ha panuigon nga 912.
+009	Han 90 na hi Enos, nagkamay-ada hiya anak nga lalake nga hi Kenan,
+010	ngan nabuhi pa hi Enos hin 815 ka tuig.
+010	May-ada pa hiya iba nga mga anak,
+011	ngan namatay hiya ha panuigon nga 905.
+012	Han 70 na hi Kenan, nagkamay-ada hiya anak nga lalake nga hi Mahalalel,
+013	ngan nabuhi pa hi Kenan hin 840 ka tuig.
+013	May-ada pa hiya iba nga mga anak,
+014	ngan namatay hiya ha panuigon nga 910.
+015	Han 65 na hi Mahalalel, nagkamay-ada hiya anak nga lalake nga hi Jared,
+016	ngan nabuhi pa hi Mahalalel hin 830 ka tuig.
+016	May-ada pa hiya iba nga mga anak,
+017	ngan namatay hiya ha panuigon nga 895.
+018	Han 162 na hi Jared, nagkamay-ada hiya anak nga lalake nga hi Enoc,
+019	ngan nabuhi pa hi Jared hin 800 ka tuig.
+019	May-ada pa hiya iba nga mga anak,
+020	ngan namatay hiya ha panuigon nga 962.
+021	Han 65 na hi Enoc, nagkamay-ada hiya anak nga lalake nga hi Matusalem.
+022	Kahuman katawo ni Matusalem, hi Enoc nag-ataman han Dyos sulod hin 300 ka tuig, ngan nagkamay-ada hiya iba pa nga mga anak.
+023	Nakaabot hiya hin panuigon nga 365.
+024	Nag-ataman hiya han Dyos ha bug-os niya nga kinabuhi ngan katapos waray na hikit-i hiya, kay ginkuha hiya han Dyos.
+025	Han 187 na hi Matusalem, nagkamay-ada hiya anak nga lalake nga hi Lamec,
+026	ngan nabuhi pa hi Matusalem hin 782 ka tuig.
+026	May-ada pa hiya iba nga mga anak,
+027	ngan namatay hiya ha panuigon nga 969.
+028	Han 182 na hi Lamec, nagkamay-ada hiya anak nga lalake,
+029	ngan nagsiring hiya, Tikang han tuna nga gintunglo han Ginoo , ini nga bata amo an makakahatag hin pahalibway han ngatanan naton nga magkuri nga mga buruhaton; sanglit iya ginngaranan ini nga bata nga Noe.
+030	Nabuhi pa hi Lamec hin 595 ka tuig.
+030	May-ada pa hiya iba nga mga anak,
+031	ngan namatay hiya ha panuigon nga 777.
+032	Han pag-abot ni Noe hin panuigon nga 500, nagkamay-ada hiya tulo nga mga anak nga kalalaken-an: hira Sem, Ham, ug Jafet.

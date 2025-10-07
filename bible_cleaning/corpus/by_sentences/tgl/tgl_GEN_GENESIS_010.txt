@@ -1,0 +1,35 @@
+verse	content
+001	Ang mga ito ang mga salinlahi ng mga anak ni Noe: sina Sem, Ham, at Jafet: at sila'y nagkaanak pagkaraan ng baha.
+002	Ang mga anak ni Jafet: sina Gomer, Magog, Madai, Javan, Tubal, Meshec, at si Tiras.
+003	Ang mga anak ni Gomer: sina Askenaz, Rifat, at Togarma.
+004	Ang mga anak ni Javan: sina Elisha, Tarsis, Kittim, at Dodanim.
+005	Sa mga ito nahati ang mga pulo ng mga bansa sa kanilang mga lupain, ang bawat isa ayon sa kanyang wika, sa kanilang mga angkan at mga bansa.
+006	Ang mga anak ni Ham ay sina Cus, Mizraim, Put, at Canaan.
+007	Ang mga anak ni Cus ay sina Seba, Havila, Sabta, Raama, at Sabteca; at ang mga anak ni Raama: sina Sheba, at Dedan.
+008	Naging anak ni Cus si Nimrod na siyang nagsimulang maging makapangyarihan sa lupa.
+009	Siya'y makapangyarihang mangangaso sa harap ng Panginoon kaya't karaniwang sinasabi: Gaya ni Nimrod na makapangyarihang mangangaso sa harapan ng Panginoon .
+010	At ang simula ng kanyang kaharian ay ang Babel, ang Erec, ang Acad, ang Calne, sa lupain ng Shinar.
+011	Buhat sa lupaing iyon ay nagtungo siya sa Asiria at itinayo ang Ninive, Rehobot-ir, at ang Cale,
+012	ang Resen, sa pagitan ng Ninive at ng Cale na isang malaking bayan.
+013	At naging anak ni Mizraim sina Ludim, Anamim, Lehabim, at Naphtuhim,
+014	sina Patrusim, at Casluim na siyang pinagmulan ng mga Filisteo, at ang Caftoreo.
+015	At naging anak ni Canaan sina Sidon, na kanyang panganay, at si Het,
+016	at ang mga Jebuseo, Amoreo, ang mga Gergeseo;
+017	ang mga Heveo, Araceo, ang Sineo,
+018	ang mga taga-Arvad, Zemareo, Hamateo at pagkatapos ay kumalat ang mga angkan ng Cananeo.
+019	Ang hangganan ng lupain ng mga Cananeo ay mula sa Sidon, patungo sa Gerar, hanggang sa Gaza, patungo sa Sodoma at Gomorra, at Adma, at Zeboyin hanggang Lasa.
+020	Ito ang mga anak ni Ham ayon sa kanilang angkan, wika, mga lupain, at kanilang mga bansa.
+021	Nagkaroon din ng mga anak si Sem, na ama ng lahat ng mga anak ni Eber, na siyang matandang kapatid ni Jafet.
+022	Ang mga anak ni Sem: sina Elam, Ashur, Arfaxad, Lud, at Aram.
+023	Ang mga anak ni Aram: sina Uz, Hul, Geter, at Mas.
+024	Naging anak ni Arfaxad sina Shela; at naging anak ni Shela si Eber.
+025	Nagkaanak si Eber ng dalawang lalaki; ang pangalan ng una'y Peleg; sapagkat sa mga araw niya'y nahati ang lupa; at ang pangalan ng kanyang kapatid ay Joktan.
+026	Naging anak ni Joktan sina Almodad, Shelef, Hazar-mavet, at si Jerah,
+027	sina Hadoram, Uzal, at Dicla,
+028	sina Obal, Abimael, at Sheba,
+029	sina Ofir, Havila, at Jobab.
+029	Lahat ng ito ay mga naging anak ni Joktan.
+030	Ang naging tahanan nila ay mula sa Mesha, patungo sa Sefar, na siyang bundok sa silangan.
+031	Ito ang mga anak ni Sem, ayon sa kanilang angkan, wika, lupain, at bansa.
+032	Ito ang mga angkan ng mga anak ni Noe, ayon sa kanilang lahi, at bansa.
+032	Sa mga ito nagsimulang kumalat ang mga bansa pagkatapos ng baha.

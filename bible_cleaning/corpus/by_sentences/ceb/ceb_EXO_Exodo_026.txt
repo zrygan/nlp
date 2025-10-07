@@ -1,0 +1,48 @@
+verse	content
+001	Paghimog Tolda nga Tagboanan.
+001	Himoa kini sa napulo ka tabil sa pinong lino ug sa delana nga asul, tapol ug pula.
+001	Bordahi kinig mga hulagway sa kerubin.
+002	Ang matag tabil niini may gitas-on nga 13 ka metros ug may gilapdon nga 1.8 ka metros.
+002	Kinahanglan nga ang tanan managsamag sukod.
+003	Ang lima niini taputon pagtahi ingon man ang laing lima.
+004	Paghimog galong nga panaptong asul diha sa ngilit sa lino nga dapit sa gawas sa matag hut-ong sa tabil.
+005	Paghimog 50 ka galong sa unang piraso sa unang tabil ug 50 usab ka galong nga takdo niini sa kataposang piraso sa ikaduhang tabil.
+006	Paghimog 50 ka kaw-itanan nga bulawan aron pagsumpay sa duha ka hut-ong sa tabil.
+007	Unya paghimog 11 ka pirasong panapton nga gikan sa balhibo sa kanding aron himoong atop sa tolda.
+008	Ang matag usa niini may gitas-on nga 14 ka metros ug duha ka metros ang gilapdon.
+009	Sumpaya ang lima niini sa usa ka hut-ong ug ang unom sa laing hut-ong.
+009	Unya doblehag pilo ang unom ka tabil diha ibabaw sa pultahan sa Tolda.
+010	Butangig 50 ka galong sa ngilit sa kataposang panapton ang unang hut-ong ug 50 ka galong ang ikaduhang hut-ong.
+011	Paghimog 50 ka kaw-it nga bronsi ug ikaw-it kini sa galong aron masumpay ang duha ka hut-ong sa tabil ug mahimo nga usa ka tolda.
+012	Ang katunga sa mga tabil nga maoy silbing atop sa Tolda ipabitay didto dapit sa likod.
+013	Ang 46 ka sentimetros nga anaa sa daplin sa tolda maoy gamiton silbing salimbong niini.
+013	Ibutang kini sa isigkakilid sa tolda aron pagtabon niini.
+014	Unya paghimo kamog salimbong sa Tolda nga gikan sa panit sa laking karnero ug sa kanding.
+015	Paglaras ug tul-id nga tabla nga acasia nga maoy gamiton nga tukod sa Tolda.
+016	Ang matag tabla kinahanglan nga may gitas-on nga lima ka metros ug may gilapdon nga 68 ka sentimetros,
+017	ug butangig duha ka diladila ang matag tabla aron masumpay kini.
+017	Ang tanang tabla kinahanglang butangan niining mga diladila.
+018	Butangig 20 ka tabla dapit sa habagatan
+019	ug 40 ka tungtonganan nga plata ug duha ka sukaranan sa matag tabla nga maoy magsangga sa duha ka diladila.
+020	Butangi usab ug 20 ka tabla sa amihanang dapit,
+021	ug 40 ka sukaranan nga plata, duha sa matag tabla.
+022	Alang sa likod nga bahin sa tolda, dapit sa kasadpan, butangig unom ka tabla
+023	ug duha ka tabla sa eskina sa likod sa Tolda.
+024	Kining mga tablaha ibutang sa eskina sa itaas ngadto sa unang argulya.
+024	Ingnon niini pagpahaom ang duha ka tabla nga moporma ug duha ka eskina.
+025	Busa adunay walo ka tabla uban sa ilang 16 ka sukaranan nga plata, duha sa matag tabla.
+026	Unya paghimog balabag nga acasia, lima alang sa usa ka kilid sa tolda
+027	ug lima usab alang sa mga tabla sa laing kilid ug lima alang sa mga tabla nga atua dapit sa kasadpan didto sa likod.
+028	Ang babag nga ibutang sa tungatunga sa mga tabla kinahanglan mosangko sa isigkatumoy sa Tolda.
+029	Hapinig bulawan ang mga tabla ug butangig mga argulyang bulawan nga maoy balhogan sa mga yayongan nga hinapinan usab ug bulawan.
+030	Kinahanglan tukoron mo ang Tolda sumala sa sumbanan nga gihatag ko kanimo didto sa bukid.
+031	Paghimog tabil nga asul, tapol ug pula nga delana ug pinong lino.
+031	Pabordahi kinig hulagway sa mga kerubin.
+032	Ipabitay kini sa upat ka haligi nga acasia nga gihapinag bulawan nga may mga sab-onganan ug gipahimutang sa upat ka sukaranan nga plata.
+033	Ipakabit ang tabil ilalom sa mga sab-onganan diha sa atop sa Tolda ug ibutang ang Sudlanan nga gisudlan sa mga papan nga tigpahinumdom luyo sa tabil.
+033	Ang tabil maoy mag-ulang sa Dapit nga Balaan ug sa Dapit nga Labing Balaan.
+034	Unya ibutang ang tabon sa Sudlanan sa Labing Balaan nga Dapit.
+035	Ibutang ang lamisa sa gawas sa tabil, ug ang butanganan ug suga sa habagatang dapit sa Tolda atbang sa lamisa nga anaa dapit sa amihanan.
+036	Paghimog tabil nga asul, tapol ug pula nga delana ug pinong lino nga binordahan ug ibutang kini sa ganghaan sa Tolda.
+037	Alang niining tabila paghimog lima ka haliging acasia nga hinapinan ug bulawan ug taori kinig sab-onganan nga bulawan.
+037	Paghimo usab ug lima ka tungtonganan nga bronsi alang niining mga haligi.

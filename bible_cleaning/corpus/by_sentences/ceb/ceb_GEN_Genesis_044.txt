@@ -1,0 +1,56 @@
+verse	content
+001	Unya giingnan ni Jose ang sulugoon nga gipiyalan niya sa iyang balay, Pun-ag pagkaon ang mga sako niining mga tawhana kutob sa ilang madaog ug ibutang ang ilang gibayad nga kuwarta sa baba sa ilang tagsatagsa ka sako.
+002	Isulod ang akong kupa nga plata sa sako sa kamanghoran uban sa gibayad niyang kuwarta.
+002	Gituman kini sa sulugoon.
+003	Sayo sa buntag, gipagikan ang mga magsoon uban sa ilang mga asno.
+004	Apan sa wala pa gani sila makalakawg layo sa siyudad, giingnan ni Jose ang sulugoon nga piniyalan niya sa iyang balay, Apasa pagdali ang mga tawo.
+004	Kon hiapsan mo na sila, ingna, Nganong gibaslan man ninyog daotan ang maayo?
+005	Nganong gikawat man ninyo ang kupa nga plata sa akong agalon?
+005	Imnanan sa akong agalon ang maong kupa ug kini ang gamiton niya kon managna siya.
+005	Pagkadaotan sa inyong gibuhat!
+006	Sa dihang naapsan na sila sa sulugoon, iyang gisultihan sila sa giingon ni Jose.
+007	Sila mitubag, Nganong nakaingon ka man niana?
+007	Dili kami makabuhat niana!
+008	Nasayod ka nga gidala gani namo pagbalik gikan sa Canaan ang kuwarta nga nakaplagan namo sulod sa among mga sako.
+008	Busa nganong mangawat man kamig plata o bulawan sa balay sa imong agalon?
+009	Makaplagan gani nimo nga ania sa usa kanamo ang kupa, patya siya ug kaming tanan mahimong ulipon nimo.
+010	Miingon ang sulugoon, Uyon ako niana.
+010	Kon makit-an ko gani sa usa kaninyo ang kupa, himoon ko siyang ulipon ug siya ra ang akong hukman nga sad-an.
+011	Busa gidiskarga nila pagdali ang ilang mga sako ug giablihan nila ang ilang tagsatagsa ka sako.
+012	Gisusi pag-ayo sa sulugoon ang mga sako nila gikan sa kamagulangan hangtod sa kamanghoran ug didto hikaplagi ang kupa sa sako ni Benjamin.
+013	Gigisi sa mga magsoon ang ilang mga bisti tungod sa kaguol ug gibalik nila pagkarga sa mga asno ang mga sako ug namalik sila sa siyudad.
+014	Sa pag-abot ni Juda ug sa iyang mga igsoon sa balay ni Jose, diha pa siya.
+014	Mihapa sila sa atubangan niya
+015	ug miingon si Jose kanila, Unsa man kining inyong gibuhat?
+015	Wala ba kamo masayod nga ang tawo nga sama kanako makatagna sa umaabot?
+016	Si Juda miingon, Unsa may among ikasulti kanimo?
+016	Unsaon man namo sa pagpangatarungan ug sa pagmatuod nga wala kami sala?
+016	Gipakita sa Dios nga sad-an kami.
+016	Busa kaming tanan imo nang mga ulipon ug dili kay siya ra nga maoy hikaplagan nga nagdala sa kupa.
+017	Si Jose miingon, Dili ko kana mahimo!
+017	Mao ray himoon kong ulipon ang nakaplagan nga nagdala sa kupa.
+017	Ang uban makapauli ngadto sa inyong amahan.
+018	Miduol si Juda kang Jose ug miingon, Tinahod nakong agalon, pasultiha intawon ako kanimo.
+018	Ayaw intawon kasuko kanako kay sama ka sa Paraon mismo.
+019	Gipangutana mo kami kon may amahan pa ba kami o may lain pa ba kaming igsoon.
+020	Gitubag ka namo, nga may amahan pa kami nga tigulang na ug usa ka manghod nga natawo sa tigulang na ang among amahan.
+020	Ang igsoon niining bataa patay na ug siya na lamang ang buhing anak sa iyang inahan.
+020	Pinangga kining bataa sa iyang amahan.
+021	Ug giingnan mo kami nga dad-on siya nganhi kay motan-aw ka kaniya.
+022	Gitubag ka namo nga dili siya makabiya sa iyang amahan kay kon mahimulag siya, mamatay gayod ang iyang amahan.
+023	Apan miingon ka nga dili na kami makaatubang kanimo kon dili namo madala ang among kamanghoran.
+024	Sa paghiuli namo sa among amahan nga imong sulugoon, gisuginlan namo siya sa imong giingon.
+025	Unya miingon siya kanamo, Balik kamo aron pagpalit ug diyutayng pagkaon.
+026	Gitubag namo siya nga dili kami moanhi kay dili kami dawaton sa tawo kon dili namo madala ang among kamanghoran.
+026	Moanhi lamang kami kon siya mahiuban kanamo.
+027	Miingon ang among amahan, Nasayod kamo nga ang akong asawa nanganak ug duha ka lalaki.
+028	Mibiya na kanako ang usa kanila ug nagtuo ako nga giwataswatas siya sa mga mananap nga ihalas kay wala ko na man siya igkita.
+029	Busa kon kining anak nga nahibilin kanako karon inyong dad-on ug may daotan nga mahitabo kaniya, mamatay gayod ako sa kaguol kay tigulang na man ako.
+030	Mipadayon si Juda, Busa kon dili mahikuyog kanako ang bata inigbalik ko sa akong amahan, mamatay gayod siya kay gimahal man niya pag-ayo kining bataa.
+030	Kami unya ang makahatag sa among amahan ug kaguol nga makapatay kaniya kay tigulang na man siya.
+031	Gigarantiya ko sa akong amahan ang akong kinabuhi alang niining bataa.
+031	Giingnan ko siya nga kon ugaling dili ko madala pagbalik ang bata, akoy responsable kaniya sa tibuok kong kinabuhi.
+032	Busa, sir, akoy himoang ulipon puli sa bata.
+032	Papaulia intawon siya uban sa iyang mga igsoon.
+033	Dili ako makahimo pagpauli sa akong amahan kon dili ko madala ang bata.
+033	Dili ko makahimo pagsud-ong sa daotan nga mahitabo unya sa akong amahan.
