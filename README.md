@@ -24,10 +24,18 @@ Status: Done
 
 ### 😇 `/bible_cleaning`
 
-Contains code for web scraping and parsing HTML files of 16 Philippine language translations of the Bible from 
+Web scraping and parsing HTML files of 16 Philippine language translations of the Bible from 
 [YouVersion](https://www.youversion.com/)
  (previously Bible.com or Bible App). The data is processed into Biblical corpora and parallel corpora. The methodology is documented in the accompanying LaTeX file.
 
 Also see [`bible_cleaning/README.md`](bible_cleaning/README.md)
 
 Status: In progress
+
+### 🟰 `/language_similarity`
+
+Explores the relationships among languages using computational tools and techniques.
+
+Alse see [`language_similarity/README.md`](language_similarity/README.md)
+
+Status: To do
