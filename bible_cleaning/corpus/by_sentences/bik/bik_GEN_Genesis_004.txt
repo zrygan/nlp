@@ -20,10 +20,12 @@ verse	content
 011	Dangan nagtaram an Kagurangnan , Tano ta ginibo mo an makangirhat na bagay na ini?
 011	An tingog kan dugo kan tugang mo nag-aagrangay sako hale sa irarom kan daga, naghahagad nin pagbalos.
 012	Ngunyan mapapasaimo an sumpa kan daga na nag-ako kan dugo kan saimong tugang na ginadan mo.
-013	Kun magtanom ka, mayo kang aanihon; ika magigin sarong paradulag asin sarong lagalag sa kinaban.
+013	Kun magtanom ka, mayo kang aanihon;
+013	ika magigin sarong paradulag asin sarong lagalag sa kinaban.
 014	Nagsimbag si Cain sa Kagurangnan , Magabat nin marahay an padusang ini para sako.
 015	Pinapahale mo na ako sa dagang ini asin sa atubang mo.
-015	Magigin paradulag pa ako asin lagalag sa kinaban; gagadanon ako kan siisay man na makanumpong sako.
+015	Magigin paradulag pa ako asin lagalag sa kinaban;
+015	gagadanon ako kan siisay man na makanumpong sako.
 016	Alagad nagsimbag an Kagurangnan , Dai.
 016	Pitong buhay an magigin kabayadan kan siisay man na gumadan saimo.
 016	Kaya binugtakan nin Kagurangnan si Cain nin sarong tanda bilang patanid sa kiisay man na makasabat saiya tanganing dai siya paggadanon.

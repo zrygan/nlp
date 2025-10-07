@@ -4,7 +4,8 @@ verse	content
 002	Menakit yang talaga king marangle.
 002	Ating atlung kawan da ring tupa a magpaynawa lele na niti, uling karin da la painuman ding kawan.
 002	Maragul ya itang batung pekatakap na ning talaga.
-003	Potang makatipun na la ngan karin ding kawan kanita de pa mu ilako itang batung pekatakap na ning talaga at painuman ding tupa; kaybat takpan deng pasibayu.
+003	Potang makatipun na la ngan karin ding kawan kanita de pa mu ilako itang batung pekatakap na ning talaga at painuman ding tupa;
+003	kaybat takpan deng pasibayu.
 004	Nganang mengutang Jacob karing pastul, Kaluguran, e na mo maging sala, taga nukarin kayu?
 005	Tau ke Haran, ngarang mekibat.
 006	Kaybat kitnan na la, Kakilala ye i Laban a anak nang Nahor?
@@ -12,8 +13,10 @@ verse	content
 008	Komusta ya?
 008	nganang Jacob.
 008	Masalese ya bili, ngarang mekibat.
-008	Oyta ing anak na; daratang yang kayabe ra ding kawan na.
-009	Kanita ngana, Masala pa; e la pa kailangan iyuli ding sese animal.
+008	Oyta ing anak na;
+008	daratang yang kayabe ra ding kawan na.
+009	Kanita ngana, Masala pa;
+009	e la pa kailangan iyuli ding sese animal.
 009	Obat e yu la painuman ding tupa ngeni at kaybat pastulan la?
 010	E mi arapat iti, ngarang mekibat, anggang alalu ngan keti ding magpastul a milako king takap ning talaga.
 010	Kanita mi la pa mu apainum ding tupa.
@@ -21,26 +24,32 @@ verse	content
 011	Ya ing magpastul kareti.
 012	Panakit nang Jacob kang Raquel, ing anak na ning bapa nang i Laban, leko ne takap ing talaga at saka na la pepainum ding tupa nang bapa na.
 013	Kaybat inuma neng Jacob i Raquel at saka ya menangis king tula na.
-014	Sinabi na king kamaganak neng tata na; anak neng Rebeca.
+014	Sinabi na king kamaganak neng tata na;
+014	anak neng Rebeca.
 014	Kanita milayi yang minuli i Raquel at belita na iti kang tata na.
 015	Inyang miras ing balita kang Laban tungkul kang Jacob a anak na ning kapatad na, memalagua yang sinagana.
 015	Kaybat kinaul ne at inuma at tiki ne bale na.
 015	Kanita kinwentu nang Jacob kang Laban ing sablang milyari.
-016	Nganang Laban, Jacob, tune ing e ka aliwa kanaku; laman da ka at daya!
+016	Nganang Laban, Jacob, tune ing e ka aliwa kanaku;
+016	laman da ka at daya!
 016	Menatili ya karin i Jacob kilub ning pabulan.
 017	Nganang Laban kang Jacob, Uli na mo ning kamaganak da ka magobra ka wari kanaku a alang nanumang bayad?
 017	Sabian mu kanaku nung magkanu ing upang ibie ku keka.
-018	Atin yang aduang anak a babai i Laban; ing makamatua ya i Lea at ing wali ya i Raquel.
+018	Atin yang aduang anak a babai i Laban;
+018	ing makamatua ya i Lea at ing wali ya i Raquel.
 019	Mapundat ya mata i Lea, oneng atyu king sukad i Raquel at malagu ya.
 020	Anti na ning milsinta ya i Jacob kang Raquel nganang mekibat kang Laban, Pitung banua kung sumuyu kekayu, nung ibie ye kanaku i Raquel, ing wali.
-021	Nganang Laban, Mas buri ku ing ika ing maging asawa nang Raquel kesa king aliwa pang tau; inya keti na ka pa.
+021	Nganang Laban, Mas buri ku ing ika ing maging asawa nang Raquel kesa king aliwa pang tau;
+021	inya keti na ka pa.
 022	Makanyan yang sinuyu i Jacob kilub da ring pitung banua ba neng ayasawa i Raquel.
 022	Anti la mung mapilan a aldo kang Jacob ding pitung banua uling kaluguran ne i Raquel.
-023	Kanita nganang Jacob kang Laban, Milabas na la ding pitung banua; ibie yu ne sa kanaku i Raquel ba ku neng maging asawa.
+023	Kanita nganang Jacob kang Laban, Milabas na la ding pitung banua;
+023	ibie yu ne sa kanaku i Raquel ba ku neng maging asawa.
 024	Inya kimbiran na la ngan Laban ding tau karin at migtau ya.
 025	Karas na ning bengi, tiki neng Laban ing anak nang i Lea at dela ne kang Jacob, at sipingnan neng Jacob i Lea.
 026	Binie neng Laban ing ipus nang i Zilpa ban maging kasaup ne ning anak nang i Lea.
-027	Pangayabak mipakama-kama ya i Jacob; i Lea pala ing sipingnan na.
+027	Pangayabak mipakama-kama ya i Jacob;
+027	i Lea pala ing sipingnan na.
 027	Inya sinabi na kang Laban, Obat gewa yu kanaku ing anti kanyan?
 027	Sinuyu ku kekayu ban ayasawa ke i Raquel!
 027	Obat lininlang yu ku?
@@ -52,7 +61,8 @@ verse	content
 031	Binie neng Laban ing ipus nang i Bilha ban maging kasaup ne ning anak nang i Raquel.
 032	Sipingnan nia namang Jacob i Raquel, at maygit neng kaluguran kesa kang Lea.
 032	Makanyan yang menatiling susuyu kang Laban kilub da ring pitu pang banua.
-033	Inyang ikit na ning Ginu king e ne kaluguran Jacob i Lea, ya ing dininan nang anak; oneng ali ne i Raquel.
+033	Inyang ikit na ning Ginu king e ne kaluguran Jacob i Lea, ya ing dininan nang anak;
+033	oneng ali ne i Raquel.
 034	Mebuktut ya i Lea at mikayanak yang lalaki at inaus neng Ruben uling ngana, Ikit na ning Ginu ing makalunus kung kabilian.
 034	Ngeni luguran na na ku ning asawa ku.
 035	Mebuktut yang pasibayu at lalaki ne naman ing anak na.

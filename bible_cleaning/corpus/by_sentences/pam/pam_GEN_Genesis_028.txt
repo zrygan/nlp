@@ -16,15 +16,19 @@ verse	content
 010	Meko ya Beerseba i Jacob at migbanda ya Haran.
 011	Miras ya king metung a lugal at inisip nang karin ne matudtud uling limbug ne ing aldo.
 011	Kinua ne ing metung a batu karin at gewa neng ulunan at saka ya migkera ban matudtud.
-012	Meninap ya; ikit ne king paninap na ing metung a eran; makatalakad ya iti king gabun at mamabut ya banua.
+012	Meninap ya;
+012	ikit ne king paninap na ing metung a eran;
+012	makatalakad ya iti king gabun at mamabut ya banua.
 012	Tipa-manik la king eran ding anghel na ning Dios.
-012	...ikit ne king paninap na ing metung a eran; makatalakad ya iti king gabun at mamabut ya banua.
+012	...ikit ne king paninap na ing metung a eran;
+012	makatalakad ya iti king gabun at mamabut ya banua.
 013	Atyu ing Ginu makatalakad siping na.
 013	Ngana, Aku, ing Ginu , ing Dios ning pipumpunan mung i Abraham at Dios nang Isaac.
 013	Ibie ke keka ing gabun a pagkeran mu at pati na karing kekang maging lahi.
 014	Maging kasing dakal da la ning alikabuk ning yatu ding lahi mu at kalatanan de ing albugan, ing aslagan, ing norti, at ing mauli.
 014	Atagpuan da ring sablang bansa keti king yatu ing bendisyun keka at karing lahi mu.
-015	Tandanan mung kayabe mu ku; ingatan da ka nukarin ka man munta at ibalik da ka king gabun a iti.
+015	Tandanan mung kayabe mu ku;
+015	ingatan da ka nukarin ka man munta at ibalik da ka king gabun a iti.
 015	E ra ka lakuan angga king atuparan ku ing pengaku ku keka.
 016	Nganang Jacob kagising na, Wa, ing Ginu atyu keni agyamang e ku balu iti!
 017	Tiblan ne ning takut.
@@ -32,7 +36,8 @@ verse	content
 017	Keti ya pin makatuknang ing Dios!
 017	Atyu keti ing pasbul na ning banua.
 018	Maranun yang mibangun i Jacob.
-018	Kinua ne ing batung inulunan na; gewa neng batung palatandanan at saka ne tigtugan laru.
+018	Kinua ne ing batung inulunan na;
+018	gewa neng batung palatandanan at saka ne tigtugan laru.
 019	Inaus neng Betel ing lugal a ita a mangabaldugan Bale ning Dios.
 019	Kanitang minuna ing lugal a ita ausan deng Luz.
 020	Kaybat na nita, mengaku ya i Jacob.

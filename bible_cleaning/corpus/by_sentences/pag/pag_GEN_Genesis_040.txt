@@ -3,7 +3,8 @@ verse	content
 002	Diad pasnuk na arid sikara,
 003	impaipriso to rad abung na kapitan da ray guardia, a diman met so akaiprisoan nen Jose.
 004	Abayag irad prisowan, tan samay kapitan impasen toy Jose a mangasikasod sikara.
-005	Aminsan a labi, diman ed prisowan, nankogip imay inkargadoy alak tan samay pangulon panadiro; nandomaan iray kogip.
+005	Aminsan a labi, diman ed prisowan, nankogip imay inkargadoy alak tan samay pangulon panadiro;
+005	nandomaan iray kogip.
 006	Nen linmad sikara si Jose diad kabwasan, anengneng ton nagugunigon ira.
 007	Tinepet to, Akin et nengneng yoy nagugunigon ed sayan agew?
 008	Inmebat ira, Walay kogip na balang sakey ed sikami, et anggapo diay makapangipatalus.
@@ -18,12 +19,14 @@ verse	content
 014	Iderew mod sikatoy kupa, a singa gagawaen mo nen sikay inkargado na alak to.
 015	Balet kerewen ko pad sika a no maung lay kipapasen mo et salita mo ak met ed kinen ari, pian natulongan mo ak ya ompaway ed sayan prisowan.
 016	Diad tuay tua, inala ak labat ed dalin da ray Hebreo, tan anggan diad Egipto anggapoy ginawak a makasengeg na kaprisoan ko.
-017	Nen naamtaan na samay pangulon panadiro a maung so impangipatalus nen Jose ed kogip na samay inkargadoy alak ed palasio, inkuanto, Wala met so kogip ko; sankaagtok so taloran pananginay tinapay.
+017	Nen naamtaan na samay pangulon panadiro a maung so impangipatalus nen Jose ed kogip na samay inkargadoy alak ed palasio, inkuanto, Wala met so kogip ko;
+017	sankaagtok so taloran pananginay tinapay.
 018	Diad samay pananginan a walad tapew, wadman ya amin so klasiy kakanen a para ari, balet totoktoken na saray manok.
 019	Inmebat si Jose, Niay talus to: saramay taloran pananginay tinapay kabaliksan day taloran agew.
 020	Kalabas na taloy agew, ibolus kay aribalet papotul toy olom!
 020	Insan paibitin tod tiken so kabalgan mo, et kanen na saray manok so bangkay mo.
-021	Kalabas na taloy agew, nen agew na inkianak na ari, angiparaan na ponsia a para amin ya opisyal to; impaipaway to may inkargadoy alak ed palasio tan samay pangulon panadiro to tan inyarap to rad saray opisyal to.
+021	Kalabas na taloy agew, nen agew na inkianak na ari, angiparaan na ponsia a para amin ya opisyal to;
+021	impaipaway to may inkargadoy alak ed palasio tan samay pangulon panadiro to tan inyarap to rad saray opisyal to.
 022	Pinapawil to may inkargadoy alak ed gendat a kimey to,
 023	balet impapatey to may pangulon panadiro.
 023	Agawan amin ira may imbaga nen Jose,

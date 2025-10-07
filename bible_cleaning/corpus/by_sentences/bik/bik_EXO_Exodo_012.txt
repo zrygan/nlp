@@ -10,7 +10,8 @@ verse	content
 007	Makua sinda kan dugo dangan ilalahid ninda iyan sa mga hamba asin sa itaas kan mga pinto kan mga harong na kakakanan ninda kan mga hayop.
 008	Sa bangging iyan, iihawon an binunong hayop dangan kakakanon kaiba an mapait na gulay asin an tinapay na mayo nin lebadura.
 009	Dai nindo pagkakanon na hilaw o linabonan an arin man na parte kaini kundi bilog na inihaw, kairiba an payo, an mga bitis, sagkod an mga nasa laog kan tulak.
-010	Kaipuhan mayo nin matada kaiyan na maagahan pa; kun igwa, dapat na tutongon.
+010	Kaipuhan mayo nin matada kaiyan na maagahan pa;
+010	kun igwa, dapat na tutongon.
 011	Kakanon nindo ini nin hidali, asin kaipuhan nakasulot na kamo nin gubing na panlakaw, nakasandalyas asin kapot na an sugkod.
 011	Iyo ini an Pyesta kan Paskwa nin Kagurangnan .
 012	Sa bangging iyan, maagi ako sa daga nin Egipto asin gagadanon ko an gabos na matuang lalaki, tawo man o hayop.
@@ -40,7 +41,8 @@ verse	content
 026	Masimbag kamo, Iyo ini an paggiromdom kan Paskwa nin Kagurangnan , huli ta ilinigtas niya kami kan lihisan niya an harong kan mga Israelita duman sa Egipto, alagad ginadan niya an mga Egipcio.
 027	Dangan nagruluhod an mga Israelita asin nagsaramba.
 028	Pakatapos, nagpuli sinda asin ginibo an ipinagboot nin Kagurangnan ki Moises saka ki Aaron.
-029	Kan matangang banggi, ginadan nin Kagurangnan an gabos na matuang lalaki sa Egipto, magpoon sa matua kan hade na magmamana kan trono, sagkod sa matua kan bilanggo na nasa bilanggoan; ginadan man niya an gabos na matua kan mga hayop.
+029	Kan matangang banggi, ginadan nin Kagurangnan an gabos na matuang lalaki sa Egipto, magpoon sa matua kan hade na magmamana kan trono, sagkod sa matua kan bilanggo na nasa bilanggoan;
+029	ginadan man niya an gabos na matua kan mga hayop.
 030	Kan bangging idto, nagimata an hade, an saiyang mga opisyal, sagkod an gabos na Egipcio.
 030	Nagkaigwa nin makosog na pagtangis sa bilog na Egipto, huli ta mayo nin harong na dai nin gadan.
 031	Kan mismong bangging idto, ipinaapod kan hade si Moises saka si Aaron asin sinabihan, Magharale na kamo digdi sa sakong banwaan, kamo asin an kapwa nindo Israelita!
@@ -50,7 +52,8 @@ verse	content
 033	Pinapaghidali kan mga Egipcio an mga Israelita sa saindang paghale sa Egipto.
 033	Olay ninda, Magagadan kami gabos kun dai pa kamo maghale digdi.
 034	Kaya pinano kan mga Israelita an saindang mga mangko nin minasang arina na mayo nin lebadura, pinatos ini nin yamit dangan pinasan.
-035	Ginibo man kan mga Israelita an isinabi sainda ni Moises; an mga Egipcio hinagadan ninda nin mga alahas na bulawan saka plata asin mga gubing.
+035	Ginibo man kan mga Israelita an isinabi sainda ni Moises;
+035	an mga Egipcio hinagadan ninda nin mga alahas na bulawan saka plata asin mga gubing.
 036	Pinagmarahay nin Kagurangnan na igalang kan mga Egipcio an mga Israelita tanganing tawan sinda kan saindang hinahagad.
 036	Sa siring na paagi, nadara kan mga tawo an kayamanan kan mga Egipcio.
 037	Naglakaw an mga Israelita hale sa Rameses pasiring sa Sukkot.
@@ -60,11 +63,13 @@ verse	content
 039	Nagluto sinda nin tinapay na mayo nin lebadura hale sa dara nindang minasa, huli ta kan isubol sinda paluwas sa Egipto, dai na sinda nagkaigwa nin oras na mag-andam nin pagkakan o magmasa nin arina na igwa nin lebadura.
 040	Nag-erok sa Egipto an mga Israelita sa laog nin kwatro syentos treyntang taon.
 041	Naghale sinda sa Egipto sa huring aldaw kan ikakwatro syentos treyntang taon.
-042	An bangging idto iyo an banggi nin pagbantay kan Kagurangnan tanganing iluwas sinda sa Egipto; kaya an bangging idto sarong banggi nin pagbantay na itinalaan para sa Kagurangnan kan banwaan nin Israel sagkod pa man.
+042	An bangging idto iyo an banggi nin pagbantay kan Kagurangnan tanganing iluwas sinda sa Egipto;
+042	kaya an bangging idto sarong banggi nin pagbantay na itinalaan para sa Kagurangnan kan banwaan nin Israel sagkod pa man.
 043	Nagtaram an Kagurangnan ki Moises asin ki Aaron, Uya an mga pagboot manongod sa Paskwa: Dai pwedeng magkakan kan inandam para sa Paskwa an dayuhan,
 044	alagad an binakal nindong oripon pwede nang kumakan kaiyan kun sinerkomsisyon na nindo siya.
 045	Dai man pwedeng magkakan kaiyan maski an nakikisakat o an nagpapatandan.
-046	An lambang kordero kaipuhan kakanon sa laog kan harong na pinag-andaman kaiyan; dai nanggad nindo pagdarahon sa luwas an arin man na kabtang kaiyan asin dai nanggad nindo pagbarion an arin man na tolang.
+046	An lambang kordero kaipuhan kakanon sa laog kan harong na pinag-andaman kaiyan;
+046	dai nanggad nindo pagdarahon sa luwas an arin man na kabtang kaiyan asin dai nanggad nindo pagbarion an arin man na tolang.
 047	An bilog na banwaan nin Israel kaipuhan na magselebrar kan pyestang ini.
 048	Mayo nin siisay man na bakong serkomsisyonado an pwedeng kumakan kan Kordero Pangpaskwa.
 048	Kun an sarong dayuhan na nakikihimanwa saindo boot magselebrar kan Paskwa tanganing mag-omaw sa Kagurangnan , kaipuhan serkomsisyonon ngona nindo siya asin an gabos na lalaki sa saiyang harong.

@@ -44,7 +44,8 @@ verse	content
 028	Mas precioso pa ustedes que con esos maga pajaro, hende ba?
 029	Y masquin paquemodo ustedes ta man lingasa, hende man ay alarga el di ustedes vida masquin por un dia lang.
 030	Entonces, porque man ustedes ta man lingasa pa por causa del maga ropa?
-030	Pensa ya lang si paquilaya el maga flores ta crici; hende man esos ta trabaja ni ta teje.
+030	Pensa ya lang si paquilaya el maga flores ta crici;
+030	hende man esos ta trabaja ni ta teje.
 031	Ta habla gayot yo, que si Solomon, masquin bien rico le, nuay tene vestido mas bonito que con ese maga flores.
 032	El maga zacate y flores que ta mira ustedes este dia ay queda lang layung, y ay quema lang con esos.
 032	Y si ta dale Dios visti con esos, asegurao ustedes que mas interesao le dale vestida con ustedes.

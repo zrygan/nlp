@@ -24,7 +24,8 @@ verse	content
 013	Kabigatanna, insaganana dagiti regalona ken ni Esau.
 013	Nangpili iti dua gasut a kabaian a kalding ken duapulo a bulog, dua gasut a kabaian a karnero ken duapulo a kalakian, tallopulo a gagatasen a kamelio agraman dagiti urbonda, uppat a pulo a kabaian a baka ken sangapulo a toro, duapulo a kabaian nga asno ken sangapulo a kalakian.
 014	Adda adipen a nadutokan a mangaywan iti tunggal arban.
-014	Kinunana kadakuada, Umun-unakayo, ngem saankayo nga aggigiddan; agsasarunokayo ket ikkanyo ti baet ti tunggal arban.
+014	Kinunana kadakuada, Umun-unakayo, ngem saankayo nga aggigiddan;
+014	agsasarunokayo ket ikkanyo ti baet ti tunggal arban.
 015	Imbilinna iti umuna nga adipen, Inton masabatnaka ni kabsatko nga Esau ket saludsodenna, Siasino ti apom?
 015	Sadino ti papanam?
 015	Siasino ti akinkukua kadagitoy nga animal?

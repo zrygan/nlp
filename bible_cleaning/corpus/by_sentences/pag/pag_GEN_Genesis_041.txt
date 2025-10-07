@@ -22,7 +22,8 @@ verse	content
 014	Kasumpal ton nambalbas tan nampales, pinmarontal ed ari.
 015	Inkuan na arid sikato, Walay kogip ko, et anggapoy makapangipatalus.
 015	Abalitaan kon nayarian moy mangipatalus na kogip.
-016	Inmebat si Jose, Ag ko nayarian, Kagalang kon Ari; balet say Dios so makapangiter na dugan talus na kogip.
+016	Inmebat si Jose, Ag ko nayarian, Kagalang kon Ari;
+016	balet say Dios so makapangiter na dugan talus na kogip.
 017	Inkuan na ari, Kinogip kon manalalagey ak ed pandel na Ilog na Nilo.
 018	Kabebekta sinmakbit a nanlapud ilog so pitoran baka a mararakep tan matataba, tan nankabkab ira na dika.
 019	Insan sinmakbit met so pitoran baka a mapmabeng tan kapokepokel.
@@ -34,12 +35,15 @@ verse	content
 023	Insan pinmaway met so pitoran dawa ya apa tan amaga, lapud adalan na dagem a nanlapud kalawakan.
 024	Saramay pitoran apa a dawa inakmun da ra may pitoran maiiyan.
 024	Imbagak ira yan kogip ko ed saray salamangkiro, balet anggapod sikaray makapangipatalus ed siak.
-025	Inkuanen Jose, Saksakey so talus da ra yan duan kogip mo; imbagay Dios ed sika so gawaen to.
-026	Saramay pitoran baka a matataba kabaliksan day pitoran taon, tan saramay pitoran dawa a maiiyan kabaliksan da met so pitoran taon; saksakey so kabaliksan da.
+025	Inkuanen Jose, Saksakey so talus da ra yan duan kogip mo;
+025	imbagay Dios ed sika so gawaen to.
+026	Saramay pitoran baka a matataba kabaliksan day pitoran taon, tan saramay pitoran dawa a maiiyan kabaliksan da met so pitoran taon;
+026	saksakey so kabaliksan da.
 027	Saramay pitoran baka a mapmabeng a sinmakbit, tan saramay pitoran dawa ya apa tan amagaan lapud adalan na dagem a nanlapud kalawakan, kabaliksan day pitoy taon a walay eras.
 028	Onung na imbagak lad sika, impanengneng na Dios ed sika so gawaen to.
 029	Onsabiy pitoy taon a walay inawa ed intiron dalin na Egipto.
-030	Kasumpal to ya, ontombuk so pitoy taon a walay eras; nalingwanan ira may maung a taon, ta say eras deralen toy intiron bansa.
+030	Kasumpal to ya, ontombuk so pitoy taon a walay eras;
+030	nalingwanan ira may maung a taon, ta say eras deralen toy intiron bansa.
 031	Nalingwanan imay panaon na inawa, ta ontombuk so mapalalon eras.
 032	Say impakapidwa na kogip mo kabaliksan to a say Dios tinibokel to lad kanunotan to yan gawaen, tan asingger lan nagawa.
 033	Natan mamili kay sakey a toon makabat tan maisip, tan ipasen mon inkargado ed intiron bansa.
@@ -68,8 +72,10 @@ verse	content
 049	Singa karakel na buer ed dayat so atipon to.
 049	Diad karakel da, tinondaan to la ran sinukat.
 050	Kasakbayan a sinmabi ra may taon na eras, awalaay Jose na duaran anak a lalaki diad kinen asawa ton Asenat.
-051	Inkuanto, Impalingwanan na Dios iray amin a kairapan ko a pati say pakakailiw kod pamilya na amak; kanyan inngaran to na Manases imay pangulowan ya anak to.
-052	Inkuanto met, Say Dios initdan to ak na anak ed sayan dalin a paniirapan ko; kanyan inngaran to na Efraim imay kumadwan anak to.
+051	Inkuanto, Impalingwanan na Dios iray amin a kairapan ko a pati say pakakailiw kod pamilya na amak;
+051	kanyan inngaran to na Manases imay pangulowan ya anak to.
+052	Inkuanto met, Say Dios initdan to ak na anak ed sayan dalin a paniirapan ko;
+052	kanyan inngaran to na Efraim imay kumadwan anak to.
 053	Nansamput ira may pitoy taon na inawa ed Egipto,
 054	tan ginmapo lay pitoy taon na eras, onung na samay imbaga nen Jose.
 054	Walay eras ed arum a bansa, balet walay nakan na saray totoo ed intiron Egipto.

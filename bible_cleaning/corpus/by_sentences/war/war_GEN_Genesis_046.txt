@@ -3,7 +3,8 @@ verse	content
 002	Naghimangraw ha iya an Dyos dida hin usa nga panan-awon ha gab-i ngan nagtawag, Jacob, Jacob!
 003	Binmaton hiya, Oo, aadi ako.
 004	Amo ako an Dyos nga Dyos han imo amay, nagsiring an Dyos.
-004	Ayaw kahadlok hin pagkadto ha Ehipto; didto hihimoon ko nga dako nga nasod an imo mga tulin.
+004	Ayaw kahadlok hin pagkadto ha Ehipto;
+004	didto hihimoon ko nga dako nga nasod an imo mga tulin.
 005	Maupod ako ha imo ngadto ha Ehipto ngan igbabalik ko an imo mga tulin nganhi hini nga tuna.
 005	Aada ha imo kagiliran hi Jose kon mamatay ka.
 006	Ginmikan hi Jacob tikang ha Berseba.

@@ -13,4 +13,5 @@ verse	content
 008	Pagkatapos niyon ay aalis ako.
 008	At siya'y umalis sa harap ng Faraon na may matinding galit.
 009	Sinabi ng Panginoon kay Moises, Hindi kayo papakinggan ng Faraon, upang ang aking mga kababalaghan ay dumami sa lupain ng Ehipto.
-010	Ginawa nina Moises at Aaron ang lahat ng mga kababalaghang ito sa harap ng Faraon; ngunit pinatigas ng Panginoon ang puso ng Faraon, at hindi niya pinahintulutan ang mga anak ni Israel na lumabas sa kanyang lupain.
+010	Ginawa nina Moises at Aaron ang lahat ng mga kababalaghang ito sa harap ng Faraon;
+010	ngunit pinatigas ng Panginoon ang puso ng Faraon, at hindi niya pinahintulutan ang mga anak ni Israel na lumabas sa kanyang lupain.

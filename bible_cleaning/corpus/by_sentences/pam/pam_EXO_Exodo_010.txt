@@ -1,7 +1,8 @@
 verse	content
 001	Kanita ngana ning Ginu kang Moises, Pakikitan me pa ing ari.
 001	Pepasias ke pusu at ding opisyal na ban akua ku lang arapat deting bage pagmumulalan libutad da,
-002	at ban akua mung asabi karing anak yu at karing apu yu nung makananu ku lang pepalto mangmang ding tau Ehipto inyang gewa ku la deting bage pagmumulalan; ban akilala yu ngan king aku ing Ginu .
+002	at ban akua mung asabi karing anak yu at karing apu yu nung makananu ku lang pepalto mangmang ding tau Ehipto inyang gewa ku la deting bage pagmumulalan;
+002	ban akilala yu ngan king aku ing Ginu .
 003	Inya minta lang pasibayu king ari di Moises at Aaron.
 003	Ngara king ari, Ing Ginu , ing Dios ding Hebreo, sasabian na, Angga kaya kapilan ing e ka bisang pailalam king kaburian ku?
 003	Paburen mu na lang mako ding taung pinili ku ban makasamba la kanaku.
@@ -25,11 +26,13 @@ verse	content
 011	Kasabi na nita, tinabi da lang pepalakuan king arapan na ning ari.
 012	Kanita ngana ning Ginu kang Moises, Itas me ing gamat mu babo ning bansa ning Ehipto ban datang na la ding durun.
 012	Datang la at kanan da ing sablang tutubu, ing sablang mitagan king uran-lipat.
-013	Inya tinas neng Moises ing tukud na, at peparatang na ning Ginu ing angin ibat king aslagan; pepatiupan na banda king mamala kilub ning patingapun at kabukas.
+013	Inya tinas neng Moises ing tukud na, at peparatang na ning Ginu ing angin ibat king aslagan;
+013	pepatiupan na banda king mamala kilub ning patingapun at kabukas.
 013	Inyang abak na migdala nang durun ing angin.
 014	Dinatang lang pulupulutung at digpa la king kabilugan a kayarian.
 014	Ila na deta ring pekamarakal karing durun a meyakit angga king aldong ita a e malyaring mayakit pa king daratang a panaun.
-015	Tikpan da ing gabun angga king metuling iti karela; pengan da ing mitagan king uran-lipat at pati na ding bungang tanaman.
+015	Tikpan da ing gabun angga king metuling iti karela;
+015	pengan da ing mitagan king uran-lipat at pati na ding bungang tanaman.
 015	Alang mitagan a berdi karing dutung ampon tanaman king mabilug a Ehipto.
 016	Agad-agad na lang pepayaus ning ari di Moises at Aaron.
 016	Ngana karela, Mikasala ku king Ginung kekayung Dios at kekayu.
@@ -45,7 +48,8 @@ verse	content
 024	Pepayaus ne ning ari i Moises at ngana, Moises, malyari na kayung mako at samba king Ginu at ituki yu la pati na ring asawa yu at anak.
 024	Oneng sukat lang malakuan keti ding kekayung tupa, kambing, at baka.
 025	Nganang mekibat Moises, Nung makanyan kailangan dinan yu keng animal para karing ain-sakripisyu at ain-a-durulukan ban iyampang mi king Ginung kekaming Dios.
-026	Oneng e makanyan, kailangan ing ituki mi la ding sese ming animal; alang malakuan keti metung man kareti.
+026	Oneng e makanyan, kailangan ing ituki mi la ding sese ming animal;
+026	alang malakuan keti metung man kareti.
 026	Ikami ding sukat mamili karing animal a gamitan mi king pamanyamba mi king Ginu kekaming Dios.
 026	E mi balu nung isanu kareting animal ing iyain mi king Ginu anggang e ke miras karin.
 027	Pepasias na ne naman a pusu ning Ginu ing ari, at e na la peintulutan mako ding Israelita.

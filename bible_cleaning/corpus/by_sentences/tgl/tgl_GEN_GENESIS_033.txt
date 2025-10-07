@@ -12,11 +12,13 @@ verse	content
 008	At sumagot si Jacob, Upang makakita ng biyaya sa paningin ng aking panginoon.
 009	Subalit sinabi ni Esau, Sapat na ang nasa akin, kapatid ko.
 009	Ang nasa iyo ay sa iyo na.
-010	Sinabi sa kanya ni Jacob, Hindi, nakikiusap ako sa iyo, na kung ngayo'y nakatagpo ako ng biyaya sa iyong paningin, ay tanggapin mo nga ang aking kaloob mula sa aking kamay; sapagkat nakita ko ang iyong mukha, na gaya ng nakakita ng mukha ng Diyos, at ikaw ay nalugod sa akin.
+010	Sinabi sa kanya ni Jacob, Hindi, nakikiusap ako sa iyo, na kung ngayo'y nakatagpo ako ng biyaya sa iyong paningin, ay tanggapin mo nga ang aking kaloob mula sa aking kamay;
+010	sapagkat nakita ko ang iyong mukha, na gaya ng nakakita ng mukha ng Diyos, at ikaw ay nalugod sa akin.
 011	Nakikiusap ako sa iyo, tanggapin mo ang kaloob na dala ko sa iyo sapagkat lubos na ang ipinagkaloob sa akin ng Diyos, at mayroon ako ng lahat na kailangan ko.
 011	Kaya't hinimok ni Jacob si Esau at kanyang tinanggap.
 012	Sinabi niya, Tayo'y humayo at maglakbay at ako'y sasama sa iyo.
-013	Subalit sinabi ni Jacob sa kanya, Nalalaman ng aking panginoon na ang mga bata ay mahihina pa at mayroon sa mga kawan at mga baka na nagpapasuso; kapag sila'y pinagmadali nila sa isang araw lamang ay mamamatay ang lahat ng kawan.
+013	Subalit sinabi ni Jacob sa kanya, Nalalaman ng aking panginoon na ang mga bata ay mahihina pa at mayroon sa mga kawan at mga baka na nagpapasuso;
+013	kapag sila'y pinagmadali nila sa isang araw lamang ay mamamatay ang lahat ng kawan.
 014	Magpauna na ang aking panginoon sa kanyang lingkod at ako'y magpapatuloy na dahan-dahan, ayon sa hakbang ng mga hayop na nasa aking unahan, at sa hakbang ng mga bata, hanggang sa makarating ako sa aking panginoon sa Seir.
 015	Kaya't sinabi ni Esau, Pahintulutan mong iwan ko sa iyo ang ilan sa mga taong kasama ko.
 015	Kanyang sinabi, Bakit kailangan pa?
@@ -24,6 +26,7 @@ verse	content
 016	Kaya't nagbalik si Esau nang araw ding iyon sa kanyang lakad patungo sa Seir.
 017	Si Jacob ay naglakbay sa Sucot, at nagtayo ng isang bahay para sa kanya, at iginawa niya ng mga balag ang kanyang hayop.
 017	Kaya't tinawag ang pangalan ng lugar na iyon na Sucot.
-018	Payapang dumating si Jacob sa bayan ng Shekem, na nasa lupain ng Canaan, nang siya'y dumating mula sa Padan-aram; at siya'y tumigil sa tapat ng bayan.
+018	Payapang dumating si Jacob sa bayan ng Shekem, na nasa lupain ng Canaan, nang siya'y dumating mula sa Padan-aram;
+018	at siya'y tumigil sa tapat ng bayan.
 019	Binili niya sa halagang isandaang pirasong salapi ang bahaging iyon ng lupa na pinagtayuan ng kanyang tolda, sa kamay ng mga anak ni Hamor, na ama ni Shekem.
 020	At siya'y nagtayo roon ng isang dambana at tinawag niya itong El-Elohe-Israel.

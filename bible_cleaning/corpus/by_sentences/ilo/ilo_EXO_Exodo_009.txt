@@ -43,7 +43,8 @@ verse	content
 027	Nalinteg ti Apo .
 027	Siak ken dagiti tattaok ti nakabasol.
 028	Ikararagandakami iti Apo ta madidigrakami la unayen iti gurruod ken yelo.
-028	Ikarik a palubosankayon a pumanaw; saankayon nga agyan ditoy.
+028	Ikarik a palubosankayon a pumanaw;
+028	saankayon nga agyan ditoy.
 029	Kinuna ni Moises kenkuana, Apaman a makaruarak iti siudad, agkararagakto iti Apo .
 029	Sumardengton ti gurruod ket awanton ti agtinnag a yelo, tapno maammoam a ti Apo ti akinkukua iti daga.
 030	Ngem ammok a sika ken dagiti ofisialesmo diyo pay la kabuteng ti Apo a Dios.

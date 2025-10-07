@@ -13,22 +13,29 @@ verse	content
 009	Gayon mo itatalaga si Aaron at ang kanyang mga anak.
 010	Pagkatapos, iyong dadalhin ang toro sa harap ng toldang tipanan at ipapatong ni Aaron at ng kanyang mga anak ang kanilang mga kamay sa ulo ng toro.
 011	Papatayin mo ang toro sa harapan ng Panginoon , sa pintuan ng toldang tipanan.
-012	Kukuha ka ng bahagi ng dugo ng toro, at ilalagay mo iyon sa pamamagitan ng iyong daliri sa ibabaw ng mga sungay ng dambana; at iyong ibubuhos ang lahat ng dugo sa paanan ng dambana.
+012	Kukuha ka ng bahagi ng dugo ng toro, at ilalagay mo iyon sa pamamagitan ng iyong daliri sa ibabaw ng mga sungay ng dambana;
+012	at iyong ibubuhos ang lahat ng dugo sa paanan ng dambana.
 013	Kukunin mo lahat ng taba na nakabalot sa bituka, at ang mga taba ng atay, at ang dalawang bato at ang taba ng mga iyon, at susunugin mo sa ibabaw ng dambana.
-014	Subalit ang laman ng toro, ang balat, at ang dumi ay iyong susunugin sa apoy sa labas ng kampo; ito ay handog pangkasalanan.
+014	Subalit ang laman ng toro, ang balat, at ang dumi ay iyong susunugin sa apoy sa labas ng kampo;
+014	ito ay handog pangkasalanan.
 015	Kukunin mo rin ang isa sa mga lalaking tupa, at ipapatong ni Aaron at ng kanyang mga anak ang kanilang mga kamay sa ulo ng lalaking tupa.
 016	Papatayin mo ang lalaking tupa, kukunin mo ang dugo, at iyong iwiwisik sa palibot sa ibabaw ng dambana.
 017	Pagpuputul-putulin mo ang tupa at huhugasan mo ang mga lamang-loob at ang mga hita, at ipapatong mo sa mga piraso at sa ulo nito.
-018	Susunugin mo ang buong tupa sa ibabaw ng dambana; ito ay handog na sinusunog para sa Panginoon .
+018	Susunugin mo ang buong tupa sa ibabaw ng dambana;
+018	ito ay handog na sinusunog para sa Panginoon .
 018	Ito ay mabangong samyo, isang handog sa pamamagitan ng apoy para sa Panginoon .
 019	Kukunin mo ang isa pang lalaking tupa at ipapatong ni Aaron at ng kanyang mga anak ang kanilang mga kamay sa ulo ng tupa.
 020	Papatayin mo ang tupa, kukunin mo ang dugo, at ilalagay mo sa dulo ng kanang tainga ni Aaron, at sa dulo ng kanang tainga ng kanyang mga anak, at sa hinlalaki ng kanilang kanang kamay, at sa hinlalaki ng kanilang kanang paa, at iwiwisik mo ang natirang dugo sa ibabaw ng dambana sa palibot.
-021	Kukuha ka ng bahagi ng dugo na nasa ibabaw ng dambana, at ng langis na pambuhos, at iwiwisik mo kay Aaron at sa kanyang mga kasuotan, at sa kanyang mga anak na kasama niya; pati ang mga kasuotan nila at magiging banal siya at ang kanyang mga kasuotan, at ang kanyang mga anak, at ang mga kasuotan ng kanyang mga anak na kasama niya.
+021	Kukuha ka ng bahagi ng dugo na nasa ibabaw ng dambana, at ng langis na pambuhos, at iwiwisik mo kay Aaron at sa kanyang mga kasuotan, at sa kanyang mga anak na kasama niya;
+021	pati ang mga kasuotan nila at magiging banal siya at ang kanyang mga kasuotan, at ang kanyang mga anak, at ang mga kasuotan ng kanyang mga anak na kasama niya.
 022	Kukunin mo rin ang taba ng lalaking tupa, at ang matabang buntot, at ang tabang nakabalot sa mga bituka, ang mga taba ng atay, ang dalawang bato, ang taba na nasa ibabaw ng mga iyon, at ang kanang hita sapagkat iyon ay isang lalaking tupa na itinatalaga,
 023	isang malaking tinapay, at isang munting tinapay na may langis, at isang manipis na tinapay sa bakol ng tinapay na walang pampaalsa na nasa harapan ng Panginoon .
-024	Ilalagay mo ang lahat ng ito sa mga kamay ni Aaron at sa mga kamay ng kanyang mga anak; at iyong iwawagayway ang mga ito bilang handog na iwinawagayway sa harapan ng Panginoon .
-025	Kukunin mo sa kanilang mga kamay ang mga ito, at iyong susunugin sa dambana bilang karagdagan sa handog na sinusunog, bilang isang mabangong samyo sa harapan ng Panginoon ; ito ay handog sa Panginoon na pinaraan sa apoy.
-026	At kukunin mo ang dibdib ng lalaking tupa na itinalaga ni Aaron, at iwawagayway mo ito bilang handog na iwinawagayway sa harapan ng Panginoon ; at iyon ang magiging iyong bahagi.
+024	Ilalagay mo ang lahat ng ito sa mga kamay ni Aaron at sa mga kamay ng kanyang mga anak;
+024	at iyong iwawagayway ang mga ito bilang handog na iwinawagayway sa harapan ng Panginoon .
+025	Kukunin mo sa kanilang mga kamay ang mga ito, at iyong susunugin sa dambana bilang karagdagan sa handog na sinusunog, bilang isang mabangong samyo sa harapan ng Panginoon ;
+025	ito ay handog sa Panginoon na pinaraan sa apoy.
+026	At kukunin mo ang dibdib ng lalaking tupa na itinalaga ni Aaron, at iwawagayway mo ito bilang handog na iwinawagayway sa harapan ng Panginoon ;
+026	at iyon ang magiging iyong bahagi.
 027	Iyong itatalaga ang dibdib ng handog na iwinawagayway, at ang hitang iwinawagayway na bahagi ng pari, mula sa lalaking tupa na itinalaga para kay Aaron at sa kanyang mga anak.
 028	Ito ay magiging kay Aaron at sa kanyang mga anak, na bahaging ukol sa kanila sa habang panahon na mula sa mga anak ni Israel, sapagkat ito ang bahagi ng mga pari na ihahandog ng mga anak ni Israel, na kinuha sa kanilang mga handog pangkapayapaan.
 028	Ito ay kanilang handog sa Panginoon .
@@ -38,17 +45,24 @@ verse	content
 032	Kakainin ni Aaron at ng kanyang mga anak ang laman ng tupa, at ang tinapay na nasa bakol sa pintuan ng toldang tipanan.
 033	Kanilang kakainin ang mga bagay na iyon, na ipinantubos ng sala, upang italaga at pakabanalin sila, subalit hindi kakain niyon ang sinumang dayuhan, sapagkat banal ang mga ito.
 034	At kung may lumabis sa laman na itinalaga, o sa tinapay, hanggang sa kinaumagahan, ay iyo ngang susunugin sa apoy ang nalabi, hindi ito kakainin, sapagkat ito'y banal.
-035	Ito ang gagawin mo kay Aaron at sa kanyang mga anak, ayon sa lahat ng aking iniutos sa iyo; pitong araw mo silang itatalaga.
+035	Ito ang gagawin mo kay Aaron at sa kanyang mga anak, ayon sa lahat ng aking iniutos sa iyo;
+035	pitong araw mo silang itatalaga.
 036	Araw-araw ay maghahandog ka ng toro na handog pangkasalanan bilang pantubos.
-036	Maghahandog ka rin ng handog pangkasalanan para sa dambana, kapag iyong iginagawa ng katubusan iyon; at iyong bubuhusan ito ng langis upang ito'y maitalaga.
-037	Pitong araw na iyong gagawan ng katubusan ang dambana, at iyong pakakabanalin ito, at ang dambana ay magiging kabanal-banalan; anumang humipo sa dambana ay magiging banal.
+036	Maghahandog ka rin ng handog pangkasalanan para sa dambana, kapag iyong iginagawa ng katubusan iyon;
+036	at iyong bubuhusan ito ng langis upang ito'y maitalaga.
+037	Pitong araw na iyong gagawan ng katubusan ang dambana, at iyong pakakabanalin ito, at ang dambana ay magiging kabanal-banalan;
+037	anumang humipo sa dambana ay magiging banal.
 038	Ito naman ang iyong ihahandog sa ibabaw ng dambana: dalawang kordero na tig-iisang taong gulang, araw-araw sa habang panahon.
-039	Ang isang kordero ay iyong ihahandog sa umaga; at ang isang kordero ay iyong ihahandog sa hapon;
-040	at kasama ng unang kordero ang ikasampung bahagi ng mainam na harina na may halong ikaapat na bahagi ng isang hin ng langis na hinalo; at ang ikaapat na bahagi ng isang hin na alak, ang handog na inumin.
+039	Ang isang kordero ay iyong ihahandog sa umaga;
+039	at ang isang kordero ay iyong ihahandog sa hapon;
+040	at kasama ng unang kordero ang ikasampung bahagi ng mainam na harina na may halong ikaapat na bahagi ng isang hin ng langis na hinalo;
+040	at ang ikaapat na bahagi ng isang hin na alak, ang handog na inumin.
 041	Ang isa pang kordero ay iyong ihahandog sa hapon, at iyong ihahandog na kasama nito ang handog na butil at handog na inumin tulad ng sa umaga, na mabangong samyo, na isang handog sa Panginoon na pinaraan sa apoy.
-042	Ito ay magiging isang patuloy na handog na sinusunog sa buong panahon ng inyong mga salinlahi sa pintuan ng toldang tipanan, sa harapan ng Panginoon ; kung saan ko kayo tatagpuin, upang makipag-usap ako roon sa iyo.
+042	Ito ay magiging isang patuloy na handog na sinusunog sa buong panahon ng inyong mga salinlahi sa pintuan ng toldang tipanan, sa harapan ng Panginoon ;
+042	kung saan ko kayo tatagpuin, upang makipag-usap ako roon sa iyo.
 043	At doo'y makikipagtagpo ako sa mga anak ni Israel, at ito ay pakakabanalin ng aking kaluwalhatian.
-044	Aking pakakabanalin ang toldang tipanan, at ang dambana; gayundin si Aaron at ang kanyang mga anak ay aking pakakabanalin upang maglingkod sa akin bilang mga pari.
+044	Aking pakakabanalin ang toldang tipanan, at ang dambana;
+044	gayundin si Aaron at ang kanyang mga anak ay aking pakakabanalin upang maglingkod sa akin bilang mga pari.
 045	Ako'y mananahan sa gitna ng mga anak ni Israel, at ako'y magiging kanilang Diyos.
 046	Kanilang malalaman na ako ang Panginoon nilang Diyos na naglabas sa kanila sa lupain ng Ehipto, upang ako'y manirahang kasama nila.
 046	Ako ang Panginoon nilang Diyos.

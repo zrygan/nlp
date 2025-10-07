@@ -16,7 +16,8 @@ verse	content
 009	Ni ked kam ten sinagoga ay blbggn di kam, sakay iyangay di kam ten mgkataas hidi a pinunu nen banuwan gapu ten kssunud moy dikoku tnni mebahagi moy en Maganda a Bareta.
 010	Kailangan a mepangaral pa en Maganda a Bareta ten atanan a bansa bagu a dumemt en katapusan.
 011	Ni dikppn di kam sakay bistan ay dyan kam mabalisa ni nya i kagiyn moyid.
-011	Ti odasid a iyud ay kagiyn moy la en dapat moy a kagiyn, gapu bakn a sikam en magupos; en kagiyn moy ay maggubwat ten Banal a Ispiritu.
+011	Ti odasid a iyud ay kagiyn moy la en dapat moy a kagiyn, gapu bakn a sikam en magupos;
+011	en kagiyn moy ay maggubwat ten Banal a Ispiritu.
 012	Kddemt ni panahunid a iyud ay itokyon nen tolay en kapatkaka na a pabunu.
 012	Kona labi hud i gamitnnid nen ama ten anak na.
 012	Labanan nen anak en dddikl na sakay pabunu na.
@@ -42,8 +43,10 @@ verse	content
 025	En biton hidi dilanget ay mgkaragrag, sakay magkagulu en atanan a kapangyariyan ten kalawakan.
 026	Kttapos ay ketan en Anak nen Tolay a dumemt a ked ten panganurin, a tehud a dakila a kapangyariyan sakay karangalan.
 027	Utusan na en anghel na hidi ten ppat a suluk ni munduwiday tnni pisann di en pinili hidi nen Diyos ten atanan a lugar.
-028	Intendiyn moy en adal a gubwat ten kayu a igos; ni manariwa dn en pinget na sakay ni magduun dn, ay iyud en tanda a adeni dn en kssinag.
-029	Kona labi hud, ni ketan moy a mangyari dn hidi iyd a bagay ay matukoyan moy a adeni dn en kddemt na; dumddadedemt dn siya.
+028	Intendiyn moy en adal a gubwat ten kayu a igos;
+028	ni manariwa dn en pinget na sakay ni magduun dn, ay iyud en tanda a adeni dn en kssinag.
+029	Kona labi hud, ni ketan moy a mangyari dn hidi iyd a bagay ay matukoyan moy a adeni dn en kddemt na;
+029	dumddadedemt dn siya.
 030	Tandaan moy: mangyari atananid a iyd a bagay bagu a matay en tolay hidi a biyag nadid.
 031	Lumipas en langet sakay en luta, peru en upos ku ay manatili a awan ti katapusan.
 032	Peru awan ti makatukoy ten aldew ay ten odas, maski en anghel hidi dilanget, oni en Anak man.

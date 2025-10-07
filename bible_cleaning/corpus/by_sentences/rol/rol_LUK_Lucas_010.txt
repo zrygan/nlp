@@ -25,7 +25,8 @@ verse	content
 015	Ang kalaom ba nindo pagadayawon gid kamo?
 015	Ihuhuyog gid kamo sa impyerno!
 016	Pagkatapos naghambay si Hesus, Ang nagapamat sa indo nagapamat da sa akon.
-016	Ang nagasikway sa indo, nagasikway da sa akon; kag ang nagasikway sa akon, nagasikway da sa nagsug sa akon.
+016	Ang nagasikway sa indo, nagasikway da sa akon;
+016	kag ang nagasikway sa akon, nagasikway da sa nagsug sa akon.
 017	Pagbalik ng 72 ka disipulo kay Hesus, nalipay gid sinda.
 017	Naghambay sinda, Ginoo, aber ang mga demonyo hay nagatuman sa amon nang gingpalayas namon sinda paagi sa imo pangayan!
 018	Nagsabat si Hesus sa inda, Nakit ko si Satanas nga nahuyog halin sa langit nga pareho ning kilat.
@@ -33,12 +34,15 @@ verse	content
 019	Gingtaw-an ko kamo ning gahom agud bisan matimakan nindo ang mga sawa kag iwi, way gid ning may matatab sa indo nga malain kag maperdi nindo ang tanan nga gahom ng aton kaaway nga si Satanas.
 020	Pero ayaw kamo magkalipay kay nagatuman sa indo ang malain nga mga espiritu, kund magkalipay kamo kay ang indo pangayan nakasulat na sa langit.
 021	Adto nga oras, napun gid si Hesus ning kalipay halin sa Espiritu Santo.
-021	Naghambay siya, Amay nga Ginoo ng langit kag dut, ginadayaw ko ikaw kay ang kamatuuran hay imo gingtag sa mga tawo nga ang kalaom ninda hay kamayad sinda kag may tinun-an; kag imo ini gingpasayod sa mga mapainubuson nga pareho ng ung nga kaisot.
+021	Naghambay siya, Amay nga Ginoo ng langit kag dut, ginadayaw ko ikaw kay ang kamatuuran hay imo gingtag sa mga tawo nga ang kalaom ninda hay kamayad sinda kag may tinun-an;
+021	kag imo ini gingpasayod sa mga mapainubuson nga pareho ng ung nga kaisot.
 021	Amay, dayawon ka, kay imaw ini ang ginakalipay mo.
 022	Pagkatapos adto, naghambay si Hesus sa mga tawo didto, Gingtao na ang tanan sa akon ng akon Amay.
-022	Way ning may nakakakilaya sa akon nga iya Ung kund ang Amay; kag way ning may nakakakilaya sa Amay kund ang iya Ung kag ang mga tawo nga gingpil ng Ung nga maipakilaya ang Amay.
+022	Way ning may nakakakilaya sa akon nga iya Ung kund ang Amay;
+022	kag way ning may nakakakilaya sa Amay kund ang iya Ung kag ang mga tawo nga gingpil ng Ung nga maipakilaya ang Amay.
 023	Pagkatapos nag-atubang si Hesus sa iya mga disipulo kag naghambay sa inda lang, Bulahan kamo kay nakit gid nindo ang tanan nga ginapanghuman ko!
-024	Ginahambay ko sa indo, kadam nga propeta kag har nang una ang gusto makakit ng indo nakit, pero way sinda nakakit; kag gusto da ninda makapamat ng indo nabatian, pero way sinda nakabat.
+024	Ginahambay ko sa indo, kadam nga propeta kag har nang una ang gusto makakit ng indo nakit, pero way sinda nakakit;
+024	kag gusto da ninda makapamat ng indo nabatian, pero way sinda nakabat.
 025	May isa ka miyugtudl ng Kasuguan nga nagpalapit kay Hesus para tilawan siya.
 025	Nagpangutana siya, Maestro, ano baya ang dapat ko humanon agud makapanubl ning kabuh nga way katapusan?
 026	Nagsabat si Hesus, Ano ang hambay sa Kasuguan ng Dios?

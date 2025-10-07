@@ -27,7 +27,8 @@ verse	content
 019	Paminaw kay tambagan ko ikaw ug ubanan ka unta sa Dios.
 019	Ikaw ang magrepresentar sa katawhan ngadto sa Dios ug dad-a ngadto kaniya ang ilang mga kasungian.
 020	Kinahanglan imo silang tudloan sa tanang mga balaod ug ipasabot kanila kon unsaon nila pagkinabuhi ug unsay angay nilang buhaton.
-021	Apan pagpilig mga tawo nga may katakos; kanang may kahadlok sa Dios, kasaligan ug dili kasubornohan.
+021	Apan pagpilig mga tawo nga may katakos;
+021	kanang may kahadlok sa Dios, kasaligan ug dili kasubornohan.
 021	Unya himoa silang mga pangulo sa tag-1000, tag-100, tag-50 ug tag-10 ka mga tawo.
 022	Mag-alagad sila ingon nga permanenteng maghuhukom sa katawhan.
 022	Isang-at nila kanimo ang lisod nga mga problema apan sila ray maghusay sa gagmayng mga bingkilbingkil.

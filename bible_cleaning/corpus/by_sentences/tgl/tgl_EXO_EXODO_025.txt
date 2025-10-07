@@ -1,6 +1,7 @@
 verse	content
 001	Ang Panginoon ay nagsalita kay Moises, na sinasabi,
-002	Sabihin mo sa mga anak ni Israel na sila'y magdala sa akin ng isang handog; tanggapin ninyo ang handog para sa akin mula sa bawat tao na ang puso ay nagkukusang-loob.
+002	Sabihin mo sa mga anak ni Israel na sila'y magdala sa akin ng isang handog;
+002	tanggapin ninyo ang handog para sa akin mula sa bawat tao na ang puso ay nagkukusang-loob.
 003	At ito ang handog na inyong kukunin sa kanila: ginto, pilak, tanso,
 004	lanang asul, kulay-ube, pula, at lino at pinong hinabing balahibo ng kambing,
 005	mga balat ng lalaking tupa na kinulayan ng pula, at mga balat ng kambing, at kahoy na akasya,
@@ -9,31 +10,42 @@ verse	content
 008	Igawa nila ako ng isang santuwaryo upang ako'y makapanirahan sa gitna nila.
 009	Ayon sa lahat ng aking ipinakita sa iyo, sa anyong huwaran ng tabernakulo at sa anyong huwaran ng lahat ng kasangkapan niyon ay gayon ninyo gagawin.
 010	Sila'y gagawa ng isang kabang yari sa kahoy na akasya na may dalawang siko at kalahati ang haba, isang siko't kalahati ang luwang, isang siko't kalahati ang taas.
-011	Iyong babalutin ng lantay na ginto; sa loob at sa labas ay iyong babalutin, at igagawa mo ng isang moldeng ginto sa palibot.
+011	Iyong babalutin ng lantay na ginto;
+011	sa loob at sa labas ay iyong babalutin, at igagawa mo ng isang moldeng ginto sa palibot.
 012	Bubuo ka ng apat na argolyang ginto para ilagay mo sa apat na paa niyon, dalawang argolya sa isang tagiliran niyon, at dalawang argolya sa kabilang tagiliran niyon.
 013	Gagawa ka ng mga pasanang yari sa kahoy na akasya at iyong babalutin ng ginto.
 014	Iyong isusuot ang mga pasanan sa mga argolya na nasa mga tagiliran ng kaban, upang mabuhat ang kaban sa pamamagitan ng mga ito.
-015	Ang mga pasanan ay mananatili sa loob ng mga argolya ng kaban; hindi aalisin doon ang mga ito.
+015	Ang mga pasanan ay mananatili sa loob ng mga argolya ng kaban;
+015	hindi aalisin doon ang mga ito.
 016	Iyong ilalagay sa loob ng kaban ang mga patotoo na aking ibibigay sa iyo.
 017	Pagkatapos, gagawa ka ng isang luklukan ng awa na lantay na ginto na may dalawang siko at kalahati ang haba niyon, at isang siko at kalahati ang luwang niyon.
-018	At gagawa ka ng dalawang kerubin na ginto; gagawin mo ang mga iyon sa pamamagitan ng pagpitpit, sa dalawang dulo ng luklukan ng awa.
-019	Gumawa ka ng isang kerubin sa isang dulo, at ng isang kerubin sa kabilang dulo; sa kaputol ng luklukan ng awa, gagawin mo ang mga kerubin sa dalawang dulo niyon.
+018	At gagawa ka ng dalawang kerubin na ginto;
+018	gagawin mo ang mga iyon sa pamamagitan ng pagpitpit, sa dalawang dulo ng luklukan ng awa.
+019	Gumawa ka ng isang kerubin sa isang dulo, at ng isang kerubin sa kabilang dulo;
+019	sa kaputol ng luklukan ng awa, gagawin mo ang mga kerubin sa dalawang dulo niyon.
 020	Ibubuka ng mga kerubin nang paitaas ang kanilang pakpak, na nilililiman ang luklukan ng awa ng kanilang mga pakpak.
-020	Sila'y nakaharap sa isa't isa; ang mukha ng kerubin ay nakaharap sa luklukan ng awa.
-021	Iyong ilalagay ang luklukan ng awa sa ibabaw ng kaban; at sa loob ng kaban ay iyong ilalagay ang tipan na aking ibibigay sa iyo.
+020	Sila'y nakaharap sa isa't isa;
+020	ang mukha ng kerubin ay nakaharap sa luklukan ng awa.
+021	Iyong ilalagay ang luklukan ng awa sa ibabaw ng kaban;
+021	at sa loob ng kaban ay iyong ilalagay ang tipan na aking ibibigay sa iyo.
 022	Doon ako makikipagtagpo sa iyo, at mula sa ibabaw ng luklukan ng awa, sa gitna ng dalawang kerubin na nasa ibabaw ng kaban ng tipan ay ibibigay ko sa iyo ang lahat ng mga utos ko para sa mga anak ni Israel.
-023	Gagawa ka ng isang hapag na yari sa kahoy na akasya; dalawang siko ang haba, isang siko ang luwang at isang siko at kalahati ang taas.
+023	Gagawa ka ng isang hapag na yari sa kahoy na akasya;
+023	dalawang siko ang haba, isang siko ang luwang at isang siko at kalahati ang taas.
 024	Iyong babalutin ito ng lantay na ginto, at igagawa mo ng isang moldeng ginto sa palibot.
 025	Igagawa mo ito ng isang gilid sa palibot na may isang dangkal ang luwang, at igagawa mo ng isang moldeng ginto ang palibot ng gilid niyon.
 026	At igagawa mo ng apat na argolyang ginto, at ilalagay mo ang mga argolya sa apat na sulok na nasa apat na paa niyon.
 027	Malalapit sa gilid ang mga argolya, sa daraanan ng mga pasanan, upang madala ang hapag.
 028	At gagawin mo ang mga pasanan mula sa kahoy na akasya, at iyong babalutin ng ginto, at ang hapag ay dadalhin sa pamamagitan ng mga iyon.
-029	Gagawa ka ng mga pinggan niyon para sa insenso, at ng mga banga at mga mangkok na pagbubuhusan; na iyong gagawing lantay na ginto.
+029	Gagawa ka ng mga pinggan niyon para sa insenso, at ng mga banga at mga mangkok na pagbubuhusan;
+029	na iyong gagawing lantay na ginto.
 030	At ilalagay mo sa hapag ang tinapay na handog sa harap ko palagi.
 031	Gagawa ka ng isang ilawan na lantay na ginto.
-031	Ang paa at tangkay ng ilawan ay yari sa pinitpit na ginto; ang mga sanga, ang mga kopa niyon, at ang mga bulaklak niyon ay isang piraso.
+031	Ang paa at tangkay ng ilawan ay yari sa pinitpit na ginto;
+031	ang mga sanga, ang mga kopa niyon, at ang mga bulaklak niyon ay isang piraso.
 032	At magkakaroon ng anim na sangang lumalabas sa mga tagiliran niyon na kasama nito, tatlong sanga ng ilawan sa isang tagiliran niyon, at tatlong sanga ng ilawan ay sa kabilang tagiliran niyon,
-033	tatlong kopa na ginawang tulad ng almendro, bawat isa ay may usbong at isang bulaklak; at tatlong kopang anyong bulaklak ng almendro sa kabilang sanga, isang usbong at isang bulaklak; at gayon sa anim na sangang lumalabas mula sa ilawan.
+033	tatlong kopa na ginawang tulad ng almendro, bawat isa ay may usbong at isang bulaklak;
+033	at tatlong kopang anyong bulaklak ng almendro sa kabilang sanga, isang usbong at isang bulaklak;
+033	at gayon sa anim na sangang lumalabas mula sa ilawan.
 034	Sa ilawan mismo ay magkakaroon ng apat na kopang anyong bulaklak ng almendro, kasama ng mga usbong at ng mga bulaklak niyon,
 035	at magkakaroon ng isang usbong sa ilalim ng bawat pares ng anim na lumalabas sa ilawan.
 036	Ang magiging mga usbong at mga sanga niyon ay iisa, ang kabuuan niyon ay isa lamang putol na yari sa pinitpit na lantay na ginto.

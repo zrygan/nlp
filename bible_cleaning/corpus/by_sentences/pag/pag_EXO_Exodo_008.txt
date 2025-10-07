@@ -43,5 +43,6 @@ verse	content
 030	Balet ag mo kami la papalikdoen, tan ag mo la sesebelan iray totoo ed iyakar dan mangibagat ed Katawan .
 031	Tinaynan nen Moises so ari tan akikasid Katawan ,
 032	et say Katawan ginawa to so kerew nen Moises.
-032	Tinaynan na saray apangat so ari, saray opisyal to, tan saray totoo to; anggapoy anggan sakey ya atilak.
+032	Tinaynan na saray apangat so ari, saray opisyal to, tan saray totoo to;
+032	anggapoy anggan sakey ya atilak.
 033	Balet pinaawet ni na ari so puso to, tan ag to lamet inabuloyan ya onla la ray Israelita.

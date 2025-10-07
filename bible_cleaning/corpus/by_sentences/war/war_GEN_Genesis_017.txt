@@ -17,7 +17,8 @@ verse	content
 011	Magpapakita ini nga may-ada naton ginsaaran.
 012	Kinahanglan pagtorion an kada usa, ngan mahihimo ini nga lawasnon nga tigaman hin pagpakita nga waray kataposan an aton ginsaaran.
 013	Diri na pag-iisipon nga sakop han akon mga tawo an bisan hin-o nga lalake nga diri pagtorion, kay waray hiya magtuman han aton ginsaaran.
-014	Nagsiring an Dyos kan Abraham, Ayaw na pagtawgon nga Sarai an imo asawa; tikang yana Sara na an iya ngaran.
+014	Nagsiring an Dyos kan Abraham, Ayaw na pagtawgon nga Sarai an imo asawa;
+014	tikang yana Sara na an iya ngaran.
 015	Pagbebendisyonan ko hiya, ngan tatagan ko ikaw hin usa nga anak nga lalake pinaagi ha iya.
 015	Pagbebendisyonan ko hiya, ngan mahihimo hiya nga iroy hin mga nasod, ngan magkakamay-ada kahadian dida han iya mga tulin.
 016	Hinmapa hi Abraham, kundi nahipatawa hiya han pakahunahuna niya, Makakaanak pa ba in usa nga lalake nga 100 na an iya panuigon?

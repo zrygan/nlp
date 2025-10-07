@@ -8,9 +8,11 @@ verse	content
 005	Nanuga an Kagurangnan sa saindong mga ginikanan na itatao niya saindo an daga kan mga Cananeo, Heteo, Amoreo, Heveo asin mga Jebuseo.
 005	Kun darahon na niya kamo duman sa dagang mayaman sa gabos na bagay, gibohon nindo ining pyesta sa enot na bulan kan lambang taon.
 006	Sa laog nin pitong aldaw magkakan kamo nin tinapay na mayo nin lebadura asin sa ikapitong aldaw magpyesta kamo para sa Kagurangnan .
-007	Sa laog nin pitong aldaw dai kamo magkakan nin tinapay na igwa nin lebadura; kaipuhan mayo nin makuang lebadura o tinapay na igwa nin lebadura maski saen sa saindong daga.
+007	Sa laog nin pitong aldaw dai kamo magkakan nin tinapay na igwa nin lebadura;
+007	kaipuhan mayo nin makuang lebadura o tinapay na igwa nin lebadura maski saen sa saindong daga.
 008	Pagpoon kan pyesta, ipasabot nindo sa saindong mga aki na ginigibo nindo an gabos na ini huli sa ginibo nin Kagurangnan para sa saindo kan maghale kamo sa Egipto.
-009	An paggibo kaini sarong pagiromdom, arog sa sarong bagay na nakagakod sa saindong kamot o sa saindong angog; magpapagiromdom iyan sa saindo na magpadagos kamo sa pag-adal kan Togon nin Kagurangnan , huli ta ilinuwas niya kamo sa Egipto huli kan saiyang dakulang kapangyarihan.
+009	An paggibo kaini sarong pagiromdom, arog sa sarong bagay na nakagakod sa saindong kamot o sa saindong angog;
+009	magpapagiromdom iyan sa saindo na magpadagos kamo sa pag-adal kan Togon nin Kagurangnan , huli ta ilinuwas niya kamo sa Egipto huli kan saiyang dakulang kapangyarihan.
 010	Taon-taon gigibohon nindo an pyestang ini sa talaan na aldaw.
 011	Dadarahon kamo nin Kagurangnan sa daga kan mga Cananeo na ipinanuga niya saindo asin sa saindong mga ginikanan.
 011	Kun itao na niya iyan saindo,
@@ -22,11 +24,13 @@ verse	content
 014	Sa maabot na panahon, kun maghapot an saindong aking lalaki kun ano an boot sabihon kan ginigibo nindong ini, sabihan nindo, Huli kan saiyang dakulang kapangyarihan, hinale kami nin Kagurangnan sa Egipto, saen nagin mga oripon kami.
 015	Kan nagmatagas an hade asin habo niya kaming tugotan na humale, ginadan nin Kagurangnan an lambang matuang lalaki sa daga nin Egipto, tawo man o hayop.
 015	Ini an dahelan kun tadaw ta inaatang mi sa Kagurangnan an lambang matuang lalaking hayop, alagad tinutubos mi an samong mga matuang aking lalaki.
-016	Ini arog sa sarong bagay na nakagakod sa samong kamot o sa samong angog; magpapagiromdom ini samo na ilinuwas kami nin Kagurangnan sa Egipto huli kan saiyang dakulang kapangyarihan.
+016	Ini arog sa sarong bagay na nakagakod sa samong kamot o sa samong angog;
+016	magpapagiromdom ini samo na ilinuwas kami nin Kagurangnan sa Egipto huli kan saiyang dakulang kapangyarihan.
 017	Kan tugotan kan hade nin Egipto na humale na an mga Israelita, dai sinda pinaagi nin Dios sa daga kan mga Filisteo maski iyo ini an pinakaharaning dalan.
 017	Nagsaboot an Dios, Tibaad magbasol an mga tawo asin magbalik sa Egipto kun mapalaban na tolos sinda.
 018	Kaya pinalibot niya sinda sa kalangtadan pasiring sa Dagat na Pula, maski andam sinda sa pakilaban pagluwas ninda sa Egipto.
 019	Dinara ni Moises an mga tolang ni Jose, sa pag-otob sa kahagadan kaini, kan magsabi si Jose, Kun iligtas na kamo nin Dios, kaipuhan darahon nindo an sakong tolang paghale nindo sa lugar na ini.
 020	Naghale sa Sukkot an mga Israelita asin nagkampo sa Etam na nasa tampi kan kalangtadan.
-021	Kun aldaw, an Kagurangnan nasa harigi nin panganoron, nangengenot tanganing itukdo sainda an dalan; kun banggi, nasa harigi siya nin kalayo tanganing magtao sainda nin liwanag, tanganing makabaklay sinda sa aldaw asin sa banggi.
+021	Kun aldaw, an Kagurangnan nasa harigi nin panganoron, nangengenot tanganing itukdo sainda an dalan;
+021	kun banggi, nasa harigi siya nin kalayo tanganing magtao sainda nin liwanag, tanganing makabaklay sinda sa aldaw asin sa banggi.
 022	Danay na nangengenotan sa mga tawo an harigi nin panganoron kun aldaw asin an harigi nin kalayo kun banggi.

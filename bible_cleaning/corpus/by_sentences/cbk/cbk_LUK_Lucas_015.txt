@@ -31,7 +31,8 @@ verse	content
 023	Lleva aqui el mas bonito ropa que tiene kita y dale con ele visti.
 023	Y pone un anillo na su dedo y pone tamen sapatos na di suyo pies.
 024	Despues anda saca aquel vaquita mas gordo y mata con ese para celebra kita,
-025	cay pensaba yo muerto ya el di mio anak, pero vivo man gale; ya pensa yo que ya perde ya le, pero ahora taqui ya le ole conmigo!
+025	cay pensaba yo muerto ya el di mio anak, pero vivo man gale;
+025	ya pensa yo que ya perde ya le, pero ahora taqui ya le ole conmigo!
 025	Entonces ya principia ya sila man alegria.
 026	Pero el anak mayor nuay na casa cuando ya llega su hermano menor, cay talla le na sementera.
 026	Cuando ya acaba ya le el di suyo trabajo, ya camina ya para volve y cuando cerca ya na casa ya oi le el sonido de musica y el sonido del maga pies ta baila.

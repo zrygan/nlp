@@ -53,7 +53,8 @@ verse	content
 034	Pareho da ini sa isa ka tawo nga mabyahe sa iban nga lugar.
 034	Bago siya naghalin sa iya bayay, gingtaw-an niya ang iya mga ulipon ning otoridad kag kada isa sa inda hay may trabaho.
 034	Kag gingsug niya ang bantay sa pwertahan nga magbantay.
-035	Ngan magbantay kamo kay way kamo makasayod kung san-o magaabot ang tag-iya ng bayay; puydi sa manayumsom, sa hanagob, sa aga-aga, o sa pagsubat ng adlaw.
+035	Ngan magbantay kamo kay way kamo makasayod kung san-o magaabot ang tag-iya ng bayay;
+035	puydi sa manayumsom, sa hanagob, sa aga-aga, o sa pagsubat ng adlaw.
 036	Bas kung gulpi lang ang iya pag-abot kag maabutan niya kamo nga nagakatuyog.
 037	Ang ginahambay ko sa indo hay ginahambay ko da sa tanan.
 037	Magbantay kamo!

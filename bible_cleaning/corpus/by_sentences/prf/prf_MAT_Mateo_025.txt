@@ -65,7 +65,8 @@ verse	content
 041	Sakay kagiyn na bi ten ked hidi ten kawiri na, Umadeyu kam dikoku a sinumpa hidi!
 041	Angay kam ten apoy a awan ti kkkaadp a nehanda para ten diyablo sakay ten sakup na hidi.
 042	Gapu dikona magalppk ay awank moy pinakan, nauwawk ay awank moy pinainom.
-043	Dikona dayuwk ay awank moy pinatulos; dikona awank ti mesulot ay awank moy pinabaduwan.
+043	Dikona dayuwk ay awank moy pinatulos;
+043	dikona awank ti mesulot ay awank moy pinabaduwan.
 043	Dikona tehudk a saket sakay piresuwk ay awank moy binisita.
 044	Sakay tumbbig bi hidi, Panginoon, nengkan mi ka netan a nagalp, nauwaw, dayu, awan ti mesulot, tehud a saket oni piresu, sakay awan mi ka sinerbiyan?
 045	Sakay kagiyn nen Hari dikodi a, Tandaan moy, dikona awan moy tinulungan en kababaan ti hidi iddi, ay ginamet moy iyud dikoku.

@@ -1,7 +1,8 @@
 verse	content
 001	May-ada lain nga gutom didto han tuna labot han nahiuna dida han panahon ni Abraham.
 001	Kinmadto hi Isaac kan Abimelec nga hadi han mga Filisteohanon, didto ha Gerar.
-002	Pinmakita kan Isaac an Ginoo ngan nagsiring, Ayaw pagkadto ha Ehipto; pabilin dinhe hini nga tuna nga ginpaukyan ko ha imo.
+002	Pinmakita kan Isaac an Ginoo ngan nagsiring, Ayaw pagkadto ha Ehipto;
+002	pabilin dinhe hini nga tuna nga ginpaukyan ko ha imo.
 003	Pag-ukoy la anay dinhe, ngan maupod ako ha imo ngan pagpapakaupayon ko ikaw.
 003	Ighahatag ko ha imo ngan han imo mga tulin ini ngatanan nga katunaan.
 003	Pagtutumanon ko an saad nga akon ginhimo kan Abraham nga imo amay.

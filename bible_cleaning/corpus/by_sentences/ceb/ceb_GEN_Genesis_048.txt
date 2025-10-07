@@ -19,7 +19,8 @@ verse	content
 012	Miingon si Jacob kang Jose, Wala ako magtuo nga makita ko pa ikaw apan gitugotan ako sa Dios nga makita ko ikaw lakip ang imong mga anak.
 013	Unya gikuha ni Jose ang mga bata gikan sa mga tuhod ni Jacob ug mihapa siya sa atubangan sa iyang amahan.
 014	Gikuptan ni Jose ang duha ka bata, si Efraim sa tuong kamot aron adto siya dapit sa wala ni Jacob ug si Manases sa walang kamot aron adto siya dapit sa tuo ni Jacob ug iyang gidala sila ngadto kang Jacob.
-015	Apan gikuros ni Jacob ang iyang mga kamot; gitapion niya ang iyang tuong kamot sa ulo ni Efraim nga maoy manghod ug ang wala sa ulo ni Manases nga maoy magulang.
+015	Apan gikuros ni Jacob ang iyang mga kamot;
+015	gitapion niya ang iyang tuong kamot sa ulo ni Efraim nga maoy manghod ug ang wala sa ulo ni Manases nga maoy magulang.
 016	Unya gipanalanginan niya si Jose nga nag-ingon
 017	Panalanginan unta kining mga bataa sa Dios
 018	nga gialagaran sa akong mga katigulangan nga si Abraham ug si Isaac.
@@ -34,7 +35,8 @@ verse	content
 027	Sa pagtan-aw ni Jose nga ang tuong kamot sa iyang amahan didto itapion sa ulo ni Efraim, wala niya kini ikahimuot.
 027	Busa gibalhin niya ang kamot sa iyang amahan ngadto sa ulo ni Manases.
 028	Miingon siya sa iyang amahan, Amahan ko, dili kana mao.
-028	Si Manases maoy magulang; itapion ang imong tuong kamot sa iyang ulo.
+028	Si Manases maoy magulang;
+028	itapion ang imong tuong kamot sa iyang ulo.
 029	Apan midumili ang iyang amahan ug miingon, Anak, nahibalo ako.
 029	Ang mga kaliwat ni Manases modaghan usab.
 029	Apan ang iyang manghod mahimong mas gamhanan kay kaniya ug mahimong gamhanan ang iyang mga kaliwat.

@@ -17,7 +17,8 @@ verse	content
 012	Oneng ngana ning Dios kang Abraham, E ka magugulu isip tungkul king anak mu king ipus mu.
 012	Tukian mu ing buri nang Sarah king nanu pa man uli na ning i Isaac mu rin ya ing misundu king lahi mu.
 013	Tungkul naman king anak na ning ipus, gawan kia namang metung a bansa uling anak mia naman.
-014	Kabukasan, migising yang maranun i Abraham; kinangwa yang tinape at inuman at pepabakal na iti kang Agar.
+014	Kabukasan, migising yang maranun i Abraham;
+014	kinangwa yang tinape at inuman at pepabakal na iti kang Agar.
 014	Pepasimbaba ne ing anak kang Agar at pepasulungan na ne.
 014	Miglito-lito yang alang pupuntalan king ilang ning Beerseba at megisan ing
 015	danum a darala na.
@@ -28,10 +29,12 @@ verse	content
 017	Dimdam na ning Dios ing kiak ning anak at ibat banua kinulait ya kang Agar ing anghel ning Dios.
 017	Ngana, Nanung kababalisa mu, Agar?
 017	E ka tatakut uling dimdam na ning Dios ing kiak ning anak ketang kabilian na.
-018	Talakad ka; kuanan me ing anak at ingatan me uling gawan ku lang metung a marangal a bansa ding maging lahi na.
+018	Talakad ka;
+018	kuanan me ing anak at ingatan me uling gawan ku lang metung a marangal a bansa ding maging lahi na.
 019	Biklat na la ning Dios ding mata nang Agar at ikit ne ing metung a talaga.
 019	Lepitan ne at sepakan danum ing pilulanan na, at kaybat pepainum ne ing anak.
-020	E ne pepaburen ning Dios ing anak; meragul ya at menuknangan king ilang na ning Paran.
+020	E ne pepaburen ning Dios ing anak;
+020	meragul ya at menuknangan king ilang na ning Paran.
 020	Pikabaluan ya king pamamana, at
 021	pepakiasawan neng ima na king metung a babaing tubu Ehipto.
 022	Kanita naman tiki neng Abimelek i Pikol a pamuntuk da ring sundalus na.

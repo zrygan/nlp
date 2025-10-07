@@ -14,11 +14,13 @@ verse	content
 009	Maupay man, binmaton hira.
 009	Tan-awa, aadi hi Raquel nga iya anak nga babaye upod an iya panon.
 010	Nagsiring hi Jacob, Tungod nga adlaw pa man adi ngan diri pa panahon hin pagpasulod han mga panon, kay ano nga diri niyo paimnon ini ngan igbalik ngahaw ngadto han panabsaban?
-011	Binmaton hira, Diri kami makakahimo hito tubtob nga aanhi na an ngatanan nga mga panon ngan kinaliding na an bato; niyan paiimnon na namon an mga panon.
+011	Binmaton hira, Diri kami makakahimo hito tubtob nga aanhi na an ngatanan nga mga panon ngan kinaliding na an bato;
+011	niyan paiimnon na namon an mga panon.
 012	Samtang nakikighimangraw pa ha ira hi Jacob, inmabot hi Raquel upod an panon.
 013	Han pakakita ni Jacob kan Raquel upod han panon ni Laban nga iya bata, kinmadto hiya han atabay, ginkaliding an bato, ngan ginpainom an mga karnero.
 014	Kahuman ginhadkan niya hi Raquel ngan nagtangis hiya tungod hin kalipay.
-015	Iya ginsumatan hiya, Uropod ako ni imo tatay; anak ako ni Rebecca.
+015	Iya ginsumatan hiya, Uropod ako ni imo tatay;
+015	anak ako ni Rebecca.
 016	Dinmalagan dayon hi Raquel hin pagsumat kan iya tatay;
 017	ngan han pakabati la ni Laban han sumat hiunong han iya umangkon nga lalake nga hi Jacob, dinmalagan hiya hin pagtapo ha iya, ginggakos ngan ginhadkan hiya, ngan gindara hiya ngadto han balay.
 017	Han pagsumati na ni Jacob kan Laban han ngatanan nga nahinabo,
@@ -26,12 +28,15 @@ verse	content
 018	Nagpabilin didto hi Jacob sulod hin usa ka bulan.
 019	Nagsiring hi Laban kan Jacob, Tungod la nga urupod ta ikaw, diri angay nga magbudlay ka hin waray la suhol.
 019	Ano man an imo karuyag nga suhol?
-020	May-ada hi Laban duha nga mga anak nga kababayen-an; ginngaranan nga Lea an magurang ngan Raquel an manghod.
+020	May-ada hi Laban duha nga mga anak nga kababayen-an;
+020	ginngaranan nga Lea an magurang ngan Raquel an manghod.
 021	Maghusay an mga mata ni Lea kundi maupay an tindog han lawas hi Raquel ngan matahum hiya.
 022	Naghigugma hi Jacob kan Raquel, sanglit nagsiring hiya, Magtratrabaho ako para ha imo sulod hin pito ka tuig, kon ipaaasawa mo ha akon hi Raquel.
-023	Binmaton hi Laban, Gabay ko pa hiya ighatag ha imo kay ngadto hin iba nga tawo; pabilin dinhe upod ha akon.
+023	Binmaton hi Laban, Gabay ko pa hiya ighatag ha imo kay ngadto hin iba nga tawo;
+023	pabilin dinhe upod ha akon.
 024	Nagtrabaho hi Jacob hin pito ka tuig basi maasawa niya hi Raquel, nga daw sugad hin pira la ka adlaw an panahon para ha iya, kay naghigugma man hiya kan Raquel.
-025	Niyan nagsiring hi Jacob kan Laban, Tapos na an igintalaan mo panahon; ipaasawa na ha akon an imo anak.
+025	Niyan nagsiring hi Jacob kan Laban, Tapos na an igintalaan mo panahon;
+025	ipaasawa na ha akon an imo anak.
 026	Sanglit naghatag hi Laban hin kombite hin pagkasal ngan gindapit niya an ngatanan.
 027	Kundi hito nga gab-i, diri hi Raquel, kundi hi Lea an gindara ni Laban ngadto kan Jacob ngan nakighilawas ha iya hi Jacob.
 028	Iginhatag ni Laban kan Lea nga iya anak nga babaye hi Zilpa nga iya oripon nga babaye sugad nga iya surugoon.

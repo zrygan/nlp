@@ -20,7 +20,8 @@ verse	content
 012	Inyang milabas na ing pamagpaldas da minta ya i Juda karin Timna ban lawan na la ring manurud karing tupa na.
 012	Kayabe ne ing kakaluguran nang i Hira a tau Adulam.
 013	Belita ra kang Tamar king daratang ya ing katuangan na ban tumagun king pamanurud tupa.
-014	Inya likas ne ing susulud nang imalan bilang mebalu; migtalikbung ya at pekabalabalan na ing sarili na at saka ya migluklukan king lele dalan palub karin Enaim a lalabasan dang papunta Timna.
+014	Inya likas ne ing susulud nang imalan bilang mebalu;
+014	migtalikbung ya at pekabalabalan na ing sarili na at saka ya migluklukan king lele dalan palub karin Enaim a lalabasan dang papunta Timna.
 014	Balu nang Tamar king maragul ne i Sela pero e re pa babie ban maging asawa na.
 015	Panakit nang Juda kang Tamar inisip na king babai yang magtinda king katawan na uling makatalikbung ya.
 016	Lepitan ne lele na ning dalan at ngana, Magkanu ing sisingil mu?
@@ -40,13 +41,15 @@ verse	content
 023	Kuanan na la naman sana ding singla nang Juda oneng e ne akit Hira ing babai.
 024	Kitnan na la ding lalaki karin nung e re ikit itang babaing magtinda king katawan na karin Enaim a manaya lele na ning dalan.
 024	Pekibat da king ala namang mintang babai karin a magtinda king katawan na.
-025	Inya mibalik ya kang Juda at ngana, E ke ikit; sinabi da ring lalaki karin king ala namang kanung mintang babai karin a magtinda king katawan na.
+025	Inya mibalik ya kang Juda at ngana, E ke ikit;
+025	sinabi da ring lalaki karin king ala namang kanung mintang babai karin a magtinda king katawan na.
 026	Nganang Juda, Paburen mu na la ring singla ku king babaing ita pota kaylian da katamu.
 026	Peparala ke iting biserung kambing, oneng e mu ne man pala ikit.
 027	Kalabas na ning atlung bulan belita ra kang Juda king memialung yang api ing manuyang nang i Tamar at ngeni mabuktut ya.
 028	Ilual ye, nganang Juda, at saka ye silaban.
 029	Kabang lulual de, pepatubud ya i Tamar king katuangan na at pepasabi na, Ing tata na ning anak ku ya ing makibandi kareti.
-029	Pakalawan yu la reti; kaninu ya ing singsing a panatak a ini at ing babat ampon ing tukud?
+029	Pakalawan yu la reti;
+029	kaninu ya ing singsing a panatak a ini at ing babat ampon ing tukud?
 030	Akilala na lang Juda at ngana, Ala yang kasalanan.
 030	Aku ing maki pakibatan.
 030	E ke pepayasawa kang Tamar ing anak kung i Sela.

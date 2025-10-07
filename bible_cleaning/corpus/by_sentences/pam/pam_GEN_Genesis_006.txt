@@ -4,8 +4,10 @@ verse	content
 002	Inya, gewa da lang asawa da ring sablang apili ra kareti.
 003	Kanita ngana ning Ginu , E ku paintulut ing kumaba ya bie ing tau uling laman ya.
 003	E ya mie lagpus king dinalan at aduang pulung banua.
-004	Karing aldong deta ating linto higanti king yatu; anak da la reti ding anak na ning Dios karing anak dang babai ding tau.
-004	Ila ding bayani na ning minunang panaun; tau lang pikabaluan.
+004	Karing aldong deta ating linto higanti king yatu;
+004	anak da la reti ding anak na ning Dios karing anak dang babai ding tau.
+004	Ila ding bayani na ning minunang panaun;
+004	tau lang pikabaluan.
 005	Ikit na ning Ginu king tutu nang mikalat ing kasalanan ning tau king yatu at parating e mayap ing atyu king isip na.
 006	Melungkut ya ing Dios uling lelangan ne ing tau.
 007	Inya sinabi na, Buran ke king yatu ing taung lelangan ku at pati na animal a malati't maragul ampon ding ayup.
@@ -18,15 +20,18 @@ verse	content
 011	E ya mayap ing yatu king akakit na ning Dios at mitmu yang dewakan.
 012	Linawe ne ning Dios ing yatu at ikit nang e ya meging mayap, uling mabibie la ngan ding sablang tau king e ustu.
 013	Ngana ning Dios kang Noe, Inari ku na king lub ku ing paten la ding heganaganang tau king yatu.
-013	Uli na ning tau kinatmu yang dewakan ing yatu; gisanan ku la ngan pati na ing heganaganang mabibie king yatu.
+013	Uli na ning tau kinatmu yang dewakan ing yatu;
+013	gisanan ku la ngan pati na ing heganaganang mabibie king yatu.
 014	Gawa kang barku king sipres a karutungan.
 014	Dinan meng miyayaliwang partisyun at panapalan meng alketran kilual at kilub.
 015	Gawan meng apat a ralan limang pulung talampakan king kaba, pitung pulu't limang talampakan king lapad, at apat apulu't limang talampakan king katas.
 016	Atapan me at dinan awang king makapadurut, milakuan kang metung at kapitnang talampakan ibat king wakas ning bubungan.
 016	Gawan meng atlung patung ing barku, at dinan meng piluluban king metung nang dane.
-017	Malapit ku neng ipalbug ing yatu king danum ban paten ing sablang melalang a mabie king yatu; mate ing sablang atyu king yatu.
+017	Malapit ku neng ipalbug ing yatu king danum ban paten ing sablang melalang a mabie king yatu;
+017	mate ing sablang atyu king yatu.
 018	Pero gawa kung metung a kasunduan keka.
-018	Ika, ing asawa mu, ding anak mung lalaki, at ding asawa ra; sake kayu king barku.
+018	Ika, ing asawa mu, ding anak mung lalaki, at ding asawa ra;
+018	sake kayu king barku.
 019	Magdala kayung kaparis king barku karing miyayaliwang uring lelangan, metung a lalaki at metung a babai, at e mu la paintulutan mamamate.
 020	Misake ka namang kaparis karing miyayaliwang uring ayup, animal a maragul at gagapang ban e la mate.
 021	Magdala kang apangan yu at isinup iti bilang pagkabie yu.

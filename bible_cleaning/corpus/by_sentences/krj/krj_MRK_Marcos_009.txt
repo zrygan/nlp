@@ -73,4 +73,5 @@ verse	content
 050	nga sa diin ang mga ulod wara nagakapatay kag ang kalayo wara ti katapusan ang anang pagdaba-daba.
 051	Tungud hay ang kada isara pagapaputliun paagi sa kalayo pareho kang haralad nga ginaasinan.
 052	Mapuslanun ang asin pero kon madura run gani ka dya ang anang kapait, paano mo pa dya maggamit sa pag-unaw?
-053	Mangin pareho kamo kang asin nga mapuslanun; magpakighidait kamo sa isara kag isara.
+053	Mangin pareho kamo kang asin nga mapuslanun;
+053	magpakighidait kamo sa isara kag isara.

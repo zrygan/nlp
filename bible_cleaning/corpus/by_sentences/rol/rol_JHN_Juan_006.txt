@@ -79,7 +79,8 @@ verse	content
 053	Pero ang aber sin-o nga magkaon ng akon unod kag mag-inom ng akon dug hay igwa ng ini nga kabuh kag pagabanhawon ko siya sa ulihi nga adlaw.
 054	Kay ang akon unod ang matuod nga pagkaon kag ang akon dug ang matuod nga ilimnon.
 055	Ang bisan sin-o nga nagakaon ng akon unod kag nagainom ng akon dug hay nagapabilin nga nagapakig-isa sa akon kag ako sa iya.
-056	Ang akon Amay nga nagsug sa akon ang ginahalinan ng kabuh kag nagakabuh ako tungod sa iya; imaw da ang nagakaon sa akon magakabuh tungod sa akon.
+056	Ang akon Amay nga nagsug sa akon ang ginahalinan ng kabuh kag nagakabuh ako tungod sa iya;
+056	imaw da ang nagakaon sa akon magakabuh tungod sa akon.
 057	Ako ang tinapay nga halin sa langit.
 057	Bukon ini pareho sa manna nga gingkaon ng indo mga kalulo-lulohan, kay nagkamatay gihapon sinda.
 057	Pero ang nagakaon ng ini nga tinapay nga akon ginahambay sa indo hay magakabuh sa way katapusan.

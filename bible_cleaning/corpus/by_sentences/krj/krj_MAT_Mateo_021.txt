@@ -38,7 +38,8 @@ verse	content
 025	Kon nagatuo kamo, mabaton ninyo ang bisan ano nga inyo pangayuon sa inyo pangamuyo.
 026	Kar-on, nagsulud si Jesus sa templo kag nagpanudlo.
 026	Nagparapit kana ang mga pangulo kang mga kaparian kag ang mga kamal-an kang mga Judio kag namangkot, Ano ang imo awtoridad sa paghimo kang dya nga mga butang, kag sin-o ang nagtugro kanimo kang ria nga awtoridad?
-027	Nagsabat si Jesus kananda, May pamangkot man ako kaninyo; kon masabat ninyo dya, isugid ko kaninyo kon ano ang akun awtoridad sa paghimo kang dya nga mga butang.
+027	Nagsabat si Jesus kananda, May pamangkot man ako kaninyo;
+027	kon masabat ninyo dya, isugid ko kaninyo kon ano ang akun awtoridad sa paghimo kang dya nga mga butang.
 028	Sa diin bala naghalin ang awtoridad ni Juan sa pagbawtiso, sa Dios bala ukon sa tawo?
 029	Amo to kag nagbinaisay sanda nga nagakuon, Kon magkuon kita nga halin sa Dios, makuon tana kanatun, Ti, andut nga wara kamo magpati kana?
 030	Pero kon magkuon man kita nga halin sa tawo, nahadluk man kita nga basi kon ano ang himuon kang mga tawo kanatun, tungud hay ginakilala nanda si Juan nga sangka propeta.

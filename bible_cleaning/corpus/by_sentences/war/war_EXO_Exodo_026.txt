@@ -43,4 +43,5 @@ verse	content
 034	Takpi an Kahon han Ginsaaran.
 035	Ha gawas han Labi Kabaraan nga Dapit igbutang an lamesa hirani han amihanan nga dapit han Tulda ngan an kandilero hirani han timogan nga dapit atbang han lamesa.
 036	Para han porta han Tulda paghimo hin biray nga lino nga pino nga hinablonan hin asul, granate, ngan pula nga delana ngan binordahan.
-037	Para hini nga biray paghimo hin lima nga mga harigi nga kahoy nga akasya, nga pinutos hin bulawan, ngan binutangan hin mga sab-itan nga bulawan; paghimo hin lima nga bronse nga mga tungtongan para hini nga mga harigi.
+037	Para hini nga biray paghimo hin lima nga mga harigi nga kahoy nga akasya, nga pinutos hin bulawan, ngan binutangan hin mga sab-itan nga bulawan;
+037	paghimo hin lima nga bronse nga mga tungtongan para hini nga mga harigi.

@@ -22,7 +22,8 @@ verse	content
 012	Ita, impalubos ti Dios a makitak pay dagiti annakmo.
 013	Innala ni Jose dagiti ubbing iti saklot ni Jacob ket nagpakleb iti daga iti sango ni amana a kas pammadayawna kenkuana.
 014	Inkabil ni Jose ni Efraim iti batog ti kannigid nga ima ni Jacob ket ni Manases iti kannawanna.
-015	Ngem pinagkuros ni Jacob dagiti imana ket impatayna ti kannawanna iti ulo ni Efraim uray no isu ti inaudi; ti kannigidna iti ulo ni Manases nga inauna.
+015	Ngem pinagkuros ni Jacob dagiti imana ket impatayna ti kannawanna iti ulo ni Efraim uray no isu ti inaudi;
+015	ti kannigidna iti ulo ni Manases nga inauna.
 016	Kalpasanna, binendisionanna ida,
 017	Sapay koma ta bendisionan ti Dios dagitoy nga ubbing,
 018	Ti Dios a nagserbian da ammak nga Abraham ken Isaac!
@@ -32,7 +33,8 @@ verse	content
 022	Adunto koma ti annak ken kaputotanda.
 023	Saan a naragsakan ni Jose idi makitana nga impatay ti amana ti makannawan nga imana iti ulo ni Efraim, isu nga innalana ti ima ti lakay tapno ipatayna iti ulo ni Manases.
 024	Kinunana, Saan a kasta, tatang.
-024	Daytoy ti inauna; ipataymo ti makannawan nga imam iti ulona.
+024	Daytoy ti inauna;
+024	ipataymo ti makannawan nga imam iti ulona.
 025	Nagkedked ti amana ket kinunana, Ammok, anakko, ammok.
 025	Agbalinto met a naindaklan a tattao dagiti kaputotan ni Manases.
 025	Ngem ad-addanto a naindaklan ti inaudi a kabsatna ket agbalinto dagiti kaputotanna a natatan-ok a nasion.

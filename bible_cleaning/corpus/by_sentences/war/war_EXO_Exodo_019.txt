@@ -19,7 +19,8 @@ verse	content
 013	Kinahanglan diri magpasipara hin paglakad hini an mga tawo, ngan sidnga hira nga diri sumagka han bukid o bisan hin paghirani han bukid.
 013	An bisan hin-o nga makatamak ngan makalakad han pag-ultan, kinahanglan patayon hiya;
 014	kinahanglan pagbatohon o pagpanaon hiya, hin waray tawo nga maglalabot ha iya.
-014	Bubuhaton ini para han magpasipara nga mga tawo ngan mga mananap; kinahanglan patayon hira.
+014	Bubuhaton ini para han magpasipara nga mga tawo ngan mga mananap;
+014	kinahanglan patayon hira.
 014	Kundi kon patunggon na an trompeta, kinahanglan sumagka ngadto han bukid an mga tawo.
 015	Niyan linmugsong han bukid hi Moises ngan ginsumatan an mga tawo nga mag-andam hira hin pagsingba.
 015	Sanglit ginbunakan nira an ira mga panapton,
@@ -33,7 +34,8 @@ verse	content
 020	Nagyakan hi Moises ngan ginbaton hiya han Dyos pinaagi hin dalugdog.
 021	Linmusad an Ginoo ngadto han bawbaw han Bukid Sinai ngan ginpakadto hi Moises ha bawbaw han bukid.
 021	Sinmagka hi Moises
-022	ngan nagsiring ha iya an Ginoo , Lusad ngan tugona an mga tawo nga diri hira lumakad han pag-ultan hin pagkadi ngan pagtan-aw ha akon; kon magtalapas hira hini, damo ha ira in magkakamatay.
+022	ngan nagsiring ha iya an Ginoo , Lusad ngan tugona an mga tawo nga diri hira lumakad han pag-ultan hin pagkadi ngan pagtan-aw ha akon;
+022	kon magtalapas hira hini, damo ha ira in magkakamatay.
 023	Kinahanglan maglinis ha ira ngahaw bisan an kapadian nga mahirani ha akon, kay kon diri, pagkakastigohon ko hira.
 024	Nagsiring hi Moises han Ginoo , Diri makakasagka an mga tawo, kay ginsugo mo kami nga pag-isipon namon nga baraan an bukid ngan amon paglibotan hin pag-ultan.
 025	Binmaton an Ginoo , Lusad ngan paupda ha imo hi Aaron kon bumalik ka.

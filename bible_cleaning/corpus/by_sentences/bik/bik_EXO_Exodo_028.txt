@@ -43,8 +43,10 @@ verse	content
 034	Isusulot ni Aaron an abitong ini kun naglilingkod siya bilang padi.
 034	Paglaog asin pagluwas niya sa Banal na Lugar, madadangog an tanog kan mga kampanilya, kaya dai siya gagadanon.
 035	Gumibo ka nin koronang anas na bulawan dangan iukit mo diyan ining mga tataramon, Konsagrado sa Kagurangnan .
-036	An koronang ini ikakabit nindo sa atubangan kan mitra; asul na lubid an gamiton nindo.
-037	Mamumugtak ini sa angog ni Aaron; siya an maako kan anoman na nagibong kasalan sa pagdolot kan mga tawo kan saindang atang.
+036	An koronang ini ikakabit nindo sa atubangan kan mitra;
+036	asul na lubid an gamiton nindo.
+037	Mamumugtak ini sa angog ni Aaron;
+037	siya an maako kan anoman na nagibong kasalan sa pagdolot kan mga tawo kan saindang atang.
 037	Danay na mamumugtak sa angog ni Aaron an koronang ini tanganing akoon ko an saindang atang.
 038	An tunika saka an mitra gibohon nindo sa hinabol na pinong lino, asin gumibo man kamo nin sarong habay na binurdahan.
 039	An mga aki ni Aaron igibo nindo nin mga abito, mga habay asin mga turban tanganing magkaigwa sinda nin dignidad asin gayon.

@@ -5,7 +5,8 @@ verse	content
 003	Insan inkuan na Katawan ed sikato, Pawil ka lad dalin na saray atateng mo tan saray kakanayon mo.
 003	Olupen ta ka.
 004	Kanyan nampabakian nen Jacob ira di Raquel tan Lea ya abeten dad alog a kawalaan da ray ayayep to.
-005	Inkuantod sikara, Nalilikas kon mangooman lay panangarod siak di ama tayo; balet aasikasoen ak lawas na Dios nen amak.
+005	Inkuantod sikara, Nalilikas kon mangooman lay panangarod siak di ama tayo;
+005	balet aasikasoen ak lawas na Dios nen amak.
 006	Kabat yon dua ya inyoput koy biskeg ko ed impanlingkur kod ama yo.
 007	Anggaman ontan, sinaol da ak tan amimpulon inooman day upak.
 007	Balet ag inyabuloy na Dios a napasakitan da ak.
@@ -27,7 +28,8 @@ verse	content
 016	Sumpal moy imbaga na Dios ed sika.
 017	Namparaan sirin si Jacob ya ompawil ed kinen ama to diad dalin na Canaan.
 017	Impakabayo tod saray kamilyo iray anak to tan saray asawa to, tan pinaona to ray amin ya ayayep to tan antokaman a kayaryan a nalmoan tod Mesopotamia.
-018	Linmay Laban a mangatlid saray karniro to; et nen andid man ed abung, tinakew nen Raquel iray talintaoy diriyos na pamilya tan kayaryan nen ama to.
+018	Linmay Laban a mangatlid saray karniro to;
+018	et nen andid man ed abung, tinakew nen Raquel iray talintaoy diriyos na pamilya tan kayaryan nen ama to.
 019	Pinalikdo nen Jacob si Laban diad ag to impangibagay itaynan to.
 020	Inawit ton amin iray kayaryan to tan ginanatan toy tinmaynan.
 020	Binaliw toy Ilog na Eufrates tan amaarap ed Palandey na Galaad.
@@ -48,19 +50,23 @@ verse	content
 031	Nia ray lalakin mantasi.
 031	Mananap kayoy antokaman a kayaryan yo tan ala yoy gawa yo.
 031	Ag amta nen Jacob a tinakew nen Raquel iray diriyos nen Laban.
-032	Sinukisok nen Laban so tulda nen Jacob; insan linmoob ed tulda nen Lea tan diad tulda na saramay duaran aripen a bibii, balet ag to arumog iray diriyos to.
+032	Sinukisok nen Laban so tulda nen Jacob;
+032	insan linmoob ed tulda nen Lea tan diad tulda na saramay duaran aripen a bibii, balet ag to arumog iray diriyos to.
 032	Linmoob ed satan diad tulda nen Raquel.
 033	Balet inala la nen Raquel ira may diriyos, inkarga to rad supot ya apis na beneg na kamilyo, insan to inirungan.
 033	Inanap ira nen Laban diad intiron tulda, balet ag to ra narumog.
-034	Inkuanen Raquel ed kinen ama to, Ag yo ak pamapasnukan; ta ag ak makaalagey ed arap yo, ta sinmabid siak so binulan a sakit min bibii.
+034	Inkuanen Raquel ed kinen ama to, Ag yo ak pamapasnukan;
+034	ta ag ak makaalagey ed arap yo, ta sinmabid siak so binulan a sakit min bibii.
 034	Inanap nen Laban iray diriyos to, balet ag to ra nalmo.
 035	Naingungotan si Jacob.
 035	Inkuanto, Antoy kasalanan a ginawak?
 035	Antoy ganggan a sinumlang ko, et naitdan kayoy kanepegan a mangosil ed siak?
 036	Natan ta inonaan yo lan amin iray kayaryan ko, antoy nalmo yon kagawaay abung a kayaryan yo?
 036	Ipaway yo diad arap na totook tan totoo yo, pian nanengneng da tan nasintinsiaan da no siopay nalilingod sikatayo.
-037	Duamploy taon ko lad sikayo; ag tinmondan nananak iray karniro tan saray kanding yo, tan ag ak angan na anggan sakey a kordiro.
-038	No walay karniron pinatey na ayep ed takel, inakok so inkaandi to; ag ko la inyakar ed sikayo, pian ag yo la naamtaan a siak so akankasalanan.
+037	Duamploy taon ko lad sikayo;
+037	ag tinmondan nananak iray karniro tan saray kanding yo, tan ag ak angan na anggan sakey a kordiro.
+038	No walay karniron pinatey na ayep ed takel, inakok so inkaandi to;
+038	ag ko la inyakar ed sikayo, pian ag yo la naamtaan a siak so akankasalanan.
 038	Pinasoot yo ak a mambayar ed amin ya atakew ed agew man o labi.
 039	Naynay ak a nanirap, lapud petang na agew tan betel na labi.
 039	Ag ak makaogip.
@@ -68,7 +74,8 @@ verse	content
 040	Labinapat a taon so impankimey ko pian naalak iray bibiin anak yo, tan anem taon pian naalak iray ayayep yo.
 040	Anggaman ontan, amimpulon inooman yoy upak.
 041	No ag ak labat tutulongan na Dios da ray atateng ko, say Dios ya inggalang di Abraham tan Isaac, pinataynan yo ak la komun a kalima-lima.
-041	Balet anengneng na Dios so gunigon ko tan say kimey ko; kalabyan inter to lay sintinsia to.
+041	Balet anengneng na Dios so gunigon ko tan say kimey ko;
+041	kalabyan inter to lay sintinsia to.
 042	Inmebat si Laban ed kinen Jacob, Anak ko ra yan bibii, kayaryan ko ray anak da, tan kayaryan ko met ira yan ayayep.
 042	Kayaryan koy amin a nanenengneng mo dia.
 042	Balet anggapoy nagawaan kon mamokpok ed saray anak ko tan saray anak da.
@@ -77,7 +84,8 @@ verse	content
 044	Angala sirin na bato si Jacob tan impaalagey tod man a sakey a pakanudnunotan.
 045	Ingganggan to ray totoo to a mantipon iray bato tan ibunton da.
 045	Insan angan ira diad abay to may bunton.
-046	Inngaran nen Laban iman a pasen na Jegar-sahaduta; si Jacob balet inggaran to na Galeed.
+046	Inngaran nen Laban iman a pasen na Jegar-sahaduta;
+046	si Jacob balet inggaran to na Galeed.
 047	Inkuanen Laban ed kinen Jacob, Sayan bunton na bato so mangipanunot ed sikatan dua.
 047	Sikato yay makasengeg ya atawag na Galeed iman a pasen.
 048	Inkuan met ni nen Laban, Bantayan ita komun na Katawan legan a nanarawiyan ita.

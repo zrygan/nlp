@@ -21,7 +21,8 @@ verse	content
 017	Sa amo man to nga tion may sangka bantog nga priso nga ginahingaranan kay Jesus Barabas.
 018	Gani kang nagtiripon run ang mga tawo, namangkot si Pilato kananda, Sin-o ang gusto ninyo nga ihilwayun ko, si Jesus Barabas ukon si Jesus nga ginatawag Cristo?
 019	Naman-an ni Pilato nga gintugyan nanda kana si Jesus tungud hay nahisa sanda.
-020	Samtang nagapungko si Pilato sa purungkoan kang hukum, nagpadara kana kang mensahe ang anang asawa nga nagakuon, Indi paghilabti ang tawo nga ria; wara tana ti sala.
+020	Samtang nagapungko si Pilato sa purungkoan kang hukum, nagpadara kana kang mensahe ang anang asawa nga nagakuon, Indi paghilabti ang tawo nga ria;
+020	wara tana ti sala.
 020	Kabii, natublag gid ako kang akun damgo nahanungud kana.
 021	Ang mga pangulo kang mga kaparian kag ang mga kamal-aman kang mga Judio tana, ginasutsot nanda ang mga tawo nga si Barabas ang anda pangayuon nga ihilwayun, kag si Jesus tana ipapatay.
 022	Ginpamangkot sanda liwan ni Pilato, Sin-o bala kananda nga darwa ang gusto ninyo nga akun ihilwayun?

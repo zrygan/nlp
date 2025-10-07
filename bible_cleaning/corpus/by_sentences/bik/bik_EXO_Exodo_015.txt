@@ -20,7 +20,8 @@ verse	content
 019	tuminindog na garo lanob;
 020	asin an kairaroman tuminagas.
 021	Nagsabi an kaiwal, Lalamagon ko sinda asin dadakopon;
-022	saindang kayamanan sakong babangaon; gabos na magustohan sakong kukuahon
+022	saindang kayamanan sakong babangaon;
+022	gabos na magustohan sakong kukuahon
 023	asin sa bagsik kan espada gabos sasamsamon.
 024	Alagad sa saro mong hinangos, O Kagurangnan , an mga Egipcio nalamos,
 025	siring sa timga na nag-irarom tolos.

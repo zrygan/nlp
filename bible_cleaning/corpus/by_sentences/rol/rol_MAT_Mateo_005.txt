@@ -69,7 +69,8 @@ verse	content
 047	Kung tampaon ka sa tuo nga pisngi, ipatamp mo pa ang kabuak.
 048	Kung may magkiha sa imo kag buy-on ang imo kamisita, taw-an pa sa iya aber ang imo pangsuy-ob.
 049	Kag kung may sundalo nga magpilit sa imo magpas-an ng iya daya ng isa ka kilometro, pas-ana ini ning duha ka kilometro.
-050	Taw-i ang nagapangay sa imo; kag kung may manghuyam sa imo, pahuyama.
+050	Taw-i ang nagapangay sa imo;
+050	kag kung may manghuyam sa imo, pahuyama.
 051	Nabatian nindo ang ginahambay nang una, Higugmaon nindo ang indo isigkatawo kag hangiti ang indo kaaway.
 052	Pero niyan ginahambay ko sa indo, higugmaon nindo ang indo mga kaaway kag ipangamuy ang mga nagahingabot sa indo.
 053	Kag kung humanon nindo ini, magiging matuod kamo nga mga ung ng indo Amay sa langit.

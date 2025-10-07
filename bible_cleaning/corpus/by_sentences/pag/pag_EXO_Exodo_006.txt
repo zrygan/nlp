@@ -4,13 +4,16 @@ verse	content
 001	Diad tuay tua, piliten ko a dagdagen to ran taynan day bansa to.
 002	Akisalitay Dios ed kinen Moises tan kuanto, Siak so Katawan .
 003	Pinmanengneng ak a Makapanyarin-amin a Dios ed kindi Abraham, Isaac, tan Jacob, balet aliwan diad panamegley na masanton ngaran ko a Yahweh.
-004	Akisipanan ak met ed sikara; insipan kon iter ed sikaray dalin na Canaan, say dalin a nanayaman da nen sangkaili rad man.
+004	Akisipanan ak met ed sikara;
+004	insipan kon iter ed sikaray dalin na Canaan, say dalin a nanayaman da nen sangkaili rad man.
 005	Natan nadngel koy panngesnges na saray Israelita ya aaripenen na saray Egipsio, tan anunotan koy impisipanan ko.
-006	Kanyan ibagam ed saray Israelita a sayay kuankod sikara, Siak so Katawan ; iyagel ta kayo tan ibolus ta kayo ed pangaaripen na saray Egipsio.
+006	Kanyan ibagam ed saray Israelita a sayay kuankod sikara, Siak so Katawan ;
+006	iyagel ta kayo tan ibolus ta kayo ed pangaaripen na saray Egipsio.
 006	Ipakanak so pakapanyarik diad pangiter kod sikara na makapataktakot a dusa, balet iliktar ta kayo.
 007	Pagmaliwen ta kayon dilin totook, tan magmaliw a siak so Dios yo.
 007	Nakabatan yo a siak so Katawan a Dios yo no ekalen ta kayod maruksan panagoley na saray Egipsio.
-008	Iyakar ta kayod dalin a sinambaan ko ya iter ed kindi Abraham, Isaac, tan Jacob; iter kod sikayo a kayaryan yo.
+008	Iyakar ta kayod dalin a sinambaan ko ya iter ed kindi Abraham, Isaac, tan Jacob;
+008	iter kod sikayo a kayaryan yo.
 008	Siak so Katawan .
 009	Imbaga ya nen Moises ed saray Israelita, balet ag ira dinmengel ed sikato, ta nakalan iray ilalo lapud kakairapan dad pakakaaripen ed sikara.
 010	Insan say Katawan kuantod kinen Moises,
@@ -18,22 +21,29 @@ verse	content
 012	Balet inmebat si Moises, Panoy idengel ed siak na ari, anta ag ak dengelen na anggan saray Israelita?
 012	Makapoy ak ni met a mansalita.
 013	Ingganggan na Katawan si Moises tan si Aaron: Ibaga yod saray Israelita tan diad ari na Egipto ya ingganggan ta kayon mangipangulo ed saray Israelita diad panaynan dad Egipto.
-014	Si Ruben a pangulowan ya anak nen Jacob et apatiray lalakin anak to a di Hanoc, Fallu, Hezron, tan Carmi; sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
-015	Si Simeon anemiray lalakin anak to a di Jemuel, Jamin, Ohad, Jakin, Zohar, tan Saul ya anak na biin Canamsa; sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
-016	Si Levi taloray lalakin anak to a di Gerson, Coat, tan Merari; sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
+014	Si Ruben a pangulowan ya anak nen Jacob et apatiray lalakin anak to a di Hanoc, Fallu, Hezron, tan Carmi;
+014	sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
+015	Si Simeon anemiray lalakin anak to a di Jemuel, Jamin, Ohad, Jakin, Zohar, tan Saul ya anak na biin Canamsa;
+015	sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
+016	Si Levi taloray lalakin anak to a di Gerson, Coat, tan Merari;
+016	sikaray sengeg na saray boleg a natatawag onung ed kangaranan da.
 016	Nambilay na sanlasus tan talomplo tan pitoy taon si Levi.
 017	Duaran lalaki so anak nen Gerson a di Libni tan Simei, tan amayamay so kabyangay boleg da.
 018	Si Coat apatiray lalakin anak to a di Amram, Izar, Hebron, tan Uziel.
 018	Nambilay si Coat na sanlasus tan talomplo tan taloy taon.
 019	Si Merari duaray lalakin anak to a di Mali tan Musi.
 019	Sikara yay anak nen Levi tan saray kabyangay boleg da.
-020	Inasawa nen Amram si Jacobed ya agi nen ama to; saray anak da et di Aaron tan Moises.
+020	Inasawa nen Amram si Jacobed ya agi nen ama to;
+020	saray anak da et di Aaron tan Moises.
 020	Nambilay si Amram na sanlasus tan talomplo tan pitoy taon.
 021	Si Izar taloray lalakin anak to a di Core, Nefeg, tan Zicri.
 022	Si Uziel taloray lalakin anak to a di Misael, Elzafan, tan Sitri.
-023	Si Aaron inasawa toy Eliseba ya anak nen Aminadab tan agi nen Naazon; saray anak da et di Nadab, Abiu, Eleazar, tan Itamar.
-024	Si Core taloray lalakin anak to a di Asir, Elcana, tan Abiasaf; sikaray sengeg na saray kabyangay boleg nen Core.
-025	Si Eleazar a lakin anak nen Aaron inasawa toy anak nen Futiel; say anak da et si Finees.
+023	Si Aaron inasawa toy Eliseba ya anak nen Aminadab tan agi nen Naazon;
+023	saray anak da et di Nadab, Abiu, Eleazar, tan Itamar.
+024	Si Core taloray lalakin anak to a di Asir, Elcana, tan Abiasaf;
+024	sikaray sengeg na saray kabyangay boleg nen Core.
+025	Si Eleazar a lakin anak nen Aaron inasawa toy anak nen Futiel;
+025	say anak da et si Finees.
 025	Sikara yay pangulo na saray pamilya tan saray boleg na tribu nen Levi.
 026	Di Aaron tan Moises so angibagaan na Katawan , Ipangulo yon ipaway ed Egipto iray tribu na Israel.
 027	Sikara so totoon angibagad ari na Egipto ya ibolus to ray Israelita.

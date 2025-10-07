@@ -28,7 +28,8 @@ verse	content
 017	Gabii run kato kag si Jesus wara pa gihapon makaimaw kananda.
 018	Samtang nagatabok sanda, nagdulus ang hangin kag nagdaragkul ang balud.
 019	Pagkaantad nanda ka mga lima ukon anum ka kilometro, nakita nanda si Jesus nga nagapanaw sa tubig nga nagapaagto sa andang baruto, kag kinulbaan gid sanda kamayad.
-020	Pero nagkuon si Jesus kananda, Ako dya; indi kamo magkahadluk.
+020	Pero nagkuon si Jesus kananda, Ako dya;
+020	indi kamo magkahadluk.
 021	Malipayun sanda nga nagpasakay kana sa baruto, kag lagi-lagi kato nag-abot sanda sa andang aragtonan.
 022	Kang masunod nga adlaw kato, ang mga tawo rugto man gihapon sa tabok kang linaw.
 022	Natalupangdan nanda nga sangka baruto lang ang rugto kato, kag naman-an man nanda nga si Jesus wara magsakay rugto imaw kang anang mga disipulo, kundi nga sandahanun lang tana ang naghalin.
@@ -69,8 +70,10 @@ verse	content
 047	Sugidan ko kamo: ang bisan sin-o nga nagatoo kanakun may kabuhi nga wara ti katapusan.
 048	Ako amo ang pagkaun nga nagatao kang kabuhi.
 049	Matuod nga ang inyo mga kaulangan kato anay nagkaun kang mana rugto sa may kayanakan, pero nagkaramatay man sanda sa gihapon.
-050	Rugya kar-on ang pagkaun nga halin sa langit; ang sin-o man nga magkaun kang pagkaun nga dya indi tana mapatay.
-051	Ako amo ang pagkaun nga nagatugro kang kabuhi; ako naghalin sa langit.
+050	Rugya kar-on ang pagkaun nga halin sa langit;
+050	ang sin-o man nga magkaun kang pagkaun nga dya indi tana mapatay.
+051	Ako amo ang pagkaun nga nagatugro kang kabuhi;
+051	ako naghalin sa langit.
 051	Ang bisan sin-o nga magakaun kadya nga pagkaun magakabuhi sa wara ti katapusan.
 051	Tungud nga ang pagkaun nga dya amo ang akun lawas mismo nga akun igatao para sa mga katawhan sa kalibutan agud makaangkun sanda kang kabuhi nga wara ti katapusan.
 052	Amo to kag nagbirinaisay ang mga Judio nga nagakuon, Paano bay ang pagtugro kang tawo nga dya kanatun kang anang lawas para ikan-un ta?
@@ -88,7 +91,8 @@ verse	content
 060	Sin-o abi bay ang sarang makabatas sa pagpamati kadya?
 061	Naman-an ni Jesus nga nagakirimodon ang anang mga disipulo tungud sa anang mga ginpanghambal, gani nga nagkuon tana, Naglain bala ang inyo buut tungud kang akun ginpanghambal nga dya?
 062	Ano pa gid ayhan ang inyo mabatyagan kon makita ninyo ang Anak kang Tawo nga nagakayab pabalik sa lugar nga anang ginhalinan.
-063	Ang Balaan nga Ispirito amo ang nagatugro kang kabuhi; ang lawas tana wara ti may mahimo.
+063	Ang Balaan nga Ispirito amo ang nagatugro kang kabuhi;
+063	ang lawas tana wara ti may mahimo.
 063	Ang pulong nga akun ginhambal kaninyo halin sa Ispirito nga nagatugro kang kabuhi.
 064	Ogaring ang iba kaninyo wara nagapati kanakun.
 064	Ginkuon dya ni Jesus hay naman-an na nga daan kon sin-o ang wara nagatoo kana kag kon sin-o ang magaluib kana.

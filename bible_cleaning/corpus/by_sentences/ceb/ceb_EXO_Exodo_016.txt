@@ -25,7 +25,8 @@ verse	content
 016	Miingon si Moises kanila, Mao kini ang pagkaon nga gihatag sa Ginoo kaninyo aron inyong kan-on.
 017	Ang Ginoo nagsugo nga ang matag usa kaninyo magtigom sumala sa iyang gikinahanglan sa gidaghanon nga duha ka litro alang sa matag tawo.
 017	Ang matag usa magtigom sumala sa gikinahanglan sa tanan nga anaa sa iyang tolda.
-018	Gihimo kini sa mga Israelita; ang uban daghag gikuha, ang uban diyutay ra.
+018	Gihimo kini sa mga Israelita;
+018	ang uban daghag gikuha, ang uban diyutay ra.
 019	Sa pagtakos na nila niini, kadtong daghan ug gikuha wala makasobra ug kadtong diyutay rag gikuha, wala makulangi.
 019	Ang matag usa nakatigom ug igo ra gayod sa iyang gikinahanglan.
 020	Si Moises miingon kanila, Ayaw kamo pagsalin alang sa sunod adlaw.

@@ -7,7 +7,8 @@ verse	content
 005	Tehud bi a bine a neragrag ten luta a mabatu.
 005	Gapu malapes la en luta ay alistu a nagtubu en bine.
 006	Peru ten dikona a masinagan ti mahigpit ay minalans, gapu madibabew la en gamot na hidi.
-007	Tehud bi a bine a neragrag ten kasaetan; lummagu en kasaetan sakay nailongan en bine a neragrag haud.
+007	Tehud bi a bine a neragrag ten kasaetan;
+007	lummagu en kasaetan sakay nailongan en bine a neragrag haud.
 008	Peru en bine hidi neragrag ten matabi a luta ay nagbunga ti tgdadatos a butil, tehud a tggi-nnm a pulu, sakay tehud a tgtatllu a pulu a butil en bawat ohay.
 009	Mgsanig en tehud a pgsanig.
 010	Ummadeni en disepulus hidi ni Jesus sakay tinanung di siya, Bakin patalinhaga en pgtoldu mu ti tolayen hidi?

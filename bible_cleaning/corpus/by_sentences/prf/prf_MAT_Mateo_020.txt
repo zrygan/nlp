@@ -12,7 +12,8 @@ verse	content
 008	Nadid, dikona apon dn ay kinagi nen makkkao ten kaubasan ten katiwala na, Angay mu dn dulawn en nagtarabahu hidi sakay upaan mu hidi.
 008	Sapul ten kadimudyanan hanggan ten kapurumeruwan a nagtarabahu.
 009	En nagsapul hidi ten magalasingku ten apon ay nakatanggap ti essa a denaryo.
-010	Sakay ten dikona a ummadeni en ngdipalongu hidi a nagtarabahu ay inisip di a makatanggap hidi ti mas higit haud; peru en balang essa dikodi ay tummanggap bi ti tatggessa di a dinaryo.
+010	Sakay ten dikona a ummadeni en ngdipalongu hidi a nagtarabahu ay inisip di a makatanggap hidi ti mas higit haud;
+010	peru en balang essa dikodi ay tummanggap bi ti tatggessa di a dinaryo.
 011	Ten pkkatanggap di ten upa di ay nagreklamu hidi ten makkkao ten kaubasan.
 012	Kinagi di, Bakin konahud, en dimudyan hidi a dummemt ay essa la hidi a odas a nagtarabahu.
 012	Peru inupaan moy hidi ti kona ten upa mi.

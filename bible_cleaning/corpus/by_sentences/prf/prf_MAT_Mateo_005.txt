@@ -36,7 +36,8 @@ verse	content
 027	Kaya ni deyaman en manglabag ten maski kabaditan a bahagi nen Kautusan sakay magtoldu ti konahud ten tolay hidi ay magin kababaan ten kahariyan nen Diyos.
 027	Peru ni deyaman en mangsunud ten Kautusan sakay magtoldu ten tolay hidi a tupadn iyud ay magin mataas ten kahariyan dilanget.
 028	Peru kagiyn ku dikomoy a, ni en kssunud moy ten kaluuban nen Diyos ay kona la ten pgsunud nen tagapagtoldu hidi nen Kautusan sakay nen Pariseo hidi, ay awan kam makasddp ten kahariyan nen Diyos.
-029	Kinagi pa ni Jesus, Nasanig moy a intoldu di ten ninunu moy hidi a, Dyan ka mamunu; sakay ni deyaman en makabunu ay meatubeng ten pghatulan.
+029	Kinagi pa ni Jesus, Nasanig moy a intoldu di ten ninunu moy hidi a, Dyan ka mamunu;
+029	sakay ni deyaman en makabunu ay meatubeng ten pghatulan.
 030	Peru kagiyn ku bi dikomoy, a ni deyaman en maiyamut ten kapatkaka na ay meatubeng ten pghatulan.
 030	Sakay en mangkagi ten kapatkaka na a, Awan ka ti kuwenta!
 030	ay meatubeng ten Sanedrin.

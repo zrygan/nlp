@@ -1,7 +1,8 @@
 verse	content
 001	Isa ka adlaw, gingtawag ni Hesus ang dose nga apostoles kag gingtaw-an niya sinda ning gahom kag otoridad nga magpalayas ng tanan nga demonyo kag magpang-ayo ng mga may sakit.
 002	Tapos gingsug niya sinda sa iba-iba nga lugar para magtudl parti sa paghahar ng Dios kag magpang-ayo ng mga may sakit.
-003	Bago sinda naghalin, gingbilinan sinda ni Hesus, Ayaw kamo magdaya ning aber ano sa indo pagpanaw; aber sungkod, bag, pagkaon, kwarta o ilislan.
+003	Bago sinda naghalin, gingbilinan sinda ni Hesus, Ayaw kamo magdaya ning aber ano sa indo pagpanaw;
+003	aber sungkod, bag, pagkaon, kwarta o ilislan.
 004	Kag kung diin nga bayay kamo magdayon, didto lang gid kamo mag-istar hasta nga maghalin kamo sa adto nga banwa.
 005	Pero kung ind magbaton sa indo ang mga tawo sa isa ka lugar, bayai nindo in nga lugar kag ipagpag ang dapodapo sa indo siki para paandaman nga parusahan sinda ng Dios kay way sinda magbaton ng indo ginatudl.
 006	Ngan nagpanaw ang mga disipulo kag naglibot sa mga baryo nga nagawali ng Maayong Balit kag nagapang-ayo ng mga may sakit.
@@ -29,14 +30,16 @@ verse	content
 020	Isa ka adlaw mintras nagapangamuy si Hesus nga siya lang, yadto da malapit-lapit sa iya ang mga disipulo.
 020	Pagkatapos nagpangutana siya sa inda, Sin-o kuno ako sun sa hambay ng mga tawo?
 021	Nagsabat sinda, May nagahambay nga ikaw si Juan nga Miyugbawtismo.
-021	Ang iban naman nagahambay nga ikaw si Elias; kag ang iban pa gid nagahambay nga ikaw isa sa mga propeta nang una nga nabanhaw.
+021	Ang iban naman nagahambay nga ikaw si Elias;
+021	kag ang iban pa gid nagahambay nga ikaw isa sa mga propeta nang una nga nabanhaw.
 022	Nagpangutana naman siya sa inda, Hay kamo, ano ang indo mahahambay, sin-o ako?
 023	Nagsabat si Pedro, Ikaw imaw ang Kristo nga gingsug ng Dios!
 024	Niyan gingpaandaman ni Hesus ang mga disipulo nga ind gid ini ipamalit aber kanin-o.
 025	Kag naghambay pa gid siya, Ako nga Ung ng Tawo hay dapat gid mag-agi ning sobra nga kahugaan kag sikwayon ako ng mga miyugdumaya ng Judio, ng mga pinun nga par kag mga eskriba.
 025	Ipapatay ninda ako, pero sa ikatuyo ka adlaw mababanhaw ako.
 026	Naghambay siya sa tanan, Ang aber sin-o nga gusto magsunod sa akon, dapat ind niya palabihon ang iya kaugalingon, kund pas-anon niya ang iya krus adlaw-adlaw kag magsunod sa akon.
-027	Kay ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini; pero ang aber sin-o nga nagahalad ng iya kabuh tungod sa akon, makakabaton siya kabuh nga way katapusan.
+027	Kay ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini;
+027	pero ang aber sin-o nga nagahalad ng iya kabuh tungod sa akon, makakabaton siya kabuh nga way katapusan.
 028	Ano gid baya ang mapupuslan ng tawo kung maangkon man niya ang tanan nga butang diri sa kalibutan, pero mawad-an naman siya kabuh?
 028	Way gid!
 029	Kay kung aber sin-o hay ginakahuy ako nga Ung ng Tawo kag ang akon mga ginatudl, ikahuy ko da sinda pagbalik ko sa kalibutan nga may gahom kag sa gahom ng akon Amay kag ng balaan nga mga anghel.

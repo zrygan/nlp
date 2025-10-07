@@ -1,10 +1,12 @@
 verse	content
 001	Sinabi ng Panginoon kay Abram, Umalis ka sa iyong lupain, sa iyong mga kamag-anak, sa bahay ng iyong ama, at pumunta ka sa lupaing ituturo ko sa iyo.
 002	Gagawin kitang isang malaking bansa, ikaw ay aking pagpapalain, gagawin kong dakila ang iyong pangalan, at ikaw ay magiging isang pagpapala.
-003	Pagpapalain ko ang magbibigay ng pagpapala sa iyo, at susumpain ko ang mga susumpa sa iyo; at sa pamamagitan mo ang lahat ng angkan sa lupa ay pagpapalain.
+003	Pagpapalain ko ang magbibigay ng pagpapala sa iyo, at susumpain ko ang mga susumpa sa iyo;
+003	at sa pamamagitan mo ang lahat ng angkan sa lupa ay pagpapalain.
 004	Kaya't umalis si Abram ayon sa sinabi sa kanya ng Panginoon , at si Lot ay sumama sa kanya.
 004	Si Abram ay may pitumpu't limang taong gulang nang umalis siya sa Haran.
-005	Isinama ni Abram si Sarai na kanyang asawa, at si Lot na anak ng kanyang kapatid, at ang lahat ng pag-aaring kanilang natipon at ang mga taong kanilang nakuha sa Haran; at umalis sila upang pumunta sa lupain ng Canaan at nakarating sila roon.
+005	Isinama ni Abram si Sarai na kanyang asawa, at si Lot na anak ng kanyang kapatid, at ang lahat ng pag-aaring kanilang natipon at ang mga taong kanilang nakuha sa Haran;
+005	at umalis sila upang pumunta sa lupain ng Canaan at nakarating sila roon.
 006	Dumaan sa lupain si Abram hanggang sa lugar ng Shekem, sa punong ensina ng More.
 006	Noon, ang mga Cananeo ay nasa lupaing iyon.
 007	Nagpakita ang Panginoon kay Abram, at sinabi, Ibibigay ko ang lupaing ito sa iyong lahi.
@@ -14,7 +16,8 @@ verse	content
 009	Si Abram ay patuloy na naglakbay hanggang sa Negeb.
 010	Nagkagutom sa lupain kaya't bumaba si Abram sa Ehipto upang manirahan doon sapagkat mahigpit ang taggutom sa lupain.
 011	Nang siya'y malapit na sa Ehipto, sinabi niya kay Sarai na kanyang asawa, Alam kong ikaw ay isang babaing maganda sa paningin;
-012	at kapag nakita ka ng mga Ehipcio ay kanilang sasabihin, Ito'y kanyang asawa; at ako'y kanilang papatayin, subalit hahayaan ka nilang mabuhay.
+012	at kapag nakita ka ng mga Ehipcio ay kanilang sasabihin, Ito'y kanyang asawa;
+012	at ako'y kanilang papatayin, subalit hahayaan ka nilang mabuhay.
 013	Sabihin mong ikaw ay aking kapatid upang ako'y mapabuti dahil sa iyo, at upang ang buhay ko'y makaligtas dahil sa iyo.
 014	Nang dumating si Abram sa Ehipto, nakita ng mga Ehipcio na ang babae ay napakaganda.
 015	Nang makita siya ng mga pinuno ng Faraon, siya'y kanilang pinuri kay Faraon, at dinala ang babae sa bahay ng Faraon.

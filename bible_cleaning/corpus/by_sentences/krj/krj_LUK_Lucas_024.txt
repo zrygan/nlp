@@ -52,7 +52,8 @@ verse	content
 038	Samtang nagahambal pa sanda nahanungud ka dya, hinali lang nga nagtindug si Jesus sa tunga nanda kag nagkuon kananda, Ang kalinung mangin rugyan kaninyo!
 039	Nangusyan sanda kag nahadluk tungud hay abi nanda murto ang anda nga nakita.
 040	Pero nagkuon tana kananda, Andut bala nga natublag kamo, kag andut nga nagapangduha-duha kamo?
-041	Sulnga ninyo ang akun mga alima kag mga kahig; ako gid dya!
+041	Sulnga ninyo ang akun mga alima kag mga kahig;
+041	ako gid dya!
 041	Hikapa ninyo ako kag maman-an ninyo, tungud hay ang murto tana wara ti kusug kag tul-an, akun tana may kusug kag tul-an takun nga makita ninyo.
 042	Pagkakuon na ka dya ginpakita na kananda ang anang mga alima kag kahig.
 043	Indi gihapon sanda makapati tungud sa andang kalipay kag katingala.

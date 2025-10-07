@@ -18,10 +18,12 @@ verse	content
 013	Mayong pagkaherak na pinirit nindang magtrabaho an mga Israelita sa saindang mga proyektong pagtugdok nin mga edipisyo asin sa gabos na trabaho sa saindang oma.
 014	Dangan sinabihan kan hade si Sifra asin si Pua, mga parterang nagpapaaki sa mga babaeng Hebreyo.
 015	Kun kamo magpaaki sa mga babaeng Hebreyo, gadanon nindo an aki kun lalaki alagad pabayaan nindong mabuhay kun babae.
-016	Alagad dai sinunod kan mga partera an pagboot kan hade huli ta may pagkatakot sinda sa Dios; pinabayaan nindang mabuhay an mga aking lalaki.
+016	Alagad dai sinunod kan mga partera an pagboot kan hade huli ta may pagkatakot sinda sa Dios;
+016	pinabayaan nindang mabuhay an mga aking lalaki.
 017	Kaya ipinaapod sinda kan hade dangan hinapot, Tano ta dai kamo nagsunod?
 017	Tadaw ta pinabayaan nindong mabuhay an mga aking lalaki?
-018	Nagsimbag sinda, Iba kaya an mga babaeng Hebreyo sa mga babaeng taga Egipto; bako sindang masakit mangaki, kaya bago umabot an saro samo, nakapangaki na sinda.
+018	Nagsimbag sinda, Iba kaya an mga babaeng Hebreyo sa mga babaeng taga Egipto;
+018	bako sindang masakit mangaki, kaya bago umabot an saro samo, nakapangaki na sinda.
 019	Huli kaini, benendisyonan nin Dios an mga partera asin tinawan niya sinda nin dakul na mga aki.
 019	Padagos man na nagdakul asin nagkosog an mga Israelita.
 020	Kaya nagboot an hade sa mga Egipcio, Itapok nindo sa Salog nin Nilo an lambang bagong mamundag na lalaki sa mga Hebreyo, alagad pabayaan nindong mabuhay an gabos na aking babae.

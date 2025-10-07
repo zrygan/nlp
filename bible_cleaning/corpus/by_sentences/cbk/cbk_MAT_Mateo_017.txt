@@ -37,5 +37,6 @@ verse	content
 026	El maga ciudadano ba del di suyo reino o el maga estrangero?
 027	Ya contesta si Pedro, Siempre el maga estrangero.
 028	Ya contesta si Jesus, Entonces gale quiere decir el maga ciudadano hende ta paga el impuesto.
-029	Pero no quiere kita manda canila tene agravio; poreso anda tu pesca na mar, y el primer pescao que ay cuji tu, abri el boca de ese y ay encontra tu un bilug de cen, husto lang para paga el impuesto na templo.
+029	Pero no quiere kita manda canila tene agravio;
+029	poreso anda tu pesca na mar, y el primer pescao que ay cuji tu, abri el boca de ese y ay encontra tu un bilug de cen, husto lang para paga el impuesto na templo.
 029	Saca con ese y paga el impuesto di aton.

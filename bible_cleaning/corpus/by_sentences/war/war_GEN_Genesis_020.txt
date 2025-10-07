@@ -3,7 +3,8 @@ verse	content
 001	Niyan, samtang nag-uokoy hiya didto ha Gerar,
 002	nagsiring hiya nga bugto la niya hi Sara nga iya asawa.
 002	Sanglit ginpakuha ni Hadi Abimelec hi Sara ngadto ha iya.
-003	Usa ka gab-i pinmakita an Dyos kan Abimelec dida hin usa nga inop ngan nagsiring, Mapatay ka, kay ginkuha mo ini nga babaye; inasaw-an na hiya.
+003	Usa ka gab-i pinmakita an Dyos kan Abimelec dida hin usa nga inop ngan nagsiring, Mapatay ka, kay ginkuha mo ini nga babaye;
+003	inasaw-an na hiya.
 004	Kundi waray pa makighilawas kan Sara hi Abimelec, ngan nagsiring hiya, Ginoo, waray ko sala!
 004	Papatayon mo ba ako ngan an akon mga tawo?
 005	Hi Abraham ngahaw an nagsiring nga bugto la niya hi Sara, ngan nagsiring hi Sara nga bugto niya hi Abraham.
@@ -23,7 +24,8 @@ verse	content
 014	Niyan ibinalik ni Abimelec hi Sara ngadto kan Abraham ngan gintagan pa hiya ni Abimelec hin mga karnero, mga baka, ngan hin mga oripon.
 015	Nagsiring hiya kan Abraham, Iini an bug-os ko nga katunaan.
 015	Pag-ukoy bisan diin an imo karuyag.
-016	Nagsiring hiya kan Sara, Tinatagan ko an imo bugto nga lalake hin usa ka yukot ka bug-os nga salapi basi hisabotan han ngatanan nga upod nimo nga waray ka sala; nga waray mo nabuhat nga sayop.
+016	Nagsiring hiya kan Sara, Tinatagan ko an imo bugto nga lalake hin usa ka yukot ka bug-os nga salapi basi hisabotan han ngatanan nga upod nimo nga waray ka sala;
+016	nga waray mo nabuhat nga sayop.
 017	Tungod han nahinabo kan Sara nga asawa ni Abraham, ginbuot han Dyos nga diri gud mag-anak an bisan hin-o nga babaye didto han palasyo ni Abimelec.
 017	Sanglit nag-ampo hi Abraham para kan Abimelec ngan gin-upay hiya han Dyos.
 017	Gin-upay liwat niya an iya asawa, ngan an iya mga oripon nga kababayen-an basi mag-anak na liwat hira.

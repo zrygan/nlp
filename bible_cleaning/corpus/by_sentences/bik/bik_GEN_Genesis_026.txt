@@ -1,8 +1,10 @@
 verse	content
 001	Nagkaigwa nin gutom sa daga, na laen man kan naenot na gutom kan panahon ni Abraham.
 001	Nagduman si Isaac sa Gerar, ki Abimelek na hade kan mga Filistio.
-002	Nagpahiling an Kagurangnan ki Isaac asin nagtaram, Dai ka magduman sa Egipto; mag-erok ka sa daga na itataram ko saimo.
-003	Mag-erok ka sa dagang ini; iibahan asin bebendisyonan taka.
+002	Nagpahiling an Kagurangnan ki Isaac asin nagtaram, Dai ka magduman sa Egipto;
+002	mag-erok ka sa daga na itataram ko saimo.
+003	Mag-erok ka sa dagang ini;
+003	iibahan asin bebendisyonan taka.
 003	Itatao ko saimo asin sa mga kapagarakian mo an bilog na dagang ini, asin ootobon ko an sakong panuga sa saimong ama na si Abraham.
 004	Papadakulon ko siring sa mga bitoon sa kalangitan an saimong mga kapagarakian asin itatao ko sa sainda an bilog na teritoryong ini.
 004	Sa paagi ninda, bebendisyonan ko man an gabos na nasyon sa daga.
@@ -46,9 +48,11 @@ verse	content
 030	Nagin marahay kami saimo asin matoninong mi ikang pinahale.
 030	Mayong duda na benendisyonan ka nin Kagurangnan .
 031	Kaya nag-andam nin bangkete si Isaac para sa sainda asin nagkakan saka nag-inoman sinda.
-032	Pagkaaga, amay sindang nagmata asin sinda gabos nanumpa sa lambang saro; dinespedir sinda ni Isaac asin nagburulag sinda bilang mga magkatood.
+032	Pagkaaga, amay sindang nagmata asin sinda gabos nanumpa sa lambang saro;
+032	dinespedir sinda ni Isaac asin nagburulag sinda bilang mga magkatood.
 033	Kan aldaw na iyan, nag-abot an mga sorogoon ni Isaac asin nag-osip saiya manongod kan bubon na kinalot ninda.
 033	Olay ninda, Nakakua kami nin tubig.
-034	An bubon nginaranan Sheba ni Isaac; kaya sagkod ngunyan an syudad inaapod Beer-sheba.
+034	An bubon nginaranan Sheba ni Isaac;
+034	kaya sagkod ngunyan an syudad inaapod Beer-sheba.
 035	Kan kwarenta na an edad ni Esau, inagom niya si Judith na aki ni Beeri na Heteo asin si Basemat na aki ni Elon na saro pang Heteo.
 036	Huli sainda, nagin mapait an buhay ni Isaac asin ni Rebecca.

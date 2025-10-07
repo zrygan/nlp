@@ -5,14 +5,16 @@ verse	content
 002	Oneng nganang Abram, O Ginung Dios , nanung ulaga na ning ibie mu kanaku?
 002	Nung sakaling mate kung alang anak, i Eliezer a tau Damasco a pamahalan ku king pibalebale ku ya ing pamanan ku!
 003	E mu ku pa dininan anak at ing pamanan ku metung ya karing ipus ku.
-004	Kanita ngana ning Ginu , Aliwa i Eliezer; sarili meng anak ing maging talapagmana mu.
+004	Kanita ngana ning Ginu , Aliwa i Eliezer;
+004	sarili meng anak ing maging talapagmana mu.
 005	Tiki ne i Abram lual na ning tolda at ngana, Talanga ka at lumawe king banua at bilangan mu la ding batuin, nung arapat mu.
 005	Makanyan la karakal ding maging lahi mu.
 006	Migtiwala ya i Abram king Ginu , at uli na nita meging katanggap-tanggap ya king Ginu .
 007	Kanita sinabi na, Abram, aku ing Ginu a kinangwa keka ibat Ur da ring Caldeo ban ibie keka iting gabun a iti bilang bandi mu.
 008	Nganang mengutang Abram, O Ginung Dios , makananu kung abalung abandi ku iti?
 009	Pekibat na ning Ginu , Pagdala mu kung metung a baka, metung a babaing kambing a atlung banua, at metung a lalaking tupa a atlu munamang banua, metung a batubatu, at metung a pitsun.
-010	Dela na la deti king Ginu ; pemirasu na la at binili ne ing kabangal tulid na ning kabangal na.
+010	Dela na la deti king Ginu ;
+010	pemirasu na la at binili ne ing kabangal tulid na ning kabangal na.
 010	E na la pemirasu ding ayup.
 011	Digpan da lang ayup a buitre, oneng inabuang na lang Abram.
 012	Inyang lalbug ne ing aldo, mipatudtud yang maniaman i Abram at detangan ne ning makapal at makatakut a dalumdum.

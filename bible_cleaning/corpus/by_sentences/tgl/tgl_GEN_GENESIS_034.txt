@@ -3,19 +3,23 @@ verse	content
 002	Nang makita siya ni Shekem, anak ni Hamor na Heveo na siyang pinuno sa lupain, kanyang kinuha siya at sapilitang sinipingan.
 003	Siya ay napalapit kay Dina, na anak ni Jacob at kanyang inibig ang dalaga, at nangusap sa kanya na may pagmamahal.
 004	Kaya't si Shekem ay nagsalita sa kanyang amang si Hamor, na sinasabi, Kunin mo para sa akin ang dalagang ito upang maging asawa ko.
-005	Nabalitaan nga ni Jacob na pinagsamantalahan ni Shekem ang kanyang anak na si Dina; subalit ang kanyang mga anak na lalaki ay kasama ng mga hayop niya sa parang kaya't nanatiling tahimik si Jacob hanggang sa sila'y nakarating.
+005	Nabalitaan nga ni Jacob na pinagsamantalahan ni Shekem ang kanyang anak na si Dina;
+005	subalit ang kanyang mga anak na lalaki ay kasama ng mga hayop niya sa parang kaya't nanatiling tahimik si Jacob hanggang sa sila'y nakarating.
 006	Lumabas si Hamor na ama ni Shekem upang makipag-usap kay Jacob,
 007	nang ang mga anak na lalaki ni Jacob ay magsiuwi mula sa parang.
 007	Nang ito'y kanilang mabalitaan, galit na galit ang mga lalaki, sapagkat gumawa si Shekem ng kalapastanganan sa Israel sa pamamagitan ng pagsiping sa anak ni Jacob, sapagkat ang gayong bagay ay di-nararapat gawin.
 008	Subalit nagsalita si Hamor sa kanila, na sinasabi, Ang puso ng aking anak na si Shekem ay nasasabik sa iyong anak.
 008	Hinihiling ko sa inyo na ipagkaloob ninyo siya sa kanya upang maging asawa niya.
-009	Magsipag-asawa kayo sa amin; ibigay ninyo sa amin ang inyong mga anak na babae, at ibibigay namin sa inyo ang aming mga anak na babae.
+009	Magsipag-asawa kayo sa amin;
+009	ibigay ninyo sa amin ang inyong mga anak na babae, at ibibigay namin sa inyo ang aming mga anak na babae.
 010	Kayo'y maninirahang kasama namin, at ang lupain ay magiging bukas sa inyo.
 010	Mangalakal kayo at magkaroon kayo ng mga pag-aari dito.
 011	Sinabi rin ni Shekem sa ama ni Dina at sa kanyang mga kapatid, Makatagpo sana ako ng biyaya sa inyong paningin at ang hingin ninyo sa akin ay aking ibibigay.
-012	Humingi kayo sa akin ng kahit anong bigay-kaya at regalo na nais ninyo at aking ibibigay ayon sa sinabi ninyo sa akin; subalit ibigay ninyo sa akin ang dalaga upang maging asawa ko.
+012	Humingi kayo sa akin ng kahit anong bigay-kaya at regalo na nais ninyo at aking ibibigay ayon sa sinabi ninyo sa akin;
+012	subalit ibigay ninyo sa akin ang dalaga upang maging asawa ko.
 013	At nagsisagot na may pandaraya ang mga anak na lalaki ni Jacob kina Shekem at Hamor na kanyang ama, sapagkat kanyang pinagsamantalahan si Dina na kanilang kapatid.
-014	Sinabi nila sa kanila, Hindi namin magagawang ibigay ang aming kapatid sa isang hindi tuli; sapagkat ito'y kahihiyan namin.
+014	Sinabi nila sa kanila, Hindi namin magagawang ibigay ang aming kapatid sa isang hindi tuli;
+014	sapagkat ito'y kahihiyan namin.
 015	Sa ganitong paraan lamang kami papayag: kung kayo'y magiging gaya namin, na ang lahat ng lalaki sa inyo ay tuliin.
 016	Pagkatapos ay ibibigay namin sa inyo ang aming mga anak na babae, at makikisama kami sa inyong mga anak na babae, at maninirahan kami sa inyo, at magiging isang bayan.
 017	Subalit kung ayaw ninyo kaming pakinggan na kayo'y matuli, ay kukunin namin ang aming anak na babae at kami ay aalis.
@@ -23,7 +27,8 @@ verse	content
 019	Hindi nag-atubili ang binata na gawin iyon, sapagkat nalugod siya sa anak na babae ni Jacob.
 019	Si Shekem ay ang pinakamarangal sa buong sambahayan ng kanyang ama.
 020	Kaya't si Hamor at ang anak niyang si Shekem ay pumunta sa pintuang-bayan ng kanilang lunsod, at sila'y nagsalita sa mga tao sa kanilang lunsod, na sinasabi,
-021	Ang mga taong ito ay mabuting makitungo sa atin; kaya't hayaan natin silang manirahan sa lupain at magsipangalakal sila riyan, sapagkat ang lupain ay sapat ang laki para sa kanila.
+021	Ang mga taong ito ay mabuting makitungo sa atin;
+021	kaya't hayaan natin silang manirahan sa lupain at magsipangalakal sila riyan, sapagkat ang lupain ay sapat ang laki para sa kanila.
 021	Ipakasal natin ang ating mga anak sa kanilang mga anak na babae, at ating ibigay sa kanila ang ating mga anak na babae.
 022	Sa ganito lamang paraan sila papayag na tumirang kasama natin, upang maging isang bayan: na patuli ang lahat ng lalaki sa atin, na gaya naman nila na mga tuli.
 023	Di ba magiging atin ang kanilang mga baka at ang kanilang mga pag-aari at ang lahat nilang hayop?

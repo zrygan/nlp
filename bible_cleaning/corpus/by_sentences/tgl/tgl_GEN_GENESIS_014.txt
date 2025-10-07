@@ -6,8 +6,10 @@ verse	content
 005	Sa ikalabing-apat na taon ay dumating si Kedorlaomer at ang mga haring kasama niya, at nilupig ang mga Refaim sa Astarot-carnaim, ang mga Zuzita sa Ham, ang mga Emita sa Save-Kiryataim,
 006	at ang mga Horeo sa kanilang kabundukan ng Seir hanggang Elparan na nasa tabi ng ilang.
 007	Pagkatapos, sila'y bumalik at tumungo sa Enmispat na siyang Kadesh, at kanilang nilupig ang buong lupain ng mga Amalekita at pati ng mga Amoreo na nakatira sa Hazazon-tamar.
-008	At lumabas ang mga hari ng Sodoma, Gomorra, Adma, Zeboyin, Bela na si Zoar; at sila'y sumama sa pakikidigma sa libis ng Siddim
-009	laban kay Kedorlaomer na hari ng Elam, kay Tidal na hari ng mga Goiim, kay Amrafel na hari ng Shinar, at kay Arioc na hari ng Elasar; apat na hari laban sa lima.
+008	At lumabas ang mga hari ng Sodoma, Gomorra, Adma, Zeboyin, Bela na si Zoar;
+008	at sila'y sumama sa pakikidigma sa libis ng Siddim
+009	laban kay Kedorlaomer na hari ng Elam, kay Tidal na hari ng mga Goiim, kay Amrafel na hari ng Shinar, at kay Arioc na hari ng Elasar;
+009	apat na hari laban sa lima.
 010	Ang libis ng Siddim ay pun ng hukay ng betun, at nang tumakas ang mga hari ng Sodoma at ng Gomorra, ang ilan ay nahulog doon, at ang natira ay tumakas sa kabundukan.
 011	At kanilang sinamsam ang lahat ng pag-aari at pagkain ng Sodoma at Gomorra, at saka umalis.
 012	Dinala nila si Lot na anak ng kapatid ni Abram, na nakatira sa Sodoma, at ang kanyang mga pag-aari at sila'y umalis.

@@ -45,4 +45,5 @@ verse	content
 029	Pero wara gid ikaw ti gintugro kanakun bisan sangka tinday lang kang kanding agud nga magsinadya kami kang akun mga amigo!
 030	Pero kang pagbalik kang bata mo nga ria nga nag-uyang lang kang imong pagkabutang sa malain nga klase kang mga bayi, ginpaihawan mo pa tana kang pinatambuk nga tinday kang baka!
 031	Nagsabat ang anang tatay, Anak, ikaw tana kaimaw ko pirme rugya sa balay, kag ang tanan nga akun imo man.
-032	Nagakabagay lang nga magpatabad kita kag magsinadya tungud hay ang libayun mo nga dya nga laum natun patay run, buhi man gali; nadura tana, pero kadya rugya tana run!
+032	Nagakabagay lang nga magpatabad kita kag magsinadya tungud hay ang libayun mo nga dya nga laum natun patay run, buhi man gali;
+032	nadura tana, pero kadya rugya tana run!

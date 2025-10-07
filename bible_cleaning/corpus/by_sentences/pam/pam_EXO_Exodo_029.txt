@@ -21,8 +21,10 @@ verse	content
 014	Oneng dulukan mu king lual ning kampu ing laman ning toro, ing balat na, at ding bituka na.
 014	Iti maging ain para mipatawaran ing kasalanan.
 015	Kuanan me ing metung karing aduang lalaking tupa at sabian mu kang Aaron at karing anak na ing itumpak da la ring gamat da king buntuk na ning tupa.
-016	Paten me ing lalaking tupa; saluran mu ing daya at kaybat ipisik mu karing apat nang suluk ning altar.
-017	Kaybat, pangilian me ing lalaking tupa; luglugan mu ing laman lub at pati na ding bitis at ibili mu iti babo nang buntuk, at karing aliwa pang dake a megili.
+016	Paten me ing lalaking tupa;
+016	saluran mu ing daya at kaybat ipisik mu karing apat nang suluk ning altar.
+017	Kaybat, pangilian me ing lalaking tupa;
+017	luglugan mu ing laman lub at pati na ding bitis at ibili mu iti babo nang buntuk, at karing aliwa pang dake a megili.
 018	Dulukan me ing lalaking tupa king altar bilang ain-a-kakanan.
 018	Babie tula kanaku, ing Ginu , ing bau na niti.
 019	Kuanan me ing metung pang lalaking tupa, itang megamit king pamitalaga.
@@ -48,7 +50,8 @@ verse	content
 032	King tulid nang pasbul ning Toldang tuknangan ku karin da kanan iti a kayabe da ring tinape mitagan king basket.
 033	Sukat dang kanan itang megamit king seremonia ning pangapatawaran kasalanan inyang miyordinan la.
 033	Bukud mung ding pari ilang mangan kaniti uling iti sagradu.
-034	Nung atin king karni o atin karing tinape a e mepangan karas na ning abak, iti sukat dulukan; e na sukat mapangan, uling iti sagradu.
+034	Nung atin king karni o atin karing tinape a e mepangan karas na ning abak, iti sukat dulukan;
+034	e na sukat mapangan, uling iti sagradu.
 035	Gampanan mu ing seremonia ning ordinasyun nang Aaron at ding anak nang lalaki kilub ding pitung aldo antimo nung makananu kung penabilin keka.
 036	Miyain kang metung a toro balang aldo bilang ain para king pangapatawaran ning kasalanan.
 036	Iti ing makalinis king altar.

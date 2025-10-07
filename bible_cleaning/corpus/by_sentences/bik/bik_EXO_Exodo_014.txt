@@ -9,7 +9,8 @@ verse	content
 005	Nagsarabi sinda, Ano ining ginibo ta?
 005	Pinabayaan tang makahale an mga Israelita asin ngunyan nawaraan logod kita nin mga oripon.
 006	Ipinaandam kan hade an saiyang karwahe asin ipinag-iba an saiyang mga hukbo.
-007	Nagluwas siya kaiba an gabos niyang karwahe, kabilang an seis syentos na piling karwahe; an lambang saro kaini may lunad na opisyal.
+007	Nagluwas siya kaiba an gabos niyang karwahe, kabilang an seis syentos na piling karwahe;
+007	an lambang saro kaini may lunad na opisyal.
 008	Pinatagas nin Kagurangnan an puso kan hade kaya linamag kaini an mga Israelita, na mapangganang nagharale.
 009	Linamag sinda kan mga hukbo, kan mga nakakabayo saka mga nakakarwaheng soldados nin Egipto asin inabotan sinda na nakakampo sa pangpang kan Dagat na Pula, harani sa Pi-hahirot asin Baal-zefon.
 010	Kan mahiling kan mga Israelita na harani na an hade saka an saiyang mga soldados, natakot sinda asin naghagad nin tabang sa Kagurangnan .
@@ -20,7 +21,8 @@ verse	content
 012	Mas marahay pang magin oripon kami ninda ki sa magadan digdi sa kalangtadan.
 013	Nagsimbag si Moises, Dai kamo matakot!
 013	Dai kamo maghiro!
-013	Hilingon nindo kun ano an gigibohon nin Kagurangnan tanganing iligtas kamo ngunyan; dai na nindo mahihiling an mga Egipciong iyan sagkod pa man.
+013	Hilingon nindo kun ano an gigibohon nin Kagurangnan tanganing iligtas kamo ngunyan;
+013	dai na nindo mahihiling an mga Egipciong iyan sagkod pa man.
 014	An Kagurangnan an makikipaglaban para sa saindo.
 014	Mayo kamong gigibohon maski ano man.
 015	Nagtaram an Kagurangnan ki Moises, Tano ta naghahagad ka sako nin tabang?
@@ -35,7 +37,8 @@ verse	content
 020	An panganoron nagtao nin kadikloman sa mga Egipcio, alagad nagtao nin liwanag sa mga Israelita.
 020	Kaya nag-agi an bilog na banggi na dai nagkaharanihan an duwang hukbo.
 021	Inunat ni Moises an saiyang kamot sa tangod kan dagat, asin pinabalik nin Kagurangnan an dagat sa paagi nin makosog na doros hale sa sirangan.
-021	Sa bilog na banggi naghoyop an doros asin an dagat nagin mamarang daga; nabanga an tubig.
+021	Sa bilog na banggi naghoyop an doros asin an dagat nagin mamarang daga;
+021	nabanga an tubig.
 022	Nag-ibong sa dagat an mga Israelita na an linakawan iyo an mamarang daga na nasa pagultanan kan duwang lanob nin tubig.
 023	Linamag sinda kan mga nakakabayo asin mga nakakarwaheng Egipcio sagkod sa tahaw kan dagat.
 024	Kan maaga na, an mga Egipcio dinungaw nin Kagurangnan hale sa harigi nin kalayo asin nin panganoron dangan tinakot niya sinda.
@@ -45,8 +48,10 @@ verse	content
 026	Dangan nagtaram an Kagurangnan ki Moises, Unata an saimong kamot sa tangod kan dagat tanganing matahoban kan tubig an mga Egipcio, an saindang mga karwahe asin an mga lunad kaiyan.
 027	Kaya inunat ni Moises an saiyang kamot sa tangod kan dagat, asin pagkaaga nagbalik an tubig sa dating rarom.
 027	Naghingowang makadulag an mga Egipcio, alagad itinapok sinda nin Kagurangnan sa tahaw kan dagat.
-028	Nagbalik an tubig asin natahoban an gabos na karwahe, an mga nagpapadalagan kaiyan, sagkod an gabos na hukbo nin Egipto na naglamag kan mga Israelita sa dagat; mayong natada maski saro.
+028	Nagbalik an tubig asin natahoban an gabos na karwahe, an mga nagpapadalagan kaiyan, sagkod an gabos na hukbo nin Egipto na naglamag kan mga Israelita sa dagat;
+028	mayong natada maski saro.
 029	Alagad nagbaralyo sa dagat an mga Israelita na an linakawan iyo an mamarang daga, na nasa pagultanan kan duwang lanob nin tubig.
-030	Kan aldaw na iyan, an banwaan nin Israel ilinigtas nin Kagurangnan sa mga Egipcio; nahiling ninda an mga gadan na Egipcio sa baybayon kan dagat.
+030	Kan aldaw na iyan, an banwaan nin Israel ilinigtas nin Kagurangnan sa mga Egipcio;
+030	nahiling ninda an mga gadan na Egipcio sa baybayon kan dagat.
 031	Nagkaigwa nin pagkatakot sa Kagurangnan an mga Israelita kan mahiling ninda an saiyang dakulang kapangyarihan kan daogon niya an mga Egipcio.
 031	Nagkaigwa sinda nin pagtubod sa Kagurangnan sagkod ki Moises na saiyang sorogoon.

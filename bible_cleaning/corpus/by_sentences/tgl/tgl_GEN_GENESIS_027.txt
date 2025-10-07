@@ -14,7 +14,8 @@ verse	content
 009	Pumaroon ka ngayon sa kawan, at dalhin mo sa akin ang dalawang magandang batang kambing at gagawin kong masarap na pagkain para sa iyong ama, ayon sa kanyang ibig.
 010	Dadalhin mo ito sa iyong ama at hayaan mong kumain upang ikaw ay kanyang basbasan bago siya mamatay.
 011	Subalit sinabi ni Jacob kay Rebecca na kanyang ina, Si Esau na aking kapatid ay taong mabalahibo at ako'y taong makinis.
-012	Baka hipuin ako ng aking ama, at ako ay magiging mandaraya sa kanyang paningin; at ang aking matatanggap ay sumpa at hindi pagpapala.
+012	Baka hipuin ako ng aking ama, at ako ay magiging mandaraya sa kanyang paningin;
+012	at ang aking matatanggap ay sumpa at hindi pagpapala.
 013	Sinabi sa kanya ng kanyang ina, Mapasaakin na ang sumpa sa iyo, anak ko.
 013	Sundin mo lamang ang aking sinabi.
 013	Umalis ka na at dalhin ang mga iyon sa akin.
@@ -23,8 +24,11 @@ verse	content
 015	Kinuha ni Rebecca ang pinakamagandang damit ng kanyang panganay na anak na si Esau na nasa kanya sa bahay at isinuot kay Jacob na kanyang bunsong anak.
 016	At ang mga balat ng mga batang kambing ay ibinalot sa kanyang mga kamay, at sa makinis na bahagi ng kanyang leeg.
 017	Ibinigay niya ang masarap na pagkain at ang tinapay na kanyang inihanda kay Jacob na kanyang anak.
-018	At siya'y lumapit sa kanyang ama at sinabi, Ama ko; at sinabi niya, Narito ako; sino ka, anak ko?
-019	Sinabi ni Jacob sa kanyang ama, Ako'y si Esau na iyong panganay; ginawa ko ang ayon sa sinabi mo sa akin.
+018	At siya'y lumapit sa kanyang ama at sinabi, Ama ko;
+018	at sinabi niya, Narito ako;
+018	sino ka, anak ko?
+019	Sinabi ni Jacob sa kanyang ama, Ako'y si Esau na iyong panganay;
+019	ginawa ko ang ayon sa sinabi mo sa akin.
 019	Bumangon ka ngayon, umupo at kumain ka ng aking usa upang ako'y mabasbasan mo.
 020	At sinabi ni Isaac sa kanyang anak, Ano't napakadali mong nakakuha, anak ko?
 020	At sinabi niya, Sapagkat ang Panginoon mong Diyos ang nagbigay sa akin ng tagumpay.
@@ -77,10 +81,12 @@ verse	content
 053	at kapag ikaw ay lumaban,
 054	babaliin mo ang kanyang pamatok na nasa iyong leeg.
 055	Kaya't kinapootan ni Esau si Jacob dahil sa basbas na ibinigay sa kanya ng kanyang ama.
-055	At sinabi ni Esau sa sarili, Malapit na ang mga araw ng pagluluksa sa aking ama; pagkatapos ay papatayin ko si Jacob na aking kapatid.
+055	At sinabi ni Esau sa sarili, Malapit na ang mga araw ng pagluluksa sa aking ama;
+055	pagkatapos ay papatayin ko si Jacob na aking kapatid.
 056	Ngunit ang mga salita ni Esau na kanyang panganay ay naibalita kay Rebecca.
 056	Kaya't siya'y nagsugo at ipinatawag si Jacob na kanyang bunso at sinabi sa kanya, Inaaliw ng iyong kapatid na si Esau ang kanyang sarili sa pagpaplanong ikaw ay patayin.
-057	Ngayon, anak ko, sundin mo ang aking tinig; bumangon ka at tumakas ka patungo sa aking kapatid na si Laban na nasa Haran.
+057	Ngayon, anak ko, sundin mo ang aking tinig;
+057	bumangon ka at tumakas ka patungo sa aking kapatid na si Laban na nasa Haran.
 058	Tumigil ka sa kanya nang ilang araw hanggang sa mapawi ang galit ng iyong kapatid,
 059	hanggang sa mapawi ang galit sa iyo ng iyong kapatid at malimutan niya ang ginawa mo sa kanya.
 059	Pagkatapos ay magsusugo ako at ipasusundo kita mula roon.

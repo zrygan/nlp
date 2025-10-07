@@ -1,6 +1,7 @@
 verse	content
 001	Pagkatapos kang Adlaw nga Inugpahuway, aga-aga pa gid kang nahauna nga adlaw kang semana, si Maria Magdalena kag ang sangka Maria pa gid, nagpanaw para lantawun ang rulubngan.
-002	Golpi lang nga naglinog kang mabaskug; tungud hay may anghel kang Ginoo nga nagkunsad halin sa langit.
+002	Golpi lang nga naglinog kang mabaskug;
+002	tungud hay may anghel kang Ginoo nga nagkunsad halin sa langit.
 002	Ginpaligid na ang bato nga nagatakup sa rulubngan kag ginpungkoan na dya.
 003	Ang anang dagway makasirilaw nga pareho kang kilat, kag ang anang bayo tama gid kaputi.
 004	Nagkurudug sa kahadluk ang mga gwardya kag nagkaratumba sanda nga daw mga patay.

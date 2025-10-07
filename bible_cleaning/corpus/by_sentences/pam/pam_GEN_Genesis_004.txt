@@ -12,7 +12,9 @@ verse	content
 005	Mimua ya i Cain at meslam ya lupa.
 006	Ngana ning Ginu kang Cain, Obat mua ka?
 006	Obat maslam ka lupa?
-007	Nung mayap ing gewa mu, sukat kang tumula; nung e mayap, ing kasalanan manaya ya lele mung pasbul; pagnasan na ka, oneng sukat meng sambutan.
+007	Nung mayap ing gewa mu, sukat kang tumula;
+007	nung e mayap, ing kasalanan manaya ya lele mung pasbul;
+007	pagnasan na ka, oneng sukat meng sambutan.
 008	Misan a aldo, nganang Cain kang Abel a kapatad na, Tara, munta kata king marangle.
 008	Minta la king marangle at kabang atyu la karin, lepitan neng Cain i Abel at pete ne.
 009	Kanita nganang mengutang ning Ginu kang Cain, Nukarin ya ing kapatad mung i Abel?
@@ -21,21 +23,27 @@ verse	content
 011	Kanita ngana ning Ginu , Obat gewa mu ing anti kanyan?
 011	Kukulait kanaku ibat king gabun ing daya na ning kapatad mu.
 012	Manibat ngeni makasumpa ka at mitabi ka king gabun a mistulang asbuk a mininum king dayang pepatulu mu king kapatad mu.
-013	Mananaman ka man, oneng ala yang ibie pupul ing gabun; ala kang pupulan.
+013	Mananaman ka man, oneng ala yang ibie pupul ing gabun;
+013	ala kang pupulan.
 013	Maglibut-libut ka king mabilug a yatu at e ka malyaring mipaindatun nu man karin.
 014	Nganang Cain king Ginu , Kabayat nang pusanan niting binie yung parusa!
-015	Palakuan yu ku king gabun a iti at mabating ku ban e yu na ku akit; maglayas-layas kung alang tuknangan king lupa na ning yatu, at paten na ku ning ninumang manakit kanaku!
+015	Palakuan yu ku king gabun a iti at mabating ku ban e yu na ku akit;
+015	maglayas-layas kung alang tuknangan king lupa na ning yatu, at paten na ku ning ninumang manakit kanaku!
 016	E makanyan, ngana ning Ginu kang Cain.
 016	Itang makamate keka, makatapitu yang besis miparusan.
 016	Mibili yang metung a tatak ing Ginu kang Cain ban e ne paten ning ninumang taung manakit kang Cain.
 017	Meko ya i Cain king arapan na ning Ginu at menuknangan ya king sakup ning Nod, king dane nang aslagan ning Eden.
-018	Sipingnan neng Cain ing asawa na; mebuktut ya at beit ne i Enoc.
+018	Sipingnan neng Cain ing asawa na;
+018	mebuktut ya at beit ne i Enoc.
 018	Telakad neng Cain ing metung a siudad, at pekilagyu ne iti king anak nang i Enoc.
 019	I Irad ya ing meging anak nang Enoc, at meging anak na ne man Irad i Meuyael.
 019	Anak neng Meuyael i Metusael, at anak neng Metusael i Lamec.
-020	Adua ya asawa i Lamec; i Ada at i Zilla.
-021	Beit neng Ada i Jabal; ya ing pipumpunan da ring taung manuknangan karing tolda at manese animal antimo ding baka.
-022	Jubal ne man lagyu ing kapatad na; ya naman ing pipumpunan da ring sablang manigtigan lira at plauta.
+020	Adua ya asawa i Lamec;
+020	i Ada at i Zilla.
+021	Beit neng Ada i Jabal;
+021	ya ing pipumpunan da ring taung manuknangan karing tolda at manese animal antimo ding baka.
+022	Jubal ne man lagyu ing kapatad na;
+022	ya naman ing pipumpunan da ring sablang manigtigan lira at plauta.
 023	Beit neng Zilla i Tubal-Cain a pipumpunan da ring taung biasang gawa karing kasangkapan a tangsu at bakal.
 023	Naama ya lagyu ing kapatad nang babaing Tubal-Cain.
 024	Nganang Lamec karing asawa na,

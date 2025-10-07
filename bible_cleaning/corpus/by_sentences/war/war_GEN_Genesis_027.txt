@@ -15,7 +15,8 @@ verse	content
 010	Pakadto han panon ngan pilia in duha nga magtambok nga nati nga mga kanding, basi makagluto ako han sura nga ayon gud ni imo tatay.
 011	Dadad-on mo ini ngadto ha iya, ngan ighahatag niya ha imo an iya bendisyon nga diri pa hiya mapatay.
 012	Kundi nagsiring hi Jacob kan iya nanay, Maaram ka man nga barahiboon nga tawo hi Esau, kundi mahamis an akon panit.
-013	Bangin hikapon ako han akon tatay ngan hisabtan niya nga ginlilimbongan ko hiya; bangin lugod higabaan ako ngan diri kabendisyonan.
+013	Bangin hikapon ako han akon tatay ngan hisabtan niya nga ginlilimbongan ko hiya;
+013	bangin lugod higabaan ako ngan diri kabendisyonan.
 014	Binmaton hi iya nanay, Mahingadi unta ha akon an gaba kontra ha imo, anak ko.
 014	Sugta la an akon iginsiring ha imo ngan kadtoa ngan kuhaa para ha akon an mga kanding.
 015	Sanglit ginkuha niya an mga kanding, ngan gindara ini ngadto kan iya nanay.
@@ -79,7 +80,8 @@ verse	content
 049	Kundi kon umato ka,
 050	Mahigagawas ka han iya gahom.
 051	Napungot hi Esau kan Jacob, kay iginhatag ni iya tatay kan Jacob an bendisyon.
-051	Nakahunahuna hiya, Diri na maiha an panahon hin pagkamasulob-on para han akon amay; katapos hito, papatayon ko hi Jacob nga akon bugto.
+051	Nakahunahuna hiya, Diri na maiha an panahon hin pagkamasulob-on para han akon amay;
+051	katapos hito, papatayon ko hi Jacob nga akon bugto.
 052	Kundi ha pakabati ni Rebecca han larang ni Esau, ginpasugoan niya hi Jacob, ngan ginsiring, Pamati, naghuhunahuna hi Esau nga imo bugto hin pagbulos ngan pagpatay ha imo.
 053	Yana, anak, buhata an akon igtutugon ha imo.
 053	Pakadto dayon kan Laban nga akon bugto nga lalake didto ha Haran.

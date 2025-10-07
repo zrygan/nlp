@@ -19,7 +19,8 @@ verse	content
 011	Duro man ang magaturoaw nga mga nagapakuno-kuno nga propeta kag duro ang andang mapatalang.
 012	Magaluntad ang kalaotan, gani nga ang gugma kang duro nga mga tawo magatahaw.
 013	Pero ang bisan sin-o tana nga magapadayon nga mapag-un sa anang pagtuo hasta sa katapusan, maluwas.
-014	Kag ang Mayad nga Balita nga dya nahanungud sa paghari kang Dios igawali sa bilog nga kalibutan agud to nga ang tanan nga mga tawo makabati; amo run to kag magaabot ang katapusan kang kalibutan.
+014	Kag ang Mayad nga Balita nga dya nahanungud sa paghari kang Dios igawali sa bilog nga kalibutan agud to nga ang tanan nga mga tawo makabati;
+014	amo run to kag magaabot ang katapusan kang kalibutan.
 015	Gani, kon makita ninyo nga nagatindug sa balaan nga lugar ang makangiril-ad nga butang nga ginkuon kang propeta nga si Daniel kauna sa mga nagabasa kadya, intiendiha gid ninyo ang inyo ginabasa,
 016	ang mga tawo nga rugyan sa Judea dapat magpalagyo sa kabukidan.
 017	Ang tawo tana nga nataboan nga rugyan sa tapan nga atup kang anang balay, indi run dapat nga magpanaog sa pagbuul kang anang pagkabutang.
@@ -36,7 +37,8 @@ verse	content
 024	Magahimo sanda kang mga milagro kag mga makatiringala nga mga butang sa katuyoan nga patalangun, kon mahimo pa lang bisan ang mga pinili kang Dios.
 025	Tandai gid ninyo dya!
 025	Ginasugid ko run nga daan kaninyo ang dya nga mga butang sa wara pa matabo.
-026	Gani nga kon may magkuon kaninyo, Rugto tana sa kamingawan, indi kamo mag-agto rugto; ukon magkuon pa gid sanda, Dyan tana sa sulud, indi gid kamo magpati.
+026	Gani nga kon may magkuon kaninyo, Rugto tana sa kamingawan, indi kamo mag-agto rugto;
+026	ukon magkuon pa gid sanda, Dyan tana sa sulud, indi gid kamo magpati.
 027	Tungud hay ang pag-abot kang Anak kang Tawo, mangin pareho sa kirab kang kilat nga makita halin sa sidlangan hasta sa kasalpan.
 028	May hurubatun nga nagakuon, Kon sa diin ang patay nga lawas, rugto man nagatiripon ang mga pispis nga buwitre.
 029	Lagi-lagi, pagkatapos kang mga kalalat-an sa tion nga ria, ang adlaw magadulum, ang bulan indi run magsanag, kag ang mga bituon sa langit magakarahulog.
@@ -54,8 +56,10 @@ verse	content
 038	Tungud hay sa wara pa mag-abot ang anaw ang mga tawo nagapinagusto lang ka kaun, ka inum, kag pangasawa, hasta sa adlaw nga si Noe nagsulud sa arka.
 039	Wara gid sanda ti hinalung-ung kon ano ang matabo hasta nga nag-abot ang anaw kag nagkaralumus sanda tanan.
 039	Pareho man kadya ang matabo sa pag-abot kang Anak kang Tawo.
-040	Sa ria nga mga tinion, kon may darwa ka laki nga nagaobra sa uma; ang isara pagabul-un kag ang isara tana mabilin.
-041	Kon may darwa ka bayi nga nagagaling; ang isara pagabul-un, ang isara tana mabilin.
+040	Sa ria nga mga tinion, kon may darwa ka laki nga nagaobra sa uma;
+040	ang isara pagabul-un kag ang isara tana mabilin.
+041	Kon may darwa ka bayi nga nagagaling;
+041	ang isara pagabul-un, ang isara tana mabilin.
 042	Gani magbantay kamo, tungud hay wara kamo kamaan kon san-o magaabot ang inyo Ginoo.
 043	Tandai ninyo dyaay: kon naman-an kang tagbalay kon ano oras sa gabii magaabot ang takawan, magapulaw gid tana sa pagbantay agud to nga indi makasulud ang takawan sa anang balay.
 044	Gani dapat nga handa kamo pirme, tungud hay ang Anak kang Tawo magaabot sa oras nga wara ninyo ginapaabot.

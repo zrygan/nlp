@@ -20,7 +20,8 @@ verse	content
 015	Dikona netan nen tolay hidi ti Jesus, ay narknid hidi sakay nagginan hidi a tummagbu sakay binati di siya.
 016	Tinanung ni Jesus en disepulus na hidi, nya i pamagtalunan moyen?
 017	Tehud a essa a lllaki ten katolayan a nagupos, Maistu, inyangay ku hddi dikomu i anak kuwidi a lllaki gapu sinddp ni maduks a ispiritu, sakay awan siya makaupos.
-018	Kada pahirapan siya nen maduks a ispiritu ay medumor siya; magruru i ngusu naidi, magnguritb i ngipn naidi sakay kumsseng.
+018	Kada pahirapan siya nen maduks a ispiritu ay medumor siya;
+018	magruru i ngusu naidi, magnguritb i ngipn naidi sakay kumsseng.
 018	Inyoron ku ti disepulus muwen hidi a palakadn di en maduks a ispiritu peru awan di mapalakad.
 019	Kinagi ni Jesus dikodi, Lahi a awan ti pnnampalataya!
 019	Hanggan nikan takam pa beman a aguman?

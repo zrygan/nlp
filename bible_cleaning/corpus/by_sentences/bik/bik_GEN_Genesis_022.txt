@@ -7,7 +7,8 @@ verse	content
 003	Amay pa kan sunod na aldaw, nagputol na si Abraham nin kahoy para sa tinutong na atang, siniyahan an saiyang asno dangan nagduman sa lugar na sinabi saiya nin Dios, kaiba si Isaac asin duwang sorogoon.
 004	Sa ikatolong aldaw, harayo pa, nahiling na ni Abraham an lugar.
 005	Sinabihan ni Abraham an saiyang mga sorogoon, Digdi sana kamo kaiba kan asno.
-005	Maduman kami ni Isaac sa lugar na idto tanganing magsamba; babalikan mi na sana kamo.
+005	Maduman kami ni Isaac sa lugar na idto tanganing magsamba;
+005	babalikan mi na sana kamo.
 006	Ipinadara ni Abraham ki Isaac an kahoy para sa tinutong na atang dangan siya an nagdara kan kutsilyo asin kan baga.
 006	Mantang naglalakaw sinda,
 007	nagsabi si Isaac, Ama ko!

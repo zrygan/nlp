@@ -34,7 +34,8 @@ verse	content
 022	Niyan binmuswak in pito nga mga uhay hin trigo nga mga kuyapi ngan apa tungod han mapaso nga hangin.
 023	Ginlam-oy han kuyapi nga mga uhay an mga magtimgas.
 023	Iginsumat ko ini nga mga inop ngadto han mga salamangkero, kundi waray gud usa ha ira nga nakagsaysay han mga inop.
-024	Nagsiring hi Jose han hadi, Waray kalainan an kahulogan han duha nga mga inop; iginsumat ha imo han Dyos kon ano an iya pagbubuhaton.
+024	Nagsiring hi Jose han hadi, Waray kalainan an kahulogan han duha nga mga inop;
+024	iginsumat ha imo han Dyos kon ano an iya pagbubuhaton.
 025	Pito ka tuig hin kahuraan an kahulogan han pito nga magtambok nga mga baka, ngan an pito nga magtimgas nga mga uhay hin trigo.
 026	Pito ka tuig nga gutom an pito nga maggasaay nga mga baka nga inmabot sunod hini ngan an pito nga kuyapi ngan apa nga mga uhay hin trigo.
 027	Amo gud ini sumala han akon iginsumat ha imoiginpakita ha imo han Dyos kon ano an iya pagbubuhaton.
@@ -66,8 +67,10 @@ verse	content
 047	Didto han kada syudad gintirok niya an pagkaon tikang han kaumhan ha palibot hini.
 048	May-ada damo hin duro nga mga liniso nga hinmunong nala hi Jose hin pagtinakos hinipareho ini han baras ha baybayon.
 049	Han waray pa aabot an mga tuig han gutom, nagkamay-ada hira Jose ug Asemat duha nga mga anak nga kalalaken-an.
-050	Nagsiring hi Jose, Ginpakalimot ako han Dyos han ngatanan ko nga mga pag-antos ngan han bug-os nga panimalay han akon amay; sanglit ginngaranan niya nga Manases an iya suhag nga lalake.
-051	Nagsiring liwat hiya, Gintagan ako han Dyos hin mga anak didto han tuna han akon kakurian; sanglit ginngaranan niya nga Efraim an iya ikaduha nga anak nga lalake.
+050	Nagsiring hi Jose, Ginpakalimot ako han Dyos han ngatanan ko nga mga pag-antos ngan han bug-os nga panimalay han akon amay;
+050	sanglit ginngaranan niya nga Manases an iya suhag nga lalake.
+051	Nagsiring liwat hiya, Gintagan ako han Dyos hin mga anak didto han tuna han akon kakurian;
+051	sanglit ginngaranan niya nga Efraim an iya ikaduha nga anak nga lalake.
 052	Natapos an pito ka tuig nga kahuraan nga ginpahimulosan han tuna han Ehipto,
 053	ngan nagtikang an pito ka tuig nga gutom, sumala han iginsiring ni Jose.
 053	May-ada gutom didto han iba nga mga nasod, kundi may-ada pagkaon ha bug-os nga Ehipto.

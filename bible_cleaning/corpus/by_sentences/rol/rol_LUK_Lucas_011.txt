@@ -19,7 +19,9 @@ verse	content
 013	Ngan tandai gid nindo ang akon ginahambay, Magpangay kamo sa Dios, kag taw-an kamo.
 013	Magpangit kamo, kag makakit kamo.
 013	Magpanuktok kamo, kag buksan ang pwertahan para sa indo.
-014	Kay ang aber sin-o nga nagapangay makakabaton; ang nagapangit makakakit; kag ang nagapanuktok pagabuksan.
+014	Kay ang aber sin-o nga nagapangay makakabaton;
+014	ang nagapangit makakakit;
+014	kag ang nagapanuktok pagabuksan.
 015	Kamo nga mga tatay, kung magpangay ang indo ung ning isd, taw-an ba nindo ning sawa?
 016	Kung magpangay ning itlog, taw-an ba nindo ning iwi?
 016	Syempre ind!

@@ -1,7 +1,8 @@
 verse	content
 001	Nen ondarakel la ray katoowan tan akayatan da lay intiron mundo, dakel met la ray nianak a bibii.
 002	Saray anak na Dios anengneng dan maganggana ra yan bibii, kanyan nampili ray inasawa ra.
-003	Insan inkuan na Katawan , Ag ko iyabuloy a mambilay ya anggad angga iray katoowan; ompatey ira.
+003	Insan inkuan na Katawan , Ag ko iyabuloy a mambilay ya anggad angga iray katoowan;
+003	ompatey ira.
 003	Manlapud natan, mambilay iray ag onsoluk ed sanlasus tan duamploy taon.
 004	Diad saraman ya agew, tan anggan diad saray ontombuk, wala ray alan a manaayam ed dalin ya anak ira na saramay magangganan bibii tan saramay anak na Dios.
 004	Sikaray matalonggaring a bayani tan bantug a lalaki nen saman a panaon.
@@ -18,7 +19,8 @@ verse	content
 011	Say Dios ninmengneng ed mundo tan anengneng ton maoges, lapud maoges so pambibilay na amin a katoowan.
 012	Inkuan na Dios ed kinen Noe, Tinibokel ko lad kanunotan ko a panganggaen koy bilay na amin a katoowan.
 012	Sigput ko ran deralen, ta napnoy mundo na maoges a gawgawa ra.
-013	Manggawa kay biong para sika; ikanam so maung a klasiy kiew, igawaan mo na saray kuarto, tan balkut mo na alkitran ed loob tan diad paway to.
+013	Manggawa kay biong para sika;
+013	ikanam so maung a klasiy kiew, igawaan mo na saray kuarto, tan balkut mo na alkitran ed loob tan diad paway to.
 014	Gawam a sanlasus tan limamplon mitro so karokey to, duamplo tan liman mitro so kaawang to, tan labinliman mitro so kaatagey to.
 015	Igawaan moy atep, tan iyatagey mod saray dingding to na kapalduay mitro.
 015	Gawam a taloran grado, tan igawaan moy sakey a puirta ed diking to.

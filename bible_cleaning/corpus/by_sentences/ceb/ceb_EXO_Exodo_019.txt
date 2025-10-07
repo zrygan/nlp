@@ -24,7 +24,8 @@ verse	content
 015	Inigpatingog sa trumpeta, patungasa sa bukid ang mga tawo.
 016	Busa milugsong si Moises sa bukid ug gipaandam niya ang mga tawo aron sa pagsimba.
 016	Gilabhan nila ang ilang mga bisti.
-017	Si Moises miingon kanila, Pangandam kamo alang sa ikatulong adlaw; ayaw una kamo pagpakighilawas.
+017	Si Moises miingon kanila, Pangandam kamo alang sa ikatulong adlaw;
+017	ayaw una kamo pagpakighilawas.
 018	Sa pagkabuntag sa ikatulong adlaw nagdalugdog ug nagkilat.
 018	May bagang panganod sa bukid ug nadungog ang makusog nga lanog sa trumpeta.
 018	Nangurog sa kalisang ang tanang mga tawo didto sa kampo.

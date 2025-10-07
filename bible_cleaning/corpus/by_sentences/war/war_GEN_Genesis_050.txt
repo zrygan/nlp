@@ -11,7 +11,8 @@ verse	content
 007	Inmupod kan Jose an ngatanan nga mga opisyal han hadi, an katigurangan han iya palasyo, ngan an ngatanan nga mga dumagko han Ehipto.
 008	Nangupod ngatanan kan Jose an iya panimalay, an iya kabugtoan nga kalalaken-an, ngan an iba pa han panimalay han iya amay.
 008	An ira la gudtiay nga kabataan, ngan an ira mga karnero, mga kanding, ngan mga baka an nagpabilin didto han katunaan han Gosen.
-009	Binmunyog liwat ha iya in mga tawo nga mga dikaruwahe, ngan mga dikabayo; dako hin duro adto nga hugpo.
+009	Binmunyog liwat ha iya in mga tawo nga mga dikaruwahe, ngan mga dikabayo;
+009	dako hin duro adto nga hugpo.
 010	Han pag-abot nira ngadto han giriokan nga dapit ha Atad ha sinirangan han Jordan, nagtaguminatay hira hin maiha, ngan ginbuhat ni Jose an mga seremonyas, sulod hin pito ka adlaw.
 011	Han paghikit-i la han mga taga-Canaan han mga tawo nga nagtataguminatay didto ha Atad, nagsiring hira, Hin kamakatarag-ob nga seremonyas hin pagtaguminatay an ginbuhat han mga Ehiptohanon!
 011	Amo ito nga ginngaranan nga Abel-Mizraim an dapit.
@@ -31,7 +32,8 @@ verse	content
 021	Waray niyo sadang kahadlokan.
 021	Pagmamangnoan ko kamo ngan an iyo mga anak.
 021	Sanglit iya ginpasarig hira pinaagi hin maloloy-on nga mga pulong nga nakabantad han ira mga kasingkasing.
-022	Nagpadayon hi Jose hin pag-ukoy didto ha Ehipto upod han panimalay han iya amay; 110 na an iya panuigon han kamatay niya.
+022	Nagpadayon hi Jose hin pag-ukoy didto ha Ehipto upod han panimalay han iya amay;
+022	110 na an iya panuigon han kamatay niya.
 023	Nahiabot pa hiya han mga anak ngan mga apo ni Efraim.
 023	Nahiabot pa liwat hiya hin pagkarawat ngadto han iya panimalay han mga anak ni Maquir nga anak ni Manases.
 024	Nagsiring hiya ha iya kabugtoan, Mapatay na ako, kundi waray ruhaduha nga pagmamangnoan gud kamo han Dyos, ngan pagagawson kamo tikang hini nga tuna ngadto han tuna nga iginsumpa niya kanda Abraham, Isaac, ug Jacob.

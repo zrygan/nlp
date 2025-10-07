@@ -7,7 +7,8 @@ verse	content
 004	Tumayo sa malayo ang kanyang kapatid na babae upang malaman ang mangyayari sa bata.
 005	Noon, ang anak na babae ni Faraon ay lumusong upang maligo sa ilog, at naglakad ang kanyang mga alalay na babae sa tabi ng ilog.
 005	Kanyang nakita ang basket sa talahiban at ipinakuha sa kanyang alalay.
-006	Nang kanyang buksan ito, nakita niya ang bata; at narito, ang sanggol ay umiyak.
+006	Nang kanyang buksan ito, nakita niya ang bata;
+006	at narito, ang sanggol ay umiyak.
 006	At kanyang kinaawaan siya at sinabi, Ito'y isa sa mga anak ng mga Hebreo.
 007	Nang magkagayo'y sinabi ng kanyang kapatid na babae sa anak ng Faraon, Aalis ba ako upang itawag kita ng isang tagapag-alaga mula sa mga babaing Hebrea na mag-aalaga ng bata para sa iyo?
 008	Sinabi sa kanya ng anak ng Faraon, Umalis ka.
@@ -19,7 +20,8 @@ verse	content
 011	Nang mga araw na iyon, nang malaki na si Moises, nagtungo siya sa kanyang mga kapatid, at nakita ang kanilang sapilitang paggawa.
 011	Kanyang nakita ang isang Ehipcio na binubugbog ang isang Hebreo na isa sa kanyang mga kapatid.
 012	Siya'y tumingin sa magkabi-kabilang dako at nang siya'y walang makitang tao, kanyang pinatay ang Ehipcio at kanyang itinago sa buhanginan.
-013	Nang siya'y lumabas nang sumunod na araw, may dalawang lalaking Hebreo na naglalaban; at kanyang sinabi sa gumawa ng masama, Bakit mo sinasaktan ang iyong kasama?
+013	Nang siya'y lumabas nang sumunod na araw, may dalawang lalaking Hebreo na naglalaban;
+013	at kanyang sinabi sa gumawa ng masama, Bakit mo sinasaktan ang iyong kasama?
 014	Sinabi niya, Sinong naglagay sa iyo bilang pinuno at hukom sa amin?
 014	Iniisip mo bang patayin ako, gaya nang pagpatay mo sa Ehipcio?
 014	Natakot si Moises at kanyang inisip, Tiyak na ang bagay na ito ay alam na.
@@ -28,7 +30,8 @@ verse	content
 016	Siya'y umupo sa tabi ng isang balon.
 017	Ang pari noon sa Midian ay may pitong anak na babae.
 017	Sila'y dumating at umigib ng tubig at kanilang pinuno ang mga inuman upang painumin ang kawan ng kanilang ama.
-018	Ang mga pastol ay dumating at sila'y ipinagtabuyan; ngunit si Moises ay tumindig at sila'y ipinagtanggol, at pinainom ang kanilang kawan.
+018	Ang mga pastol ay dumating at sila'y ipinagtabuyan;
+018	ngunit si Moises ay tumindig at sila'y ipinagtanggol, at pinainom ang kanilang kawan.
 019	Nang sila'y dumating kay Reuel na kanilang ama ay sinabi nito, Bakit napakadali ninyong dumating ngayon?
 020	Kanilang sinabi, Iniligtas kami ng isang Ehipcio mula sa kamay ng mga pastol at saka iniigib pa niya kami ng tubig at pinainom ang kawan.
 021	Sinabi niya sa kanyang mga anak, Saan siya naroon?

@@ -60,5 +60,6 @@ verse	content
 047	Gani ginpatawag na ang kapitan kag ginpamangkot kon patay run gid man si Jesus.
 048	Pagkamaan ni Pilato sa kapitan nga patay run gid man si Jesus, nagpasugot tana nga ibul-un ni Jose ang bangkay ni Jesus.
 049	Nagbakal si Jose kang tela nga lino kag gintaltal ang bangkay ni Jesus sa kros.
-049	Ginputos na dya kang tela nga lino kag ginbutang sa rulubngan nga gin-giab sa bato; dayon nagpaligid tana kang bato nga magatakup sa pwertahan kang rulubngan.
+049	Ginputos na dya kang tela nga lino kag ginbutang sa rulubngan nga gin-giab sa bato;
+049	dayon nagpaligid tana kang bato nga magatakup sa pwertahan kang rulubngan.
 050	Nakita nanday Maria Magdalena kag ni Maria nga nanay ni Jose kon sa diin ginlubung si Jesus.

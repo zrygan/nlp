@@ -1,7 +1,8 @@
 verse	content
 001	Samtang nagapagwa si Jesus sa templo, ang isara sa anang mga disipulo nagkuon kana, Turuka bala Maestro, tama gid ka nami gid kang mga bato kag ka daragkul kang mga balay!
 002	Nagsabat si Jesus kana, Nakita mo ang daragkul nga mga balay nga dya?
-002	Wara gid ti bisan sangka bato nga mabilin nga nagasampaw sa isara; marumpag gid dya tanan.
+002	Wara gid ti bisan sangka bato nga mabilin nga nagasampaw sa isara;
+002	marumpag gid dya tanan.
 003	Kang nagapungko si Jesus sa pagpanudlo rugto sa Bukid kang mga Olibo nga sa diin lantawun ang templo, nagparapit kana sanday Pedro, Santiago, Juan kag Andres kag nagpamangkot nga sandahanun lang,
 004	Sugidi kami, san-o bala dya matabo kag ano bala ang mga paratandaan nga matuman run ang tanan nga dya?
 005	Nagkuon si Jesus kananda, Mag-andam kamo nga indi kamo mapatalang ni bisan sin-o.
@@ -33,14 +34,16 @@ verse	content
 023	Ginsugid ko run kaninyo ang tanan nga mga butang samtang wara pa dya matabo.
 024	Sa mga inadlaw nga to, pagkatapos kang mga kapipit-an, ang adlaw magadulum, kag ang bulan indi run magsanag.
 025	Ang mga bituon magakarahulog halin sa langit kag ang mga butang sa kahawaan pagauyugun.
-026	Kag dayon makita kang mga tawo ang Anak kang Tawo nga nagaabot nga ginadara kang panganod; tuman gid ang anang gahum kag pagkamahimayaun.
+026	Kag dayon makita kang mga tawo ang Anak kang Tawo nga nagaabot nga ginadara kang panganod;
+026	tuman gid ang anang gahum kag pagkamahimayaun.
 027	Dayon sugoon na ang anang mga anghel nga tiponon ang anang mga pinili halin sa tanan nga bahin kang kalibutan.
 028	Magtuon kamo halin sa kahoy nga higera.
 028	Kon nagapanglumbay run gani dya, maman-an ninyo nga dali run lang ang tag-irinit.
 029	Sa amo man nga bagay, kon makita gani ninyo nga nagakaratabo run ang mga butang nga dya, maman-an ninyo nga dali run lang tana mag-abot kag nagahinamput run.
 030	Sugidan ko kamo, magakaratabo ang tanan nga mga butang nga dya sa wara pa mapatay ang mga tawo sa dya nga panag-on.
 031	Madura ang langit kag ang lupa, pero ang akun mga pulong magapabilin hasta san-o.
-032	Wara gid ti bisan sin-o nga nakamaan kon ano nga adlaw ukon oras dya magakaratabo, bisan ang mga anghel sa langit ukon ang Anak; ang Amay gid lang ang nakamaan.
+032	Wara gid ti bisan sin-o nga nakamaan kon ano nga adlaw ukon oras dya magakaratabo, bisan ang mga anghel sa langit ukon ang Anak;
+032	ang Amay gid lang ang nakamaan.
 033	Mag-andam kamo kag magbantay tungud hay wara kamo makamaan kon san-o magaabot ang tion nga ria.
 034	Daw pareho dya kang sangka tawo nga nagpanaw sa marayu.
 034	Ginbayaan na ang anang balay kag gintugyan sa anang mga surugoon nga ang kada isara kananda may anang orobrahun.

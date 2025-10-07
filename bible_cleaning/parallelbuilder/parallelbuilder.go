@@ -254,7 +254,7 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 			tgtLines := strings.Split(strings.TrimSpace(string(tgtContent)), "\n")
 
 			for v := 0; v < len(srcLines) && v < len(tgtLines); v++ {
-				verseNum := fmt.Sprintf("%d", v+1)
+				verseNum := fmt.Sprintf("%03d", v+1)
 				entry.Pairs = append(entry.Pairs, types.TextPair{
 					SourceText: strings.TrimSpace(srcLines[v]),
 					TargetText: strings.TrimSpace(tgtLines[v]),

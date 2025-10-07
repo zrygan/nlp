@@ -13,7 +13,8 @@ verse	content
 007	Ngan ayaw kamo mahadlok kay kamo hay mas importante kaysa sa madam nga pispis nga maya.
 008	Naghambay pa si Hesus, Tandai ang akon ginahambay sa indo, ang aber sin-o nga nagakilaya sa akon sa atubangan ng mga tawo, ako nga Ung ng Tawo hay magakilaya da sa iya sa atubangan ng mga anghel ng Dios.
 009	Pero ang way nagakilaya sa akon sa atubangan ng mga tawo, ind ko da siya kilay-on sa atubangan ng mga anghel ng Dios.
-010	Ang aber sin-o nga maghambay kontra sa akon nga Ung ng Tawo hay mapapatawad; pero ang maghambay ning malain kontra sa Espiritu Santo ind gid mapatawad.
+010	Ang aber sin-o nga maghambay kontra sa akon nga Ung ng Tawo hay mapapatawad;
+010	pero ang maghambay ning malain kontra sa Espiritu Santo ind gid mapatawad.
 011	Kung day-on kamo sa sinagoga para imbistigahan ng mga miyugdumaya ng banwa o ng mga may otoridad, ayaw kamo magkabayaka kung pauno kamo magsabat o ano ang indo ihambay.
 012	Kay sa adto gid nga oras, ang Espiritu Santo ang magatudl sa indo kung ano ang dapat nindo ihambay.
 013	Naghambay kay Hesus ang isa sa mga nagapamat didto, Maestro, sugua abi ang akon maguyng nga partehan ako ng amon panublion.
@@ -69,7 +70,8 @@ verse	content
 046	Tapos ilalakot siya sa mga tawo nga ind gid masaligan.
 047	Ang ulipon nga nakakasayod kung ano ang gusto ng iya amo, pero bukon siya preparado o way niya ginahumana kung ano ang gusto ng iya amo, sobra gid ang parusa nga mababaton niya.
 048	Pero ang ulipon nga way nakakasayod kung ano ang gusto ng iya amo, magkuyang man siya sa iya obligasyon magaan lang ang parusa sa iya.
-048	Kay ang ginataw-an ning madam, madam da ang papangitaon sa iya; kag ang ginasaligan ning mas madam, papanabaton da ng mas madam.
+048	Kay ang ginataw-an ning madam, madam da ang papangitaon sa iya;
+048	kag ang ginasaligan ning mas madam, papanabaton da ng mas madam.
 049	Nagkari ako sa kalibutan para husgahan ang mga tawo kag ini hay pareho ng kalayo kag gusto ko kunt nga nagadayab na ini.
 050	Pero bago ini matab, dapat anay magaagi ako ning sobra nga kahugaan kag kasakit.
 050	Kag ginabug-atan ako mintras way pa ini matab.

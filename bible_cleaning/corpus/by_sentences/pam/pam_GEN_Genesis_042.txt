@@ -1,12 +1,14 @@
 verse	content
 001	Abalitan nang Jacob king ating dakal a pamangan karin Ehipto,
 002	inya ngana karing anak na, Nananu kayu ken?
-002	Munta kayu Ehipto; abalitan kung ating dakal a pamangan karin.
+002	Munta kayu Ehipto;
+002	abalitan kung ating dakal a pamangan karin.
 002	Sali kayu ba ta mung e mate king danup.
 003	Inya minta la Ehipto ding apulu nang kapatad Jose ban saling pamangan.
 004	E ne pepatukian Jacob i Benjamin karing aliwa nang anak, uling tatakut yang ating malyari kang Benjamin.
 005	Anti na ning miras munaman ing danup king mabilug a Canaan, mekiabe la ring anak nang Jacob karing pupunta Ehipto ban saling pamangan.
-006	Ing gobernador ning mabilug a Ehipto ya i Jose; ya ing mamisaling pamangan karing sablang taung manibatan king mabilug a yatu.
+006	Ing gobernador ning mabilug a Ehipto ya i Jose;
+006	ya ing mamisaling pamangan karing sablang taung manibatan king mabilug a yatu.
 006	Dinatang la ding kapatad na at dinuku la king arapan na angga king ding lupa ra tatagkil na la king gabun.
 007	Ikit na lang Jose ding kapatad na at akilala na la, oneng e re akilala.
 007	Mataram yang migsalita karela.
@@ -54,7 +56,8 @@ verse	content
 027	Seke da ring mikakapatad ing seli rang pamangan karing karelang asno at meko na la.
 028	Pangabengi, inyang tuknang la ban magpaynawa, biklat ne ning metung karela ing saku na ban kumang pamangan para king asno na.
 028	Ikit na la kilub ning saku ding salaping pemayad na.
-029	Ngana karing kapatad na, Binalik da la ring salaping pemayad ku; atyu la kilub na ning saku!
+029	Ngana karing kapatad na, Binalik da la ring salaping pemayad ku;
+029	atyu la kilub na ning saku!
 030	Kinarug la salu at king takut da ngarang misabi-sabi, Nanu iting depat na ning Dios kekatamu?
 031	Karas da kang Jacob a tata ra king sakup ning Canaan, belita ra ing heganaganang milyari karela.
 031	Ngara,
@@ -69,7 +72,8 @@ verse	content
 037	Inyang ilako ne ning balang metung karela ing laman na ning saku na, ikit na la ding salaping pemayad na.
 037	Inyang akit da la reti, mitakutan la at pati i tata ra.
 038	Ngana karelang Jacob a tata ra, Buri yu lang mawala ngan ding kakung anak?
-038	Ala ne i Jose; ala nia naman i Simeon at ngeni kakuanan ye pa kanaku i Benjamin?
+038	Ala ne i Jose;
+038	ala nia naman i Simeon at ngeni kakuanan ye pa kanaku i Benjamin?
 038	Kabayat na ning kanakung pupusanan!
 039	Kanita nganang Ruben kang tata na, Paten yu la ding adua kung anak a lalaki nung e ke kayabe muli i Benjamin.
 039	Panibala ye kanaku at ibalik kia naman kekayu!

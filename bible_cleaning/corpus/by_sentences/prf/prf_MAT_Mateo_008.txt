@@ -60,6 +60,7 @@ verse	content
 034	Lummuwas ngani en dimonyo hidi ten duwwa a lllaki sakay summddp hidi ten kababuyan.
 034	Sakay en kababuyan ay namagginanan ten pengpeng sakay summegbu hidi ten minalnu, sakay tulos hidi a mingkalims.
 035	Ginuminan en mgbantay hidi ten kababuyan a tamu ten banuwan.
-035	Kddemt di haud, ay imbbbareta di ten atanan en nangyari; pati en nangyari ten duwwa a hinayup.
+035	Kddemt di haud, ay imbbbareta di ten atanan en nangyari;
+035	pati en nangyari ten duwwa a hinayup.
 036	Ten dikona a matukuyan iyud nen katolayan ay lummuwas hidi ten banuwan tnni tagbuwn di ti Jesus.
 036	Sakay ten dikona a ketan di siya ay nkkekagbi hidi a lumakad siya ten lugar di.

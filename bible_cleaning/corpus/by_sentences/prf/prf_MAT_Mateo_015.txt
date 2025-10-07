@@ -55,6 +55,7 @@ verse	content
 038	Sakay pinggetnud ni Jesus en tolay hidi ten luta.
 039	Inalap ni Jesus en pittu a tinapay sakay en sasangan a bbbadit a ikan sakay nagpasalamat ten Diyos.
 039	Kttapos ay hinati-hati na iyud sakay inyatd na ten disepulus na hidi tnni itagtag di ten tolay hidi.
-040	Atanan di ay nakakan sakay nabssug; sakay ten dikona a ipunn nen disepulus hidi en naburay ay nakaputat hidi ti pittu a lkba.
+040	Atanan di ay nakakan sakay nabssug;
+040	sakay ten dikona a ipunn nen disepulus hidi en naburay ay nakaputat hidi ti pittu a lkba.
 041	En bilang nen kumman hidi a lllaki ay ppat a libu awan palla hud kabilang en kabbbiyan sakay en kaanakan.
 042	Sakay dikona a napauli dn ni Jesus en tolay hidi ay summakay siya ten abeng a patamu ten banuwan a Magadan.

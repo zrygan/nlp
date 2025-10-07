@@ -18,7 +18,8 @@ verse	content
 011	Anggaman ya inagew-agew ton kerewen a manakdul ira, ag labay nen Jose.
 012	Balet aminsan ya agew nen linmoob ed abung nen Potifar si Jose a manumpal a kimey to, nibanan andi rad may aripen.
 013	Siningkat na samay asawa nen Potifar so saloy na kawes nen Jose tan inkuanto, Akdulan mo ak la.
-013	Balet akaokpus si Jose tan batik ed paway; atilak ed lima to may bii so kawes ton kolibemben.
+013	Balet akaokpus si Jose tan batik ed paway;
+013	atilak ed lima to may bii so kawes ton kolibemben.
 014	Nen anengneng ton akabatik ed paway si Jose tan atilak so kawes tod lima to,
 015	tinawag to ray aripen to tan inkuanto, Nengneng yo ya!
 015	Eekalan itayoy kagalangan na samay Hebreo ya insempet na asawak.

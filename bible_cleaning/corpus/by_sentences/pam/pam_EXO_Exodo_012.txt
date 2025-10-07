@@ -8,12 +8,16 @@ verse	content
 006	Kaybat sesen yu la angga king sisilim na ning kalabing apat a aldo ning bulan at paten na la ning mabilug a balen ning Israel deting mesabing animal.
 007	Kailangan lang kumang ditak king daya at ikaskas da karing amba at babo da ring pasbul da ring bale nung nu la mapangan deting animal.
 008	King benging ita sukat minangnang ing laman at mapangan a kayabe ding mapait a gule at ning tinape alang lebadura.
-009	E ye kakanan sagiwa o linaga; kanan yeng melitsun kabilugan pati na ing buntuk, ding bitis, at ing laman lub.
-010	Ala kayung tatagan kaniti angga itang kabukasan abak; nung ating nanumang mitagan, sukat silaban.
+009	E ye kakanan sagiwa o linaga;
+009	kanan yeng melitsun kabilugan pati na ing buntuk, ding bitis, at ing laman lub.
+010	Ala kayung tatagan kaniti angga itang kabukasan abak;
+010	nung ating nanumang mitagan, sukat silaban.
 011	Malagua yeng kanan.
 011	Miblas kayu para king makabang lakaran, makasulud na la ding sandalyas yu at talnan ye king metung yung gamat ing tukud yu.
 011	Iti ing pamagselebra king Pamaglagpus bilang parangal kanaku, ing Ginu .
-012	King benging ita, lumabas ku king mabilug a Ehipto; paten ku la ding sablang anak dang pangane lalaki ding tau at animal; pagpa ku ing parusa karing dios na ning Ehipto.
+012	King benging ita, lumabas ku king mabilug a Ehipto;
+012	paten ku la ding sablang anak dang pangane lalaki ding tau at animal;
+012	pagpa ku ing parusa karing dios na ning Ehipto.
 012	Aku ing Ginu .
 013	Maging palatandanan ya karing pibalebale yu ing daya karing amba da ring pasbul.
 013	Lagpusan da kayu potang akit ku ing daya, at e kayu midame potang pagpa ku ing parusa king bansang Ehipto.
@@ -22,7 +26,8 @@ verse	content
 015	Ngana ning Ginu , Kilub ding pitung aldo e kayu sukat mamangan tinape nune mu itang alang lebadura.
 015	King mumunang aldo ilako yu karing pibalebale yu ing sablang lebadura, uling ing ninumang mangan tinape ating lebadura kilub ding pitung aldo reta, mitiwalag ya king balen ning Israel.
 016	Mitipun-tipun kayu king mumunang aldo at pasibayu king kapitung aldo ban samba.
-016	Alang darapat nanumang obra kareting aldo; ing makapaintulut mu kekayu ya ing pamisadia king pamangan a kailangan yu.
+016	Alang darapat nanumang obra kareting aldo;
+016	ing makapaintulut mu kekayu ya ing pamisadia king pamangan a kailangan yu.
 017	Sukat yeng gampanan iting Piesta ning Tinape Alang Lebadura uling king aldong iti kanita ku la ngan liwal ibat Ehipto ding tribu yu.
 017	Pagselebran ye iting aldo bilang metung a piesta karing panaun a datang pa.
 018	E kayu mamangan tinape ating lebadura manibat king sisilim ning kalabing apat a aldo ning mumunang bulan angga king sisilim ning kaduang pulu't metung a aldo.
@@ -34,20 +39,23 @@ verse	content
 023	Ikayu at ding anak yu sukat yu lang tuparan deting tuntunan king kapilan pa man.
 024	Potang akua yu nang miras ketang lugal a pengaku nang ibie kekayu ning Ginu , tuparan ye pa mu rin at gampanan iting selebrasyun.
 025	At potang ikutang da kekayu ding anak yu, Nanu ing buri nang sabian niting selebrasyun?
-026	Ipakibat yu karela, Iti ya ing ain-sakripisyu ning Pamaglagpus; parangal ya king Ginu , uling ligpusan na la ding bale da ring Israelita karin king Ehipto.
+026	Ipakibat yu karela, Iti ya ing ain-sakripisyu ning Pamaglagpus;
+026	parangal ya king Ginu , uling ligpusan na la ding bale da ring Israelita karin king Ehipto.
 026	Pete na la ding tau Ehipto, oneng ali na katamu.
 027	Siniklaud la ding Israelita at sinamba la.
 028	Kaybat na nita, minuli na la at tiparan da itang inutus na ning Ginu kari Moises at Aaron.
 029	Inyang kapitangan nang bengi, pete na la ngan ning Ginu ding lalaking pangane king Ehipto, manibat king pangane talapagmana na ning ari angga na king pangane ning taung makasukul king bartolina at pati ding pangane da ring sablang animal.
 030	Ketang benging ita, mipagising ya ing ari, ding tauan na ampon ding sablang aliwang tau Ehipto, at mika masikan a tangisan king mabilug a Ehipto, uling alang pibalebale a e mo sa kematen anak a pangane lalaki.
 031	Kanita mu ring benging ita, pepayaus na la ning ari di Moises at Aaron at ngana karela, Mabating na kayu, ikayu at ding kabalen yung Israelita!
-031	Lakuan ye ing kayarian ku; sulung munta na kayung samba king Ginu , antimo ing inawad yu.
+031	Lakuan ye ing kayarian ku;
+031	sulung munta na kayung samba king Ginu , antimo ing inawad yu.
 032	Idala yu la pati na ding tupa yu, kambing, at baka.
 032	Mabating na kayu!
 032	Pakipaniawad yu na ku mung bendisyun king Dios yu.
 033	Pekisabi rang mayap ding tau Ehipto karing Israelita ing magmalagua la sanang mako king Ehipto.
 033	Ngara, Mangamate ke ngan nung e kayu pa mako!
-034	Inya lilan da ring Israelita karing datukanan ing masang alang lebadura; binalut da karing balabal da at saka ra na pisanan.
+034	Inya lilan da ring Israelita karing datukanan ing masang alang lebadura;
+034	binalut da karing balabal da at saka ra na pisanan.
 035	Tiparan da ring Israelita itang inutus nang Moises karela, inya memaniawad lang alahas a gintu, pilak ampon baru karing tau Ehipto.
 036	At birian na naman ning Ginu ing maging maganaka la karela at binie da karela itang karelang aduan.
 036	Makanyan dang ikua ding Israelita ing pibandian da ring tau Ehipto.

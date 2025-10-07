@@ -5,7 +5,8 @@ verse	content
 003	Isaac an inginaran saiya ni Abraham,
 004	asin kan walong aldaw na an aki, sinerkomsisyon siya ni Abraham sosog sa pagboot nin Dios.
 005	Sanggatos na an edad ni Abraham kan mamundag si Isaac.
-006	Nagsabi si Sara, An Dios nagdara sako nin ngingisihan saka kaogmahan; asin an siisay man na makadangog kaini mangisi kaiba ko.
+006	Nagsabi si Sara, An Dios nagdara sako nin ngingisihan saka kaogmahan;
+006	asin an siisay man na makadangog kaini mangisi kaiba ko.
 007	Nagsabi pa siya, Siisay an makapagsabi ki Abraham na si Sara magpapadodo nin mga aki?
 007	Alagad uya, nagkaaki ako nin lalaki sa saiyang pagkagurang.
 008	Nagtalubo si Isaac, asin sa aldaw na binutas siya, nagtao si Abraham nin dakulang bangkete.
@@ -24,10 +25,12 @@ verse	content
 016	Nagsaboot siya, Dai ko kayang hilingon an pagkagadan kan sakong aki.
 016	Mantang nagtutukaw siya duman, nagpoon siyang maghibi.
 017	Nadangog nin Dios na naghihibi an aki, asin hale sa kalangitan tinaraman si Hagar kan anghel nin Dios, Ano an problema mo, Hagar?
-017	Dai ka matakot; huli ta nadangog nin Dios an tingog kan saimong aki.
+017	Dai ka matakot;
+017	huli ta nadangog nin Dios an tingog kan saimong aki.
 018	Tumindog ka, lakaw, asin buhaton mo siya dangan lingaon mo.
 018	Gigibohon kong sarong dakulang nasyon an saiyang mga kapagarakian.
-019	Dangan binukasan nin Dios an mga mata ni Hagar asin nahiling niya an sarong bubon; kaya nagduman siya asin pinano nin tubig an laogan na anit asin pinainom an saiyang aki.
+019	Dangan binukasan nin Dios an mga mata ni Hagar asin nahiling niya an sarong bubon;
+019	kaya nagduman siya asin pinano nin tubig an laogan na anit asin pinainom an saiyang aki.
 020	Dai pinabayaan nin Dios an aki asin nagdakula ini.
 020	Nag-erok siya sa kalangtadan nin Paran asin nagin sarong ekspertong paraayam.
 021	Ikinua siya kan saiyang ina nin sarong babaeng taga Egipto na magin saiyang agom.
@@ -36,7 +39,8 @@ verse	content
 023	Nagin marahay ako saimo kaya mangako kang siring man an ibabalos mo sako asin sa dagang ini na saimong pinag-eerokan.
 024	Nagsimbag si Abraham, Minasumpa ako.
 025	Dangan nagreklamo si Abraham ki Abimelek manongod sa sarong bubon na sinadiri kan mga oripon ni Abimelek.
-026	Nagsimbag si Abimelek, Dai ko aram kun siisay an naggibo kaini; dai mo man ini sinabi sako asin ngunyan ko pa sana ini naaraman.
+026	Nagsimbag si Abimelek, Dai ko aram kun siisay an naggibo kaini;
+026	dai mo man ini sinabi sako asin ngunyan ko pa sana ini naaraman.
 027	Kaya tinawan ni Abraham si Abimelek nin mga karnero asin mga baka, dangan naggibo sinda nin kontrata.
 028	Isinuhay ni Abraham sa kadaklan an pitong babaeng kordero
 029	kaya naghapot si Abimelek, Tano ta isinuhay mo an pitong kordero?

@@ -46,7 +46,8 @@ verse	content
 026	Si hende ele ay otorga dale su vida ansina, hende gayot ele ay puede queda uno del di mio dicipulo.
 027	Si quien hende ay carga el di suyo mismo cruz de sufrimiento y sigui conmigo, no puede le queda el di mio siguidor.
 028	Si tiene un gente quien ta plania planta un torre na di suyo plantacion de uvas, necesita le pensa gayot anay y conta si cuanto el gasto para sabe le si tiene ba bastante cen para completa el trabajo.
-029	Cay si talla ya el fundacion para el torre y despues ya man cabus ya el di suyo cen; hende na ay puede acaba el trabajo y todo el quien ta mira con ese ay ganguia con ele.
+029	Cay si talla ya el fundacion para el torre y despues ya man cabus ya el di suyo cen;
+029	hende na ay puede acaba el trabajo y todo el quien ta mira con ese ay ganguia con ele.
 029	Asegurao ay habla gayot sila,
 030	Mira ustedes con ese gente!
 030	Ya principia ya anay ele pone el fundacion del torre, pero nuay gayot ele hace acaba!

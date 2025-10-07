@@ -1,8 +1,11 @@
 verse	content
 001	Amo ini an mga tulin ni Esau nga gintawag liwat nga Edom.
-002	Nangasawa hi Esau hin kababayen-an nga Canaanhon; hira Ada nga anak ni Elon nga Hiteohanon; Oholibama nga anak ni Ana nga anak nga lalake ni Zibeon nga Hibeohanon;
+002	Nangasawa hi Esau hin kababayen-an nga Canaanhon;
+002	hira Ada nga anak ni Elon nga Hiteohanon;
+002	Oholibama nga anak ni Ana nga anak nga lalake ni Zibeon nga Hibeohanon;
 003	ug Basemat nga anak nga babaye ni Ismael, ngan bugto ni Nebaiot.
-004	Nag-anak hi Ada kan Elifas; nag-anak hi Basemat kan Reuel;
+004	Nag-anak hi Ada kan Elifas;
+004	nag-anak hi Basemat kan Reuel;
 005	ngan nag-anak hi Oholibama kanda Jeus, Jalam, ug Core.
 005	Natawo ini ngatanan nga mga anak nga kalalaken-an ni Esau didto han tuna han Canaan.
 006	Niyan gindara ni Esau an iya kaasaw-an, an iya nga anak nga kalalaken-an, an iya mga anak nga kababayen-an, ngan an ngatanan nga mga tawo han iya balay, upod an ngatanan niya nga mga baka ngan ngatanan nga mga manggad nga iya naangkon didto ha tuna han Canaan, ngan pinmahirayo hiya tikang kan Jacob nga iya bugto ngadto hin lain nga tuna.
@@ -10,7 +13,8 @@ verse	content
 007	Damo na hin duro an ira mga baka ngan makuri na gud hira magkatampo.
 008	Sanglit nag-ukoy hi Esau didto han sagkahon nga tuna han Edom.
 009	Amo ini an mga tulin ni Esau nga ginikanan han mga Edomitanhon.
-010	Igin-anak nira Esau ug Ada nga iya asawa in usa nga lalake nga hi Elifas, ngan nag-anak hi Elifas hin lima nga mga anak nga kalalaken-an; hira Teman, Omar, Sefo, Gatam, ug Kenaz.
+010	Igin-anak nira Esau ug Ada nga iya asawa in usa nga lalake nga hi Elifas, ngan nag-anak hi Elifas hin lima nga mga anak nga kalalaken-an;
+010	hira Teman, Omar, Sefo, Gatam, ug Kenaz.
 010	Ngan pinaagi hin lain nga asawa nga hi Timna nag-anak pa hiya hin usa nga anak nga lalake nga hi Amalec.
 011	Igin-anak nira Basemat ug Esau in usa nga lalake nga hi Reuel, ngan nag-anak hi Reuel hin upat nga kalalaken-an: hira Nahat, Sera, Sama, ug Miza.
 012	Igin-anak nira Esau ug Oholibama nga babaye nga anak ni Ana nga anak ni Zibeon, in tulo nga kalalaken-an: hira Jeus, Jalam, ug Core.

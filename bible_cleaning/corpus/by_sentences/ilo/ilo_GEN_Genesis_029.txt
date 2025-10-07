@@ -52,7 +52,8 @@ verse	content
 032	Itedkonto kenka ni Raquel no la ket agtrabahoka pay kaniak iti pito a tawen.
 033	Immanamong ni Jacob ket idi malpas ti rambak, inted ni Laban kenkuana ni Raquel a kas asawana.
 034	Inted ni Laban ti tagabuna a babai nga agnagan Bilha ken ni Raquel tapno agserbi kenkuana.
-035	Iti kasta, kinaidda met ni Jacob ni Raquel; ad-adda nga ay-ayatenna ni Raquel ngem ni Lea.
+035	Iti kasta, kinaidda met ni Jacob ni Raquel;
+035	ad-adda nga ay-ayatenna ni Raquel ngem ni Lea.
 035	Ket nagtrabaho ken ni Laban iti pito pay a tawen.
 036	Ammo ni Yahweh a saan nga ay-ayaten unay ni Jacob ni Lea, isut' gapuna nga inikkanna iti gundaway nga aganak.
 036	Ngem nagtalinaed nga awan anak ni Raquel.

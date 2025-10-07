@@ -7,8 +7,10 @@ verse	content
 006	asin an mga Horeo sa kabubuldan kan Edom, na saindang rinalamag sagkod sa El-paran na harani na sa desyerto.
 007	Dangan nagbalik sinda asin nagduman sa Enmispat o Kades saka nasakop ninda an gabos na daga kan mga Amalekita asin dinaog ninda an mga Amoreo na nag-eerok sa Hazazon-tamar.
 008	Dangan an mga hade kan Sodoma, Gomorra, Adma, Zeboiim asin Bela nag-andam kan saindang hukbo asin duman sa Kapantayan nin Siddim nakigera sinda
-009	laban sa mga hade kan Elam, Goiim, Babilonia, asin Ellasar; limang hade laban sa apat.
-010	Sa Kapantayan nin Siddim kadakul an mga kalot na igwang aspalto, kaya kan magdulag sa ralaban an mga hade kan Sodoma asin Gomorra, nahulog sinda duman; alagad an tolong hade nakadulag sa kabubuldan.
+009	laban sa mga hade kan Elam, Goiim, Babilonia, asin Ellasar;
+009	limang hade laban sa apat.
+010	Sa Kapantayan nin Siddim kadakul an mga kalot na igwang aspalto, kaya kan magdulag sa ralaban an mga hade kan Sodoma asin Gomorra, nahulog sinda duman;
+010	alagad an tolong hade nakadulag sa kabubuldan.
 011	Kaya sinamsam kan apat na hade an gabos na yaon sa Sodoma asin Gomorra, sagkod an gabos na kakanon duman dangan naghale sinda.
 012	Binihag man ninda an sobrino ni Abram na si Lot, na nag-eerok sa Sodoma, asin sinamsam an gabos niyang rogaring.
 013	Alagad igwa nin sarong lalaki na nakadulag, asin an gabos na nangyari inosip niya ki Abram, an Hebreyo na nag-eerok harani sa sagradong mga kahoy ni Mamre na Amorita.

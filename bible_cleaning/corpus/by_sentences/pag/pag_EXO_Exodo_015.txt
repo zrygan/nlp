@@ -65,4 +65,5 @@ verse	content
 060	Diman so angitdan na Katawan na saray ganggan a nepeg dan tombuken, tan diman so anubokan tod sikara.
 061	Inkuanto, No sigput so pangonur yod siak a Katawan a Dios yo, tan gawaen yoy antokaman ya ipapasen kon matonung tan sumpalen yo ray ganggan ko, ag ta kayo dusaen na saray salot ya impadalan kod saray Egipsio.
 061	Siak so Katawan a mamapaabig ed sikayo.
-062	Insan akasabi ra ed Elim a kawalaan na labinduan sobul tan pitomplon kiew a palmira; nankampo rad man ed abay na danum.
+062	Insan akasabi ra ed Elim a kawalaan na labinduan sobul tan pitomplon kiew a palmira;
+062	nankampo rad man ed abay na danum.

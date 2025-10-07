@@ -12,7 +12,9 @@ verse	content
 007	Si ta reza ustedes, pidi gayot y ay recibi ustedes el cosa quiere.
 007	Continua busca gayot y ay encontra ustedes el cosa ta busca.
 007	Continua saluda na puerta, y ay invita con ustedes entra.
-008	Cay si quien ta pidi, ele ay recibi; y si quien ta anda busca, ele ay encontra; y ay invita entra con el gente quien ta continua saluda.
+008	Cay si quien ta pidi, ele ay recibi;
+008	y si quien ta anda busca, ele ay encontra;
+008	y ay invita entra con el gente quien ta continua saluda.
 009	Tiene ba aqui gente entre con ustedes quien ay dale piedra con su anak si ta pidi pan?
 009	Nuay gayot quien ay hace ansina.
 010	Y si ta pidi sila pescao, nunca ustedes ay dale canila culebra.

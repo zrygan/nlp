@@ -16,7 +16,8 @@ verse	content
 008	Sa akun surugoon tana, kon magkuon ako nga, Himoa dya!
 008	ginahimo na man.
 009	Natingala si Jesus kang mabatian na dya.
-009	Nagbalikid tana sa duro nga mga tawo nga nagasurunod kana kag nagkuon, Sugidan ko kamo: wara pa gid ako makakita kang tawo nga amo dya kabahul ang anang pagtoo; wara gid bisan rugya sa Israel!
+009	Nagbalikid tana sa duro nga mga tawo nga nagasurunod kana kag nagkuon, Sugidan ko kamo: wara pa gid ako makakita kang tawo nga amo dya kabahul ang anang pagtoo;
+009	wara gid bisan rugya sa Israel!
 010	Kang pagbalik kang mga ginsugo kang kapitan sa balay, nakita nanda nga mayad run ang surugoon.
 011	Pagkatapos ka dya, nag-agto si Jesus sa banwa nga ginatawag Nain.
 011	Nag-imaw man kana ang anang mga disipulo kag ang duro nga mga tawo.
@@ -54,7 +55,8 @@ verse	content
 030	Pero ang mga Fariseo tana kag ang mga manunudlo kang Kasugoan ginsikway nanda ang tinutuyo kang Dios kananda tungud hay wara sanda magpabawtiso kay Juan.
 031	Sa ano ko ayhan mapaanggid ang mga tawo sa kadya nga panag-on?
 031	Daw ano sanda ayhan?
-032	Daw pareho sanda kang mga bata nga nagapurungko sa tindahan kag nagasinggitanay, Gintukaran namun kamo kang masadya nga sonata, pero wara man kamo magsaot; ginkantahan namun kamo kang masubu nga kanta, pero wara man kamo magpanangis!
+032	Daw pareho sanda kang mga bata nga nagapurungko sa tindahan kag nagasinggitanay, Gintukaran namun kamo kang masadya nga sonata, pero wara man kamo magsaot;
+032	ginkantahan namun kamo kang masubu nga kanta, pero wara man kamo magpanangis!
 033	Tungud hay kang mag-abot si Juan nga Manugbawtiso, nagapuasa tana kag wara nagainum kang bino, kag nagkuon kamo, Ginagamhan tana kang demonyo.
 034	Kar-on, nag-abot ang Anak kang Tawo nga nagakaun tana kag nagainum, kag nagkuon kamo, Turuka bala ninyo ang tawo nga dya!
 034	Parakaun kag parainum!

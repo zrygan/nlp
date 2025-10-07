@@ -28,7 +28,8 @@ verse	content
 021	Ginabuul nimo ang bukun ti imo kag ginaani nimo ang bukun ti imo pinanggasan!
 022	Nagsabat ang agalun, Malain gid ikaw nga surugoon!
 022	Husgaran ko ikaw suno sa imong ginhambal nga ria.
-022	Naman-an mo gali nga istrikto ako nga tawo; ginabuul ko ang bukun ti akun, kag ginaani ko ang bukun ti akun sinab-ogan.
+022	Naman-an mo gali nga istrikto ako nga tawo;
+022	ginabuul ko ang bukun ti akun, kag ginaani ko ang bukun ti akun sinab-ogan.
 023	Andut haw nga wara nimo ginbutang sa bangko ang akun kwarta agud to nga pagbalik ko mabuul ko ang akun kwarta nga may saka?
 024	Dayon nagkuon ang agalun sa mga tawo nga nagatirindug rugto, Sige, bul-a ninyo kana ang kwarta kag itugro sa tawo nga nakaginansya kang napulo ka pilo!
 025	Pero nagsabat sanda kana, Agalun, may ana run tana nga napulo ka bulawan nga kwarta!

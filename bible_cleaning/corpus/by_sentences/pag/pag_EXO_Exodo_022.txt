@@ -15,7 +15,8 @@ verse	content
 010	samay too nepeg ya onlad pasen a panangigalangan tan sambaan to ya ag to tinakew imay ayep na sakey a too.
 010	No ag atakew, say akanayep nepeg ton akoen a naandi, tan samay sakey a too et ag la nepeg a mambayar;
 011	balet no atakew so ayep, samay too nepeg a bayaran to so akanayep.
-012	No pinatey na saray ayep ed takel, say toon manaasikaso alaen to so laman na ayep a pamaneknek ed agawa; ag to nepeg a bayaran ed akanayep so pinatey na saray ayep ed takel.
+012	No pinatey na saray ayep ed takel, say toon manaasikaso alaen to so laman na ayep a pamaneknek ed agawa;
+012	ag to nepeg a bayaran ed akanayep so pinatey na saray ayep ed takel.
 013	No say sakey a too et ombayes na sakey ya ayep ed sakey a too tan asugatan odino inatey imay ayep nen andid man so akanayep, say toon binmayes et nepeg a bayaran to may binayes to.
 014	Balet no say akanayep et wadman nen abalang so ayep, say binmayes ag nepeg a mambayar.
 014	No inabangan ya ayep, say abang et pinagkabayar la.
@@ -24,7 +25,8 @@ verse	content
 017	Nepeg a pateyen so siopaman a biin managsalamangka diad pananulong na maoges ya ispiritu.
 018	Nepeg a pateyen so siopaman a lakin misiping ed ayep.
 019	Nepeg a pateyen so siopaman a mangibagat ed anggan anton dios likud ed siak a Katawan .
-020	Ag yo lulukoen odino papairapen so sangkaili; ag yo lilingwanan a sangkaili kayo met nen saman ed Egipto.
+020	Ag yo lulukoen odino papairapen so sangkaili;
+020	ag yo lilingwanan a sangkaili kayo met nen saman ed Egipto.
 021	Ag yo papairapen so siopaman a balon bii odino siopaman ya olila.
 022	No pairapen yo ra, siak a Katawan ebatan ko ra no onkerew irad siak na tulong,
 023	tan mampasnuk ak tan pateyen ta kayo ed bakal.
@@ -39,4 +41,5 @@ verse	content
 029	Iter yod siak iray pangulowan ya anak yon lalaki.
 030	Iter yod siak iray besag ya anak na baka tan karniro yo.
 030	Piamung yon pitoran agew ed ina to so besag a kalakyan, insan yo ibagat ed siak no kumawalon agew.
-031	Sikayo ray totook, kanyan ag yo kakanen so karni na dinanman ya ayep a pinatey na saray ayep ed takel; iter yo lad saray aso.
+031	Sikayo ray totook, kanyan ag yo kakanen so karni na dinanman ya ayep a pinatey na saray ayep ed takel;
+031	iter yo lad saray aso.

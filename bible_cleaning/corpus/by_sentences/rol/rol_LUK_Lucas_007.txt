@@ -52,7 +52,8 @@ verse	content
 030	Pero ang mga Pariseo kag ang mga miyugtudl ng Kasuguan naman hay way nagkumpormi sa kabubut-on ng Dios para sa inda kay ind gid sinda magpabawtismo kay Juan.
 031	Tapos naghambay pa gid si Hesus, Sa diin ko baya ikumpara ang mga tawo sa ini nga henerasyon?
 031	Ano baya ang kapareho ninda?
-032	Pareho sinda sa mga ung nga nagapungk sa plasa kag nagahambay sa isa kag isa, Nagpasunata kami para sa kasay pero way kamo nagsaot; nagkanta kami para sa patay pero way kamo nagtangis.
+032	Pareho sinda sa mga ung nga nagapungk sa plasa kag nagahambay sa isa kag isa, Nagpasunata kami para sa kasay pero way kamo nagsaot;
+032	nagkanta kami para sa patay pero way kamo nagtangis.
 033	Pareho da kamo sa inda, kay nang mag-abot si Juan nakit nindo nga nagapuasa siya kag way nagainom ilimnon, ngan nagahambay kamo, Hala, ginasapian siya ng demonyo!
 034	Ako naman nga Ung ng Tawo, nakit nindo nga nagakaon kag nagainom ngan nagahambay kamo, Hala, sirua ang tawo nga ini!
 034	Makagod kag buratso, amigo ng mga miyugsukot buhis kag iban pa nga makasasal.
@@ -64,7 +65,8 @@ verse	content
 038	Nagpalapit siya sa likod ni Hesus kag nagtindog sa may sikwayan niya kag nagtinangis.
 038	Nagtuy ang iya luh sa siki ni Hesus kag gingpunasan niya ini ng iya buhok.
 038	Pagkatapos gingharuan niya kag gingbubuan ng pahumot.
-039	Nang makit ini ng Pariseo nga nag-agda kay Hesus, naghambay siya sa iya kaugalingon, Kung matuod nga propeta ang tawo nga ini, dapat sayod niya kung sin-o ining babayi nga nagapunas sa iya siki; dapat sayod niya nga makasasal siya!
+039	Nang makit ini ng Pariseo nga nag-agda kay Hesus, naghambay siya sa iya kaugalingon, Kung matuod nga propeta ang tawo nga ini, dapat sayod niya kung sin-o ining babayi nga nagapunas sa iya siki;
+039	dapat sayod niya nga makasasal siya!
 040	Pero nasayuran ni Hesus kung ano ang iya ginahunahun ngan naghambay siya, Simon, igwa ako ihambay sa imo.
 040	Sabat niya, Ano in, Maestro?
 041	Naghambay si Hesus, Igwa duha ka tawo nga nag-utang sa miyugpautang.
@@ -73,7 +75,8 @@ verse	content
 042	Sin-o sa inda nga duha ang mas kadak ang paghigugm sa miyugpautang?
 043	Nagsabat si Simon, Siguro adtong mas kadak ang utang.
 043	Naghambay si Hesus, Tam ang imo sabat.
-044	Niyan nag-atubang siya sa babayi kag naghambay kay Simon, Sirua ining babayi, ging-agda mo ako sa imo bayay; pero way mo ako gingtaw-i tub para makapanghugas ng akon siki.
+044	Niyan nag-atubang siya sa babayi kag naghambay kay Simon, Sirua ining babayi, ging-agda mo ako sa imo bayay;
+044	pero way mo ako gingtaw-i tub para makapanghugas ng akon siki.
 044	Pero siya, ginghugasan niya ang akon siki ng iya luh kag gingpunasan ng iya buhok.
 045	Way mo ako pagharui pag-abot ko diri, pero siya, way nagpara sa kahahar ng akon siki tun ng pag-abot ko.
 046	Way mo pagpahiri lana ang akon uyo, pero gingbubuan niya pahumot ang akon siki.

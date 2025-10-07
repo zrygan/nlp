@@ -3,7 +3,8 @@ verse	content
 001	Nagpalapit sa iya ang mga pinun nga par, mga eskriba kag mga miyugdumaya ng Judio.
 002	Nagpangutana sinda, Aber, balitai kami kung ano ang imo otoridad para humanon ini nga mga butang!
 002	Sin-o ang nagtao sa imo ng ini nga otoridad?
-003	Nagsabat si Hesus, May ipangutana da ako sa indo; sabata anay nindo ako.
+003	Nagsabat si Hesus, May ipangutana da ako sa indo;
+003	sabata anay nindo ako.
 004	Diin halin ang otoridad ni Juan para magbawtismo, sa Dios ba o sa tawo?
 005	Kag nagpinangutan-an sinda kung ano ang inda isabat, Kung magsabat kita, Halin sa Dios, mangutana naman siya, Bas way kamo nagpati kay Juan?
 006	Pero kung maghambay kita Halin sa tawo, buguyon naman kita ninda kay nagapati gid sinda nga si Juan hay propeta.

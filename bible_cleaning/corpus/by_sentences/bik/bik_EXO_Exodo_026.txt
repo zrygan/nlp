@@ -4,14 +4,17 @@ verse	content
 001	Burdahan nindo iyan nin mga kerubin.
 002	Pareho an sukol kan lambang kurtina: dose metros an laba asin duwang metros an lakbang.
 003	Tarakipon nindo an limang kurtina tanganing magin saro na sanang pedaso, asin iyo man an gibohon nindo sa matatadang lima.
-004	An sarong gilid kan sarong tinarakip na kurtina bugtakan nindo nin mga tarotalingang asul na tela; iyo man an gibohon nindo sa saro pa.
+004	An sarong gilid kan sarong tinarakip na kurtina bugtakan nindo nin mga tarotalingang asul na tela;
+004	iyo man an gibohon nindo sa saro pa.
 005	Singkwentang tarotalinga an itahi nindo sa enot na tinarakip na limang kurtina asin singkwenta man na tarotalinga an itahi nindo sa ikaduwang tinarakip na limang kurtina.
 006	Gumibo kamo nin singkwentang kawit na bulawan na gagamiton sa pagsugpon kan duwang pedasong tinarakip na kurtina.
-007	Gumibo man kamo nin tolda na pantahob sa Tabernakulo; an gagamiton nindo onseng kurtina na gibo sa balukag nin kanding.
+007	Gumibo man kamo nin tolda na pantahob sa Tabernakulo;
+007	an gagamiton nindo onseng kurtina na gibo sa balukag nin kanding.
 008	Gibohon nindo na an lambang kurtina igwa nin parehong sukol na trese metros an laba asin duwang metros an lakbang.
 009	Tarakipon nindo an limang kurtina asin iyo man an gibohon nindo sa anom na matatada.
 009	An ikaanom na kurtina tiklopon nindo sa atubangan kan tolda.
-010	Tahian nindo nin singkwentang tarotalinga an sarong gilid kan enot na pedaso; iyo man an gibohon nindo sa ikaduwa.
+010	Tahian nindo nin singkwentang tarotalinga an sarong gilid kan enot na pedaso;
+010	iyo man an gibohon nindo sa ikaduwa.
 011	Dangan gumibo kamo nin singkwentang kawit na bronse, asin ikawit sa mga tarotalinga tanganing an duwang pedaso magin saro na sana.
 012	An parte kan kurtina na minasobra, papalaylayon nindo sa likod kan Tabernakulo.
 013	An singkwenta sentimetros na sobra sa mag-ibong na gilid kan kahalabaan kan mga kurtina, papalaylayon man tanganing matahoban an duwang gilid kan Tabernakulo.
@@ -21,13 +24,15 @@ verse	content
 017	na igwa nin duwang mitsa na pansugpon.
 017	An gabos na tabla kaipuhan igwa kan duwang mitsang ini.
 018	Iyo ini an gigibohon nindong tabla para sa Tabernakulo: beynteng tabla para sa parteng habagat
-019	asin para sa mga tablang ini gumibo kamo nin kwarentang patungtongan na plata; duwang patungtongan para sa lambang tabla na kakanaan kan duwang mitsa kaini.
+019	asin para sa mga tablang ini gumibo kamo nin kwarentang patungtongan na plata;
+019	duwang patungtongan para sa lambang tabla na kakanaan kan duwang mitsa kaini.
 020	Para sa parteng amihan kan Tabernakulo, beynteng tabla
 021	asin kwarentang patungtongan na plata, duwang patungtongan para sa lambang tabla.
 022	Para sa likod kan Tabernakulo, sa parteng solnopan gumibo kamo nin anom na tabla
 023	asin nin duwang tabla para sa mga kanto sa likod na parte kan Tabernakulo.
 024	An duwang tablang ini suhay sa ibaba alagad nagdudukotan sa itaas, sa enot na siningsing.
-024	Arog kaini an pagkamugtak kan duwang tabla; an mga ini an magigin duwang kanto sa likod na parte kan Tabernakulo.
+024	Arog kaini an pagkamugtak kan duwang tabla;
+024	an mga ini an magigin duwang kanto sa likod na parte kan Tabernakulo.
 025	Kaya walo gabos an mga tabla sa likod asin dyes y seis an patungtongan na plata, duwa para sa lambang tabla.
 026	Gumibo man kamo nin kinseng trabisanyo na akasya, an lima para sa mga tabla na nasa sarong gilid kan Tabernakulo,
 027	an lima para sa mga tabla na nasa ibong na gilid, asin an lima para sa mga tabla na nasa likod, sa parteng solnopan.

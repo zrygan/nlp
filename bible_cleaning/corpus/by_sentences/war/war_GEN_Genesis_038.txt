@@ -48,7 +48,8 @@ verse	content
 031	Waray ako pagtuman han akon katungdanan ha iyakinahanglan unta nga akon hiya iginpaasawa kan Sela nga akon anak.
 031	Ngan waray na gud makighilawas ha iya hi Juda.
 032	Han pag-abot na han panahon ha iya pag-anak, hinbaroan nga karuha an iya ig-aanak.
-033	Han nagbabati na hiya, iginawas in usa nga kamot han usa han karuha; kinaptan ini han partira, ginhigtan hin pula nga inulang, ngan nagsiring, Amo ini an syahan matawo.
+033	Han nagbabati na hiya, iginawas in usa nga kamot han usa han karuha;
+033	kinaptan ini han partira, ginhigtan hin pula nga inulang, ngan nagsiring, Amo ini an syahan matawo.
 034	Kundi ginbutong liwat han bata hin pagbalik an iya kamot, ngan nahiuna hin katawo an iya bugto.
 034	Niyan nagsiring an partira, O, nagpasig-una ka gud hin paggisi han imo gagawas!
 034	Sanglit ginngaranan hiya nga Perez.

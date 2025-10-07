@@ -1,7 +1,8 @@
 verse	content
 001	Inkuan na Dios ed kinen Jacob, Lakan tampol ed Betel tan manayam kad man.
 001	Manggawa kad may altar a para siak a Dios a pinmayawar ed sika nen ibabatikan moy agim ya Esau.
-002	Kanyan inkuanen Jacob ed pamilya to tan amin a kaiba to, Ibantak yo ray diriyos na arum a bansa ya awit yo; linisan yoy sikayon dili, insan kayo mampales na malinis.
+002	Kanyan inkuanen Jacob ed pamilya to tan amin a kaiba to, Ibantak yo ray diriyos na arum a bansa ya awit yo;
+002	linisan yoy sikayon dili, insan kayo mampales na malinis.
 003	Onekal itayo la dia tan onla itayo ed Betel, a dimay panggawaan koy altar a para Dios a tinmulong ed siak nen wala ak ed kairapan tan inoolup to ak ed inerman a nilak.
 004	Inter da sirin ed kinen Jacob iray amin a walad sikaran diriyos na arum a bansa, pati saray ikaw ya akabitin ed saray layag da.
 004	Inkotkot to ra yan amin ed silong na kiew a robli ya asingger ed Sikem.
@@ -21,11 +22,13 @@ verse	content
 014	Diman ed samay pasen ya akitongtongay Dios ed sikato, angipaalagey si Jacob na baton pakanudnunotan tan insaklang tod Dios diad impangikalbo toy alak tan larak na oliba.
 015	Inngaran to na Betel iman a pasen.
 016	Tinaynan nen Jacob tan say pamilya to so Betel, et nen asingger la ra ed Efrata, sinmabiy panaon a pananak nen Raquel, et nanairapan ed pampapasakit to.
-017	Nen mapalaloy pampapasakit to, inkuan na manamyanak ed sikato, Ag ka natatakot, Raquel; sakey a laki lamet so anak mo.
+017	Nen mapalaloy pampapasakit to, inkuan na manamyanak ed sikato, Ag ka natatakot, Raquel;
+017	sakey a laki lamet so anak mo.
 018	Balet ompapatey si Raquel.
 018	Nen kuan lan naoyus so bilay to, inngaran to na Benoni may ogaw, balet inngaran nen ama to na Benjamin.
 019	Nen inatey si Raquel, imponpon dad gilig na dalan a mamaarap ed Efrata, a tatawagen natan na Betlehem.
-020	Angyan diman si Jacob na baton pakanudnunotan; anggad natan sikato niy tanda na lobuk nen Raquel.
+020	Angyan diman si Jacob na baton pakanudnunotan;
+020	anggad natan sikato niy tanda na lobuk nen Raquel.
 021	Intuloy nen Jacob so impankurang to, tan nankampo ed biek a dapag na tori ed Eder.
 022	Nen manaayam si Jacob ed saman a pasen, inakdulan nen Ruben si Bilha, sakey ed saray asawan inamung nen ama to.
 022	Nadngelan nen Jacob, et mapalaloy pasnuk to.

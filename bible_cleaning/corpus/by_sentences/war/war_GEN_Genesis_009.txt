@@ -2,8 +2,10 @@ verse	content
 001	Ginbendisyonan han Dyos hi Noe ngan an iya mga anak nga kalalaken-an ngan ginsiring niya, Magdamo unta an iyo mga anak, basi makaluob an iyo mga tulin han bug-os nga tuna.
 002	Mahahadlok ha iyo an ngatanan nga kamanampan, katamsihan, ug kaisdaan.
 002	Itinutubyan ko ini ngatanan ha ubos han iyo gahom.
-003	Yana iyo na makakaon ini nga mga mananap sugad man an mga utanon; ihinahatag ko ini ngatanan para hin pagkaon niyo.
-004	Kinahanglan diri niyo pagkaonon an karne nga dugoan pa; igindidiri ko ini kay aada han dugo an kinabuhi.
+003	Yana iyo na makakaon ini nga mga mananap sugad man an mga utanon;
+003	ihinahatag ko ini ngatanan para hin pagkaon niyo.
+004	Kinahanglan diri niyo pagkaonon an karne nga dugoan pa;
+004	igindidiri ko ini kay aada han dugo an kinabuhi.
 005	Kakastigohon an bisan hin-o nga magpatay hin tawo.
 005	Pagpapatayon an bisan ano nga mananap nga magpatay hin tawo.
 006	Ginhimo an tawo nga sugad han Dyos, sanglit pagpapatayon man han iya igkasi-tawo an bisan hin-o nga magpatay hin tawo.
@@ -11,7 +13,8 @@ verse	content
 008	Nagsiring an Dyos kan Noe ngan han iya mga anak nga kalalaken-an,
 009	Ginhihimo ko yana an akon ginsaaran ha iyo ngan ha iyo mga tulin,
 010	ngan ha ngatanan nga buhi nga mga binuhatha ngatanan nga katamsihan ngan ngatanan nga kamanampanha ngatanan nga ginmawas tikang han arka upod ha iyo.
-011	Ginhihimo ko ha iyo an akon ginsaaran pinaagi hini nga mga pulong: nagsasaad ako nga diri ko na gud pagpupuohon pinaagi hin lunop an ngatanan nga buhi nga mga binuhat; diri na gud pagbubungkagon an tuna pinaagi hin lunop.
+011	Ginhihimo ko ha iyo an akon ginsaaran pinaagi hini nga mga pulong: nagsasaad ako nga diri ko na gud pagpupuohon pinaagi hin lunop an ngatanan nga buhi nga mga binuhat;
+011	diri na gud pagbubungkagon an tuna pinaagi hin lunop.
 012	Sugad nga tigaman han akon dayon nga ginsaaran nga akon ginhihimo ha iyo ngan ha ngatanan nga buhi nga mga binuhat,
 013	ibinubutang ko an akon balangaw didto han mga dampog.
 013	Magigin tigaman ini han akon ginsaaran nga akon ginhimo han kalibutan.

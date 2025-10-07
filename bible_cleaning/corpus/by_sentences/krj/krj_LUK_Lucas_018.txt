@@ -26,7 +26,11 @@ verse	content
 018	May sangka manugdumara nga namangkot kay Jesus, Mayad nga Maestro, ano ang dapat nakun himoon agud to nga makaangkun ako kang kabuhi nga wara ti katapusan?
 019	Nagsabat si Jesus, Andut haw nga ginatawag mo ako nga mayad?
 019	Wara run ti iba nga mayad, kundi ang Dios gid lang.
-020	Naman-an mo ang kasugoan, Indi ikaw magpakighilawas; indi ikaw magpatay; indi kaw magpanakaw; indi ikaw magbutig sa imong pagtistigo; kag tahuda ang imo tatay kag nanay.
+020	Naman-an mo ang kasugoan, Indi ikaw magpakighilawas;
+020	indi ikaw magpatay;
+020	indi kaw magpanakaw;
+020	indi ikaw magbutig sa imong pagtistigo;
+020	kag tahuda ang imo tatay kag nanay.
 021	Nagsabat ang tawo, Ang tanan nga ria natuman ko run halin pa kang bata ako.
 022	Kang mabatian dya ni Jesus nagkuon tana sa tawo, May sangka butang pa ikaw nga wara mahimo.
 022	Ibaligya ang tanan nimo nga mga pagkabutang kag ang kwarta ipanagtag sa mga imol, kag makaangkun ikaw kang manggad sa langit.
@@ -41,7 +45,8 @@ verse	content
 030	ang magabaton kang sobra pa gid sangsa anang mga ginbayaan sa kadya nga panag-on, kag sa paraaboton makaangkun tana kang kabuhi nga wara ti katapusan.
 031	Ginpain ni Jesus ang napulo'g darwa ka disipulo kag nagkuon tana kananda, Pamati kamo!
 031	Maagto kita sa Jerusalem, kag rugto matuman ang tanan nga ginsulat kang mga propeta nahanungud sa Anak kang Tawo.
-032	Igatugyan tana sa mga bukun ti Judio; yagutaun nanda tana, pakahuy-an, dupraan,
+032	Igatugyan tana sa mga bukun ti Judio;
+032	yagutaun nanda tana, pakahuy-an, dupraan,
 033	hanoton kana kag patyun, pero sa ikatlo nga adlaw mabanhaw tana.
 034	Pero sa mga ginpanghambal na nga dya wara gid ti may nahangpan ang mga disipulo.
 034	Ginlikum kananda ang kahulogan kang mga pulong nga dya, kag wara sanda kamaan kon ano ang anang ginapanghambal.
@@ -55,6 +60,7 @@ verse	content
 040	Kang makaparapit run ang bulag kay Jesus, ginpamangkot tana ni Jesus,
 041	Ano ang gusto mo nga himoon ko kanimo?
 042	Nagsabat ang bulag, Ginoo, gusto ko nga makakita liwan.
-043	Dayon nagkuon si Jesus kana, Makakita ikaw run; ang imong pagtoo ang nag-ayad kanimo.
+043	Dayon nagkuon si Jesus kana, Makakita ikaw run;
+043	ang imong pagtoo ang nag-ayad kanimo.
 044	Kag lagi-lagi makakita run ang bulag kag nagsunod tana kay Jesus nga nagadayaw sa Dios.
 044	Kang makita kang mga tawo ang natabo nga dya, gindayaw man nanda ang Dios.

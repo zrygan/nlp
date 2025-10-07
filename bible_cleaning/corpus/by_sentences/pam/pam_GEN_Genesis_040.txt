@@ -10,12 +10,15 @@ verse	content
 006	Ngana, Obat lupa kayung malungkut?
 007	Meninap kami, ngara, pero ala namang makasabi nung nanung kabaldugan da.
 008	Nganang Jose karela, E mu wari ing Dios yang makaibie kabaldugan karing paninap?
-008	E kayu mikakunu; sabian yu ing peninap yu kanaku.
+008	E kayu mikakunu;
+008	sabian yu ing peninap yu kanaku.
 009	Sinabi ne ning talapangasiwa king alak ing paninap na kang Jose.
 009	Ngana, Apaninap ku ating kukulate ubas arapan ku.
-010	Atin yang atlung sanga iting ubas; halus memulung ya pa mu, linsut na la ding buku da ring sampaga at meging ubas na lang malulut ding punggul-punggul a sampaga.
+010	Atin yang atlung sanga iting ubas;
+010	halus memulung ya pa mu, linsut na la ding buku da ring sampaga at meging ubas na lang malulut ding punggul-punggul a sampaga.
 011	Tatalnan ke ing kopa na ning ari.
-011	Kinangwa kung ubas; pisla ku ing karelang katas king kopa na ning ari at saka ke binili ing kopa karing gamat na.
+011	Kinangwa kung ubas;
+011	pisla ku ing karelang katas king kopa na ning ari at saka ke binili ing kopa karing gamat na.
 012	Nganang Jose, Oyni ing kabaldugan na ning paninap mo, atlu lang aldo ding atlung sanga.
 013	Patawaran na na ka ning ari kilub ding atlung aldo at ibalik na ka king sadia mung obra.
 013	Pasibayu meng pagsadiang alak ing ari kalupa na ning sadia mung gagawan.

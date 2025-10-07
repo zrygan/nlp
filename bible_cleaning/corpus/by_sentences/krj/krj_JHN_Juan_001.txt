@@ -6,7 +6,8 @@ verse	content
 003	Kon wara tana wara gid ti bisan ano nga tinuga nga natuga.
 004	Tana kadya amo ang ginhalinan kang kabuhi, kag ang kabuhi nga dya amo ang nagatugro kang kasanagan sa mga katawhan.
 005	Ang kasanag nga dya nagasanag sa kadulum, kag ang kadulum wara gid makadaug sa kasanag.
-006	May ginpadara ang Dios nga sangka tawo; ang ngaran na kadya amo si Juan.
+006	May ginpadara ang Dios nga sangka tawo;
+006	ang ngaran na kadya amo si Juan.
 007	Tana kadya nag-abot para magsugid sa mga katawhan nahanungud sa kasanag, agud to nga paagi sa anang pagsugid ang tanan nga tawo magatoo.
 008	Bukun ti si Juan ang kasanag.
 008	Nag-abot tana para magsugid nahanungud sa kasanag.
@@ -21,7 +22,8 @@ verse	content
 015	Si Juan nagsugid nahanungud sa Pulong.
 015	Naghambal tana ka tunog gid, Tana kadya ang akun ginatumud kang maghambal ako nga, Ang tawo nga nagasunod kanakun mas gamhanan sangsa kanakun tungud nga wara pa ako matawo dyan run tana nga daan.
 016	Tama gid kabugana kang anang kaluoy gani nga kita tanan wara gid ti untat ang atun pagbaton kang anang bugay nga ginapasagahay kanatun.
-017	Ang kasugoan gintugro kang Dios paagi kay Moises kauna; pero paagi kay Jesu-Cristo ginpakita kang Dios kon daw ano tana ka maalwan kag ginpahayag na man ang kamatuoran nahanungud sa anang kauagalingun.
+017	Ang kasugoan gintugro kang Dios paagi kay Moises kauna;
+017	pero paagi kay Jesu-Cristo ginpakita kang Dios kon daw ano tana ka maalwan kag ginpahayag na man ang kamatuoran nahanungud sa anang kauagalingun.
 018	Wara gid ti bisan sin-o nga nakakita sa Dios.
 018	Pero ang Bugtong nga Anak kang Dios nga ginahigugma na gid kamayad kag tana mismo Dios man amo ang nagpahayag kanatun nahanungud sa Dios.
 019	Kar-on, amo dya ang ginsugid ni Juan kang ang mga pangulo kang mga Judio sa Jerusalem magsugo kang mga pari kag mga Levita nga mag-agto kana agud pamangkoton kon sin-o gid tana.

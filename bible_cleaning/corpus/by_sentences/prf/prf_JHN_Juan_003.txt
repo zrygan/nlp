@@ -39,7 +39,8 @@ verse	content
 029	En abay a maguray ten kddemt nen lllaki a ikasal ay masaya a tarud ni masanig na dn en boses nen lllaki.
 029	Konak labi haud nadid masayak a tarud a meta ku en tolay hidi a umangay knni Jesus.
 030	Kailangan a lalu siya a metaas, sakay sikn ay mebaba.
-031	En gubwat dilanget ay kataasan ten atanan; en gubwat ti lutaiday ay tagaluta sakay magupos tungkul ten bagay hidi ti lutaiday.
+031	En gubwat dilanget ay kataasan ten atanan;
+031	en gubwat ti lutaiday ay tagaluta sakay magupos tungkul ten bagay hidi ti lutaiday.
 031	En gubwat dilanget ay kataasan ten atanan.
 032	Imbareta na en nasanig na sakay en netan na, peru awan ti maniwala ten imbareta na.
 033	Peru en naniwala hidi ten imbareta na, ay magpatunay a en kinagi nen Diyos ay tama.

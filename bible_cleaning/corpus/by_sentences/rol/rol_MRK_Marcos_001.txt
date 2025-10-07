@@ -13,7 +13,8 @@ verse	content
 008	Nagabawtismo ako sa indo sa tub, pero siya ang magabawtismo sa indo sa Espiritu Santo.
 009	Nang adto nga tyempo naghalin si Hesus sa Nazaret nga sakop ng probinsya ng Galilea kag nagpabawtismo kay Juan sa Sub ng Jordan.
 010	Paghaw-as ni Hesus sa tub, nakit nga daan niya nga nag-abri ang langit kag ang Espiritu Santo nga daw salampati hay nagabab pakadto sa iya.
-011	Kag igwa ning boses nga nabatian halin sa langit nga naghambay, Ikaw ang akon pinalangg nga Ung; nalilipay gid ako sa imo.
+011	Kag igwa ning boses nga nabatian halin sa langit nga naghambay, Ikaw ang akon pinalangg nga Ung;
+011	nalilipay gid ako sa imo.
 012	Adto nga daan gingpakadto si Hesus ng Espiritu Santo sa tiway nga lugar.
 013	Kag didto siya nagtinir sa suyod ng 40 ka adlaw nga ginatinintar ni Satanas kag may mapintas nga mga sapat didto, pero gingserbisyuhan siya ng mga anghel.
 014	Nang mapriso si Juan nga Miyugbawtismo, nagkadto si Hesus sa Galilea kag nagwali ng Maayong Balit halin sa Dios.

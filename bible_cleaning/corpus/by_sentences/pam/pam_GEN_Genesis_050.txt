@@ -1,5 +1,6 @@
 verse	content
-001	Kinaul neng Jose i tata na; tengisan ne at penuma ne lupa.
+001	Kinaul neng Jose i tata na;
+001	tengisan ne at penuma ne lupa.
 002	Kaybat inutus na karing doktor a talasuyu na ing balsamuan de i tata na.
 002	Memintu la reti.
 003	Apat apulung aldo ing kailangan ba reng lubus abalsamuan.
@@ -25,7 +26,8 @@ verse	content
 011	Atyu sumangid na ning Jordan.
 012	Makanyan dang tiparan ding anak nang Jacob ing penabilin na karela.
 013	Dela re ding anak na king sakup ning Canaan at pepakutkut de king kueba king marangle karin Makpela, king dane nang aslagan ning Mamre, ketang gabun a seli nang Abraham kang Efron a Hiteo, ing gabun a gewa nang pikutkutan.
-014	Kaybat nang mikutkut tata na, mibalik ya Ehipto i Jose; kayabe na la ding kapatad na at ding tinuking mekipangutkut kang tata na.
+014	Kaybat nang mikutkut tata na, mibalik ya Ehipto i Jose;
+014	kayabe na la ding kapatad na at ding tinuking mekipangutkut kang tata na.
 015	Inyang mikutkut ne i tata ra, dinalan king lub da ring kapatad na ing panamdam a maki mua ya pa karela i Jose at mablas ya karela ketang e mayap a depat da kang Jose.
 016	Inya ngarang pepasabi kang Jose, Bayu ya mete i tatang pepasabi na king
 017	patawaran mu na sana ing depat ming kasalanan keka, ikaming kapatad mu.
@@ -36,11 +38,13 @@ verse	content
 019	Pekibat nang Jose karela, E kayu tatakut.
 019	Dios ku wari?
 020	E mayap ing tingka yu laban kanaku, oneng mayap ing inalili na kaniti ning Dios ban dakal la ring taung miligtas antimo ing milyari.
-021	E kayu tatakut; e ra kayu paburen pati na ding anak yu.
+021	E kayu tatakut;
+021	e ra kayu paburen pati na ding anak yu.
 021	Makanyan na lang leko karug salu at pematulan.
 022	Mibiebie ya Ehipto i Jose at ding kapatad na.
 022	Disnan na ing dinalan at apulung banua.
-023	Ikit na la pa ding anak nang Efraim angga king katlung lahi; antimu rin ding anak nang Makir a anak nang Manase.
+023	Ikit na la pa ding anak nang Efraim angga king katlung lahi;
+023	antimu rin ding anak nang Makir a anak nang Manase.
 023	Ikit na la pang Jose inyang mibait la.
 024	Nganang Jose karing kapatad na, Malapit na kung mate.
 024	Pero e na kayu paburen ning Dios.

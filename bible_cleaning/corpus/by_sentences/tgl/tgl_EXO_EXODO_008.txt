@@ -10,12 +10,16 @@ verse	content
 009	Sinabi ni Moises kay Faraon, Pakisabi mo sa akin kung kailan ako makikiusap para sa iyo, sa iyong mga lingkod, at sa iyong bayan upang ang mga palaka ay maalis mula sa iyo at sa inyong mga bahay, at manatili na lamang sa Nilo.
 010	Kanyang sinabi, Bukas.
 010	Sinabi ni Moises, Mangyayari ayon sa iyong salita upang iyong malaman na walang tulad ng Panginoon naming Diyos.
-011	Ang mga palaka ay aalis sa iyo at sa iyong mga bahay, sa iyong mga lingkod, at sa iyong bayan; mananatili na lamang sila sa Nilo.
-012	Kaya't sina Moises at Aaron ay umalis sa harapan ni Faraon; at si Moises ay nanawagan sa Panginoon tungkol sa mga palaka na kanyang dinala kay Faraon.
-013	Ginawa ng Panginoon ang ayon sa salita ni Moises; at ang mga palaka ay namatay sa mga bahay, sa mga looban at sa mga kabukiran.
+011	Ang mga palaka ay aalis sa iyo at sa iyong mga bahay, sa iyong mga lingkod, at sa iyong bayan;
+011	mananatili na lamang sila sa Nilo.
+012	Kaya't sina Moises at Aaron ay umalis sa harapan ni Faraon;
+012	at si Moises ay nanawagan sa Panginoon tungkol sa mga palaka na kanyang dinala kay Faraon.
+013	Ginawa ng Panginoon ang ayon sa salita ni Moises;
+013	at ang mga palaka ay namatay sa mga bahay, sa mga looban at sa mga kabukiran.
 014	Kanilang tinipon ang mga ito nang buntun-bunton at ang lupain ay bumaho.
 015	Ngunit nang makita ni Faraon na nagkaroon ng sandaling ginhawa, pinagmatigas niya ang kanyang puso, at hindi niya dininig sila, gaya ng sinabi ng Panginoon .
-016	Pagkatapos, sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron; Iunat mo ang iyong tungkod, at hampasin mo ang alabok ng lupa, upang ito ay maging mga kuto sa buong lupain ng Ehipto.
+016	Pagkatapos, sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron;
+016	Iunat mo ang iyong tungkod, at hampasin mo ang alabok ng lupa, upang ito ay maging mga kuto sa buong lupain ng Ehipto.
 017	Gayon ang ginawa nila.
 017	Iniunat ni Aaron ang kanyang kamay hawak ang kanyang tungkod, at hinampas ang alabok ng lupa, at nagkaroon ng kuto sa tao at sa hayop.
 017	Ang lahat ng alabok ng lupa ay naging mga kuto sa buong lupain ng Ehipto.
@@ -29,7 +33,8 @@ verse	content
 022	Subalit aking ibubukod sa araw na iyon ang lupain ng Goshen na tinitirhan ng aking bayan, upang huwag magkaroon doon ng pulu-pulutong na langaw, upang iyong malaman na ako ang Panginoon sa lupaing ito.
 023	Lalagyan ko ng pagkakaiba ang aking bayan at ang iyong bayan.
 023	Kinabukasan, mangyayari ang tandang ito.
-024	Gayon ang ginawa ng Panginoon , at pumasok ang pulu-pulutong na langaw sa bahay ng Faraon, sa bahay ng kanyang mga lingkod; at sa buong lupain ng Ehipto ay nasira ang lupain dahil sa mga pulu-pulutong na langaw.
+024	Gayon ang ginawa ng Panginoon , at pumasok ang pulu-pulutong na langaw sa bahay ng Faraon, sa bahay ng kanyang mga lingkod;
+024	at sa buong lupain ng Ehipto ay nasira ang lupain dahil sa mga pulu-pulutong na langaw.
 025	Pagkatapos, ipinatawag ng Faraon sina Moises at Aaron at sinabi, Humayo kayo, maghandog kayo sa inyong Diyos sa loob ng lupain.
 026	Ngunit sinabi ni Moises, Hindi tama na gayon ang aming gawin, sapagkat aming iaalay sa Panginoon naming Diyos ang mga handog na karumaldumal sa mga Ehipcio.
 026	Kung ihahandog ba namin ang mga handog na karumaldumal sa mga Ehipcio sa harap ng kanilang paningin, hindi ba nila kami babatuhin?
@@ -37,7 +42,9 @@ verse	content
 028	Kaya't sinabi ni Faraon, Papayagan kong umalis kayo upang kayo'y makapaghandog sa Panginoon ninyong Diyos sa ilang.
 028	Huwag lamang kayong masyadong lalayo.
 028	Idalangin ninyo ako.
-029	Sinabi ni Moises, Pagkaalis ko sa harapan mo ay aking hihilingin sa Panginoon na bukas ay umalis ang mga pulu-pulutong na langaw mula sa Faraon, sa kanyang mga lingkod, at sa kanyang bayan; ngunit huwag nang mandaya pang muli ang Faraon sa hindi pagpayag na humayo ang bayan upang maghandog sa Panginoon .
+029	Sinabi ni Moises, Pagkaalis ko sa harapan mo ay aking hihilingin sa Panginoon na bukas ay umalis ang mga pulu-pulutong na langaw mula sa Faraon, sa kanyang mga lingkod, at sa kanyang bayan;
+029	ngunit huwag nang mandaya pang muli ang Faraon sa hindi pagpayag na humayo ang bayan upang maghandog sa Panginoon .
 030	Kaya't iniwan ni Moises ang Faraon at nanalangin sa Panginoon .
-031	Ginawa ng Panginoon ang ayon sa salita ni Moises: inalis niya ang mga pulu-pulutong na langaw mula sa Faraon, sa kanyang mga lingkod, at sa kanyang bayan; walang natira kahit isa.
+031	Ginawa ng Panginoon ang ayon sa salita ni Moises: inalis niya ang mga pulu-pulutong na langaw mula sa Faraon, sa kanyang mga lingkod, at sa kanyang bayan;
+031	walang natira kahit isa.
 032	Ngunit pinatigas na muli ng Faraon ang kanyang puso at hindi pinayagang umalis ang taong-bayan.

@@ -6,7 +6,8 @@ verse	content
 005	Pitu lang pulu kabilangan ding heganaganang lahi nang Jacob.
 005	Atyu ne kanita i Jose karin Ehipto.
 006	Kaybat na nita, mete ya i Jose at ding sabla nang kapatad ampon ding anak da ring anak da.
-007	Oneng menganak la ding Israelita a lahi da at merakal na lang merakal; mabilis lang merakal at tutung masikan angga king milaganapan ya karela ing Ehipto.
+007	Oneng menganak la ding Israelita a lahi da at merakal na lang merakal;
+007	mabilis lang merakal at tutung masikan angga king milaganapan ya karela ing Ehipto.
 008	Linabas ing panaun at ing Ehipto mika bayu yang ari a ala nang bitasang balu tungkul kang Jose.
 009	Nganang sinabi karing sasakupan na, Lawan yu, mas dakal la at masikan kesa kekatamu deting Israelita.
 010	Nung sakaling lusuban da katamu ding kalaban pota makikampi la pa karela at kaybat takasan de ing bansa tamu.
@@ -24,7 +25,8 @@ verse	content
 017	E da la pete ding anak a lalaking mibait.
 018	Inya pepayaus na la ning ari ning Ehipto at ngana karela, Obat makanyan ing depat yu?
 018	Obat pepaburen yu lang mebie ding anak a lalaki?
-019	Ngarang mekibat ding ilut king ari, Kasi pu deng babaing Hebreo e ra la pu kalupa ding babai tamu keti Ehipto; e la pu magkasakit manganak at akakua rang makapanganak bayu na akuang datang ning ninuman kekami.
+019	Ngarang mekibat ding ilut king ari, Kasi pu deng babaing Hebreo e ra la pu kalupa ding babai tamu keti Ehipto;
+019	e la pu magkasakit manganak at akakua rang makapanganak bayu na akuang datang ning ninuman kekami.
 020	Metula ya ing Dios karing ilut at lalu lang merakal ampon mesikan ding Israelita.
 021	Uling atin lang takut ding ilut king Dios, binendisyunan na la ning Dios at dininan sarasariling pamilya.
 022	Kanita minie yang utus ing ari karing sasakupan na.

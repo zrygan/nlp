@@ -1,20 +1,25 @@
 verse	content
-001	Nung menako yang baka o kaya tupa ing ninuman, at kaybat kinatat ne o kaya pisali neng mabie, sukat neng alilan limang baka ing bakang penako na; apat a tupa nung tupa ne man ing penako na.
+001	Nung menako yang baka o kaya tupa ing ninuman, at kaybat kinatat ne o kaya pisali neng mabie, sukat neng alilan limang baka ing bakang penako na;
+001	apat a tupa nung tupa ne man ing penako na.
 002	Sukat yang mamayaran king penako na.
 002	Nung ala yang bitasang pamayad, sukat yang mipisali bilang ipus ban abayaran na ing penako na.
-002	Nung ing animal a mepanako baka ya o asno o tupa, at mayakit yang mabie pang atyu king sakup na; sukat neng bayaran dobli ing balang animal a penako na.
+002	Nung ing animal a mepanako baka ya o asno o tupa, at mayakit yang mabie pang atyu king sakup na;
+002	sukat neng bayaran dobli ing balang animal a penako na.
 003	Nung mebante ya ing manlub neng bengi, at apate ne ning makibale, ala yang pakibatan ing mekapate.
 003	Nung iti merapat neng aldo, atin yang pakibatan ing mekapate king kasalanan pamakamate tau.
-004	Nung king pamibulus nang animal ning metung a tau king metung a marangle o tamnanan ubas, at ikua rang miglub at minyira ding animal na king marangle ning aliwa, sukat yang mamayaran ketang dake pengan da ring animal na; alilan na king pupul na king sarili nang asikan o tamnanan ubas.
+004	Nung king pamibulus nang animal ning metung a tau king metung a marangle o tamnanan ubas, at ikua rang miglub at minyira ding animal na king marangle ning aliwa, sukat yang mamayaran ketang dake pengan da ring animal na;
+004	alilan na king pupul na king sarili nang asikan o tamnanan ubas.
 005	Nung magdapug ya ing ninuman king marangle na, at ikua nang mikalat king dikut, at mirasan ing marangle na ning aliwa, at minyilab king pupul na a makatalakad pa o kaya mepalut na at makatumpuk na, sukat yang mamayaran ing taung mekapasari king silab king sablang mesira.
 006	Nung ating ninumang menilas salapi o nanumang bage king aliwa at mepanako la reti king bale na ning pipanilasan, nung marakap ya ing menako, sukat yang mamayad dobli.
 007	Nung e ya merakap ing menako, sukat yang ituki ing pipanilasan king lugal a pisasamban king Dios, at karin na patunayan king e na la teginan ding penilas da bilang kargu na.
-008	Ing nanumang pisasabian tungkul king pibandian maging iti metung yang baka, asno, tupa, imalan o nanumang bage mebating, ding adua kataung parehung sasabing bandi re, sukat lang piyarapan king lugal a pisasamban king Dios; ninuman karela ing atulan nang mikasala ning Dios sukat yang mamayaran dobli king tune makibandi.
+008	Ing nanumang pisasabian tungkul king pibandian maging iti metung yang baka, asno, tupa, imalan o nanumang bage mebating, ding adua kataung parehung sasabing bandi re, sukat lang piyarapan king lugal a pisasamban king Dios;
+008	ninuman karela ing atulan nang mikasala ning Dios sukat yang mamayaran dobli king tune makibandi.
 009	Nung ing ninuman atin yang penabilin a asno, baka, tupa o kaya aliwa pang animal king aliwa, at mete ya ing animal o kaya mepinsala ya o mepanako ya at alang menakit king milyari,
 010	sumpa ya ing penabilinan ketang lugal a pisasamban king Dios king ya e ne pigimbutan ing animal a mipanabilin bilang kargu na.
 010	Panaligan na na ning makibandi iting sumpa at ala yang bayaran nanuman ing penabilinan.
 011	Nung mepanako ya ing animal sukat yang mamayaran ing penabilinan king makibandi.
-012	Nung pete de ring lasip ing animal, iyapag ne ning penabilinan bilang katunayan king mete ya ing animal; e ya sukat mamayaran kanita para king animal a pete da ring lasip.
+012	Nung pete de ring lasip ing animal, iyapag ne ning penabilinan bilang katunayan king mete ya ing animal;
+012	e ya sukat mamayaran kanita para king animal a pete da ring lasip.
 013	Nung mindam yang metung a animal ing ninuman king aliwa, at mepinsala ya ing animal o kaya mete ya king e na akakit ning makibandi, sukat yang mamayaran ing menandam.
 014	Nung atyu ya ing pipanandaman inyang mete ya o mepinsala ing animal, e ya sukat mamayaran ing mindam.
 014	Nung animal yang pakiupa na ning makibandi, ing upang tinggap na makagyu neng maging kabayaran.
@@ -23,7 +28,8 @@ verse	content
 017	Paten ya ing ninumang babaing mangkukulam.
 018	Paten ya ing ninumang lalaking mekipangatawan king metung a animal.
 019	Atulan yeng kamatayan ing ninumang miyain ain-sakripisyu karing aliwang dios, subali mu kanaku, ing Ginu .
-020	E ye liligaligan o lulupigan ing ninumang dayuan; ganakan yu king meging dayuan kayu naman kanitang atyu kayu Ehipto.
+020	E ye liligaligan o lulupigan ing ninumang dayuan;
+020	ganakan yu king meging dayuan kayu naman kanitang atyu kayu Ehipto.
 021	E ye alipustan ing mebalu o ing ninumang ulila.
 022	Nung alipustan yu la, siguradu lang maus pasaup kanaku at aku, ing Ginu , pakibatan ku la;
 023	mibua ing mua ku at paten da kayu king kapamilatan ning gera.
@@ -38,4 +44,5 @@ verse	content
 029	Iyain ye kanaku ing pangane karing anak yung lalaki.
 030	Ibie yu la naman kanaku ding pangane karing baka yu at tupa.
 030	Papanatilian yeng pitung aldo king gaindu na ing biseru, at iyain yu ne kanaku king kawalung aldo.
-031	Ikayu ing balen a pinili ku, inya e kayu mamangan king karni na ning animal a piglapak da ring lasip; pakan yu nia mu karing asu.
+031	Ikayu ing balen a pinili ku, inya e kayu mamangan king karni na ning animal a piglapak da ring lasip;
+031	pakan yu nia mu karing asu.

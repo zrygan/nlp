@@ -53,7 +53,8 @@ verse	content
 032	Adto nga adlaw, ang matabuan nga yar sa luwas ng bayay hay ind na dapat magsuyod para magbuoy ng iya gamit.
 032	Pat da ang matabuan nga yadto sa uma hay ind na dapat magbalik para magbuoy ning aber ano.
 033	Dumduma nindo ang natab sa asawa ni Lot!
-034	Ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini; pero ang aber sin-o nga nagahalad ng iya kabuh, makakabaton ng kabuh nga way katapusan.
+034	Ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini;
+034	pero ang aber sin-o nga nagahalad ng iya kabuh, makakabaton ng kabuh nga way katapusan.
 035	Ginahambay ko sa indo, sa adto nga gab-i, igwa duha nga nagakatuyog sa isa ka katri, ang isa buy-on kag ang isa ibilin.
 036	Igwa duha ka babayi nga nagabayo, ang isa buy-on kag ang isa ibilin.
 037	Igwa duha ka lyaki nga nagatrabaho sa uma, ang isa buy-on kag ang isa ibilin.

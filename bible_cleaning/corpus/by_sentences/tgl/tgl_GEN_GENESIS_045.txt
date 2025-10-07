@@ -7,18 +7,23 @@ verse	content
 003	Ang kanyang mga kapatid ay hindi makasagot sa kanya, sapagkat sila'y nanginig sa kanyang harapan.
 004	Kaya't sinabi ni Jose sa kanyang mga kapatid, Lumapit kayo sa akin.
 004	At sila'y lumapit, at kanyang sinabi, Ako'y si Jose na inyong kapatid, na inyong ipinagbili upang dalhin sa Ehipto.
-005	Ngayon huwag kayong magdalamhati o magalit sa inyong mga sarili sapagkat ako'y ipinagbili ninyo rito; sapagkat sinugo ako ng Diyos na una sa inyo upang magligtas ng buhay.
-006	Sapagkat ang taggutom ay dalawang taon na sa lupain; at limang taon pang hindi magkakaroon ng pagbubukid o pag-aani man.
+005	Ngayon huwag kayong magdalamhati o magalit sa inyong mga sarili sapagkat ako'y ipinagbili ninyo rito;
+005	sapagkat sinugo ako ng Diyos na una sa inyo upang magligtas ng buhay.
+006	Sapagkat ang taggutom ay dalawang taon na sa lupain;
+006	at limang taon pang hindi magkakaroon ng pagbubukid o pag-aani man.
 007	Sinugo ako ng Diyos na una sa inyo upang magpanatili para sa inyo ng mga matitira sa daigdig at upang panatilihing buhy para sa inyo ang maraming nakaligtas.
 008	Kaya't hindi kayo ang nagsugo sa akin dito, kundi ang Diyos, at ginawa niya ako bilang ama kay Faraon, at bilang panginoon sa kanyang buong bahay, at tagapamahala ng buong lupain ng Ehipto.
 009	Magmadali kayo at pumunta kayo sa aking ama, at sabihin ninyo sa kanya, Ganito ang sabi ng iyong anak na si Jose: Ginawa ako ng Diyos na panginoon sa buong Ehipto, pumarito ka sa akin, huwag kang magtagal.
 010	Ikaw ay maninirahan sa lupain ng Goshen, at malalapit ka sa akin, ikaw at ang iyong mga anak, ang mga anak ng iyong mga anak, ang iyong mga kawan, mga bakahan, at ang iyong buong pag-aari.
-011	At doo'y tutustusan kita, sapagkat may limang taong taggutom pa; baka ikaw, at ang iyong sambahayan, at ang lahat ng iyo ay maging dukha.
+011	At doo'y tutustusan kita, sapagkat may limang taong taggutom pa;
+011	baka ikaw, at ang iyong sambahayan, at ang lahat ng iyo ay maging dukha.
 012	Nakikita ng inyong mga mata at ng mga mata ng aking kapatid na si Benjamin, na ang bibig ko mismo ang nagsasalita sa inyo.
 013	Inyong sabihin sa aking ama kung paanong ako'y iginagalang sa Ehipto, at ang lahat ng inyong nakita.
 013	Magmadali kayo at dalhin ninyo rito ang aking ama.
-014	Siya'y humilig sa leeg ng kanyang kapatid na si Benjamin, at umiyak; at si Benjamin ay umiyak sa kanyang leeg.
-015	Kanyang hinagkan ang lahat niyang mga kapatid, at umiyak sa kanila; at pagkatapos ay nakipag-usap sa kanya ang kanyang mga kapatid.
+014	Siya'y humilig sa leeg ng kanyang kapatid na si Benjamin, at umiyak;
+014	at si Benjamin ay umiyak sa kanyang leeg.
+015	Kanyang hinagkan ang lahat niyang mga kapatid, at umiyak sa kanila;
+015	at pagkatapos ay nakipag-usap sa kanya ang kanyang mga kapatid.
 016	Nang ang ulat ay naibalita sa sambahayan ng Faraon, Dumating na ang mga kapatid ni Jose, ito ay minabuti ni Faraon at ng kanyang mga lingkod.
 017	Sinabi ng Faraon kay Jose, Sabihin mo sa iyong mga kapatid, Gawin ninyo ito: Kargahan ninyo ang inyong mga hayop, humayo kayo at umuwi sa lupain ng Canaan.
 018	Kunin ninyo ang inyong ama at ang inyong mga sambahayan, at pumarito kayo sa akin.
@@ -26,13 +31,15 @@ verse	content
 019	Ngayo'y inuutusan ka, Gawin mo ito: kumuha kayo ng mga karwahe sa lupain ng Ehipto para sa inyong mga anak, at sa inyong mga asawa, at kunin ninyo ang inyong ama at kayo'y pumarito.
 020	Huwag na ninyong alalahanin pa ang inyong pag-aari, sapagkat ang pinakamabuti ng buong lupain ng Ehipto ay sa inyo.
 021	Ganoon nga ang ginawa ng mga anak ni Israel, at ayon sa sinabi ng Faraon ay binigyan sila ni Jose ng mga karwahe, at ng mababaon sa daan.
-022	Sa kanilang lahat ay nagbigay siya ng mga pampalit na bihisan; ngunit kay Benjamin ay nagbigay siya ng tatlong daang pirasong pilak, at limang pampalit na bihisan.
+022	Sa kanilang lahat ay nagbigay siya ng mga pampalit na bihisan;
+022	ngunit kay Benjamin ay nagbigay siya ng tatlong daang pirasong pilak, at limang pampalit na bihisan.
 023	Sa kanyang ama ay nagpadala siya ng ganito: sampung asnong may pasang mabuting mga bagay mula sa Ehipto, at sampung babaing asno na may pasang trigo, tinapay, at pagkain ng kanyang ama sa daan.
 024	Kaya't kanyang pinahayo ang kanyang mga kapatid, at sila'y umalis at kanyang sinabi sa kanila, Huwag kayong mag-aaway sa daan.
 025	Sila'y umahon mula sa Ehipto, at dumating sa lupain ng Canaan, kay Jacob na kanilang ama.
 026	Kanilang sinabi sa kanya, Si Jose ay buhy pa!
 026	Sa katunaya'y siya ang pinuno sa buong lupain ng Ehipto.
-026	Siya ay nabigla; hindi siya makapaniwala sa kanila.
+026	Siya ay nabigla;
+026	hindi siya makapaniwala sa kanila.
 027	Subalit nang kanilang sabihin sa kanya ang lahat ng mga salita na sinabi ni Jose sa kanila, at nang kanyang makita ang mga karwahe na ipinadala ni Jose upang dalhin siya, ay nanauli ang diwa ni Jacob na kanilang ama.
 028	At sinabi ni Israel, Sapat na!
 028	Si Jose na aking anak ay buhy pa.

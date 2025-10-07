@@ -23,7 +23,8 @@ verse	content
 014	Iti maika-27 nga aldaw ti maikadua a bulan, namagaanen a namimpinsan ti daga.
 015	Kinuna ti Dios ken ni Noe,
 016	Rummuarkayon nga agassawa agraman dagiti annakmo ken dagiti assawada.
-017	Paruarem met dagiti amin a tumatayab ken animal; bay-am nga umaduda tapno agwarasda iti rabaw ti daga.
+017	Paruarem met dagiti amin a tumatayab ken animal;
+017	bay-am nga umaduda tapno agwarasda iti rabaw ti daga.
 018	Rimmuar ngarud iti daong ni Noe, ti asawana, dagiti annakda ken dagiti assawada.
 019	Rimmuar met dagiti amin nga animal ken tumatayab.
 019	Nagrupo-grupoda segun ti klaseda.

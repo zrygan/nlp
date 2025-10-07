@@ -21,7 +21,8 @@ verse	content
 014	Ti Abiud ay ama ni Eliquim sakay ti Eliquim ay ama ni Azor.
 015	Ti Azor ay ama ni Sadoc.
 015	Ti Sadoc ay ama ni Aquim sakay ti Aquim ay ama ni Eliud.
-016	Ti Eliud ay ama ni Eleazar; ti Eleazar ay ama ni Matan.
+016	Ti Eliud ay ama ni Eleazar;
+016	ti Eleazar ay ama ni Matan.
 016	Ti Matan ay ama ni Jacob.
 017	Sakay ti Jacob ay ama ni Jose a kabinga ni Maria.
 017	Ti Maria ay ina ni Jesus a dddulawn a Cristo.

@@ -3,8 +3,10 @@ verse	content
 001	Sa kainitan kan aldaw, mantang nagtutukaw siya sa may pintoan kan saiyang tolda,
 002	nagtingkalag siya asin nahiling niya an tolong lalaki na nagtitindog duman.
 002	Sinabat niya tolos sinda, nagdapa sa daga
-003	dangan nagsabi, Mga kagurangnan ko, kun nawilihan nindo ako, maghapit ngona kamo sa sakong harong; andam ako sa paglingkod saindo.
-004	Tugote akong magkua nin tubig tanganing makahanaw kamo kan saindong bitis; pwede kamong magpahingalo sa limpoy kan kahoy na ini.
+003	dangan nagsabi, Mga kagurangnan ko, kun nawilihan nindo ako, maghapit ngona kamo sa sakong harong;
+003	andam ako sa paglingkod saindo.
+004	Tugote akong magkua nin tubig tanganing makahanaw kamo kan saindong bitis;
+004	pwede kamong magpahingalo sa limpoy kan kahoy na ini.
 005	Dadarahan ko kamo nin dikit na kakanon tanganing magbalik an saindong kosog.
 005	Pakatapos kaiyan pwede na kamong magpadagos sa saindong paglakaw.
 005	Inonra nindo ako sa paghapit sa sakong harong, kaya tugoteng paglingkodan ko kamo.
@@ -56,4 +58,5 @@ verse	content
 040	Giraray nagpadagos si Abraham, Dai ka logod maanggot sako, Kagurangnan , huli ta ini na sana an sasabihon ko.
 040	Halimbawa sampolo sana nanggad an makua?
 041	Nagsimbag an Kagurangnan , Dai ko raraoton an syudad kun may makua akong sampolo.
-042	Naghale na an Kagurangnan pakatapos niyang magtaram ki Abraham; nagpuli man si Abraham sa saiyang harong.
+042	Naghale na an Kagurangnan pakatapos niyang magtaram ki Abraham;
+042	nagpuli man si Abraham sa saiyang harong.

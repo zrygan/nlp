@@ -71,7 +71,8 @@ verse	content
 043	Kinudal na iyud, naggamet ti pgpspssan, sakay naggamet ti malangkaw a bilay a pgbantayan.
 043	Kttapos ay inwarak na en kaubasan ten katiwala na hidi sakay ummangay siya ti iba a lugar.
 044	Dikona dummemt dn en panahun nen skburas, ay inutusan nen makkkao ten kaubasan en alipin na hidi para angen di en kabunong na.
-045	Peru sinunggaban nen katiwala hidi en alipin hidi; binulbug di en essa, binunu di en kaduwwa, sakay binatu di en katllu.
+045	Peru sinunggaban nen katiwala hidi en alipin hidi;
+045	binulbug di en essa, binunu di en kaduwwa, sakay binatu di en katllu.
 046	Inutusan a ruway nen makkkao en mas makpal a alipin na, peru kona labi hud en ginamet nen katiwala na hidi.
 047	Ten katapusan ay inutusan nen makkkao en anak na a lllaki.
 047	Gapu inisip na a, Igalang di iyd i anak kuwiday.

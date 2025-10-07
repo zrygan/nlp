@@ -1,10 +1,12 @@
 verse	content
 001	Sa katapusan ng dalawang taon, ang Faraon ay nanaginip na siya'y nakatayo sa tabi ng Nilo.
 002	May umahon sa ilog na pitong bakang magaganda ang anyo at matataba at ang mga ito ay kumain ng damo.
-003	Pagkatapos nito, sa likuran ng mga ito ay may pito pang ibang mga baka na umahon sa ilog na mga pangit ang anyo at payat; at sila ay nagsihinto sa tabi ng mga unang baka sa pampang ng ilog.
+003	Pagkatapos nito, sa likuran ng mga ito ay may pito pang ibang mga baka na umahon sa ilog na mga pangit ang anyo at payat;
+003	at sila ay nagsihinto sa tabi ng mga unang baka sa pampang ng ilog.
 004	Ang pitong bakang magaganda ang anyo at matataba ay kinain ng mga bakang pangit ang anyo at payat.
 004	At nagising ang Faraon.
-005	Siya'y natulog at nanaginip sa ikalawang pagkakataon; mula sa iisang tangkay ay umusbong ang pitong uhay na mabibintog at malulusog.
+005	Siya'y natulog at nanaginip sa ikalawang pagkakataon;
+005	mula sa iisang tangkay ay umusbong ang pitong uhay na mabibintog at malulusog.
 006	Pagkatapos nito, pitong uhay na payat at tinuyo ng hanging silangan ang tumubong kasunod ng mga iyon.
 007	Nilamon ng mga uhay na payat ang pitong uhay na mabibintog at malulusog.
 007	Nagising ang Faraon, at iyon ay isang panaginip.
@@ -15,8 +17,10 @@ verse	content
 011	Isang gabi, kami ay nanaginip, siya at ako.
 011	Kami ay nagkaroon ng kanya-kanyang panaginip na may kanya-kanyang kahulugan.
 012	Doon ay kasama namin ang isang binata, isang Hebreo, na alipin ng kapitan ng bantay.
-012	Nang sabihin namin sa kanya ay ipinaliwanag niya sa amin ang aming panaginip; ipinaliwanag niya ang kahulugan ayon sa panaginip ng bawat isa sa amin.
-013	At nangyari nga sa amin ang ayon sa kanyang ipinaliwanag sa amin; ako'y ibinalik sa aking katungkulan, at ang panadero ay ipinabitay.
+012	Nang sabihin namin sa kanya ay ipinaliwanag niya sa amin ang aming panaginip;
+012	ipinaliwanag niya ang kahulugan ayon sa panaginip ng bawat isa sa amin.
+013	At nangyari nga sa amin ang ayon sa kanyang ipinaliwanag sa amin;
+013	ako'y ibinalik sa aking katungkulan, at ang panadero ay ipinabitay.
 014	Kaya't nagpasugo ang Faraon at ipinatawag si Jose, at madali siyang inilabas sa bilangguan.
 014	At nang siya'y makapag-ahit at makapagpalit ng damit ay pumunta sa Faraon.
 015	At sinabi ng Faraon kay Jose, Ako'y nanaginip at walang makapagpaliwanag nito.
@@ -32,15 +36,19 @@ verse	content
 023	at pitong uhay na lanta, payat at tinuyo ng hanging silangan ang umuusbong na kasunod ng mga iyon.
 024	Nilamon ng mga uhay na lanta ang pitong uhay na mabibintog.
 024	Isinalaysay ko ito sa mga salamangkero, subalit walang makapagpaliwanag ng kahulugan niyon sa akin.
-025	Kaya't sinabi ni Jose sa Faraon, Ang panaginip ng Faraon ay iisa; ipinakita ng Diyos sa Faraon ang malapit na niyang gawin.
-026	Ang pitong malulusog na baka ay pitong taon; at ang pitong mabibintog na uhay ay pitong taon.
+025	Kaya't sinabi ni Jose sa Faraon, Ang panaginip ng Faraon ay iisa;
+025	ipinakita ng Diyos sa Faraon ang malapit na niyang gawin.
+026	Ang pitong malulusog na baka ay pitong taon;
+026	at ang pitong mabibintog na uhay ay pitong taon.
 026	Ito ay iisang panaginip.
-027	At ang pitong payat at pangit na baka na umahong kasunod ng mga iyon ay pitong taon, gayundin ang pitong uhay na tinuyo ng hanging silangan; ang mga iyon ay pitong taong taggutom.
+027	At ang pitong payat at pangit na baka na umahong kasunod ng mga iyon ay pitong taon, gayundin ang pitong uhay na tinuyo ng hanging silangan;
+027	ang mga iyon ay pitong taong taggutom.
 028	Ito ang aking sinabi sa Faraon.
 028	Ang malapit nang gawin ng Diyos ay ipinaalam niya sa Faraon.
 029	Magkakaroon ng pitong taong kasaganaan sa buong lupain ng Ehipto.
 030	Pagkatapos ng mga iyon, magkakaroon ng pitong taong taggutom at ang lahat ng kasaganaan sa lupain ng Ehipto ay malilimutan at sasalantain ng taggutom ang lupain.
-031	Ang kasaganaan sa lupain ay hindi maaalala dahil sa taggutom na susunod; sapagkat ito'y magiging napakatindi.
+031	Ang kasaganaan sa lupain ay hindi maaalala dahil sa taggutom na susunod;
+031	sapagkat ito'y magiging napakatindi.
 032	Tungkol sa pag-uulit ng panaginip sa Faraon na makalawa, ito ay nangangahulugan na ang bagay ay itinatag ng Diyos, at iyon ay madali nang gawin ng Diyos.
 033	Ngayon nga'y pahanapin ang Faraon ng isang taong matalino at pantas at pamahalain siya sa lupain ng Ehipto.
 034	Gawin ng Faraon na maglagay ng mga tagapamahala sa lupain, at kunin ang ikalimang bahagi ng bunga ng lupain ng Ehipto sa loob ng pitong taong kasaganaan.
@@ -49,10 +57,12 @@ verse	content
 037	Ang mungkahi ay ikinatuwa ng Faraon at ng kanyang mga lingkod.
 038	Kaya't sinabi ng Faraon sa kanyang mga lingkod, Makakakita kaya tayo ng isang taong kagaya nito, na kinakasihan ng espiritu ng Diyos?
 039	Sinabi ng Faraon kay Jose, Yamang itinuro sa iyo ng Diyos ang lahat ng ito, ay walang matalino o pantas na gaya mo.
-040	Ikaw ang magiging pinuno sa aking bahay, at ayon sa iyong salita ay susunod ang aking buong bayan; tanging tungkol lamang sa pagkahari magiging mataas ako kaysa iyo.
+040	Ikaw ang magiging pinuno sa aking bahay, at ayon sa iyong salita ay susunod ang aking buong bayan;
+040	tanging tungkol lamang sa pagkahari magiging mataas ako kaysa iyo.
 041	Sinabi ng Faraon kay Jose, Ikaw ay inatasan ko upang mamahala sa buong lupain ng Ehipto.
 042	Inalis ng Faraon sa kamay niya ang kanyang singsing at inilagay sa kamay ni Jose, at siya'y sinuotan ng pinong lino at inilagay ang isang kuwintas na ginto sa kanyang leeg.
-043	Siya'y pinasakay niya sa karwahe na para sa ikalawang pinakamataas na pinuno; at sila'y sumisigaw sa unahan niya, Lumuhod kayo!
+043	Siya'y pinasakay niya sa karwahe na para sa ikalawang pinakamataas na pinuno;
+043	at sila'y sumisigaw sa unahan niya, Lumuhod kayo!
 043	Sa gayo'y inilagay siya bilang puno sa buong lupain ng Ehipto.
 044	Sinabi ng Faraon kay Jose, Ako ang Faraon, at kung walang pagsang-ayon mula sa iyo ay hindi magtataas ang sinumang tao ng kanyang kamay o ng kanyang paa sa buong lupain ng Ehipto.
 045	Pinangalanan ng Faraon si Jose na Zafenat-panea, at ibinigay bilang asawa niya si Asenat, na anak ni Potifera, na pari sa On.
@@ -69,6 +79,7 @@ verse	content
 053	Ang pitong taon ng kasaganaan na nasa lupain ng Ehipto ay natapos.
 054	Nang ang pitong taon ng taggutom ay nagpasimulang dumating, ayon sa sinabi ni Jose, nagkagutom sa lahat ng lupain subalit sa buong lupain ng Ehipto ay may pagkain.
 055	Nang ang buong lupain ng Ehipto ay nagutom, ang taong-bayan ay humingi ng pagkain sa Faraon.
-055	Kaya't sinabi ng Faraon sa lahat ng mga Ehipcio, Pumunta kayo kay Jose; ang kanyang sabihin sa inyo ay inyong gawin.
+055	Kaya't sinabi ng Faraon sa lahat ng mga Ehipcio, Pumunta kayo kay Jose;
+055	ang kanyang sabihin sa inyo ay inyong gawin.
 056	Yamang ang taggutom ay lumaganap sa buong lupain, binuksan ni Jose ang lahat ng kamalig at ipinagbili sa mga Ehipcio, sapagkat matindi ang taggutom sa lupain ng Ehipto.
 057	Bukod dito, lahat ng mga taga-ibang lupain ay dumating upang bumili ng trigo kay Jose sapagkat matindi ang taggutom sa buong daigdig.

@@ -27,5 +27,6 @@ verse	content
 021	Busa gipatawag niya si Abram ug gipangutana, Unsa ba kining imong gihimo kanako?
 021	Nganong wala mo man ako tug-ani nga imo diay siyang asawa?
 022	Nganong miingon ka man nga siya imong igsoon ug tungod niini gikuha ko siya aron mahimong akong asawa?
-022	Ania ang imong asawa; kuhaa siya ug panlakaw kamo!
+022	Ania ang imong asawa;
+022	kuhaa siya ug panlakaw kamo!
 023	Ug nagsugo si Paraon sa iyang mga tawo nga ubanan si Abram ug gidala nila siya ug gipagawas sa Ehipto uban sa iyang asawa ug sa tanan nga iyaha.

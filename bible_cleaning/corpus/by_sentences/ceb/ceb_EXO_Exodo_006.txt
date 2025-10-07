@@ -26,7 +26,8 @@ verse	content
 016	Si Levi may tulo ka anak nga lalaki: si Gerson, si Kohat ug si Merari.
 016	Sila maoy mga kagikanan sa mga banay nga nagdala sa ilang mga ngalan.
 016	Ang edad ni Levi miabot ug 137.
-017	Si Gerson may duha ka anak nga lalaki: si Libni ug si Simei; daghan silag mga kaliwat.
+017	Si Gerson may duha ka anak nga lalaki: si Libni ug si Simei;
+017	daghan silag mga kaliwat.
 018	Si Kohat may upat ka anak nga lalaki: si Amram, si Izhar, si Hebron ug si Uziel.
 018	Ang edad ni Kohat miabot ug 133.
 019	Si Merari may duha ka anak nga lalaki: si Mali ug si Musi.

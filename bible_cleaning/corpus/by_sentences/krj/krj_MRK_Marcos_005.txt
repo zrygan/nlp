@@ -15,13 +15,15 @@ verse	content
 010	Nagsabat tana, Linibo, tungud hay raku kami!
 011	Nagsige gid tana ka pakitluoy ka mayad kay Jesus nga indi na sanda pag-tabogon pagwa sa lugar nga ria.
 012	Kar-on, may panung kang mga baboy rugto sa bakulod nga nagapanginaun.
-013	Nagpakitluoy kay Jesus ang mga malaot nga ispirito, Paagtona kami sa mga baboy; kananda mo run lang kami pasudlun.
+013	Nagpakitluoy kay Jesus ang mga malaot nga ispirito, Paagtona kami sa mga baboy;
+013	kananda mo run lang kami pasudlun.
 014	Gintugotan sanda ni Jesus, kag naggurowa sanda sa tawo kag magsaraylo sa mga baboy.
 014	Amo to kag ang bilog nga panung kang baboy nga mga darwa ka libo, nagharaguyon padulhog sa pil-as kag nagkarahulog sa linaw kag nagkaralumus.
 015	Ang mga manugsagod tana kang baboy nagparalagyo kag ginpanugid ang natabo nga dya sa banwa kag sa kaumahan.
 015	Gani nag-aragto ang mga tawo agud turukun kon ano gid ang natabo.
 016	Kang mag-agto sanda kay Jesus, nakita nanda ang tawo nga nasab-an anay kang duro nga mga malaot nga ispirito.
-016	Nagapungko dya nga may bayo run kag igsakto run ang paminsarun; kag hinadlukan gid sanda.
+016	Nagapungko dya nga may bayo run kag igsakto run ang paminsarun;
+016	kag hinadlukan gid sanda.
 017	Ang mga tawo tana nga nakasaksi kang hitabo nga to nagpanugid sa mga nag-arabot kon ano ang natabo sa tawo nga nasab-an anay kang malaot nga ispirito kag sa mga baboy.
 018	Gani ginsige nanda ka pangabay si Jesus nga maghalin sa andang banwa.
 019	Kang manugsakay run si Jesus sa baruto, ang tawo nga nasab-an anay kang malaot nga ispirito nagpangabay kana, Patawsa ako kanimo!
@@ -51,9 +53,11 @@ verse	content
 037	Indi run pagdistorboha ang Maestro.
 038	Pero wara magsapak si Jesus sa andang ginkuon nga dya kundi naghambal tana kay Jairo, Indi ikaw magkahadluk, magtuo lang ikaw.
 039	Wara tana ti gintugotan nga magtawas kana magluwas kanday Pedro, Santiago kag Juan nga bugto ni Santiago.
-040	Kar-on pag-abot nanda sa balay nanday Jairo, nakita ni Jesus nga nagagirinoal ang mga tawo; nagahirinibi sanda kag nagaparanangisun.
+040	Kar-on pag-abot nanda sa balay nanday Jairo, nakita ni Jesus nga nagagirinoal ang mga tawo;
+040	nagahirinibi sanda kag nagaparanangisun.
 041	Pagsulud na, nagkuon tana kananda, Andut haw nga nagagirinoal kamo kag nagahirinibi?
-041	Bukun ti patay ang bata; nagakaturog lang.
+041	Bukun ti patay ang bata;
+041	nagakaturog lang.
 042	Pero ang mga tawo tana, ginkadlawan lang nanda si Jesus.
 042	Gani ginpagwa na sanda tanan kag gindara na ang tatay kag nanay kang bata imaw kang anang tatlo ka mga disipulo kag nagsulud sanda sa kwarto nga sa diin nahamyang ang bata.
 043	Ginkaptan ni Jesus ang bata sa alima kag ginkun-an nga, Talitha koum!

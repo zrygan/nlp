@@ -4,20 +4,24 @@ verse	content
 002	Ipinagmondo asin tinangisan ni Abraham an saiyang pagkagadan.
 003	Binayaan niya an saiyang gadan na agom asin nagduman siya sa mga Heteo.
 003	Nagsabi siya sainda,
-004	Dayuhan ako digdi na nakikihimanwa sa saindo; pabakalan nindo ako nin daga tanganing ikalubong ko an sakong agom.
+004	Dayuhan ako digdi na nakikihimanwa sa saindo;
+004	pabakalan nindo ako nin daga tanganing ikalubong ko an sakong agom.
 005	Nagsimbag sinda,
 006	Dangoga kami, kagurangnan.
 006	Minimidbid mi ika bilang sarong dakulang lider kaya ilubong mo an saimong agom sa pinakamarahay ming lulubngan.
 006	Mayo nin siisay man sa samo na masayuma saimo kan saiyang lulubngan o maolang saimo sa paglubong kan saimong gadan.
 007	Nagduko si Abraham sa atubang kan mga Heteo
 008	dangan nagsabi, Kun tugot kamong digdi ko ilubong an sakong agom, kaolayon nindo si Efron na aking lalaki ni Zohar
-009	tanganing ipabakal niya sako an lungib nin Macpela na sadiri niya; nasa poro ini kan saiyang oma.
+009	tanganing ipabakal niya sako an lungib nin Macpela na sadiri niya;
+009	nasa poro ini kan saiyang oma.
 009	Kaolayon nindo siya na sa atubang nindo, babakalon ko idto saiya sa presyong gusto niya tanganing masadirihan ko bilang lulubngan.
 010	Kan oras na iyan, kaibahan si Efron kan mga Heteo na nagtutukaw sa may trangkahan kan syudad.
 010	Sinimbag niya si Abraham sa pandangog kan gabos,
-011	Dangoga ako, kagurangnan; sa atubang kan sakong mga kahimanwa, itatao ko saimo an bilog na oma asin an lungib na yaon duman tanganing ikalubong mo an saimong agom.
+011	Dangoga ako, kagurangnan;
+011	sa atubang kan sakong mga kahimanwa, itatao ko saimo an bilog na oma asin an lungib na yaon duman tanganing ikalubong mo an saimong agom.
 012	Alagad nagduko si Abraham sa atubang kan mga Heteo
-013	asin nagsabi ki Efron sa pandangog kan gabos, Dangoga ngona ako; babakalon ko an bilog na oma.
+013	asin nagsabi ki Efron sa pandangog kan gabos, Dangoga ngona ako;
+013	babakalon ko an bilog na oma.
 013	Akoa an kabayadan tanganing ikalubong ko duman an sakong agom.
 014	Nagsimbag si Efron,
 015	Kagurangnan, para sa satong duwa, ano na an daga na nagkakahalaga nin kwatro syentos na pedasong plata?

@@ -2,7 +2,8 @@ verse	content
 001	Ini an mga togon na itatao mo sa mga Israelita
 002	Kun magbakal ka nin oripon na Hebreyo, anom na taon siyang maglilingkod saimo.
 002	Sa ikapitong taon papatalingkason mo siya na dai papabayadon nin maski ano.
-003	Kun siya mayong agom kan siya magin oripon mo, mahale siyang mayong agom; alagad kun siya may agom kan siya magin oripon mo, mahale siyang kaiba an saiyang agom.
+003	Kun siya mayong agom kan siya magin oripon mo, mahale siyang mayong agom;
+003	alagad kun siya may agom kan siya magin oripon mo, mahale siyang kaiba an saiyang agom.
 004	Kun tawan siya kan saiyang kagurangnan nin agom asin nagkaigwa siya nin mga aki, an saiyang agom sagkod mga aki pagsadiri kan kagurangnan niya, asin an lalaki solong mahale.
 005	Alagad kun magpahayag an oripon na habo na siyang maghale huli ta namomotan niya an saiyang kagurangnan, agom saka mga aki,
 006	kun siring, dadarahon siya kan saiyang kagurangnan sa lugar na pinagsasambahan asin papatindogon siya sa may pinto o sa may hamba kan pintoan, dangan lalabotan an saiyang talinga asin magigin oripon siya kan saiyang kagurangnan sagkod na buhay siya.
@@ -22,7 +23,8 @@ verse	content
 018	Alagad kun an biktima nahaloy sa higdaan,
 019	dangan nakalakaw sa tabang nin sugkod, kaipuhan atamanon siya kan nagkulog sagkod na marahay asin bayadan siya kaini kan saiyang panahon na nasayang.
 020	Kun pakolon nin sugkod kan sarong tawo an saiyang oripon na lalaki o babae, dangan nagadan tolos an saiyang oripon, an kagurangnan dapat na padusahan.
-021	Alagad kun nabuhay pa an oripon sa laog nin saro o duwang aldaw, dai na papadusahan an kagurangnan; an mawaraan siya nin oripon maninigo nang padusa saiya.
+021	Alagad kun nabuhay pa an oripon sa laog nin saro o duwang aldaw, dai na papadusahan an kagurangnan;
+021	an mawaraan siya nin oripon maninigo nang padusa saiya.
 022	Kun an mga nag-iiwal makakulog nin sarong bados na nagin dahelan na ini makuahan, alagad mayo na nin ibang maraot na nangyari sa babae, an nakakulog mabayad kan kantidad na hahagadon saiya kan agom kan babae sosog sa pagboot kan mga hukom.
 023	Alagad kun may iba pang maraot na nangyari sa babae, an kabayadan: buhay sa buhay,
 024	mata sa mata, ngipon sa ngipon, kamot sa kamot, bitis sa bitis,
@@ -37,5 +39,6 @@ verse	content
 033	Kun an kalot binayaan nin sarong tawo na daing lukdo o kun nagkalot siya asin dai niya iyan tinakopan, dangan nahulog duman an sarong baka o asno,
 034	an kagsadiri kan kalot mabayad para sa hayop.
 034	Babayadan niya nin kwarta an kagsadiri kan hayop, asin mapapasaiya an nagadan na hayop.
-035	Kun an baka nin sarong tawo makagadan nin baka na sadiri nin iba, an buhay na baka ipapabakal kan duwang kagsadiri asin babangaon ninda an kabayadan; babangaon man ninda an karne kan nagadan na hayop.
+035	Kun an baka nin sarong tawo makagadan nin baka na sadiri nin iba, an buhay na baka ipapabakal kan duwang kagsadiri asin babangaon ninda an kabayadan;
+035	babangaon man ninda an karne kan nagadan na hayop.
 036	Alagad kun an baka dati nang parasuag asin dai linaom kan kagsadiri, an nagadan na baka riribayan niya nin buhay na baka dangan mapapasaiya an gadan na hayop.

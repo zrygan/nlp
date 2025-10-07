@@ -54,7 +54,8 @@ verse	content
 036	Ginkuon dya ni Pedro hay wara tana kamaan kon ano ang anang ihambal.
 037	Samtang nagahambal pa si Pedro, may panganod nga nag-abot kag ginlikupan sanda ka dya.
 037	Ginhadlukan gid sanda samtang ginalikupan sanda kang panganod.
-038	May limug halin sa panganod nga naghambal, Amo dya ang akun Anak nga akun ginpili; pamatii ninyo tana!
+038	May limug halin sa panganod nga naghambal, Amo dya ang akun Anak nga akun ginpili;
+038	pamatii ninyo tana!
 039	Pagpuut kang limug, nakita nanda nga nagaisarahanun run lang si Jesus.
 039	Pero ang tanan nga dya ginhipsan lang kang mga disipulo, kag kato nga tinion wara gid nanda ginpanugid bisan kay sin-o ang andang nakita.
 040	Kang masunod nga adlaw, nagdulhog sanda halin sa bukid kag raku nga mga tawo ang nag-alaw-alaw kay Jesus.
@@ -75,7 +76,8 @@ verse	content
 049	Nahadluk man sanda nga magpamangkot kana nahanungud sa butang nga dya.
 050	Sangka bes, nagbinaisay ang mga disipulo kon sin-o gid kananda ang labaw sa tanan.
 051	Pero naman-an ni Jesus kon ano ang andang ginapinsar, gani nagbuul tana kang sangka bata kag ginpatindug na dya sa anang kilid.
-052	Dayon nagkuon tana kananda, Ang sin-o man nga magabaton sa bata nga dya tungud kanakun nagabaton man kanakun, kag ang nagabaton kanakun nagabaton man sa nagpadara kanakun; tungud hay kon sin-o kaninyo ang pinakakubus sa tanan, tana amo ang labaw sa tanan.
+052	Dayon nagkuon tana kananda, Ang sin-o man nga magabaton sa bata nga dya tungud kanakun nagabaton man kanakun, kag ang nagabaton kanakun nagabaton man sa nagpadara kanakun;
+052	tungud hay kon sin-o kaninyo ang pinakakubus sa tanan, tana amo ang labaw sa tanan.
 053	Naghambal si Juan, Ginoo, may nakita kami nga tawo nga nagapanabog kang mga demonyo kag ginagamit na ang imong ngaran.
 053	Pero gintapna namun tana tungud hay bukun tana ti kaimaw natun.
 054	Nagsabat si Jesus kana, Indi tana pagtapnaa, tungud hay ang tawo nga wara nagakontra kaninyo, nagadampig kaninyo.

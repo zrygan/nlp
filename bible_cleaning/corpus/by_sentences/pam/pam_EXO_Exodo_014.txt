@@ -1,7 +1,8 @@
 verse	content
 001	Kanita ngana ning Ginu kang Moises,
 002	Sabian mu karing Israelita king magbalik la at magkampu king tulid na ning Pi Hairot, pilatan na ning Migdol ila ning Dagat da ring Timbu, lele na ning Baal Zefon.
-003	Isipan na ning ari king mengalili kayu; e yu balu nung nu kayu marap uling makasaluput kayu king disyerto.
+003	Isipan na ning ari king mengalili kayu;
+003	e yu balu nung nu kayu marap uling makasaluput kayu king disyerto.
 004	Pasiasan ke lub at tagalan na kayu, at aku naman tanggap kung dangalan uli na ning pamagtagumpe ku king ari ampon karing sundalus na.
 004	Abalu da kanita ding tau Ehipto king aku ing Ginu .
 004	Depatan da ring Israelita itang sinabi na karela.
@@ -27,7 +28,8 @@ verse	content
 014	Ala kayung aliwang gawan nune mu ing magpayapa kayu.
 015	Ngana ning Ginu kang Moises, Obat ala kang patugut mamaus pasaup?
 015	Sabian mu karing tau king isulung da na ing lakad da!
-016	Itas me ing tukud mu babo ning dagat at mepidua ing danum; malyari na la kanitang makadalan ding Israelita babo na ning gabun a malangi libutad ning dagat.
+016	Itas me ing tukud mu babo ning dagat at mepidua ing danum;
+016	malyari na la kanitang makadalan ding Israelita babo na ning gabun a malangi libutad ning dagat.
 017	Pasiasan ku la lub ding tau Ehipto ban dulung la naman para tagal kekayu, at kaybat mirangal ku king kapamilatan na ning pamagtagumpe ku king ari, karing sundalus na, karing karung panggera na, at karing pakasake kareti.
 018	Potang sambutan ku na la den, akilala da ring tau Ehipto king aku ing Ginu .
 019	Minalis yang lugal ing anghel ning Ginu a makauna karing sundalus na ning Israel, at minta ya king kagulutan da.
@@ -51,4 +53,5 @@ verse	content
 028	Alang mitagan metung man karela.
 029	Sinulung da ring Israelita ing pamaglakad da king malanging gabun ning dagat kabang mengaring pader ing danum king mingatba karela.
 030	King aldong ita, linigtas ne ning Ginu ing balen Israel karing tau Ehipto, at ikit da lang pakapase ding mete king pampang.
-031	Miyatdanan lang takut king Ginu ding Israelita inyang ikit da ing maragul nang upaya ning Ginu a ginamit na king pamagwagi na karing tau Ehipto; mika tiwala la king Ginu at king talasuyu nang i Moises.
+031	Miyatdanan lang takut king Ginu ding Israelita inyang ikit da ing maragul nang upaya ning Ginu a ginamit na king pamagwagi na karing tau Ehipto;
+031	mika tiwala la king Ginu at king talasuyu nang i Moises.

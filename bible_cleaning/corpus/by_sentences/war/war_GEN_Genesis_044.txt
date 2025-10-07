@@ -14,7 +14,8 @@ verse	content
 008	Maaram ka man nga iginbalik ngani namon ha imo tikang ha tuna han Canaan an kwarta nga amon hin-agian dida han ganggang han amon mga sako.
 008	Kay ano nga mangangawat kami hin salapi o bulawan tikang han balay han imo agaron?
 009	Kon hiagian in usa ha amon nga may-ada hini nga kupa, kinahanglan pagpatayon hiya, ngan magigin mga oripon nimo kami ngatanan.
-010	Nagsiring hiya, Nauyon ako; kundi hiya la nga nakadara han kupa an magigin akon oripon, ngan mahigagawas-kamo ngatanan han kataragman.
+010	Nagsiring hiya, Nauyon ako;
+010	kundi hiya la nga nakadara han kupa an magigin akon oripon, ngan mahigagawas-kamo ngatanan han kataragman.
 011	Sanglit ginhaw-as dayon nira ha tuna an ira mga sako, ngan ginbukas an sako han kada tawo.
 012	Gin-usisa hin maupay han surugoon ni Jose tikang han gimamagurangi ngadto han gimamanghori, ngan hin-agian an kupa didto han sako ni Benjamin.
 013	Ginggisi han magburugto an ira mga panapton tungod hin kabidoan, iginkargahan han mga asno an ira mga sako, ngan binmalik hira ngadto han syudad.
@@ -31,18 +32,22 @@ verse	content
 017	Nagsiring hi Jose, Diri!
 017	Diri gud ako magbubuhat hito!
 017	Hiya la nga hin-agian ha iya an kupa an magigin akon oripon.
-017	Makakauli na an iba ha iyo ngadto han iyo amay; waray gud malalabot ha iyo.
+017	Makakauli na an iba ha iyo ngadto han iyo amay;
+017	waray gud malalabot ha iyo.
 018	Dinmaop hi Juda kan Jose ngan nagsiring, Ginoo, tugoti gad ako hin pakighimangraw ha imo.
-018	Ayaw intawon ako kasinahi; sugad ka han hadi ngahaw namon.
+018	Ayaw intawon ako kasinahi;
+018	sugad ka han hadi ngahaw namon.
 019	Ginpakianhan mo kami, May-ada ba niyo amay, o lain nga bugto nga lalake?
 020	Binmaton kami, May-ada pa kami amay nga lagas na ngan hin usa nga manghud nga lalake, nga anak niya dida han lagas na hiya.
 020	Patay na an bugto hini nga bata, ngan hiya na la an buhi pa nga anak han iroy niya: hinigugma hiya hin duro han amon amay.
 021	Ginsiring mo kami hin pagdara ha iya nganhi basi makakita ka ha iya,
-022	ngan binmaton kami nga diri makakabaya han iya amay an bata; kon buhaton niya ini mapatay an iya amay.
+022	ngan binmaton kami nga diri makakabaya han iya amay an bata;
+022	kon buhaton niya ini mapatay an iya amay.
 023	Niyan nagsiring ka, Diri kamo kakarawaton ha akon atubangan gawas kon umupod ha iyo an iyo gimamanghori nga bugto.
 024	Han pagbalik namon ngadto han amon amay, amon hiya ginsumatan han imo iginsiring.
 025	Niyan ginpabalik kami niya ngan ginpapalit hin pagkaon.
-026	Binmaton kami, Diri kami makakakadto; diri kami kakarawaton han tawo gawas kon upod namon an amon gimamanghori nga bugto.
+026	Binmaton kami, Diri kami makakakadto;
+026	diri kami kakarawaton han tawo gawas kon upod namon an amon gimamanghori nga bugto.
 026	Makadto la kami kon bunyog namon an amon gimamanghori nga bugto.
 027	Nagsiring ha amon an amon amay, Maaram man kamo nga duha la nga mga anak nga lalake an igin-anak namon ngan hi Raquel nga akon asawa.
 028	Binayaan na ako han usa ha ira.
@@ -53,6 +58,7 @@ verse	content
 030	Makakapabido kami han amon amay ngan amo an makakamatay ha iya, kay lagas na hiya hin duro.
 031	Labot pa hini iginsaad ko han akon amay an akon kinabuhi sugad nga garantiya han bata.
 031	Ginsiring ko hiya nga kon diri ko igbalik ha iya an bata, pag-aangkonon ko an sayop ha bug-os ko nga kinabuhi.
-032	Ngan yana, ginoo, magpapabilin ako dinhe sugad nga imo oripon saliwan han bata; pabalika hiya upod han iya kabugtoan.
+032	Ngan yana, ginoo, magpapabilin ako dinhe sugad nga imo oripon saliwan han bata;
+032	pabalika hiya upod han iya kabugtoan.
 033	Uunanhon ko hin pakabalik ngadto han akon amay kon diri ko upod an bata?
 033	Diri ako mailob hin pagkita hini nga karat-an nga maabot han akon tatay.

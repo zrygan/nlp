@@ -32,5 +32,6 @@ verse	content
 021	Pinaayaban ti ari ni Abram ket sinaludsodna, Ania ti inaramidmo kaniak?
 021	Apay a dimo imbaga nga asawam?
 022	Apay nga imbagam a kabsatmo ket impalubosmo nga alaek a kas asawak?
-022	Adtoy ti asawam; alaem ket pumanawkayon!
+022	Adtoy ti asawam;
+022	alaem ket pumanawkayon!
 023	Nagbilin ti ari ket napapanaw ni Abraham idiay Egipto a kaduana ti asawana agraman amin a sanikuana.

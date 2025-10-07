@@ -68,4 +68,5 @@ verse	content
 036	Apan wala gihapon siya masayod niini tungod sa iyang kahubog.
 037	Sa ingon niining paagiha nagsabak ang duha ka anak ni Lot pinaagi sa ilang amahan.
 038	Ang magulang nanganak ug batang lalaki nga iyang ginganlag Moab ug siya mao ang amahan sa mga Moabihanon.
-039	Ang manghod nanganak usab ug batang lalaki ug ginganlan niyag Ben-ami; siya mao ang amahan sa mga Amonihanon karon.
+039	Ang manghod nanganak usab ug batang lalaki ug ginganlan niyag Ben-ami;
+039	siya mao ang amahan sa mga Amonihanon karon.

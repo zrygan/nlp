@@ -3,7 +3,8 @@ verse	content
 001	Nang lalangin ng Diyos ang tao, siya ay nilalang sa wangis ng Diyos.
 002	Lalaki at babae silang nilalang, at sila'y binasbasan at tinawag na Adan ang kanilang pangalan, nang araw na sila'y lalangin.
 003	Nabuhay si Adan ng isandaan at tatlumpung taon, at nagkaanak ng isang lalaki na kanyang wangis, ayon sa kanyang larawan, at tinawag ang kanyang pangalan na Set.
-004	Ang mga naging araw ni Adan pagkatapos na maipanganak si Set ay walong daang taon; at nagkaanak pa siya ng mga lalaki at mga babae.
+004	Ang mga naging araw ni Adan pagkatapos na maipanganak si Set ay walong daang taon;
+004	at nagkaanak pa siya ng mga lalaki at mga babae.
 005	Ang lahat ng mga araw ng naging buhay ni Adan ay siyamnaraan at tatlumpung taon at siya'y namatay.
 006	Nabuhay si Set ng isandaan at limang taon at naging anak niya si Enos.
 007	Nabuhay si Set pagkatapos na maipanganak si Enos ng walong daan at pitong taon at nagkaanak pa ng mga lalaki at mga babae.
@@ -23,7 +24,8 @@ verse	content
 021	Nabuhay si Enoc ng animnapu't limang taon at naging anak niya si Matusalem.
 022	Lumakad si Enoc na kasama ng Diyos, pagkatapos na maipanganak si Matusalem ng tatlong daang taon, at nagkaanak pa siya ng mga lalaki at mga babae.
 023	At ang lahat na naging araw ni Enoc ay tatlong daan at animnapu't limang taon.
-024	Lumakad si Enoc na kasama ng Diyos; at hindi na siya natagpuan sapagkat siya'y kinuha ng Diyos.
+024	Lumakad si Enoc na kasama ng Diyos;
+024	at hindi na siya natagpuan sapagkat siya'y kinuha ng Diyos.
 025	Nabuhay si Matusalem ng isandaan at walumpu't pitong taon at naging anak niya si Lamec.
 026	Nabuhay si Matusalem pagkatapos na maipanganak si Lamec ng pitong daan at walumpu't dalawang taon at nagkaanak pa ng mga lalaki at mga babae.
 027	Ang lahat na naging araw ni Matusalem ay siyamnaraan at animnapu't siyam na taon at siya'y namatay.

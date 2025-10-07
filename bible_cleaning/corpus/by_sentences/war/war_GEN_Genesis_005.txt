@@ -35,7 +35,8 @@ verse	content
 026	May-ada pa hiya iba nga mga anak,
 027	ngan namatay hiya ha panuigon nga 969.
 028	Han 182 na hi Lamec, nagkamay-ada hiya anak nga lalake,
-029	ngan nagsiring hiya, Tikang han tuna nga gintunglo han Ginoo , ini nga bata amo an makakahatag hin pahalibway han ngatanan naton nga magkuri nga mga buruhaton; sanglit iya ginngaranan ini nga bata nga Noe.
+029	ngan nagsiring hiya, Tikang han tuna nga gintunglo han Ginoo , ini nga bata amo an makakahatag hin pahalibway han ngatanan naton nga magkuri nga mga buruhaton;
+029	sanglit iya ginngaranan ini nga bata nga Noe.
 030	Nabuhi pa hi Lamec hin 595 ka tuig.
 030	May-ada pa hiya iba nga mga anak,
 031	ngan namatay hiya ha panuigon nga 777.

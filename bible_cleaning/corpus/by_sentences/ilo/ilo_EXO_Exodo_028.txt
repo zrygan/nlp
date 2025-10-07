@@ -12,7 +12,8 @@ verse	content
 009	Mangalaka iti dua a bato a karnelia ket ikitikitmo kadagitoy ti nagan dagiti annak ni Jacob,
 010	segun ti panagsasarunoda a nayanak.
 010	Saggi-innem a nagan ti maikitikit iti tunggal bato.
-011	Ipaaramidmo daytoy iti nalaing a platero; maimontar dagiti bato iti balitok.
+011	Ipaaramidmo daytoy iti nalaing a platero;
+011	maimontar dagiti bato iti balitok.
 012	Ikabilmo dagitoy bato kadagiti terante ti efod a pakakitaan kadagiti tribu ti Israel.
 012	Iti kastoy, awiten ni Aaron dagiti naganda iti abagana tapno, siak, ni Yahweh, kanayon a malagipko dagiti tattaok.
 013	Mangaramidka met iti dua a pagmontaran a balitok

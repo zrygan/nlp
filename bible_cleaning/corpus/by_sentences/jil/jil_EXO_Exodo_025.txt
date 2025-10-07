@@ -3,9 +3,13 @@ verse	content
 002	Singgana ang mga Israelinhon nga maghalad sila sa akon.
 002	Batunon mo para sa akon ang mga dulot nga ginahatag sing kinabubot-on sang tagsa ka tawo.
 003	Amo ini ang mga dulot nga imo batunon: bulawan, pilak kag bronsi;
-004	delana nga asol, granate, kag pula; lino nga manipis, panapton nga nahimo sa bulbol sang kanding;
-005	panit sang karnero nga lalaki nga nalugom sa pula; mapino nga panit; kahoy nga akasya;
-006	lana para sa mga suga; mga pahumot para sa lana nga inughaplas, kag para sa mahumot nga insyenso;
+004	delana nga asol, granate, kag pula;
+004	lino nga manipis, panapton nga nahimo sa bulbol sang kanding;
+005	panit sang karnero nga lalaki nga nalugom sa pula;
+005	mapino nga panit;
+005	kahoy nga akasya;
+006	lana para sa mga suga;
+006	mga pahumot para sa lana nga inughaplas, kag para sa mahumot nga insyenso;
 007	kornalina kag iban nga malahalon nga mga bato, nga inugtampok sa bestidora, kag sa hapin sa dughan sang Pinakamataas nga Pari.
 008	Himuan nila ako sing balaan nga Tolda agod ako mag-estar upod sa ila.
 009	Himuon mo ini kag ang tanan sini nga mga kasangkapan suno sa plano nga ipakita ko sa imo.

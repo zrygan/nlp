@@ -47,7 +47,8 @@ verse	content
 027	Sakay ten dimudyan ay natay bi en bbbi.
 028	Nadid, ta nakabinga na hidi a atanan, deya i tenggiyn naid a kabinga na, kddemt ten kkkabiyag a ruway?
 029	Kinagi ni Jesus dikodi, Liwat a tarud i pnniwala moyen, gapu awan moy maintendiyan en itttoldu nen Kasulatan sakay en kapangyariyan nen Diyos.
-030	Ten kkkabiyag a ruway ay awan dn ti kabingaan; kaparehu dn hidi nen anghel hidi dilanget.
+030	Ten kkkabiyag a ruway ay awan dn ti kabingaan;
+030	kaparehu dn hidi nen anghel hidi dilanget.
 031	Ni tungkul ten kkkabiyag a ruway, awan moy beman nabasa ten libru ni Moises en kinagi nen Diyos dikona, ten pangyayari ten maggerab a marenggd a kayu?
 031	Kinagi nen Diyos knni Moises, Sikn en Diyos ni Abraham, Isaac, sakay Jacob.
 032	En Diyos ay bakn a Diyos nen patay hidi nan Diyos nen biyag hidi.
@@ -70,7 +71,8 @@ verse	content
 042	Kinagi nen Panginoon ten Panginoon ku,
 043	Mggetnud ka ti kawanan kuwiday,
 044	mentras awan ku mapasuku dikomu en atanan nen kadima mu hidi.
-045	Ti David dn en nangdulaw dikona a Panginoon; konya a en Cristo ay maggubwat ten lahi ni David?
+045	Ti David dn en nangdulaw dikona a Panginoon;
+045	konya a en Cristo ay maggubwat ten lahi ni David?
 046	Makpal a tolay en masaya a mgsanig dikona.
 047	Sakay kinagi pa ni Jesus ten pgtoldu na, Mangilag kam ten tagapagtoldu hidi nen Kautusan, gugustu di a maglakad ten matolay a lugar a susulot di en badu di a malayon sakay kasayaan di a igalang hidi nen katolayan.
 048	Gugustu di en bangku hidi a para ten mgkataas ni ked hidi ten sinagoga sakay en bangku hidi a para ten marangal ten handaan hidi.

@@ -21,9 +21,12 @@ verse	content
 012	Pero si Moises nagsiling sa Ginoo , Kon ang mga Israelinhon indi gani magpamati sa akon, ano ang pagpamati sang hari sa akon?
 012	Indi ako maayo nga manughambal.
 013	Ang Ginoo nagmando kay Moises kag kay Aaron: Singgana ang mga Israelinhon kag ang hari sang Ehipto, nga ginsugo ko kamo sa pagpagwa sang mga Israelinhon halin sa duta sang Ehipto.
-014	Amo ini ang mga pangulo sang ila mga panimalay: ang mga anak nga lalaki ni Ruben nga panganay ni Jacob amo sanday Hanoc, Palu, Hezron, kag Carmi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Ruben.
-015	Si Simeon may anom ka mga kabataan nga lalaki nga amo sanday Jemuel, Jamin, Ohad, Jaquin, Zohar kag Shaul nga anak sang Canaanhon nga babayi; ini sila amo ang mga katigulangan sang mga kabarangayan ni Simeon.
-016	Si Levi may tatlo ka mga anak nga lalaki nga amo sanday Gerson, Kohat, kag Merari; ini sila amo ang mga katigulangan sang mga kabarangayan ni Levi.
+014	Amo ini ang mga pangulo sang ila mga panimalay: ang mga anak nga lalaki ni Ruben nga panganay ni Jacob amo sanday Hanoc, Palu, Hezron, kag Carmi;
+014	ini sila amo ang mga katigulangan sang mga kabarangayan ni Ruben.
+015	Si Simeon may anom ka mga kabataan nga lalaki nga amo sanday Jemuel, Jamin, Ohad, Jaquin, Zohar kag Shaul nga anak sang Canaanhon nga babayi;
+015	ini sila amo ang mga katigulangan sang mga kabarangayan ni Simeon.
+016	Si Levi may tatlo ka mga anak nga lalaki nga amo sanday Gerson, Kohat, kag Merari;
+016	ini sila amo ang mga katigulangan sang mga kabarangayan ni Levi.
 016	Si Levi nagkabuhi sing 137 ka tuig.
 017	Ang mga anak nga lalaki ni Gerson amo sanday Libni, Simei, kag sila may madamo nga mga kaliwat.
 018	Ang apat ka mga anak nga lalaki ni Kohat amo sanday Amram, Izar, Hebron, kag Uziel.
@@ -36,7 +39,8 @@ verse	content
 022	Ang tatlo ka mga anak nga lalaki ni Uziel amo sanday Misael, Elzafan, kag Sitri.
 023	Si Aaron nagpangasawa kay Eliseba, nga anak ni Aminadab kag utod nga babayi ni Naason.
 023	Ang anak nanday Aaron kag Eliseba amo sanday Nadab, Abiu, Eleazar, kag Itamar.
-024	Ang tatlo ka mga anak nga lalaki ni Core amo sanday Asir, Elkana, kag Abiasaf; kabarangayan sang mga Corinhon.
+024	Ang tatlo ka mga anak nga lalaki ni Core amo sanday Asir, Elkana, kag Abiasaf;
+024	kabarangayan sang mga Corinhon.
 025	Si Eleazar nga anak ni Aaron, nagpangasawa sang isa sang mga anak ni Putiel, nga nag-anak kay Fineas.
 025	Amo ini ang mga pangulo sang mga panimalay ni Levi suno sa iya mga kabarangayan.
 026	Si Aaron kag si Moises amo ang ginsingganan sang Ginoo , Pagwaa ang mga Israelinhon halin sa duta sang Ehipto suno sa ila mga tribo.

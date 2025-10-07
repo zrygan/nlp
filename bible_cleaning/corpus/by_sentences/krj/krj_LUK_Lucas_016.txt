@@ -9,14 +9,16 @@ verse	content
 005	Gani ang ginhimo na, ginpatawag na ang tanan nga tawo nga may mga utang sa anang amo.
 005	Nagkuon tana sa nahauna, Sang ano ang utang mo sa akun amo?
 006	Nagsabat ang tawo, Walo ka gatos ka galon nga lana kang olibo.
-006	Dayon nagkuon kana ang manugdumara, Dyaay ang lista kang imong utang; pungkoi dya kag himoa nga apat ka gatos.
+006	Dayon nagkuon kana ang manugdumara, Dyaay ang lista kang imong utang;
+006	pungkoi dya kag himoa nga apat ka gatos.
 007	Dayon nagkuon man tana sa isara, Ikaw tana, pira ang imong utang sa akun amo?
 007	Nagsabat ang tawo, Sangka gatos ka sako nga trigo.
 007	Dayon, nagkuon kana ang manugdumara, Dyaay ang lista kang imong utang, himoa run lang nga walo ka napulo.
 008	Kag ang dayaun nga manugdumara nga dya gindayaw kang anang amo tungud sa anang kaabtik sa pagpahito.
 008	Sa dya nga kalibutan ang mga tawo nga wara nagatuo sa Dios mas abtik pa magpahito sangsa mga tawo nga nagatuo sa Dios.
 009	Nagpadayon pa gid si Jesus sa paghambal, Gamita ninyo ang kalibutanun nga manggad sa pagpakig-amigo, agud to nga kon indi run dya magamit, pagabatonon kamo sa iristaran nga wara ti katapusan.
-010	Ang bisan sin-o nga masarigan sa garagmay nga mga butang, masarigan man sa daragkul; kag ang bisan sin-o nga nagadaya sa garagmay nga mga butang, nagadaya man sa daragkul nga mga butang.
+010	Ang bisan sin-o nga masarigan sa garagmay nga mga butang, masarigan man sa daragkul;
+010	kag ang bisan sin-o nga nagadaya sa garagmay nga mga butang, nagadaya man sa daragkul nga mga butang.
 011	Kon indi kamo masarigan sa pagkaput kang manggad rugya sa kalibutan, sin-o pa ang magasarig sa pagpakaput kaninyo kang matuod-tuod nga manggad?
 012	Kag kon indi kamo masarigan sa mga butang nga ginpakaput lang kaninyo kang iba, sin-o pa ang magatugro kaninyo kang mga butang nga mangin inyo run gid!
 013	Wara ti surugoon nga makaalagad sa darwa ka agalun, tungud hay ang matabo karia kaugtan na ang isara kag palanggaun na ang isara, ukon alagadun na kang husto ang isara kag ang isara tana tamayun na.

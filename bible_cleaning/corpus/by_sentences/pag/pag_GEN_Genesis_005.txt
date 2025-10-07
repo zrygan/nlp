@@ -35,7 +35,8 @@ verse	content
 026	Wala ni ray arum ya anak ton lalaki tan bibii,
 027	tan inatey nen mantaoy siam a lasus tan anemaplo tan siam.
 028	Nen sanlasus tan walomplo tan duay taon nen Lamec, walay anak ton laki
-029	tan inkuanto, Itdan to itayo na sayan ogaw na inawa ed amin da ray mairap a kimey tayo ed sayan dalin ya insamba na Katawan ; kanyan inngaran to na Noe.
+029	tan inkuanto, Itdan to itayo na sayan ogaw na inawa ed amin da ray mairap a kimey tayo ed sayan dalin ya insamba na Katawan ;
+029	kanyan inngaran to na Noe.
 030	Nambilay ni si Lamec na liman lasus tan siamaplo tan limay taon.
 030	Wala ni ray arum ya anak ton lalaki tan bibii,
 031	tan inatey nen mantaoy piton lasus tan pitomplo tan pito.

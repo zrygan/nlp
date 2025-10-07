@@ -10,7 +10,8 @@ verse	content
 007	Kaipuhan simbagon mi an saiyang mga hapot.
 007	Paano mi maaaraman na ipapaiba niya samo an samong tugang?
 008	Nagsimbag si Juda sa saiyang ama, Paibaha na sako an aki dangan maduman na kami tanganing mabuhay kita asin dai magadan sa gutom.
-009	Iginagarantiya ko an sakong buhay; ako an masimbag para saiya.
+009	Iginagarantiya ko an sakong buhay;
+009	ako an masimbag para saiya.
 009	Kun dai ko siya ikabalik saimo na buhay, ako an basolon mo sagkod pa man.
 010	Duwang balik na kuta an naginibo mi kun dai kita nagparaatraso.
 011	Nagsabi si Jacob sainda, Kun siring an dapat na mangyari, giboha nindo ini: magdara kamo kan pinakamarahay na mga bunga kan daga bilang regalo sa gobernador: dikit na balsamo, dikit na dugos, mga pahamot asin mira, rekado saka almendras.
@@ -19,7 +20,8 @@ verse	content
 013	Ipag-iba nindo si Benjamin na saindong tugang asin magpuli tolos kamo.
 014	Gibohon logod kan Makakamhan na Dios na maherak saindo an lalaki tanganing ibalik niya saindo si Benjamin asin an saro pa nindong tugang.
 014	Kun mawawara an sakong mga aki, dai akong magiginibo.
-015	Kaya dinara kan magturugang an mga regalo asin an dobleng kantidad nin kwarta; nagduman sinda sa Egipto kaiba si Benjamin.
+015	Kaya dinara kan magturugang an mga regalo asin an dobleng kantidad nin kwarta;
+015	nagduman sinda sa Egipto kaiba si Benjamin.
 015	Duman nag-atubang sinda ki Jose.
 016	Kan mahiling ni Jose si Benjamin na kaibahan ninda, sinabihan niya an oripon na namamahala kan saiyang harong, Ipag-iba mo an mga lalaking ini sa sakong harong.
 016	Kaiba ko sindang makakan ngunyan na odto, kaya magbuno ka nin hayop asin andamon mo.
@@ -32,11 +34,13 @@ verse	content
 021	Dinara mi giraray an kwarta tanganing ikaoli,
 022	saka nagdara pa kami nin ibang kwarta tanganing ibakal nin pagkakan.
 022	Dai mi aram kun siisay an nagbugtak kan kwarta sa samong sako.
-023	Nagsimbag an sorogoon, Dai kamo mahandal; dai kamo matakot.
+023	Nagsimbag an sorogoon, Dai kamo mahandal;
+023	dai kamo matakot.
 023	An saindong Dios, an Dios kan saindong ama, iyo an nagbugtak kan kwarta sa saindong mga sako para saindo.
 023	Naresibi ko an saindong kabayadan.
 023	Dangan pinaluwas kan sorogoon si Simeon asin dinara sa sainda.
-024	Pinadagos kan sorogoon an magturugang sa harong ni Jose; tinawan niya sinda nin tubig tanganing maghanaw kan saindang bitis, dangan pinakakan an saindang mga asno.
+024	Pinadagos kan sorogoon an magturugang sa harong ni Jose;
+024	tinawan niya sinda nin tubig tanganing maghanaw kan saindang bitis, dangan pinakakan an saindang mga asno.
 025	Inandam kan magturugang an mga regalo na itatao ninda ki Jose pag-abot niya sa odto, huli ta nasabihan sindang kaiba niya sinda sa pagkakan.
 026	Pag-abot ni Jose sa harong, itinao ninda saiya an mga regalo asin nagdarapa sinda sa atubang niya sa paggalang.
 027	Kinomusta ni Jose an magturugang dangan hinapot, Sinabi nindong gurang na an saindong ama, komusta siya?

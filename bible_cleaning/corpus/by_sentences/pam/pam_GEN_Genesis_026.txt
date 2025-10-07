@@ -1,11 +1,13 @@
 verse	content
-001	Mika maragul a danup king lugal a ita; makayaliwa ya iti king minunang danup a milyari king panaun nang Abraham.
+001	Mika maragul a danup king lugal a ita;
+001	makayaliwa ya iti king minunang danup a milyari king panaun nang Abraham.
 001	Minta ya Gerar i Isaac kang Abimelek a ari da ring Filisteo.
 002	Pepakit ya ing Ginu kang Isaac at ngana, Isaac, e ka pupunta Ehipto nune manatili ka king lugal a ituru ku keka.
 003	Manatili ka king lugal a ita.
 003	Antabayanan da ka at bendisyunan da ka.
 003	Ibie ku keka at karing maging lahi mu ing kabilugan a gabun at tuparan ke ing pangaku ku kang tata mung i Abraham.
-004	Parakalan ku la ding lahi mu; maging kasing dakal da la ding batuin king banua at ibie ku ngan karela ing gabun a iti.
+004	Parakalan ku la ding lahi mu;
+004	maging kasing dakal da la ding batuin king banua at ibie ku ngan karela ing gabun a iti.
 004	Aduan da ring bansa ing bendisyunan ku la nung makananu ku lang binendisyunan ding lahi mu.
 005	Uling pekiramdaman na kung Abraham at pemintuan na ing parapat ku: ding kautusan ku at ding batas ku, bendisyunan da ka.
 006	Inya menuknangan ya i Isaac king Gerar.
@@ -22,7 +24,8 @@ verse	content
 012	Kanita belan na lang Abimelek ding taung sasakupan na.
 012	Ngana, Paten ya ing ninumang tagkil kaniting lalaki at king asawa na!
 013	Menasik ya karin i Isaac ketang banuang ita at dinalan a besis ing pupul na uling binendisyunan ne ning Ginu .
-014	At meging tau yang ating sasabian; mesalese neng mesalese bili angga king lubus yang merakal a pibandian.
+014	At meging tau yang ating sasabian;
+014	mesalese neng mesalese bili angga king lubus yang merakal a pibandian.
 015	Merakal ya sese tupa, baka, at animal a pagobra angga king keririan de ring Filisteo.
 016	Inya penambunan da la ngan ding talaga a kilkul da ring ipus nang tata nang i Abraham inyang mabie ya pa.
 017	Nganang Abimelek kang Isaac, Mako na ka keti at lumaut kekami uling meging mas masikan ka kesa kekami.
@@ -43,12 +46,14 @@ verse	content
 025	Pepakit ya kang Isaac ing Ginu ketang benging ita.
 025	Ngana,
 026	Aku ing Dios nang Abraham a tata mu;
-027	e ka mitatakutan; kayabe mu ku.
+027	e ka mitatakutan;
+027	kayabe mu ku.
 028	Bendisyunan da ka at kaku lang parakalan
 029	ding lahi mu uli nang Abraham a kakung talasuyu.
 030	Ginawa yang altar karin i Isaac at minaus ya king lagyu na ning Ginu king pamanalangin na.
 030	Mitalakad ya namang tolda karin at kinulkul lang talaga ding ipus na.
-031	Pigsarian neng Abimelek i Isaac; ibat ya Gerar at kayabe ne i Ahusat a talausuk na at i Pikol a pamuntuk da ring sundalus na.
+031	Pigsarian neng Abimelek i Isaac;
+031	ibat ya Gerar at kayabe ne i Ahusat a talausuk na at i Pikol a pamuntuk da ring sundalus na.
 032	Nganang Isaac karela, Obat daralawan yu ku?
 032	E wari ing kasaman yu ku at tinabi keta kekayu?
 033	Ngarang mekibat, Masala ming akakit king antabayanan na ka ning Ginu at apisabi ming makikasundu ke keka.
@@ -56,7 +61,8 @@ verse	content
 034	ala kang gagawan nanumang e mayap kekami, at e da ka naman daptanan e mayap.
 034	Parati da na ka mang pepakitanan ganaka at peintulutan da kang meko payapa.
 034	Ngeni malino king binendisyunan na ka ning Ginu !
-035	Pigtau na lang Isaac; mengan la at minum.
+035	Pigtau na lang Isaac;
+035	mengan la at minum.
 036	Tutuking aldo maranun lang migising at misumpanan.
 036	Kaybat memun la kang Isaac, at mikawakawani la bilang mikakaluguran.
 037	Keta mu ring aldong ita dinatang la ring ipus nang Isaac, at masanting la daralan a balita tungkul ketang talagang kilkulan da.

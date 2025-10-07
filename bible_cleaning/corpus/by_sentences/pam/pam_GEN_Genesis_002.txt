@@ -9,11 +9,16 @@ verse	content
 008	Inubug ne ning Ginung Dios ing tau ibat king alikabuk at pengisnawanan ne arung king pangisnawa ning bie, at mika bie ya ing tau.
 009	Kanita mibili yang metung a mulahan ing Ginung Dios karin king Eden, king aslagan, at binili ne karin ing taung inubug na.
 010	Pepatubuan na la ning Ginung Dios king gabun ding miyayaliwang tanaman a makayamang lalawan at maniaman kakanan at ing tanaman ning bie a atyu libutad na ning mulahan, at ing tanaman ning beluan tungkul king mayap at e mayap.
-011	Ating metung a ilug king Eden a paranum king mulahan; ibat karin meging apat yang sanga ing ilug.
-012	Pison ing lagyu na ning mumuna; mamagus ya king mabilug nang gabun ning Havila nung nu ating gintu.
-013	Tutung masanting ing gintu ning lugal a ita; atin munamang bedelio at mal a batung onyx karin.
-014	Gihon ing lagyu na ning kaduang ilug; mamagus ya king gabun ning Cus.
-015	Tigris ing lagyu na ning katlu; mamagus ya banda nang aslagan ning Asiria.
+011	Ating metung a ilug king Eden a paranum king mulahan;
+011	ibat karin meging apat yang sanga ing ilug.
+012	Pison ing lagyu na ning mumuna;
+012	mamagus ya king mabilug nang gabun ning Havila nung nu ating gintu.
+013	Tutung masanting ing gintu ning lugal a ita;
+013	atin munamang bedelio at mal a batung onyx karin.
+014	Gihon ing lagyu na ning kaduang ilug;
+014	mamagus ya king gabun ning Cus.
+015	Tigris ing lagyu na ning katlu;
+015	mamagus ya banda nang aslagan ning Asiria.
 015	At ing kapat a ilug ya ing Eufrates.
 016	Binili ne karin ning Ginung Dios ing tau at pepatuknangan ne king mula na ning Eden ban gambulan ne at ingatan.
 017	Nganang minutus ning Ginung Dios king tau, Malyari kang mangan king isanu pa mang tanaman king mulahan,
@@ -25,7 +30,8 @@ verse	content
 020	Inya ibat king gabun ing Ginung Dios miyubug yang miyayaliwang animal at miyayaliwang ayup.
 020	Dela na la king lalaki ban lawan na nung nanung iyaus na kareti.
 020	Ing lagyung binie na king balang metung kareti ya ing meging lagyu na.
-021	Dininan na lang lagyu ning lalaki ding heganaganang animal at ding ayup; oneng metung man kareti alang meging karapatdapat maging akayabe na.
+021	Dininan na lang lagyu ning lalaki ding heganaganang animal at ding ayup;
+021	oneng metung man kareti alang meging karapatdapat maging akayabe na.
 022	Inya pepatudturan neng maniaman ning Ginung Dios ing lalaki, at kabang matudtud ya kinua ne ing metung karing tagyang na at sera ne laman ing lugal a pibatan na.
 023	Kanita gewa neng babai ning Ginung Dios ing tagyang a kinua na king lalaki.
 023	Dela ne king lalaki at

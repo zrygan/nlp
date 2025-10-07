@@ -17,7 +17,8 @@ verse	content
 013	Sin-o ang nagpamaan kaninyo nga makapalagyo kamo sa silot kang Dios nga magaabot?
 014	Kon matuod nga naghinulsul kamo sa inyo mga sala, maghimo kamo kang mga butang nga makapamatuod nga naghinulsul kamo, kag indi kamo magkuon sa inyo kaugalingun nga mga linahi kamo ni Abraham.
 014	Tungud hay sugidan ko kamo, sarang himoon kang Dios ang mga bato nga dya nga mangin linahi ni Abraham.
-015	Bisan gani kadya ang wasay nahanda run nga itapas sa kahoy; ang kada kahoy nga wara nagapamunga kang mayad pagatapsun kag itablug sa kalayo.
+015	Bisan gani kadya ang wasay nahanda run nga itapas sa kahoy;
+015	ang kada kahoy nga wara nagapamunga kang mayad pagatapsun kag itablug sa kalayo.
 016	Nagpamangkot ang mga tawo kana, Ti, ano bay ang amun himoon?
 017	Nagsabat tana, Kon sin-o kaninyo ang may darwa ka panid nga bayo, kinahanglan itugro na ang isara sa tawo nga wara ti ginasuksok, kag kon sin-o man ang may pagkaun, paambitun na man ang iba.
 018	May mga manugsukot man kang buwis nga nag-agto kay Juan para magpabawtiso.
@@ -38,7 +39,8 @@ verse	content
 028	Pagkatapos nga mabawtisohan ang tanan nga mga tawo, si Jesus ginbawtisohan man.
 028	Samtang nagapangamuyo tana, nagbukas ang langit,
 029	kag nagkunsad kag nagtungtong kana ang Balaan nga Ispirito sa dagway kang pating.
-029	Kag may limug nga naghalin sa langit nga nagakuon, Ikaw ang akun hinigugma nga Anak; nahamuut gid ako kanimo.
+029	Kag may limug nga naghalin sa langit nga nagakuon, Ikaw ang akun hinigugma nga Anak;
+029	nahamuut gid ako kanimo.
 030	Nagapang-edadun si Jesus kang mga katloan ka tuig kag mag-umpisa tana kang anang buruhatun.
 030	Ang pagkamaan kang mga tawo bata tana ni Jose nga bata ni Eli.
 031	Si Eli bata ni Matat, si Matat bata ni Levi, si Levi bata ni Melqui, si Melqui bata ni Janai, si Janai bata ni Jose,

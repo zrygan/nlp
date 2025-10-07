@@ -14,11 +14,13 @@ verse	content
 009	Ika, Kagurangnan , an nagtaram sako na magpuli sa sakong daga saka sa sakong mga kadugo, asin papakarahayon mo an gabos para sa sako.
 010	Bako akong maninigo kan danay mong pagkamoot asin kan pagkamaimbod na ipinahiling mo sako, na saimong oripon.
 010	Binalyo ko an Jordan na sugkod sana an dara alagad ngunyan nagbalik ako na may kaiba nang duwang grupo.
-011	Nakikimaherak ako na iligtas mo ako sa tugang kong si Esau, huli ta natatakot ako saiya; tibaad salakayon asin gadanon niya kami gabos sagkod an kababaehan saka kaakian.
+011	Nakikimaherak ako na iligtas mo ako sa tugang kong si Esau, huli ta natatakot ako saiya;
+011	tibaad salakayon asin gadanon niya kami gabos sagkod an kababaehan saka kaakian.
 012	Giromdoma an saimong panuga na papakarahayon mo an gabos para sako asin na tatawan mo ako nin dakul na mga kapagarakian na dai mabilang arog kan baybay sa dagat.
 013	Duman sa lugar na idto naagahan si Jacob.
 013	Dangan, sa mga hayop niya, nagpili siya nin panregalo sa tugang niyang si Esau: dos syentos na babaeng kanding saka beynteng lalaking kanding, dos syentos na babaeng karnero dangan beynteng lalaking karnero, treyntang mag-inang kamelyo, kwarentang babaeng baka asin sampolong lalaking baka, beynteng babaeng asno saka sampolong lalaking asno.
-014	Sinuhay niya ini gabos, pinaggrupo-grupo dangan ipinadara sa saiyang mga oripon; sarong oripon sa lambang grupo.
+014	Sinuhay niya ini gabos, pinaggrupo-grupo dangan ipinadara sa saiyang mga oripon;
+014	sarong oripon sa lambang grupo.
 014	Sinabihan niya sinda, Mag-enot na kamo sako asin bugtakan nindo nin distansya an lambang grupo nin hayop.
 015	Tinogon niya an enot na oripon, Sa oras na masabatan ka kan tugang kong si Esau asin hapoton ka, Siisay an saimong kagurangnan?
 015	Masaen ka?
@@ -44,6 +46,8 @@ verse	content
 030	Nagsabi si Jacob, Sabihan man sako an ngaran mo.
 031	Nagsimbag an lalaki, Tano ta gusto mong maaraman an sakong ngaran?
 031	Dangan benendisyonan niya si Jacob.
-032	Nagsabi si Jacob, Nahiling ko an lalawogon nin Dios alagad buhay pa ako; kaya an lugar nginaranan niyang Peniel.
-033	Nagsirang na an aldaw kan maghale si Jacob sa Peniel; pilay siyang naglakaw huli sa saiyang piad.
+032	Nagsabi si Jacob, Nahiling ko an lalawogon nin Dios alagad buhay pa ako;
+032	kaya an lugar nginaranan niyang Peniel.
+033	Nagsirang na an aldaw kan maghale si Jacob sa Peniel;
+033	pilay siyang naglakaw huli sa saiyang piad.
 034	Kaya sagkod ngunyan, dai kinakakan kan mga Israelita an laman na yaon sa piad kan hayop huli ta iyo iyan an parte na tinamaan kan suntokon si Jacob.

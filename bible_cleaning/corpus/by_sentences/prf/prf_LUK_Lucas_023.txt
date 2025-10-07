@@ -53,7 +53,8 @@ verse	content
 034	Sakay impaku di bi en duwwa a tolay a mgbabonu, essa ten dang ten kawanan, sakay essa bi ten dang ten kawiri.
 035	Kinagi ni Jesus, Ama, patawadn mu hidi gapu awan di tukoy i gagamitn diyen.
 036	Nagbunutan en sundalu hidi tnni matukuyan di ni hdya ten badu hidi ni Jesus en meangay ten balang essa dikodi.
-037	Ngtakng en tolay hidi haud a mggeleng; mentras a en pinunu hidi nen banuwan ay mgsasestiyn dikona.
+037	Ngtakng en tolay hidi haud a mggeleng;
+037	mentras a en pinunu hidi nen banuwan ay mgsasestiyn dikona.
 037	Kinagi di, Inligtas na en agum, nadid, ni talaga a siya en Cristo a pinili nen Diyos ay bakin awan na iligtas i sadili naen?
 038	Sinesti bi siya nen sundalu hidi.
 038	Ummadeni dikona en essa a sundalu sakay painomn na siya ti maapsot a alak.

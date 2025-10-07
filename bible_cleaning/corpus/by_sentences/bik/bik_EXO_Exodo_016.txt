@@ -9,8 +9,10 @@ verse	content
 004	Huli kaini maaaraman ko kun masunod sinda kan sakong mga togon o dai.
 005	Sa ikaanom na aldaw doble kan dati nindang kinukua sa aroaldaw an saindang titiponon asin aandamon.
 006	Kaya sinabihan ni Moises saka ni Aaron an mga Israelita, Ngunyan na banggi maaaraman nindo na an Kagurangnan an nagluwas saindo sa Egipto.
-007	Sa aga mahihiling nindo an kamurawayan nin Kagurangnan bilang kasimbagan niya sa saindong mga reklamo saiya; huli ta siisay man baya kami na pagreklamohan nindo?
-008	Dangan nagsabi pa si Moises, An Kagurangnan an matao saindo nin makakakan na karne pagkabanggi asin bastanteng tinapay pagkaaga, huli ta nadangog niya an pagreklamo nindo saiya; ta siisay man baya kami?
+007	Sa aga mahihiling nindo an kamurawayan nin Kagurangnan bilang kasimbagan niya sa saindong mga reklamo saiya;
+007	huli ta siisay man baya kami na pagreklamohan nindo?
+008	Dangan nagsabi pa si Moises, An Kagurangnan an matao saindo nin makakakan na karne pagkabanggi asin bastanteng tinapay pagkaaga, huli ta nadangog niya an pagreklamo nindo saiya;
+008	ta siisay man baya kami?
 008	Sa katotoohan, kun kamo nagrereklamo samo, sa Kagurangnan kamo nagrereklamo.
 009	Sinabihan ni Moises si Aaron, Sabihan mo an bilog na komunidad nin mga Israelita na magdigdi asin magtindog sa atubang nin Kagurangnan , huli ta nadangog niya an saindang mga reklamo.
 010	Kan nagtataram si Aaron sa komunidad nin mga Israelita, sinda gabos nagkiriling sa kalangtadan asin bigla nindang nahiling sa panganoron an kamurawayan nin Kagurangnan .
@@ -18,24 +20,29 @@ verse	content
 012	Nadangog ko an mga reklamo kan mga Israelita.
 012	Sabihan mo sinda na pagsolnop kan aldaw magkakaigwa sinda nin karne, asin pagkaaga tatawan ko sinda nin bastanteng tinapay.
 012	Dangan mamimidbid ninda na ako an Kagurangnan , iyo an saindang Dios.
-013	Pagkabanggi duminagsa an dakul na pugo dangan natahoban an kampo; asin pagkaaga, nahiling an mahibog na ambon sa palibot kan kampo.
+013	Pagkabanggi duminagsa an dakul na pugo dangan natahoban an kampo;
+013	asin pagkaaga, nahiling an mahibog na ambon sa palibot kan kampo.
 014	Kan mawara na an ambon, nahiling kan mga Israelita na an kalangtadan pano nin mahihimpis asin saradit na mga bagay na garo nagbilog na ambon sa daga.
 014	Dai ninda aram kun ano idto kaya naghinarapotan sinda, Ano daw ini?
 015	Nagsabi si Moises, Iyan an tinapay na itinao nin Kagurangnan na saindong kakakanon.
-016	Ipinagboot nin Kagurangnan na an lambang saro saindo kumua sosog sa pangangaipo niya asin kan saiyang pamilya; duwang litro an lambang saro.
+016	Ipinagboot nin Kagurangnan na an lambang saro saindo kumua sosog sa pangangaipo niya asin kan saiyang pamilya;
+016	duwang litro an lambang saro.
 017	Ginibo ini kan mga Israelita, may nagkuang dakul, may nagkuang dikit.
 018	Alagad kan takadon ninda ini, an nagkuang dakul dai nin nagsobra, asin an nagkuang dikit dai nin nagkulang.
 018	Tama sana nanggad sa saindang pangangaipo an saindang nakua.
 019	Sinabihan sinda ni Moises, Mayo nin magtada kaiyan para sa aga.
-020	Alagad an nagkapira sainda dai nagtubod ki Moises; nagtada sinda nin tinapay.
+020	Alagad an nagkapira sainda dai nagtubod ki Moises;
+020	nagtada sinda nin tinapay.
 020	Pagkaaga, inulod asin nagbata an saindang itinada.
 020	Naanggot sainda si Moises.
 021	Aga-aga, an lambang saro minakua sosog sa pangangaipo niya, asin an mga tinapay na natada sa daga, natutunaw kun mainit na an aldaw.
-022	Sa ikaanom na aldaw, doble an tinapay na saindang kinua; apat na litro para sa lambang saro.
+022	Sa ikaanom na aldaw, doble an tinapay na saindang kinua;
+022	apat na litro para sa lambang saro.
 022	Nagduman ki Moises an gabos na lider kan komunidad asin sinabi saiya an nangyari.
 023	Sinabihan sinda ni Moises, Ipinagboot nin Kagurangnan na lutoon na nindo ngunyan an gusto nindong lutoon.
 023	An pagkakan na matada isaray nindo para sa masunod na aldaw, huli ta an bilog na aldaw sa aga, aldaw nin pahingalo, sarong banal na Sabbath para sa Kagurangnan .
-024	Arog sa ipinagboot ni Moises sinaray ninda para sa masunod na aldaw an mga natada; dai ini nagbata o inulod.
+024	Arog sa ipinagboot ni Moises sinaray ninda para sa masunod na aldaw an mga natada;
+024	dai ini nagbata o inulod.
 025	Nagsabi si Moises, Kakanon nindo iyan ngunyan, huli ta ngunyan iyo an Sabbath, an aldaw nin pahingalo para sa Kagurangnan asin mayo kamong makukuang pagkakan sa luwas.
 026	Anom na aldaw kamong makua nin pagkakan, alagad sa ikapitong aldaw, an aldaw nin pahingalo, mayo kamong makukua.
 027	Sa ikapitong aldaw, may mga tawong nagluwas tanganing magkua nin pagkakan alagad mayo sindang nakua.

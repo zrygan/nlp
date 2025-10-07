@@ -19,10 +19,12 @@ verse	content
 012	At ang lupa ay sinibulan ng halaman, ng mga tanim na nagkakabinhi ayon sa kanyang sariling uri at ng punungkahoy na namumunga ayon sa kanyang binhi, bawat isa ayon sa kanyang uri.
 012	At nakita ng Diyos na ito ay mabuti.
 013	Nagkaroon ng gabi at nagkaroon ng umaga nang ikatlong araw.
-014	Sinabi ng Diyos, Magkaroon ng mga tanglaw sa kalawakan ng langit upang ihiwalay ang araw sa gabi; at ang mga ito ay maging palatandaan para sa mga panahon, sa mga araw, at sa mga taon,
+014	Sinabi ng Diyos, Magkaroon ng mga tanglaw sa kalawakan ng langit upang ihiwalay ang araw sa gabi;
+014	at ang mga ito ay maging palatandaan para sa mga panahon, sa mga araw, at sa mga taon,
 015	at ang mga ito ay maging tanglaw sa kalawakan ng langit upang tumanglaw sa ibabaw ng lupa.
 015	At ito ay nangyari.
-016	Nilikha ng Diyos ang dalawang malalaking tanglaw; ang malaking tanglaw ay upang maghari sa araw at ang maliit na tanglaw ay upang maghari sa gabi.
+016	Nilikha ng Diyos ang dalawang malalaking tanglaw;
+016	ang malaking tanglaw ay upang maghari sa araw at ang maliit na tanglaw ay upang maghari sa gabi.
 016	Nilikha rin niya ang mga bituin.
 017	Ang mga ito ang inilagay ng Diyos sa kalawakan ng langit upang tumanglaw sa ibabaw ng lupa,
 018	upang mamahala sa araw at sa gabi, at upang ihiwalay ang liwanag sa kadiliman.
@@ -37,12 +39,14 @@ verse	content
 024	At ito ay nangyari.
 025	Nilikha ng Diyos ang maiilap na hayop sa lupa ayon sa kani-kanilang uri, at maaamong hayop ayon sa kani-kanilang uri, at ang bawat gumagapang sa ibabaw ng lupa ayon sa kanilang uri.
 025	At nakita ng Diyos na ito ay mabuti.
-026	Sinabi ng Diyos, Lalangin natin ang tao sa ating larawan, ayon sa ating wangis; at magkaroon sila ng pamamahala sa mga isda sa dagat, sa mga ibon sa himpapawid, sa mga hayop, sa buong lupa, at sa bawat gumagapang sa ibabaw ng lupa.
+026	Sinabi ng Diyos, Lalangin natin ang tao sa ating larawan, ayon sa ating wangis;
+026	at magkaroon sila ng pamamahala sa mga isda sa dagat, sa mga ibon sa himpapawid, sa mga hayop, sa buong lupa, at sa bawat gumagapang sa ibabaw ng lupa.
 027	Kaya't nilalang ng Diyos ang tao ayon sa kanyang sariling larawan, ayon sa larawan ng Diyos siya nilalang.
 027	Sila'y kanyang nilalang na lalaki at babae.
 028	Sila'y binasbasan ng Diyos at sa kanila'y sinabi ng Diyos, Kayo'y magkaroon ng mga anak at magpakarami, punuin ninyo ang lupa at supilin ninyo ito.
 028	Magkaroon kayo ng pamamahala sa mga isda sa dagat, sa mga ibon sa himpapawid, at sa bawat bagay na may buhay na gumagalaw sa ibabaw ng lupa.
-029	Sinabi ng Diyos, Tingnan ninyo, ibinigay ko sa inyo ang bawat halaman na nagkakabinhi na nasa ibabaw ng lupa, at ang bawat punungkahoy na may binhi sa loob ng bunga; ang mga ito ay magiging pagkain ninyo.
+029	Sinabi ng Diyos, Tingnan ninyo, ibinigay ko sa inyo ang bawat halaman na nagkakabinhi na nasa ibabaw ng lupa, at ang bawat punungkahoy na may binhi sa loob ng bunga;
+029	ang mga ito ay magiging pagkain ninyo.
 030	Sa bawat mailap na hayop sa lupa, at sa bawat ibon sa himpapawid, at sa bawat gumagapang sa ibabaw ng lupa, sa bawat bagay na may hininga ng buhay ay ibinigay ko ang lahat ng halamang luntian bilang pagkain.
 030	At ito ay nangyari.
 031	Nakita ng Diyos ang lahat ng kanyang nilikha at ito ay napakabuti.

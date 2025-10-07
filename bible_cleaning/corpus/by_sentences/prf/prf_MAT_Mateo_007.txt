@@ -7,8 +7,12 @@ verse	content
 005	Ibutan mu pa i gaturosuwen a puleng mu tnni luminaw pangileng muwen sakay makatulung ka a mangibut ten puleng nen kapatkaka mu.
 006	Dyan moy iyatd ten asu hidi en banal a bagay, bakay kttapos ay waringn di kam sakay kagatn.
 006	Dyan moy iyatd ten babuy en perlas moy hidi gapu pagyudakan di la iyn.
-007	Ni magagid kam ay atddan kam; ni magaryok kam ay maketa kam; ni tumoktok kam ay mabukasan kam.
-008	Gapu en atanan a magagid ay tdenan; en atanan a magaryok ay maketa; sakay atanan a tumoktok ay mabukasan.
+007	Ni magagid kam ay atddan kam;
+007	ni magaryok kam ay maketa kam;
+007	ni tumoktok kam ay mabukasan kam.
+008	Gapu en atanan a magagid ay tdenan;
+008	en atanan a magaryok ay maketa;
+008	sakay atanan a tumoktok ay mabukasan.
 009	Atddan moy beman ti batu en anak moy ni magagid ti tinapay?
 010	Oni atddan moy beman siya ti biklat ni magagid ti ikan?
 011	Ni sikam a makasalanan hidi ay tukoy moy a mangatd ti mgkaganda hidi a bagay ten anak moy hidi, ay mas lalu dn en Ama moy a ked dilanget.

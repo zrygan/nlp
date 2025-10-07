@@ -18,7 +18,8 @@ verse	content
 011	Y otra vez ya hace sila igual maltrato con ele, y aquellos maga trabajador ya manda con ele volve y nuay tamen lleva nada.
 012	De manera por tercera vez ya manda el dueo otro ayudante, y con este ya hace sila iri y icha afuera del plantacion.
 013	Despues el dueo ya habla, Ahora, cosa man gaja yo ay hace?
-013	Mas bueno manda gale yo con el di mio hijo con quien ta ama gayot yo; basi pa ay respeta sila con ele.
+013	Mas bueno manda gale yo con el di mio hijo con quien ta ama gayot yo;
+013	basi pa ay respeta sila con ele.
 014	Pero cuando ya mira con ele el encargao y el di suyo maga trabajador, ya habla entre sila mismo, O, mira!
 014	Taqui ya el heredero!
 014	Mata kita con ese para este propiedad ay queda ya di aton!

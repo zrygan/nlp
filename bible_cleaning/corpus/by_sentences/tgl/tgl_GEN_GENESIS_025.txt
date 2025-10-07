@@ -10,21 +10,28 @@ verse	content
 006	Habang nabubuhay pa siya ay inilayo niya ang mga ito kay Isaac na kanyang anak.
 006	Kanyang pinapunta sila sa lupaing silangan.
 007	At ito ang haba ng buhay ni Abraham, isandaan at pitumpu't limang taon.
-008	Nalagot ang hininga ni Abraham at namatay sa mabuting katandaan, matanda at puspos ng mga taon; at naging kasama ng kanyang bayan.
+008	Nalagot ang hininga ni Abraham at namatay sa mabuting katandaan, matanda at puspos ng mga taon;
+008	at naging kasama ng kanyang bayan.
 009	Inilibing siya ng kanyang mga anak na sina Isaac at Ismael sa yungib ng Macpela, sa parang ni Efron na anak ni Zohar na Heteo, na nasa tapat ng Mamre,
 010	sa parang na binili ni Abraham sa mga anak ni Het.
 010	Doon inilibing si Abraham at si Sara na kanyang asawa.
-011	Pagkamatay ni Abraham, pinagpala ng Diyos si Isaac na kanyang anak; at si Isaac ay nanirahan sa may Beer-lahai-roi.
+011	Pagkamatay ni Abraham, pinagpala ng Diyos si Isaac na kanyang anak;
+011	at si Isaac ay nanirahan sa may Beer-lahai-roi.
 012	Ang mga ito ang salinlahi ni Ismael, na anak ni Abraham, na naging anak kay Abraham ni Hagar na taga-Ehipto, na alila ni Sara.
 013	Ito ang mga pangalan ng mga anak ni Ismael, ayon sa pagkakasunud-sunod ng kanilang kapanganakan: ang panganay ni Ismael ay si Nebayot, pagkatapos ay sina Kedar, Adbeel, Mibsam,
 014	Misma, Duma, Massa,
 015	Hadad, Tema, Jetur, Nafis, at si Kedema.
-016	Ito ang mga anak ni Ismael, at ito ang kanya-kanyang pangalan, ayon sa kanya-kanyang nayon, at ayon sa kanya-kanyang kampo; labindalawang pinuno ayon sa kanilang bansa.
-017	At ito ang haba ng buhay ni Ismael, isandaan at tatlumpu't pitong taon; at nalagot ang hininga at namatay; at siya'y naging kasama ng kanyang bayan.
-018	Nanirahan sila mula sa Havila hanggang sa Shur, na tapat ng Ehipto, kapag patungo sa Asiria; siya'y nanirahang kasama ng lahat niyang mga kababayan.
+016	Ito ang mga anak ni Ismael, at ito ang kanya-kanyang pangalan, ayon sa kanya-kanyang nayon, at ayon sa kanya-kanyang kampo;
+016	labindalawang pinuno ayon sa kanilang bansa.
+017	At ito ang haba ng buhay ni Ismael, isandaan at tatlumpu't pitong taon;
+017	at nalagot ang hininga at namatay;
+017	at siya'y naging kasama ng kanyang bayan.
+018	Nanirahan sila mula sa Havila hanggang sa Shur, na tapat ng Ehipto, kapag patungo sa Asiria;
+018	siya'y nanirahang kasama ng lahat niyang mga kababayan.
 019	Ito ang mga salinlahi ni Isaac, na anak ni Abraham: naging anak ni Abraham si Isaac,
 020	at si Isaac ay apatnapung taon nang siya'y mag-asawa kay Rebecca, na anak ni Betuel na Arameo sa Padan-aram, kapatid na babae ni Laban na Arameo.
-021	Nanalangin si Isaac sa Panginoon para sa kanyang asawa, sapagkat siya'y baog; at dininig ng Panginoon ang kanyang panalangin at si Rebecca na kanyang asawa ay naglihi.
+021	Nanalangin si Isaac sa Panginoon para sa kanyang asawa, sapagkat siya'y baog;
+021	at dininig ng Panginoon ang kanyang panalangin at si Rebecca na kanyang asawa ay naglihi.
 022	Ang mga bata sa loob niya ay naglaban at kanyang sinabi, Kung ito ay tama, bakit ako mabubuhay?
 022	Kaya't siya'y humayo upang magtanong sa Panginoon .
 023	Sinabi sa kanya ng Panginoon ,
@@ -33,10 +40,13 @@ verse	content
 026	ang isa ay magiging higit na malakas kaysa isa,
 027	at ang nakatatanda ay maglilingkod sa nakababata.
 028	Nang dumating ang panahon ng kanyang panganganak, kambal ang nasa kanyang bahay-bata.
-029	Ang unang lumabas ay mapula na ang buong katawa'y parang mabalahibong damit; kaya't siya'y pinangalanang ng Esau.
-030	Pagkatapos ay lumabas ang kanyang kapatid, at ang kanyang kamay ay nakakapit sa sakong ni Esau; kaya't ang ipinangalan sa kanya ay Jacob.
+029	Ang unang lumabas ay mapula na ang buong katawa'y parang mabalahibong damit;
+029	kaya't siya'y pinangalanang ng Esau.
+030	Pagkatapos ay lumabas ang kanyang kapatid, at ang kanyang kamay ay nakakapit sa sakong ni Esau;
+030	kaya't ang ipinangalan sa kanya ay Jacob.
 030	Si Isaac ay may animnapung taon na nang sila'y ipanganak ni Rebecca.
-031	Nang lumaki ang mga bata, si Esau ay naging sanay sa pangangaso, isang lalaki sa parang; samantalang si Jacob ay lalaking tahimik, na naninirahan sa mga tolda.
+031	Nang lumaki ang mga bata, si Esau ay naging sanay sa pangangaso, isang lalaki sa parang;
+031	samantalang si Jacob ay lalaking tahimik, na naninirahan sa mga tolda.
 032	Minahal ni Isaac si Esau, sapagkat siya'y kumakain ng mula sa kanyang pangangaso, at minahal naman ni Rebecca si Jacob.
 033	Minsan, nagluto si Jacob ng nilaga.
 033	Dumating si Esau mula sa parang at siya'y gutom na gutom.

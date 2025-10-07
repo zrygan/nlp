@@ -40,10 +40,12 @@ verse	content
 031	Ginpalabi ni Isaac hi Esau, kay nalipay hiya hin pagkaon han mga pinanganopan nga gin-ihaw niya, kundi ginpalabi ni Rebecca hi Jacob.
 032	Usa ka adlaw samtang naglalaga hi Jacob hin monggos, inmabot hi Esau tikang hin pagpanganop.
 032	Ginugutom hiya,
-033	ngan nagsiring hiya kan Jacob, Ginugutom ako; tagi ako hito nga mapula nga linaga.
+033	ngan nagsiring hiya kan Jacob, Ginugutom ako;
+033	tagi ako hito nga mapula nga linaga.
 033	Amo ito nga ginngaranan hiya nga Edom.
 034	Binmaton hi Jacob, Ighahatag ko ini ha imo kon ighatag mo ha akon an imo mga katungod hin pagkasuhag nga anak.
-035	Nagsiring hi Esau, Sigi, mapatay na ako hin gutom; ano nga kaupayan an mahihimo ha akon han akon mga katungod?
+035	Nagsiring hi Esau, Sigi, mapatay na ako hin gutom;
+035	ano nga kaupayan an mahihimo ha akon han akon mga katungod?
 036	Binmaton hi Jacob, Pagsumpa anay nga ighahatag mo ha akon an imo mga katungod.
 037	Nagsumpa hi Esau ngan iginhatag niya kan Jacob an iya mga katungod.
 038	Niyan gintagan hiya ni Jacob hin pira nga tinapay ngan han linaga nga monggos.

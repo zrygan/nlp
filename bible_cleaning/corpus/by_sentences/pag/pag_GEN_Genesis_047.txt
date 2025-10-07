@@ -23,10 +23,12 @@ verse	content
 016	Nen naoput lad Egipto tan Canaan so kuarta, linmad kinen Jose ray taga Egipto tan inkuanda, Itdan mo kamiy nakan!
 016	Ag mo kami papaolyan ya ompatey.
 016	Anggapo lay kuarta mi.
-017	Inmebat si Jose, Awit yo ra diay ayayep yo; sikara lay ibayar yod tagano ya iter kod sikayo, no anggapo lay kuarta yo.
+017	Inmebat si Jose, Awit yo ra diay ayayep yo;
+017	sikara lay ibayar yod tagano ya iter kod sikayo, no anggapo lay kuarta yo.
 018	Kanyan inawit dad kinen Jose iray ayayep dan kabayo, karniro, kanding, baka, tan asno.
 018	Diad saman a taon, initdan to ray nakan a salat na saray ayayep da.
-019	Nen ontombuk a taon linma rad sikato tan inkuanda, Ag mi iyamut ed sika ya anggapo lay kuarta mi; pati saray ayayep mi et kayaryan mo la ra.
+019	Nen ontombuk a taon linma rad sikato tan inkuanda, Ag mi iyamut ed sika ya anggapo lay kuarta mi;
+019	pati saray ayayep mi et kayaryan mo la ra.
 019	Anggapo lay nakdaan ya iter mid sika likud ed saray laman mi tan saray dalin mi.
 020	Ag mo kami papaolyan ya ompatey.
 020	Gawam so manepeg a polaing!
@@ -44,14 +46,17 @@ verse	content
 024	Niay trigo ya itanem yod kaalogan yo.
 025	No panagani, iter yoy kakalima ed ari.
 025	Say kera ikana yon bini tan tagano yo tan tagano na saray pamilya yo.
-026	Inmebat ira, Sinambot moy bilay mi tan maung kad sikami; paaripen kami lad ari.
+026	Inmebat ira, Sinambot moy bilay mi tan maung kad sikami;
+026	paaripen kami lad ari.
 027	Kanyan impaakseb nen Jose so sakey a ganggan ed Egipto a kayaryan na ari so kakalima na ani.
 027	Wala ni yan ganggan ya anggad natan.
 027	Saray dalin labat na papari so ag kayaryan na ari.
-028	Nanayam ed Egipto ira may Israelita, diad Gosen; minmayaman ira tan dinmakerakel ira.
+028	Nanayam ed Egipto ira may Israelita, diad Gosen;
+028	minmayaman ira tan dinmakerakel ira.
 029	Nanayam ed Egipto si Jacob na labimpitoy taon, anggad mantaon na sanlasus tan apataplo tan pito.
 030	Nen asingger lan ompatey, impatawag toy anak ton Jose tan inkuantod sikato, Iyan moy limam ed nanleetan na saray ulpok tan isipan mo ya ag mo ak ipopompon ed Egipto.
-031	Labay koy nipompon ed kawalaan da ray atateng ko; ipaway mo ak ed Egipto tan ipompon mo ak ed angipomponan ed sikara.
+031	Labay koy nipompon ed kawalaan da ray atateng ko;
+031	ipaway mo ak ed Egipto tan ipompon mo ak ed angipomponan ed sikara.
 032	Inmebat si Jose, Gawaen koy imbaga yo.
 033	Inkuanen Jacob, Mansamba ka a gawaen mo.
 033	Nansamba si Jose, tan akisalamat si Jacob diad katri to.

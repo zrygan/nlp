@@ -1,8 +1,10 @@
 verse	content
 001	Metung man ala yang anak i Abram kang Sarai.
-001	Atin ne mang metung a babaing ipus i Sarai a tau Ehipto; Agar ing lagyu na.
+001	Atin ne mang metung a babaing ipus i Sarai a tau Ehipto;
+001	Agar ing lagyu na.
 002	Nganang Sarai kang Abram, E na ku papanganakan ning Ginu .
-002	Inya sipingnan me ing kanakung ipus; pota mikayanak ku king kapamilatan na.
+002	Inya sipingnan me ing kanakung ipus;
+002	pota mikayanak ku king kapamilatan na.
 003	Pekiramdaman nang Abram ing sinabi na.
 003	Apulu neng banuang manuknangan i Abram king sakup ning Canaan inyang dela neng Sarai ing ipus nang i Agar a tau Ehipto ban maging babaing kasese na.
 004	Sipingnan neng Abram i Agar at mebuktut ya.
@@ -14,7 +16,8 @@ verse	content
 006	Nganang Abram kang Sarai, Atyu ya lalam mung upaya ing kekang ipus.
 006	Gawan mu ing nanumang buri mung gawan kang Agar.
 006	Meging mabagsik ya i Sarai kang Agar angga king meko ya.
-007	Ikit ne ning anghel ning Ginu i Agar king lele ning metung a sibul king disyerto; atyu ing sibul king dalan papunta king Shur.
+007	Ikit ne ning anghel ning Ginu i Agar king lele ning metung a sibul king disyerto;
+007	atyu ing sibul king dalan papunta king Shur.
 008	Nganang kinutang, Agar, ipus nang Sarai, nukarin ka ibat at nukarin ka munta?
 009	Tatakas ku king panginuan kung i Sarai, nganang mekibat.
 010	Oneng sinabi na ning anghel ning Ginu , Agar, mibalik ka at pasakup at pagsilbian ing babaing panginuan mu.

@@ -7,10 +7,12 @@ verse	content
 006	Han pagkabuwas, ginbuhat han Ginoo sumala han iya iginsiring, ngan nagkamatay an ngatanan nga kamanampan han mga Ehiptohanon, kundi waray gud namatay han kanan mga Israelita.
 007	Nagpakiana an hadi kon ano an nahinabo, ngan ginsumatan hiya nga waray gud namatay han kamanampan han mga Israelita.
 007	Kundi matig-a la gihapon an iya kasingkasing ngan waray gud niya pagpalakta an mga tawo.
-008	Niyan nagsiring kanda Moises ug Aaron an Ginoo , Kuha hin pira ka harop nga agbon tikang hin abo; igpasabrag ini kan Moises ngadto ha kahanginan ha atubangan han hadi.
+008	Niyan nagsiring kanda Moises ug Aaron an Ginoo , Kuha hin pira ka harop nga agbon tikang hin abo;
+008	igpasabrag ini kan Moises ngadto ha kahanginan ha atubangan han hadi.
 009	Magsasarang ini sugad hin pino nga tapotapo ha bug-os nga tuna han Ehipto, ngan ha ngatanan nga dapit.
 009	Makakahimo ini hin mga hubag nga nabusod dida han mga tawo ngan han kamanampan.
-010	Sanglit kinmuha hira hin mga agbon ngan tinmindog hira ha atubangan han hadi; iginsabrag ini ni Moises ha kahanginan, ngan nakahimo hin mga hubag nga nabusod dida han mga tawo ngan han kamanampan.
+010	Sanglit kinmuha hira hin mga agbon ngan tinmindog hira ha atubangan han hadi;
+010	iginsabrag ini ni Moises ha kahanginan, ngan nakahimo hin mga hubag nga nabusod dida han mga tawo ngan han kamanampan.
 010	Pagbusod han mga hubag nahimo ini nga mga kapithok.
 011	Waray makaatubang kan Moises an mga salamangkero kay pinanhubagan hira, sugad na an iba nga mga Ehiptohanon.
 012	Kundi ginpatig-a han Ginoo an kasingkasing han hadi, ngan sumala han iya iginsiring, waray an hadi mamati kanda Moises ug Aaron.
@@ -32,9 +34,12 @@ verse	content
 025	Ha bug-os nga Ehipto ginpukan han mga bato nga yelo an ngatanan nga nakadto ha gawas, lakip an ngatanan nga mga tawo ngan kamanampan.
 025	Gindaot hini an ngatanan nga mga tanom ha kaumhan ngan ginpukan an ngatanan nga kakahoyan.
 026	An katunaan la han Gosen nga gin-ukyan han mga Israelita an waray urani han mga bato nga yelo.
-027	Ginpasugoan han hadi hira Moises ug Aaron ngan ginsiring, Nakasala ako hini nga takna; matadong an Ginoo , ngan sayop ako ngan an akon mga tawo.
-028	Pag-ampo han Ginoo ; uraura na ini nga dalugdog ngan mga bato nga yelo!
-028	Nagsasaad ako hin pagpalakat ha iyo; diri na kinahanglan nga maglangan pa kamo.
+027	Ginpasugoan han hadi hira Moises ug Aaron ngan ginsiring, Nakasala ako hini nga takna;
+027	matadong an Ginoo , ngan sayop ako ngan an akon mga tawo.
+028	Pag-ampo han Ginoo ;
+028	uraura na ini nga dalugdog ngan mga bato nga yelo!
+028	Nagsasaad ako hin pagpalakat ha iyo;
+028	diri na kinahanglan nga maglangan pa kamo.
 029	Nagsiring ha iya hi Moises, Ha paghigawas ko gud la han syudad, babayawon ko dayon an akon mga kamot ha pag-ampo ngadto han Ginoo .
 029	Maukoy an dalugdog ngan an mga bato nga yelo, basi mahibaro ka nga kanan Ginoo an tuna.
 030	Kundi maaram ako nga diri pa ikaw nahahadlok han Ginoo nga Dyos ngan an imo mga opisyal.

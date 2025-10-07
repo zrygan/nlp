@@ -51,7 +51,8 @@ verse	content
 027	pasibayu neng kitnan, Ika pin i Esau a anak ko?
 028	Opu, nganang mekibat Jacob.
 029	Kanita nganang Isaac, Apagan mu na ku, anak ko king linutu mu, ba na kung makapangan at kanita abendisyunan da na ka.
-029	Inapagan neng Jacob at mengan ya i Isaac; pigdala neng alak at minum ya.
+029	Inapagan neng Jacob at mengan ya i Isaac;
+029	pigdala neng alak at minum ya.
 030	Kanita nganang tata na, Pakalapit mu kanaku, anak ko at uman mu ku.
 031	Linapit ya at inuma ne i tata na, at abau nang Isaac ing imalan na at binendisyunan ne.
 031	Ngana,
@@ -67,7 +68,8 @@ verse	content
 041	at mibendisyunan la ring magbendisyun keka.
 042	Meko ya i Jacob kaybat nang mibendisyunan at itang paglako na ya naman ing panyatang nang Esau a ibat king pamangasu na.
 043	Miglutu ya namang maniaman a pamangan king arakap na at dela na kang tata na.
-043	Ngana, Tatang, mibangun na kayu at mangan king sidia ku; kaybat ibie ye kanaku ing bendisyun yu.
+043	Ngana, Tatang, mibangun na kayu at mangan king sidia ku;
+043	kaybat ibie ye kanaku ing bendisyun yu.
 044	Kitang nang Isaac a tata na, Ninu wari ika?
 045	Nganang mekibat, Aku pu i Esau, ing anak yung pangane.
 046	Ginalgal yang e mu nanu i Isaac at ngana, Nung makanyan ninu itang mengasu at migdala kanaku king arakap na at pengan ku?

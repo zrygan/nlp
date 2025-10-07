@@ -53,7 +53,8 @@ verse	content
 027	Pagkatapos adto, nagkadto si Hesus kag ang iya mga disipulo sa mga baryo nga sakop ng Cesarea Filipos.
 027	Mintras nagapanaw sinda, nagpangutana si Hesus sa iya mga disipulo, Sin-o kuno ako sun sa hambay ng mga tawo?
 028	Nagsabat sinda, May mga nagahambay nga ikaw si Juan nga Miyugbawtismo.
-028	Ang iban nagahambay nga ikaw si Elias; kag ang iban pa gid nagahambay nga ikaw hay isa sa mga propeta.
+028	Ang iban nagahambay nga ikaw si Elias;
+028	kag ang iban pa gid nagahambay nga ikaw hay isa sa mga propeta.
 029	Pagkatapos nagpangutana siya sa inda, Hay kamo, ano ang indo mahahambay, sin-o ako?
 030	Nagsabat si Pedro, Ikaw imaw ang Kristo!
 031	Nang mabatian ni Hesus ang sabat, gingpaandaman niya sinda nga ind gid magbalit aber kanin-o kung sin-o siya.

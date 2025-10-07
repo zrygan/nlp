@@ -31,13 +31,15 @@ verse	content
 020	Nagsiring ha ira hi Moises, Kinahanglan waray maghimos hin bisan ano hini para buwas.
 021	Kundi waray bumali kan Moises an iba ha ira, ngan nagsalin hira.
 021	Han pagkaaga, uloron ngan mabaho na ini, sanglit nasina ha ira hi Moises.
-022	Ikinaaga nangunguha an kada usa sugad la han iya kinahanglan; ngan kon mapaso na an adlaw, natunaw adton nahibibilin ha tuna.
+022	Ikinaaga nangunguha an kada usa sugad la han iya kinahanglan;
+022	ngan kon mapaso na an adlaw, natunaw adton nahibibilin ha tuna.
 023	Dida han ikaunom nga adlaw, nanguha hira hin doble nga pagkaon, tag-upat ka litro para han kada tawo.
 023	Nagkaabot an ngatanan nga mga pangulo han bungto, ngan ginsumatan nira hi Moises hiunong hini.
 024	Ngan nagsiring hiya ha ira, Nagsugo an Ginoo nga baraan nga adlaw hin pagpahuway buwas, ngan ighahalad ha iya ini nga adlaw.
 024	Lutoa yana nga adlaw an karuyag niyo paglutoon, ngan lagaa an karuyag niyo paglagaon.
 024	Kinahanglan isalin ngan himoson para buwas an bisan ano nga nahisalin.
-025	Sumala han iginsugo ni Moises, ginhimos nira ngada han pagkabuwas an nahisalin; waray ini pagbaho o pag-ulora.
+025	Sumala han iginsugo ni Moises, ginhimos nira ngada han pagkabuwas an nahisalin;
+025	waray ini pagbaho o pag-ulora.
 026	Nagsiring hi Moises, Kaona niyo ini yana nga adlaw, kay adlaw yana hin pagpahuway nga iginhalad ngadto han Ginoo , ngan diri kamo makakaagi hin pagkaon ha gawas han kampo.
 027	Kinahanglan manguha kamo hin pagkaon sulod hin unom ka adlaw, kundi waray pagkaon nga iyo hiaagian dida han ikapito nga adlaw, an adlaw hin pagpahuway.
 028	Dida han ikapito nga adlaw ginmawas in pipira han mga tawo basi manguha hin mga pagkaon, kundi waray hira makaagi.

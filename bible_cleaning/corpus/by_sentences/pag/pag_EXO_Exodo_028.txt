@@ -10,7 +10,8 @@ verse	content
 007	Manggawa ray duaran balabal na takeb a sikaray pangipeketan na duaran samput na ipod.
 008	Say balibaliy inkalagan balkes ya agawa met ed balituk, asul, purpura, tan ambalangan tinebey, pinon linen, tan abordaan et nepeg ya ipeket ed ipod pian mansaip ira.
 009	Mangala ka na duaran baton onisi tan itatak mod sikara so kangaranan na labinduan lalakin anak nen Jacob,
-010	manlapud sankatakkenan ya anggad sankalangweran; anemiran ngaran so itatak mod sakey a bato tan anemirad sananey.
+010	manlapud sankatakkenan ya anggad sankalangweran;
+010	anemiran ngaran so itatak mod sakey a bato tan anemirad sananey.
 011	Paitatak mod marunong a platiro diad duaran bato so kangaranan na saray lalakin anak nen Jacob, tan ipeket mo rad balituk a panangipatoonan.
 012	Ipeket mo ra ed saray balabal na takeb na ipod, ta sikaray pakanudnunotan ed saray boleg na Israel.
 012	Diad onya si Aaron sakbaten tod saray takeb to so kangaranan da, pian siak a Katawan et nanunotan ko lawas iray totook.
@@ -18,13 +19,16 @@ verse	content
 014	tan duaran kadina a puron balituk a singa nilobir a koldon, tan ipeket mo ra ed saray panangipatoonan.
 015	Manggawa ka na babalin apis na pagew na Pangulon Pari, ta ikana tod pangamta na linaway Dios.
 015	Ikanam iray singa saray inkanam ed impanggawam na ipod: balituk, asul, purpura, tan ambalangan tinebey, tan pinon linen.
-016	Nepeg a kuadrado tan dinobli; siamiran pulgada so karokey to tan siamiran pulgada so benlag to.
-017	Peketan mo na apatiran karasig na mabmablin bato; diad ononan dasig peketan mo na sakey a baton rubi, sakey a topasio, tan sakey a garniti;
+016	Nepeg a kuadrado tan dinobli;
+016	siamiran pulgada so karokey to tan siamiran pulgada so benlag to.
+017	Peketan mo na apatiran karasig na mabmablin bato;
+017	diad ononan dasig peketan mo na sakey a baton rubi, sakey a topasio, tan sakey a garniti;
 018	diad kumadwan dasig, peketan mo na sakey a baton ismiralda, sakey a sapiro, tan sakey a diamanti;
 019	diad kumatlon dasig, peketan mo na sakey a baton hasinto, sakey ya agata, tan sakey ya amatista;
 020	diad kumapat a dasig, peketan mo na sakey a baton birilo, sakey a kornalina, tan sakey a haspi.
 020	Ipeket mo ra ya ed panangipatoonan a balituk.
-021	Diad kapag sakey ed sarayan labinduan bato say sakey a ngaran na lakin anak nen Jacob et itatak; sikaray pakanudnunotan ed saray labinduan tribu na Israel.
+021	Diad kapag sakey ed sarayan labinduan bato say sakey a ngaran na lakin anak nen Jacob et itatak;
+021	sikaray pakanudnunotan ed saray labinduan tribu na Israel.
 022	Manggawa ka na saray puron balituk a kadina a para apis na pagew, a singa nilobir a koldon.
 023	Manggawa ka na duaran singsing a balituk tan ipeket mo ra ed saray tagey a suyok na apis na pagew,
 024	tan ipeket mo ray duaran balituk a koldon ed sayan duaran singsing.
@@ -44,10 +48,12 @@ verse	content
 035	Manggawa ka na arkos a puron balituk tan tatakan mo na Nisaklang ed Katawan .
 036	Isinger mo ya na asul a koldon diad arap na turban.
 037	Si Aaron et nepeg ya isolung to ya ed muling to, pian siak a Katawan et awaten koy amin a bagat ya isaklang ed siak na saray Israelita, anggaman a wala ray lingon nagawa na totoo diad pangisaklang da.
-038	Say antikey so taklay a kawes nen Aaron et gawam ed pinon linen tan gawam met ed pinon linen so turban; manggawa ka met na abordaan ya abel a balabal.
+038	Say antikey so taklay a kawes nen Aaron et gawam ed pinon linen tan gawam met ed pinon linen so turban;
+038	manggawa ka met na abordaan ya abel a balabal.
 039	Manggawa ka na saray kawes ya antikey so taklay, saray abel a balabal, tan saray sakub na toktok na olo para saray lalakin anak nen Aaron, pian napaalsay nengneng da tan say kagalangan da.
 040	Isolung mo ra yan kawes ed kinen agim ya Aaron tan saray anak ton lalaki.
 040	Insan mo ra ikonsagra tan isaklang diad panlanam ed sikara na larak na oliba, pian makapanlingkur iran papari ed siak.
-041	Igawaan mo ra na potut a pantalon a linen; say karokey to et manlapud balangbang ya anggad ulpo, pian ag nanengneng so laman da.
+041	Igawaan mo ra na potut a pantalon a linen;
+041	say karokey to et manlapud balangbang ya anggad ulpo, pian ag nanengneng so laman da.
 042	Si Aaron tan saray anak to et nepeg ya isolung da ra ya lawas no onloob ira ed Tuldan Ayamay Katawan odino no onasingger irad altar a manlingkur a papari diad Masanton Pasen, pian ag ira ompatey lapud pangipanengneng dad laman da.
 042	Sikato yay mansiansian tontonen a nepeg a sumpalen di Aaron tan saray kabyangay boleg to.

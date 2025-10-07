@@ -21,7 +21,8 @@ verse	content
 015	Pateyen da ak ed satan, balet bilayen da ka.
 016	Walay maung, ibagam ed sikaran agi ta ka, pian ag da ak pateyen, no ag ingen asikasoen da ak lapud sika.
 017	Nen akasabi rad Egipto, anengneng a tua na saray tagad man a magangganay asawa nen Abram.
-018	Anengneng na pigarad saray opisyal na palasio tan imbalita rad ari so ontan lan ganggana to; kanyan inawit day Sarai ed palasio na ari.
+018	Anengneng na pigarad saray opisyal na palasio tan imbalita rad ari so ontan lan ganggana to;
+018	kanyan inawit day Sarai ed palasio na ari.
 019	Lapud sikato, maung so imapangasikaso na ari ed kinen Abram tan initdan to na saray karniro tan kanding, saray baka tan asno, saray kamilyo tan pati saray aripen a lalaki tan bibii.
 020	Balet lapud inalay ari si Sarai, say Katawan impansakit to na ambelat so ari tan saray totood palasio.
 021	Impaawit na ari si Abram tan tinepet to, Antoy ginawam ed siak?

@@ -74,7 +74,8 @@ verse	content
 050	Kakakagbi kam!
 050	Gapu mggagamitn kam ti mgkaganda a pglbbngngan para ten propeta hidi a binbbunu nen dddikl moy hidi tenhud.
 051	Gapu ti ginamet moyid a iyud ay sikam labi i nangpatunayid a ummayun kam ten ginamet nen ninunu moy hidi, gapu hidi en nangbunu ten propeta hidi sakay sikam en nangpaganda ten nnglbbngngan dikodi.
-052	Iyd mangpatunayid a tatarudan en kinagi ayun ten Karunungan nen Diyos, Mngpaangayk dikodi ti propeta sakay apostol hidi; en agum ay bunuwn di sakay en agum ay pahirapan di.
+052	Iyd mangpatunayid a tatarudan en kinagi ayun ten Karunungan nen Diyos, Mngpaangayk dikodi ti propeta sakay apostol hidi;
+052	en agum ay bunuwn di sakay en agum ay pahirapan di.
 053	Kaya maparusaan en tolay hidi nadid a panahun, gapu binunu nen ninunu di hidi en propeta hidi sapul dikona a linalang i munduwiday,
 054	sapul ten pngbunu ni Cain knni Abel hanggan knni Zacarias a binunu di ten sllat nen banal a lugar ay ten altar a pgtutudan di ti alay.
 054	Kaya gapu ten ginamet di, en tolay hidi nadid a panahun ay maparusaan.

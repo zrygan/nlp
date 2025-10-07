@@ -2,7 +2,8 @@ verse	content
 001	Limmabas ti dua a tawen.
 001	Natagtagainep ti ari ti Egipto nga agtaktakder kampay iti igid ti Karayan Nile
 002	idi pagammoan timmakdang ti pito a napipintas ken nalulukmeg a baka, ket rinugianda ti nagarab.
-003	Madamdama, timmakdang met ti sabali a pito a baka; nakukuttong ken nakaparparagpagda.
+003	Madamdama, timmakdang met ti sabali a pito a baka;
+003	nakukuttong ken nakaparparagpagda.
 003	Inasitganda dagiti nalulukmeg a baka iti igid ti karayan
 004	sada inalun-on ida.
 004	Ket nakariing ti ari.

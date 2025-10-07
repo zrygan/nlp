@@ -37,7 +37,8 @@ verse	content
 023	Nagsabat ang anang mga ginikanan, Nakamaan kami nga tana bata namun, kag tana natawo nga bulag.
 024	Pero kon paano nga makakita run tana kadya, kag kon sin-o ang nag-ayad kana wara tamun kamaan karia.
 024	Pamangkota ninyo tana.
-024	May buut run man tana karia; makasarang run man tana karia sa paghambal para sa anang kaugalingun.
+024	May buut run man tana karia;
+024	makasarang run man tana karia sa paghambal para sa anang kaugalingun.
 025	Ginhambal dya kang anang mga ginikanan hay nahadluk sanda sa mga pangulo kang mga Judio.
 025	Tungud nga ang mga pangulo kang mga Judio nga dya nagsurogtanay run nga daan nga ang bisan sin-o nga magkilala kay Jesus bilang Cristo pagasikwayun sa sinagoga.
 026	Amo gani ria nga nagkuon sanda nga, Pamangkota ninyo tana.
@@ -47,7 +48,8 @@ verse	content
 028	Ang naman-an ko lang tana, amo nga bulag ako anay, pero tulad makakita run ako.
 029	Ginpamangkot ruman nanda tana, Ano haw ang ginhimo na kanimo?
 029	Paano na ikaw bay gin-ayad?
-030	Nagsabat tana, Ginsugidan ko run kamo; wara man kamo nagapamati mong.
+030	Nagsabat tana, Ginsugidan ko run kamo;
+030	wara man kamo nagapamati mong.
 030	Andut haw nga gusto ruman ninyo mabatian?
 030	Gusto ninyo man haw nga mangin anang disipulo?
 031	Amo to kag gin-insultohan nanda tana, Disipulo ikaw kang tawo nga to!

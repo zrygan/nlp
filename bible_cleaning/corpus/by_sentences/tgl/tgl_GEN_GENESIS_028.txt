@@ -3,9 +3,11 @@ verse	content
 002	Tumindig ka at pumunta sa Padan-aram, sa bahay ni Betuel na ama ng iyong ina.
 002	Mag-asawa ka roon mula sa mga anak ni Laban na kapatid na lalaki ng iyong ina.
 003	At nawa'y pagpalain ka ng Diyos na Makapangyarihan sa lahat, at ikaw ay pasaganain at paramihin, upang ikaw ay maging isang malaking bansa.
-004	Nawa'y ibigay niya sa iyo ang pagpapala ni Abraham, sa iyo at sa lahat ng iyong binhi; upang ariin mo ang lupaing iyong pinaglakbayan na ibinigay ng Diyos kay Abraham.
+004	Nawa'y ibigay niya sa iyo ang pagpapala ni Abraham, sa iyo at sa lahat ng iyong binhi;
+004	upang ariin mo ang lupaing iyong pinaglakbayan na ibinigay ng Diyos kay Abraham.
 005	At pinahayo ni Isaac si Jacob at pumunta siya sa Padan-aram, kay Laban na anak ni Betuel na Arameo, na kapatid ni Rebecca, na ina nina Jacob at Esau.
-006	Nakita ni Esau na binasbasan ni Isaac si Jacob, at siya'y pinapunta sa Padan-aram upang doon mag-asawa; at nang siya'y basbasan ay ipinagbilin sa kanya, Huwag kang mag-aasawa sa mga anak na babae ng Canaan,
+006	Nakita ni Esau na binasbasan ni Isaac si Jacob, at siya'y pinapunta sa Padan-aram upang doon mag-asawa;
+006	at nang siya'y basbasan ay ipinagbilin sa kanya, Huwag kang mag-aasawa sa mga anak na babae ng Canaan,
 007	at sinunod ni Jacob ang kanyang ama at ina at pumunta sa Padan-aram.
 008	Kaya't nang makita ni Esau na hindi nakakalugod ang mga anak ng Canaan kay Isaac na kanyang ama;
 009	pumunta si Esau kay Ismael at kinuhang asawa si Mahalat na kapatid na babae ni Nebayot at anak ni Ismael na anak ni Abraham, bukod pa sa mga asawang mayroon na siya.
@@ -24,4 +26,5 @@ verse	content
 019	Ang ipinangalan niya sa lugar na iyon ay Bethel, subalit ang dating pangalan ng lunsod ay Luz.
 020	Si Jacob ay nagpanata na sinasabi, Kung makakasama ko ang Diyos at ako'y iingatan sa daang ito na aking nilalakaran, at ako'y bibigyan niya ng tinapay na makakain, at damit na maisuot,
 021	at ako'y makabalik na payapa sa bahay ng aking ama, kung gayon ang Panginoon ang magiging aking Diyos.
-022	Ang batong ito na aking itinayo bilang bantayog ay magiging bahay ng Diyos; at sa lahat ng ibibigay mo sa akin ay ibibigay ko ang ikasampung bahagi sa iyo.
+022	Ang batong ito na aking itinayo bilang bantayog ay magiging bahay ng Diyos;
+022	at sa lahat ng ibibigay mo sa akin ay ibibigay ko ang ikasampung bahagi sa iyo.

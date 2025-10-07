@@ -1,10 +1,12 @@
 verse	content
 001	Kan magpoon nang magdakul an katawohan sa bilog na kinaban, asin kan nag-araki na sinda nin mga babae,
 002	nahiling kan mga aki nin Dios na magagayon an mga aking babae kan mga tawo, kaya inagom ninda an saindang nagustohan.
-003	Dangan nagtaram an Kagurangnan , Dai ko tutugotan na mabuhay sagkod lamang an tawo; siya may kagadanan.
+003	Dangan nagtaram an Kagurangnan , Dai ko tutugotan na mabuhay sagkod lamang an tawo;
+003	siya may kagadanan.
 003	Poon ngunyan, sagkod sana sa syento beynteng taon an magigin buhay niya.
 004	Sa mga aldaw na idto asin sa mga nagsunod pang panahon, nagkaigwa nin mga higante sa kinaban.
-004	An mga ini an nagin aki kan mga aking babae kan mga tawo asin kan mga aki nin Dios; sinda an mga bantog saka makokosog na mga tawo kan enot na panahon.
+004	An mga ini an nagin aki kan mga aking babae kan mga tawo asin kan mga aki nin Dios;
+004	sinda an mga bantog saka makokosog na mga tawo kan enot na panahon.
 005	Kan nahiling nin Kagurangnan an kadakulaan kan karatan kan mga tawo sa kinaban asin an karigsokan kan saindang kaisipan sa gabos na panahon,
 006	nagmondo siya saka nagbasol kun tadaw ta ginibo pa niya an mga tawo dangan ibinugtak sa daga.
 007	Kaya nagtaram siya, Paparaon ko ining mga tawo na sakong linalang asin an mga hayop patin an mga gamgam, huli ta nagbabasol ako kun tadaw ta ginibo ko pa sinda.

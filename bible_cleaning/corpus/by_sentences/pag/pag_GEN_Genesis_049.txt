@@ -84,7 +84,9 @@ verse	content
 083	Insan ingganggan nen Jacob iray lalakin anak to, Natan ta magano ak lan mitipon ed saray totook ya andi lad bilay, kerewen kon ipompon yo ak ya ipitipon ed amak tan saray lalakik diad lobuk a walad alog nen Efron a Heteo,
 084	diad Macpela a bokig na Mamre, diad dalin na Canaan.
 084	Sinaliw nen laki yon Abraham iman ya ongib tan alog ed kinen Efron a Heteo, pian pamponponan.
-085	Diman so angipomponan dad kindi laki Abraham tan di asawa ran Sara; diman so angipomponan ed kindi laki Isaac tan di asawa ran Rebeca; tan diman met so angipomponan kod kinen Lea.
+085	Diman so angipomponan dad kindi laki Abraham tan di asawa ran Sara;
+085	diman so angipomponan ed kindi laki Isaac tan di asawa ran Rebeca;
+085	tan diman met so angipomponan kod kinen Lea.
 086	Asaliw ed saray Heteo ira may alog tan ongib.
 086	Diman yo ak ipompon.
 087	Kayarin binilin nen Jacob iray anak ton lalaki, pinmawil a dinmokul, insan inatey.

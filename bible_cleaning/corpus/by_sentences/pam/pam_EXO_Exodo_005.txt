@@ -11,7 +11,8 @@ verse	content
 004	Sulung papagobran yu la pin ding ipus a ren!
 005	Ngening mas dakal kayu kesa kekaming tau Ehipto buri yung tuknang kayung magobra?
 006	King aldo mu ring ita inutus na ning ari karing tau Ehipto a manibala karing ipus at karing kapatas a Israelita ing anti kaniti
-007	Tuknang na kayung babie are karing taung mangawang laryu; paburen yu lang manintun dili ra.
+007	Tuknang na kayung babie are karing taung mangawang laryu;
+007	paburen yu lang manintun dili ra.
 008	Oneng e yu la babawasan a bilang ding laryu a sukat dang ayari.
 008	Matamad la mu inya e ra ku patugutan pakisabian ban paintulutan ku lang mako at miyain ain-sakripisyu king Dios da!
 009	Dagdagan yu pa ing obra da at e yu la paintulutan makapagpaynawa ban kanita e la mika panaun makiramdam king nanu pa mang kalaraman.
@@ -25,13 +26,15 @@ verse	content
 015	Inya minta la ding kapatas a Israelita king ari ban magreklamu.
 015	Ngara, Obat pasakitan yu kaming makanyan-kanyan?
 016	Buri yu ing palto keng laryu, oneng e yu na ke man dirinan are.
-016	Panasakitan da kami ding tauan yu; ikayu ing maki kakulangan.
+016	Panasakitan da kami ding tauan yu;
+016	ikayu ing maki kakulangan.
 017	Nganang mekibat ning ari, Mangatamad kayu ngan at e kayu mu bisang magobra, inya aduan yu kanaku ing paintulutan da kayung mako at miyain ain-sakripisyu king Ginu yu.
 018	Sulung, magbalik kayu king obra yu!
 018	E kayu mirinan nanumang are, oneng palto yu la't palto ding laryu a kasing dakal da ring sadia yung gagawan.
 019	Ikit da ring kapatas a Israelita ing masakit dang kabilian inyang dimdam dang kailangan lang palto laryu a kasing dakal da ring sadia rang gagawan.
 020	Inyang likuan da ne ing ari, asaganan de i Moises at i Aaron a manenaya karela.
-021	Ngarang sinabi kang Moises at Aaron, Saksi ya ing Ginu king pepasari yu at parusan na kayu; king uli yu akasaman na kami ning ari ampon ding opisyal na.
+021	Ngarang sinabi kang Moises at Aaron, Saksi ya ing Ginu king pepasari yu at parusan na kayu;
+021	king uli yu akasaman na kami ning ari ampon ding opisyal na.
 021	Anti yu na lang dininan matulid ban pamaten da kami.
 022	Pasibayu yang linapit i Moises king Ginu at ngana, Ginu, obat paburen yu lang misasakitan ding taung pinili yu?
 022	Obat tiburan yu ku pa karela?

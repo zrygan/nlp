@@ -4,11 +4,14 @@ verse	content
 002	tinmangwa, et anengneng toy taloran totoo a manalalagey irad ag arawin pasen.
 002	Binatik to ran tampol ya inabet, insan dinmakmomo ya anggad dalin so lupa to.
 003	Inkuanto, Wadya ak a magter a manlingkur ed sikayo.
-003	Ag yo komun lalabasay abung ko; tonda ki nin magano.
-004	Abuloyan yo ak a mangalay danum a panoras yoy sali yo; nayarian yoy mampainawad silong to yan kiew.
+003	Ag yo komun lalabasay abung ko;
+003	tonda ki nin magano.
+004	Abuloyan yo ak a mangalay danum a panoras yoy sali yo;
+004	nayarian yoy mampainawad silong to yan kiew.
 005	Mangala ak met na kanen yo, pian naitdan kayoy biskeg a mangituloy na panaakar yo.
 005	Pinagalangan yo ak ed inyakar yo dia, kanyan abuloyan yo ak a manlingkur ed sikayo.
-006	Inmebat ira, Salamat; sigi sirin.
+006	Inmebat ira, Salamat;
+006	sigi sirin.
 007	Linmoob a tampol si Abraham ed tulda tan inkuantod Sara, Ganatan mo, mangala kay sankaabigan ya arina, tan manggawa kay tinapay.
 008	Insan batik ed poluk na baka, tan angalay sakey a mataban kilaw, insan inter tod sakey ya aripen a nangganat ya angiparaan.
 009	Angalay kiso, gatas, tan samay niluton karniy kilaw, insan to ra imparongo ed saramay taloran totoo.
@@ -27,7 +30,8 @@ verse	content
 018	Ag ak pa inmelek, inkuanto.
 019	Ag ka la mantitila, ebat to.
 019	Inmelek ka.
-020	Pinmikal la ra may lalaki tan linma rad pasen a naosdungan day Sodoma; akilay Abraham, ta pasiputen to ra.
+020	Pinmikal la ra may lalaki tan linma rad pasen a naosdungan day Sodoma;
+020	akilay Abraham, ta pasiputen to ra.
 021	Inkuan na Katawan ed sikaton dili, Ag ko iyamut ed kinen Abraham so gawaen ko.
 022	Magmaliw a baleg tan makapanyarin bansa iray kabyangay boleg to, tan diad panamegley to bindisionan kon amin iray bansa.
 023	Sikatoy pinilik, pian niganggan to ray anak to tan saray kabyangay boleg to ya ontoluk irad siak diad panggawa ray kaptekan tan katonungan.

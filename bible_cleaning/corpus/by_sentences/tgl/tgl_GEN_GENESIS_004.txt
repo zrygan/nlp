@@ -30,8 +30,12 @@ verse	content
 016	At umalis si Cain sa harapan ng Panginoon at nanirahan sa lupain ng Nod, sa silangan ng Eden.
 017	Sumiping si Cain sa kanyang asawa, at siya'y naglihi at ipinanganak si Enoc.
 017	Siya'y nagtayo ng isang lunsod at tinawag ang lunsod ayon sa pangalan ng kanyang anak na si Enoc.
-018	Naging anak ni Enoc si Irad; at naging anak ni Irad si Mehujael; at naging anak ni Mehujael si Metusael; at naging anak ni Metusael si Lamec.
-019	At si Lamec ay nag-asawa ng dalawa; ang pangalan ng isa'y Ada, at ang pangalan ng ikalawa ay Zilla.
+018	Naging anak ni Enoc si Irad;
+018	at naging anak ni Irad si Mehujael;
+018	at naging anak ni Mehujael si Metusael;
+018	at naging anak ni Metusael si Lamec.
+019	At si Lamec ay nag-asawa ng dalawa;
+019	ang pangalan ng isa'y Ada, at ang pangalan ng ikalawa ay Zilla.
 020	Naging anak ni Ada si Jabal.
 020	Siya ang ama ng mga naninirahan sa mga tolda at may mga hayop.
 021	Ang pangalan ng kanyang kapatid ay Jubal.
@@ -45,6 +49,7 @@ verse	content
 027	at ng isang binata, dahil sa ako'y sinaktan.
 028	Kung pitong ulit ipaghihiganti si Cain,
 029	tunay na si Lamec ay pitumpu't pitong ulit.
-030	Muling nakilala ni Adan ang kanyang asawa at siya'y nanganak ng isang lalaki, at tinawag ang kanyang pangalan na Set; sapagkat kanyang sinabi, Binigyan ako ng Diyos ng ibang anak na kahalili ni Abel, sapagkat siya'y pinatay ni Cain.
+030	Muling nakilala ni Adan ang kanyang asawa at siya'y nanganak ng isang lalaki, at tinawag ang kanyang pangalan na Set;
+030	sapagkat kanyang sinabi, Binigyan ako ng Diyos ng ibang anak na kahalili ni Abel, sapagkat siya'y pinatay ni Cain.
 031	Nagkaanak din si Set ng isang lalaki, at tinawag ang kanyang pangalan na Enos.
 031	Nang panahong iyon ang mga tao ay nagsimulang tumawag sa pangalan ng Panginoon .

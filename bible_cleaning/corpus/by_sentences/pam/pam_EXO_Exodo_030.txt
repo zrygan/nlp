@@ -1,6 +1,8 @@
 verse	content
-001	Gawa kang altar a pidulukan insenso; dutung a akasia ing gamitan mu.
-002	Gawan meng kuadradu; labing walung pulgada ya king kaba, labing walung pulgada ne man king lapad, at atlung pulu't anam a pulgada ya king katas.
+001	Gawa kang altar a pidulukan insenso;
+001	dutung a akasia ing gamitan mu.
+002	Gawan meng kuadradu;
+002	labing walung pulgada ya king kaba, labing walung pulgada ne man king lapad, at atlung pulu't anam a pulgada ya king katas.
 002	Kailangan ing makasukung la ding peka sagu na karing apat nang suluk niti anting dake na.
 003	Ing peka mesa na at sanepa at ding sagu na balutanan mu la ngan gintu at dinan listun a gintu king makapadurut.
 004	Karing mingatba nang dane, lalam ning listun, mikabit kang tiduang telasingsing a gintu para pisuluran karing tambayuk a peka bitbitan na.
@@ -10,7 +12,8 @@ verse	content
 007	Balang abak, potang dirinan na lang laru ding sulu, kailangan ing duluk yang mabanglung insenso i Aaron keting altar.
 008	Makanyan munaman ing daptan na potang sindian na la ding sulu karas ning bengi.
 008	E yu kakalinguan iting pamiyain insenso aldo-aldo at pati ding maging lahi yu.
-009	E ye didinan iting altar king insensong e makapaintulut o king nanu pa mang animal a durulukan o nanu pa mang ain-a-kakanan; e ye tutugtuganan nanumang alak a yayain.
+009	E ye didinan iting altar king insensong e makapaintulut o king nanu pa mang animal a durulukan o nanu pa mang ain-a-kakanan;
+009	e ye tutugtuganan nanumang alak a yayain.
 010	Misan king pabanua sukat neng gampanan Aaron ing seremonia ning pamaglinis keting altar king kapamilatan na ning pamangaskas na karing apat nang sagu king daya ning animal a miyain para king pangapatawaran na ning kasalanan.
 010	Sukat marapat iti misan king pabanua at king kapilan pa man.
 010	Sukat yang lubus banal iting altar a makatalaga para kanaku, ing Ginu .

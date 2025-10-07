@@ -25,7 +25,8 @@ verse	content
 017	Miingon ang Dios, Dili ko gusto nga mausab ang hunahuna sa mga Israelita inigkakita nilag gubat kay tingalig mobalik sila sa Ehipto.
 018	Busa gidala niya sila libot sa awaaw nga dapit paingon sa Dagat nga Pula.
 018	Armado ang mga Israelita nga migikan sa Ehipto.
-019	Gidala ni Moises ang mga bukog ni Jose sumala sa gipapanumpa ni Jose sa mga Israelita nga buhaton gayod nila kay si Jose miingon, Motabang gayod kaninyo ang Dios; unya dad-a ninyo ang akong mga bukog.
+019	Gidala ni Moises ang mga bukog ni Jose sumala sa gipapanumpa ni Jose sa mga Israelita nga buhaton gayod nila kay si Jose miingon, Motabang gayod kaninyo ang Dios;
+019	unya dad-a ninyo ang akong mga bukog.
 020	Mibiya sila sa Sucot ug nagkampo didto sa Etam, sa daplin sa kamingawan.
 021	Sa adlaw, nag-una kanila ang Ginoo pinaagi sa panganod nga daw haligi aron paggiya kanila sa agianan.
 021	Sa gabii nag-una siya pinaagi sa kalayo aron paghatag kanila ug kahayag.

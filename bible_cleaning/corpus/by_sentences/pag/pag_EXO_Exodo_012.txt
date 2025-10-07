@@ -9,8 +9,10 @@ verse	content
 007	Alaen na saray totoo so dala, insan da iporanis ed saray lusek ya akapeketan na puirta tan diad tagey na puirta na abung a panganan ed ayep.
 008	Diad satan a labi ikalut so laman na ayep insan ipangan ed ampait a pising tan diad tinapay ya anggapoy libadura.
 009	Ag yo kakanen a tariwa odino inlambung, no ag ingen akan yon pinolpugan a pati olo to, sali to, tan saray loob-loob to.
-010	Ag kayo mangikekera ya anggad kabwasan; no walay nakeraan yo, nepeg yon poolan.
-011	No kanen yo, nepeg ya akakawes ki la na pambiahi yo, akasandalya kayo la tan sankabembenan yo lay baston yo; ganatan yoy mangan.
+010	Ag kayo mangikekera ya anggad kabwasan;
+010	no walay nakeraan yo, nepeg yon poolan.
+011	No kanen yo, nepeg ya akakawes ki la na pambiahi yo, akasandalya kayo la tan sankabembenan yo lay baston yo;
+011	ganatan yoy mangan.
 011	Sikatoy Pista na Paskua a pamagalang ed siak a Katawan .
 012	Diad satan a labi onliber ak ed intiron dalin na Egipto, pateyen koy balang pangulowan ya anak a laki tan amin a besag ya anak na ayep tan dusaen kon amin iray diriyos na Egipto.
 012	Siak so Katawan .
@@ -37,14 +39,18 @@ verse	content
 026	Pinatey to ray Egipsio, balet ag to kami pinatey.
 027	Tinmuek iray Israelita tan inggalang day Katawan .
 028	Insan linma la ra tan sinumpal da may ingganggan na Katawan ed kindi Moises tan Aaron.
-029	Diad pegley labi, pinatey na Katawan iray amin a lalakin pangulowan ya anak ed Egipto manlapud lakin pangulowan ya anak na ari, a sikatoy onsalat a manari, ya anggad lakin anak na priso ya akolung ed dalem na ambilbilonget a prisowan; inatey met ya amin iray besag ya anak na saray ayayep.
+029	Diad pegley labi, pinatey na Katawan iray amin a lalakin pangulowan ya anak ed Egipto manlapud lakin pangulowan ya anak na ari, a sikatoy onsalat a manari, ya anggad lakin anak na priso ya akolung ed dalem na ambilbilonget a prisowan;
+029	inatey met ya amin iray besag ya anak na saray ayayep.
 030	Diad saman a labi say ari, saray opisyal to, tan amin nin arum ya Egipsio et abangon ira.
 030	Walay agawan baleg ya akisan ed intiron Egipto, lapud anggapoy abung ya anggapoy inatey to.
 031	Diad saman a labi impatawag na ari ira di Moises tan Aaron tan kuantod sikara, Taynan ki la, sikayo ran Israelita!
-031	Taynan yo lay bansak; laka yo lan mangigalang ed Katawan onung na kekerewen yo.
-032	Awit yo ray karniro yo, saray kanding yo, tan saray baka yo; laki la.
+031	Taynan yo lay bansak;
+031	laka yo lan mangigalang ed Katawan onung na kekerewen yo.
+032	Awit yo ray karniro yo, saray kanding yo, tan saray baka yo;
+032	laki la.
 032	Ipikasi yo met a nabindisionan ak.
-033	Pinaganatan a pilit na saray Egipsio a taynan la na saray Israelita so bansa ra; inkuanda, Ompatey kamin amin no ag kayo ontaynan.
+033	Pinaganatan a pilit na saray Egipsio a taynan la na saray Israelita so bansa ra;
+033	inkuanda, Ompatey kamin amin no ag kayo ontaynan.
 034	Kanyan pinano na saray Israelita iray kawali ran panaggawaay tinapay ya anggapoy libaduran masa, pinonggus da rad abel, tan sinasakbat da ra.
 035	Ginawa na saray Israelita iray imbaga nen Moises, tan kinmerew irad saray Egipsio na pilak tan balituk ya alahas tan saray kawes.
 036	Ginawa na Katawan a galangen na saray Egipsio iray Israelita tan impaiter tod sikara iray kinekerew na saray Israelita.
@@ -55,11 +61,13 @@ verse	content
 039	Ginawa ran tinapay ira may anggapoy libaduran masa ya inawit da nen tinaynan day Egipto, ta lapud biglan impangibaki rad sikara, anggapoy panaon dan angiparaan na antokaman a kanen da.
 040	Nanayam ed Egipto ed loob na apat a lasus tan talomplon taon iray Israelita.
 041	Diad agew a mansamput so apat a lasus tan talomplon taon, amin da ray boleg na saray totoo na Katawan et tinaynan day Egipto.
-042	Sikato yay labin tinalaranan na Katawan a pangipaway tod saray Israelita ed Egipto; sayan labi et nisaklang ya anggad angga ed Katawan tan sakey a labin talaranan na saray Israelita.
+042	Sikato yay labin tinalaranan na Katawan a pangipaway tod saray Israelita ed Egipto;
+042	sayan labi et nisaklang ya anggad angga ed Katawan tan sakey a labin talaranan na saray Israelita.
 043	Say Katawan kuantod kindi Moises tan Aaron, Sikara ya so totontonen no silibraan so Paskua: Anggapoy toon taga arum a bansa a nayarin mangan na kakanen na Paskua,
 044	balet siopamay aripen a sinaliw yo et nayarin mangan no segaten yo nin onona.
 045	Anggapoy sangkaili odino uupaan a kumikimey so nayarin mangan na kakanen na Paskua.
-046	Amin a kakanen nepeg a kanen ed dalem na abung ya angiparaanan; ag yo aawiten ed paway na abung.
+046	Amin a kakanen nepeg a kanen ed dalem na abung ya angiparaanan;
+046	ag yo aawiten ed paway na abung.
 046	Sakey ni, ag yo popoteren so antokaman a pokel na ayep.
 047	Nepeg a silibraan na amin ya Israelita so sayan pista,
 048	balet ag nayarin mangan so toon ag asegat.

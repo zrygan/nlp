@@ -10,7 +10,8 @@ verse	content
 008	sinmoblay si Lea tan saramay anak to, tan say kaonuran si Jose tan si Raquel.
 009	Tinepet nen Esau, Antoy kabaliksan da ra may onaan a nabet ko?
 010	Inmebat si Jacob, Rigalok ira man ed sika, ta labay koy mipulangan ed sika.
-011	Balet inkuanen Esau, Malaem la ray kayaryan ko, agi; kien mo la ray kayaryan mo.
+011	Balet inkuanen Esau, Malaem la ray kayaryan ko, agi;
+011	kien mo la ray kayaryan mo.
 012	Inkuanen Jacob, Andi komun.
 012	No talagan pirdonaen mo ak, awat moy panangarok.
 012	Say pakanengneng kod lupam et singa pakanengneng kod lupa na Dios, natan ta maung so impatnag mod siak.
@@ -23,10 +24,12 @@ verse	content
 016	Onona ka la, ta ontombuk ak lan mantantan.
 016	Manakar kami, onung na anggaay nayarian na saray ayayep tan saray ogogaw, anggad naabot ta kad Edom.
 017	Inkuanen Esau, No ontan sirin, mangitilak ak ed sika na pigaran totook.
-018	Balet inkuanen Jacob, Andi-bali la tan; masarag lay impamirdonam ed siak.
+018	Balet inkuanen Jacob, Andi-bali la tan;
+018	masarag lay impamirdonam ed siak.
 019	Kanyan diad saman ya agew, amaarap lad Edom si Esau.
 020	Si Jacob balet linmad Sukot tan diman angipaalagey na dilin abung to tan saray salimbengan na ayayep to.
 020	Kanyan atawag na Sukot iman a pasen.
 021	Nen ompawil si Jacob a manlapud Mesopotamia, maliket ya akasabid Sikem diad sakop na Canaan, tan nankampod sakey ya alog ya asingger ed siudad.
-022	Sinaliw to man a parti na alog ed saray kabyangay boleg nen Hamor ya ama nen Sikem; sanlasus a kuartan pilak so imbayar to.
+022	Sinaliw to man a parti na alog ed saray kabyangay boleg nen Hamor ya ama nen Sikem;
+022	sanlasus a kuartan pilak so imbayar to.
 023	Nanggawad may sakey ya altar tan nginaranan to para El, say Dios na Israel.

@@ -31,8 +31,11 @@ verse	content
 023	Dangan nagbuswak man an pitong saradit asin tagiltilon na puso nin mais huli sa init kan doros na hale sa desyerto,
 024	asin hinalon an mga purosok saka matatagas na puso.
 024	Inistorya ko an mga pangatorogan na ini sa mga salamangkero, alagad mayong nakapaliwanag sako.
-025	Sinabihan ni Jose an hade, Pareho an kahulogan kan duwang pangatorogan; ipinahayag saimo nin Dios an saiyang gigibohon.
-026	An pitong matatabang baka, pitong taon; asin an pitong purosok na puso nin mais, pito man na taon; saro an kahulogan ninda.
+025	Sinabihan ni Jose an hade, Pareho an kahulogan kan duwang pangatorogan;
+025	ipinahayag saimo nin Dios an saiyang gigibohon.
+026	An pitong matatabang baka, pitong taon;
+026	asin an pitong purosok na puso nin mais, pito man na taon;
+026	saro an kahulogan ninda.
 027	An nagsunod na pitong maniniwang na baka asin an pitong tagiltilon na puso nin mais huli sa init kan doros na hale sa desyerto, pitong taon nin gutom.
 028	Siring sa sinabi ko, ipinahayag saimo nin Dios an saiyang gigibohon.
 029	Magigin abunda sa bilog na Egipto sa maabot na pitong taon,
@@ -64,8 +67,10 @@ verse	content
 048	Sa lambang syudad, sinararay niya an pagkakan na naani sa kaomahan na nasa palibot.
 049	Dakul nin marahay an ani, kaya inontok ni Jose an pagtakad kaiyangaro iyan baybay sa dagat.
 050	Bago nag-abot an mga taon nin gutom, igwa na nin duwang aking lalaki si Jose ki Asenat.
-051	Olay ni Jose, Pinalingawan sako nin Dios an gabos kong pagtios asin an pamilya nin sakong ama; kaya nginaranan niyang Manases an matua niyang aki.
-052	Nagsabi pa siya, Tinawan ako nin Dios nin mga aki sa daga nin sakong kasakitan; kaya nginaranan niyang Efraim an ikaduwa niyang aki.
+051	Olay ni Jose, Pinalingawan sako nin Dios an gabos kong pagtios asin an pamilya nin sakong ama;
+051	kaya nginaranan niyang Manases an matua niyang aki.
+052	Nagsabi pa siya, Tinawan ako nin Dios nin mga aki sa daga nin sakong kasakitan;
+052	kaya nginaranan niyang Efraim an ikaduwa niyang aki.
 053	Natapos an pitong taon nin abunda sa daga nin Egipto,
 054	asin siring sa sinabi ni Jose, nagpoon an pitong taon nin gutom.
 054	Igwa nin gutom sa ibang lugar, alagad igwang pagkakan sa bilog na Egipto.

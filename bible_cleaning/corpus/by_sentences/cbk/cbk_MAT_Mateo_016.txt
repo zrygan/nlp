@@ -13,7 +13,8 @@ verse	content
 009	Pero ya sabe si Jesus si cosa sila ta habla, poreso ya habla le, Bien falta el di ustedes fe!
 009	Porque man ustedes ta man cucho cucho por causa de nuay pan?
 010	Hende pa ba ustedes ta puede entende, y hende ba ustedes ta acorda cuando ya hace yo pedaso pedaso el cinco bilug pan, para dale come con el cinco mil gente?
-010	Aquel tiempo ya recoje ustedes el maga pan ya sobra; cuanto alat lleno ya tene ustedes?
+010	Aquel tiempo ya recoje ustedes el maga pan ya sobra;
+010	cuanto alat lleno ya tene ustedes?
 011	Ta acorda pa ba ustedes el siete bilug de pan que ya dale come con el cuatro mil gente?
 011	Y cuanto alat tamen sobra ya recoje ustedes?
 012	Porque man ustedes hende pa ta entende que hende yo ta man cuento acerca del pan?

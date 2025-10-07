@@ -5,7 +5,8 @@ verse	content
 003	Saray lalakin anak nen Gomer et di Askenaz, Rifat, tan Togarma.
 004	Saray lalakin anak nen Javan sikara di Elisa, Espanya, Chipre, tan Dodanim.
 005	Sikara yay sengeg na saray totoon manaayam ed saray gilig na dayat tan diad saray isla.
-005	Anak tan apo nen Jafet ira yan amin; manaayam so balang sakey ed dilin tribu tan bansa to, tan walay dilin salita na balang tribu.
+005	Anak tan apo nen Jafet ira yan amin;
+005	manaayam so balang sakey ed dilin tribu tan bansa to, tan walay dilin salita na balang tribu.
 006	Saray lalakin anak nen Ham et di Cus, Egipto, Libia, tan Canaan.
 007	Saray lalakin anak nen Cus sikara di Seba, Havila, Sabta, Raama, tan Sabteca.
 007	Saray lalakin anak nen Raama et di Saba tan Dedan.
@@ -22,18 +23,21 @@ verse	content
 018	Arvadeo, Zemareo, tan Hamateo.
 018	Kinmayat ira yan boleg a Cananeo.
 019	Say nasasakopan dan dalin, manlapud Sidon, et nampaabalaten ya anggad Gerar, diad abay na Gaza, tan nampabokig ya anggad Sodoma, Gomorra, Adma, tan Zeboim, diad abay na Lasa.
-020	Sikara yay kabyangay boleg nen Ham; manaayam so balang sakey ed sikara diad dilin tribu tan bansa to, tan walay dilin salita na balang tribu.
+020	Sikara yay kabyangay boleg nen Ham;
+020	manaayam so balang sakey ed sikara diad dilin tribu tan bansa to, tan walay dilin salita na balang tribu.
 021	Si Sem a pangulowan ya agi nen Jafet so sengeg na amin da ray Hebreo.
 022	Saray lalakin anak to sikara di Elam, Asur, Arpaksad, Lud, tan Aram.
 023	Saray kabyangay boleg nen Aram et saray totoon taga Uz, Hul, Geter, tan Mesek.
 024	Si Arpaksad so ama nen Sela ya ama nen Eber.
-025	Duaray anak nen Eber: Peleg so ngaray sakey, ta nen panaon to naapag-apag iray totood mundo; Joktan so ngaray sakey.
+025	Duaray anak nen Eber: Peleg so ngaray sakey, ta nen panaon to naapag-apag iray totood mundo;
+025	Joktan so ngaray sakey.
 026	Saray kabyangay boleg nen Joktan et saray totood Almodad, Selef, Hazarmavet, Jerah,
 027	Hadoram, Uzal, Dikla,
 028	Obal, Abimael, Saba,
 029	Ofir, Havila, tan Jobab.
 029	Si Joktan so sengeg da ra yan amin a totoo.
 030	Say dalin a panaayaman da sakop toy manlapud Mesa ya anggad Sefar, diad nipokdul a pasen ed bokig.
-031	Sikara yay kabyangay boleg nen Sem; manaayam so balang sakey ed dilin tribu to tan bansa to, tan walay dilin salita na balang tribu.
+031	Sikara yay kabyangay boleg nen Sem;
+031	manaayam so balang sakey ed dilin tribu to tan bansa to, tan walay dilin salita na balang tribu.
 032	Si Noe so sengeg na amin da ra yan totoo, a walay bansa ra tan kailalakan da.
 032	Kasumpal na delap, saray anak nen Noe so sengeg na amin a totood balang bansa ed tapew na dalin.

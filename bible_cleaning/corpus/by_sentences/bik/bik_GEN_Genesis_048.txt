@@ -3,8 +3,10 @@ verse	content
 001	Kaya ipinag-iba niya an duwa niyang aki na si Manases saka si Efraim, asin dinalaw ninda si Jacob.
 002	Kan maaraman ni Jacob na nagsongko saiya an aki niyang si Jose, nagpirit siyang magtukaw sa higdaan.
 003	Sinabihan ni Jacob si Jose, Nagpahiling sako an Makakamhan na Dios duman sa Luz, sa daga nin Canaan asin benendisyonan ako.
-004	Sinabihan niya akong, Tatawan taka nin dakul na aki tanganing magin dakul na nasyon an saimong mga kapagarakian; itatao ko sa sainda an dagang ini bilang sadiri ninda sagkod pa man.
-005	Nagpadagos si Jacob, Jose, an duwa mong aking namundag digdi sa Egipto bago ako nagdigdi, sadiri ko; mga aki ko si Efraim saka si Manases, siring na mga aki ko si Ruben asin si Simeon.
+004	Sinabihan niya akong, Tatawan taka nin dakul na aki tanganing magin dakul na nasyon an saimong mga kapagarakian;
+004	itatao ko sa sainda an dagang ini bilang sadiri ninda sagkod pa man.
+005	Nagpadagos si Jacob, Jose, an duwa mong aking namundag digdi sa Egipto bago ako nagdigdi, sadiri ko;
+005	mga aki ko si Efraim saka si Manases, siring na mga aki ko si Ruben asin si Simeon.
 006	Kun magkaaki ka pa, sinda bako nang sadiri ko, kaya an saindang mamanahon mapapasainda huli ki Efraim asin ki Manases.
 007	Ginigibo ko ini huli ki Rachel na saimong ina.
 007	Kan maghale ako sa Mesopotamia, nagadan si Rachel duman sa daga nin Canaan harani sa Efrat.
@@ -26,9 +28,11 @@ verse	content
 019	Bendisyonan logod an mga aking ini kan anghel na nagligtas sako sa gabos na maraot!
 020	Huli sa mga aking ini, mabuhay logod an sakong ngaran asin an ngaran kan sakong mga magurang na si Abraham asin si Isaac!
 021	Magkaigwa logod sinda nin dakul na aki, asin dakul na kapagarakian!
-022	Nagraot an boot ni Jose kan mahiling niyang ibinabaw ni Jacob an toong kamot sa payo ni Efraim; kaya kinua niya an kamot kan saiyang ama tanganing ibabaw sa payo ni Manases.
+022	Nagraot an boot ni Jose kan mahiling niyang ibinabaw ni Jacob an toong kamot sa payo ni Efraim;
+022	kaya kinua niya an kamot kan saiyang ama tanganing ibabaw sa payo ni Manases.
 023	Nagsabi si Jose sa saiyang ama, Bakong arog kaiyan, ama ko.
-023	Iyo ini an matua; sa saiyang payo mo ibugtak an too mong kamot.
+023	Iyo ini an matua;
+023	sa saiyang payo mo ibugtak an too mong kamot.
 024	Alagad nagsayuma an saiyang ama, na nagsabing, Aram ko, aki ko, aram ko.
 024	Magigin sarong dakulang banwaan man si Manases.
 024	Alagad orog na magigin dakula an ngohod niyang tugang, asin an saiyang mga kapagarakian magigin dakulang mga nasyon.

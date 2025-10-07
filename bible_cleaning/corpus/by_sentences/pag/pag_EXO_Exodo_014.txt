@@ -19,13 +19,16 @@ verse	content
 012	Imbaga mid sika a paolyan mo kami lan mambukbukor tan akaoley kami lan manlingkur ya ariripen na saray Egipsio.
 012	Maung niy kipapasen na aripen nen say ompatey dia ed kalawakan.
 013	Inmebat si Moises, Ag kayo natatakot!
-013	Pakpel yoy linawa yo, et nanengneng yo no antoy gawaen na Katawan a pangilaban tod sikayo ed sayan agew; ag yo la napidwan nanengneng ira yan Egipsio.
-014	Say Katawan so mibakal a para sikayo; mandeen labat so nepeg yon gawaen.
+013	Pakpel yoy linawa yo, et nanengneng yo no antoy gawaen na Katawan a pangilaban tod sikayo ed sayan agew;
+013	ag yo la napidwan nanengneng ira yan Egipsio.
+014	Say Katawan so mibakal a para sikayo;
+014	mandeen labat so nepeg yon gawaen.
 015	Say Katawan kuantod kinen Moises, Akin et onkekerew kay tulong ed siak?
 015	Ibagam ed saray totoo ya ituloy day kurang da.
 016	Iyatagey moy baston mo tan itorom ed dayat.
 016	Nabelsay so danum, et saray Israelita makapanakar irad amagan dalin diad ibaliw da.
-017	Paaweten koy kapusoan da ray Egipsio; onosil irad satan, et napagalangan ak diad panalok ed ari, diad saray sondalo to, diad saray karwahi to, tan diad saray kutsiro to.
+017	Paaweten koy kapusoan da ray Egipsio;
+017	onosil irad satan, et napagalangan ak diad panalok ed ari, diad saray sondalo to, diad saray karwahi to, tan diad saray kutsiro to.
 018	Diad panalok ed saray Egipsio naamtaan da a siak so Katawan !
 019	Say anghil na Dios a gendat a manaayam ed bandad arap na saray sondalo na Israel et inmalis a nanayam ed bandad beneg da.
 019	Samay lusek a lorem et inmalis met
@@ -34,7 +37,8 @@ verse	content
 021	Inyonat nen Moises ed dayat so lima to, et say Katawan pinapawil toy agos na dayat diad panamegley na mabiskeg a dagem a nanlapud bokig.
 021	Sanlabin sinmiplug so dagem, et nakatan so dayat.
 021	Apaldua so danum
-022	tan nanakar ed amagan dalin iray Israelita diad imbaliw dad dayat; dinmalan irad nampegleyan na duaran padir a danum.
+022	tan nanakar ed amagan dalin iray Israelita diad imbaliw dad dayat;
+022	dinmalan irad nampegleyan na duaran padir a danum.
 023	Inosilan ira na saray Egipsio tan tinombuk da ra ya anggad pegley na dayat, pati saray amin a kabayo ra, saray karwahi ra, tan saray kutsiro ra.
 024	Et nen mampalbangon la say Katawan , manlapud lusek ya apoy tan lusek a lorem, inosdungan to ray sondalon Egipsio tan ginegewgew to ra.
 025	Inkokotep toy dalig na saray karwahi ra kanyan mapalaloy inkairapan dan nankurang.
@@ -43,8 +47,10 @@ verse	content
 026	Say Katawan kuantod kinen Moises, Iyonat mod dayat so limam, et tabunan na danum iray Egipsio, saray karwahi ra, tan saray kutsiro ra.
 027	Kanyan inyonat nen Moises ed dayat so lima to, et nen maliwawa la pinmawil ed gendat a kaaralem to.
 027	Ginawaan na saray Egipsio so anggaay nayarian da ya ombatik, balet say Katawan imbabantak to rad dalem na dayat.
-028	Pinmawil so danum tan tinabunan to ra may karwahi, saramay kutsiro, tan amin da ra may Egipsion inmosil ed saray Israelita ya anggad dayat; anggapoy atilak ed sikara anggan sakey.
-029	Balet nanakar iray Israelita ed amagan dalin diad imbaliw dad dayat; dinmalan irad nanleetan na duaran padir a danum.
+028	Pinmawil so danum tan tinabunan to ra may karwahi, saramay kutsiro, tan amin da ra may Egipsion inmosil ed saray Israelita ya anggad dayat;
+028	anggapoy atilak ed sikara anggan sakey.
+029	Balet nanakar iray Israelita ed amagan dalin diad imbaliw dad dayat;
+029	dinmalan irad nanleetan na duaran padir a danum.
 030	Diad saman ya agew inyagel na Katawan iray Israelita ed saray Egipsio, tan anengneng na saray Israelita a kibalatar ya inaatey ed gilig na dayat iray Egipsio.
 031	Nen anengneng na saray Israelita so baleg a pakayari ya impakana na Katawan diad impanalo tod saray Egipsio, tinakotan da so Katawan .
 031	Awalaan ira na pananisia ed Katawan tan diad aripen to a si Moises.

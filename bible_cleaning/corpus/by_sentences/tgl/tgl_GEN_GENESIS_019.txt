@@ -1,7 +1,8 @@
 verse	content
 001	Dumating ang dalawang anghel sa Sodoma nang nagtatakipsilim na.
 001	Si Lot ay nakaupo sa pintuang-bayan ng Sodoma.
-001	Sila'y nakita ni Lot at tumindig upang salubungin sila; at iniyukod ang kanyang mukha sa lupa.
+001	Sila'y nakita ni Lot at tumindig upang salubungin sila;
+001	at iniyukod ang kanyang mukha sa lupa.
 002	At sinabi, Ngayon mga panginoon ko, hinihiling ko sa inyo na kayo'y bumalik at tumuloy sa bahay ng inyong lingkod, at magpalipas ng gabi, at maghugas ng inyong mga paa, at sa madaling araw ay magsibangon kayo at magpatuloy ng inyong paglakad.
 002	Kanilang sinabi, Hindi, sa lansangan kami magpapalipas ng buong magdamag.
 003	Ngunit kanyang pinilit nang husto kaya't sila'y nagsipasok sa kanyang bahay.
@@ -21,14 +22,18 @@ verse	content
 011	At binulag nila ang mga taong nasa pintuan ng bahay, maging maliit o malaki, anupa't hindi nila makita ang pintuan.
 012	At sinabi ng mga lalaki kay Lot, Mayroon ka pa ba ritong kasama?
 012	Paalisin mo sa lugar na ito ang iyong mga manugang na lalaki at mga anak na lalaki at babae, o sinuman sa mga kasamahan mo sa lunsod.
-013	Sapagkat malapit na naming lipulin ang lugar na ito dahil sa napakalakas na ng sigaw laban sa bayang ito sa harap ng Panginoon ; at kami ay sinugo ng Panginoon upang ito ay aming lipulin.
-014	Kaya't si Lot ay lumabas at kinausap ang kanyang mga manugang na noon ay mapapangasawa ng kanyang mga anak na babae, at sinabi, Tumindig kayo, magsialis kayo sa lugar na ito; sapagkat gugunawin ng Panginoon ang bayan.
+013	Sapagkat malapit na naming lipulin ang lugar na ito dahil sa napakalakas na ng sigaw laban sa bayang ito sa harap ng Panginoon ;
+013	at kami ay sinugo ng Panginoon upang ito ay aming lipulin.
+014	Kaya't si Lot ay lumabas at kinausap ang kanyang mga manugang na noon ay mapapangasawa ng kanyang mga anak na babae, at sinabi, Tumindig kayo, magsialis kayo sa lugar na ito;
+014	sapagkat gugunawin ng Panginoon ang bayan.
 014	Subalit ang akala ng kanyang mga manugang ay nagbibiro siya.
 015	Kinaumagahan, pinapagmadali ng mga anghel si Lot, na sinasabi, Bumangon ka, isama mo ang iyong asawa at ang iyong dalawang anak na babae na narito, baka pati ikaw ay madamay sa parusa sa bayan.
 016	Subalit siya'y nagtagal.
-016	Kaya't dahil sa habag sa kanya ng Panginoon , hinawakan ng mga lalaki ang kanyang kamay at ang kamay ng kanyang asawa, at ang kamay ng kanyang dalawang anak na babae; at siya'y inilabas nila at iniwan sa labas ng bayan.
+016	Kaya't dahil sa habag sa kanya ng Panginoon , hinawakan ng mga lalaki ang kanyang kamay at ang kamay ng kanyang asawa, at ang kamay ng kanyang dalawang anak na babae;
+016	at siya'y inilabas nila at iniwan sa labas ng bayan.
 017	Nang sila'y mailabas na nila, ay sinabi nila, Tumakas ka alang-alang sa iyong buhay.
-017	Huwag kang lumingon o huminto man sa buong libis; tumakas ka hanggang sa bundok, sapagkat kung hindi, ikaw ay mamamatay.
+017	Huwag kang lumingon o huminto man sa buong libis;
+017	tumakas ka hanggang sa bundok, sapagkat kung hindi, ikaw ay mamamatay.
 018	At sinabi sa kanila ni Lot, Huwag, mga panginoon ko!
 019	Ang lingkod mo ay nakatagpo ng biyaya sa iyong paningin, at nagpakita ka sa akin ng malaking awa sa pagliligtas ng aking buhay.
 019	Subalit hindi ko kayang tumakas sa bundok, baka ako'y abutan ng kapahamakan, at ako'y mamatay.
@@ -36,7 +41,8 @@ verse	content
 020	Pahintulutan mo akong tumakas roon.
 020	Hindi ba iyon ay maliit lamang at ang aking buhay ay maliligtas?
 021	At sinabi niya sa kanya, O sige, pinapayagan din kita sa bagay na ito at hindi ko na gugunawin ang lunsod na iyong binanggit.
-022	Magmadali ka, tumakas ka roon; sapagkat wala akong magagawa hanggang sa dumating ka roon.
+022	Magmadali ka, tumakas ka roon;
+022	sapagkat wala akong magagawa hanggang sa dumating ka roon.
 022	Kaya't ang pangalang itinawag sa bayang iyon ay Zoar.
 023	Ang araw ay sumikat na sa lupa nang dumating si Lot sa Zoar.
 024	At buhat sa langit ay nagpaulan ang Panginoon sa Sodoma at Gomorra ng asupre at apoy.

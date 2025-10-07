@@ -6,7 +6,12 @@ verse	content
 003	Nkawn mayan sila kan sa, laung nila, Tuwan, baytai kami kunu.
 003	Ikaw na ka in piyagiyan hi Yahiya amu in dumatung mari atawa awn pa huwat-huwatun namu dumatung dugaing dayn kaymu?
 004	In sambung hi sa kanila, laung niya, Balik na kamu iban baytai niyu hi Yahiya sin manga kkita iban diyurungug niyu!
-005	In tau bakas buta, makakita na; in bakas pingka, makapanaw na mabuntul; in manga tau bakas ipul, malanu na in baran nila; in bakas bisu, makarungug na; sampay tau miyatay, nabuhi na nagbalik; iban piyagnanashat na in Bayta Marayaw ha manga miskin.
+005	In tau bakas buta, makakita na;
+005	in bakas pingka, makapanaw na mabuntul;
+005	in manga tau bakas ipul, malanu na in baran nila;
+005	in bakas bisu, makarungug na;
+005	sampay tau miyatay, nabuhi na nagbalik;
+005	iban piyagnanashat na in Bayta Marayaw ha manga miskin.
 006	Na, hisiyu-siyu in di maghawal-hawal mangandul kku, makg-makuyag tuud siya.
 007	Ha sasang sin manga mulid hi Yahiya sng na muwi, namichara na hi sa pa manga tau mataud natitipun sin pasal hi Yahiya.
 007	Laung niya, Ha waktu miyadtu kamu kimita kan Yahiya didtu ha hula paslangan mahunit paghulaan, unu in hiyuwat-huwat niyu kakitaan didtu?

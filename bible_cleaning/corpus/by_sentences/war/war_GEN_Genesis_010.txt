@@ -11,7 +11,8 @@ verse	content
 007	An mga anak ni Raama amo hira Saba ug Dedan.
 008	May-ada hi Cus anak nga lalake nga ginngaranan nga Nimrod nga nagin syahan nga gamhanan han kalibutan.
 009	Tungod han bulig han Ginoo usa hiya nga dako nga parapanganop, ngan sanglit nasiring an mga tawo, Himoon ka unta han Ginoo nga sugad kan Nimrod nga maupay nga parapanganop.
-010	Ha tinikangan sakop niya an ginhadian han Babilon, Erec, ug Accad; sakop ini nga tulo han Babilonia.
+010	Ha tinikangan sakop niya an ginhadian han Babilon, Erec, ug Accad;
+010	sakop ini nga tulo han Babilonia.
 011	Tikang didto hito nga tuna kinmadto hi Nimrod ha Asiria ngan gintindog an mga syudad han Ninive, Rehobot-ir, Cala,
 012	ug Resen nga nabubutnga han Ninive ngan han dako nga syudad han Cala.
 013	An mga tulin ni Ehipto amo an mga tawo han Lydia, Anam, Lehab, Naftu,
@@ -27,7 +28,8 @@ verse	content
 022	An mga anak nga kalalaken-an ni Sem: hira Elam, Asur, Arfacsad, Lud, ug Aram, amo an mga ginikanan han mga tawo nga nagdadara han ira mga ngaran.
 023	An mga tulin ni Aram amo an mga tawo han Hus, Hul, Geter, ug Mosec.
 024	Hi Arfacsad amo an amay ni Sela nga amay ni Eber.
-025	May-ada duha nga mga anak nga lalake ni Eber: ginngaranan an usa nga Peleg, kay nagkabahinbahin an mga tawo han kalibutan sulod han iya panahon; ngan ginngaranan an ikaduha nga Joctan.
+025	May-ada duha nga mga anak nga lalake ni Eber: ginngaranan an usa nga Peleg, kay nagkabahinbahin an mga tawo han kalibutan sulod han iya panahon;
+025	ngan ginngaranan an ikaduha nga Joctan.
 026	An mga tulin ni Joctan amo an mga tawo han Almodad, Selef, Asarmot, Jera,
 027	Adoram, Usal, Dicla,
 028	Hebal, Abimael, Saba,

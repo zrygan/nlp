@@ -1,7 +1,8 @@
 verse	content
 001	Nadid ay dinulawan ni Jesus en disepulus na hidi sakay inatddan na hidi ti kapangyariyan a magpalayas ti mgkaduks a ispiritu sakay magpapiyya ten tehud hidi a saket.
 002	Hidi iddi en ngaran nen sapulu ay ti duwwa a apostol: en purumeru ay ti Simon a ngngngaranan a Pedro, sakay ti Andres a kapatkaka na, de Santiago ay ti Juan a anak ni Zebedeo;
-003	ti Felipe, ti Bartolome, ti Tomas, sakay ti Mateo a mgsinger ti buwes; ti Santiago a anak ni Alfeo, sakay ti Tadeo.
+003	ti Felipe, ti Bartolome, ti Tomas, sakay ti Mateo a mgsinger ti buwes;
+003	ti Santiago a anak ni Alfeo, sakay ti Tadeo.
 004	Ti Simon a Makabanuwan sakay ti Judas Iscariote, a nngtokyon knni Jesus.
 005	Inutusan hidi ni Jesus sakay binilin na hidi ti kona hddi, Dyan kam umangay ten lugar nen Hentil hidi oni hdya man a banuwan nen Samaritano hidi.
 006	Nan aryokn moy en ngketawtaw hidi a tupa, ten tolay hidi nen Diyos ti Israel.
@@ -25,7 +26,8 @@ verse	content
 019	Ti odasid a iyud ay dyan kam mabalisa ni nya kagiyn moyid, oni ni konya kam a magpatunay.
 019	Gapu ipagkaluub dikomoy ni nya i dapat moyid a kagiyn.
 020	Gapu bakn a sikam en magupos nan en Ispiritu nen Ama moy ten pamamag-itan moy.
-021	Itokyon nen kapatkaka na en sadili na a kapatkaka tnni pabunu, kona bi hud gamitnnid ten ama ten anak na; sakay labanan nen anak hidi en dddikl di hidi sakay pabunu di hidi.
+021	Itokyon nen kapatkaka na en sadili na a kapatkaka tnni pabunu, kona bi hud gamitnnid ten ama ten anak na;
+021	sakay labanan nen anak hidi en dddikl di hidi sakay pabunu di hidi.
 022	Kaiyamutan kam nen atanan gapu ten pgsunud moy dikoku.
 022	Peru en manatili a matapat dikoku hanggan ten katapusan ay maligtas.
 023	Ni usign di kam ten essa a banuwan ay guminan kam ten kadeni na a banuwan.
@@ -45,7 +47,8 @@ verse	content
 031	Kaya dyan kam manteng gapu mas mahalaga kam nan en digns hidi.
 032	Ni deyaman en mangtenggi dikoku ten atubengn nen katolayan ay tenggiyn ku bi ten atubengn nen Ama ku dilanget.
 033	Peru ni deyaman en mngkasaniki dikoku ten atubengn nen katolayan ay, ikasaniki ku bi ten atubengn nen Ama ku a ked dilanget.
-034	Dyan moy isipn a ummangayk hddi tnni magtawid ti kapayapaan; nan ummangayk hddi tnni magtawid ti ispada bakn a kapayapaan.
+034	Dyan moy isipn a ummangayk hddi tnni magtawid ti kapayapaan;
+034	nan ummangayk hddi tnni magtawid ti ispada bakn a kapayapaan.
 035	Ummangayk hddi tnni paglabann en anak a lllaki sakay en ama na, sakay en anak a bbbi sakay en ina, sakay en magkatugngan a bbbi.
 036	Sakay en magin kadima nen essa a tolay ay en sadili na dn a kabilay.
 037	Ni deyaman en mangmahal ten ama na oni ten ina na ti mas higit dikoku ay awan karapatdapat dikoku.

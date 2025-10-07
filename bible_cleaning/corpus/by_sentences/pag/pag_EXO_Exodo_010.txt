@@ -9,7 +9,8 @@ verse	content
 005	Dakerakel iran tuloy, kanyan nakayatan day intiron dalin.
 005	Kanen day amin a bengatlan ag dineral na saramay kristal, ya anggan saray nakdaan a kakiewan.
 006	Panoen da ray palasiom tan saray kaabungan na saray opisyal mo tan amin a totoom.
-006	Mapalaloy panderal da; anggan saray lalaki yo et ag ira akanengneng na onyan panagderal da.
+006	Mapalaloy panderal da;
+006	anggan saray lalaki yo et ag ira akanengneng na onyan panagderal da.
 006	Insan imbeneg nen Moises so ari tan linma la.
 007	Saray opisyal na ari kuandad sikato, Kapigay pangangga na panggunigon na sayan too ed sikatayo?
 007	Abuloyan mo la ray Israelitan lalaki ya ontaynan, pian nigalang day Katawan a Dios da.
@@ -29,22 +30,26 @@ verse	content
 013	Diad kaimbwasan awit na dagem iray dorun.
 014	Mapalet iran sinmabi tan kinayatan day intiron bansa.
 014	Sankarakelan la man ya anengneng a dorun, tan anggapo lay mipara ed karakel da anggan kapigan a panaon nen saman tan diad arapen.
-015	Kinobutan day intiron dalin ya anggad andeket so nengneng to; binuag day amin a bengatlan ag aderal na oran a kristal, pati amin a bungay kakiewan.
+015	Kinobutan day intiron dalin ya anggad andeket so nengneng to;
+015	binuag day amin a bengatlan ag aderal na oran a kristal, pati amin a bungay kakiewan.
 015	Anggapoy atilak a birdi ed anggan dinan a kiew odino tanaman ed intiron dalin na Egipto.
 016	Insan say ari impaawit ton tampol ira di Moises tan Aaron tan kuanto, Nankasalanan ak ed Katawan a Dios yo tan diad sikayo.
 017	Pirdona yo ak pan maminsan labat ni ed sayan kasalanan ko tan pikasi yod Katawan a Dios yo a paandien to lad siak yan makapatey a dusa.
 018	Tinaynan nen Moises so ari tan akikasid Katawan .
-019	Say Katawan pinasiplug toy mabisbiskeg a dagem a nanlapud sagur; impalir na sayan dagem ira may dorun tan imbantak to ran amin ed Dayat ya Ambalanga.
+019	Say Katawan pinasiplug toy mabisbiskeg a dagem a nanlapud sagur;
+019	impalir na sayan dagem ira may dorun tan imbantak to ran amin ed Dayat ya Ambalanga.
 019	Anggapoy anggan sakey a dorun ya atilak ed intiron Egipto.
 020	Balet pinaawet na Katawan so puso na ari, kanyan ag to inabuloyan ya ontaynan iray Israelita.
 021	Insan inkuan na Katawan ed kinen Moises, Itorom ed tawen so limam, et nakobutan na mapalalon bilonget so intiron dalin na Egipto, a diad kinabilonget to nalikna na katoowan.
 022	Si Moises intoro tod tawen so lima to, tan binmilbilonget ed loob na taloran agew so intiron dalin na Egipto.
 023	Ag makapannenengnengan iray Egipsio, kanyan anggapoy anggan sakey a pinmaway ed abung to ed loob na taloy agew.
 023	Balet walay liwawa ed pasen a panaayaman na saray Israelita.
-024	Impaawit na ari si Moises tan kuanto, Nayarian yo lay onla a mangigalang ed Katawan ; nayarian yo lan awiten iray bibii tan saray ogogaw.
+024	Impaawit na ari si Moises tan kuanto, Nayarian yo lay onla a mangigalang ed Katawan ;
+024	nayarian yo lan awiten iray bibii tan saray ogogaw.
 024	Balet itilak yo dia ray karniro yo, saray kanding yo, tan saray baka yo.
 025	Inmebat si Moises, Ontan sirin, sikay mangiter ed sikami na saray ayayep a para ibagat tan saray bagat a popoolan ya isaklang mi rad Katawan a Dios mi.
-026	Andi, awiten mi ray ayayep mi; ag kamin balut mangitilak.
+026	Andi, awiten mi ray ayayep mi;
+026	ag kamin balut mangitilak.
 026	Sikamin dili so nepeg a mampili na saray ayayep ya ikana mid pangigalang ed Katawan a Dios mi.
 026	No ag kami ni akasabid man, ag mi naamtaan no dinan iran ayep so ibagat mid sikato.
 027	Pinaawet na Katawan so puso na ari, kanyan ag to abuloyan ya onla la ray Israelita.

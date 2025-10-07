@@ -15,7 +15,8 @@ verse	content
 010	ug ang mga anak niya nga sila si Hanoc, si Pallu, si Hezron ug si Carmi;
 011	si Simeon ug ang iyang mga anak nga sila si Jemuel, si Jamin, si Ohad, si Jakin, si Zohar ug si Shaul nga anak sa babaye nga taga-Canaan;
 012	si Levi ug ang iyang mga anak nga si Gerson, si Kohat ug si Merari;
-013	si Juda ug ang iyang mga anak nga si Shela, si Perez ug si Zera Ang mga anak ni Juda nga si Er ug si Onan namatay didto sa Canaan; ang mga anak ni Perez nga sila si Hezron ug si Hamul;
+013	si Juda ug ang iyang mga anak nga si Shela, si Perez ug si Zera Ang mga anak ni Juda nga si Er ug si Onan namatay didto sa Canaan;
+013	ang mga anak ni Perez nga sila si Hezron ug si Hamul;
 014	Si Isacar ug ang iyang mga anak nga si Tola, si Puva, si Iob ug si Shimron;
 015	si Zabulon ug ang iyang mga anak nga si Sered, si Elon ug si Jaleel.
 016	Mao kini sila ang mga anak ni Jacob ug ni Lea didto sa Mesopotamia, wala pay labot kang Dina nga iyang babayeng anak.

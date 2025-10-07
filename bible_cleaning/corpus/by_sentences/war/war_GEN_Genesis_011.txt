@@ -5,7 +5,8 @@ verse	content
 003	Sanglit nagkamay-ada hira mga baldosa nga igtirindog ngan alkitran hin pagturugkop han mga baldosa.
 004	Nagsiring hira, Yana pagtindog kita hin usa nga syudad nga may-ada lantawan nga maabot ha langit, basi makaangkon kita hin ngaran para ha aton kalugaringon ngan diri kita magsarang ha bug-os nga tuna.
 005	Niyan linmusad an Ginoo hin pagkita han syudad ngan han lantawan nga gintindog hito nga mga tawo,
-006	ngan nagsiring hiya, Yana usa la nga katawhan ini hira ngatanan ngan nagyayakan hira hin usa la nga pinulongan; tinikangan pa la ini han ira nahuhunahunaan hin pagbuhat.
+006	ngan nagsiring hiya, Yana usa la nga katawhan ini hira ngatanan ngan nagyayakan hira hin usa la nga pinulongan;
+006	tinikangan pa la ini han ira nahuhunahunaan hin pagbuhat.
 006	Diri maiha mahihimo nira an bisan ano nga ira karuyag!
 007	Lusad kita ngan guponga ta an ira pinulongan basi diri hira magkasarabot.
 008	Sanglit ginpasarang han Ginoo hira ngatanan ha bug-os nga tuna ngan ginpaukoy nira an pagtindog han syudad.

@@ -21,7 +21,8 @@ verse	content
 014	Amo ini an halad hin pagkuha han mga sala han kapadian.
 015	Kuhaa an usa han mga karnero nga lalaki ngan sidnga hi Aaron ngan an iya mga anak hin pagpandong han ira mga kamot ha ulo hini.
 016	Ihawa ini, ngan kuhaa an dugo ngan igsablig ngada han upat nga mga ligid han altar.
-017	Pag-atadoha an karnero nga lalaki; hugasi an sakob han ginhawa ngan an mangorhe nga mga paa hini, ngan igbawbaw ini han ulo ngan han iba nga mga gintiros.
+017	Pag-atadoha an karnero nga lalaki;
+017	hugasi an sakob han ginhawa ngan an mangorhe nga mga paa hini, ngan igbawbaw ini han ulo ngan han iba nga mga gintiros.
 018	Tubora an bug-os nga karnero nga lalaki dida han altar nga usa nga halad nga pagkaon.
 018	Nakakapahimuot ha akon an kahamot hini nga halad.
 019	Kuhaa an ikaduha nga karnero nga lalakian karnero nga para hin paghalad ngan sidnga hi Aaron ngan an iya mga anak nga kalalaken-an hin pagpandong han ira mga kamot ha ulo hini.
@@ -45,7 +46,8 @@ verse	content
 032	Kakaonon ini nira didto han porta han Tulda han Ginoo upod han tinapay nga nahisalin dida han basket.
 033	Kakaonon nira an ginamit dida han seremonyas hin pagpasaylo han ira ordinasyon.
 033	Kapadian la an makakakaon hini nga pagkaon kay baraan ini.
-034	Kon may mahisalin han karne o han tinapay ngada han pagkaaga, kinahanglan pagtuboron ini; kinahanglan diri ini kaonon, kay baraan ini.
+034	Kon may mahisalin han karne o han tinapay ngada han pagkaaga, kinahanglan pagtuboron ini;
+034	kinahanglan diri ini kaonon, kay baraan ini.
 035	Buhata sulod hin pito ka adlaw an ordinasyon kan Aaron ngan han iya mga anak nga kalalaken-an sumala han akon iginsugo ha imo.
 036	Kinahanglan maghalad ka kada adlaw hin baka nga lalaki nga usa nga halad nga tutuboron, basi pasayloon an sala.
 036	Makakalinis ini han altar.

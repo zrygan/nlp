@@ -1,5 +1,6 @@
 verse	content
-001	Noon ay inaalagaan ni Moises ang kawan ni Jetro na kanyang biyenan na pari sa Midian; kanyang pinatnubayan ang kawan sa kabila ng ilang at nakarating sa bundok ng Diyos, sa Horeb.
+001	Noon ay inaalagaan ni Moises ang kawan ni Jetro na kanyang biyenan na pari sa Midian;
+001	kanyang pinatnubayan ang kawan sa kabila ng ilang at nakarating sa bundok ng Diyos, sa Horeb.
 002	Ang anghel ng Panginoon ay nagpakita sa kanya sa isang ningas ng apoy na mula sa gitna ng isang mababang punungkahoy.
 002	Siya'y nagmasid at ang punungkahoy ay nagliliyab ngunit ito'y hindi nasusunog.
 003	Sinabi ni Moises, Ako'y pupunta sa kabila at titingnan ko itong dakilang panooring ito, kung bakit ang punungkahoy ay hindi nasusunog.
@@ -15,7 +16,8 @@ verse	content
 009	At ngayon, ang daing ng mga anak ni Israel ay nakarating sa akin, at nakita ko rin ang pang-aapi na ginawa sa kanila ng mga Ehipcio.
 010	Halika, ikaw ay aking susuguin kay Faraon upang iyong ilabas sa Ehipto ang aking bayan, ang mga anak ni Israel.
 011	Sinabi ni Moises sa Diyos, Sino ako upang pumaroon kay Faraon at upang ilabas sa Ehipto ang mga anak ni Israel?
-012	Kanyang sinabi, Ako'y makakasama mo; at ito'y magiging tanda sa iyo na ikaw ay aking sinugo: kapag iyong nailabas na sa Ehipto ang bayan, sasambahin ninyo ang Diyos sa bundok na ito.
+012	Kanyang sinabi, Ako'y makakasama mo;
+012	at ito'y magiging tanda sa iyo na ikaw ay aking sinugo: kapag iyong nailabas na sa Ehipto ang bayan, sasambahin ninyo ang Diyos sa bundok na ito.
 013	Ngunit sinabi ni Moises sa Diyos, Pagdating ko sa mga anak ni Israel at sasabihin ko sa kanila, Sinugo ako sa inyo ng Diyos ng inyong mga ninuno, at sasabihin nila sa akin, Ano ang kanyang pangalan?
 013	Anong sasabihin ko sa kanila?
 014	Sinabi ng Diyos kay Moises, AKO AY ANG AKO NGA.

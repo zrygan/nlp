@@ -15,7 +15,8 @@ verse	content
 007	Amo to kag nag-agto si Jesus sa palibot nga mga baryo kag magpanudlo sa mga tawo.
 008	Dayon, gintipon na ang napulo'g darwa ka mga disipulo kag ginpapanaw nga tag darwa-darwa.
 008	Gintugroan na sanda kang gahum sa pagpanabog kang mga malaot nga ispirito.
-009	Ginbilinan na sanda, Indi kamo magdara kang bisan ano sa inyo nga pagpanaw magluwas lang sa baston; indi man kamo magbalon kang pagkaun ukon puyo-puyo ukon kwarta.
+009	Ginbilinan na sanda, Indi kamo magdara kang bisan ano sa inyo nga pagpanaw magluwas lang sa baston;
+009	indi man kamo magbalon kang pagkaun ukon puyo-puyo ukon kwarta.
 010	Magsuksok kamo kang sandalyas pero indi kamo magdara kang inyong irislan nga bayo.
 011	Ginkun-an na pa gid sanda, Kon sa diin nga balay kamo batonon, rugyan kamo tiner hasta nga maghalin kamo sa lugar nga ria.
 012	Kon may mga lugar nga indi magbaton kaninyo kag indi magpamati kaninyo, tataka ninyo ang yab-ok sa inyo mga kahig sa inyong paghalin, bilang patimaan nga wara run kamo ti sarabtun kananda.
@@ -84,7 +85,8 @@ verse	content
 056	Indi kamo magkahadluk.
 057	Dayon nagsakay si Jesus sa baruto kag nag-imaw kananda, kag nagkanay ang hangin.
 057	Natingala gid sanda ka mayad
-058	tungud hay wara nanda mahangpi ang kahulogan kang pagpamuad ni Jesus kang mga tinapay; nadulman pa ang andang mga panghuna-huna.
+058	tungud hay wara nanda mahangpi ang kahulogan kang pagpamuad ni Jesus kang mga tinapay;
+058	nadulman pa ang andang mga panghuna-huna.
 059	Pagkatabok nanda sa linaw, sa Genesaret sanda nagdungka kag rugto nanda gin-gaid ang andang baruto.
 060	Pagkatakas nanda, nakilala dayon kang mga tawo si Jesus.
 061	Gani nagdinalagan ang mga tawo sa bilog nga rehiyon kag ginadara nanda ang mga masakitun sa andang baratangan sa bisan diin nga lugar nga mabatian nanda nga rugto si Jesus.

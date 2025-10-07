@@ -49,17 +49,20 @@ verse	content
 026	Sayod mo gal nga ginaani ko ang patubas aber bukon ako ang nagtanom kag ginabuoy ko da ang ganansya ng pinangabudlayan ng iban.
 027	Bas way mo ginghuyog ang akon kwarta sa bangko para sa akon pagbalik, mabubuoy ko ang akon kwarta nga may tub?
 028	Pagkatapos naghambay siya sa iban nga mga ulipon, Buy-a sa iya ang kwarta kag itao sa ulipon nga may 10,000.
-029	Kay ang masaligan taw-an pa gid kag madam pa ang idudugang sa iya; pero ang ind masaligan, aber ang maisot nga yar sa iya hay buy-on pa.
+029	Kay ang masaligan taw-an pa gid kag madam pa ang idudugang sa iya;
+029	pero ang ind masaligan, aber ang maisot nga yar sa iya hay buy-on pa.
 030	Ang ulipon nga way ning puyos hay ipilak sa luwas kag didto sa kaduyom-duyom hay magadinanguyngoy siya kag magapinagot ang iya ngipon.
 031	Pag-abot ko nga Ung ng Tawo nga may gahom bilang har, kaibahan ang tanan nga mga anghel, magapungk ako sa akon trono.
 032	Ang tanan nga tawo sa kalibutan pagatipunon sa akon atubangan.
 032	Pagkatapos lainon ko sinda pareho ng paglain ng pastor sa iya mga karnero kag mga kambing.
 033	Ang mga matarong nga pareho sa mga karnero hay ibubutang ko sa akon tuo kag ang mga malain nga pareho sa mga kambing hay ibubutang ko sa akon waya.
 034	Pagkatapos bilang Har, magahambay ako sa mga tawo sa akon tuo, Kari kamo nga gingpakamaayo ng akon Amay, batuna nindo ang indo panublion sa gingharian ng Dios nga gingpreparar niya para sa indo tun pa nang gingtuga ang kalibutan.
-035	Kay nang ginggutom ako, gingpakaon nindo; nang ging-uhaw ako gingpainom nindo.
+035	Kay nang ginggutom ako, gingpakaon nindo;
+035	nang ging-uhaw ako gingpainom nindo.
 035	Nang naging istranghero ako, gingpadayon nindo;
 036	nang way ako may gingbar, gingbaruan nindo.
-036	Nang nagmasakit ako, ging-atamanan nindo; nang gingpriso ako, gingbisita nindo ako.
+036	Nang nagmasakit ako, ging-atamanan nindo;
+036	nang gingpriso ako, gingbisita nindo ako.
 037	Pagkatapos magahambay ang mga matarong, Ginoo, kasan-o ka namon nakit nga ginggutom kag gingpakaon ka namon, o ging-uhaw kag gingpainom?
 038	Kasan-o ka namon nakit nga naging istranghero kag gingpadayon, o way may gingbar kag gingbaruan?
 039	Kag kasan-o ka namon nakit nga nagmasakit o gingpriso kag gingbisita ka namon?
@@ -67,7 +70,9 @@ verse	content
 041	Pagkatapos magahambay naman ako sa mga tawo sa akon waya, Palay kamo sa akon!
 041	Gingsump kamo para sa kalayo nga nagadabadaba nga way katapusan nga gingpreparar para sa diyablo kag sa iya mga anghel.
 042	Kay ginggutom ako, pero way nindo ako gingpakaon, ging-uhaw ako, pero way nindo ako gingpainom.
-043	Nang naging istranghero ako, way nindo ako gingpadayuna; nang way ako may gingbar, way nindo ako gingbarui; nang nagmasakit ako kag gingpriso, way nindo ako ging-atamani.
+043	Nang naging istranghero ako, way nindo ako gingpadayuna;
+043	nang way ako may gingbar, way nindo ako gingbarui;
+043	nang nagmasakit ako kag gingpriso, way nindo ako ging-atamani.
 044	Pagkatapos magasabat sinda, Ginoo, kasan-o ka namon nakit nga ginggutom o ging-uhaw, naging istranghero o way may gingbar, nagmasakit o gingpriso nga way ka namon gingbuligi?
 045	Kag magasabat ang Har, Sa matuod lang ginahambay ko sa indo, kung way nindo pagbuligi ang isa sa mga kauturan ko, aber siya ang pinakapobre, ako da ang way nindo gingbuligi.
 046	Kag sinda hay pagapalayason kag pagaparusahan sa way katapusan.

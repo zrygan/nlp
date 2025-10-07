@@ -9,7 +9,8 @@ verse	content
 007	E kayu gagawang maling paratang ni paburen miyatulan kamatayan ing taung alang kasalanan.
 007	Parusan ke ing ninumang darapat king anti kaniting e ustung dapat.
 008	E kayu tatanggap nanumang suhul, uling bubulagan na la ning suhul ding tau ban e ra akit ing katuliran, at iti ing makapahamak king kasu na ning taung alang kasalanan.
-009	E ye lulupigan ing ninumang dayuan; balu yu nung nanu ing panamdaman na ning metung a dayuan, uling meging dayuan kayu naman karin king Ehipto.
+009	E ye lulupigan ing ninumang dayuan;
+009	balu yu nung nanu ing panamdaman na ning metung a dayuan, uling meging dayuan kayu naman karin king Ehipto.
 010	Kilub ding anam a banua tamnanan yu't pupulanan ing gabun yu,
 011	pero e ye tatamnanan karas ning kapitung banua.
 011	E yu naman pupupulan ing nanumang tumubu karin.
@@ -36,11 +37,14 @@ verse	content
 025	Muna ya kekayu ing kanakung anghel, at idala na kayu king gabun da ring Amoreo, Hiteo, Perezeo, Cananeo, Heveo, at Jebuseo a pawa kung paglipulan.
 026	E kayu duruku karing kikilalanan dang dios at e kayu sasamba karela, at e kayu makiapus king daraptan da.
 026	Lasakan yu lang lubus ding kikilalanan dang dios at durugan ding asias a batu a sasamban da.
-027	Nung samban yu ku, aku, ing Ginung kekayung Dios, bendisyunan da kayu; dinan da kayung pamangan, inuman, at ilako ku ing nanumang sakit libutad yu.
+027	Nung samban yu ku, aku, ing Ginung kekayung Dios, bendisyunan da kayu;
+027	dinan da kayung pamangan, inuman, at ilako ku ing nanumang sakit libutad yu.
 028	E mika babaing baug king lugal yu at alang makikuan.
 028	Pakaban ku ing bie yu.
-029	Papagalgalan ku la ring taung lumaban kekayu, at mabalisa la ring sablang balen king paniatang yu; paurungan ku la at papulayan ding kalaban yu.
-030	Parala kung putakti at misambulat la ding kalaban yu; itabi ku la ding Heveo, Cananeo, at ding Hiteo.
+029	Papagalgalan ku la ring taung lumaban kekayu, at mabalisa la ring sablang balen king paniatang yu;
+029	paurungan ku la at papulayan ding kalaban yu.
+030	Parala kung putakti at misambulat la ding kalaban yu;
+030	itabi ku la ding Heveo, Cananeo, at ding Hiteo.
 031	E ku la pa itabi kilub ning pabanua pota king pangalako na tau ning lugal, dakal na la man ding animal a mabagsik.
 032	Itabi ku lang tunggal ditak king paniatang yu angga king dakal kayu para sakupan ye, at bandian lubus ing lugal da.
 033	Ing maging angganan na ning kekayung lugalan magumpisa ya king Dagat da ring Timbu angga king Ilug ning Eufrates, at magumpisa ya king Dagat ning Mediteraneo angga king disyerto.

@@ -1,12 +1,14 @@
 verse	content
-001	Ngana ning Ginu kang Moises, Panikan mu ku king bunduk; ituki mu la ri Aaron, Nadab, Abihu, at ding pitung pulung manimuna na ning Israel.
+001	Ngana ning Ginu kang Moises, Panikan mu ku king bunduk;
+001	ituki mu la ri Aaron, Nadab, Abihu, at ding pitung pulung manimuna na ning Israel.
 001	Kabang makarayu kayu pang bagya, duku kayu at samba.
 002	Ika mung bukud ing malyaring lumapit kanaku.
 002	E la sukat mumukiat king bunduk ding tau.
 003	Inyang mibalik ya i Moises karing tau sinabi na ngan karela ing sablang yuyutus na't patupad ning Ginu .
 003	Ngara ngan mekibat king metung mung siwala, Tuparan mi la ngan ding sablang kautusan a binie na ning Ginu .
 004	Binili na ngan Moises king metung a kasulatan ing sablang inutus na ning Ginu .
-004	Itang kabukasan abak a maranun mitalakad yang metung a altar king lele ning bunduk, at saka ya mitalakad labing aduang asias a batu; mangaintulid ya ing balang metung kareti king metung karing labing adua nang tribu ning Israel.
+004	Itang kabukasan abak a maranun mitalakad yang metung a altar king lele ning bunduk, at saka ya mitalakad labing aduang asias a batu;
+004	mangaintulid ya ing balang metung kareti king metung karing labing adua nang tribu ning Israel.
 005	Kaybat mitubud yang mapilan a kayanakan a lalaki ban duluk karing ain para king Ginu at miyain mapilan a baka bilang ain-sakripisyung-pisulusuluan.
 006	Kinua nang Moises ing kapitna king daya, at binili na karing mangaragul a datukanan.
 006	Sinabug na king altar ing mitagan.
@@ -14,16 +16,19 @@ verse	content
 007	Ngarang mekibat ding tau, Tuparan mi ngan at daptan ing sablang inutus na ning Ginu .
 008	Kinua na kanitang Moises ing daya karing datukanan, at pisikanan na la kaniti ding tau.
 008	Ngana karela, Iti ya ing daya a tanda ning kasunduan a tinatag na ning Ginu at ikayu kanitang binie na la deting sablang kautusan.
-009	Kaybat na nita, minta ya i Moises king bunduk; kayabe na la di Aaron, Nadab, Abihu, at ding pitung pulung manimunang makatua na ning Israel.
+009	Kaybat na nita, minta ya i Moises king bunduk;
+009	kayabe na la di Aaron, Nadab, Abihu, at ding pitung pulung manimunang makatua na ning Israel.
 010	Ikit de karin ing Dios ning Israel.
 010	Anti ya ing suelong megawa king safiro a kasing asul na ning banua ing tutukluan na.
 011	Oneng e na la ninanan balang ning Dios deting lalaking peka manimunang makatua na ning Israel.
 011	Kaybat deng ikit ing Dios, mengan la at minum karin.
 012	Ngana ning Ginu kang Moises, Me keni, manik ka at panayan mu ku.
 012	Ibie ku la keka ding aduang tinabas a batu nung nu la ngan mayayakit ding sablang kautusan a sinulat ku para mituru la ding tau.
-013	Migsadia ya i Moises at i Josue a kasaup na; minukiat ya i Moises king bunduk.
+013	Migsadia ya i Moises at i Josue a kasaup na;
+013	minukiat ya i Moises king bunduk.
 014	Nganang minie bilin karing manimunang makatua, Panayan yu kami keti king kampu anggang e ke magbalik.
-014	Kayabe yeng malakuan keti i Aaron at i Hur; ninuman ing mika problema kekayu, karela kayu lumapit.
+014	Kayabe yeng malakuan keti i Aaron at i Hur;
+014	ninuman ing mika problema kekayu, karela kayu lumapit.
 015	Minukiat ne kanita i Moises king bunduk at tikpan ne ning biga ing bunduk.
 016	Migdatun king babo ning bunduk ing makasilo nang aslag ning panga-atyu ning Ginu .
 016	Anam yang aldo makatakap king biga.

@@ -21,7 +21,8 @@ verse	content
 013	Deya i nagkagiyid dikomoy maginanan moy en parusa a dumemt?
 014	Ipeta moy ten pamamag-itan nen gamet a nagsisi kamon, sakay dyan moy ikatuwiran a anak kam ni Abraham.
 014	Kagiyn ku dikomoy, a makalalang en Diyos ti tatarudan a anak ni Abraham ti batuwiday hidi.
-015	Nadid palla ay nakahanda dn en wasay para ten gamot hidi nen kayu; en balang kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
+015	Nadid palla ay nakahanda dn en wasay para ten gamot hidi nen kayu;
+015	en balang kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
 016	Tinanung siya nen tolay hidi, Ni konahud ay nya i dapat miyid a gamitn?
 017	Tummbbig ti Juan, Ni tehud kam a duwwa a badu ay iyatd moy en essa ten awan.
 017	Kona bi hud gamitnnid nen tehud a pagkain.

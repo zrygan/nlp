@@ -10,7 +10,8 @@ verse	content
 007	Mangalada iti dara dagitoy sada iwarsi iti agsumbangir a baotek ken iti ngatoen ti ruangan dagiti balbalay a pakasidaan dagiti animal.
 008	Iti dayta a rabii, masapul a maletson ti urbon ket maipangan ti karnena iti tinapay nga awan lebadurana ken iti nateng a napait.
 009	Diyo kilawen wenno angren ti aniaman a paset no di ket letsonenyo a sibubukel agraman ulo, dagiti saka ken dagiti lalaemna.
-010	Dikay mangipabigat iti uray ania; no adda matda, masapul a mapuoran.
+010	Dikay mangipabigat iti uray ania;
+010	no adda matda, masapul a mapuoran.
 011	Kastoyto ti pannanganyo: masapul a nakakaweskayo a kas agbiahe, sisasapatoskayo, sisasarukodkayo, ket darasenyo a kanen.
 011	Daytoy ti Fiesta ti Paskua a pammadayaw kaniak, ni Yahweh.
 012	Iti dayta a rabii, sursorekto ti Egipto ket papatayek ti amin nga inauna nga annak a lallaki iti pagilian, tao man wenno animal.
@@ -22,7 +23,8 @@ verse	content
 015	Kinuna ni Yahweh, Pito nga aldaw a masapul nga awan lebadura ti tinapay a kanenyo.
 015	Iti umuna nga aldaw, masapul nga ikkatenyo ti amin a lebadura kadagiti balbalayyo.
 015	No adda mangan iti tinapay a nalebaduraan manipud iti umuna agingga iti maikapito nga aldaw, masapul a maisina iti Israel.
-016	Iti umuna nga aldaw, masapul nga adda nasantoan a panaggigimongyo; kastanto manen ti aramidenyo iti maikapito nga aldaw.
+016	Iti umuna nga aldaw, masapul nga adda nasantoan a panaggigimongyo;
+016	kastanto manen ti aramidenyo iti maikapito nga aldaw.
 016	Dikay agtrabaho kadagita nga aldaw, ngem mabalinyo ti agisagana iti kanenyo.
 017	Ngilinenyo daytoy a fiesta agsipud ta iti daytoy met la nga aldaw, inruarko dagiti amin a puliyo iti daga ti Egipto.
 017	Taginayonenyo a ngilinen a kas fiesta daytoy nga aldaw.
@@ -42,7 +44,8 @@ verse	content
 026	Nagpapatay kadagiti Egipcio ngem dinakami inan-ano.
 027	Nagparintumeng dagiti Israelita ket nagdaydayawda.
 028	Kalpasanna, napanda inaramid ti imbilin ni Yahweh kada Moises ken Aaron.
-029	Iti tengnga ti rabii, pinapatay ni Yahweh dagiti amin nga inauna nga annak a lallaki iti Egipto manipud iti anak ti ari nga agtawid iti trono agingga iti anak ti balud; napapatay met amin nga inauna nga annak dagiti animal.
+029	Iti tengnga ti rabii, pinapatay ni Yahweh dagiti amin nga inauna nga annak a lallaki iti Egipto manipud iti anak ti ari nga agtawid iti trono agingga iti anak ti balud;
+029	napapatay met amin nga inauna nga annak dagiti animal.
 030	Iti dayta a rabii, nariing ti ari, dagiti amin nga ofisialesna ken amin nga Egipcio.
 030	Adda napigsa a dung-aw iti entero nga Egipto gapu ta adda minatay iti tunggal balay.
 031	Iti dayta met la a rabii, pinaayaban ti ari da Moises ken Aaron.
@@ -73,11 +76,13 @@ verse	content
 043	Maiparit ti ganggannaet a mangan iti daytoy
 044	ngem mabalin a mangan ti amin a nagatang a tagabu no la ket kugitenyo ida nga umuna.
 045	Maiparit ti sangsangaili wenno mangmangged a mangan iti daytoy.
-046	Masapul a kanenyo iti balay a nakaisaganaanna; diyo iruar iti balay.
+046	Masapul a kanenyo iti balay a nakaisaganaanna;
+046	diyo iruar iti balay.
 046	Ket diyo tukkolen ti uray ania a tulang ti animal.
 047	Rambakan dagiti amin nga Israelita daytoy a fiesta.
 048	No adda ganggannaet a makipagnaed kadakayo a mayat a mangrambak iti Paskua ni Yahweh, kugitenyo pay nga umuna dagiti lallaki iti familiana.
-048	Kalpasanna, mabalinna ti makipagrambak; maibilangto a kas Israelita.
+048	Kalpasanna, mabalinna ti makipagrambak;
+048	maibilangto a kas Israelita.
 048	Ngem maiparit iti saan a kugit a mangan iti daytoy.
 049	Agpaay daytoy nga alagaden iti nayanak nga Israelita ken iti ganggannaet a makipagnaed kadakayo.
 050	Tinungpal dagiti amin nga Israelita ti imbilin ni Yahweh kada Moises ken Aaron.

@@ -41,7 +41,8 @@ verse	content
 022	Mikayanak ya namang atlung lalaki i Uziel: i Misael, i Elsafan, at i Sitri.
 023	Mekiasawa ya i Aaron kang Eliseba a kapatad nang Nason at anak nang Aminadab.
 023	Ayanak da la ri Nadab, Abihu, Eleazar, at i Itamar.
-024	Atin yang atlung anak a lalaki i Kora; ila di Asir, Elkana, at i Abiasaf.
+024	Atin yang atlung anak a lalaki i Kora;
+024	ila di Asir, Elkana, at i Abiasaf.
 024	Ila deti ring meging bunga na ning pamilya nang Kora.
 025	Mekapakiasawa ya i Eleazar a anak nang Aaron king metung karing anak nang Futiel, at ayanak de i Fineas.
 025	Ila deti ring buntuk ding pamilya at pamilya na ning tribu nang Levi.

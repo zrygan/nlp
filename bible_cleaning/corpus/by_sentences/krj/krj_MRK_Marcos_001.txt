@@ -27,7 +27,8 @@ verse	content
 021	Lagi-lagi ginbayaan nanda ang andang mga pukot kag magsunod kana.
 022	Nagpadayon pa gid si Jesus sa pagpanaw kag sa uruunahan may nakita pa gid tana nga magbugto nga sanday Santiago kag Juan nga mga bata ni Zebedeo.
 022	Sa andang baruto sanda ka dya nga nagapamuna kang andang pukot.
-023	Pagkakita kananda ni Jesus, gintawag na dayon sanda; ginbayaan nanda ang andang tatay nga si Zebedeo sa baruto imaw kang mga tawo nga andang ginasuholan, kag magsunod kay Jesus.
+023	Pagkakita kananda ni Jesus, gintawag na dayon sanda;
+023	ginbayaan nanda ang andang tatay nga si Zebedeo sa baruto imaw kang mga tawo nga andang ginasuholan, kag magsunod kay Jesus.
 024	Nag-agto sanday Jesus sa banwa kang Capernaum.
 024	Pag-abot kang Adlaw nga Inugpahuway, nag-agto si Jesus sa sinagoga kag nagpanudlo sa mga tawo.
 025	Natingala gid ang mga tawo sa anang pagpanudlo, tungud hay nagapanudlo tana nga may awtoridad, kag bukun ti pareho kang mga manunudlo kang kasugoan.
@@ -64,7 +65,8 @@ verse	content
 043	Kar-on, may sangka aruon nga nagparapit kay Jesus.
 043	Nagluhod dya kag nagpakitluoy kana nga nagakuon, Kon gustohon mo, sarang mo ako maayad kag himoon nga limpyo suno sa kasugoan.
 044	Nangir-o gid si Jesus kana.
-044	Dayon gindawhat na dya kag tandugun, kag nagkuon, Huud, gusto ko gid; ayad run!
+044	Dayon gindawhat na dya kag tandugun, kag nagkuon, Huud, gusto ko gid;
+044	ayad run!
 045	Kato lagi, nadura ang aru kang tawo, kag nag-ayad run tana.
 046	Ginpaandaman gid tana ka mayad ni Jesus kag ginpapanaw lagi.
 047	Nagkuon si Jesus kana, Sigurohon mo gid nga indi ikaw magpanugid sa bisan kay sin-o nahanungud sa butang nga dya, pero ang himoon mo agto ikaw sa pari kag magpaturuk kana.

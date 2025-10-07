@@ -35,7 +35,8 @@ verse	content
 024	Inmebat, Say amak si Betuel a lakin anak nen Nacor tan Milca.
 025	Dakel ed sikami ray dayami tan arum a nakan na ayep, tan walay pasen a napanayaman mo.
 026	Tinmalimukor imay aripen tan inggalang toy Katawan .
-027	Inkuanto, Nadayew komuy Katawan a Dios na amok ya Abraham; tinoor toy sipan tod kinen amok.
+027	Inkuanto, Nadayew komuy Katawan a Dios na amok ya Abraham;
+027	tinoor toy sipan tod kinen amok.
 027	Say Katawan inwanwan to ak a linma ed saray dilin kakanayon nen amok.
 028	Batik imay marikit ed abung nen ina to tan imbaga toy amin ya agawa.
 029	Walay lakin agi nen Rebeca a manngaray Laban.
@@ -74,7 +75,8 @@ verse	content
 048	Inyan kod satan so singsing ed eleng to tan saray pulsiras ed saray taklay to.
 049	Tinmalimukor ak tan inggalang koy Katawan .
 049	Indayew koy Katawan a Dios na amok ya Abraham ya angiwanwan ed siak a tampol ed kanayon na amok, a walay biin anak ton nalmok a para anak na amok.
-050	Natan, no maliket kayon manumpal na kanepegan yo tan gawaen yod kinen amok so manepeg, ibaga yo; no andi, ibaga yo met, pian amtak so gawaen ko.
+050	Natan, no maliket kayon manumpal na kanepegan yo tan gawaen yod kinen amok so manepeg, ibaga yo;
+050	no andi, ibaga yo met, pian amtak so gawaen ko.
 051	Inmebat si Laban tan si Betuel, Nanlapud Katawan yan bengatla, kanyan aliwan sikamiy nepeg ya onebat na on odino andi.
 052	Niay Rebeca, itagar mo no ompawil ka.
 052	Paasawam ed satay anak na amom, onung na imbagay Katawan .
@@ -85,7 +87,8 @@ verse	content
 055	Kabangon dad kabwasan, inkuanto may aripen, Abuloyan yo ak lan onsempet ed amok.
 056	Balet inkuan na samay agi nen Rebeca tan si ina to, Panayam yo ni diay Rebeca na sakey a simba o samploran agew, insan ki la onla.
 057	Inmebat, Ag yo ak la popokpokan.
-057	Lapud Katawan , maung so nansumpalan to yan akar ko; abuloyan yo ak lan onsempet ed amok.
+057	Lapud Katawan , maung so nansumpalan to yan akar ko;
+057	abuloyan yo ak lan onsempet ed amok.
 058	Inkuanda, Tawagen tayoy Rebeca, ta tepetan tayo no antoy kuantod saya.
 059	Tinawag da sirin tan tinepet da, Labay mo lay milad sayan too?
 060	On, ebat to.

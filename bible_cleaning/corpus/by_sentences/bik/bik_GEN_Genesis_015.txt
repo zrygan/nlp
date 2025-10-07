@@ -1,15 +1,18 @@
 verse	content
 001	Pakatapos kan mga pangyayaring ini, nagtaram an Kagurangnan ki Abram sa sarong bisyon, Dai ka matakot, Abram.
-001	Ako an saimong kalasag; dakula nin marahay an saimong magigin premyo.
+001	Ako an saimong kalasag;
+001	dakula nin marahay an saimong magigin premyo.
 002	Alagad nagsimbag si Abram, O Kagurangnan Dios , anong halaga kan itatao mo sakong premyo huli ta mayo akong aki, asin an sakong eredero iyo si Eliezer kan Damasco.
 003	Dai mo ako tinawan nin aki, asin sarong oripon na namundag sa sakong harong an sakong magigin eredero.
 004	Nadangog niya giraray na nagtaram saiya an Kagurangnan , Bako si Eliezer na saimong oripon an saimong magigin eredero kundi an sadiri mong aki.
-005	Dangan dinara nin Kagurangnan si Abram sa luwas asin tinaraman, Hilinga an kalangitan asin bilanga an mga bitoon kun kaya mo; siring kaiyan kadakul an magigin mga kapagarakian mo.
+005	Dangan dinara nin Kagurangnan si Abram sa luwas asin tinaraman, Hilinga an kalangitan asin bilanga an mga bitoon kun kaya mo;
+005	siring kaiyan kadakul an magigin mga kapagarakian mo.
 006	Nagtubod si Abram sa Kagurangnan , asin huli kaini, ibinilang nin Kagurangnan an pagtubod ni Abram bilang sarong katanosan.
 007	Dangan tinaraman nin Kagurangnan si Abram, Ako an Kagurangnan na nagkua saimo sa Ur kan Babilonia tanganing itao saimo ining daga bilang sadiri.
 008	Alagad naghapot si Abram, O Kagurangnan Dios , paano ko maaaraman na mapapasako ini?
 009	Nagsimbag an Kagurangnan , Darahan mo ako nin sarong baka, sarong kanding asin sarong karnero na anas tolong taon an edad, saka sarong salampati asin sarong agbaan.
-010	Dinara ni Abram sa Dios an mga hayop; pakatapos binaraak niya ini gabos, alagad dai niya binaak an mga gamgam.
+010	Dinara ni Abram sa Dios an mga hayop;
+010	pakatapos binaraak niya ini gabos, alagad dai niya binaak an mga gamgam.
 010	Tinaralay niya sa duwang linya an gabos, an kabaak na nasa sarong linya kahampang kan kabaak na nasa saro man na linya.
 011	Nag-arabot an mga bwitre tanganing kakanon an binaraak na mga hayop, alagad binugaw sinda ni Abram.
 012	Kan nagsosolnop na an aldaw, nangatorog nin marahay si Abram asin nagkaigwa siya nin makuring takot.

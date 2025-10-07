@@ -67,7 +67,8 @@ verse	content
 036	Way na ning sug nga mas importante pa diri sa duha.
 037	Naghambay ang eskriba sa iya, Tam ka, Maestro!
 037	Matuod ang imo ginghambay nga may isa lang nga Dios kag way na ning iban pa.
-038	Kag higugmaon mo siya sa bilog nga tagipusuon, sa tanan nga pang-intindi kag sa tanan nga kusog; kag higugmaon mo ang imo isigkatawo pareho ng paghigugm mo sa imo kaugalingon.
+038	Kag higugmaon mo siya sa bilog nga tagipusuon, sa tanan nga pang-intindi kag sa tanan nga kusog;
+038	kag higugmaon mo ang imo isigkatawo pareho ng paghigugm mo sa imo kaugalingon.
 038	Ining duha hay mas importante sa tanan nga halad nga ginasunog kag sa iban pa nga mga sakripisyo.
 039	Pagkabat ni Hesus nga tam ang iya sabat, naghambay siya sa iya, Malapit ka na sa paghahar ng Dios.
 040	Pagkatapos adto, way na gid ning may nangahas nga magpangutana kay Hesus.

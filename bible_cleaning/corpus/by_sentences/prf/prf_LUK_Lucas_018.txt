@@ -25,7 +25,8 @@ verse	content
 015	Dikona a netan iyud nen disepulus hidi ay nagsarantaan di en tolay hidi.
 016	Peru dinulaw ni Jesus en anak hidi sakay kinagi na ten disepulus na hidi, Pabayan moy i anaken hidi a umadeni dikoku.
 016	Dyan moy hidi sawayn, gapu kona dikodi i paghariyanid nen Diyos.
-017	Tandaan moy; ni deyaman en awan mangtanggap ten pghari nen Diyos a kona ten essa a anak ay awan paghariyan nen Diyos.
+017	Tandaan moy;
+017	ni deyaman en awan mangtanggap ten pghari nen Diyos a kona ten essa a anak ay awan paghariyan nen Diyos.
 018	Nadid, nagtanung knni Jesus en pinunu nen Judio hidi, Mahusay a maistu nya i dapat kuwid a gamitn tnni mgkahudk ti biyag a awan ti katapusan?
 019	Tummbbig ti Jesus, Bakin dinulawk mu a mahusay?
 019	Awan ti agum a mahusay nan en Diyos la!

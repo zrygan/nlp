@@ -1,9 +1,11 @@
 verse	content
 001	Mao kini ang mga kaliwat ni Esau o Edom.
 002	Nangasawa si Esau ug mga taga-Canaan.
-002	Sila mao si Ada, ang anak ni Elon nga Hitihanon; si Oholibama, ang anak ni Ana nga lalaking anak ni Sibeon nga Hibihanon;
+002	Sila mao si Ada, ang anak ni Elon nga Hitihanon;
+002	si Oholibama, ang anak ni Ana nga lalaking anak ni Sibeon nga Hibihanon;
 003	ug si Basimat nga anak ni Ismael ug igsoon ni Nebaiot.
-004	Ang anak ni Esau kang Ada mao si Elifas; sa kang Basimat si Reuel;
+004	Ang anak ni Esau kang Ada mao si Elifas;
+004	sa kang Basimat si Reuel;
 005	sa kang Oholibama sila si Jeus, si Jalam ug si Korah.
 005	Mao kini sila ang mga anak nga lalaki ni Esau didto sa Canaan.
 006	Unya gidala ni Esau ang iyang mga asawa, mga anak ug tanang sakop sa iyang panimalay lakip ang iyang kahayopan ug tanan niyang kabtangan nga napanag-iya niya didto sa Canaan.

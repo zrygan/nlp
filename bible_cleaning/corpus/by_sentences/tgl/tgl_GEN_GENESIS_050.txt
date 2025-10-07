@@ -4,7 +4,8 @@ verse	content
 003	Gumugol sila ng apatnapung araw na siyang kailangan upang matupad ang pag-iimbalsamo.
 003	At ang mga Ehipcio ay tumangis para sa kanya ng pitumpung araw.
 004	Nang makaraan na ang mga araw ng kanyang pagtangis, si Jose ay nagsalita sa sambahayan ng Faraon, Kung ngayo'y nakatagpo ako ng biyaya sa inyong paningin ay sabihin ninyo sa pandinig ni Faraon
-005	Pinanumpa ako ng aking ama, na sinasabi, Ako'y malapit nang mamatay; ililibing mo ako doon sa libingan na aking hinukay para sa akin sa lupain ng Canaan.
+005	Pinanumpa ako ng aking ama, na sinasabi, Ako'y malapit nang mamatay;
+005	ililibing mo ako doon sa libingan na aking hinukay para sa akin sa lupain ng Canaan.
 005	Kaya't ngayon ay nakikiusap ako na pahintulutan ninyo akong umalis, at ilibing ko ang aking ama, at muli akong babalik.
 006	Sinabi ng Faraon, Umalis ka, at ilibing mo ang iyong ama, ayon sa kanyang ipinasumpa sa iyo.
 007	Kaya't umalis si Jose upang ilibing ang kanyang ama.
@@ -13,7 +14,8 @@ verse	content
 008	Tanging ang kanilang mga anak lamang, mga kawan, at bakahan, ang iniwan nila sa lupain ng Goshen.
 009	Umahong kasama niya ang mga karwahe at mga nangangabayo.
 009	Iyon ay isang napakalaking pangkat.
-010	Sila'y nakarating hanggang sa giikan sa Atad na nasa kabilang ibayo ng Jordan; at doo'y tumangis sila nang malakas at napakatindi.
+010	Sila'y nakarating hanggang sa giikan sa Atad na nasa kabilang ibayo ng Jordan;
+010	at doo'y tumangis sila nang malakas at napakatindi.
 010	Kanyang ipinagluksa ang kanyang ama sa loob ng pitong araw.
 011	Nang makita ng mga Cananeo na nakatira sa lupaing iyon ang pagtangis sa giikan sa Atad, ay kanilang sinabi, Ito'y isang napakalaking panaghoy para sa Ehipcio, kaya't ang pangalang itinawag dito ay Abel-mizraim, ito ay nasa kabilang ibayo ng Jordan.
 012	Ginawa sa kanya ng kanyang mga anak ang ayon sa iniutos sa kanila.
@@ -28,10 +30,15 @@ verse	content
 019	Subalit sinabi ni Jose sa kanila, Huwag kayong matakot.
 019	Sapagkat ako ba ay nasa lugar ng Diyos?
 020	Kayo, kayo'y nagnasa ng masama laban sa akin, ngunit inilagay ng Diyos para sa kabutihan, upang mangyari ang gaya sa araw na ito, upang mapanatiling buhy ang napakaraming tao.
-021	Kaya't huwag kayo ngayong matakot; pakakainin ko kayo at ang inyong mga anak.
+021	Kaya't huwag kayo ngayong matakot;
+021	pakakainin ko kayo at ang inyong mga anak.
 021	Kanya silang inaliw at nagsalitang may kabaitan sa kanila.
-022	Si Jose ay nanirahan sa Ehipto, siya at ang sambahayan ng kanyang ama; at si Jose ay nabuhay ng isandaan at sampung taon.
-023	Nakita ni Jose ang mga anak ni Efraim hanggang sa ikatlong salinlahi; gayundin ang mga anak ni Makir na anak ni Manases ay ipinanganak sa mga tuhod ni Jose.
-024	At sinabi ni Jose sa kanyang mga kapatid, Ako'y malapit nang mamatay; ngunit kayo'y tiyak na dadalawin ng Diyos, at dadalhin kayo mula sa lupaing ito hanggang sa lupain na kanyang ipinangako kina Abraham, Isaac at Jacob.
+022	Si Jose ay nanirahan sa Ehipto, siya at ang sambahayan ng kanyang ama;
+022	at si Jose ay nabuhay ng isandaan at sampung taon.
+023	Nakita ni Jose ang mga anak ni Efraim hanggang sa ikatlong salinlahi;
+023	gayundin ang mga anak ni Makir na anak ni Manases ay ipinanganak sa mga tuhod ni Jose.
+024	At sinabi ni Jose sa kanyang mga kapatid, Ako'y malapit nang mamatay;
+024	ngunit kayo'y tiyak na dadalawin ng Diyos, at dadalhin kayo mula sa lupaing ito hanggang sa lupain na kanyang ipinangako kina Abraham, Isaac at Jacob.
 025	Pagkatapos ay pinanumpa ni Jose ang mga anak ni Israel, na sinasabi, Kapag dinalaw kayo ng Diyos, dadalhin ninyo ang aking mga buto mula rito.
-026	Kaya't namatay si Jose sa gulang na isandaan at sampung taon; at kanilang inembalsamo siya, at siya'y inilagay sa isang kabaong sa Ehipto.
+026	Kaya't namatay si Jose sa gulang na isandaan at sampung taon;
+026	at kanilang inembalsamo siya, at siya'y inilagay sa isang kabaong sa Ehipto.

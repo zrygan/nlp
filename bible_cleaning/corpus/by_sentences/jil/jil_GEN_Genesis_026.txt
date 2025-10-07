@@ -54,5 +54,6 @@ verse	content
 033	Nagsiling sila, Nakakita kami sing tubig.
 034	Ginhingalanan niya ang bubon Panumpa.
 034	Amo ini ang kabangdanan nga ang siudad ginhingalanan Beerseba.
-035	Si Esau nagaedad sing kwarenta ka tuig sang pagpangasawa niya sang duha ka mga babayi nga Hethanon; si Judit nga anak ni Beeri kag si Basemat nga anak ni Elon.
+035	Si Esau nagaedad sing kwarenta ka tuig sang pagpangasawa niya sang duha ka mga babayi nga Hethanon;
+035	si Judit nga anak ni Beeri kag si Basemat nga anak ni Elon.
 036	Ini sila nagtublag sang pangabuhi ni Isaac kag ni Rebeca.

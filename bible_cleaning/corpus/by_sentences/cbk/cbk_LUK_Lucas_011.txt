@@ -15,7 +15,9 @@ verse	content
 011	Poreso ta habla yo con ustedes, si ta reza pidi gayot y ay recibi ustedes el cosa quiere.
 011	Continua gayot busca y ay encontra ustedes el cosa ta busca.
 011	Continua saluda na puerta y ay invita con ustedes entra.
-012	Cay si quien ta pidi, ele ay recibi; y si quien ta anda busca, ele ay encontra; y ay invita entra con el gente quien ta continua saluda.
+012	Cay si quien ta pidi, ele ay recibi;
+012	y si quien ta anda busca, ele ay encontra;
+012	y ay invita entra con el gente quien ta continua saluda.
 013	Ustedes maga tata aqui hende nunca ay dale culebra con el di ustedes anak, si ta pidi sila pescao.
 014	O si ta pidi tamen sila un bilug huevos, hende ustedes nunca ay dale alacran.
 015	Ustedes maga tata, masquin pecador, sabe gayot quemodo dale cosas bueno con el di ustedes maga anak, poreso puede gayot ustedes asegura que el Padre Celestial ay dale gayot el Espiritu Santo con aquellos quien ta pidi con ele.

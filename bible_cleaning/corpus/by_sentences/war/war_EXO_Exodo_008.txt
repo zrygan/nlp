@@ -42,5 +42,6 @@ verse	content
 030	Kundi kinahanglan diri mo na liwat kami paglimbongan, ngan pagpugngan mo an mga tawo hin paglakat basi maghalad hira han Ginoo .
 031	Binayaan ni Moises an hadi, ngan nag-ampo hiya han Ginoo ,
 032	ngan ginbuhat han Ginoo sumala han pinangaro ni Moises.
-032	Binayaan han kalangawan an hadi, an iya mga opisyal, ngan an iya mga tawo; waray gud nahibilin nga bisan usa nga langaw.
+032	Binayaan han kalangawan an hadi, an iya mga opisyal, ngan an iya mga tawo;
+032	waray gud nahibilin nga bisan usa nga langaw.
 033	Kundi bisan pa hini nga takna, nagmatig-a la gihapon an kasingkasing han hadi, ngan waray na liwat niya palakta an mga Israelita.

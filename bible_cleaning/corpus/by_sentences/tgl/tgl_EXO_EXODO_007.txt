@@ -1,13 +1,16 @@
 verse	content
 001	Sinabi ng Panginoon kay Moises, Tingnan mo, ginawa kita bilang Diyos kay Faraon, at si Aaron na iyong kapatid ay magiging iyong propeta.
-002	Iyong sasabihin ang lahat ng aking iniuutos sa iyo; at sasabihin kay Faraon ni Aaron na iyong kapatid upang pahintulutan ang mga anak ni Israel na lumabas sa kanyang lupain.
+002	Iyong sasabihin ang lahat ng aking iniuutos sa iyo;
+002	at sasabihin kay Faraon ni Aaron na iyong kapatid upang pahintulutan ang mga anak ni Israel na lumabas sa kanyang lupain.
 003	Subalit aking papatigasin ang puso ni Faraon at aking pararamihin ang aking mga tanda at mga kababalaghan sa lupain ng Ehipto.
 004	Ngunit si Faraon ay hindi makikinig sa inyo at aking ipapatong sa Ehipto ang aking kamay at ilalabas ko ang aking mga hukbo, ang aking bayan, na mga anak ni Israel, sa lupang Ehipto sa pamamagitan ng mga dakilang gawa ng paghatol.
 005	Malalaman ng mga Ehipcio na ako ang Panginoon , kapag iniunat ko sa Ehipto ang aking kamay, at inilabas ko ang mga anak ni Israel mula sa kanila.
-006	Gayon ang ginawa ni Moises at ni Aaron; kung ano ang iniutos ng Panginoon sa kanila ay gayon ang ginawa nila.
+006	Gayon ang ginawa ni Moises at ni Aaron;
+006	kung ano ang iniutos ng Panginoon sa kanila ay gayon ang ginawa nila.
 007	Si Moises noon ay walumpung taong gulang at si Aaron ay walumpu't tatlong taong gulang nang sila'y makipag-usap kay Faraon.
 008	Nagsalita ang Panginoon kina Moises at Aaron,
-009	Kapag sinabi ni Faraon sa inyo, Patunayan ninyo ang inyong mga sarili sa pamamagitan ng kababalaghan; at iyo ngang sasabihin kay Aaron, Kunin mo ang iyong tungkod at ihagis mo sa harap ni Faraon, upang ito'y maging isang ahas.
+009	Kapag sinabi ni Faraon sa inyo, Patunayan ninyo ang inyong mga sarili sa pamamagitan ng kababalaghan;
+009	at iyo ngang sasabihin kay Aaron, Kunin mo ang iyong tungkod at ihagis mo sa harap ni Faraon, upang ito'y maging isang ahas.
 010	Kaya't sina Moises at Aaron ay pumunta kay Faraon at kanilang ginawa ang ayon sa iniutos ng Panginoon .
 010	Inihagis ni Aaron ang kanyang tungkod sa harap ni Faraon at ng kanyang mga lingkod at ito'y naging ahas.
 011	Nang magkagayo'y ipinatawag naman ni Faraon ang mga pantas at ang mga manggagaway, at ang mga salamangkero sa Ehipto ay gumawa ng gayundin ayon sa kanilang mga lihim na kaalaman.
@@ -22,10 +25,12 @@ verse	content
 017	Kaya't ganito ang sabi ng Panginoon , Sa pamamagitan nito ay makikilala mo na ako ang Panginoon .
 017	Tingnan mo, aking hahampasin ng tungkod na nasa aking kamay ang tubig na nasa ilog at ito'y magiging dugo.
 018	Ang mga isda na nasa ilog ay mamamatay, ang ilog ay babaho, at ang mga Ehipcio ay mandidiring uminom ng tubig sa Nilo.
-019	Sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron, Kunin mo ang iyong tungkod at iunat mo ang iyong kamay sa tubig sa Ehipto, sa kanilang mga ilog, sa kanilang mga bambang, at sa kanilang mga lawa at sa lahat nilang tipunan ng tubig, upang maging dugo ang mga ito; at magkakaroon ng dugo sa buong lupain ng Ehipto, maging sa mga sisidlang kahoy at maging sa mga sisidlang bato.
+019	Sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron, Kunin mo ang iyong tungkod at iunat mo ang iyong kamay sa tubig sa Ehipto, sa kanilang mga ilog, sa kanilang mga bambang, at sa kanilang mga lawa at sa lahat nilang tipunan ng tubig, upang maging dugo ang mga ito;
+019	at magkakaroon ng dugo sa buong lupain ng Ehipto, maging sa mga sisidlang kahoy at maging sa mga sisidlang bato.
 020	Gayon ang ginawa nina Moises at Aaron, gaya ng iniutos ng Panginoon .
 020	Kanyang itinaas ang tungkod at hinampas ang tubig na nasa ilog, sa paningin ni Faraon at ng kanyang mga lingkod, at ang lahat ng tubig na nasa ilog ay naging dugo.
-021	Ang mga isda sa ilog ay namatay at ang ilog ay bumaho at ang mga Ehipcio ay hindi makainom ng tubig sa ilog; at nagkaroon ng dugo sa buong lupain ng Ehipto.
+021	Ang mga isda sa ilog ay namatay at ang ilog ay bumaho at ang mga Ehipcio ay hindi makainom ng tubig sa ilog;
+021	at nagkaroon ng dugo sa buong lupain ng Ehipto.
 022	Subalit ang mga salamangkero sa Ehipto ay gumawa ng gayundin sa pamamagitan ng kanilang mga lihim na kaalaman.
 022	Ang puso ni Faraon ay nagmatigas, at ayaw niyang pakinggan sila, gaya ng sinabi ng Panginoon .
 023	Si Faraon ay tumalikod at umuwi sa kanyang bahay, na hindi man lamang niya inilagay ito sa kanyang puso.

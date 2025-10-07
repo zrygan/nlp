@@ -19,7 +19,8 @@ verse	content
 012	Ginsiring ka namon nga pabay-an mo na la kami, ngan magpapabilin kami nga mga oripon han mga Ehiptohanon.
 012	Mauroupay pa an kaoripon didto kay hin kamatay dinhe ha kamingawan.
 013	Binmaton hi Moises, Ayaw kamo kahadlok!
-013	Tindog la kamo ha iyo dapit, ngan makita kamo kon ano an pagbubuhaton han Ginoo hin pagtalwas ha iyo yana nga adlaw; diri nagud kamo makita liwat hini nga mga Ehiptohanon.
+013	Tindog la kamo ha iyo dapit, ngan makita kamo kon ano an pagbubuhaton han Ginoo hin pagtalwas ha iyo yana nga adlaw;
+013	diri nagud kamo makita liwat hini nga mga Ehiptohanon.
 014	An Ginoo amo an makikig-away para ha iyo, ngan an kinahanglan la niyo pagbuhaton amo an paghilom.
 015	Nagsiring kan Moises an Ginoo , Kay ano nga nagoliat ka hin pakibulig?
 015	Sidnga an mga tawo nga magpadayon hira tipaunhan.
@@ -43,7 +44,9 @@ verse	content
 026	Niyan nagsiring kan Moises an Ginoo , Unata an imo kamot ha igbaw han dagat, ngan mabalik an tubig ngadto han mga Ehiptohanon ngan han ira mga karuwahe, ngan mga dikabayo.
 027	Sanglit gin-unat ni Moises an iya kamot ha igbaw han dagat, ngan han pagkamaagahon binmalik an tubig ngadto han una niya nga kahilarom hini.
 027	Nagtalinguha an mga Ehiptohanon hin paglikay tikang han tubig, kundi iginduso hira han Ginoo ngadto han dagat.
-028	Binmalik an tubig ngan linapwasan an mga karuwahe, an mga dikabayo, ngan an ngatanan nga kasondalohan nga Ehiptohanon nga naglanat han mga Israelita ngadto han dagat; waray gud usa ha ira nga nahisalin.
+028	Binmalik an tubig ngan linapwasan an mga karuwahe, an mga dikabayo, ngan an ngatanan nga kasondalohan nga Ehiptohanon nga naglanat han mga Israelita ngadto han dagat;
+028	waray gud usa ha ira nga nahisalin.
 029	Kundi tinmabok han dagat an mga Israelita dida han mamara nga salad, nga may mga pader nga tubig ha igkasi ligid.
 030	Dida hito nga adlaw gintalwas han Ginoo an mga tawo han Israel tikang han mga Ehiptohanon, ngan hinkit-an han mga Israelita nga nagsasarang ha baybayon an mga patay nga mga Ehiptohanon.
-031	Han paghikit-i han mga Israelita han dako nga gahom nga ginamit han Ginoo hin pagpirde han mga Ehiptohanon, nahadlok hira nga puno hin pagtahod han Ginoo ; ngan sinmarig hira han Ginoo ngan kan Moises nga iya surugoon.
+031	Han paghikit-i han mga Israelita han dako nga gahom nga ginamit han Ginoo hin pagpirde han mga Ehiptohanon, nahadlok hira nga puno hin pagtahod han Ginoo ;
+031	ngan sinmarig hira han Ginoo ngan kan Moises nga iya surugoon.

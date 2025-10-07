@@ -27,7 +27,9 @@ verse	content
 017	Peru ni gustu mu a magkahud ti biyag a awan ti katapusan, ay sunudn mu en Kautusan nen Diyos.
 018	nya a ka utus?
 018	tanung nen binata.
-019	Tummbbig ti Jesus, Dyan ka mamunu; dyan ka mangalunya; dyan ka magtakaw sakay dyan ka magbuli-buli ten pgtistigu mu.
+019	Tummbbig ti Jesus, Dyan ka mamunu;
+019	dyan ka mangalunya;
+019	dyan ka magtakaw sakay dyan ka magbuli-buli ten pgtistigu mu.
 020	Igalang mu en dddikl mu hidi, sakay mahaln mu en kaparehu mu hidi a kona ten pgmahal mu ten sadili mu.
 021	Kinagi nen binata knni Jesus, Sinssunud ku dn i atananid a iyn, nya pa i dapat kuwid a gamitn?
 022	Tummbbig ti Jesus, Ni gustu mu a magin ganap, ay ilaku mu en ari-ariyan mu hidi.

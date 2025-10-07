@@ -29,7 +29,8 @@ verse	content
 017	Ketang benging ita, inyang pauli ya i Jacob ibat king marangle, seganan neng Lea.
 017	Kanaku ka sumiping ngening benging iti, ngana, uling ika ing kalibe da ring mandragora na ning anak ku.
 017	Inya ketang benging ita siniping ya i Jacob kang Lea.
-018	Pekiramdaman ne ning Dios ing panalangin na; mebuktut ya at kalima ne ing anak na karing ayanak nang lalaki kang Jacob.
+018	Pekiramdaman ne ning Dios ing panalangin na;
+018	mebuktut ya at kalima ne ing anak na karing ayanak nang lalaki kang Jacob.
 019	Nganang Lea, Inablasan na ku ning Dios uling binie ke king asawa ku ing kanakung ipus.
 019	Inya pemalagyuan neng Isacar ing anak.
 020	Mebuktut yang pasibayu i Lea at kanam ne karing anak a lalaki ing beit na.
@@ -54,7 +55,8 @@ verse	content
 031	Binendisyunan na kayu ning Ginu manibat na kanitang akayabe yu ku.
 031	Kapilan ku pa manatagan para king sarili kung pamilya?
 032	Nganang kinutang Laban, Nanu ngeni ing sukat kung iyupa keka?
-033	E kailangan ing bayaran yu ku; pastulan ku la mu rin at sesen ding kawan yu, nung mabisa kayu king ipakisabi ku kekayu, nganang Jacob.
+033	E kailangan ing bayaran yu ku;
+033	pastulan ku la mu rin at sesen ding kawan yu, nung mabisa kayu king ipakisabi ku kekayu, nganang Jacob.
 034	Puntalan ku la ngeni ding tupa yu at ikawani ke ing balang tupang maki pultik a matuling at balang tupang matuling at ing balang kambing a maki tagpi at pultik-pultikan karing kanakung kambing.
 034	Ila deti ring maging kanakung upa.
 035	King daratang a panaun, potang lawan yu la deting upa ku, abalu yu nung tapat ku kekayu o ali.
@@ -62,16 +64,20 @@ verse	content
 036	Mekibat ya i Laban, Wa, buri ku ing sinabi mu!
 036	Iti ya ing gawan ta.
 037	Keta mu ring aldong ita kelilua na lang Laban ding maki tagpi at pultik-pultikan karing kambing, potru ya man o gaindu, antimu rin ding matuling a tupa at saka na la pepasese karing anak na.
-038	Linaut ya kang Jacob; ing laut na kalupa na ning dasnan na ning taung maglakad atlung aldo.
+038	Linaut ya kang Jacob;
+038	ing laut na kalupa na ning dasnan na ning taung maglakad atlung aldo.
 038	At pistulan na lang Jacob ding mitagan karing kawan nang Laban.
-039	Kanita memakli yang sagiwang sanga i Jacob karing tanaman a ausan dang alamo, almendro, at kastanyo; belatan na la angga king linto ing gulis-gulisan a maputi.
+039	Kanita memakli yang sagiwang sanga i Jacob karing tanaman a ausan dang alamo, almendro, at kastanyo;
+039	belatan na la angga king linto ing gulis-gulisan a maputi.
 040	Binili na la deting sangang belatan na king lugal nung nu la miminum ding animal ban potang miminum la akit da la reti.
 040	Binili na la karin uling mipangasta la karin ding animal
 041	potang daratang la ban minum.
 041	Inya akaglian da la ring sanga at meging gulis-gulisan la, pultik-pultikan, at tagpi-tagpi.
-042	Kelilua na lang Jacob ding tupa ampon ding kambing at binili na la king metung a lugal; ita sanang akakit da la ring maki tagpi at matuling a animal a sese nang Laban.
+042	Kelilua na lang Jacob ding tupa ampon ding kambing at binili na la king metung a lugal;
+042	ita sanang akakit da la ring maki tagpi at matuling a animal a sese nang Laban.
 042	Makanyan yang mika sariling kawan i Jacob, at e na la pekiabe deti karing kawan nang Laban.
 043	Antimu rin, potang mipangasta la ring mangasikan a animal, bibili na lang Jacob ding sanga king arapan da reting animal ba lang miyayasawa lele da reting sanga.
 044	Oneng e ya mibiling sanga arapan da ring maina.
 044	Makanyan lang miras kang Laban ding animal a mangaina, samantalang miras la ngan kang Jacob ding animal a mangasikan.
-045	Makanyan yang mibandi i Jacob; merakal la ding kawan na at merakal la naman ding ipus nang lalaki at babai, kamelyu, at asno.
+045	Makanyan yang mibandi i Jacob;
+045	merakal la ding kawan na at merakal la naman ding ipus nang lalaki at babai, kamelyu, at asno.

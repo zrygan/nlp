@@ -25,7 +25,8 @@ verse	content
 016	Ayaw gad itugot nga magkamatay kami.
 016	Buhata na an sadang nimo mahimo!
 016	Waray na kami kwarta.
-017	Binmaton hi Jose, Dad-a an iyo mga baka; babalyoon ko ini hin pagkaon kon waray na niyo kwarta.
+017	Binmaton hi Jose, Dad-a an iyo mga baka;
+017	babalyoon ko ini hin pagkaon kon waray na niyo kwarta.
 018	Sanglit gindara nira an ira mga hayop ngadto kan Jose, ngan iya gintagan hira hin pagkaon nga balyo han ira mga kabayo, mga karnero, mga kanding, mga baka, ngan mga asno.
 018	Hito nga tuig iya gintagan hira hin pagkaon nga balyo han ngatanan nira nga mga hayop.
 019	Han pagkasunod nga tuig kinmadto hira kan Jose ngan nagsiring, Magsusumat kami han kamatuoran nga waray nagud kami kwarta ngan aada na ha imo an amon mga hayop.
@@ -37,7 +38,8 @@ verse	content
 020	Himoa kami nga mga oripon han hadi ngan ihahatag namon ha iya an amon tuna.
 020	Tagi kami hin trigo basi mabuhi kami, ngan hin binhe basi makagtanom kami han amon kaumhan.
 021	Ginpalit ni Jose para han hadi an ngatanan nga tuna didto ha Ehipto.
-021	Napirit hin pagbaligya han ira tuna an ngatanan nga mga Ehiptohanon kay grabe na hin duro an gutom; sanglit natag-iya na han hadi an ngatanan nga katunaan.
+021	Napirit hin pagbaligya han ira tuna an ngatanan nga mga Ehiptohanon kay grabe na hin duro an gutom;
+021	sanglit natag-iya na han hadi an ngatanan nga katunaan.
 022	Ginhimo ni Jose nga mga oripon an mga tawo tikang ha usa ngadto ha luyo nga kataposan han Ehipto.
 023	An tuna la nga gintatag-iya han kapadian an waray niya pagpalita.
 023	Waray na nira kinahanglan hin pagbaligya han ira mga tuna, kay gintagan man hira han hadi hin bahin nga sadang nira kabuhian.
@@ -45,14 +47,16 @@ verse	content
 024	Iini in binhe para hin pagpugas didto han iyo kaumhan.
 025	Ha panahon han pag-ani, kinahanglan ighatag niyo an ikalima nga bahin ngadto han hadi.
 025	Makakagamit kamo han iba nga bahin para hin binhe ngan para hin pagkaon niyo ngan han iyo mga panimalay.
-026	Binmaton hira, Gintalwas mo an amon mga kinabuhi; kinalooyan mo kami, ngan mga oripon kami han hadi.
+026	Binmaton hira, Gintalwas mo an amon mga kinabuhi;
+026	kinalooyan mo kami, ngan mga oripon kami han hadi.
 027	Sanglit ginhimo ni Jose ini nga balaod para han tuna ha Ehipto nga kinahanglan ighatag ngadto han hadi an ikalima nga bahin han ira inani.
 027	Gintutuman pa ini nga balaod ngada yana nga adlaw.
 027	An mga tuna la han kapadian an waray pagtag-iyaha han hadi.
 028	Nag-ukoy an mga Israelita didto ha Ehipto, didto han katunaan han Gosen, diin nagriko hira ngan nagdamo an ira mga anak.
 029	Nag-ukoy hi Jacob didto ha Ehipto hin 17 ka tuig, tubtob han pag-abot hin 147 an iya panuigon.
 030	Han harapit na hiya mamatay, gintawag niya hi Jose nga iya anak ngan iya ginsiring, Igbutang an imo kamot ha butnga han akon mga paa ngan pagsumpa nga diri mo ako iglulubong dinhe ha Ehipto.
-031	Karuyag ko nga iglubong mo ako didto han ginlubngan han akon mga ginikanan; iggawas ako han Ehipto, ngan iglubong ako didto han dapit nga ginlubngan ha ira.
+031	Karuyag ko nga iglubong mo ako didto han ginlubngan han akon mga ginikanan;
+031	iggawas ako han Ehipto, ngan iglubong ako didto han dapit nga ginlubngan ha ira.
 032	Binmaton hi Jose, Pagbubuhaton ko sumala han imo siring.
 033	Nagsiring hi Jacob, Pagsumpa nga pagbubuhaton mo ini.
 033	Nagsumpa hi Jose, ngan nagpasalamat han Dyos hi Jacob dida han iya higdaan.

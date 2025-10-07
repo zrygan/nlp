@@ -28,7 +28,8 @@ verse	content
 016	Inyang dimdam nang mangulisak ku, alakuan ne ing balabal na kanaku at saka ne memulaying meko.
 017	Sininup ne lele na ing balabal nang Jose angga king minuli ya i Potifar, ing panginuan nang Jose.
 018	Kanita pepasibayuan nang sinabi ing kwentu na.
-018	Ngana king asawa na, Liban na ku ning ipus a Hebreong dela mu king bale tamu; buri na kung pagsamantalan.
+018	Ngana king asawa na, Liban na ku ning ipus a Hebreong dela mu king bale tamu;
+018	buri na kung pagsamantalan.
 019	Pero inyang kinulisak kung masikan, memulayi yang meko at alakuan ne kanaku ing balabal na.
 020	Inyang dimdam nang Potifar ing sumbung ning asawa na mimua yang e makanyan-kanyan.
 021	Peparakap ne i Jose at pekiabe ne karing pepasukul na ning ari.

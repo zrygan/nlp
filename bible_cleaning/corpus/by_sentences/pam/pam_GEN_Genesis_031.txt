@@ -1,9 +1,12 @@
 verse	content
 001	Abalitan nang Jacob king sasabian da ring bayo nang lalaki ing anti kaniti: Kinua nang Jacob ing heganaganang pibandian nang tatang mi at ketang pibandian nang tatang mi karin menibat ing heganaganang pibandian na.
-002	Apansinan na namang Jacob king menaliwa ya paglalawe i Laban; e na na kalupa ning sadia.
+002	Apansinan na namang Jacob king menaliwa ya paglalawe i Laban;
+002	e na na kalupa ning sadia.
 003	Kanita ngana ning Ginu kang Jacob, Magbalik na ka king tuknangan da ring kekang makatua at kamaganak at antabayanan da ka!
 004	Pepayaus na lang Jacob di Raquel at Lea at pepapuntalan na la king marangle nung nu la papastulan ding animal a sese na.
-005	Ngana karela, Apansinan ku king menaliwa ya lawe kanaku i tata yu; e na anti kanitang milabas; pero e na ku kewanian ning Dios nang tata ku.
+005	Ngana karela, Apansinan ku king menaliwa ya lawe kanaku i tata yu;
+005	e na anti kanitang milabas;
+005	pero e na ku kewanian ning Dios nang tata ku.
 006	Balu yu munaman nung makananu kung sinuyu kang tata yu king anggang agyu ku.
 007	Makanyan man pemiraitnan na ku pa at mekatapulu na nang besis inalilan ing upa na kanaku.
 007	Pero e na peintulut ning Dios ing apanasakit na ku.
@@ -14,12 +17,14 @@ verse	content
 011	At king paninap sinabi na kanaku ning anghel ning Dios, Jacob!
 011	Nanu pu?
 011	ngakung mekibat.
-012	Pakalawan mu la, ngana, pawa la ngang gulis-gulisan at tagpian ampon pultik-pultikan ding potrung maglahi king kawan; uli na ning e makalingad kanaku ing pamaniaptan nang Laban keka.
+012	Pakalawan mu la, ngana, pawa la ngang gulis-gulisan at tagpian ampon pultik-pultikan ding potrung maglahi king kawan;
+012	uli na ning e makalingad kanaku ing pamaniaptan nang Laban keka.
 013	Aku ing Dios a pepakit keka karin king Betel nung nu me telaga at linian ing metung a batu.
 013	Karin sinumpa ka kanaku.
 013	Inya lumakad na ka at lakuan me ing lugal a iti at mibalik ka king lugal a tibuan mu.
 014	Kanita kitang da ri Raquel at Lea, Atin ke pa kayang dake king pimamanan king pibandian na ning kekaming tata?
-015	Tuturing na na kami mung dayuan; pisali na kami at agastus na la ring ayabli na.
+015	Tuturing na na kami mung dayuan;
+015	pisali na kami at agastus na la ring ayabli na.
 016	Mangaintulid kekami at karing anak mi ing pibandian a leko na ning Dios kang tata mi.
 016	Sulung, daptan mu ing sinabi na keka ning Dios.
 017	Kanita seke na na lang Jacob ding anak na at asawa karing kamelyu.
@@ -39,16 +44,19 @@ verse	content
 028	E mu man peintulut ing auma ku la ding apu ku at anak.
 028	E ustu ing gewa mu!
 029	Malyari da kang panasakitan, oneng nabengi ngana kanaku ning Dios nang tata mu, E me nananan balang i Jacob!
-030	Balu kung meko ka uli na ning tutu na kang bisang makauli; obat pati ring dios ku king bale penako mu?
+030	Balu kung meko ka uli na ning tutu na kang bisang makauli;
+030	obat pati ring dios ku king bale penako mu?
 031	Nganang mekibat Jacob, Tatakut ku uling pota bawalan yu lang tuki kanaku ding anak yu.
 032	Tungkul naman karetang kikilalanan yung dios, paten ya itang nung kenu la mayakit.
 032	King akakit da ring kamaganak ku, nung sakaling atin kayung akit nanu pa mang kekayu, kuanan ye.
 032	E na kamalayan Jacob king i Raquel ing menako karing kikilalanan nang dios tata na.
-033	Kanita linub ya i Laban karing tolda da ri Jacob; kaybat king tolda nang Lea ampon king tolda da ring aduang ipus a babai, oneng e na la ikit ding kikilalanan nang dios.
+033	Kanita linub ya i Laban karing tolda da ri Jacob;
+033	kaybat king tolda nang Lea ampon king tolda da ring aduang ipus a babai, oneng e na la ikit ding kikilalanan nang dios.
 033	Linual ya king tolda nang Lea at kaybat linub ya king tolda nang Raquel.
 034	Kinua na lang Raquel ding dios nang tata na at saka na la linulan king bulsa na ning sia ning kamelyu, at kaybat liklukan na la.
 034	Asiasat na ne ngan Laban ing kilub na ning tolda nang Raquel oneng ala yang ikit.
-035	Nganang Raquel kang tata na, Tatang, e yu sana pagkasala ing e ku mitalakad arapan yu; makaratang ing regla ku.
+035	Nganang Raquel kang tata na, Tatang, e yu sana pagkasala ing e ku mitalakad arapan yu;
+035	makaratang ing regla ku.
 035	Penintun na lang Laban, oneng e na la ikit ding kikilalanan nang dios.
 036	Inya mimua ya i Jacob at bignus na ing mua na kang Laban.
 036	Ngana, Nanu wari ing e ustung depat ku?
@@ -57,14 +65,17 @@ verse	content
 037	Ngening asiasat yu na ngan ing pibandian ku, menakit kayung nanumang bandi yo?
 037	Palto ya mu arapan da ring kamaganak yu at kamaganak ku at paburen yung ilang matul nung ninu kekatamung adua ing makamatulid.
 038	Kilub ding aduang pulung banuang sinuyu ku kekayu, e la tinuknang merakal ding tupa yu o kambing at e ku mengangas mengan agyang metung mung tupa karing kekayung kawan.
-039	Nung atin lang apate ding mabangis a animal e ku na la papakit kekayu; agad ku na lang alilan; meging katungkulan keng alilan ing mepanako neng aldo o neng bengi.
+039	Nung atin lang apate ding mabangis a animal e ku na la papakit kekayu;
+039	agad ku na lang alilan;
+039	meging katungkulan keng alilan ing mepanako neng aldo o neng bengi.
 040	Pibabata ku ing maduluk king pali ning aldo at ing dimla ning bengi angga na king e ku mipapatudtud.
 041	Makanyan ing delanan ku kilub ding aduang pulung banuang sinuyu ku kekayu.
 041	Labing apat kung banuang sinuyu kekayu ban ayasawa ku la ding adua yung anak at anam a banua para karing kekayung kawan.
 041	Makanyan man apulu yung besis inalilan ing upa ku.
 042	Nung e na ku mu inantabayanan ning Dios ding makatua ku, ing Dios nang Abraham at itang Dios a pitakutan nang Isaac, pepalakuan yu ku sanang alang daralan.
 042	Pero ikit na ning Dios ing makalunus kung kabilian at ing kanakung kapagalan, at nabengi ya na ing minie kayatulan.
-043	Nganang Laban kang Jacob, Anak ku la deting babai; apu ku la ding anak da, at ding kawan, kawan ku la.
+043	Nganang Laban kang Jacob, Anak ku la deting babai;
+043	apu ku la ding anak da, at ding kawan, kawan ku la.
 043	Kanaku ing heganaganang akakit mu.
 043	Nanu ing malyari kung gawan ngeni kareting anak ku o karing anak a beit da?
 044	Mayap pa mikasundu kata.

@@ -2,13 +2,15 @@ verse	content
 001	Kinuna ni Yahweh ken ni Moises, Ibagam kadagiti Israelita a mangipaayda iti sagut kaniak.
 001	Awatem ti aniaman a sagut nga ited ti siasinoman.
 002	Dagitoy ti idatonda: balitok, pirak ken bronse;
-003	di pay naabel a de lana, a natayengteng nga asul, ube ken nalabaga ti marisda; nafino a linen, lupot a naaramid iti dutdot ti kalding;
+003	di pay naabel a de lana, a natayengteng nga asul, ube ken nalabaga ti marisda;
+003	nafino a linen, lupot a naaramid iti dutdot ti kalding;
 004	nakorte a lalat ti kalakian a karnero, nafino a lalat, ken kayo ti akasia.
 005	Mangidatonda met iti lana para kadagiti pagsilawan, dagiti bangbanglo a mailaok iti lana a pagkonsagrar ken iti naayamuom nga insenso;
 006	dagiti nangina a bato a karnelia ken dadduma a nangina a bato a pagtampok iti efod ken pektoral ti Kangatoan a Padi.
 007	Masapul a yaramidandak dagiti tattao iti santuario tapno agnaedak kadakuada.
 008	Aramidenyo ti tabernakulo ken ti amin nga alikamenna kas mayannurot iti plano nga ipakitak kenka.
-009	Ibagam kadagiti tattao a mangaramidda iti Lakasa nga akasia; 45 a pulgada ti kaatiddog, 27 a pulgada ti kaakaba ken 27 a pulgada ti kangatona.
+009	Ibagam kadagiti tattao a mangaramidda iti Lakasa nga akasia;
+009	45 a pulgada ti kaatiddog, 27 a pulgada ti kaakaba ken 27 a pulgada ti kangatona.
 010	Kalupkopam iti puro a balitok iti uneg ken ruarna.
 010	Paikingam iti balitok iti aglikmut.
 011	Yaramidam iti uppat a pagyusokan a balitok ket ikabilmo ida kadagiti sakana a sagdudua iti agsumbangir.
@@ -40,7 +42,8 @@ verse	content
 032	ket masapul nga addaan ti tunggal sanga iti tallo a kimmopa a sabong a masukog a kas iti sabong ti almendras.
 033	Yaramidam met ti ungkay ti kandelero iti uppat a kimmopa a sabong a kas kadagiti naikabit kadagiti sanga.
 034	Masapul nga adda busel iti baba ti tunggal maysa kadagiti tallo a paris a sangsanga.
-035	Sangsangkanayon dagiti busel ken dagiti sanga ken ti kandelero; maaramidda iti puro a napanday a balitok.
+035	Sangsangkanayon dagiti busel ken dagiti sanga ken ti kandelero;
+035	maaramidda iti puro a napanday a balitok.
 036	Mangaramidka iti pito a pagsilawan a maikabil iti kandelero ket isaadmo tapno agpasango ti lawagda.
 037	Mangaramidka kadagiti sipit ken pagarsangan a puro a balitok.
 038	Usarem ti 35 a kilogramo a puro a balitok a pangaramidmo iti kandelero ken amin dagitoy nga arruaten.

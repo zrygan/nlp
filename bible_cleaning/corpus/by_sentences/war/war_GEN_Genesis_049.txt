@@ -82,7 +82,9 @@ verse	content
 080	Katapos hini ginsugo ni Jacob an iya mga anak, Yana nga mapatay na ako hin pagtampo han akon mga tawo, iglubong ako niyo tampo han akon mga ginikanan didto han lungib nga aadto han uma ni Efron nga Hiteohanon,
 081	didto ha Macpela ha sinirangan nga dapit han Mamre ha tuna han Canaan.
 081	Ginpalit ni Abraham kan Efron nga Hiteohanon ini nga lungib ngan uma para hin lubnganan.
-082	Amo ito an ginlubngan nira kan Abraham ngan kan Sara nga iya asawa; amo ito an ira ginlubngan kan Isaac ngan kan Rebecca nga iya asawa; ngan amo ito an akon ginlubngan kan Lea.
+082	Amo ito an ginlubngan nira kan Abraham ngan kan Sara nga iya asawa;
+082	amo ito an ira ginlubngan kan Isaac ngan kan Rebecca nga iya asawa;
+082	ngan amo ito an akon ginlubngan kan Lea.
 083	Ginpalit tikang han mga Hiteohanon an uma ngan an lungib nga aada hini.
 083	Iglubong ako niyo didto.
 084	Han katapos ni Jacob pagtugon han iya mga anak, hinmigda hiya ngan namatay.

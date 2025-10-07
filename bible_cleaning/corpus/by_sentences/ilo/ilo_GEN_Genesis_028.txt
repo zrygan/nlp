@@ -30,7 +30,8 @@ verse	content
 017	Daytoy la ketdi ti balay ti Dios!
 017	Daytoy ti ruangan nga agturong sadi langit!
 018	Kabigatanna, nasapa a bimmangon ni Jacob.
-018	Innalana ti bato a nagpungananna sana impatakder a kas baton-lagip; binukbokanna iti lana tapno maidaton iti Dios.
+018	Innalana ti bato a nagpungananna sana impatakder a kas baton-lagip;
+018	binukbokanna iti lana tapno maidaton iti Dios.
 019	Pinanagananna ti lugar iti Betel.
 019	Luz idi ti nagan daytoy nga ili.
 020	Insapata ni Jacob ken ni Yahweh a Dios, No addaka kaniak ket salaknibannak iti daytoy a panagdaliasatko, no ikkannak iti taraon ken kawes,

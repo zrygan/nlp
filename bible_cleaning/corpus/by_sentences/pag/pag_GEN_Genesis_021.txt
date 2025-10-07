@@ -4,7 +4,8 @@ verse	content
 003	Inngaran nen Abraham imay ogaw na Isaac.
 004	Nen waloy agew to, sinegat nen Abraham, onung na ingganggay Dios.
 005	Sanlasus taon la nen Abraham nen nianak si Isaac.
-006	Inkuanen Sara, Makapagayaga tan makapalek so ginaway Dios ed siak; siopamay makadngel ed saya mielek met ed siak.
+006	Inkuanen Sara, Makapagayaga tan makapalek so ginaway Dios ed siak;
+006	siopamay makadngel ed saya mielek met ed siak.
 007	Insan inkuanto ni, Wala kasiy akakpel ya angibagad kinen Abraham a mampasuso ak niy ogaw?
 007	Anggaman ontan, nananak kami na sakey a laki, anta matakken lay masiken ko.
 008	Binmaleg imay ogaw tan diad agew ya impamaksod sikato, nantaryay baleg a ponsia si Abraham.
@@ -29,7 +30,8 @@ verse	content
 018	Gawaen kon baleg a bansa ray kabyangay boleg to naani.
 019	Inlokas na Dios iray mata nen Agar, et anengneng toy sakey a bobun.
 019	Linma tan pinano toy danum imay katat a supot, insan to pinainom imay ogaw.
-020	Diad ibabaleg na samay ogaw, walad sikatoy Dios; nanayam ed kalawakan na Paran tan nagmaliw a maung ya umaanop.
+020	Diad ibabaleg na samay ogaw, walad sikatoy Dios;
+020	nanayam ed kalawakan na Paran tan nagmaliw a maung ya umaanop.
 021	Inalaan nen ina to na biin Egipsia ya asawaen to.
 022	Diad saman a panaon inawit nen Abimelec si Ficol a pangulo na saray sondalo to, linma rad kinen Abraham tan inkuanen Abimelec, Walad sikay Dios ed antokaman a gagawaen mo.
 023	Kanyan mansamba ka dia ed imatun na Dios ya ag mo kami papalikdoen, siak, saray anak ko, tan saray kabyangay boleg ko.

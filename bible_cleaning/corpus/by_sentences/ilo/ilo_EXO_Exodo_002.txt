@@ -53,5 +53,6 @@ verse	content
 026	Limmabas ti adu a tawen.
 026	Natay ti ari ti Egipto, ngem nagtuloy latta ti pannakaparigat dagiti Israelita gapu iti pannakatagabuda.
 026	Immasugda a patulongan iti Dios
-027	ket impangagna ida; nalagipna ti tulagna ken ni Abraham, ni Isaac ken ni Jacob.
+027	ket impangagna ida;
+027	nalagipna ti tulagna ken ni Abraham, ni Isaac ken ni Jacob.
 028	Nakitana ti kasasaad dagiti Israelita ket naasian kadakuada.

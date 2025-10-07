@@ -74,9 +74,11 @@ verse	content
 048	Niyan igintaod ko an singsing ngada han iya irong ngan an mga pulseras ngada han iya mga butkon.
 049	Linmuhod ako ngan ginsingba ko an Ginoo .
 049	Gindayaw ko an Ginoo nga Dyos ni Abraham nga akon agaron, nga nagmando ha akon nganhi gud han kauropdan han akon agaron, diin akon hin-agian an iya anak nga babaye para han anak han akon agaron.
-050	Yana kon buot mo pagtumanon an imo katungdanan ngan buhaton an matadong para han akon agaron, pagsumati gad ako; kon diri, pagsiring la, ngan ako na an labi nga maaram kon ano an angay ko pagbuhaton.
+050	Yana kon buot mo pagtumanon an imo katungdanan ngan buhaton an matadong para han akon agaron, pagsumati gad ako;
+050	kon diri, pagsiring la, ngan ako na an labi nga maaram kon ano an angay ko pagbuhaton.
 051	Binmaton hira Laban ug Betuel, Tungod nga natikang man ini han Ginoo , waray namon hini mahihimo.
-052	Iini hi Rebecca; dad-a hiya ngan pagkalakat kamo.
+052	Iini hi Rebecca;
+052	dad-a hiya ngan pagkalakat kamo.
 052	Himoa hiya nga asawa han anak han imo agaron, sumala han iginsiring han Ginoo ngahaw.
 053	Han pakabati hini han surugoon ni Abraham, hinmapa hiya ngan nagsingba han Ginoo .
 054	Niyan iginggawas niya in panapton ngan salapi ug bulawan nga alahas, ngan iginhatag ini kan Rebecca.
@@ -85,7 +87,8 @@ verse	content
 055	Han pagbangon na nira han pagkaaga, nagsiring hiya, Tugoti na ako hin pagbalik ngadto han akon agaron.
 056	Kundi nagsiring an kan Rebecca bugto nga lalake ngan an iroy niya, Tugoti anay an daragita hin pagpabilin upod ha amon sulod hin usa ka semana o napulo ka adlaw, ngan katapos, makakalakat na hiya.
 057	Kundi nagsiring an surugoon, Ayaw na kami paghawiri.
-057	Ginpauswag han Ginoo an akon paglakat; pabalika na ako ngadto han akon agaron.
+057	Ginpauswag han Ginoo an akon paglakat;
+057	pabalika na ako ngadto han akon agaron.
 058	Binmaton hira, Tawaga ta an daragita ngan pakianhi ta kon ano an igsisiring niya.
 059	Sanglit gintawag nira hi Rebecca ngan ginpakianhan, Karuyag mo ba umupod hini nga tawo?
 060	Oo, binmaton hiya.

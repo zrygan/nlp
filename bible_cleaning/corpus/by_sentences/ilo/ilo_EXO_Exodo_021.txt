@@ -33,8 +33,10 @@ verse	content
 025	puor iti puor, sugat iti sugat, dunor iti dunor.
 026	No kabilen ti maysa a tao ti tagabuna, lalaki man wenno babai ket nabuldinganna, rebbengna a wayawayaan ti tagabu a kas bayad ti matana.
 027	Ket no natuppolanna ti tagabu, rebbengna a wayawayaan a kas bayad ti ngipenna.
-028	No matay ti siasinoman a sangdoen ti baka, masapul a maubor ti baka agingga a matay ket saan a sidaen ti karnena; nupay kasta, saan a madusa ti akimbaka.
-029	Ngem no sumasangdo ti baka ken napakdaaran ti akinkukua ngem dina ipupok, ket matay ti tao a sinangdona, maubor ti baka agingga a matay; mapapatay pay ti akinkukua.
+028	No matay ti siasinoman a sangdoen ti baka, masapul a maubor ti baka agingga a matay ket saan a sidaen ti karnena;
+028	nupay kasta, saan a madusa ti akimbaka.
+029	Ngem no sumasangdo ti baka ken napakdaaran ti akinkukua ngem dina ipupok, ket matay ti tao a sinangdona, maubor ti baka agingga a matay;
+029	mapapatay pay ti akinkukua.
 030	Ngem no mapalubosan nga agmulta ti akimbaka tapno maispal ti biagna, bayadanna ti amin a naikeddeng a pagbayad.
 031	No ubing a lalaki wenno babai ti mapatay ti baka, daytoy met laeng a linteg ti masurot.
 032	No tagabu a lalaki wenno babai ti mapatayna, agbayad ti akimbaka iti 30 a bagi ti pirak iti among ti tagabu ket mabato ti baka agingga a matay.

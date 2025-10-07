@@ -40,7 +40,8 @@ verse	content
 024	Ginapunggan mo ako sa paghuman ng kabubut-on ng Dios!
 024	Ang imo ginahunahun hay bukon halin sa Dios kund sa tawo.
 025	Pagkatapos, naghambay si Hesus sa iya mga disipulo, Ang aber sin-o nga gusto magsunod sa akon, dapat ind niya palabihon ang iya kaugalingon, kund pas-anon niya ang iya krus kag magsunod sa akon.
-026	Kay ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini; pero ang aber sin-o nga nagahalad ng iya kabuh tungod sa akon, makakabaton siya ning kabuh nga way katapusan.
+026	Kay ang aber sin-o nga nagapalabi ng iya kabuh hay maduduyaan ini;
+026	pero ang aber sin-o nga nagahalad ng iya kabuh tungod sa akon, makakabaton siya ning kabuh nga way katapusan.
 027	Kay ano gid baya ang mapupuslan ng tawo kung maangkon man niya ang tanan nga butang diri sa kalibutan, pero mawad-an naman siya ning kabuh?
 027	Way gid!
 027	Kay way gid ning butang nga puydi niya itao agud mapapabalik niya ang iya kabuh.

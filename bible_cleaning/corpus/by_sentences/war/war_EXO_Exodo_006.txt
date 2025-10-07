@@ -6,11 +6,13 @@ verse	content
 003	Pinmakita ako nga Dyos nga Labi Kamakagarahum kan Abraham, kan Isaac, ngan kan Jacob kundi waray ako magpakilala ha ira pinaagi han akon baraan nga ngaran nga an Ginoo .
 004	Ginhimo ko liwat ha ira an akon ginsaaran ngan akon ginsaad hin paghatag ha ira han tuna han Canaan, an tuna diin hira nag-ukoy sugad nga mga lumalangyaw.
 005	Yana hinbatian ko an pag-araba han mga Israelita nga gin-oripon han mga Ehiptohanon, ngan nahinumdom ako han akon ginsaaran.
-006	Sanglit sumati an mga Israelita nga nasiring ako ha ira, Amo ako an Ginoo ; tatalwason ko kamo ngan igagawas ko kamo tikang han iyo pagkaoripon han mga Ehiptohanon.
+006	Sanglit sumati an mga Israelita nga nasiring ako ha ira, Amo ako an Ginoo ;
+006	tatalwason ko kamo ngan igagawas ko kamo tikang han iyo pagkaoripon han mga Ehiptohanon.
 006	Babayawon ko an akon gamhanan nga butkon hin makalilisang nga pagkastigo ha ira, ngan tatalwason ko kamo.
 007	Hihimoon ko kamo nga akon kalugaringon nga mga tawo, ngan magigin Dyos ako niyo.
 007	Mahibabaroan niyo nga ako amo an Ginoo nga iyo Dyos, kon talwason ko na kamo tikang han pagkaoripon didto ha Ehipto.
-008	Dadad-on ko kamo ngadto han tuna nga akon iginsumpa hin paghatag kanda Abraham, Isaac, ug Jacob; ngan ighahatag ko ini ha iyo nga iyo kalugaringon nga malon.
+008	Dadad-on ko kamo ngadto han tuna nga akon iginsumpa hin paghatag kanda Abraham, Isaac, ug Jacob;
+008	ngan ighahatag ko ini ha iyo nga iyo kalugaringon nga malon.
 008	Amo ako an Ginoo .
 009	Ginsumatan hini ni Moises an mga Israelita, kundi waray gud hira mamati ha iya, kay nagturaw na hira tungod han ira mapait nga pagkaoripon.
 010	Niyan nagsiring kan Moises an Ginoo ,
@@ -18,9 +20,12 @@ verse	content
 012	Kundi binmaton hi Moises, Diri ngani namamati ha akon an mga Israelita, asay pa ba an hadi?
 012	Maluya gud ako nga magyanakan.
 013	Ginsugo han Ginoo hira Moises ug Aaron, Sumati an mga Israelita ngan an hadi han Ehipto nga nagsugo ako ha iyo pagdumara han mga Israelita hin paggawas ha Ehipto.
-014	May upat nga mga anak nga kalalaken-an hi Ruben nga suhag ni Jacob: hira Hanoc, Falu, Hesron, ug Carmi; amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
-015	May unom nga mga anak nga kalalaken-an hi Simeon: hira Jemuel, Jamin, Ohad, Jaquin, Zohar, ug Saul nga anak hin Canaanhon nga babaye; amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
-016	May tulo nga mga anak nga kalalaken-an hi Levi: hira Gerson, Coat, ug Merari; amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
+014	May upat nga mga anak nga kalalaken-an hi Ruben nga suhag ni Jacob: hira Hanoc, Falu, Hesron, ug Carmi;
+014	amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
+015	May unom nga mga anak nga kalalaken-an hi Simeon: hira Jemuel, Jamin, Ohad, Jaquin, Zohar, ug Saul nga anak hin Canaanhon nga babaye;
+015	amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
+016	May tulo nga mga anak nga kalalaken-an hi Levi: hira Gerson, Coat, ug Merari;
+016	amo hira an kaapoy-apoyan han mga banay nga isinangay han ira mga ngaran.
 016	Inmabot hin 137 an panuigon ni Levi.
 017	May duha nga anak nga kalalaken-an hi Gerson: hira Libni ug Simei, ngan nagkamay-ada nira damo nga mga tulin.
 018	May upat nga mga anak nga kalalaken-an hi Coat: hira Amram, Isar, Hebron, ug Uziel.
@@ -31,8 +36,10 @@ verse	content
 020	Inmabot hin 137 an panuigon ni Amram.
 021	May tulo nga anak nga kalalaken-an hi Isar: hira Core, Nefeg, ug Zicri.
 022	May tulo liwat nga mga anak nga kalalaken-an hi Uziel: hira Misael, Elzafan, ug Sitri.
-023	Pinangasawa ni Aaron hi Elisabet nga anak ni Aminadab ngan bugto ni Naason; nag-anak hira kanda Nadab, Abiu, Eleazar, ug Itamar.
-024	May tulo nga mga anak nga kalalaken-an hi Core: hira Asir, Elcana, ug Abiasaf; amo hira an kaapoy-apoyan han mga hugpo han banay ni Core.
+023	Pinangasawa ni Aaron hi Elisabet nga anak ni Aminadab ngan bugto ni Naason;
+023	nag-anak hira kanda Nadab, Abiu, Eleazar, ug Itamar.
+024	May tulo nga mga anak nga kalalaken-an hi Core: hira Asir, Elcana, ug Abiasaf;
+024	amo hira an kaapoy-apoyan han mga hugpo han banay ni Core.
 025	Pinangasawa ni Eleazar nga anak ni Aaron, in usa han mga anak ni Futiel, ngan nag-anak hira kan Pinehas.
 025	Amo hira an mga puno han mga panimalay ngan han mga banay han tribo ni Levi.
 026	Amo ini hira Aaron ug Moises an ginsiring han Ginoo , Kamo an magdudumara han mga tribo han Israel hin paggawas han Ehipto.
@@ -40,4 +47,5 @@ verse	content
 028	Han paghimangraw han Ginoo kan Moises didto han tuna han Ehipto,
 029	nagsiring hiya, Ako amo an Ginoo .
 029	Sumati an hadi han Ehipto han ngatanan nga akon igsisiring ko ha imo.
-030	Kundi binmaton hi Moises, Maaram ka nga maluya gud ako nga magyarakan; kay ano nga mamamati ha akon an hadi?
+030	Kundi binmaton hi Moises, Maaram ka nga maluya gud ako nga magyarakan;
+030	kay ano nga mamamati ha akon an hadi?

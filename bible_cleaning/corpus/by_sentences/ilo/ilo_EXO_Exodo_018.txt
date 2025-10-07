@@ -33,7 +33,8 @@ verse	content
 020	Masapul nga isurom kadakuada dagiti bilin ti Dios ket ilawlawagmo no kasano ti rumbeng a panagbiagda ken no ania ti nasken nga aramidenda.
 021	Ngem saan la a dayta.
 021	Pumilika met kadagiti makabael a lallaki.
-021	Dutokam ida a kas pangulo dagiti tattao; adda mangipangulo kadagiti rinibu, kadagiti ginasut, kadagiti saglilimapulo, ken kadagiti sagsasangapulo.
+021	Dutokam ida a kas pangulo dagiti tattao;
+021	adda mangipangulo kadagiti rinibu, kadagiti ginasut, kadagiti saglilimapulo, ken kadagiti sagsasangapulo.
 021	Masapul a managbutengda iti Dios, mapagtalkan ken di mapasuksokan.
 022	Agserbida a kas permanente a hues kadagiti tattao.
 022	Mabalin nga idatagda kenka dagiti narikut a kaso, ngem isuda ti makaammo a mangibanag kadagiti babassit a riri.

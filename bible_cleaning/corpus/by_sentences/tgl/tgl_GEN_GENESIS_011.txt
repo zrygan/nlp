@@ -7,7 +7,8 @@ verse	content
 004	Sinabi nila, Halikayo!
 004	Magtayo tayo ng isang lunsod at isang tore na ang taluktok nito ay hanggang sa langit, at gumawa tayo ng pangalan para sa ating mga sarili, baka tayo magkawatak-watak sa ibabaw ng buong lupa.
 005	Bumaba ang Panginoon upang tingnan ang lunsod at ang tore na itinayo ng mga anak ng mga tao.
-006	At sinabi ng Panginoon , Tingnan ninyo, sila'y iisang bayan at may isang wika; at ito ay pasimula pa lamang ng kanilang gagawin, at ngayon, walang makakapigil sa anumang kanilang binabalak gawin.
+006	At sinabi ng Panginoon , Tingnan ninyo, sila'y iisang bayan at may isang wika;
+006	at ito ay pasimula pa lamang ng kanilang gagawin, at ngayon, walang makakapigil sa anumang kanilang binabalak gawin.
 007	Halikayo!
 007	Tayo'y bumaba at ating guluhin ang kanilang wika, upang hindi nila maunawaan ang pananalita ng bawat isa.
 008	Kaya't ikinalat sila ng Panginoon mula roon sa ibabaw ng buong lupa, at huminto sila sa pagtatayo ng lunsod.
@@ -31,11 +32,13 @@ verse	content
 025	Nabuhay si Nahor ng isandaan at labinsiyam na taon pagkatapos na maipanganak si Terah, at nagkaanak pa ng mga lalaki at mga babae.
 026	At nabuhay si Terah ng pitumpung taon, at naging anak sina Abram, Nahor at Haran.
 027	Ito ang mga lahi ni Terah.
-027	Naging anak ni Terah sina Abram, Nahor, at Haran; at naging anak ni Haran si Lot.
+027	Naging anak ni Terah sina Abram, Nahor, at Haran;
+027	at naging anak ni Haran si Lot.
 028	Unang namatay si Haran kaysa sa kanyang amang si Terah sa lupaing kanyang tinubuan, sa Ur ng mga Caldeo.
 029	At nagsipag-asawa sina Abram at Nahor.
 029	Ang pangalan ng asawa ni Abram ay Sarai, at ang pangalan ng asawa ni Nahor ay Milca, na anak na babae ni Haran na ama nina Milca at Iscah.
-030	At si Sarai ay baog; siya'y walang anak.
+030	At si Sarai ay baog;
+030	siya'y walang anak.
 031	Isinama ni Terah si Abram na kanyang anak, at si Lot na anak ni Haran, na anak ng kanyang anak, at si Sarai na kanyang manugang na asawa ni Abram na kanyang anak at sama-samang umalis sa Ur ng mga Caldeo upang magtungo sa lupain ng Canaan.
 031	Dumating sila sa Haran, at nanirahan doon.
 032	At ang mga naging araw ni Terah ay dalawandaan at limang taon, at namatay si Terah sa Haran.

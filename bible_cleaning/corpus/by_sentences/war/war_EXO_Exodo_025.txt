@@ -4,7 +4,8 @@ verse	content
 002	Karawata an bisan ano nga mga halad nga karuyag nira ighatag ha akon.
 003	Amo ini an imo kakarawaton nga mga halad: bulawan, salapi, ug bronse;
 004	lino nga pino, delana nga asul, granate, ngan pula, dugnit nga hinimo hin barahibo hin kanding,
-005	anit hin lalaki nga karnero nga tinina hin pula, anit hin kanding; kahoy nga akasya;
+005	anit hin lalaki nga karnero nga tinina hin pula, anit hin kanding;
+005	kahoy nga akasya;
 006	lana para han mga lampara, mga pahamot para han lana nga igdirihog ngan pahamot para han insyenso;
 007	mga kornalina ngan iba pa nga mga alahas nga igburutang dida han baraan nga efod han Gilalabawi nga Padi ngan dida han iya tahob han dughan.
 008	Kinahanglan ighimo ako han mga tawo hin usa nga baraan nga Tulda, basi makag-ukoy ako tampo ha ira.

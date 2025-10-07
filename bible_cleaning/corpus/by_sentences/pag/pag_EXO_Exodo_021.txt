@@ -2,14 +2,16 @@ verse	content
 001	Iter mod saray Israelita iray onggendan a ganggan
 002	No manaliw kayo na Hebreon aripen, manlingkur ed sikayo ed loob na anem taon.
 002	Diad kumapiton taon ibolus yo ya anggapoy nepeg a bayaran to.
-003	No anggapoy asawa to nen nagmaliw ya aripen yo, nepeg ya ag to awiten so asawa to no ontaynan; balet no walay asawa to nen nagmaliw ya aripen yo, nepeg ya awiten toy asawa to.
+003	No anggapoy asawa to nen nagmaliw ya aripen yo, nepeg ya ag to awiten so asawa to no ontaynan;
+003	balet no walay asawa to nen nagmaliw ya aripen yo, nepeg ya awiten toy asawa to.
 004	No itdan na amo na asawa tan naanakan to na lalaki odino bibii, say ina tan saray anak to et kayaryan ira na amo tan samay aripen nepeg ya ontaynan a bukor.
 005	Balet no ibaga ton malinew ya inaro toy amo to, say asawa to, tan saray anak to tan ag to labay so nawalaan na kawayangan,
 006	say amo tod satan awiten tod pasen a panangigalangan.
 006	Diman say amo pasaralen to may aripen ed puirta odino diad lusek na puirta, insan to tebengan ed layag.
 006	Diad ontan magmaliw lan aripen to ya anggad ag to ipatey.
 007	No say sakey a laki et ilako ton aripen so anak ton bii, sayan bii et naitdan na kawayangan ya aliwan singa pangiter na kawayangan ed saray lalakin aripen.
-008	No nilakod sakey a lakin getma ton asawaen, balet ta ag to labay lamlamang, nepeg ya ipadondon tod ama na samay bii; ag nayarin ilako tod sangkaili, lapud nilamang to.
+008	No nilakod sakey a lakin getma ton asawaen, balet ta ag to labay lamlamang, nepeg ya ipadondon tod ama na samay bii;
+008	ag nayarin ilako tod sangkaili, lapud nilamang to.
 009	No say sakey a laki et manaliw na sakey a biin aripen, ta iter tod lakin anak to, nepeg ton ipasen ya anak ton dili.
 010	No say sakey a laki et mangala na kumadwan asawa to, nepeg ton ituloy ya itdan so ononan asawa to na gendat a karakel na kakanen tan kakawesen to tan saray gendat a kanepegan to nen bukor to niy asawa to.
 011	No say laki et ag to sumpalen iray nepeg ton gawaen ed inmonan asawa to, nepeg ya itdan to na kawayangan tan nepeg ya ag bayaran imay laki.
@@ -31,7 +33,8 @@ verse	content
 025	say apoolan bayaran na apoolan, say sugat bayaran na sugat, tan say biret ed laman bayaran na biret ed laman.
 026	No say sakey a too et kabilen tod mata so aripen ton laki odino bii tan aderal so matan nakna to, nepeg ton ibolus imay aripen a pinagkabayar tod pinmultak a mata.
 027	No apangpangan to na ngipen, nepeg ton ibolus so aripen a pinagkabayar tod nakal a ngipen.
-028	No bonoen na sakey a bakan kalakyan so sakey a too tan inatey, say baka nepeg a tupaken, tan ag kanen so laman to; balet ag nepeg a dusaen so akanbaka.
+028	No bonoen na sakey a bakan kalakyan so sakey a too tan inatey, say baka nepeg a tupaken, tan ag kanen so laman to;
+028	balet ag nepeg a dusaen so akanbaka.
 029	Balet no say bakan kalakyan et kagagawa to lay mambono na too tan apasakbayan la so akanayep et ag to nin siansia ikolung ed koralinsan mamono yan baka tan inatey so binono to, nepeg a tupaken so baka tan nepeg met a pateyen so akanbaka.
 030	Balet no naabuloyan a mambayar so akanayep pian ag pateyen, nepeg to ya iter so intiron bayar.
 031	No ogaw a laki odino bii so apatey na baka, namparan totontonen so tombuken.
@@ -39,5 +42,6 @@ verse	content
 033	No ekalen na sakey a too so sakub na aralem ya abut odino mangotkot na aralem ya abut, et ag to sakuban, tan napelag diman so sakey a bakan kalakyan odino asno,
 034	nepeg a mambayar imay too.
 034	Bayaran to na kuarta so akanayep tan kayaryan to la may inatey ya ayep.
-035	No napatey na sakey a bakan kalakyan so sakey a bakan kalakyan na sananey a too, saramay akanayep nepeg da ya ilako so mabilay a baka tan panapagan day panlakoan; panapagan da met so karni to may inatey.
+035	No napatey na sakey a bakan kalakyan so sakey a bakan kalakyan na sananey a too, saramay akanayep nepeg da ya ilako so mabilay a baka tan panapagan day panlakoan;
+035	panapagan da met so karni to may inatey.
 036	Balet no samay baka et kagagawa to lay mambono na too tan apasakbayan la may akanayep, et ag to nin siansia ikolung ed koral, nepeg ton itdan na mabilay a bakan kalakyan imay akanayep na inatey, pian nasalatan so naandi tan kayaryan to la may inatey ya ayep.

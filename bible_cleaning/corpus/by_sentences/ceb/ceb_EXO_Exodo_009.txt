@@ -32,7 +32,8 @@ verse	content
 025	Unya nangatumba ang mga tanom sa kaumahan ug nangabali ang mga kahoy.
 026	Ang yuta sa Gosen nga gipuy-an sa mga Israelita mao ray dapit nga wala paulanig yelo.
 027	Unya gipatawag sa hari si Moises ug si Aaron ug giingnan, Niining higayona nakasala ako.
-027	Husto ang Ginoo ; ako ug ang akong katawhan maoy nasayop.
+027	Husto ang Ginoo ;
+027	ako ug ang akong katawhan maoy nasayop.
 028	Hangyoa ang Ginoo sa pagpahunong na sa dalugdog ug sa ulan nga yelo kay dili na kami makaantos niini.
 028	Isaad ko nga palakton ko kamo.
 028	Dili na kinahanglan nga magpabilin pa kamo dinhi.

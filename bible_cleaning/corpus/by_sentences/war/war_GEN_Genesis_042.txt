@@ -1,6 +1,7 @@
 verse	content
 001	Han paghibaro ni Jacob nga may-ada baligya nga trigo didto ha Ehipto, ginsiring niya an iya mga anak nga kalalaken-an, Kay ano nga diri lugod kamo magmalahimo?
-002	Hinbatian ko nga may baligya nga trigo didto ha Ehipto; kadto ngan palit kamo basi diri kita mamatay hin gutom.
+002	Hinbatian ko nga may baligya nga trigo didto ha Ehipto;
+002	kadto ngan palit kamo basi diri kita mamatay hin gutom.
 003	Sanglit kinmadto an kan Jose napulo nga kabugtoan ha amay hin pagpalit hin trigo didto ha Ehipto,
 004	kundi waray pagpaupda ha ira ni Jacob an tunay nga bugto ni Jose nga hi Benjamin, kay nahadlok hiya nga bangin may mahinabo ha iya.
 005	Nagkaabot an mga anak ni Jacob upod hin iba nga mga tawo hin pagpalit hin trigo, kay gutom na didto ha tuna han Canaan.
@@ -10,7 +11,8 @@ verse	content
 007	Iya gin-isgan hira hin pagpakiana, Diin kamo tikang?
 008	Tikang kami ha Canaan ngan napalit kami hin pagkaon, binmaton hira.
 009	Kinmilala hi Jose han iya kabugtoan, kundi waray hira kumilala ha iya.
-010	Nahinumdom hiya han iya mga inop mahitungod ha ira, ngan nagsiring hiya, Mga espiya kamo; kinmanhi kamo hin pag-inaw kon hain an maluya nga dapit han amon nasod.
+010	Nahinumdom hiya han iya mga inop mahitungod ha ira, ngan nagsiring hiya, Mga espiya kamo;
+010	kinmanhi kamo hin pag-inaw kon hain an maluya nga dapit han amon nasod.
 011	Binmaton hira, Diri gad, ginoo.
 011	Kinmanhi kami sugad nga imo mga oripon, hin pagpalit hin pagkaon.
 012	Magburugto kami ngatanan.
@@ -26,7 +28,8 @@ verse	content
 017	Kon diri, sugad nga buhi gud an hadi, mga espiya gud kamo.
 018	Katapos hito, iya ginpriso hira sulod hin tulo ka adlaw.
 019	Dida han ikatulo ka adlaw, nagsiring ha ira hi Jose, Tawo ako nga may pagkahadlok han Dyos, ngan tatalwason ko an iyo mga kinabuhi, kundi may-ada niyo pagtutuman-on.
-020	Ha pagpakita nga mga tangkod kamo, magpapabilin in usa ha iyo didto han prisohan nga ginprisohan ha iyo; makakauli an iba ha iyo hin pagdara ngan han trigo nga iyo ginpalit para han iyo pinangagugutom nga mga panimalay.
+020	Ha pagpakita nga mga tangkod kamo, magpapabilin in usa ha iyo didto han prisohan nga ginprisohan ha iyo;
+020	makakauli an iba ha iyo hin pagdara ngan han trigo nga iyo ginpalit para han iyo pinangagugutom nga mga panimalay.
 021	Ngan kinahanglan pagdad-on niyo nganhi ha akon an iyo gimamanghori nga bugto nga lalake.
 021	Magpapakita ini nga nagsumat kamo han kamatuoran, ngan diri ko kamo pamamatayon.
 022	Inmabuyon hira hini,
@@ -50,15 +53,21 @@ verse	content
 033	Binmaton kami, Diri gad kami mga espiya, mga tangkod la kami nga mga tawo.
 034	Dose kami ngatanan nga magburugto, nga mga anak hin usa la nga amay.
 034	Patay na an usa nga bugto ngan aadto pa ha Canaan an gimamanghori, upod han amon amay.
-035	Binmaton an tawo, Amo ini an paagi nga hibabaroan ko kon mga tangkod manggud kamo nga mga tawo: mapabilin upod ha akon in usa ha iyo; malakat an iba ha iyo hin pagdara hin trigo para han iyo ginugutom nga mga panimalay.
+035	Binmaton an tawo, Amo ini an paagi nga hibabaroan ko kon mga tangkod manggud kamo nga mga tawo: mapabilin upod ha akon in usa ha iyo;
+035	malakat an iba ha iyo hin pagdara hin trigo para han iyo ginugutom nga mga panimalay.
 036	Dad-a nganhi ha akon an iyo gimamanghori nga bugto.
-036	Niyan mahibabaroan ko nga diri kamo mga espiya, kundi tangkod nga mga tawo; igbabalik ko ha iyo an iyo bugto, ngan makakag-ukoy kamo dinhe ngan makakagpatigayon kamo.
-037	Niyan han paghuwara nira han ira mga sako, hin-agian han tagsatagsa ha ira an iya supot hin kwarta; ngan han paghikit-i nira han kwarta, nahadlok hira ngan hi Jacob nga ira amay.
+036	Niyan mahibabaroan ko nga diri kamo mga espiya, kundi tangkod nga mga tawo;
+036	igbabalik ko ha iyo an iyo bugto, ngan makakag-ukoy kamo dinhe ngan makakagpatigayon kamo.
+037	Niyan han paghuwara nira han ira mga sako, hin-agian han tagsatagsa ha ira an iya supot hin kwarta;
+037	ngan han paghikit-i nira han kwarta, nahadlok hira ngan hi Jacob nga ira amay.
 038	Nagsiring ha ira an ira tatay, Karuyag ba niya nga mawara an ngatanan ko nga mga anak?
-038	Waray na hi Jose; waray na hi Simeon; ngan yana karuyag niyo kuhaon hi Benjamin.
+038	Waray na hi Jose;
+038	waray na hi Simeon;
+038	ngan yana karuyag niyo kuhaon hi Benjamin.
 038	Ako amo an mag-aantos!
 039	Nagsiring hi Ruben ngadto han iya amay, Kon diri ko igbalik ha imo hi Benjamin, pataya an akon duha nga mga anak nga kalalaken-an.
 039	Igtapod hiya ha akon ngan igbabalik ko hiya.
-040	Kundi nagsiring hi Jacob, Diri makakaupod ha iyo an akon anak; patay na an iya bugto ngan hiya nala an nahibilin.
+040	Kundi nagsiring hi Jacob, Diri makakaupod ha iyo an akon anak;
+040	patay na an iya bugto ngan hiya nala an nahibilin.
 040	Bangin la may mahinabo ha iya dida ha dalan.
 040	Lagas na ako, ngan makakamatay ha akon an kabidoan nga iyo paghihimoon ha akon.
