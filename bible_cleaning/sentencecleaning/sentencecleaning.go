@@ -11,7 +11,7 @@ import (
 
 // extractSentences splits the verse text into sentences
 func extractSentencesWithVerse(text, verseID string) []string {
-	reSentence := regexp.MustCompile(`([.?!])\s+`)
+	reSentence := regexp.MustCompile(`([;.?!])\s+`)
 	reNormalize := regexp.MustCompile(`\s+`)
 
 	text = reNormalize.ReplaceAllString(text, " ")

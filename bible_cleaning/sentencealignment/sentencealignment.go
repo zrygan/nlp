@@ -93,7 +93,7 @@ func SentenceSimilarity(sent1, sent2 string) float64 {
 	LenRatio	 :=  float64(min(lenSrc, lenTgt)) /
                  float64(max(lenSrc, lenTgt))
 
-	return config.LENGTH_RATIO_BIAS * LenRatio + (config.DICE_SIMILARITY_THRESHOLD) * NGramDiceSim
+	return config.LENGTH_RATIO_BIAS * LenRatio + config.DICE_SIMILARITY_THRESHOLD * NGramDiceSim
 }
 
 func AlignSentencesByGaleChurchDP(srcSents, tgtSents []string, verseID string) []types.TextPair {
@@ -102,80 +102,62 @@ func AlignSentencesByGaleChurchDP(srcSents, tgtSents []string, verseID string) [
 		return nil
 	}
 
-	// DP matrix and backpointers
+	const maxMerge = 10 // support up to 10 sentences merged per side
+
+	// DP tables
 	dp := make([][]float64, m+1)
-	bt := make([][]string, m+1)
+	bt := make([][]struct{ srcCount, tgtCount int }, m+1)
 	for i := range dp {
 		dp[i] = make([]float64, n+1)
-		bt[i] = make([]string, n+1)
+		bt[i] = make([]struct{ srcCount, tgtCount int }, n+1)
 		for j := range dp[i] {
 			dp[i][j] = -1e9
-			bt[i][j] = ""
 		}
 	}
 	dp[0][0] = 0
 
-	// Transition states
+	// Transition loop
 	for i := 0; i <= m; i++ {
 		for j := 0; j <= n; j++ {
-			if i > 0 && j > 0 {
-				score := dp[i-1][j-1] + SentenceSimilarity(srcSents[i-1], tgtSents[j-1])
-				if score > dp[i][j] {
-					dp[i][j] = score
-					bt[i][j] = "1:1"
-				}
-			}
-			if i > 0 && j > 1 {
-				t := tgtSents[j-2] + " " + tgtSents[j-1]
-				score := dp[i-1][j-2] + SentenceSimilarity(srcSents[i-1], t)
-				if score > dp[i][j] {
-					dp[i][j] = score
-					bt[i][j] = "1:2"
-				}
-			}
-			if i > 1 && j > 0 {
-				s := srcSents[i-2] + " " + srcSents[i-1]
-				score := dp[i-2][j-1] + SentenceSimilarity(s, tgtSents[j-1])
-				if score > dp[i][j] {
-					dp[i][j] = score
-					bt[i][j] = "2:1"
+			for srcCount := 1; srcCount <= maxMerge && i-srcCount >= 0; srcCount++ {
+				for tgtCount := 1; tgtCount <= maxMerge && j-tgtCount >= 0; tgtCount++ {
+
+					// concatenate source/tgt group
+					srcGroup := strings.Join(srcSents[i-srcCount:i], " ")
+					tgtGroup := strings.Join(tgtSents[j-tgtCount:j], " ")
+
+					score := dp[i-srcCount][j-tgtCount] + SentenceSimilarity(srcGroup, tgtGroup)
+					if score > dp[i][j] {
+						dp[i][j] = score
+						bt[i][j] = struct{ srcCount, tgtCount int }{srcCount, tgtCount}
+					}
 				}
 			}
 		}
 	}
-	idFormat := "%s_%03d"
-	// Backtrack to reconstruct alignment
+
+	// Backtrack
 	var pairs []types.TextPair
 	i, j := m, n
+	count := 1
 	for i > 0 && j > 0 {
-		state := bt[i][j]
-		if state == "1:1" {
-			pairs = append([]types.TextPair{{
-				ID:         fmt.Sprintf(idFormat, verseID, len(pairs)+1),
-				SourceText: srcSents[i-1],
-				TargetText: tgtSents[j-1],
-			}}, pairs...)
-			i--
-			j--
-		} else if state == "1:2" {
-			pairs = append([]types.TextPair{{
-				ID:         fmt.Sprintf(idFormat, verseID, len(pairs)+1),
-				SourceText: srcSents[i-1],
-				TargetText: tgtSents[j-2] + " " + tgtSents[j-1],
-			}}, pairs...)
-			i--
-			j -= 2
-		} else if state == "2:1" {
-			pairs = append([]types.TextPair{{
-				ID:         fmt.Sprintf(idFormat, verseID, len(pairs)+1),
-				SourceText: srcSents[i-2] + " " + srcSents[i-1],
-				TargetText: tgtSents[j-1],
-			}}, pairs...)
-			i -= 2
-			j--
-		} else {
-			break // alignment path ends
+		step := bt[i][j]
+		if step.srcCount == 0 || step.tgtCount == 0 {
+			break
 		}
+
+		srcGroup := strings.Join(srcSents[i-step.srcCount:i], " ")
+		tgtGroup := strings.Join(tgtSents[j-step.tgtCount:j], " ")
+
+		pairs = append([]types.TextPair{{
+			ID:         fmt.Sprintf("%s_%03d", verseID, count),
+			SourceText: srcGroup,
+			TargetText: tgtGroup,
+		}}, pairs...)
+
+		count++
+		i -= step.srcCount
+		j -= step.tgtCount
 	}
 
 	return pairs
