@@ -1,16 +1,18 @@
 package sentencealignment
 
 import (
-	"strings"
 	"fmt"
+	"strings"
+	"unicode"
+
+	"github.com/xrash/smetrics"
 	"github.com/zrygan.nlp/bible_cleaning/config"
 	"github.com/zrygan.nlp/bible_cleaning/types"
-	"unicode"
 )
 
 /*
-	Assumes text is cleaned.
-	Lowercases and splits on whitespace.
+Assumes text is cleaned.
+Lowercases and splits on whitespace.
 */
 func WordTokenize(text string) []string {
 	text = strings.ToLower(text)
@@ -18,12 +20,12 @@ func WordTokenize(text string) []string {
 }
 
 /*
-	Generates n-grams from a list of tokens.
-	Returns a list of n-grams as strings, or an empty list if n is less than 1 or greater than the number of tokens.
+Generates n-grams from a list of tokens.
+Returns a list of n-grams as strings, or an empty list if n is less than 1 or greater than the number of tokens.
 */
 func WordNGrams(tokens []string, n int) []string {
 	var ngrams []string
-	
+
 	if n <= 0 || len(tokens) < n {
 		return ngrams
 	}
@@ -35,8 +37,8 @@ func WordNGrams(tokens []string, n int) []string {
 }
 
 /*
-	Calculates the Dice coefficient similarity between two sets of n-grams by words.
-	Returns a float64 value between 0 and 1, where 1 means identical sets and 0 means no overlap.
+Calculates the Dice coefficient similarity between two sets of n-grams by words.
+Returns a float64 value between 0 and 1, where 1 means identical sets and 0 means no overlap.
 */
 func NGramWordDiceSimilarity(ngrams1, ngrams2 []string) float64 {
 	set1 := make(map[string]struct{})
@@ -63,10 +65,9 @@ func NGramWordDiceSimilarity(ngrams1, ngrams2 []string) float64 {
 	return (2.0 * float64(intersectionSize)) / float64(len(set1)+len(set2))
 }
 
-
 /*
-	Assumes text is cleaned.
-	Lowercases and splits on char.
+Assumes text is cleaned.
+Lowercases and splits on char.
 */
 func CharTokenize(text string) []string {
 	text = strings.ToLower(text)
@@ -80,8 +81,8 @@ func CharTokenize(text string) []string {
 }
 
 /*
-	Generates n-grams from a list of tokens.
-	Returns a list of n-grams as strings, or an empty list if n is less than 1 or greater than the number of tokens.
+Generates n-grams from a list of tokens.
+Returns a list of n-grams as strings, or an empty list if n is less than 1 or greater than the number of tokens.
 */
 func CharNGrams(tokens []string, n int) []string {
 	if n <= 0 || len(tokens) < n {
@@ -95,8 +96,8 @@ func CharNGrams(tokens []string, n int) []string {
 }
 
 /*
-	Calculates the Dice coefficient similarity between two sets of n-grams.
-	Returns a float64 value between 0 and 1, where 1 means identical sets and 0 means no overlap.
+Calculates the Dice coefficient similarity between two sets of n-grams.
+Returns a float64 value between 0 and 1, where 1 means identical sets and 0 means no overlap.
 */
 func CharNGramDiceSimilarity(text1, text2 string, n int) float64 {
 	tokens1 := CharTokenize(text1)
@@ -128,20 +129,54 @@ func CharNGramDiceSimilarity(text1, text2 string, n int) float64 {
 	return (2.0 * float64(intersection)) / float64(len(set1)+len(set2))
 }
 
-func LengthRatioSimilarity(sent1, sent2 string) float64{
+func LengthRatioSimilarity(sent1, sent2 string) float64 {
 	lenSrc := float64(len([]rune(sent1)))
 	lenTgt := float64(len([]rune(sent2)))
 	LenRatio := float64(min(lenSrc, lenTgt)) / float64(max(lenSrc, lenTgt))
 	return LenRatio
 }
 
+func ProperNounSimilarity(a, b string) float64 {
+	return smetrics.JaroWinkler(a, b, 0.7, 4)
+}
+
+func ProperNounOverlapScore(src, tgt string, cache *types.ProperNounCache) float64 {
+	srcTokens := strings.Fields(src)
+	tgtTokens := strings.Fields(tgt)
+
+	var matches int
+	var total int
+
+	for _, s := range srcTokens {
+		s = strings.Trim(s, ".,;:!?\"'")
+		if _, ok := cache.Words[s]; !ok {
+			continue
+		}
+		total++
+		for _, t := range tgtTokens {
+			t = strings.Trim(t, ".,;:!?\"'")
+			if _, ok := cache.Words[t]; !ok {
+				continue
+			}
+			if ProperNounSimilarity(s, t) > 0.85 {
+				matches++
+				break
+			}
+		}
+	}
+
+	if total == 0 {
+		return 0.0
+	}
+	return float64(matches) / float64(total)
+}
 
 /*
-	Does a sentence similarity based on a combination of Dice coefficient of n-grams and length ratio.
-	Based on "A Fast, Flexible Model for Sentence Alignment" by Daniel M. Cer et al.
-	https://aclanthology.org/W17-2511.pdf
+Does a sentence similarity based on a combination of Dice coefficient of n-grams and length ratio.
+Based on "A Fast, Flexible Model for Sentence Alignment" by Daniel M. Cer et al.
+https://aclanthology.org/W17-2511.pdf
 */
-func SentenceSimilarity(sent1, sent2 string) float64 {
+func SentenceSimilarity(sent1, sent2 string, cache *types.ProperNounCache) float64 {
 	sent1 = strings.TrimSpace(sent1)
 	sent2 = strings.TrimSpace(sent2)
 
@@ -165,16 +200,17 @@ func SentenceSimilarity(sent1, sent2 string) float64 {
 	// Compute character n-gram Dice similarity
 	NGramDiceSim := CharNGramDiceSimilarity(sent1, sent2, n)
 	LenRatio := LengthRatioSimilarity(sent1, sent2)
-	return config.LENGTH_RATIO_BIAS*LenRatio + config.DICE_SIMILARITY_THRESHOLD*NGramDiceSim
+	PropSim := ProperNounOverlapScore(sent1, sent2, cache)
+	return config.LENGTH_RATIO_SIMILARITY_BIAS*LenRatio + config.NGRAMS_DICE_SIMILARITY_BIAS*NGramDiceSim + config.PROPER_NOUNS_SIMILARITY_BIAS*PropSim
 }
 
-func AlignSentencesByGaleChurchDP(srcSents, tgtSents []string, verseID string) []types.TextPair {
+func AlignSentencesByGaleChurchDP(srcSents, tgtSents []string, verseID string, cache *types.ProperNounCache) []types.TextPair {
 	m, n := len(srcSents), len(tgtSents)
 	if m == 0 || n == 0 {
 		return nil
 	}
 
-	const maxMerge = 10 // support up to 10 sentences merged per side
+	const maxMerge = 5 // support up to 7 sentences merged per side
 
 	// DP tables
 	dp := make([][]float64, m+1)
@@ -198,7 +234,7 @@ func AlignSentencesByGaleChurchDP(srcSents, tgtSents []string, verseID string) [
 					srcGroup := strings.Join(srcSents[i-srcCount:i], " ")
 					tgtGroup := strings.Join(tgtSents[j-tgtCount:j], " ")
 
-					score := dp[i-srcCount][j-tgtCount] + SentenceSimilarity(srcGroup, tgtGroup)
+					score := dp[i-srcCount][j-tgtCount] + SentenceSimilarity(srcGroup, tgtGroup, cache)
 					if score > dp[i][j] {
 						dp[i][j] = score
 						bt[i][j] = struct{ srcCount, tgtCount int }{srcCount, tgtCount}
