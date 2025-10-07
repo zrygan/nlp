@@ -20,7 +20,8 @@ verse	content
 012	Linmabas so labi tan sinmabiy kabwasansikato ya so kumatlon agew.
 013	Insan inkuan na Dios, Onlesa ed tawen iray silew a mangibiig na agew ed labi tan mangipanengneng na igapo na saray agew, taon, tan saray panaon;
 014	onsilew irad tawen a mangiter na liwawa ed dalinet agawa.
-015	Onya so impamalsa na Dios ed saray duaran baleg a silew, say banwa a baleg a silew a manoley no agew tan say bulan a memelag a silew a manoley no labi; pinalsa to met iray bitewen.
+015	Onya so impamalsa na Dios ed saray duaran baleg a silew, say banwa a baleg a silew a manoley no agew tan say bulan a memelag a silew a manoley no labi;
+015	pinalsa to met iray bitewen.
 016	Impasen tod tawen ira yan silew a mangiter na liwawa ed dalin,
 017	manoley no agew tan labi, tan mangibiig na liwawa ed bilonget.
 017	Say Dios anengneng to a maung so agawa.
@@ -33,9 +34,11 @@ verse	content
 023	Insan ingganggan na Dios, Sika a dalin, mamawala ka na amin a klasiy mabilay ya ayep, saray amo tan saray atap, saray baleg tan saray melaget agawa.
 024	Onya so impamalsa na Dios ed sarayan amin ya ayayep.
 024	Say Dios anengneng to a maung so agawa.
-025	Insan inkuan na Dios, Natan mamalsa tayoy too; gawaen tayo ran kaparparay indengan tayo tan kaolibay tayo.
+025	Insan inkuan na Dios, Natan mamalsa tayoy too;
+025	gawaen tayo ran kaparparay indengan tayo tan kaolibay tayo.
 025	Sikaray manoley ed saray sira, saray manok, tan amin ya ayayep, saray amo tan saray atap, saray baleg tan saray melag.
-026	Onya so impamalsa na Dios ed too; pinalsa to ra a kaparay indengan to.
+026	Onya so impamalsa na Dios ed too;
+026	pinalsa to ra a kaparay indengan to.
 026	Pinalsa toy laki tan say bii,
 027	binindisionan to ra, tan inkuantod sikara, Mamparakel kayoy anak, makmakan yoy intiron mundo, tan oleyan yo.
 027	Oleyan yo ray sira, saray manok, tan amin iray ayayep.

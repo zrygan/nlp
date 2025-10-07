@@ -1,12 +1,15 @@
 verse	content
-001	Kalabas da ring aduang banua, meninap ya ing ari; makatalakad ya kanu king pampang ning Ilug ning Nilo.
+001	Kalabas da ring aduang banua, meninap ya ing ari;
+001	makatalakad ya kanu king pampang ning Ilug ning Nilo.
 002	Kabud-abud linto la ding pitung bakang masanting at mataba ibat king ilug at mengan la deti king dikut.
 003	Kaybat na nita, sinaka la naman ibat king ilug ding pitung aliwang bakang matsura at payat at mekiagape la karing masanting at matabang baka a atyu king pampang ning ilug.
 004	Ding payat a baka pengan da la ring pitung masanting at matabang baka.
 004	Kanita ya migising ing ari.
 005	Mipatudtud ne naman at meninap yang pasibayu.
-005	King metung a pun ning trigu pitu lang tinalage ding linsut; masanting la at mataba ding binutil da.
-006	Kaybat na nita, linsut la ring pitung tinalage; payat la at meduluk uli na ning pali ning angin a ibat king aslagan.
+005	King metung a pun ning trigu pitu lang tinalage ding linsut;
+005	masanting la at mataba ding binutil da.
+006	Kaybat na nita, linsut la ring pitung tinalage;
+006	payat la at meduluk uli na ning pali ning angin a ibat king aslagan.
 007	Pengan da la ring payat a tinalage ding mataba.
 007	Migising ya ing ari, at meninap ya mu pala.
 008	E ya mipaindatun itang kayabakan.
@@ -16,10 +19,12 @@ verse	content
 009	Ngana, Ngeni ku pu aminan ing kasalanan ku.
 010	Kanitang mimua kayu kanaku at king pamuntuk da ring panadero, pepasukul yu kami king bale na ning kapitan da ring guardia.
 011	Misan a bengi, meninap kami at atin yang sariling kabaldugan ing balang paninap mi.
-012	Atin keng kayabe metung a baintaung Hebreo; ipus ne ning kapitan da ring guardia.
+012	Atin keng kayabe metung a baintaung Hebreo;
+012	ipus ne ning kapitan da ring guardia.
 012	Kinwentu mi la keting ipus ding apaninap mi.
 012	Binie na la kabaldugan ding paninap na ning metung at metung kekami.
-013	At nung makananu ing binie nang kabaldugan, makanyan ing milyari; binalik yu ku king kanakung katungkulan, oneng pepabite ye ing pamuntuk da ring panadero.
+013	At nung makananu ing binie nang kabaldugan, makanyan ing milyari;
+013	binalik yu ku king kanakung katungkulan, oneng pepabite ye ing pamuntuk da ring panadero.
 014	Kanita mitubud ya ing ari at pepayaus ne i Jose.
 014	Agad-agad deng liwal king sukulan.
 014	At kaybat nang mekapamalbas at mekapanaliling imalan, minta ya king arapan na ning ari.
@@ -28,13 +33,16 @@ verse	content
 016	Aliwa pu aku, nganang mekibat Jose, nune ing Dios ya ing munie masanting a kabaldugan king paninap yu.
 017	Kanita ngana ning ari kang Jose, Apaninap ku king makatalakad ku king pampang ning Ilug ning Nilo.
 018	Sinaka la king ilug ding pitung masanting at matabang baka at mengan lang dikut.
-019	Kaybat na nita, sinaka la naman ding pitung matsura at payat a baka; peka matsura lang dili karing sablang bakang ikit ku keti Ehipto.
+019	Kaybat na nita, sinaka la naman ding pitung matsura at payat a baka;
+019	peka matsura lang dili karing sablang bakang ikit ku keti Ehipto.
 020	At pengan da la reting matsura at payat a baka ding pitung mataba.
 021	Kaybat da lang pengan ding matabang baka, antimong alang milyari nanuman uling menatili la pa mu ring payat.
 021	At migising ku.
 022	Mipatudtud kung pasibayu at oyni naman ing apaninap ku.
-022	Menakit kung pitung tinalage a linsut king metung mung tinalage ning trigu; mataba la at masanting.
-023	Kaybat na nita, menakit ku namang pitung tinalage a linsut oneng lanat la; payat la at durulukan na la ning angin ibat king aslagan.
+022	Menakit kung pitung tinalage a linsut king metung mung tinalage ning trigu;
+022	mataba la at masanting.
+023	Kaybat na nita, menakit ku namang pitung tinalage a linsut oneng lanat la;
+023	payat la at durulukan na la ning angin ibat king aslagan.
 024	At pengan da la reting payat a tinalage ding pitung matabang tinalage.
 024	Sinabi ku iti karing salamangkeru, oneng ala metung man karela ing mekaibie king kabaldugan na kanaku.
 025	Kanita nganang Jose king ari, Metung la mu pu kabaldugan ding adua yung paninap.
@@ -59,8 +67,10 @@ verse	content
 041	Kaybat na nita, likas ne ning ari ing singsing nang panatak at pepasulud ne kang Jose, at pepapiblasan neng imalan a mangamal at pepasuluran neng gintung kwintas king batal na.
 042	Pepagamit ne pa ing kadua nang karwahe at dininan neng guardia ban potang daratang ya mumuna ya at ikulisak na: Dinan yeng dalan, lumele kayu!
 042	Makanyan neng penibala ning ari kang Jose ing mabilug a bansa ning Ehipto.
-043	Ngana pa ning ari kang Jose, Aku ing ari; alang ninumang makatas king gamat na o bitis king mabilug a bansa ning Ehipto nung e mu paintulut.
-044	Inalilan ne lagyu ning ari i Jose; Zafenat-Panea ing pemalagyu na.
+043	Ngana pa ning ari kang Jose, Aku ing ari;
+043	alang ninumang makatas king gamat na o bitis king mabilug a bansa ning Ehipto nung e mu paintulut.
+044	Inalilan ne lagyu ning ari i Jose;
+044	Zafenat-Panea ing pemalagyu na.
 044	Binie ne ban maging asawa na i Asenat a anak nang Potifera a pari karin Heliopolis.
 044	Makanyan yang miglakbe i Jose king mabilug a Ehipto.
 045	Atlu yang pulung banua i Jose inyang sinuyu ya king ari na ning Ehipto.

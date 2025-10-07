@@ -84,6 +84,8 @@ verse	content
 082	Pagkatapos ay iniutos niya sa kanila, Ako'y malapit nang makasama sa aking bayan.
 082	Ilibing ninyo ako sa tabi ng aking mga magulang, sa yungib na nasa parang ni Efron na Heteo,
 083	sa yungib na nasa parang ng Macpela, na nasa tapat ng Mamre, sa lupain ng Canaan, ang parang na binili ni Abraham kay Efron na Heteo, upang maging libingan.
-084	Doon nila inilibing si Abraham at si Sara na kanyang asawa; at doon nila inilibing si Isaac at si Rebecca na kanyang asawa; at doon ko inilibing si Lea,
+084	Doon nila inilibing si Abraham at si Sara na kanyang asawa;
+084	at doon nila inilibing si Isaac at si Rebecca na kanyang asawa;
+084	at doon ko inilibing si Lea,
 085	sa parang at sa yungib na nandoon na binili mula sa mga anak ni Het.
 086	Pagkatapos na si Jacob ay makapagbilin sa kanyang mga anak, itinikom niya ang kanyang mga paa sa higaan, siya'y nalagutan ng hininga at naging kasama ng kanyang bayan.

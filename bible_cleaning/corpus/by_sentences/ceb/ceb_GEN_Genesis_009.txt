@@ -6,7 +6,8 @@ verse	content
 004	Usa lamang ka butang ang kinahanglan dili ninyo kan-on ug kini mao ang karne nga may dugo pa kay ang kinabuhi anaa man sa dugo.
 005	Kon usa ka tawo mopatay ug tawo, silotan siya.
 005	Silotan pinaagi sa kamatayon ang mananap o tawo nga mopatay ug tawo.
-006	Ang mopatay ug tawo patyon usab sa iyang isigkatawo; kay gibuhat man ang tawo sama sa Dios.
+006	Ang mopatay ug tawo patyon usab sa iyang isigkatawo;
+006	kay gibuhat man ang tawo sama sa Dios.
 007	Panganak kamo aron modaghan kamo ug molukop sa tibuok kalibotan.
 008	Unya ang Dios miingon kang Noe ug sa iyang mga anak,
 009	Himoon ko na karon ang akong kasabotan tali kaninyo ug kanako ug sa inyong mga kaliwat,

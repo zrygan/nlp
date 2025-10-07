@@ -10,7 +10,8 @@ verse	content
 005	Unya miingon si Sarai kang Abram, Ikaw ang angay basolon sa pagbiaybiay ni Hagar kanako.
 005	Gihatag ko siya kanimo apan sukad siya masayod nga nagsabak siya, gibiaybiay niya ako.
 005	Maghukom unta ang Ginoo kon kinsay sad-an kanato.
-006	Si Abram mitubag, Kon mao kana, imo siyang ulipon ug ilalom sa imong pagbuot; ikaw nay mag-igo kaniya.
+006	Si Abram mitubag, Kon mao kana, imo siyang ulipon ug ilalom sa imong pagbuot;
+006	ikaw nay mag-igo kaniya.
 006	Ug gidaugdaog pag-ayo ni Sarai si Hagar busa mikagiw si Hagar.
 007	Gitagbo si Hagar sa anghel sa Ginoo didto sa usa ka tubod sa kamingawan, sa dalan paingon sa yuta sa Shur.
 008	Ang anghel miingon, Hagar, ulipon ni Sarai, diin ka man gikan ug asa ka man padulong?

@@ -27,7 +27,8 @@ verse	content
 021	Ngana ning Ginu kang Moises, Makikit ka bukas abak a maranun king ari potang dulung ya king ilug at sabian mu king ing Ginu pasabi na ing anti kaniti: Paburen mu na lang mako ding memalen ku ban makasamba la kanaku.
 022	Nung e mu la paintulutan mako ding taung pinili ku, parusan da ka king kapamilatan na ning pamiparatang kung lango keka, karing opisyal mu, at karing taung sasakupan mu.
 022	Kumatmu lang lango ding pibalebale da ring tau Ehipto at mitakpan ya ing gabun kareti.
-023	Oneng milisia ya kaniti ing sakup ning Gosen nung nu la manuknangan ding taung pinili ku; e mika lango karin ban akilala mu king aku, ing Ginu , ing maki upaya king bansang iti.
+023	Oneng milisia ya kaniti ing sakup ning Gosen nung nu la manuknangan ding taung pinili ku;
+023	e mika lango karin ban akilala mu king aku, ing Ginu , ing maki upaya king bansang iti.
 024	Palto kung pamiyaliwa karing memalen ku ampon karing memalen mu.
 024	Marapat bukas iting bage pagmumulalan.
 025	Kabukasan, pepagpa yang pulupulutung a lango ing Ginu king palasyu ning ari at karing bale ra ding tauan na.
@@ -43,5 +44,6 @@ verse	content
 030	Oneng e yu na ke sana lilinlangan pasibayu at e yu na la sana sasabatan ding Israelita king paglako ra ban miyain ain-sakripisyu king Ginu .
 031	Likuan na neng Moises ing ari at kaybat menalangin ya king Ginu .
 032	Binie na ning Ginu itang inawad nang Moises.
-032	Likuan de ring lango ing ari, ding opisyal na, at ding memalen na; alang mitagan agyang metung mung lango.
+032	Likuan de ring lango ing ari, ding opisyal na, at ding memalen na;
+032	alang mitagan agyang metung mung lango.
 033	Agyang king pamikatagun mu ring ita menatili ya pa mu ring masias a pusu ing ari, at pasibayu na lang e peintulutan mako ding Israelita.

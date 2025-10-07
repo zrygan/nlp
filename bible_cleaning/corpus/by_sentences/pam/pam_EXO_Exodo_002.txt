@@ -28,7 +28,8 @@ verse	content
 015	Inyang abalitan na ning ari iting mepalyari buri neng ipapate i Moises.
 015	Oneng mekatakas ya at miras king Midian at karin ya menuknangan.
 016	Atin yang pitung anak a babai i Jetro, ing pari ning Midian.
-016	Misan a aldo, makalukluk ya i Moises king lele ning talaga; dinatang la deting mikakapatad ban saklung danum para karing tupa at kambing nang tata ra.
+016	Misan a aldo, makalukluk ya i Moises king lele ning talaga;
+016	dinatang la deting mikakapatad ban saklung danum para karing tupa at kambing nang tata ra.
 017	Ating dinatang a pastul at penabi da la reting babai.
 017	Tinalakad ya i Moises ban saupan ding babai.
 017	Kaybat na nita, pepainum na lang Moises ding sese rang animal.

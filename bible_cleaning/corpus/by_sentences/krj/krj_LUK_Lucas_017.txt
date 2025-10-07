@@ -15,7 +15,8 @@ verse	content
 009	Kag pagkatapos nga makakaun ako pwede run ikaw makakaun.
 010	Ang surugoon wara ginapasalamatan sa paghimo kang ginasugo kana tungud hay amo dya ang anang katungdanan.
 011	Amo man ria kaninyo.
-011	Sa tapos nga mahimo ninyo ang tanan nga ginsugo kaninyo, makuon kamo, Mga surugoon lang man kami; ginhimo lang namun ang amun katungdanan.
+011	Sa tapos nga mahimo ninyo ang tanan nga ginsugo kaninyo, makuon kamo, Mga surugoon lang man kami;
+011	ginhimo lang namun ang amun katungdanan.
 012	Samtang nagapaagto si Jesus sa Jerusalem, nag-agi tana sa may dulonan kang Samaria kag Galilea.
 013	Kang nagapasulud tana sa sangka baryo, ginsug-alaw tana kang napulo ka mga tawo nga aruon.
 013	Nagatirindug sanda rugto sa marayu

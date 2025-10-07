@@ -31,7 +31,8 @@ verse	content
 018	Hihimoon ko in usa nga dako nga nasod tikang han iya mga tulin.
 019	Niyan ginpakita han Dyos kan Agar in usa nga atabay.
 019	Kinmadto hiya ngan ginpuno hin tubig an supot nga anit ngan ginpainom an bata.
-020	Kaupod an Dyos han bata samtang nagtutubo hiya; nag-ukoy hiya didto ha kamingawan han Paran ngan nahimo hiya nga batid nga parapanganop.
+020	Kaupod an Dyos han bata samtang nagtutubo hiya;
+020	nag-ukoy hiya didto ha kamingawan han Paran ngan nahimo hiya nga batid nga parapanganop.
 021	Nakaagi an iroy niya hin Ehiptohanon nga asawa para ha iya.
 022	Hito nga panahon, inmupod hi Abimelec kan Picol nga kapitan han iya kasondalohan, ngan nagsiring kan Abraham, Kaupod nimo an Dyos ha ngatanan nga imo binubuhat.
 023	Sanglit pagsumpa dinhe ha atubangan han Dyos nga diri ka maglilingo ha akon, han akon mga anak, o han akon mga tulin.

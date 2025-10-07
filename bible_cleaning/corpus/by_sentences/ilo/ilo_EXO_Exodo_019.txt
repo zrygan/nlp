@@ -21,7 +21,8 @@ verse	content
 013	Ibagam kadakuada a dida sumang-at wenno umasideg iti bantay.
 013	No adda bumaddek iti bantay, masapul a mapapatay
 014	Maubor wenno mapana agingga a matay ket maiparit ti mangsagid kenkuana.
-014	Kasta ti aramidenyo iti tao wenno iti animal; masapul a mapapatay.
+014	Kasta ti aramidenyo iti tao wenno iti animal;
+014	masapul a mapapatay.
 014	Ngem inton mapuyot ti tangguyob, sumang-atton dagiti tattao iti bantay.
 015	Simmalog ni Moises iti bantay ket pinagsaganana dagiti tattao nga agdaydayaw.
 015	Isu a linabaanda dagiti pagan-anayda,

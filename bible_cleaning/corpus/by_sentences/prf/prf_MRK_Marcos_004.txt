@@ -25,7 +25,8 @@ verse	content
 016	sakay nakatanggap nakuwan hidi ti kapatawadan.
 017	Kttapos ay tinanung hidi ni Jesus, Awan moy beman maintendiyan en talinhaga?
 017	Konya moy a maintendiyan en agum hidi a talinhaga?
-018	Kona hddi i kahulugan naid; en bine a isssabug ay en upos nen Diyos.
+018	Kona hddi i kahulugan naid;
+018	en bine a isssabug ay en upos nen Diyos.
 019	En bine hidi a ngkeragrag ten dilan ay kumn a en tolay hidi a nakasanig ten upos nen Diyos.
 019	Pkkasanig di ay dummemt ti Satanas, inibutan na ten isip nen tolay en upos nen Diyos.
 020	En bine hidi a ngkeragrag ten kabatuwan ay kumn a en tolay hidi a pkkasanig di ten upos nen Diyos ay pagdaka di a tinanggap a masaya.

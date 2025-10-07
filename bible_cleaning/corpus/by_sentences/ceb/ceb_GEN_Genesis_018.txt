@@ -10,7 +10,8 @@ verse	content
 006	Sila mitubag, Kon mao kana, buhata ang imong giingon.
 007	Midali si Abraham pagsulod sa tolda ug giingnan niya si Sara, Pagkuhag usa ka sako sa imong labing maayong harina ug paglutog pan.
 007	Dalia kini paghimo.
-008	Unya midagan si Abraham ngadto sa kahayopan ug nagpili siyag nating baka nga tambok ug humok pa ug gihatag niya kini sa iyang ulipon; gidali usab kini paghikay sa ulipon.
+008	Unya midagan si Abraham ngadto sa kahayopan ug nagpili siyag nating baka nga tambok ug humok pa ug gihatag niya kini sa iyang ulipon;
+008	gidali usab kini paghikay sa ulipon.
 009	Unya nagkuha si Abraham ug keso, lab-as nga gatas ug karne ug gidulot niya kini sa mga tawo.
 009	Samtang nagkaon sila, nagbarog siya duol kanila ubos sa kahoy.
 010	Unya nangutana sila kaniya, Hain man ang imong asawa nga si Sara?

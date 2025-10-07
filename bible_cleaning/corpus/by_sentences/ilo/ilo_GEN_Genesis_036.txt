@@ -1,8 +1,10 @@
 verse	content
 001	Dagitoy dagiti kaputotan ni Esau Edom pay ti naganna.
-002	Nangasawa ni Esau kadagiti Cananea: ni Ada nga anak ni Elon a Heteo; ni Oholibama nga anak ni Ana a lalaki nga anak ni Zibeon a Heveo;
+002	Nangasawa ni Esau kadagiti Cananea: ni Ada nga anak ni Elon a Heteo;
+002	ni Oholibama nga anak ni Ana a lalaki nga anak ni Zibeon a Heveo;
 003	ken ni Basemat nga anak ni Ismael ken kabsat ni Nebayot.
-004	Inyanak ni Ada ni Elifaz; inyanak ni Basemat ni Reuel;
+004	Inyanak ni Ada ni Elifaz;
+004	inyanak ni Basemat ni Reuel;
 005	ket inyanak met ni Oholibama da Jeus, Jaalam ken Kora.
 005	Annak ida ni Esau.
 005	Nayanakda amin idiay Canaan.
@@ -12,9 +14,11 @@ verse	content
 007	Adu unayen ti arbanda ket dida mabalin ti agtipon.
 008	Napan nagnaed ni Esau iti katurturodan a pagilian ti Seir.
 009	Dagitoy dagiti kaputotan ni Esau a kapuonan dagiti Edomita iti katurturodan a pagilian ti Seir.
-010	Maysa ti anak ni Esau ken ni Ada; isu ni Elifaz.
+010	Maysa ti anak ni Esau ken ni Ada;
+010	isu ni Elifaz.
 010	Lima ti lallaki nga annak ni Elifaz: Teman, Omar, Zefo, Gatam ken Kenaz.
-010	Maysa pay ti anakna ken ni Timna a maysa kadagiti assawana; isu ni Amalec.
+010	Maysa pay ti anakna ken ni Timna a maysa kadagiti assawana;
+010	isu ni Amalec.
 011	Maysa ti anak ni Esau ken ni Basemat: ni Reuel.
 011	Uppat met ti lallaki nga annak ni Reuel: Nahat, Zera, Samma ken Mizza.
 012	Tallo ti lallaki nga annak ni Esau ken ni Oholibama nga anak ni Ana, ti lalaki nga anak ni Zibeon: da Jeus, Jaalam ken Kora.

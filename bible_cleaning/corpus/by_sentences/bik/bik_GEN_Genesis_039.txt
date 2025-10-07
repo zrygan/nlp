@@ -3,7 +3,8 @@ verse	content
 002	Inibahan nin Kagurangnan si Jose kaya nag-uswag siya.
 002	Nag-erok si Jose sa harong kan Egipcio niyang kagurangnan,
 003	na nakamasid na iniibahan nin Kagurangnan si Jose asin pinapauswag an gabos na gibo.
-004	Nagustohan si Jose ni Potifar, asin ginibo siya kaining pinaniwalaan na sorogoon; siya an nagin parapamahala kan harong ni Potifar asin kan gabos na pagsadiri kaini.
+004	Nagustohan si Jose ni Potifar, asin ginibo siya kaining pinaniwalaan na sorogoon;
+004	siya an nagin parapamahala kan harong ni Potifar asin kan gabos na pagsadiri kaini.
 005	Poon kaidto, huli ki Jose, benendisyonan nin Kagurangnan an harong kan Egipcio asin an gabos na pagsadiri kaini.
 006	Itinao ni Potifar an gabos niyang pagsadiri sa pamamahala ni Jose.
 006	Mayo na siyang ibang minamangno kundi an saiyang kinakakan.

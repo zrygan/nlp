@@ -10,7 +10,8 @@ verse	content
 008	Iyo man an gigibohon niya kun banggi sa pagpalaad niya kan mga ilawan.
 008	Ining danay na pagdolot nin insenso gigibohon nindo sagkod sa mga maabot na henerasyon.
 009	An altar na ini dai nindo pagtutongan nin bakong banal na insenso, o nin tinutong na atang, o nin dolot na pagkakan, asin dai nindo ini pag-ulaan nin dolot na arak.
-010	Sarong beses sa taon gigibohon ni Aaron an seremonya nin paglinig kan altar; an mga sungay kaini lalahidan niya kan dugo kan inatang sa pagbayad nin kasalan.
+010	Sarong beses sa taon gigibohon ni Aaron an seremonya nin paglinig kan altar;
+010	an mga sungay kaini lalahidan niya kan dugo kan inatang sa pagbayad nin kasalan.
 010	Gibohon nindo ini sa gabos na panahon.
 010	An altar na ini kaipuhan na magin banal, konsagrado sa sako.
 010	Ako an Kagurangnan .
@@ -27,7 +28,8 @@ verse	content
 018	Ibugtak mo iyan sa pagultanan kan Tabernakulo saka kan altar.
 018	Dangan laogan mo nin tubig
 019	na gagamiton ni Aaron asin kan saiyang mga aki sa paghanaw kan saindang mga kamot saka mga bitis.
-020	Kaipuhan maghanaw ngona sinda bago maglaog sa Tabernakulo o bago magdolok sa altar tanganing magdolot nin atang; kun dai, magagadan sinda.
+020	Kaipuhan maghanaw ngona sinda bago maglaog sa Tabernakulo o bago magdolok sa altar tanganing magdolot nin atang;
+020	kun dai, magagadan sinda.
 021	Kaipuhan nanggad na maghanaw sinda kan saindang mga kamot saka mga bitis tanganing dai sinda magadan.
 021	An pagboot na ini kukuyogon ninda asin kan saindang mga kapagarakian sagkod lamang.
 022	Nagtaram pa an Kagurangnan ki Moises,

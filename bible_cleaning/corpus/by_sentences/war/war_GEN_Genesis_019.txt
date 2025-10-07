@@ -30,20 +30,23 @@ verse	content
 013	Nagsiring kan Lot an duha nga kalalaken-an, Kon may-ada pa nimo iba nga mga tawo dinhemga anak nga kalalaken-an, mga anak nga kababayen-an, mga umagad nga kalalaken-an o bisan hin-o nga iba nga imo kauropdan nga nag-uokoy dinhe han syudadpagawsa dayon hira ngatanan,
 014	kay pagbubungkagon namon ini nga dapit.
 014	Hinbatian han Ginoo an magpakalilisang nga mga sumbong kontra hini nga mga tawo ngan ginsugo kami hin pagbungkag han Sodoma.
-015	Niyan kinmadto hi Lot han kalalaken-an nga nangangasawa han iya mga anak nga kababayen-an, ngan nagsiring, Dali ngan gawas kamo dinhe; pagbubungkagon han Ginoo ini nga dapit.
+015	Niyan kinmadto hi Lot han kalalaken-an nga nangangasawa han iya mga anak nga kababayen-an, ngan nagsiring, Dali ngan gawas kamo dinhe;
+015	pagbubungkagon han Ginoo ini nga dapit.
 015	Kundi naghunahuna hira nga nag-iintrimis la hiya.
 016	Han maagahon pa, gintinguha han mga anghel hin pagpadagmit kan Lot.
 016	Dali!
 016	nagsiring hira.
 016	Dad-a an imo asawa ngan an duha mo nga mga anak nga kababayen-an ngan gawas kamo, basi diri kamo mamatay kon pagbungkagon an syudad.
 017	Baga nag-alang pa hi Lot.
-017	Kundi nalooy ha iya an Ginoo ; sanglit kinaptan han duha nga kalalaken-an hiya, an iya asawa, ngan an iya duha nga mga anak nga kababayen-an ngan ginpagawas hira han syudad.
+017	Kundi nalooy ha iya an Ginoo ;
+017	sanglit kinaptan han duha nga kalalaken-an hiya, an iya asawa, ngan an iya duha nga mga anak nga kababayen-an ngan ginpagawas hira han syudad.
 018	Ngan nagsiring an usa han mga anghel, Dalagan kamo basi diri kamo magkamatay!
 018	Ayaw kamo paglingi ngan ayaw paghunong didto han kahamub-an.
 018	Dalagan kamo ngadto han kapungtoran basi diri kamo magkamatay!
 019	Kundi binmaton hi Lot, Kon mahimo, diri gad kami makadto hito nga dapit.
 020	Ginbuhat mo na ha akon in dako nga pagkalooy ngan gintalwas mo pa an akon kinabuhi.
-020	Kundi hirayo hin duro an kapungtoran; bangin hiabotan ako han karat-an, ngan mapatay ako ha diri pa ako maabot didto.
+020	Kundi hirayo hin duro an kapungtoran;
+020	bangin hiabotan ako han karat-an, ngan mapatay ako ha diri pa ako maabot didto.
 021	Nakita ka ba ito nga gutiay nga bungto?
 021	Hirani la ito.
 021	Tugoti ako hin pagkadtonakita ka man nga gutiay la ito nga dapitngan magagawas ako han kataragman.
@@ -65,7 +68,8 @@ verse	content
 034	Tana, paghubga ta an aton amay basi makadirig kita ha iya ngan magkamay-ada kita mga anak pinaagi ha iya.
 035	Hito nga gab-i ginpainom nira hin bino an ira amay, ngan nakighilawas ha iya an magurang nga anak nga babaye.
 035	Kundi uraura hiya hin ka hubog nga waray hiya makasabot hini.
-036	Han pagkabuwas nagsiring an magurang nga anak ngadto han iya bugto, Dinmirig ako ha iya kagab-i; yana paghubga ta liwat hiya niyan nga gab-i, ngan ikaw na man an dirig ha iya.
+036	Han pagkabuwas nagsiring an magurang nga anak ngadto han iya bugto, Dinmirig ako ha iya kagab-i;
+036	yana paghubga ta liwat hiya niyan nga gab-i, ngan ikaw na man an dirig ha iya.
 036	Niyan nagkakamay-ada anak an kada usa ha aton pinaagi han aton tatay.
 037	Sanglit hito nga gab-i ira ginhubog hiya, ngan nakighilawas ha iya an manghod nga anak.
 037	Hubog na liwat hiya hin duro sanglit waray gud hiya makasabot hini.

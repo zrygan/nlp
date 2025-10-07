@@ -8,9 +8,11 @@ verse	content
 005	Sinambaan na Katawan ed saray lalaki yo ya iter tod sikayo so dalin na saray Cananeo, saray Heteo, saray Amorreo, saray Heveo, tan saray Jebuseo.
 005	No niakar to kayo lad saman a mayaman tan mataban dalin, silibraan yo yan pista diad ononan bulan na kapag taon.
 006	Diad loob na pitoran agew say kanen yon tinapay say ag pinaalsad libadura, tan diad kumapiton agew nepeg a walay pista a pamagalang ed Katawan .
-007	Diad loob na pitoran agew ag kayo mamangan na antokaman a tinapay a pinaalsad libadura; nepeg ya anggapoy narumog a libadura odino tinapay a pinaalsad libadura ed inerman a pasen ed dalin yo.
+007	Diad loob na pitoran agew ag kayo mamangan na antokaman a tinapay a pinaalsad libadura;
+007	nepeg ya anggapoy narumog a libadura odino tinapay a pinaalsad libadura ed inerman a pasen ed dalin yo.
 008	No onggapo lay pista, ipaliwawa yod saray anak yo a gawaen yo ya, lapud samay ginawa ed sikayo na Katawan nen tinaynan yo so Egipto.
-009	Sayan pista et sakey a pakanudnonotan a singa bengatlan nisinger ed lima yo odino diad muling yo; ipanunot tod sikayo so pangituloy yoy pangibitla tan panaral na Ganggan na Katawan , lapud say Katawan impaway to kayod Egipto diad panamegley na baleg a pakayari to.
+009	Sayan pista et sakey a pakanudnonotan a singa bengatlan nisinger ed lima yo odino diad muling yo;
+009	ipanunot tod sikayo so pangituloy yoy pangibitla tan panaral na Ganggan na Katawan , lapud say Katawan impaway to kayod Egipto diad panamegley na baleg a pakayari to.
 010	Silibraan yo yan pista diad niganan panaon ed kapag taon.
 011	Say Katawan iyakar to kayo ed dalin na saray Cananeo, say dalin a sinambaan ton iter ed sikayo tan saray lalaki yo.
 011	No niiter to lad sikayo,
@@ -19,10 +21,12 @@ verse	content
 013	balet nepeg yon dondonen ed sikato so balang besag a kalakyan ya anak na asno diad pangibagat yo na sakey a kordiro.
 013	No ag yo dondonen so asno, poter yoy beklew to.
 013	Nepeg yon dondonen so balang pangulowan a lakin anak yo.
-014	Diad arapen a panaon, no tepeten na saray anak yo so kabaliksan na sayan gawaen yo, onya so iyebat yo; Diad panamegley na baleg a pakayari na Katawan , impaway to kamid Egipto, say pasen ya akaaripenan mi.
+014	Diad arapen a panaon, no tepeten na saray anak yo so kabaliksan na sayan gawaen yo, onya so iyebat yo;
+014	Diad panamegley na baleg a pakayari na Katawan , impaway to kamid Egipto, say pasen ya akaaripenan mi.
 015	Nen anawet so puso na ari na Egipto tan ag to kami pataynanen, say Katawan pinatey toy amin a lakin pangulowan ya anak ed dalin na Egipto, tan amin a besag a kalakyan ya anak na ayayep.
 015	Sikato yay makasengeg no akin et ibabagat mid Katawan so balang kalakyan a besag ya anak na ayep tan dodondonen mi ray pangulowan a lakin anak mi.
-016	Sakey a pakanudnunotan yan pista a singa bengatlan nisinger ed saray lima tayo odino diad muling tayo; ipanunot tod sikatayo a say Katawan impaway to tayod Egipto diad panamegley na baleg a pakayari to.
+016	Sakey a pakanudnunotan yan pista a singa bengatlan nisinger ed saray lima tayo odino diad muling tayo;
+016	ipanunot tod sikatayo a say Katawan impaway to tayod Egipto diad panamegley na baleg a pakayari to.
 017	Nen inabuloyan na ari ed Egipto ya ontaynan iray Israelita, ag ira inwanwan na Dios ed dalan a mamaarap ed dalin na Filistia, anggaman ya asingger iman a dalan.
 017	Ninunot na Dios, Ag ko labay a mangoman na kanunotan iray totoo tan ompawil irad Egipto no nanengneng dan nepeg da niy mibakal.
 018	Kanyan impasaliberber to ra la laingen ya ombeltang ed kalawakan tan ombaliw ed Dayat ya Ambalanga.
@@ -30,6 +34,7 @@ verse	content
 019	Inawit nen Moises iray pokel nen Jose, onung na impamasamba nen Jose a gawaen na saray Israelita.
 019	Inkuanen Jose, No agwaten kayo na Dios ed kairapan, nepeg yon awiten manlapud sayan pasen iray pokel ko.
 020	Tinaynan na saray Israelita so Sukot tan nankampo ra ed Etam a walad gilig na kalawakan.
-021	No agew say Katawan manayam ed bandad arap da a sakey a lusek a lorem, pian niwanwan to rad dalan; no labi manayam ed bandad arap da a sakey a lusek ya apoy, pian naliwawaan to ra.
+021	No agew say Katawan manayam ed bandad arap da a sakey a lusek a lorem, pian niwanwan to rad dalan;
+021	no labi manayam ed bandad arap da a sakey a lusek ya apoy, pian naliwawaan to ra.
 021	Diad onya makapambiahi ra ed agew tan labi.
 022	Say lusek a lorem et wala lawas ed bandad arap na saray totoo na agew, say lusek ya apoy no labi.

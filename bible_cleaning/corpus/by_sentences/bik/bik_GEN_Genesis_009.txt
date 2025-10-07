@@ -4,7 +4,8 @@ verse	content
 002	Gabos sinda mapapasairarom kan saindong kapangyarihan.
 003	Itatao ko saindo bilang kakanon an lambang linalang na may buhay kaiba an mga berdeng tinanom.
 003	Itinatao ko saindo an gabos.
-004	Alagad dai nanggad kamo magkakan nin karne na igwa pang dugo; ipinapangalad ko iyan huli ta an buhay yaon sa dugo.
+004	Alagad dai nanggad kamo magkakan nin karne na igwa pang dugo;
+004	ipinapangalad ko iyan huli ta an buhay yaon sa dugo.
 005	Papadusahan ko an siisay man na maggadan nin tawo.
 005	Kagadanan an padusa sa hayop man o tawo na makagadan nin tawo.
 006	An tawo ginibo sa ladawan nin Dios, kaya an siisay man na gumadan sa kapwa niya tawo, gagadanon man kan saiyang kapwa.
@@ -12,12 +13,14 @@ verse	content
 008	Dangan nagtaram an Dios ki Noe asin sa mga aking lalaki kaini,
 009	Makikipagtipan ako ngunyan saindo, sa saindong kapagarakian,
 010	asin sa gabos na may buhaysa gabos na gamgam asin hayopsa gabos na kaibahan nindo na nagruluwas sa arka.
-011	Sa mga tataramon na ini, nakikipagtipan ako sa saindo: nanunuga ako na dai na nanggad mapapara an gabos na may buhay sa paagi nin baha; dai na nanggad mararaot an kinaban huli sa baha.
+011	Sa mga tataramon na ini, nakikipagtipan ako sa saindo: nanunuga ako na dai na nanggad mapapara an gabos na may buhay sa paagi nin baha;
+011	dai na nanggad mararaot an kinaban huli sa baha.
 012	Bilang tanda kaining daing kataposan na tipan na sakong ginigibo saindo asin sa gabos na may buhay,
 013	ibinubugtak ko an bulalangaw sa mga panganoron.
 013	Iyan an magigin tanda kan pakikipagtipan ko sa kinaban.
 014	Kun tahoban ko nin panganoron an kalangitan dangan malataw an bulalangaw,
-015	magigiromdoman ko an sakong panuga saindo asin sa gabos na hayop; asin dai ko na nanggad raraoton an gabos na may buhay sa paagi nin sarong baha.
+015	magigiromdoman ko an sakong panuga saindo asin sa gabos na hayop;
+015	asin dai ko na nanggad raraoton an gabos na may buhay sa paagi nin sarong baha.
 016	Paglataw kan bulalangaw sa mga panganoron, mahihiling ko iyan asin magigiromdoman ko an daing kataposan na tipan ko sa gabos na may buhay sa kinaban.
 017	Iyo iyan an tanda kan sakong pakikipagtipan sa gabos na may buhay.
 018	Si Sem, si Ham asin si Jafet iyo an mga aking lalaki ni Noe na kaiba niyang nagluwas sa arka.

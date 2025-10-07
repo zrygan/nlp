@@ -1,12 +1,14 @@
 verse	content
-001	Bengi na inyang miras la Sodoma ding aduang anghel; makalukluk ya kanita i Lot king lele na ning pasbul dalan ning siudad ning Sodoma.
+001	Bengi na inyang miras la Sodoma ding aduang anghel;
+001	makalukluk ya kanita i Lot king lele na ning pasbul dalan ning siudad ning Sodoma.
 001	Tinalakad ya i Lot panakit na karela at seganan na la at migsakab ya king gabun.
 002	Ngana karela, Nung mayapan yu, makamal, ilabas ye ing bengi king bale na ning talasuyu yu.
 002	Makapanos kayung bitis karin.
 002	Maranun yu nang isundu bukas ing pamaglakbe yu.
 003	Oneng pekibat da, Panupaya mu, Lot, keni mi na mu palabasan ing bengi.
 004	Makanyan man, pekisabian na lang mayap Lot angga king sinalangi la at melaus kilub ning bale na.
-004	Pepasadia na lang pamangan; tinape a alang lebadura at mengan la.
+004	Pepasadia na lang pamangan;
+004	tinape a alang lebadura at mengan la.
 005	Bayu la migkera ban matudtud, pedurutnan de ing bale ding heganaganang lalaki na ning siudad ning Sodoma pati na anak at matua.
 006	Inaus de i Lot at ngara, Lot, nu la karin ding lalaking sinalangi king bale mu ngening benging iti?
 006	Palualan mu la ba mi lang sipingnan.
@@ -45,7 +47,8 @@ verse	content
 020	Pati bie ku segipan yu na.
 020	Oneng e ku yata akuang miras king bunduk-bundukan pota mate ku.
 021	Lawan ye yang balen a makalapit.
-021	Malati ya mu; oneng agyu kung miras karin ban miligtas ku.
+021	Malati ya mu;
+021	oneng agyu kung miras karin ban miligtas ku.
 022	Sige na pen, ngana, ibie mi ing aduan mu.
 023	Bilisan mu.
 023	Tumakas ka at munta na ka karin, uling ala kung arapat anggang e ka miras karin.

@@ -56,5 +56,6 @@ verse	content
 032	Sananey met so anganan da ray Egipsio a mangakan diman, ta ipapasen dan ag onkana ray Hebreo a mirongod sikara.
 033	Akayorung iray sanaagi ed lamisan a walad arap nen Jose, manlapud pangulowan ya anggad yogtan.
 033	Nen anengneng da so pasen ed lamisaan na balang sakey ed sikara, nannenengnengan ira diad pankelaw da.
-034	Nanlapud lamisaan nen Jose so niparongod sikara; si Benjamin maminliman karakel so niiter ed sikato nen saramay arum.
+034	Nanlapud lamisaan nen Jose so niparongod sikara;
+034	si Benjamin maminliman karakel so niiter ed sikato nen saramay arum.
 034	Angan tan inminom ira a kaiba ray Jose, tan ontan lay likeliket da.

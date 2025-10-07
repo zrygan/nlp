@@ -12,7 +12,8 @@ verse	content
 006	Si Jose ay matipuno at makisig na lalaki.
 007	Pagkatapos ng mga bagay na ito, tinitigan si Jose ng asawa ng kanyang panginoon at sinabi, Sipingan mo ako.
 008	Subalit siya'y tumanggi at sinabi niya sa asawa ng kanyang panginoon, Tingnan mo, ang aking panginoon ay hindi nakikialam sa akin tungkol sa anumang bagay na nasa bahay, at lahat ng kanyang pag-aari ay ipinamahala sa aking kamay.
-009	Walang sinumang dakila kaysa akin sa bahay na ito; walang anumang bagay ang ipinagkait sa akin, maliban sa iyo, sapagkat ikaw ay kanyang asawa.
+009	Walang sinumang dakila kaysa akin sa bahay na ito;
+009	walang anumang bagay ang ipinagkait sa akin, maliban sa iyo, sapagkat ikaw ay kanyang asawa.
 009	Paano ngang magagawa ko itong malaking kasamaan at kasalanan laban sa Diyos?
 010	Kahit nakikiusap siya kay Jose araw-araw, ay hindi siya pumayag na siya'y sumiping o makisama sa kanya.
 011	Subalit isang araw, nang siya'y pumasok sa bahay upang gawin ang kanyang gawain at walang sinumang tao sa bahay,
@@ -25,9 +26,11 @@ verse	content
 016	Pagkatapos ay iningatan niya ang kasuotan ni Jose hanggang sa pagdating ng kanyang amo sa kanyang bahay.
 017	Sinabi niya sa kanya ang mga salita ring ito, na sinasabi, Pinasok ako ng aliping Hebreo na iyong dinala sa atin, upang tuyain ako.
 018	Nang nagtaas ako ng aking tinig at ako'y nagsisigaw, kanyang naiwan ang suot niya sa aking tabi at tumakas na papalabas.
-019	Nang marinig ng kanyang amo ang mga sinabi ng kanyang asawa, na sinasabi, Ganito ang ginawa sa akin ng iyong alipin; ay nag-alab ang kanyang galit.
+019	Nang marinig ng kanyang amo ang mga sinabi ng kanyang asawa, na sinasabi, Ganito ang ginawa sa akin ng iyong alipin;
+019	ay nag-alab ang kanyang galit.
 020	Kinuha si Jose ng kanyang panginoon at inilagay sa bilangguan, sa lugar na pinagkukulungan ng mga bilanggo ng hari.
 021	Subalit kasama ni Jose ang Panginoon at nagpakita sa kanya ng tapat na pag-ibig, at pinagkalooban siya ng biyaya sa paningin ng bantay sa bilangguan.
-022	Ipinamahala ng bantay sa bilangguan sa pangangalaga ni Jose ang lahat na mga bilanggo na nasa bilangguan; at anumang ginagawa nila roon ay siya ang gumagawa.
+022	Ipinamahala ng bantay sa bilangguan sa pangangalaga ni Jose ang lahat na mga bilanggo na nasa bilangguan;
+022	at anumang ginagawa nila roon ay siya ang gumagawa.
 023	Hindi pinakialaman ng bantay sa bilangguan ang anumang bagay na nasa pamamahala ni Jose sapagkat ang Panginoon ay kasama niya.
 023	Anumang kanyang ginagawa ay pinagpapala ng Panginoon .

@@ -12,7 +12,8 @@ verse	content
 005	Mapalaloy pasnuk nen Cain tan binmilonget so lupa to.
 006	Inkuan na Katawan ed kinen Cain, Akin et mamapasnuk ka?
 006	Akin et ambilonget so lupam?
-007	No maung so ginawam, manimimis ka komun; balet lapud maoges so ginawam, say kasalanan et sisiliban to kan tekmelan.
+007	No maung so ginawam, manimimis ka komun;
+007	balet lapud maoges so ginawam, say kasalanan et sisiliban to kan tekmelan.
 007	Labay to kan oleyan, balet nepeg mon taloen.
 008	Insan inkuanen Cain ed kinen agi ton Abel, Mamasyar ta ed kaalogan.
 008	Nen wadman la ra, tinekmelan nen Cain si agi to tan pinatey to.
@@ -20,10 +21,14 @@ verse	content
 010	Inmebat, Ag ko amta.
 010	Siak tay managasikasod agik?
 011	Insan inkuan na Katawan , Akin et onyay ginawam?
-011	Manlapud dalin, manakakis ed siak so dala na agim; singa bosis ya onkekerew na bales.
-012	Nisamba ka; ag mo la nadalusan so dalin a singa inlokas toy sangi to nen inesep toy dala na agim a pinatey mo.
-013	No ondalus ka, anggapoy naanim; magmaliw kan anggapoy abung tan akar-akar ka diad tapew na dalin.
-014	Inkuanen Cain ed Katawan , Ambelat a tuloy yan dusa; ag ko nasungdoan.
+011	Manlapud dalin, manakakis ed siak so dala na agim;
+011	singa bosis ya onkekerew na bales.
+012	Nisamba ka;
+012	ag mo la nadalusan so dalin a singa inlokas toy sangi to nen inesep toy dala na agim a pinatey mo.
+013	No ondalus ka, anggapoy naanim;
+013	magmaliw kan anggapoy abung tan akar-akar ka diad tapew na dalin.
+014	Inkuanen Cain ed Katawan , Ambelat a tuloy yan dusa;
+014	ag ko nasungdoan.
 015	Patataynanen mo ak ed dalin tan diad arap mo.
 015	Magmaliw ak ya anggapoy abung tan akar-akar diad tapew na dalin, tan pateyen ak na siopaman a makalmod siak.
 016	Balet inmebat so Katawan , Andi!

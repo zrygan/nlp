@@ -10,7 +10,8 @@ verse	content
 005	Kaybat isundu yu na ing pamaglakbe yu.
 005	Miparangalan ku king paniatang yu bale ku.
 006	O sige, ika ing bala, ngarang mekibat.
-007	Memalagua yang linub king tolda i Abraham at ngana kang Sarah, Malagua ka; kuma kang atlung pulung takal a arina at gawa kang tinape.
+007	Memalagua yang linub king tolda i Abraham at ngana kang Sarah, Malagua ka;
+007	kuma kang atlung pulung takal a arina at gawa kang tinape.
 008	Minta ya karing sese nang animal at kinangwa yang metung karing masanting a baka, at pepalutu neng agad king ipus na.
 009	Kaybat kinangwa yang kesu at gatas.
 009	Dela na iti at ing pepalutu nang baka at inapag na arapan da ring bisita.
@@ -28,9 +29,11 @@ verse	content
 017	Mikayanak neng lalaki i Sarah potang balikan da ka keng tutuking banua.
 018	Lingad nang Sarah ing meyli ya uling mitakutan ya.
 019	E ku meyli, nganang sinabi.
-020	Oneng sinabi na, E na ka maglaram; meyli ka!
+020	Oneng sinabi na, E na ka maglaram;
+020	meyli ka!
 021	Kanita meko na la ding lalaki at minta la king metung a lugal nung nu re malyaring akit ing Sodoma.
-021	Kayabe re i Abraham; antabayanan na la.
+021	Kayabe re i Abraham;
+021	antabayanan na la.
 022	Ngana ning Ginu king lub na, Ilihim ku wari kang Abraham ing malapit ku nang gawan
 023	ngening malapit neng maging metung a bansang maragul ampon mayupaya, at kang Abraham da atagpuan ding sablang bansa keti king yatu ing karelang ikasaplala?
 024	Pinili ke ban ituru na la ding anak na at ing lahi na king pamanupad karing utus ku king kapamilatan na ning pamaniapat da king matulid at king karapatdapat.
@@ -40,7 +43,8 @@ verse	content
 027	Minta la ding lalaki king Sodoma kabang menatili yang makatalakad i Abraham arapan na ning Ginu .
 028	Linapit ya i Abraham king Ginu at ngana, Tutu pin kayang gisanan yu lang paten ding tau at idame pati ding alang kasalanan karing ating kasalanan?
 029	Nung sakaling ating limang pulu kataung alang kasalanan king siudad, lasakan ye pa kaya ing siudad o patawaran ye uli da retang limang pulu kataung atyu karin?
-030	Mabayat yung daptan ing anti kanyan; e ye paburen mate ing alang kasalanan kayabe na ning ating kasalanan.
+030	Mabayat yung daptan ing anti kanyan;
+030	e ye paburen mate ing alang kasalanan kayabe na ning ating kasalanan.
 030	Pakipante ye wari ing alang kasalanan king ating kasalanan?
 030	E sukat mapalyari ing anti kanyan!
 030	Gawa ne man waring e matulid ing ukum ning mabilug a yatu?

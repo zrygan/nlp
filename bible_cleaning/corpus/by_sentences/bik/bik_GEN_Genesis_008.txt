@@ -1,5 +1,6 @@
 verse	content
-001	Dai nalingawan nin Dios si Noe asin an gabos na hayop na kaibahan niya sa arka; pinahoyop niya an doros asin nagpoon magkulpa an tubig.
+001	Dai nalingawan nin Dios si Noe asin an gabos na hayop na kaibahan niya sa arka;
+001	pinahoyop niya an doros asin nagpoon magkulpa an tubig.
 002	Naserahan na an mga burabod nin tubig sa irarom kan daga asin an mga bintana sa kalangitan.
 002	Nag-ontok an pag-uran,
 003	dangan dikit-dikit na nag-ina an tubig sa laog nin syento singkwentang aldaw.
@@ -20,11 +21,14 @@ verse	content
 013	Hinale ni Noe an tahob kan arka dangan tuminanaw sa palibot, asin nahiling niya na nagpoon nang magmara an daga.
 014	Kaya sa ikabeynte y syeteng aldaw kan ikaduwang bulan, mamara na an bilog na daga.
 015	Tinaraman nin Dios si Noe,
-016	Magluwas na kamo sa arka; ika, an saimong agom, an saimong mga aking lalaki asin an saindang mga agom.
+016	Magluwas na kamo sa arka;
+016	ika, an saimong agom, an saimong mga aking lalaki asin an saindang mga agom.
 017	Iluwas man nindo an mga gamgam asin mga hayop tanganing magdakul dangan maglakop sinda sa bilog na daga.
 018	Kaya nagluwas sa arka si Noe kaiba an saiyang agom, an saindang mga aking lalaki patin an mga agom kaini.
 019	Dangan grupo-grupong nagruluwas man sa arka an gabos na hayop asin gamgam sosog sa manlaen-laen na klase ninda.
-020	Guminibo si Noe nin altar para sa Kagurangnan ; pakatapos kuminua siya nin saro hale sa manlaen-laen na klase kan malinig na hayop asin gamgam dangan tinutong niyang bilog an mga ini sa altar bilang dolot.
-021	Nawilihan nin Kagurangnan an parong kan dolot asin nagsaboot siya, Dai ko na nanggad susumpaon an kinaban huli sa gibo nin tawo; aram kong maraot an kaisipan kan tawo poon pagkaniaki niya.
+020	Guminibo si Noe nin altar para sa Kagurangnan ;
+020	pakatapos kuminua siya nin saro hale sa manlaen-laen na klase kan malinig na hayop asin gamgam dangan tinutong niyang bilog an mga ini sa altar bilang dolot.
+021	Nawilihan nin Kagurangnan an parong kan dolot asin nagsaboot siya, Dai ko na nanggad susumpaon an kinaban huli sa gibo nin tawo;
+021	aram kong maraot an kaisipan kan tawo poon pagkaniaki niya.
 021	Dai ko na nanggad paparaon an gabos na nabubuhay arog kan ginibo ko.
 022	Sagkod na yaon pa an kinaban, magkakaigwa nin panahon nin pagtanom asin pag-ani, nin lipot asin init, nin tig-init asin tig-uran, nin aldaw asin banggi.

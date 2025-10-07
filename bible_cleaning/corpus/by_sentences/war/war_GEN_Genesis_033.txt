@@ -1,6 +1,7 @@
 verse	content
 001	Hinkit-an ni Jacob hi Esau nga tiarabot upod an iya 400 nga mga tawo, sanglit ginbahinbahin niya an iya mga anak kanda Lea, Raquel, ngan han duha nga mga aruasawa.
-002	Ginpauna niya an mga aruasawa ngan an ira mga anak; sunod hi Lea ngan an iya mga anak, ngan ha orhe na hira Raquel ug Jose.
+002	Ginpauna niya an mga aruasawa ngan an ira mga anak;
+002	sunod hi Lea ngan an iya mga anak, ngan ha orhe na hira Raquel ug Jose.
 003	Nag-una ha ira hi Jacob ngan hinmapa hiya ha tuna hin makapito han tikaharani na hiya han iya bugto.
 004	Kundi dinmalagan hi Esau hin pagtapo ha iya, ginggakos, ngan ginhadkan hiya.
 004	Nagtangis hira nga duha.
@@ -11,10 +12,12 @@ verse	content
 009	Pinmakiana hi Esau, Ano man adto nga una nga hugpo nga akon iginkatapo?
 009	Ano man an karuyag sidngon hadto?
 010	Binmaton hi Jacob, Akon adto hatag nga pahalipay ha imo.
-011	Kundi nagsiring hi Esau, Bugto ko, igo na kadamo an akon hiagi; tipigi na la an imo.
+011	Kundi nagsiring hi Esau, Bugto ko, igo na kadamo an akon hiagi;
+011	tipigi na la an imo.
 012	Nagsiring hi Jacob, Ayaw gad, kon nakapahalipay man ako ha imo, karawta gad an akon regalo.
 012	Para ha akon, an pakakita han imo bayhon, sugad hin pakakita han bayhon han Dyos, yana nga nakigsangkay ka na ha akon.
-013	Karawta gad ini nga regalo nga akon gindara para ha imo; nagmaloloy-on ha akon an Dyos ngan gintagan ako han ngatanan nga akon kinahanglan.
+013	Karawta gad ini nga regalo nga akon gindara para ha imo;
+013	nagmaloloy-on ha akon an Dyos ngan gintagan ako han ngatanan nga akon kinahanglan.
 013	Nagpadayon hi Jacob hin paghangyo ha iya tubtob nga kinarawat ni Esau an iya mga regalo.
 014	Nagsiring hi Esau, Pag-andam kita ngan pagkalakat.
 014	Mag-uuna ako ha imo.

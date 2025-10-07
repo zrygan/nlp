@@ -1,7 +1,8 @@
 verse	content
 001	Ang Ginoo miingon kang Moises ug kang Aaron didto sa Ehipto,
 002	Kining bulana mao ang unang bulan sa tuig alang kaninyo.
-003	Ipahibalo sa tibuok pundok sa Israel nga sa ikanapulong adlaw niining bulana, kinahanglan nga ang matag pangulo sa panimalay magpili ug nating karnero o nating kanding alang sa iyang pamilya; usa ka mananap matag panimalay.
+003	Ipahibalo sa tibuok pundok sa Israel nga sa ikanapulong adlaw niining bulana, kinahanglan nga ang matag pangulo sa panimalay magpili ug nating karnero o nating kanding alang sa iyang pamilya;
+003	usa ka mananap matag panimalay.
 004	Kon gamay ra kaayo ang pamilya ug dili makahurot pagkaon sa usa ka mananap tabangan kini pagkaon sa duha ka panimalay nga managsilingan sumala sa gidaghanon sa namuyo sa matag panimalay.
 004	Bahinbahina ang mananap sumala sa makaon sa matag tawo.
 005	Makapili kamog karnero o kanding apan kinahanglan nga wala kini tatsa, laki kini ug usa ka tuig ang kagulangon.

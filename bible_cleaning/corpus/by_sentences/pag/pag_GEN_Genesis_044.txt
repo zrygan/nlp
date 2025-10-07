@@ -15,7 +15,8 @@ verse	content
 009	No naalmod sakey ed sikami itay kupan abalang, nepeg toy napatey tan magmaliw ya aripen mo iray arum ed sikami.
 010	Inkuanto, Onabuloy ak ed satan, balet say pakalmoan labat na kupa so magmaliw ya aripen ko, tan saray arum nayarian da lay onla.
 011	Kanyan tampol ya inyabeba dad dalin iray sako ra, insan da ra nilolokasan.
-012	Nananap a maung imay aripen nen Jose; pinalapu tod sankapangulowanan ya anggad sankayogtanan, et nalmod sako nen Benjamin imay kupa.
+012	Nananap a maung imay aripen nen Jose;
+012	pinalapu tod sankapangulowanan ya anggad sankayogtanan, et nalmod sako nen Benjamin imay kupa.
 013	Pinipilat na saramay sanaagi iray kawes da a pangipanengneng day ermen da, impapawil da ra may sako ra ed beneg na saray asno ra, insan ira pinmawil ed siudad.
 014	Nen sinmabid abung nen Jose si Juda tan saray agagi to, wadman niy Jose.
 014	Dinmakmomo rad arap to,
@@ -31,7 +32,8 @@ verse	content
 017	Saman labat so akalmoay kupa so magmaliw ya aripen ko.
 017	Saray arum ed sikayo, nayarian yo lay onsempet ed kinen ama yo.
 018	Inmasingger si Juda ed kinen Jose tan inkuanto, Abuloyan mo ak pan misalitad sika.
-018	Ag ka komun mamapasnuk ed siak, O katawan; kaparam lay ari.
+018	Ag ka komun mamapasnuk ed siak, O katawan;
+018	kaparam lay ari.
 019	Tinepet mod sikami no walay ama mi o agi mi.
 020	Inyebat min walay ama min masiken la tan sakey ya agi min sankayogtanan a nianak nen matakken lay ama mi.
 020	Inatey lay agi to yan ogaw tan sikato labat so mabilay ya anak nen ina to, kanyan ontan lay panangarod sikato nen ama mi.
@@ -40,15 +42,18 @@ verse	content
 023	Inkuan mo balet ya ag kami la makapiarapan ed sika no ag mi kaiba.
 024	Nen pinmawil kamid kinen ama mi, sinalita mid sikaray imbagam.
 025	Insan inkuanda, Pawil kayo, ta manaliw kayoy daiset a tagano tayo.
-026	Inmebat kamin ag kami makapawil; ag kami makapiarapan ed sika no ag mi kaibay sankayogtanan ya agi mi.
+026	Inmebat kamin ag kami makapawil;
+026	ag kami makapiarapan ed sika no ag mi kaibay sankayogtanan ya agi mi.
 027	Inkuandad sikami, Kabat yon dogduaray inanak nen Raquel ya asawak.
-028	Naandi lay sakey; nayarin say laman to et binibingkas na ayep ed katakelan, ta ag ko nin balut anengneng nanlapud saman.
+028	Naandi lay sakey;
+028	nayarin say laman to et binibingkas na ayep ed katakelan, ta ag ko nin balut anengneng nanlapud saman.
 029	No alaen yod siak lamet yay agi yo, et walay nagawad sikato, ompatey ak ed ermen ya iter yod siak, siak a masiken la.
 030	Ompatey si ama mi no nanengneng ton ag ko kaibay ogaw diad ipawil mi.
 030	Singa nansoldungan so pait da.
 030	Diad kinamasiken da la, ipatey da yan ermen ya iter mid sikara.
 031	Sakey ni, impotikak ed kinen amak so bilay ko para sayan ogaw.
 031	Imbagak ed sikara a no ag ko nipawil ed sikara yan ogaw, akoen koy tetel ed intiron bilay ko.
-032	Natan sirin, siak lay ontilak ya aripen mo; papawil mo a kaiba to ray agagi to.
+032	Natan sirin, siak lay ontilak ya aripen mo;
+032	papawil mo a kaiba to ray agagi to.
 033	Ta panoy ipawil kod kindi amak no ag ko kaiba?
 033	Ag ko nitepel ya ipasakbat yan gunigon ed kindi amak.

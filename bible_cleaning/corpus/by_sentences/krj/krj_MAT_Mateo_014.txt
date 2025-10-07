@@ -26,7 +26,8 @@ verse	content
 017	Nagsabat sanda, Lima gid lang kabilog nga tinapay kag darwa ka isda ang rugya.
 018	Nagkuon si Jesus kananda, Abi dar-a ninyo rugya kanakun.
 019	Dayon ginkun-an na ang mga tawo nga magpurungko sa kahilamonan.
-019	Ginbuul na ang lima ka tinapay kag ang darwa ka isda; nagtangra tana sa langit kag magpasalamat sa Dios.
+019	Ginbuul na ang lima ka tinapay kag ang darwa ka isda;
+019	nagtangra tana sa langit kag magpasalamat sa Dios.
 019	Dayon ginpamihak-pihak na ang tinapay kag ginpanugro sa anang mga disipulo, kag ginpanagtag dya kang mga disipulo sa mga tawo.
 020	Nakakaun sanda tanan kag nagkarabusog.
 020	Pagkatapos kato, ginpanipon kang mga disipulo ang mga nabilin kag napulo'g darwa ka alat nga buta ang andang natipon.
@@ -38,7 +39,8 @@ verse	content
 025	Kang kasanagun run nag-agto kananda si Jesus nga nagapanaw sa tubig.
 026	Pagkakita kang mga disipulo kana nga nagapanaw sa tubig gindakup sanda kang kahadluk kag nagsiringgit sanda, Bagat!
 027	Pero ginkun-an lagi sanda ni Jesus, Magpakabakud kamo!
-027	Ako dya; indi kamo magkahadluk!
+027	Ako dya;
+027	indi kamo magkahadluk!
 028	Dayon naghambal si Pedro, Ginoo, kon ikaw gid man ria, paagtona ako rugyan kanimo nga nagapanaw sa tubig.
 029	Nagkuon si Jesus kana, Sige agto dya!
 029	Gani nagpanaog si Pedro sa baruto kag nagpanaw sa tubig paagto kay Jesus.

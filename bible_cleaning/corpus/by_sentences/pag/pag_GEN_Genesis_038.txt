@@ -47,7 +47,8 @@ verse	content
 031	Impaasawak komun ed kinen anak kon Sela.
 031	Ag lan balut inakdulan nen Juda si Tamar.
 032	Nen asingger lan mananak si Tamar, nalmoan a lasun a lalaki so iyanak to.
-033	Nen mampapasakit, impaway na sakey ed sikara so lima to; siningkat na manamyanak imay lima, binerberan to na ambalangan tinebey, tan inkuanto, Sikato yay onaan a pinmaway.
+033	Nen mampapasakit, impaway na sakey ed sikara so lima to;
+033	siningkat na manamyanak imay lima, binerberan to na ambalangan tinebey, tan inkuanto, Sikato yay onaan a pinmaway.
 034	Balet ginoyur na samay ogaw so lima to, tan samay agi to la laingen so onaan a pinmaway.
 034	Insan inkuanto may manamyanak, Onya manaya so kapapaway mo!
 034	Kanyan angaranay Fares.

@@ -83,7 +83,8 @@ verse	content
 056	Ummangayk hddi bilang demlag ti munduwiday, tnni deyaman en maniwala dikoku ay awan dn manatili ten kadiklmman.
 057	Ni deyaman en nakasanig ten upos ku hidi peru umd a sumunud ay awan ku siya hatulan.
 057	Gapu ummangayk hddi bakn a tnni hatulan ku i munduwiday nan para iligtas iyd.
-058	Tehud a manghatul ten mngtakwil dikoku sakay en awan mangtanggap ten upos ku hidi; en upos a impangaral ku en manghatul dikodi ten katapusan a aldew.
+058	Tehud a manghatul ten mngtakwil dikoku sakay en awan mangtanggap ten upos ku hidi;
+058	en upos a impangaral ku en manghatul dikodi ten katapusan a aldew.
 059	Gapu awank magupos a gubwat la ten sadili ku, nan en Ama a nangutus dikoku en nngkagi ni nya i dapat kuwid a kagiyn sakay ipahayag.
 060	Sakay tukoy ku a en utus na ay makapangatd ti biyag a awan ti katapusan.
 060	Kaya en pekagi nen Ama en ipppahayag ku dikomoy.

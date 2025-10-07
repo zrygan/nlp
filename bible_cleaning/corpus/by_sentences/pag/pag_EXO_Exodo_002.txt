@@ -2,24 +2,29 @@ verse	content
 001	Diad saman a panaon walay sakey a lakin kabyangay boleg nen Levi ya angasaway biin kabolegan to.
 002	Nanlokun yan bii tan nananak na laki.
 002	Nen anengneng to a balibalin ogaw so anak to, inyamut ton taloy bulan.
-003	Balet nen ag to la nayarian ya iyamut so anak to, angala na sakey a baskit a papiro; kinapolan to na beket, pian ag naloobay danum.
+003	Balet nen ag to la nayarian ya iyamut so anak to, angala na sakey a baskit a papiro;
+003	kinapolan to na beket, pian ag naloobay danum.
 003	Insan to inlogan ed baskit imay ogaw tan inggaton to ed gilig na ilog a kawalaay atatagey a dika.
 004	Say atsi to may ogaw nambantay ed bandad arawi, pian naamtaan to no antoy nagawad samay agi to.
-005	Et nibana a say prinsisa ya anak na ari et linmasur ed ilog a manames; balet saray mamarikit a katulong to nanakarakar irad gilig na ilog.
-005	Kabebekta anengneng to may baskit ed kawalaay atatagey a dika; ingganggan toy sakey a katulong to a mangalad samay baskit.
+005	Et nibana a say prinsisa ya anak na ari et linmasur ed ilog a manames;
+005	balet saray mamarikit a katulong to nanakarakar irad gilig na ilog.
+005	Kabebekta anengneng to may baskit ed kawalaay atatagey a dika;
+005	ingganggan toy sakey a katulong to a mangalad samay baskit.
 006	Nilokasan nen prinsisa imay baskit tan anengneng toy sakey ya ogaw a manakakis.
 006	Naabagey to tan inkuanto, Sayan ogaw et anak na sakey ed saray bibiin Hebrea.
 007	Insan samay atsi na ogaw inkuanto, Itawagan ta kayo na biin Hebrea, ta komisan to yan ogaw para sikayo?
 008	Laka sirin, inkuanen prinsisa.
 008	Kanyan nila ton tinawag imay ina na ogaw.
-009	Inkuan na prinsisa ed samay ina, Alam yan ogaw tan ikomisan mo ak; upaan ta ka.
+009	Inkuan na prinsisa ed samay ina, Alam yan ogaw tan ikomisan mo ak;
+009	upaan ta ka.
 009	Inala to sirin imay ogaw tan kinomponi to.
 010	Nen baleg la may ogaw inyakar tod samay prinsisa ya anak na ari.
 010	Samay prinsisa inala to may ogaw tan impasen ton anak ton dili.
 010	Inkuanto, Diad danum so angaonan ko, kanyan ingaran ko na Moises.
 011	Nen baleg lay Moises dinalaw to ray agagi ton Hebreo, et naimatunan toy kakairapan da.
 011	Anengneng nen Moises so sakey ya Egipsio a mamapatey ed sakey a Hebreo a kadalaan to.
-012	Nanlingaw-lingaw si Moises; nen anggapoy toon nanengneng to, pinatey to may Egipsio tan intabun tod kabueran.
+012	Nanlingaw-lingaw si Moises;
+012	nen anggapoy toon nanengneng to, pinatey to may Egipsio tan intabun tod kabueran.
 013	Diad ontombuk ya agew pinmaway si Moises tan anengneng to ray duaran Hebreo a manlalaban.
 013	Inkuantod samay nankasalanan, Akin et kakabilen moy kaparam a Hebreo?
 014	Inmebat imay too, Siopa so anorod sika a manoley tan manintinsia ed sikami?
@@ -33,7 +38,8 @@ verse	content
 018	Inmalagey ed satan si Moises, tan inyagel to ra.
 018	Pinainom to ni ray ayep da.
 019	Nen sinmempet ira may bibii, si Jetro ya ama ra tinepet tod sikara, Akin et asaksakbay kayon sinmempet natan?
-020	Inmebat ira, Walay sakey a lakin Egipsio ya inyagel to kamid saray pumapastol; inyasulan to kami tan pinainom to ni ray ayep tayo.
+020	Inmebat ira, Walay sakey a lakin Egipsio ya inyagel to kamid saray pumapastol;
+020	inyasulan to kami tan pinainom to ni ray ayep tayo.
 021	Tinepet nen ama ra, Iner so kawalaan to tan a too?
 021	Akin et tinaynan yo?
 021	Tawag yo tan bagaan yon mangan dia.

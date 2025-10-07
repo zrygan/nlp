@@ -44,5 +44,6 @@ verse	content
 030	Nagsimbag si Moises, Pakahale ko digdi, mamimibi ako sa Kagurangnan tanganing sa aga magharale an mga langaw sa saimo, sa saimong mga opisyal sagkod sa saimong mga nasasakopan.
 030	Alagad dai mo na nanggad kami pagdayaon asin dai mo na pag-olangon an mga tawo sa pag-atang sa Kagurangnan .
 031	Naghale si Moises dangan namibi sa Kagurangnan .
-032	Ginibo nin Kagurangnan an hinagad ni Moises: hinale niya an mga langaw sa hade, sa saiyang mga opisyal sagkod sa saiyang mga nasasakopan; mayong natada maski sarong langaw.
+032	Ginibo nin Kagurangnan an hinagad ni Moises: hinale niya an mga langaw sa hade, sa saiyang mga opisyal sagkod sa saiyang mga nasasakopan;
+032	mayong natada maski sarong langaw.
 033	Alagad nagmatagas na naman an hade, asin dai tinugotan na humale an mga tawo.

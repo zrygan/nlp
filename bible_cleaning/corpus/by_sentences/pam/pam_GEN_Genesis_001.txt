@@ -1,6 +1,7 @@
 verse	content
 001	King pasimula, lelangan ne ning Dios ing banua at ing yatu.
-002	Ala yang kaayusan ing yatu; tatakpan na ning dalumdum ing kalalalaman kabang tutiup ya ing tutung masikan a angin babo na ning danuman.
+002	Ala yang kaayusan ing yatu;
+002	tatakpan na ning dalumdum ing kalalalaman kabang tutiup ya ing tutung masikan a angin babo na ning danuman.
 003	Ngana ning Dios, Mika ating sala at linto ing sala.
 004	Ikit na ning Dios king mayap ing sala.
 004	Kaybat, kewani ne ning Dios ing sala king dalumdum.
@@ -27,7 +28,8 @@ verse	content
 014	Maging tanda la karing panaun ampon karing aldo at banua,
 015	at magsilbi lang sulu king sikluban na ning banua ban aslagan de ing yatu.
 015	At ita ing milyari.
-016	Lelangan na la ning Dios ding aduang maragul a sulu; sunlag ya ing maragul kareti kabang aldo at sunlag ya ing malati neng bengi.
+016	Lelangan na la ning Dios ding aduang maragul a sulu;
+016	sunlag ya ing maragul kareti kabang aldo at sunlag ya ing malati neng bengi.
 016	Lelangan na la naman ding batuin.
 017	Binili na la ning Dios king sikluban ning banua ban aslagan de ing yatu
 018	ban sunlag neng aldo at neng bengi at ikawani na ing sala king dalumdum.
@@ -38,7 +40,8 @@ verse	content
 020	At ita ing milyari.
 021	Inya lelangan na la ning Dios ding maragul a asan ning danuman at ding sablang miyayaliwang kakawe king danuman at miyayaliwang ayup.
 021	Ikit na ning Dios king ita mayap.
-022	Binendisyunan na la ning Dios at ngana karela, Magpakarakal kayu at katmuan ye ing dagat; ikayung ayup, magpakarakal kayu naman at katmuan ye ing yatu.
+022	Binendisyunan na la ning Dios at ngana karela, Magpakarakal kayu at katmuan ye ing dagat;
+022	ikayung ayup, magpakarakal kayu naman at katmuan ye ing yatu.
 023	Miras ing bengi at dinatang ing abak.
 023	Ita ya ing kalimang aldo.
 024	Kaybat na nita, ngana ning Dios, Paburen yang palto na la ning yatu ding miyayaliwang mabie lelangan: matunud at malyap, mangaragul at mangalati.
@@ -47,7 +50,9 @@ verse	content
 025	Ikit na ning Dios king ita mayap.
 026	Kanita ngana ning Dios, Lalangan ta ya ing tau king wangis tamu.
 026	Ila ding manibala karing asan na ning dagat, karing ayup, karing baka, karing heganaganang animal, at karing heganaganang melalang a gagapang king yatu.
-027	Inya lelangan ne ning Dios ing tau king wangis na; king wangis ning Dios lelangan ne; lelangan na lang lalaki at babai.
+027	Inya lelangan ne ning Dios ing tau king wangis na;
+027	king wangis ning Dios lelangan ne;
+027	lelangan na lang lalaki at babai.
 028	Bendisyunan na la ning Dios at ngana, Magpakarakal kayu at katmuan ye ing yatu at sakupan ye.
 028	Ikayung mamahala karing asan king dagat, karing ayup, at karing heganaganang bage melalang a gagapang king yatu.
 029	Ngana pa ning Dios, Lawan yu, babie ku la kekayu ding heganaganang tanaman a ating bini king mabilug a yatu at ing balang tanaman a mamungang ating butul kilub ban maging pamangan yu.

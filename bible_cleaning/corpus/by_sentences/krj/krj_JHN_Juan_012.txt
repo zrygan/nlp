@@ -90,6 +90,7 @@ verse	content
 063	Ang tawo nga nakabati run kang akun mga ginpanghambal pero wara na dya pagtumana, bukun ti ako ang magahusgar kana, hay wara ako mag-abot rugya sa kalibutan agud nga manghusgar sa katawhan, kundi para nga iluwasun ko sanda.
 064	May magahusgar tana sa tawo nga wara nagabaton kanakun kag wara nagapati sa akun mga ginpanghambal.
 064	Ang mga pulong nga akun ginpanghambal amo ang magahusgar kana nga silotan tana sa urihi nga adlaw.
-065	Tungud nga wara ako naghambal sa akun lang kaugalingun nga awtoridad; ang akun Amay nga amo ang nagpadara kanakun amo tana ang nagsugo kanakun kon ano ang akun dapat ihambalun
+065	Tungud nga wara ako naghambal sa akun lang kaugalingun nga awtoridad;
+065	ang akun Amay nga amo ang nagpadara kanakun amo tana ang nagsugo kanakun kon ano ang akun dapat ihambalun
 066	Kag nakamaan ako nga ang anang sugo nagatugro kang kabuhi nga wara ti katapusan.
 066	Kon ano ang akun ginakuon amo ria ang ginsugo kanakun kang Amay nga akun ikuon.

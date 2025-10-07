@@ -23,7 +23,8 @@ verse	content
 016	Nagmata hi Jacob ngan nagsiring, Aanhi dinhe an Ginoo !
 016	Aanhi hiya dinhe hini nga dapit, ngan diri ngani ako maaram hini!
 017	Nahadlok hiya ngan nagsiring, Hin kamakaaramdok hini nga dapit!
-017	An balay gud ini han Dyos; an ganghaan gud ini ngadto ha langit.
+017	An balay gud ini han Dyos;
+017	an ganghaan gud ini ngadto ha langit.
 018	Timprano pa han pagkaaga binmangon hi Jacob, kinuha niya an bato nga gin-unlan niya, ngan gintindog ini niya sugad nga usa nga hinumdoman.
 018	Niyan gin-ipisan ini niya hin lana hin olibo ha paghalad hini nga bato ngadto ha Dyos.
 019	Ginngaranan niya nga Betel an dapit.

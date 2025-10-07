@@ -5,7 +5,8 @@ verse	content
 001	nganang mekibat.
 002	Kanita sinabi na ning Dios, Abraham, ituki me i Isaac, ing anak mung kabubugtungan a pakamalan mu, at munta kayu king sakup ning Moria.
 002	Iyain me kanaku bilang ain-a-durulukan karin king bunduk a ituru ku keka.
-003	Maranun yang mibangun i Abraham; sekyan ne ing asno na, kayabe ne i Isaac at ding adua karing ipus nang lalaki.
+003	Maranun yang mibangun i Abraham;
+003	sekyan ne ing asno na, kayabe ne i Isaac at ding adua karing ipus nang lalaki.
 003	Migdala ya namang dutung para panangab king ain-a-durulukan a inutus na ning Dios a idala na.
 004	Kalabas da ring atlung aldo ikit neng Abraham ing lugal king marayu.
 005	Kanita sinabi na karing ipus na, Malakuan kayu keni ikayung adua, at banten ye ing asno kabang ing anak at aku munta kami karin.

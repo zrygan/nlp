@@ -2,7 +2,8 @@ verse	content
 001	Umahon sa Negeb mula sa Ehipto si Abram, ang kanyang asawa, dala ang lahat ng kanyang pag-aari, at si Lot.
 002	At si Abram ay napakayaman sa hayop, pilak, at ginto.
 003	Nagpatuloy si Abram ng kanyang paglalakbay mula sa Negeb hanggang sa Bethel, hanggang sa dakong kinaroroonan ng kanyang tolda sa pagitan ng Bethel at ng Ai;
-004	sa lugar ng dambana na kanyang ginawa roon nang una; at doon ay tinawag ni Abram ang pangalan ng Panginoon .
+004	sa lugar ng dambana na kanyang ginawa roon nang una;
+004	at doon ay tinawag ni Abram ang pangalan ng Panginoon .
 005	Si Lot na sumama kay Abram ay mayroon ding mga tupa, baka, at mga tolda.
 006	Hindi makayanan ng lupain na sila'y manirahang magkasama sapagkat napakarami ng kanilang pag-aari.
 007	At nagkaroon ng pagtatalo ang mga pastol ng hayop ni Abram at ang mga pastol ng hayop ni Lot.
@@ -10,9 +11,12 @@ verse	content
 008	Sinabi ni Abram kay Lot, Huwag na tayong magkaroon ng pagtatalo, maging ang ating mga pastol, sapagkat tayo'y magkapatid.
 009	Di ba nasa harapan mo ang buong lupain?
 009	Humiwalay ka sa akin.
-009	Kapag kinuha mo ang nasa kaliwa, ako ay pupunta sa kanan; o kapag kinuha mo ang nasa kanan, ako ay pupunta sa kaliwa.
-010	Inilibot ni Lot ang kanyang paningin, at natanaw niya ang buong libis ng Jordan na pawang natutubigang mabuti gaya ng halamanan ng Panginoon , gaya ng lupain ng Ehipto, sa gawi ng Zoar; ito ay bago winasak ng Panginoon ang Sodoma at Gomorra.
-011	Kaya't pinili ni Lot para sa kanya ang buong libis ng Jordan; at si Lot ay naglakbay sa silangan at sila'y kapwa naghiwalay.
+009	Kapag kinuha mo ang nasa kaliwa, ako ay pupunta sa kanan;
+009	o kapag kinuha mo ang nasa kanan, ako ay pupunta sa kaliwa.
+010	Inilibot ni Lot ang kanyang paningin, at natanaw niya ang buong libis ng Jordan na pawang natutubigang mabuti gaya ng halamanan ng Panginoon , gaya ng lupain ng Ehipto, sa gawi ng Zoar;
+010	ito ay bago winasak ng Panginoon ang Sodoma at Gomorra.
+011	Kaya't pinili ni Lot para sa kanya ang buong libis ng Jordan;
+011	at si Lot ay naglakbay sa silangan at sila'y kapwa naghiwalay.
 012	Nanirahan si Abram sa lupain ng Canaan, at si Lot ay nanirahan sa mga bayan ng libis, at inilipat ang kanyang tolda hanggang sa Sodoma.
 013	Ang mga tao nga sa Sodoma ay napakasama at makasalanan sa harap ng Panginoon .
 014	Sinabi ng Panginoon kay Abram pagkatapos na humiwalay si Lot sa kanya, Itaas mo ngayon ang iyong paningin, at tumanaw ka mula sa dakong iyong kinalalagyan, sa dakong hilaga, timog, silangan, at sa kanluran;

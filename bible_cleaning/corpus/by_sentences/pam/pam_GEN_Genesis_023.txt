@@ -12,9 +12,11 @@ verse	content
 008	Ngana karela, Nung talagang paintulutan yung mikutkut ya ing asawa ku keti kekayu, ipakisabi yu na ku mo kang Efron a anak nang Zohar king sabian yu
 009	ing pisali na ne kanaku ing kueba na ning Makpela a bandi na.
 009	Atyu king wakas na ning gabun na.
-009	Pakisabi yung pisali na ne kanaku; e ku tumawad.
+009	Pakisabi yung pisali na ne kanaku;
+009	e ku tumawad.
 009	Gawan kia mung pikutkutan!
-010	Ngeni atyu ya karin i Efron; kayabe de ring Hiteo a pakalukluk lele na ning pasbul dalan ning siudad.
+010	Ngeni atyu ya karin i Efron;
+010	kayabe de ring Hiteo a pakalukluk lele na ning pasbul dalan ning siudad.
 010	Nganang Efron kang Abraham king daramdaman da ring Hiteong atyu karin,
 011	Makamal a Abraham, testigu la ding kabalen ku, aliwa mu ing gabun a pikutkutan, pati na ing kuebang atyu karin ibabie ku keka.
 011	Ikutkut mu ne ing mete mu.
@@ -26,7 +28,8 @@ verse	content
 015	Nanu ne mo kekatang adua ing gabun a alagang apat a ralan a pirasung pilak?
 015	Mangutkut na ka!
 016	Mekipagkayari ya i Abraham kang Efron.
-016	Tinimbang na ing pilak a sinabi nang pamayad na king daramdaman da ring Hiteo; apat a ralan a pirasung pilak agpang king alagang mimiral kanita.
+016	Tinimbang na ing pilak a sinabi nang pamayad na king daramdaman da ring Hiteo;
+016	apat a ralan a pirasung pilak agpang king alagang mimiral kanita.
 017	Makanyan yang miras kang Abraham ing gabun nang Efron karin Makpela a makayarap Mamre, ing kueba, at ding tanaman na.
 017	Seli neng Abraham iti king akakit da ring heganaganang Hiteong memalen karin.
 018	Kaybat na nita, kitkut neng Abraham ing asawa nang i Sarah king kueba ning gabun karin Makpela, arapan na ning Mamre a ausan dang Hebron, king gabun ning Canaan.

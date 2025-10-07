@@ -20,15 +20,18 @@ verse	content
 015	Ibagam kenkuana nga imbaonnaka ni Yahweh a Dios dagiti Hebreo tapno kiddawek a palubosanna dagiti tattaok a mapan agdaydayaw kaniak idiay let-ang.
 015	Ibagam kenkuana nga agingga ita, dipay nangipangpangag.
 016	Ibagam nga imbagak a maammoannanto a siak ni Yahweh babaen iti parnuayenna a didigra.
-016	Ibagamto kenkuana a yablatmonto ti sarukod iti danum ti karayan; agbalinto a dara ti danum.
-017	Ibagam a matayto dagiti lames; agbuyokto ti karayan, ket karugitto dagiti Egipcio nga inumen ti danumna.
+016	Ibagamto kenkuana a yablatmonto ti sarukod iti danum ti karayan;
+016	agbalinto a dara ti danum.
+017	Ibagam a matayto dagiti lames;
+017	agbuyokto ti karayan, ket karugitto dagiti Egipcio nga inumen ti danumna.
 018	Kinuna ni Yahweh ken ni Moises, Ibagam ken ni Aaron nga ilayatna ti sarukodna kadagiti dandanum ti Egipto: kadagiti karayan, kanal ken dan-aw.
 018	Agbalinto a dara dagiti danum ket addanto dara iti entero a daga uray pay kadagiti burnay ken pagkargaan iti danum.
 019	Tinungpal da Moises ken Aaron ti imbilin ni Yahweh.
 019	Iti sangoanan ti ari ken dagiti ofisialesna, inyablat ni Aaron ti sarukodna iti karayan ket nagbalin a dara ti danumna.
 020	Natay dagiti lames, ket gapu ta kasta unay ti buyok ti karayan, saan a mainum dagiti Egipcio ti danumna.
 020	Nagbalin met a dara ti amin a danum iti entero nga Egipto.
-021	Ngem nagsalamangka dagiti salamangkero ti Egipto; kasta met ti inaramidda.
+021	Ngem nagsalamangka dagiti salamangkero ti Egipto;
+021	kasta met ti inaramidda.
 021	Ad-adda manen a timmangken ti puso ti ari.
 021	Dina impangag da Moises ken Aaron a kas iti kinuna ni Yahweh.
 022	Nagawid ketdi iti palasiona ket dina pulos inkaskaso uray pay daytoy.

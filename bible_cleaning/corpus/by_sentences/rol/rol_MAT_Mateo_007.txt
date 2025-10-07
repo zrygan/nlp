@@ -12,7 +12,9 @@ verse	content
 007	Magpangay kamo sa Dios, kag taw-an kamo.
 007	Magpangit kamo, kag makakit kamo.
 007	Magpanuktok kamo, kag buksan ang pwertahan para sa indo.
-008	Kay ang tanan nga nagapangay hay makakabaton; kag ang tanan nga nagapangit hay makakakit; kag ang tanan nga nagapanuktok hay pagabuksan.
+008	Kay ang tanan nga nagapangay hay makakabaton;
+008	kag ang tanan nga nagapangit hay makakakit;
+008	kag ang tanan nga nagapanuktok hay pagabuksan.
 009	Kamo nga mga tatay, kung magpangay ang indo ung ning tinapay, taw-an ba nindo ning bato?
 010	Kung magpangay siya ning isd, taw-an ba nindo ning sawa?
 010	Syempre ind!

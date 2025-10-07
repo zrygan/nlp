@@ -10,14 +10,17 @@ verse	content
 005	Inya dimput ne king iki at pasibayu yang meging tukud.
 006	Ngana ning Ginu , Gawan mu ing anti kanyan ban patunayan mu karing Israelita king ing Ginu , ing Dios ding makatua da, ing Dios nang Abraham, Isaac, at Jacob pepakit ya keka.
 007	Ngana pa ning Ginu kang Moises, Ipalub me ing gamat mu king baru mu tulid ning salu mu.
-007	Memintu ya, at inyang ilual ne ing gamat na ikit ne king atin yang sakit a ketung; maputi yang anting yelu.
+007	Memintu ya, at inyang ilual ne ing gamat na ikit ne king atin yang sakit a ketung;
+007	maputi yang anting yelu.
 008	Kanita ngana ning Ginu , Ipalub meng pasibayu ing gamat mu king baru mu tulid ning salu mu.
-008	Memintu ya i Moises, at inyang ilual neng pasibayu ala ne ing sakit a ketung; kalupa na ne ning sadia.
+008	Memintu ya i Moises, at inyang ilual neng pasibayu ala ne ing sakit a ketung;
+008	kalupa na ne ning sadia.
 009	Nganang sinabi ning Dios, Nung e la bisang maniwala keka king mumunang bage pagmumulalan a gawan mu, mapalyaring maniwala na la king kadua.
 010	Nung sakaling e la pa maniwala kareting aduang bage pagmumulalan at e la bisang makiramdam king sasabian mu, kuma kang ditak a danum king Ilug ning Nilo at ibulus mu king gabun.
 010	Maging daya ing danum.
 011	Nganang Moises, Ginu , e ku pu talagang biasang magsalita manibat na king ibat at angga na ngening pakisabian yu ku.
-011	Makuyad ku pu dila; urut-urut ku pung magsalita.
+011	Makuyad ku pu dila;
+011	urut-urut ku pung magsalita.
 012	Ngana ning Ginu , Moises, ninu wari ing minie king asbuk ning tau?
 012	Ninu ing maki upayang gawan neng maklak o pipi?
 012	At ninu ing makaibie king panimanman na o makabulag king tau?
@@ -28,7 +31,8 @@ verse	content
 015	Inya mimua ya ing Ginu kang Moises.
 015	Ngana, Atyu ne man ing kapatad mung i Aaron a Levita!
 015	Balu ku king biasa yang magsalita.
-015	King kamatutuanan papunta ne keti ban makikit keka; matula yang akit na ka.
+015	King kamatutuanan papunta ne keti ban makikit keka;
+015	matula yang akit na ka.
 016	Pakisabian me at sabian mu itang sukat nang sabian.
 016	Parehu da kayung saupan magsalita at ituru ku kekayu nung nanu ing sukat yung gawan.
 017	I Aaron ya ing maging talapagsalita mu karing tau, at mangari ka mong Dios kang Aaron.
@@ -38,7 +42,8 @@ verse	content
 019	Mebisa ne man i Jetro at peintulutan neng mako i Moises.
 020	Ngana ning Ginu kanitang atyu ya pa i Moises king Midian, Moises, magbalik na ka karin Ehipto, uling mete na la detang bisang makamate keka.
 021	Inya tiki neng Moises ing asawa na at ding anak nang lalaki.
-021	Seke na la king asno at meko na lang papunta Ehipto; pidala-dala ne itang tukud-pastul a inutus ning Dios a idala na.
+021	Seke na la king asno at meko na lang papunta Ehipto;
+021	pidala-dala ne itang tukud-pastul a inutus ning Dios a idala na.
 022	Ngana ning Ginu , Moises, anti na ning magbalik na ka Ehipto, e mu la sana kakalinguan gagawan detang sablang bage pagmumulalan king arapan ning ari.
 022	Dininan da kang upayang makarapat kareti.
 022	Makanyan man, pasiasan ke lub ing ari at e na la paintulutan mako ding Israelita.

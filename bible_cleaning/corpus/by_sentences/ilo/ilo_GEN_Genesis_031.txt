@@ -5,7 +5,8 @@ verse	content
 003	Kinuna ni Yahweh ken ni Jacob, Agsublika iti daga dagiti kapuonam ken kadagiti kakabagiam.
 003	Addaakto kenka.
 004	Nangibaon ngarud ni Jacob iti mapan mangibaga kada Raquel ken Lea nga agsasarakda iti taltalon a yan dagiti arbanna.
-005	Kinunana kadakuada, Nadlawko a nagbaliwen ni tatangyo; saanen a kas idi a naasideg kaniak.
+005	Kinunana kadakuada, Nadlawko a nagbaliwen ni tatangyo;
+005	saanen a kas idi a naasideg kaniak.
 005	Ngem kanayon nga adda kaniak ti Dios ni tatangko.
 006	Ammoyo nga inkabilko ti amin a kabaelak a nagserbi ken ni tatangyo.
 007	Kaskasdi a sinaurnak ket naminsangapulo a binaliwanna ti tulagan iti panangtangdanna kaniak.
@@ -56,7 +57,8 @@ verse	content
 029	Ngem apay a tinakawmo dagiti didiosek?
 030	Insungbat ni Jacob, Nagbutengak ta impagarupko a no maammoam a pumanawak, dimo ipalubos nga alaek dagiti annakmo.
 031	Ngem no maipapan kadagiti didiosen, no adda kadakami ti masarakam a nangala kadagitoy, rumbeng a mapapatay.
-031	Agpaay a saksi dagiti tattaota; kitaem no adda ditoy ti kukuam ket alaem no masarakam.
+031	Agpaay a saksi dagiti tattaota;
+031	kitaem no adda ditoy ti kukuam ket alaem no masarakam.
 031	Saan nga ammo ni Jacob a tinakaw ni Raquel dagiti didiosen.
 032	Simrek ni Laban iti tolda ni Jacob ket nagsukisok.
 032	Kasta met ti inaramidna iti tolda ni Lea ken iti tolda dagiti dua a babbai a tagabu ngem dina nasarakan dagiti didiosen.
@@ -64,7 +66,8 @@ verse	content
 033	Ngem nailemmengen ni Raquel dagiti didiosen.
 033	Inkargana dagitoy iti pasanga ti kamelio ket nagtugawanna daytoy.
 033	Nagsukisok ni Laban iti tolda ngem awan ti nasarakanna.
-034	Kinuna ni Raquel iti amana, Dinak koma kaunget, tatang, iti saanko nga itatakder iti kaaddayo; agreglaak ngamin.
+034	Kinuna ni Raquel iti amana, Dinak koma kaunget, tatang, iti saanko nga itatakder iti kaaddayo;
+034	agreglaak ngamin.
 034	Intuloy ni Laban ti nagbirok ngem dina nasarakan dagiti didiosenna.
 035	Kasla bumtak ti barukong ni Jacob iti napalalo a pungtotna.
 035	Ania kadi ti dakes nga inaramidko?

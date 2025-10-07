@@ -42,10 +42,12 @@ verse	content
 032	Natingala sanda, kag ang iba tana nga mga nagasurunod nahadluk.
 032	Gintipon ruman ni Jesus ang anang mga disipulo kag naghambal tana kananda nahanungud sa anang ginapaabot nga matabo kana.
 033	Nagkuon tana, Pamati kamo, nagatukad kita paagto sa Jerusalem nga sa diin ang Anak kang Tawo igatugyan sa mga pangulo kang Kaparian kag sa mga manunudlo kang kasugoan, kag sintensyahan nanda tana kang kamatayun kag itugyan sa mga bukun ti Judio.
-034	Pagayagutaun nanda tana, dupraan kag hanoton kag pagapatyun; pero pagkatapos kang tatlo ka adlaw mabanhaw tana.
+034	Pagayagutaun nanda tana, dupraan kag hanoton kag pagapatyun;
+034	pero pagkatapos kang tatlo ka adlaw mabanhaw tana.
 035	Nagparapit kay Jesus ang mga bata ni Zebedeo nga sanday Santiago kag Juan kag magkuon kana, Maestro, may ipangabay raad kami kanimo nga himoon mo para kanamun.
 036	Nagsabat si Jesus, Ano raad haw ang gusto ninyo nga himoon ko para kaninyo?
-037	Nagsabat sanda, Papungkoa kami sa tupad nimo kon maghari run ikaw; ang isara sa tuo nayon kag ang isara tana sa wala nayon.
+037	Nagsabat sanda, Papungkoa kami sa tupad nimo kon maghari run ikaw;
+037	ang isara sa tuo nayon kag ang isara tana sa wala nayon.
 038	Pero nagkuon si Jesus kananda, Wara kamo kamaan kon ano ang inyo ginapangayo.
 038	Masarangan bala ninyo atubangun ang mga pag-antos nga akun pagaantoson?
 038	Masarangan man bala ninyo atubangun ang kamatayun nga akun pagaagumun?
@@ -64,7 +66,8 @@ verse	content
 049	Duro nga mga tawo ang nagsaway kana kag ginkun-an tana nga maghipus.
 049	Pero gintudohan na pa gid gani nga singgit, Kaliwat ni David, maluoy ikaw kanakun!
 050	Nagpundo si Jesus kag magkuon, Tawga ninyo tana!
-051	Kag gintawag nanda ang bulag kag ginkun-an, Magkalipay ikaw; tindug dyan, hay ginapatawag na ikaw.
+051	Kag gintawag nanda ang bulag kag ginkun-an, Magkalipay ikaw;
+051	tindug dyan, hay ginapatawag na ikaw.
 052	Gintablug na ang anang kunup kag magtindug dayon kag magparapit kay Jesus.
 053	Ginpamangkot tana ni Jesus, Ano haw ang gusto mo nga himoon ko kanimo?
 054	Nagsabat ang bulag, Maestro, gusto ko nga makakita.

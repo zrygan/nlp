@@ -47,8 +47,11 @@ verse	content
 032	Dayon painun na sanda sa darwa ka grupo pareho kang pagpain kang manugbantay sa mga karnero kag mga kanding.
 033	Ang mga tawo nga matarung kaangay kang karnero ibutang na sa anang tuo kag ang mga malaot nga tawo kaangay kang kanding ibutang na sa anang wala.
 034	Kag ang Hari magakuon sa mga tawo sa anang tuo nayon, Kamo nga mga ginpakamayad kang akun Amay, batona ninyo ang pagginahum kang Dios nga anang gin-aman para kaninyo halin pa kang pagtuga kang kalibutan.
-035	Tungud hay kang gin-gutum ako ginpakaun ninyo ako, kang gin-uhaw ako ginpainum ninyo ako; kang nangin pangayaw ako gin-abi-abi ninyo ako sa inyo balay.
-036	Kang wara ako ti bayo ginpabayoan ninyo ako; kang nagamasakit ako gin-atipan ninyo ako; kag kang rugto ako sa prisohan ginbisitahan ninyo ako.
+035	Tungud hay kang gin-gutum ako ginpakaun ninyo ako, kang gin-uhaw ako ginpainum ninyo ako;
+035	kang nangin pangayaw ako gin-abi-abi ninyo ako sa inyo balay.
+036	Kang wara ako ti bayo ginpabayoan ninyo ako;
+036	kang nagamasakit ako gin-atipan ninyo ako;
+036	kag kang rugto ako sa prisohan ginbisitahan ninyo ako.
 037	Dayon magasabat ang mga matarung, Ginoo, kasan-o ikaw haw namun nakita nga nagutum kag ginpakaun namun, ukon nauhaw kag ginpainum namun?
 038	Kasan-o ikaw haw namun nakita nga nangin pangayaw kag gin-abi-abi namun sa amun balay, ukon wara ti bayo kag ginpabayoan namun?
 039	Kasan-o ikaw haw namun nakita nga nagamasakit ukon napriso kag ginbisitahan namun?
@@ -56,7 +59,9 @@ verse	content
 041	Dayon magakuon tana sa mga tawo sa ana wala nayon, Parayu kamo kanakun, kamo nga mga ginpakamalaot!
 041	Rugto kamo sa kalayo nga wara nagakapalung nga gin-aman para sa Yawa kag sa anang mga sinakpan.
 042	Tungud hay kang gin-gutum ako wara ninyo ako ginpakaun, kang gin-uhaw ako wara ninyo ako ginpainum.
-043	Kang nangin dumaray-o ako wara ninyo ako gin-abi-abi sa inyo balay; kang wara ako ti bayo wara ninyo ako ginpabayoan; kang nagamasakit ako kag kang rugto ako sa prisohan wara ninyo ako gin-atipan.
+043	Kang nangin dumaray-o ako wara ninyo ako gin-abi-abi sa inyo balay;
+043	kang wara ako ti bayo wara ninyo ako ginpabayoan;
+043	kang nagamasakit ako kag kang rugto ako sa prisohan wara ninyo ako gin-atipan.
 044	Magasabat man sanda, Ginoo, kasan-o ikaw haw namun nakita nga ginagutum ukon ginauhaw, ukon nangin dumaray-o, ukon wara ti bayo, ukon nagamasakit, ukon rugto sa prisohan kag wara namun ikaw ginbuligan?
 045	Kag ang Hari magasabat, Sugidan ko kamo, kang wara ninyo buligi ang bisan isara sa mga pinakakubus nga dya, wara man ninyo ako ginbuligan.
 046	Kag sanda kadya pagapahalinun kag silotan sa wara ti katapusan.

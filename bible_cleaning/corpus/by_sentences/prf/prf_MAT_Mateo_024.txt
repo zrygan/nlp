@@ -51,7 +51,8 @@ verse	content
 030	Magkahud ti kalungkutan en atanan a tolay ti munduwiday pkketa di ten Anak nen Tolay a ked ten panganurin.
 030	Dumemt siya a tehud a dakila a kapangyariyan sakay dikl a karangalan.
 031	Sakay ten kttnnug nen trumpeta ti mabegsk ay utusan na en anghel na hidi ten atanan a suluk ni munduwiday, puronn di en atanan a tolay a pinili nen Diyos ten bawat lugar.
-032	Ilingn moy en adal ten kayu a igos; kapag ni sumariwa en pinget na hidi sakay magduun ay makagi moy a adeni dn a kssinag.
+032	Ilingn moy en adal ten kayu a igos;
+032	kapag ni sumariwa en pinget na hidi sakay magduun ay makagi moy a adeni dn a kssinag.
 033	Kona labi hud, ni ketan moy dn i atananid a iyd, ay makagi moy a adeni dn en kssoli na, kumn a pasddp dn ten pintuwan.
 034	Kagiyn ku dikomoy, mangyari i atananid a iyd bagu a matay en tolay hidi a biyag nadid.
 035	Mawan en langet ay ten luta, peru en upos ku ay manatili a awan ti katapusan.
@@ -62,8 +63,10 @@ verse	content
 038	Hanggan dikona a sumakay dn ti Noe ten barku.
 039	Kaya dummemt en lonsu a awan hidi ti nangmalayan, sakay ngkalims hidi a atanan.
 039	Kona labi hud i mangyariyid ten kddemt nen Anak nen Tolay.
-040	Ti panahunid a iyud, ay tehud a duwwa a lllaki a magtarabahu ten uma di; maalap en essa sakay mawarak en essa.
-041	Tehud a duwwa bbbi a maggiling; maalap en essa sakay mawarak en essa.
+040	Ti panahunid a iyud, ay tehud a duwwa a lllaki a magtarabahu ten uma di;
+040	maalap en essa sakay mawarak en essa.
+041	Tehud a duwwa bbbi a maggiling;
+041	maalap en essa sakay mawarak en essa.
 042	Kaya humanda kam gapu awan moy tukoy ni nikan a dumemt en Panginoon moy.
 043	Tandaan moy iddi: ni tukoy la nen pinunu nen sabilay ni nya a odas ten gibi a dumemt en mgtakaw, ay magbantay siya sakay awan na pabayan a masddp en bilay na.
 044	Kaya dapat kam bi a magin handa, gapu dumemt en Anak nen Tolay ten odas a awan moy inasaan.

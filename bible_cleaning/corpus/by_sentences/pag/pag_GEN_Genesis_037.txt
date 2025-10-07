@@ -10,7 +10,8 @@ verse	content
 006	Aminsan a labi nankogip si Jose, et tinongtong to ya ed saray agagi to.
 007	Inkuanto, Dengel kayod kogip ko.
 008	Wala tayon amin ed kaalogan a mambeberber na trigo.
-008	Inmalagey imay binerber ko tan nantanyareg; saray binerber yo et niliber da tan tinmuek ira.
+008	Inmalagey imay binerber ko tan nantanyareg;
+008	saray binerber yo et niliber da tan tinmuek ira.
 009	Anto?
 009	Abaloan mo sirin manari kad sikami?
 009	tepet na saray agagi to.
@@ -49,9 +50,11 @@ verse	content
 028	Napnoy beneg na kamilyo ra na pasas tan rikado.
 029	Inkuanen Juda ed saray agagi to, Antoy nagunggona tayod pamatey ed agi tayo, insan tayo ibori?
 030	Ilako ti lad saray Ismaelita.
-030	Diad ontan ag ti la napasakitan; agi tayo ni met, kalamanan tan kadalaan tayo.
+030	Diad ontan ag ti la napasakitan;
+030	agi tayo ni met, kalamanan tan kadalaan tayo.
 030	Inmabubon ira may agagi to.
-031	Nen onlalabas iray komirsiantin Madianita, inagwat na saramay sanaagi si Jose, insan da inlakoy duamplon kuartan pilak ed saray Ismaelita; inawit da sirin si Jose ed Egipto.
+031	Nen onlalabas iray komirsiantin Madianita, inagwat na saramay sanaagi si Jose, insan da inlakoy duamplon kuartan pilak ed saray Ismaelita;
+031	inawit da sirin si Jose ed Egipto.
 032	Nen pinmawil ed samay bobun si Ruben tan anengneng ton anggapo lad may Jose, pinilat toy kawes to diad ermen to.
 033	Linmad saray agagi to tan inkuanto, Andid man si Jose!
 033	Antoy gawaen ko?

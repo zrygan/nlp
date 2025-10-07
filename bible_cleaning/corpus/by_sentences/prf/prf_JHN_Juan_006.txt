@@ -60,7 +60,8 @@ verse	content
 044	Sakay en umadeni dikoku ay biyagn ku a ruway ten katapusan a aldew.
 045	Nesulat ten libru nen propeta hidi a, Sakay tolduwan hidi a atanan nen Diyos.
 045	Balang mgsanig ten Ama ku sakay natolduwan ay umadeni dikoku.
-046	Bakn a gustu naid a kagiyn ay tehud dn a naketa ten Ama; en naggubwat la ten Diyos en naketa ten Ama.
+046	Bakn a gustu naid a kagiyn ay tehud dn a naketa ten Ama;
+046	en naggubwat la ten Diyos en naketa ten Ama.
 047	Tandaan moy kagiyn kuwidi dikomoy: en sumampalataya dikoku ay magkahud ti biyag a awan ti katapusan.
 048	Sikn en tinapay a makapangatd ti biyag.
 049	Kinuman en ninunu moy hidi ti manna ten kaparangan, sakay ngkatay labi hidi.
@@ -77,13 +78,15 @@ verse	content
 057	En biyag a Ama en nangutus dikoku, sakay mabiyagk gapu dikona.
 057	Kona labi hud, en deyaman a mangkan dikoku ay mabiyag a gapu dikoku.
 058	Iyd en tinapay a dummibbbi a gubwat dilanget.
-058	Awan iyd kaparehu nen kinan nen ninunu moy hidi ten kaparangan; ngkatay labi hidi maski ni kinuman hidi ti iyud.
+058	Awan iyd kaparehu nen kinan nen ninunu moy hidi ten kaparangan;
+058	ngkatay labi hidi maski ni kinuman hidi ti iyud.
 058	En kuman ti iyd a tinapay ay mabiyag a awan ti katapusan.
 059	Iyd en kinagi ni Jesus ten sinagoga dikona a nagtoldu siya ti Capernaum.
 060	Dikona nasanig nen disepulus na hidi en pgtoldu na ay kinagi nen kakpalan dikodi, Madggi iyd a pgtoldu na, deya makaintendiyid han?
 061	Tukoy ni Jesus a mamgganasasan en disepulus na hidi tungkul ten intoldu na kaya kinagi na dikodi, Gapu beman ti iyd ay lakadank moy dn?
 062	Iyud pa beman wd ni ketan moy dn en Anak nen Tolay a dumisunu a tamu ten dati na a pppgyanan?
-063	En Ispiritu en mangatd ti biyag; awan iyd magamet nen tolay.
+063	En Ispiritu en mangatd ti biyag;
+063	awan iyd magamet nen tolay.
 063	En upos hidi a kinagi ku dikomoy ay ispiritu a mangatd ti biyag.
 064	Peru tehud a sangan dikomoy a awan maniwala dikoku.
 064	Nakagi iyd ni Jesus gapu sapul pa ten sapul ay tukoy na dn en awan hidi maniwala dikona, sakay en mngtokyon dikona.

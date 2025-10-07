@@ -19,7 +19,8 @@ verse	content
 013	Wa, sukat lang masirkunsisyun ding ipus a mibait karing pibalebale yu at pati na detang seli yu.
 013	Inya mayakit ya ing kasunduan king katawan yu bilang alang anggang kasunduan.
 014	Nung ating lalaking e mesirkunsisyun, itiwalag ya king katipunan yu uli na ning lebagan ne ing kasunduan.
-015	Ngana pang sinabi ning Dios kang Abraham, E mu ne ausan pang Sarai ing asawa mu; ausan meng Sarah manibat ngeni.
+015	Ngana pang sinabi ning Dios kang Abraham, E mu ne ausan pang Sarai ing asawa mu;
+015	ausan meng Sarah manibat ngeni.
 016	Bendisyunan ke at dinan da kang anak a lalaki king kapamilatan na.
 016	Bendisyunan kia naman.
 016	Maging ima re ding bansa at ating maging ari karing maging apu na.
@@ -29,7 +30,8 @@ verse	content
 018	Nganang Abraham king Dios, I Ismael na mu ing luguran yu at gawan talapagmana ku.
 019	Pekibat na ning Dios, E malyari!
 019	Ibait ne ning asawa mung i Sarah ing anak mung lalaki at ausan meng Isaac at makikasundu ku keting maging anak mu angga king alang angga at karing lahi nang sasalisi.
-020	Ibie ku ing aduan mu para kang Ismael; bendisyunan ke, dinan keng pibandian, at parakalan ku la ding lahi na.
+020	Ibie ku ing aduan mu para kang Ismael;
+020	bendisyunan ke, dinan keng pibandian, at parakalan ku la ding lahi na.
 020	Maging tatang de ring labing aduang prinsipi, at maging tatang ne ning metung a bansang maragul.
 021	Pero tuparan ke kang Isaac ing kasunduan ku.
 021	Ibait neng Sarah ing anak keng tutuking banua.

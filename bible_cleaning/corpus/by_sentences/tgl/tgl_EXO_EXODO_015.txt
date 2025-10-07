@@ -44,17 +44,23 @@ verse	content
 043	sa dako, O Panginoon , na iyong ginawa upang iyong maging tahanan,
 044	sa santuwaryo, O Panginoon , na itinatag ng iyong mga kamay.
 045	Ang Panginoon ay maghahari magpakailanpaman.
-046	Sapagkat nang ang mga kabayo ng Faraon ay nagtungo pati ang kanyang mga karwahe at pati ng kanyang mga nangangabayo sa dagat, at pinanunumbalik ng Panginoon ang tubig ng dagat sa kanila; subalit lumakad ang mga anak ni Israel sa tuyong lupa sa gitna ng dagat.
-047	Si Miriam na babaing propeta, na kapatid ni Aaron ay humawak ng isang pandereta sa kanyang kamay; at sumunod ang lahat ng mga babae sa kanya, na may mga pandereta at nagsayawan.
+046	Sapagkat nang ang mga kabayo ng Faraon ay nagtungo pati ang kanyang mga karwahe at pati ng kanyang mga nangangabayo sa dagat, at pinanunumbalik ng Panginoon ang tubig ng dagat sa kanila;
+046	subalit lumakad ang mga anak ni Israel sa tuyong lupa sa gitna ng dagat.
+047	Si Miriam na babaing propeta, na kapatid ni Aaron ay humawak ng isang pandereta sa kanyang kamay;
+047	at sumunod ang lahat ng mga babae sa kanya, na may mga pandereta at nagsayawan.
 048	Sila'y inawitan ni Miriam
 049	Umawit kayo sa Panginoon , sapagkat siya'y maluwalhating nagtagumpay;
 050	nang inihagis niya sa dagat ang kabayo at ang doo'y nakasakay.
-051	Patuloy na pinangunahan ni Moises ang Israel mula sa Dagat na Pula, at sila'y lumabas sa ilang ng Shur; sila'y lumakad ng tatlong araw sa ilang at hindi nakatagpo ng tubig.
+051	Patuloy na pinangunahan ni Moises ang Israel mula sa Dagat na Pula, at sila'y lumabas sa ilang ng Shur;
+051	sila'y lumakad ng tatlong araw sa ilang at hindi nakatagpo ng tubig.
 052	Nang sila'y dumating sa Mara, hindi nila mainom ang tubig sa Mara, sapagkat ito ay mapait.
 052	Kaya't tinawag itong Mara.
 053	Nagreklamo ang bayan kay Moises, na sinasabi, Anong aming iinumin?
-054	Siya'y dumaing sa Panginoon at itinuro sa kanya ng Panginoon ang isang punungkahoy; inihagis niya ito sa tubig, at ang tubig ay tumamis.
+054	Siya'y dumaing sa Panginoon at itinuro sa kanya ng Panginoon ang isang punungkahoy;
+054	inihagis niya ito sa tubig, at ang tubig ay tumamis.
 055	Doon, gumawa ang Panginoon para sa kanila ng isang batas at tuntunin.
 055	Doon ay sinubok niya sila,
-056	na sinasabi, Kung iyong diringgin ng buong tiyaga ang tinig ng Panginoon mong Diyos, at iyong gagawin ang matuwid sa kanyang mga mata, at iyong susundin ang kanyang mga utos, at iyong tutuparin ang lahat ng kanyang mga batas, wala akong ilalagay na karamdaman sa iyo, na gaya ng inilagay ko sa mga Ehipcio; sapagkat ako ang Panginoon na nagpapagaling sa iyo.
-057	Sila'y dumating sa Elim, kung saan mayroong labindalawang bukal ng tubig, at pitumpung puno ng palma; at sila'y humimpil doon sa tabi ng tubig.
+056	na sinasabi, Kung iyong diringgin ng buong tiyaga ang tinig ng Panginoon mong Diyos, at iyong gagawin ang matuwid sa kanyang mga mata, at iyong susundin ang kanyang mga utos, at iyong tutuparin ang lahat ng kanyang mga batas, wala akong ilalagay na karamdaman sa iyo, na gaya ng inilagay ko sa mga Ehipcio;
+056	sapagkat ako ang Panginoon na nagpapagaling sa iyo.
+057	Sila'y dumating sa Elim, kung saan mayroong labindalawang bukal ng tubig, at pitumpung puno ng palma;
+057	at sila'y humimpil doon sa tabi ng tubig.

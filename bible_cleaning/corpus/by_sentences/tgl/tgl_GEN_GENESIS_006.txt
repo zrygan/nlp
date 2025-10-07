@@ -33,4 +33,5 @@ verse	content
 019	Dapat ay lalaki at babae ang mga ito.
 020	Sa mga ibon ayon sa kanilang uri, sa mga hayop ayon sa kanilang uri, sa bawat gumagapang sa lupa ayon sa kanilang uri, dalawa sa bawat uri ang isasama mo upang ang mga iyon ay manatiling buhy.
 021	At magbaon ka ng lahat na pagkain at imbakin mo, at magiging pagkain para sa inyo at para sa kanila.
-022	Gayon ang ginawa ni Noe; ginawa niya ang ayon sa lahat ng iniutos sa kanya ng Diyos.
+022	Gayon ang ginawa ni Noe;
+022	ginawa niya ang ayon sa lahat ng iniutos sa kanya ng Diyos.

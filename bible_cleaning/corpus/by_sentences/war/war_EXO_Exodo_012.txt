@@ -8,7 +8,8 @@ verse	content
 007	Makuha hira han dugo ngan igpapahid ini dida han mga harigi han porta ngan han baybayon nga igbaw han porta han kabalayan diin kakaonon an mga hayop.
 008	Hito nga gab-i pag-aaslon an inihaw, ngan kakaonon ini upod hin magpait nga mga panakot ngan hin tinapay nga waray patubo.
 009	Ayaw kamo pagkaon hin bisan ano nga bahin han gin-ihaw nga hilaw o linaga, kundi kaona ini nga gin-asal hin bug-os, lakip an ulo, an mga tiil, ngan an mga sulod han ginhawa.
-010	Kinahanglan diri kamo magsalin hin bisan ano hini ngada han pagkaaga; kon may mahisalin, kinahanglan pagsunogon ini.
+010	Kinahanglan diri kamo magsalin hin bisan ano hini ngada han pagkaaga;
+010	kon may mahisalin, kinahanglan pagsunogon ini.
 011	Kinahanglan kaonon ini niyo hin kadagmitan, nga nakabado na kamo nga daan, andam para hin paglakat, nga may sandalyas na an iyo mga tiil ngan tungkod ha iyo kamot.
 011	Amo ini an Paglabay nga pagbubuhaton niyo hin pagpasidungog ha akon nga Ginoo .
 012	Dida hito nga gab-i maglalatas ako han tuna han Ehipto ngan papatayon ko an ngatanan nga suhag nga lalake, ma tawo ug ma mananap, ngan kakastigohon ko an ngatanan nga kadiyosan han Ehipto.
@@ -36,11 +37,13 @@ verse	content
 026	Pinanmatay niya an mga Ehiptohanon, kundi gintalwas kami!
 027	Nanluhod ngan nagsingba an mga Israelita.
 028	Katapos linmakat hira ngan ginbuhat nira an iginsugo han Ginoo kanda Moises ug Aaron.
-029	Dida han katutnga na han kagab-ihon pinanmatay han Ginoo an ngatanan nga mga suhag nga kalalaken-an didto ha Ehipto, tikang han anak han hadi nga manurunod han trono, ngadto han anak han mga bihag didto ha prisohan; pinanmatay liwat an ngatanan nga mga suhag nga kamanampan.
+029	Dida han katutnga na han kagab-ihon pinanmatay han Ginoo an ngatanan nga mga suhag nga kalalaken-an didto ha Ehipto, tikang han anak han hadi nga manurunod han trono, ngadto han anak han mga bihag didto ha prisohan;
+029	pinanmatay liwat an ngatanan nga mga suhag nga kamanampan.
 030	Hito nga gab-i nagmata an hadi, an iya mga opisyal, ngan an ngatanan nga mga Ehiptohanon.
 030	May-ada makusog nga panangis ha bug-os nga Ehipto, kay waray usa nga panimalay didto nga waray patay nga anak nga lalake.
 031	Hito ngahaw nga gab-i ginpatawag han hadi hira Moises ug Aaron ngan ginsiring, Iwas, kamo ngan an mga Israelita!
-031	Bayai niyo an akon nasod; kadto ngan pagsingba kamo han Ginoo , sumala han iyo ginhangyo ha akon.
+031	Bayai niyo an akon nasod;
+031	kadto ngan pagsingba kamo han Ginoo , sumala han iyo ginhangyo ha akon.
 032	Dad-a an iyo mga karnero, mga kanding, ngan mga baka, ngan pagkalakat na kamo.
 032	Ig-ampo man liwat ako nga bendisyonan ako.
 033	Gin-agda han mga Ehiptohanon an mga tawo nga magdagmit hira hin pagbaya han nasod.
@@ -55,11 +58,13 @@ verse	content
 039	Naghudno hira hin tinapay nga waray patubo tikang han dara nira nga daan minasa tikang ha Ehipto, kay tigda la an pagpaiwasa ha ira nga waray na nira panahon hin pag-andam han ira pagkaon o hin minasa nga may-ada patubo.
 040	Nag-ukoy an mga Israelita didto ha Ehipto sulod hin 430 ka tuig.
 041	Dida han adlaw han katapos na han 430 ka tuig, binmaya han Ehipto an ngatanan nga mga tribo han mga tawo han Ginoo .
-042	Gab-i adto nga nag-agma an Ginoo hin pagpagawas ha ira tikang ha Ehipto; ighahalad ini ngahaw nga gab-i ngadto han Ginoo para ha ngatanan nga panahon nga tiarabot sugad nga gab-i nga kinahanglan mag-agma an mga Israelita.
+042	Gab-i adto nga nag-agma an Ginoo hin pagpagawas ha ira tikang ha Ehipto;
+042	ighahalad ini ngahaw nga gab-i ngadto han Ginoo para ha ngatanan nga panahon nga tiarabot sugad nga gab-i nga kinahanglan mag-agma an mga Israelita.
 043	Nagsiring kanda Moises ug Aaron an Ginoo , Amo ini an mga turumanon han Paglabay: Waray lumalangyaw nga makaon han ginhalad han Paglabay,
 044	kundi makakakaon hini in bisan hin-o nga oripon nga iyo pinalit, kon pagtorion hiya anay.
 045	Diri makakakaon hini adton lumalabay la nga umorukoy o sinuholan la nga paratrabaho.
-046	Kinahanglan kaonon ini ngatanan nga gin-andam ha sakob han balay nga gin-andaman; kinahanglan diri ini pagdad-on ha gawas.
+046	Kinahanglan kaonon ini ngatanan nga gin-andam ha sakob han balay nga gin-andaman;
+046	kinahanglan diri ini pagdad-on ha gawas.
 046	Ngan ayaw pagbaria in bisan usa nga tul-an han hayop.
 047	Kinahanglan pagsaurogon han bug-os nga bungto han Israel ini nga pyesta.
 048	Kundi waray makakakaon hini nga diri tinori nga lalake.

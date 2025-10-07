@@ -58,7 +58,9 @@ verse	content
 037	Sang ibubo nila ang sulod sang ila mga sako, ang puyo nga may kwarta sang tagsa sa ila yara sa sako.
 037	Sang makita nila ini, hinadlukan gid sila pati ang ila amay.
 038	Ang ila amay nga si Jacob nagsiling sa ila, Gusto gid bala ninyo nga maubos kaladula ang tanan ko nga mga kabataan?
-038	Si Jose wala na; si Simeon wala na; kag karon kuhaon naman ninyo si Benjamin.
+038	Si Jose wala na;
+038	si Simeon wala na;
+038	kag karon kuhaon naman ninyo si Benjamin.
 038	Ako ang nagaantos!
 039	Si Ruben nagsiling sa iya amay, Patya ang duha ko ka mga bata, kon indi ko mabalik si Benjamin sa imo.
 039	Itugyan sia sa akon, kag ibalik ko sia sa imo.

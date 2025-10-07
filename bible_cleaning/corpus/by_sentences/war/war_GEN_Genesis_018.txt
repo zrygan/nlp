@@ -4,11 +4,15 @@ verse	content
 002	hinmangad hiya ngan hinkit-an niya in tulo ka tawo nga natukdaw didto.
 002	Han paghikit-i gudla niya ha ira, dinmalagan hiya hin pagtapo ha ira.
 002	Hinmapa hiya
-003	ngan nagsiring, Mga mano, ayaw gad kamo pagpadayon han iyo paglakat, kundi hapit kamo anay madaliay; andam ako hin pagsirbe ha iyo.
-004	Tugoti ako hin pagkuha hin tubig para hin panhimsaw niyo; makakapahuway kamo dinhe ha lindong hini nga kahoy.
-005	Makuha liwat ako hin gutiay nga pagkaon; makakapakusog ini ha iyo ha pagpadayon han iyo paglakat.
+003	ngan nagsiring, Mga mano, ayaw gad kamo pagpadayon han iyo paglakat, kundi hapit kamo anay madaliay;
+003	andam ako hin pagsirbe ha iyo.
+004	Tugoti ako hin pagkuha hin tubig para hin panhimsaw niyo;
+004	makakapahuway kamo dinhe ha lindong hini nga kahoy.
+005	Makuha liwat ako hin gutiay nga pagkaon;
+005	makakapakusog ini ha iyo ha pagpadayon han iyo paglakat.
 005	Ginpasidunggan ako niyo pinaagi hin pagkanhi ha akon balay, sanglit tugoti gad ako hin pagsirbe ha iyo.
-006	Binmaton hira, Salamat ha imo; buhata an imo karuyag.
+006	Binmaton hira, Salamat ha imo;
+006	buhata an imo karuyag.
 007	Nagdagmit hi Abraham ngadto han tulda ngan nagsiring kan Sara, Dali kuha han gimamaupayi mo nga harina ngan paghimo hin tinapay.
 008	Niyan dinmalagan hiya ngadto han turil ngan ginpili in usa nga nati nga baka nga bata pa ngan matambok, ngan iginhatag ini ngadto hin usa nga surugoon nga nagdagmit hin pag-andam hini.
 009	Kinmuha hi Abraham hin kisiyo, gatas, ngan han karne, ngan igindurot ini pagkaon ngadto han mga tawo.

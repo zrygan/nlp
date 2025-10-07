@@ -1,19 +1,26 @@
 verse	content
-001	Si Abraham ay matanda na at lipas na sa panahon; at pinagpala ng Panginoon si Abraham sa lahat ng mga bagay.
+001	Si Abraham ay matanda na at lipas na sa panahon;
+001	at pinagpala ng Panginoon si Abraham sa lahat ng mga bagay.
 002	At sinabi ni Abraham sa kanyang alipin, sa pinakamatanda sa kanyang bahay na namamahala ng lahat niyang ari-arian, Pakilagay mo ang iyong kamay sa ilalim ng aking hita,
 003	at ikaw ay aking panunumpain sa ngalan ng Panginoon , ang Diyos ng langit at lupa, na hindi mo ikukuha ng asawa ang aking anak sa mga anak na babae ng mga Cananeo na siyang aking tinitirhan,
 004	kundi ikaw ay pupunta sa aking lupain, at sa aking kamag-anak, at ikukuha mo roon ng asawa ang aking anak na si Isaac.
-005	Sinabi sa kanya ng alipin, Sakaling hindi pumayag ang babae na sumama sa akin sa lupaing ito; dapat ko bang ibalik ang anak mo sa lupaing pinanggalingan mo?
+005	Sinabi sa kanya ng alipin, Sakaling hindi pumayag ang babae na sumama sa akin sa lupaing ito;
+005	dapat ko bang ibalik ang anak mo sa lupaing pinanggalingan mo?
 006	Sinabi naman sa kanya ni Abraham, Huwag mong ibabalik doon ang aking anak.
-007	Ang Panginoon , ang Diyos ng langit, na kumuha sa akin sa sambahayan ng aking ama, at sa lupaing aking tinubuan ay nagsalita at sumumpa sa akin na nagsasabi, Sa iyong binhi ay ibibigay ko ang lupaing ito; magsusugo siya ng kanyang anghel sa unahan mo, at ikukuha mo roon ng asawa ang aking anak.
-008	Subalit kung ang babae ay ayaw sumama sa iyo, ikaw ay magiging malaya sa aking sumpa; huwag mo lamang pabalikin ang aking anak doon.
+007	Ang Panginoon , ang Diyos ng langit, na kumuha sa akin sa sambahayan ng aking ama, at sa lupaing aking tinubuan ay nagsalita at sumumpa sa akin na nagsasabi, Sa iyong binhi ay ibibigay ko ang lupaing ito;
+007	magsusugo siya ng kanyang anghel sa unahan mo, at ikukuha mo roon ng asawa ang aking anak.
+008	Subalit kung ang babae ay ayaw sumama sa iyo, ikaw ay magiging malaya sa aking sumpa;
+008	huwag mo lamang pabalikin ang aking anak doon.
 009	Inilagay ng alipin ang kanyang kamay sa ilalim ng hita ni Abraham na kanyang panginoon, at sumumpa sa kanya tungkol sa bagay na ito.
 010	Kumuha ang alipin ng sampung kamelyo mula sa kanyang panginoon, at umalis na dala ang pinakamabuti sa lahat ng pag-aari ng kanyang panginoon.
 010	At pumunta siya sa Mesopotamia, sa bayan ni Nahor.
 011	Kanyang pinaluhod ang mga kamelyo sa labas ng bayan, sa tabi ng balon ng tubig nang papalubog na ang araw, panahon nang paglabas ng mga babae upang umigib ng tubig.
 012	At kanyang sinabi, O Panginoon , Diyos ng aking panginoong si Abraham, hinihiling ko sa iyong pagkalooban mo ako ng tagumpay ngayon, at ikaw ay magmagandang-loob sa aking panginoong si Abraham.
 013	Ako'y nakatayo sa tabi ng balon ng tubig at ang mga anak na babae ng mga tao sa bayan ay darating upang umigib ng tubig.
-014	At mangyari na ang dalagang aking pagsabihan, Pakibaba mo ang iyong banga upang ako'y makainom; at kanyang sasabihin, Uminom ka, at paiinumin ko pati ang iyong mga kamelyo; ay siyang pinili mo para sa iyong lingkod na si Isaac; at sa ganito ay malalaman kong nagpakita ka ng tapat na pag-ibig sa aking panginoon.
+014	At mangyari na ang dalagang aking pagsabihan, Pakibaba mo ang iyong banga upang ako'y makainom;
+014	at kanyang sasabihin, Uminom ka, at paiinumin ko pati ang iyong mga kamelyo;
+014	ay siyang pinili mo para sa iyong lingkod na si Isaac;
+014	at sa ganito ay malalaman kong nagpakita ka ng tapat na pag-ibig sa aking panginoon.
 015	Bago pa man siya nakatapos ng pagsasalita, si Rebecca na ipinanganak kay Betuel, na anak ni Milca, na asawa ni Nahor na kapatid ni Abraham ay lumabas na pasan ang banga sa kanyang balikat.
 016	Ang babae ay may magandang anyo, dalaga na hindi pa nasisipingan ng lalaki.
 016	Siya ay lumusong sa bukal, pinuno ang kanyang banga, at umahon.
@@ -34,7 +41,8 @@ verse	content
 028	Tumakbo ang dalaga at isinalaysay ang mga bagay na ito sa sambahayan ng kanyang ina.
 029	Si Rebecca ay may isang kapatid na ang pangalan ay Laban.
 029	Tumakbong papalabas si Laban patungo sa lalaki na nasa bukal.
-030	Nang makita niya ang singsing at mga pulseras sa mga kamay ng kanyang kapatid, at pagkarinig sa mga salita ni Rebecca na kanyang kapatid, na sinasabi, Gayon ang sinabi sa akin ng lalaki; ay lumapit siya sa lalaki at nakitang ito'y nakatayo sa tabi ng mga kamelyo sa bukal.
+030	Nang makita niya ang singsing at mga pulseras sa mga kamay ng kanyang kapatid, at pagkarinig sa mga salita ni Rebecca na kanyang kapatid, na sinasabi, Gayon ang sinabi sa akin ng lalaki;
+030	ay lumapit siya sa lalaki at nakitang ito'y nakatayo sa tabi ng mga kamelyo sa bukal.
 031	At sinabi niya, Pumasok ka, pinagpala ng Panginoon .
 031	Bakit ka nakatayo sa labas?
 031	Naihanda ko na ang bahay at ang lugar para sa mga kamelyo.
@@ -50,7 +58,8 @@ verse	content
 038	kundi pumunta ka sa bahay ng aking ama at sa aking mga kamag-anak at ikuha mo roon ng asawa ang aking anak.
 039	Kaya't sinabi ko sa aking panginoon, Baka hindi sumama sa akin ang babae!
 040	At sinabi niya sa akin, Ang Panginoon , na lagi kong sinusunod ay magsusugo ng kanyang anghel upang makasama mo, at kanyang pagpapalain ang iyong lakad, at ikukuha mo ng asawa ang aking anak mula sa aking mga kamag-anak at sa angkan ng aking ama.
-041	Makakalaya ka sa aking sumpa, kapag ikaw ay dumating sa aking mga kamag-anak; kahit hindi nila ibigay sa iyo ang babae ay makakalaya ka sa aking sumpa.
+041	Makakalaya ka sa aking sumpa, kapag ikaw ay dumating sa aking mga kamag-anak;
+041	kahit hindi nila ibigay sa iyo ang babae ay makakalaya ka sa aking sumpa.
 042	Dumating ako nang araw na ito sa bukal at aking sinabi, O Panginoon , na Diyos ng aking panginoong si Abraham, kung kalooban mo, idinadalangin ko na iyong pagpalain ang daan na malapit ko nang tahakin.
 043	Nakatayo ako sa tabi ng bukal ng tubig at kapag ang dalaga ay dumating upang umigib at sinabi ko sa kanya, Makikiinom ako ng kaunting tubig sa iyong banga;
 044	at sinabi niya sa akin, Uminom ka, at iiigib ko rin ang iyong mga kamelyo, ay siyang maging babaing pinili ng Panginoon sa anak ng aking panginoon.
@@ -71,7 +80,8 @@ verse	content
 053	Nagbigay rin siya ng mahahalagang bagay sa kanyang kapatid na lalaki at sa kanyang ina.
 054	At sila'y nagsikain at nagsiinom, siya at ang mga taong kasama niya, at doon nagpalipas ng magdamag.
 054	Bumangon sila nang umaga at kanyang sinabi, Pabalikin na ninyo ako sa aking panginoon.
-055	At sinabi ng kanyang kapatid na lalaki at ng kanyang ina, Hayaan muna ninyong manatili sa amin ang dalaga ng ilang araw, sampung araw man lamang; pagkatapos ay maaari na siyang umalis.
+055	At sinabi ng kanyang kapatid na lalaki at ng kanyang ina, Hayaan muna ninyong manatili sa amin ang dalaga ng ilang araw, sampung araw man lamang;
+055	pagkatapos ay maaari na siyang umalis.
 056	At sinabi niya sa kanila, Huwag na ninyo akong patagalin, yamang pinagpala ng Panginoon ang aking lakad.
 056	Pabalikin na ninyo ako upang ako'y makauwi sa aking panginoon.
 057	Sinabi nila, Tatawagin namin ang dalaga at tatanungin siya.
@@ -79,7 +89,8 @@ verse	content
 058	At sinabi niya, Sasama ako.
 059	Kaya't kanilang pinasama si Rebecca na kanilang kapatid at ang kanyang tagapag-alaga kasama ang alipin ni Abraham at ang kanyang mga tauhan.
 060	At kanilang binasbasan si Rebecca at sinabi nila sa kanya, Kapatid namin, maging ina ka nawa ng libu-libo at makamit ng iyong binhi ang pintuang-bayan ng mga napopoot sa kanila.
-061	Tumindig si Rebecca at ang kanyang mga abay, at sila ay sumakay sa mga kamelyo, at sumunod sa lalaki; at dinala ng alipin si Rebecca at humayo.
+061	Tumindig si Rebecca at ang kanyang mga abay, at sila ay sumakay sa mga kamelyo, at sumunod sa lalaki;
+061	at dinala ng alipin si Rebecca at humayo.
 062	Ngayon, si Isaac ay nanggaling sa daang Beer-lahai-roi at siya'y nakatira sa lupain ng Negeb.
 063	Lumabas si Isaac sa parang upang maglakad-lakad ng dapit-hapon.
 063	Itinaas niya ang kanyang mga paningin at nakita niyang may dumarating na mga kamelyo.

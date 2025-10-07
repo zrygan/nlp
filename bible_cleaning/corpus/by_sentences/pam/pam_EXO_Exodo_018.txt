@@ -8,7 +8,8 @@ verse	content
 004	Makanyan neng pemalagyuan Eliezer ing kadua nang anak.
 005	Dinatang ya i Jetro, kayabe ne ing asawa nang Moises ampon ding adua nang anak, king disyerto nung nu ya makakampu i Moises, king lele na ning banal a bunduk.
 006	Peparala yang amanu i Jetro kang Moises king daratang la.
-007	Linual ya king tolda i Moises ban saganan na la; dinuku ya king arapan na at saka ne inuma i Jetro.
+007	Linual ya king tolda i Moises ban saganan na la;
+007	dinuku ya king arapan na at saka ne inuma i Jetro.
 007	Mipangomusta la tungkul king bie ra, at kaybat melaus la kilub na ning tolda nang Moises.
 008	Sinabi nang Moises kang Jetro ing sablang depatan na ning Ginu king ari, at karing memalen na ning Ehipto ban iligtas na la ring Israelita.
 008	Belita na naman ing kasakitan a pekiarapan da kabang dalan at nung makananu na lang linigtas ning Ginu .
@@ -18,7 +19,8 @@ verse	content
 011	Ngeni ku akikilala king ing Ginu maula yang maygit karing sablang dios, uling depatan na iti kanitang ding tau Ehipto teratusan da lang mitmung bigsikan ding Israelita.
 012	Migdala ya kanita i Jetro metung a ain-a-durulukan mabilug at aliwa pang ain ban iyain king Dios.
 012	Tinuki ya i Aaron at ding sablang manimuna na ning Israel ban makisulu ketang banal a pamisulusulu bilang metung a dake na ning kapanyamban.
-013	Itang kabukasan, linukluk ya i Moises ban lutasan ing pisasabian a linto king pamiyutus da ring tau; samal ya manibat king abak angga na itang bengi.
+013	Itang kabukasan, linukluk ya i Moises ban lutasan ing pisasabian a linto king pamiyutus da ring tau;
+013	samal ya manibat king abak angga na itang bengi.
 014	Inyang ikit nang Jetro ing sablang kailangan nang arapan Moises nganang kinutang, Nanu ngan iting kasamalan mu para karing tau?
 014	Obat ika mung dili ing magobra?
 014	Atin mung atin taung manenaya keka keti manibat king abak angga na king bengi para mu mangutang keka.
@@ -30,12 +32,14 @@ verse	content
 019	Makiramdam ka sana keng iyusuk ku keka at mantabe ya keka ing Dios.
 019	Ustu ing talakaran mu la ding tau king arapan ning Dios at ilapit mu la king Dios ding piamanuan da.
 020	Wa, sukat mu lang ituru karela ding kautusan na ning Dios, at ipalino karela nung makananu lang mibiebie, at nung nanu ing sukat dang daptan.
-021	Subali kanita sukat kang mamiling taung ating agyu at tulduan mu lang manimuna da ring tau; manimuna la para karing balang libu katau, karing balang dinalan, karing balang limang pulu, at karing balang apulu.
+021	Subali kanita sukat kang mamiling taung ating agyu at tulduan mu lang manimuna da ring tau;
+021	manimuna la para karing balang libu katau, karing balang dinalan, karing balang limang pulu, at karing balang apulu.
 021	Tau lang sukat ating takut king Dios deting manimuna, at malyari lang pagkatiwalan, at e malyaring suhulan.
 022	Paburen mu lang magsilbing bilang ukum para karing tau kabang-kaba.
 022	Idala da na la keka ding mangabayat a problema, pero ding lati-lating problema ila nang dili rang matul.
 022	King anti kanyan a paralan maging mayan ing obra mu uling kasaup mu lang magkarga.
-023	Nung yan ing daptan mu, antimo ing kaburian na ning Dios keka, e ka masiadung misakitan; milunasan agad ing problema da ring tau at maranun la pang makauli bale ra.
+023	Nung yan ing daptan mu, antimo ing kaburian na ning Dios keka, e ka masiadung misakitan;
+023	milunasan agad ing problema da ring tau at maranun la pang makauli bale ra.
 024	Mekiramdam ya i Moises king usuk nang Jetro, ing katuangan na.
 025	Memili yang taung ating agyu karing memalen na ning Israel, at tilduan na lang talapangasiwa ning balen: atin yang tilduan manimuna para karing libu-libu, karing dina-dinalan, karing tia limang pulu, at para karing tia pulu katau.
 026	Menungkulan la bilang ukum da ring tau kabang-kaba.

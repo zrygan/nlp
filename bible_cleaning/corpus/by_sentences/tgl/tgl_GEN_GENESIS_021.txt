@@ -7,7 +7,8 @@ verse	content
 006	Sinabi ni Sara, Pinatawa ako ng Diyos, sinumang makarinig ay makikitawa sa akin.
 007	At sinabi niya, Sino ang magsasabi kay Abraham na si Sara ay magpapasuso ng mga anak?
 007	Ngunit ako'y nagkaanak pa sa kanya ng isang lalaki sa kanyang katandaan.
-008	Lumaki ang sanggol, at inawat sa pagsuso; at nagdaos ng malaking handaan si Abraham nang araw na ihiwalay sa pagsuso si Isaac.
+008	Lumaki ang sanggol, at inawat sa pagsuso;
+008	at nagdaos ng malaking handaan si Abraham nang araw na ihiwalay sa pagsuso si Isaac.
 009	Subalit nakita ni Sara ang anak ni Hagar na taga-Ehipto, na ipinanganak kay Abraham, na nakikipaglaro sa anak niyang si Isaac.
 010	Kaya't sinabi niya kay Abraham, Palayasin mo ang aliping ito at ang kanyang anak, sapagkat hindi magmamana ang anak ng aliping ito na kahati ng aking anak na si Isaac.
 011	Ang bagay na ito ay naging lubhang mabigat sa kalooban ni Abraham dahil sa kanyang anak.
@@ -20,8 +21,10 @@ verse	content
 015	Nang maubos ang tubig sa lalagyang-balat, kanyang inilapag ang bata sa ilalim ng isa sa mabababang puno.
 016	At siya'y umalis at umupo sa tapat ng bata na ang layo ay may isang banat ng pana at sinabi niya, Ayaw kong makita ang kamatayan ng bata.
 016	At pag-upo niya sa tapat ng bata, siya'y nagsisigaw at umiiyak.
-017	Narinig ng Diyos ang tinig ng bata; at mula sa langit ay tinawag ng anghel ng Diyos si Hagar at sinabi sa kanya, Napaano ka, Hagar?
-017	Huwag kang matakot; sapagkat narinig ng Diyos ang tinig ng bata sa kanyang kinalalagyan.
+017	Narinig ng Diyos ang tinig ng bata;
+017	at mula sa langit ay tinawag ng anghel ng Diyos si Hagar at sinabi sa kanya, Napaano ka, Hagar?
+017	Huwag kang matakot;
+017	sapagkat narinig ng Diyos ang tinig ng bata sa kanyang kinalalagyan.
 018	Tumindig ka, itayo mo ang bata at alalayan mo siya ng iyong kamay sapagkat siya'y gagawin kong isang malaking bansa.
 019	Binuksan ng Diyos ang kanyang mga mata at siya'y nakakita ng isang balon ng tubig.
 019	Pumunta siya roon at pinuno ng tubig ang lalagyang-balat at pinainom ang bata.
@@ -34,11 +37,13 @@ verse	content
 025	Nang sumbatan ni Abraham si Abimelec dahil sa isang balon ng tubig na sinamsam sa kanya ng mga tauhan ni Abimelec,
 026	ay sinabi ni Abimelec, Hindi ko alam kung sinong gumawa ng bagay na ito.
 026	Hindi mo naman sinabi sa akin, at hindi ko naman nabalitaan kundi ngayon.
-027	Kaya't kumuha si Abraham ng mga tupa at baka at ibinigay kay Abimelec; at silang dalawa ay gumawa ng isang tipan.
+027	Kaya't kumuha si Abraham ng mga tupa at baka at ibinigay kay Abimelec;
+027	at silang dalawa ay gumawa ng isang tipan.
 028	Nagbukod si Abraham ng pitong babaing kordero sa kawan.
 029	At sinabi ni Abimelec kay Abraham, Ano itong pitong babaing kordero na iyong ibinukod?
 030	Sinabi niya, Itong pitong babaing kordero ay iyong kukunin sa akin upang ikaw ay maging saksi ko na hinukay ko ang balong ito.
-031	Kaya't tinawag niya ang lugar na iyon bilang Beer-seba; sapagkat doon sila kapwa sumumpa.
+031	Kaya't tinawag niya ang lugar na iyon bilang Beer-seba;
+031	sapagkat doon sila kapwa sumumpa.
 032	Pagkatapos nilang gumawa ng isang tipan sa Beer-seba, tumindig si Abimelec at si Ficol na kapitan ng kanyang hukbo at bumalik sa lupain ng mga Filisteo.
 033	Nagtanim si Abraham ng isang punungkahoy ng tamarisko sa Beer-seba, at doon ay tinawag niya ang pangalan ng Panginoon , ang Walang Hanggang Diyos.
 034	At si Abraham ay tumira ng maraming araw bilang isang dayuhan sa lupain ng mga Filisteo.

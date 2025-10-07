@@ -26,8 +26,10 @@ verse	content
 013	Idi ibaonnak ti Dios a mapan iti sabali a daga, kinunak iti asawak, Adda naimbag a maaramidmo kaniak no, iti sadinoman a papananta, ibagam nga agkabsatta.
 014	Insubli ngarud ni Abimelec ni Sara ken ni Abraham.
 014	Inikkanna pay ni Abraham kadagiti karnero, baka ken tagabu.
-015	Kinunana ken ni Abraham, Adtoy ti entero a dagak; agyanka iti sadinoman a kayatmo a pagnaedan.
-016	Kinunana met ken ni Sara, Inikkak ni kabsatmo iti sangaribu a bagi ti pirak kas pammaneknek a saan a natulawan ti dayawmo; maammoanto ti tunggal maysa nga awan ti dakes nga inaramidmo.
+015	Kinunana ken ni Abraham, Adtoy ti entero a dagak;
+015	agyanka iti sadinoman a kayatmo a pagnaedan.
+016	Kinunana met ken ni Sara, Inikkak ni kabsatmo iti sangaribu a bagi ti pirak kas pammaneknek a saan a natulawan ti dayawmo;
+016	maammoanto ti tunggal maysa nga awan ti dakes nga inaramidmo.
 017	Gapu iti naaramid ken ni Sara nga asawa ni Abraham, dinusa ni Yahweh dagiti amin a babbai iti sangkabalayan ni Abimelec: saan nga impalubos ni Yahweh nga aganak dagiti babbai.
 017	Iti kasta, inkararagan ni Abraham ni Abimelec.
 017	Immimbag ti ari ket manipud idin, nagsikog ti asawa ni Abimelec ken dagiti babbai a tagabuna.

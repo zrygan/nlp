@@ -24,15 +24,19 @@ verse	content
 015	Subalit nagkaila si Sara, na sinasabi, Hindi ako tumawa, sapagkat siya'y natakot.
 015	Ngunit sinabi ng Panginoon , Hindi.
 015	Ikaw ay talagang tumawa.
-016	Tumindig mula roon ang mga lalaki at tumingin sa dakong Sodoma; at sinamahan sila ni Abraham upang ihatid sila sa daan.
+016	Tumindig mula roon ang mga lalaki at tumingin sa dakong Sodoma;
+016	at sinamahan sila ni Abraham upang ihatid sila sa daan.
 017	At sinabi ng Panginoon , Ililihim ko ba kay Abraham ang aking gagawin;
 018	yamang si Abraham ay magiging isang dakila at makapangyarihang bansa, at ang lahat ng bansa sa lupa ay pagpapalain sa pamamagitan niya?
-019	Hindi, sapagkat siya'y aking pinili upang kanyang tagubilinan ang kanyang mga anak at sambahayan pagkamatay niya, na maingatan ang daan ng Panginoon sa pamamagitan ng paggawa ng kabanalan at kahatulan; upang maibigay ng Panginoon kay Abraham ang ipinangako niya sa kanya.
+019	Hindi, sapagkat siya'y aking pinili upang kanyang tagubilinan ang kanyang mga anak at sambahayan pagkamatay niya, na maingatan ang daan ng Panginoon sa pamamagitan ng paggawa ng kabanalan at kahatulan;
+019	upang maibigay ng Panginoon kay Abraham ang ipinangako niya sa kanya.
 020	Sinabi ng Panginoon , Ang sigaw laban sa Sodoma at Gomorra ay malakas, at sapagkat ang kasalanan nila ay napakalubha,
-021	at bababa ako ngayon at titingnan ko kung ginawa nga nila ang ayon sa sigaw na dumating sa akin; at kung hindi ay aking malalaman.
+021	at bababa ako ngayon at titingnan ko kung ginawa nga nila ang ayon sa sigaw na dumating sa akin;
+021	at kung hindi ay aking malalaman.
 022	At ang mga lalaki ay lumayo mula roon at nagtungo sa Sodoma samantalang si Abraham ay nanatiling nakatayo sa harapan ng Panginoon .
 023	Lumapit si Abraham at nagsabi, Ang mga banal ba ay iyong lilipuling kasama ng mga masama?
-024	Halimbawang may limampung banal sa loob ng bayan; lilipulin mo ba at di mo patatawarin ang lugar na iyon alang-alang sa limampung banal na nasa loob noon?
+024	Halimbawang may limampung banal sa loob ng bayan;
+024	lilipulin mo ba at di mo patatawarin ang lugar na iyon alang-alang sa limampung banal na nasa loob noon?
 025	Malayong gagawa ka ng ganito, na ang banal ay iyong pataying kasama ng masama, anupa't ang banal ay makatulad sa masama!
 025	Malayong mangyari iyan!
 025	Di ba gagawa ng matuwid ang Hukom ng buong mundo?
@@ -48,6 +52,7 @@ verse	content
 031	At kanyang sinabi, Ako'y mangangahas magsalita sa Panginoon.
 031	Kung sakaling may matatagpuan doong dalawampu.
 031	At sinabi niya, Hindi ko lilipulin alang-alang sa dalawampu.
-032	Pagkatapos ay sinabi niya, O huwag magalit ang Panginoon at magsasalita na lamang akong minsan; kung sakaling may matatagpuan doong sampu.
+032	Pagkatapos ay sinabi niya, O huwag magalit ang Panginoon at magsasalita na lamang akong minsan;
+032	kung sakaling may matatagpuan doong sampu.
 032	At sinabi niya, Hindi ko lilipulin alang-alang sa sampu.
 033	At umalis ang Panginoon pagkatapos na makipag-usap kay Abraham at si Abraham ay nagbalik sa kanyang lugar.

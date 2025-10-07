@@ -8,10 +8,13 @@ verse	content
 004	Inkari ti Apo kadagiti kapuonanyo nga itedna kadakayo ti daga dagiti Cananeo, Heteo, Amorreo, Heveo ken Jebuseo.
 004	Nabaknang ken nabunga dayta a daga.
 004	Inton ipannakay iti dayta a daga, tinawen a rambakanyo daytoy a fiesta iti umuna a bulan.
-005	Iti las-ud ti pito nga aldaw, mangankay iti tinapay nga awan lebadurana; iti maikapito nga aldaw, agfiestakayo iti maipaay iti Apo .
-006	Pito nga aldaw a mangankayo iti tinapay nga awan lebadurana; masapul nga awan ti tinapay nga adda lebadurana wenno lebadura a masarakan iti dagayo.
+005	Iti las-ud ti pito nga aldaw, mangankay iti tinapay nga awan lebadurana;
+005	iti maikapito nga aldaw, agfiestakayo iti maipaay iti Apo .
+006	Pito nga aldaw a mangankayo iti tinapay nga awan lebadurana;
+006	masapul nga awan ti tinapay nga adda lebadurana wenno lebadura a masarakan iti dagayo.
 007	Inton mangrugi ti fiesta, ibagayo kadagiti annakyo nga aramidenyo daytoy kas panglagip iti panangispal ti Apo kadakayo idi impanawnakayo idiay Egipto.
-008	Agbalinto daytoy a fiesta a pakalaglagipan kas iti maiputipot iti imayo wenno iti mugingyo; ipalagipnanto kadakayo nga itultuloyyo a basaen ken adalen ti Linteg ti Apo , gapu ta inruarnakayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
+008	Agbalinto daytoy a fiesta a pakalaglagipan kas iti maiputipot iti imayo wenno iti mugingyo;
+008	ipalagipnanto kadakayo nga itultuloyyo a basaen ken adalen ti Linteg ti Apo , gapu ta inruarnakayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
 009	Tinawen a rambakanyo daytoy a fiesta iti naituding a tiempo.
 010	Intuloy ni Moises, Ipannakayto ti Apo iti daga dagiti Cananeo nga insapatana nga ited kadakayo ken kadagiti kapuonanyo.
 010	Inton maitedna kadakayo dayta a daga,
@@ -23,7 +26,8 @@ verse	content
 013	Iti masakbayan, no saludsodento ti anakyo no ania ti kayat a sawen daytoy, kunayonto, Babaen iti dakkel a pannakabalinna, inruarnakami ti Apo idiay Egipto, ti lugar a nakatagabuanmi.
 014	Idi impatangken ti ari ti Egipto a dinakami palubosan, pinatay ti Apo ti amin nga inauna nga anak a lalaki iti daga ti Egipto, tao ken animal.
 014	Daytoy ti gapuna nga idatontayo iti Apo ti amin nga inauna nga anak a lalaki dagiti animal, ngem subbotentayo ti inauna a lalaki nga anaktayo.
-015	Agbalinto daytoy a pakalaglagipan, kas maysa a banag a maiputipot iti imatayo wenno iti mugingtayo; ipalagipnanto kadatayo nga inruarnatayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
+015	Agbalinto daytoy a pakalaglagipan, kas maysa a banag a maiputipot iti imatayo wenno iti mugingtayo;
+015	ipalagipnanto kadatayo nga inruarnatayo ti Apo idiay Egipto babaen iti dakkel a pannakabalinna.
 016	Idi pinalubosan ti ari ti Egipto a pumanaw dagiti Israelita, saan nga inturong ti Dios ida iti dalan iti igid ti baybay nga agpa-Filistia, nupay as-asideg a pagnaenda.
 016	Kinuna ti Dios, Diak kayat nga agbabawi dagiti tattao ket agsublida idiay Egipto inton maammoanda a masapul a makigubatda.
 017	Inlikawna ida nga impan idiay let-ang nga agturong iti Nalabaga a Baybay.

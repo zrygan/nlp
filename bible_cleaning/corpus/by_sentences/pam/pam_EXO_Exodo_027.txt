@@ -1,15 +1,20 @@
 verse	content
 001	Gawa kayung altar king dutung a akasia.
-001	Kailangan ing kuadradu ya; pitu at kapitnang talampakan ya king kaba, pitu at kapitnang talampakan ya king lapad, at apat ampon kapitnang talampakan ya king katas.
+001	Kailangan ing kuadradu ya;
+001	pitu at kapitnang talampakan ya king kaba, pitu at kapitnang talampakan ya king lapad, at apat ampon kapitnang talampakan ya king katas.
 002	Mikabit kayung apat a sagu king babo da ring apat nang suluk, ita sanang makatuglung la mismu king altar, at balutanan yeng tangsu ing kabilugan.
 003	Gawa kayu namang pilulanan king abung mituluanan taba.
 003	Gawa kayu namang pala, palanggana, maragul a tinedor, at pipatawan api.
 003	Tangsu ing gamitan yung materialis para kareti ngan.
 004	Gawa kayu namang sala-salang tangsu at dinan yeng apat a pasingsing a tangsu karing apat nang suluk.
-005	Ibili ye iting sala-salang tangsu king lele na ning altar; ita sanang mamabut ya king kapitna na ning katas ning altar.
-006	Igawa yeng bitbitan ing altar king dutung a akasia; balutanan yeng tangsu.
-007	Ipasulud yu la deting bitbitan karing telasingsing na ning altar; ita sanang mingatba la king altar potang bibitbitan de.
-008	Gawan yeng kalubkuban ing altar at daligan yeng tabla; gawan ye agpang king planung pepakit ku keka king bunduk.
+005	Ibili ye iting sala-salang tangsu king lele na ning altar;
+005	ita sanang mamabut ya king kapitna na ning katas ning altar.
+006	Igawa yeng bitbitan ing altar king dutung a akasia;
+006	balutanan yeng tangsu.
+007	Ipasulud yu la deting bitbitan karing telasingsing na ning altar;
+007	ita sanang mingatba la king altar potang bibitbitan de.
+008	Gawan yeng kalubkuban ing altar at daligan yeng tabla;
+008	gawan ye agpang king planung pepakit ku keka king bunduk.
 009	Igawa ya namang patyu ing Tolda.
 009	Padurutnan ye karing tabing a gewa king linen a mapinu.
 009	Gawan yu lang limang pulung yarda king kaba ding tabing king dane mauli, at
@@ -22,7 +27,8 @@ verse	content
 015	Kailangan ing atin yang apat a asias, at apat a sulpakan iting tabing.
 016	Pitaidtaid la ding sablang asias a makapadurut king patyu karing baras a pilak.
 016	Kailangan ing pilak la naman at tangsu ding sabitan da at ding sulpakan.
-017	Kailangan ing lima yang pulung yarda king kaba ing sukad ning kabilugan a patyu; aduang pulu't limang yarda ya king lapad, at adua ampon kapitnang yarda ya king katas.
+017	Kailangan ing lima yang pulung yarda king kaba ing sukad ning kabilugan a patyu;
+017	aduang pulu't limang yarda ya king lapad, at adua ampon kapitnang yarda ya king katas.
 017	Kailangan la ngang gewa king linen a mapinu ding tabing at pawa la ngan tangsu ding sulpakan da.
 018	Kailangan la ngan tangsu ding sablang kasangkapan a magamit kilub ning Tolda at ding sablang tulus ning Tolda at ning patyu na.
 019	Iyutus mu karing memalen na ning Israel ing pagdala ra kang larung olibo a alang samut para karing sulu ban manatili lang milalablab.

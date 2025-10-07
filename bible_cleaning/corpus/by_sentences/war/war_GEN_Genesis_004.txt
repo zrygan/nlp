@@ -11,7 +11,8 @@ verse	content
 005	Napungot hin duro hi Cain ngan nagkuriot hiya hin kasina.
 006	Niyan nagsiring an Ginoo kan Cain, Kay ano nga nasisina ka?
 006	Kay ano nga nagkukuriot ka?
-007	Kon maupay an imo ginbuhat, mahiyomhiyom ka unta; kundi tungod nga maraot an imo ginbuhat, nagama ha imo an sala ngan karuyag na hikaptan ka niya, sanglit kinahanglan nga madaog ini nimo.
+007	Kon maupay an imo ginbuhat, mahiyomhiyom ka unta;
+007	kundi tungod nga maraot an imo ginbuhat, nagama ha imo an sala ngan karuyag na hikaptan ka niya, sanglit kinahanglan nga madaog ini nimo.
 008	Niyan nagsiring hi Cain kan Abel nga iya bugto, Tana, pakadto kita didto ha kaumhan.
 008	Han nakadto na hira han kaumhan, dinasmagan ni Cain an iya bugto ngan ginpatay niya.
 009	Pinmakiana kan Cain an Ginoo , Hain na hi Abel nga imo bugto?
@@ -20,7 +21,8 @@ verse	content
 011	Niyan nagsiring an Ginoo , Kay ano nga ginbuhat mo ini nga makangingirhat nga butang?
 011	Nagoliat ngadi ha akon tikang ha tuna an dugo han imo bugto sugad hin goliat hin pagbulos.
 012	Yana gagabaan ka ngan diri ka na makakag-uma han tuna nga hinumban han dugo han imo bugto ngan an tuna daw binmuka han iya baba basi makausop han dugo han imo bugto nga imo ginpatay.
-013	Kon mag-uma ka, diri mahatag hin bisan ano nga abot an tuna; maglilinayawlayaw ka nga waray himangkaagan ug urokyan ha bawbaw han tuna.
+013	Kon mag-uma ka, diri mahatag hin bisan ano nga abot an tuna;
+013	maglilinayawlayaw ka nga waray himangkaagan ug urokyan ha bawbaw han tuna.
 014	Ngan ginsiring ni Cain an Ginoo , Makuri ko ini maantos nga kastigo.
 015	Ginpapaiwas mo ako tikang han tuna ngan tikang ha imo atubangan.
 015	Maglilinayawlayaw ako nga waray urokyan ha bawbaw han tuna, ngan pagpapatayon ako han bisan hin-o nga makaagi ha akon.

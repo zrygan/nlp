@@ -29,7 +29,8 @@ verse	content
 013	Han pagkaaga na, gindara hini an mga duron.
 014	Nagkaabot ini nga pinangon nga mga duron ngan hinmugdon ha bug-os nga nasod.
 014	Amo ini an gidadakoi nga mga pangon hin mga duron nga hinkit-an tikang ha tinikangan ngan diri na gud hikikit-an liwat.
-015	Naluob hini an tuna tubtob nga nag-iritom na la ini hin duron; ginkaon hini an bisan ano nga nahisalin han pag-uranos han mga bato nga yelo, lakip an ngatanan nga mga bunga han kakahoyan.
+015	Naluob hini an tuna tubtob nga nag-iritom na la ini hin duron;
+015	ginkaon hini an bisan ano nga nahisalin han pag-uranos han mga bato nga yelo, lakip an ngatanan nga mga bunga han kakahoyan.
 015	Waray gud lapyo nga dahon nga nahisalin dida hin bisan ano nga kahoy o tanom ha bug-os nga tuna han Ehipto.
 016	Niyan ginpatawag hin kadagmitan han hadi hira Moises ug Aaron ngan ginsiring, Nakasala ako han Ginoo nga iyo Dyos ngan ha iyo.
 017	Yana pasayloa an akon sala hini yana nga takna ngan pag-ampo kamo han Ginoo nga iyo Dyos nga kuhaon tikang ha akon ini nga makamaratay nga kastigo.
@@ -41,10 +42,13 @@ verse	content
 022	Ginbayaw ni Moises tipalangit an iya kamot ngan nagsirom ha bug-os nga Ehipto sulod hin tulo ka adlaw.
 023	Waray na gud maggigikitaay an mga Ehiptohanon ngan waray hira gumawas han balay sulod hito nga panahon.
 023	Kundi may-ada kapawa an mga Israelita didto han ira gin-uokyan.
-024	Gintawag han hadi hi Moises ngan ginsiring, Makakalakat na kamo hin pagsingba han Ginoo ; makakaupod ha iyo bisan an iyo kababayen-an ngan kabataan.
+024	Gintawag han hadi hi Moises ngan ginsiring, Makakalakat na kamo hin pagsingba han Ginoo ;
+024	makakaupod ha iyo bisan an iyo kababayen-an ngan kabataan.
 024	Kundi kinahanglan magpabilin dinhe an iyo mga karnero, mga kanding, ngan mga baka.
 025	Binmaton hi Moises, Kon sugad, ikaw an mahatag ha amon hin mga mananap para hin mga halad nga tinubod nga ighahalad ngadto han Ginoo nga amon Dyos.
-026	Diri; dadad-on namon an amon kahayopan; waray igbibilin bisan mausa.
+026	Diri;
+026	dadad-on namon an amon kahayopan;
+026	waray igbibilin bisan mausa.
 026	Kinahanglan kami ngahaw an magpipili han kahayopan nga gagamiton namon hin pagsingba han Ginoo nga amon Dyos.
 026	Diri kami mahibabaro kon ano nga mga mananap an ighahalad ha iya tubtob han amon pag-abot didto.
 027	Ginpatig-a han Ginoo an kasingkasing han hadi ngan waray gud hiya tumugot nga lumakat hira.

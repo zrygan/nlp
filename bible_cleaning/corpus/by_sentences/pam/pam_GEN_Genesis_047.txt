@@ -1,5 +1,6 @@
 verse	content
-001	Minta ya i Jose king ari at ngana, Makamal a Ari, atyu ne pu i tata ku at ding kapatad ku; ibat la Canaan at daralan da la ring kawan da, at aliwa pang sese rang animal ampon ing sabla rang pibandian.
+001	Minta ya i Jose king ari at ngana, Makamal a Ari, atyu ne pu i tata ku at ding kapatad ku;
+001	ibat la Canaan at daralan da la ring kawan da, at aliwa pang sese rang animal ampon ing sabla rang pibandian.
 001	Atyu la king sakup ning Gosen.
 002	Mituki yang lima karing kapatad na i Jose at tiki na la at dela king ari.
 003	Ngana ning ari karing kapatad nang Jose, Nanu ing kapanintunan yu?
@@ -8,30 +9,36 @@ verse	content
 005	Ala nang apagpastulan para karing kekaming kawan uling tutu yang mabagsik ing danup a digpa king Canaan.
 005	Nung paintulut yu, bisa ke sana pung manuknangan king Gosen.
 006	Kanita ngana ning ari kang Jose, Detangan na kang tata mu at ding kapatad mu.
-007	Ngening ika ing mamahala king mabilug a Ehipto patuknangan me i tata mu at ding kapatad mu king pekamasanting a gabun; patuknangan mu la Gosen.
+007	Ngening ika ing mamahala king mabilug a Ehipto patuknangan me i tata mu at ding kapatad mu king pekamasanting a gabun;
+007	patuknangan mu la Gosen.
 007	Nung atin kang apili karelang biasang magpastul, ipanibala mu la karela ding kanakung kawan.
 008	Kanita linub neng Jose i Jacob a tata na at dela arapan na ning ari.
 008	Binendisyunan neng Jacob ing ari.
 009	Ngana ning ari kang Jacob, Pilan na kayung banua?
 010	Dinalan na ku pu at atlung pulung banua, nganang mekibat Jacob.
-010	Makuyad la pu reti at masakit ku delanan king bie; karayu na pu ning bie ku ketang delanan ding pipumpunan ku.
+010	Makuyad la pu reti at masakit ku delanan king bie;
+010	karayu na pu ning bie ku ketang delanan ding pipumpunan ku.
 011	Binendisyunan neng Jacob ing ari at kaybat meko ne.
 012	King utus na ning ari tiknang neng Jose i tata na at ding kapatad na king pekamasanting a gabun ning bansa ning Ehipto, king siudad ning Rameses.
 013	Sikasuan nang Jose ing kabiayan da ri tata na, ding kapatad na, at ding karelang pamilya angga na karing pekayanak dili.
 014	Migkasakit la ring tau king danup inyang megisan na ing pagkabie king mabilug a Canaan at Ehipto.
 015	Tinipun na lang Jose ding salaping pemayad da ring tau Ehipto at Canaan king pamangan a seli ra.
-016	Inyang megisan na la salapi ring tau Ehipto at Canaan, pigsarian de ring sablang tau Ehipto i Jose at ngara, Dinan mu kaming pamangan; kailangan wari ing mate kami king akakit mo?
+016	Inyang megisan na la salapi ring tau Ehipto at Canaan, pigsarian de ring sablang tau Ehipto i Jose at ngara, Dinan mu kaming pamangan;
+016	kailangan wari ing mate kami king akakit mo?
 016	Ala na kaming salapi!
 017	Idala yu la kanaku ding animal a sese yu, nganang Jose karela, nung ala na kayung salapi, libayan ku lang pamangan.
-018	Inya dela da la kang Jose ding sese rang animal; pekilibe da lang pamangan ding karelang kabayu, tupa, kambing, baka, at asno.
+018	Inya dela da la kang Jose ding sese rang animal;
+018	pekilibe da lang pamangan ding karelang kabayu, tupa, kambing, baka, at asno.
 018	Pabanua na no mang dirinan pamangan Jose.
 019	Kalabas na ning pabanua lepitan da ne naman ding tau.
-019	Ngara, E makalingad kekayu, makamal a ginu, ing ala na keng salapi; pati ring animal ming sese kekayu na la.
+019	Ngara, E makalingad kekayu, makamal a ginu, ing ala na keng salapi;
+019	pati ring animal ming sese kekayu na la.
 019	Ala nang mitatagan kekami subali mu ding kekaming katawan at asikan.
 020	E yu ke paburen mate at e yu paintulut ing ala keng atanam karing asikan mi.
 020	Dinan yu kaming pamangan at dinan bini para karing kekaming asikan ban e kami mate.
 020	E baling pa-ipus na ke pa mu king ari at misangla la king ari ding kekaming asikan.
-021	Makanyan nang asaling Jose ing gabun da ring tau Ehipto para king ari; uling tutung maragul ing danup a digpa karin, inya pati gabun da pemisali ra.
+021	Makanyan nang asaling Jose ing gabun da ring tau Ehipto para king ari;
+021	uling tutung maragul ing danup a digpa karin, inya pati gabun da pemisali ra.
 022	Meging ipus na la ning ari ding sablang tau Ehipto.
 023	Bukud mung ing gabun da ring pari ya ing e na asali, uling sustentadu la king ari.
 023	Iti yang pagkabie ra, inya e ra pemisali ing karelang gabun.

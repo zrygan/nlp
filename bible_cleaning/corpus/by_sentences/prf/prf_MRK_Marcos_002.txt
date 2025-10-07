@@ -51,5 +51,6 @@ verse	content
 025	Kaya summddp siya ten bilay nen Diyos sakay inalap na en alay a tinapay para ten Diyos sakay kinan di.
 025	Bawal iyud ten kautusan gapu padi la en maari a mangkan haud.
 025	Peru kinan iyud ni David sakay intdenan na pa en kaguman na hidi.
-026	Kinagi pa ni Jesus, En Aldew nen Kimang ay intakda para ten kapiyyaan nen tolay; bakn a linalang en tolay para ten Aldew nen Kimang.
+026	Kinagi pa ni Jesus, En Aldew nen Kimang ay intakda para ten kapiyyaan nen tolay;
+026	bakn a linalang en tolay para ten Aldew nen Kimang.
 027	Kaya maski en Aldew nen Kimang ay ked ten kapangyariyan nen Anak nen Tolay.

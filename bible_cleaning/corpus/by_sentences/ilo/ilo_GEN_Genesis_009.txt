@@ -5,7 +5,8 @@ verse	content
 002	Mayawatda amin iti turayyo.
 003	Ita, mabalinyo a kanen dagitoy, kasta met dagiti nalangto a mula.
 003	Itedko amin dagitoy a taraonyo.
-004	Adda laeng banag a saanyo a kanenti karne nga adda pay laeng darana; ngamin, ti biag adda iti dara.
+004	Adda laeng banag a saanyo a kanenti karne nga adda pay laeng darana;
+004	ngamin, ti biag adda iti dara.
 005	No adda mangpatay iti tao, patayek met, uray ti animal.
 005	Patayek met ti siasinoman a mangpatay iti padana a tao.
 006	Siasinoman a mangpatay iti tao, patayento met ti padana a tao.
@@ -26,10 +27,12 @@ verse	content
 018	Ni Ham ti tatang ni Canaan.
 019	Isuda a tallo ti kapuonan dagiti amin a tattao ditoy daga.
 020	Mannalon ni Noe ket isu ti immuna a nagmula iti ubas.
-021	Iti naminsan, nabartek iti yiinumna iti arak ti ubas; inuksobna ti pagan-anayna sa nagidda a lamolamo iti toldana.
+021	Iti naminsan, nabartek iti yiinumna iti arak ti ubas;
+021	inuksobna ti pagan-anayna sa nagidda a lamolamo iti toldana.
 022	Idi nakita ni Ham a lamolamo ti amana, napanna imbaga kadagiti dua a kakabsatna.
 023	Nangala da Sem ken Jafet iti kagay ket inyabadayda kadagiti abagada.
-023	Simrekda a sitatallikud iti tolda sada inabbongan ti bagi ni tatangda; saanda a simmango tapno saanda a makita a lamolamo.
+023	Simrekda a sitatallikud iti tolda sada inabbongan ti bagi ni tatangda;
+023	saanda a simmango tapno saanda a makita a lamolamo.
 024	Idi namunawan ni Noe ket naammoanna ti inaramid ti inaudi nga anakna,
 025	kinunana,
 026	Mailunod koma ni Canaan!

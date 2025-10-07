@@ -2,16 +2,19 @@ verse	content
 001	Ang ahas nga ay higit na tuso kaysa alinman sa mga mailap na hayop sa parang na nilikha ng Panginoong Diyos.
 001	Sinabi niya sa babae, Sinabi ba ng Diyos, Huwag ninyong kakainin ang mula sa alinmang punungkahoy sa halamanan?
 002	At sinabi ng babae sa ahas, Makakain namin ang bunga ng mga punungkahoy sa halamanan;
-003	subalit sinabi ng Diyos, Huwag ninyong kakainin ang bunga ng punungkahoy na nasa gitna ng halamanan; huwag din ninyo itong hihipuin, kundi kayo'y mamamatay.
+003	subalit sinabi ng Diyos, Huwag ninyong kakainin ang bunga ng punungkahoy na nasa gitna ng halamanan;
+003	huwag din ninyo itong hihipuin, kundi kayo'y mamamatay.
 004	Subalit sinabi ng ahas sa babae, Tiyak na hindi kayo mamamatay.
 005	Sapagkat nalalaman ng Diyos na kapag kayo'y kumain noon ay mabubuksan ang inyong mga mata, at kayo'y magiging kagaya ng Diyos, na nakakakilala ng mabuti at masama.
-006	Kaya't nang makita ng babae na ang bunga ng punungkahoy ay mabuting kainin, nakakalugod sa paningin, na dapat nasain upang maging matalino, siya ay pumitas ng bunga nito at kinain ito; at binigyan din niya ang kanyang asawa na kasama niya, at siya'y kumain.
+006	Kaya't nang makita ng babae na ang bunga ng punungkahoy ay mabuting kainin, nakakalugod sa paningin, na dapat nasain upang maging matalino, siya ay pumitas ng bunga nito at kinain ito;
+006	at binigyan din niya ang kanyang asawa na kasama niya, at siya'y kumain.
 007	At parehong nabuksan ang kanilang mga mata, at nalaman nilang sila'y mga hubad.
 007	Magkasama silang nagtahi ng mga dahon ng puno ng igos, at kanilang ginawang panakip.
 008	Narinig nila ang tinig ng Panginoong Diyos na lumalakad sa halamanan sa malamig na bahagi ng maghapon.
 008	Nagtago ang lalaki at ang kanyang asawa sa Panginoong Diyos sa mga punungkahoy sa halamanan.
 009	Tinawag ng Panginoong Diyos ang lalaki at sa kanya'y sinabi, Saan ka naroon?
-010	Sinabi niya, Narinig ko ang iyong tinig sa halamanan at ako'y natakot, sapagkat ako'y hubad; at ako'y nagtago.
+010	Sinabi niya, Narinig ko ang iyong tinig sa halamanan at ako'y natakot, sapagkat ako'y hubad;
+010	at ako'y nagtago.
 011	At sinabi niya, Sinong nagsabi sa iyong ikaw ay hubad?
 011	Kumain ka ba ng bunga ng punungkahoy, na iniutos ko sa iyong huwag mong kainin?
 012	Sinabi ng lalaki, Ang babaing ibinigay mo na aking makakasama ang nagbigay sa akin ng bunga ng punungkahoy at ito'y aking kinain.
@@ -50,6 +53,8 @@ verse	content
 044	at sa alabok ka babalik.
 045	Tinawag ng lalaki ang kanyang asawa na Eva sapagkat siya ang naging ina ng lahat ng mga nabubuhay.
 046	At iginawa ng Panginoong Diyos si Adan at ang kanyang asawa ng mga kasuotang balat at sila'y dinamitan.
-047	Sinabi ng Panginoong Diyos, Tingnan ninyo, ang tao'y naging parang isa sa atin, na nakakakilala ng mabuti at ng masama; at ngayon, baka iunat ang kanyang kamay at pumitas din ng bunga ng punungkahoy ng buhay, at kumain, at mabuhay magpakailanman.
+047	Sinabi ng Panginoong Diyos, Tingnan ninyo, ang tao'y naging parang isa sa atin, na nakakakilala ng mabuti at ng masama;
+047	at ngayon, baka iunat ang kanyang kamay at pumitas din ng bunga ng punungkahoy ng buhay, at kumain, at mabuhay magpakailanman.
 048	Kaya't pinalayas siya ng Panginoong Diyos sa halamanan ng Eden upang kanyang bungkalin ang lupaing pinagkunan sa kanya.
-049	At kanyang itinaboy ang lalaki; at inilagay sa silanganan ng halamanan ng Eden ang mga kerubin at ang isang nagniningas na tabak na umiikot, upang bantayan ang daang patungo sa punungkahoy ng buhay.
+049	At kanyang itinaboy ang lalaki;
+049	at inilagay sa silanganan ng halamanan ng Eden ang mga kerubin at ang isang nagniningas na tabak na umiikot, upang bantayan ang daang patungo sa punungkahoy ng buhay.

@@ -7,13 +7,15 @@ verse	content
 005	Naaraman ni Jacob na linupigan ni Shekem an aki niyang si Dina alagad huli ta nagpapastor pa kan mga hayop sa kaomahan an mga aki niyang lalaki, dai siya naggibo nin ano man sagkod na dai pa sinda nagpuli.
 006	Nagduman ki Jacob si Hamor na ama ni Shekem tanganing makiolay saiya.
 007	Nag-abot an mga aking lalaki ni Jacob asin kan maaraman ninda an nangyari, nabigla sinda asin naanggot nin marahay huli ta sarong insulto sa mga Israelita an ginibong panlupig ni Shekem sa aki ni Jacob.
-008	Olay ni Hamor, Namomoot nin marahay an aki kong si Shekem sa aki mong si Dina; nakikimaherak akong itao mo na si Dina saiya bilang agom.
+008	Olay ni Hamor, Namomoot nin marahay an aki kong si Shekem sa aki mong si Dina;
+008	nakikimaherak akong itao mo na si Dina saiya bilang agom.
 009	Magkaoyon logod kita na pwedeng mag-inaragoman an satong mga nasasakopan.
 010	Dangan pwede na kamong mag-erok sa kaibahan mi, magnegosyo asin magsadiri nin daga digdi.
 011	Sinabihan man ni Shekem si Jacob asin an mga tugang na lalaki ni Dina, Tawan nindo sako an saindong marahay na boot asin itatao ko saindo an ano man na hagadon nindo.
 012	Sabihan nindo sako an ano man na regalo saka dote sa kasal, asin itatao ko saindo, kun tugotan nindo akong agomon siya.
 013	Alagad huli ta linupigan ni Shekem an saindang tugang na si Dina, nagsimbag ki Shekem asin ki Hamor an mga aking lalaki ni Jacob sa madayang paagi.
-014	Olay ninda, Dai kami matugot na itao an samong tugang sa sarong lalaking bakong serkomsisyonado; dakulang insulto iyan sa samo.
+014	Olay ninda, Dai kami matugot na itao an samong tugang sa sarong lalaking bakong serkomsisyonado;
+014	dakulang insulto iyan sa samo.
 015	Matugot sana kami sa kondisyon na magpasirkomsisyon kamo arog samo, asin magpasirkomsisyon man an gabos na lalaki saindo.
 016	Dangan maoyon kami na makipag-agoman saindo.
 016	Maerok kami sa saindong daga asin magigin mga kahimanwa nindo.
@@ -22,7 +24,8 @@ verse	content
 019	Kaya ginibo tolos kan hoben an hinagad saiya, huli ta namotan niya si Dina.
 019	Siya an pinakaimportanteng myembro kan saiyang pamilya.
 020	Nagduman sa trangkahan kan syudad si Hamor asin an aki niyang si Shekem, dangan sinabihan an mga kalalakihan,
-021	Maboot an mga tawong ini; tugotan ta sindang mag-erok sa kaibahan nyato asin magnegosyo digdi, huli ta dakula man an satong daga.
+021	Maboot an mga tawong ini;
+021	tugotan ta sindang mag-erok sa kaibahan nyato asin magnegosyo digdi, huli ta dakula man an satong daga.
 021	Pwede tang agomon an saindang kadaragahan asin pwede man sindang mag-agom kan satong kadaragahan.
 022	Alagad maerok sana sinda digdi asin magigin kahimanwa nyato, kun an gabos na lalaki digdi sato magpasirkomsisyon arog sainda.
 023	Bako daw na mapapasato an gabos nindang hayop asin rogaring?
@@ -33,7 +36,10 @@ verse	content
 026	Dangan kinua ninda si Dina sa harong ni Shekem asin naghale.
 027	Pakatapos, sinamsam kan iba pang aki ni Jacob an gabos na yaon sa syudad bilang pagbalos sa kasosopgan na inabot kan saindang tugang na babae.
 028	Kinua ninda an mga hayopbaka, asno, asin an gabos na yaon sa syudad sagkod sa kaomahan.
-029	Kinua ninda an gabos na mahahalagang bagay asin binihag ninda an gabos na babae saka aki; kinua man ninda an gabos na yaon sa mga harong.
-030	Nagsabi si Jacob ki Simeon asin ki Levi, Dinarahan nindo ako nin problema; maaanggot sako an mga Cananeo, mga Perezeo saka an gabos na nag-eerok digdi sa daga.
-030	Dikit an tawohan ko; kun magkaboronyog sinda laban sako asin salakayon ako, magagadan an bilog tang pamilya.
+029	Kinua ninda an gabos na mahahalagang bagay asin binihag ninda an gabos na babae saka aki;
+029	kinua man ninda an gabos na yaon sa mga harong.
+030	Nagsabi si Jacob ki Simeon asin ki Levi, Dinarahan nindo ako nin problema;
+030	maaanggot sako an mga Cananeo, mga Perezeo saka an gabos na nag-eerok digdi sa daga.
+030	Dikit an tawohan ko;
+030	kun magkaboronyog sinda laban sako asin salakayon ako, magagadan an bilog tang pamilya.
 031	Alagad nagsimbag sinda, Dai mi maaako na an samong tugang na babae iarog sa sarong maraot na babae.

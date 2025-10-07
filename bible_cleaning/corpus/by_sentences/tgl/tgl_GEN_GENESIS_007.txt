@@ -1,7 +1,9 @@
 verse	content
 001	At sinabi ng Panginoon kay Noe, Ikaw at ang iyong buong sambahayan ay sumakay sa daong sapagkat nakita kong ikaw lamang ang matuwid sa harap ko sa lahing ito.
-002	Kumuha ka ng tigpipito sa bawat malinis na hayop, lalaki at babae; at dalawa sa mga hayop na hindi malinis, lalaki at babae.
-003	Kumuha ka ng tigpipito sa mga ibon sa himpapawid, lalaki at babae; upang panatilihing buhy ang kanilang uri sa ibabaw ng lupa.
+002	Kumuha ka ng tigpipito sa bawat malinis na hayop, lalaki at babae;
+002	at dalawa sa mga hayop na hindi malinis, lalaki at babae.
+003	Kumuha ka ng tigpipito sa mga ibon sa himpapawid, lalaki at babae;
+003	upang panatilihing buhy ang kanilang uri sa ibabaw ng lupa.
 004	Sapagkat pagkaraan ng pitong araw, magpapaulan ako sa ibabaw ng lupa ng apatnapung araw at apatnapung gabi.
 004	Aking pupuksain ang lahat ng may buhay na aking nilikha sa balat ng lupa.
 005	At ginawa ni Noe ang ayon sa lahat ng iniutos sa kanya ng Panginoon .

@@ -20,7 +20,8 @@ verse	content
 010	Nganang Moises kang Josue, Mamili kang mapilan karing lalaki at bukas puntalan yu la at labanan ding Amalekita.
 010	Talakad ku king taluktuk ning bunduk-bundukan kabang tatalnan ke ing tukud ning Dios.
 011	Depat nang Josue itang inutus nang Moises, at meko yang mekilaban karing Amalekita kabang i Moises, i Aaron ampon i Hur minukiat no man king taluktuk ning bunduk-bundukan.
-012	Kabud itas na lang Moises ding gamat na, ding Israelita ila ding maniambut; potang ibaba na lang Moises ding gamat na, ding Amalekita ila naman ding maniambut.
+012	Kabud itas na lang Moises ding gamat na, ding Israelita ila ding maniambut;
+012	potang ibaba na lang Moises ding gamat na, ding Amalekita ila naman ding maniambut.
 013	Inyang menikal la ding gamat nang Moises kinangwa lang batung maragul di Aaron at Hur a apiluklukan na.
 013	Kaybat tinalakad lang mingatba king siping na, at telan da la ring gamat na ba lang e magbaba.
 013	E da la pepaburen migbaba ding gamat na angga king limbug ne ing aldo.

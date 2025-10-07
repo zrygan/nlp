@@ -1,7 +1,8 @@
 verse	content
 001	Intuloy nen Jacob so pankukurang to.
 001	Inabet na pigaran anghil.
-002	Nen anengneng to ra, inkuanto, Kampo ya na Dios; kanyan inngaran to man a pasen na Mahanaim.
+002	Nen anengneng to ra, inkuanto, Kampo ya na Dios;
+002	kanyan inngaran to man a pasen na Mahanaim.
 003	Angibakiy Jacob na totoo to ed kinen agi ton Esau diad dalin na Edom.
 004	Imbilin tod sikaran onyay ibaga ra: Siak a si Jacob, say mapaabeban aripen mo, ipapakabat kod sika Esau, ya abayag ak a nanayam ed kindi pangamaen tan Laban tan natan ak labat ompawil.
 005	Wala ray bakak, asno, kanding, karniro, tan aripen ko.
@@ -17,7 +18,8 @@ verse	content
 010	Binaliw koy Jordan ya anggapoy awit ko no ag say baston labat, balet natan pinmawil ak a kaibak ira yan duaran olup.
 011	Kerewen kod sika ya iyagel mo ak ed kinen Esau.
 011	Antakot ak ta ompan onla dian ondogpad sikami et pateyen to kamin amin, pati saray bibii tan saray ogogaw.
-012	Ag mo pa lilingwanan ya insipan mon ag mo ak paolyan pian maung so pansumpalan ko; insipan mo met ya itdan mo ak na saray kabyangay boleg ko a diad kinarakel da et ag ira nabilang, ta singa kinarakel na buer ed gilig na dayat so bilang da.
+012	Ag mo pa lilingwanan ya insipan mon ag mo ak paolyan pian maung so pansumpalan ko;
+012	insipan mo met ya itdan mo ak na saray kabyangay boleg ko a diad kinarakel da et ag ira nabilang, ta singa kinarakel na buer ed gilig na dayat so bilang da.
 013	Kasumpal na impamalabas day labid man, nampiliy Jacob ed saray ayayep to na irigalo tod kinen Esau: duan lasus a kabatyan a kanding tan duamplon kanding a kalakyan, duan lasus a kabatyan a karniro tan duamplon karniron kalakyan, talomplon kamilyon mampapasuso tan saray kilaw da, apataplon kabatyan a baka tan samploran bakan kalakyan, duamplon kabatyan ya asno tan samploran asno a kalakyan.
 014	Impansisian to rad pigaran grupo tan impaasikaso tod sakey ya aripen to so balang grupo.
 014	Inkuantod sikara, Onona kayo, balet panaarawian yoy balang sakey a grupo.
@@ -41,10 +43,13 @@ verse	content
 027	tepet na samay too.
 028	Jacob, ebat to.
 029	Inkuanto may too, Aliwa lan Jacob so ngaran mo.
-029	Akibalsakan kad Dios tan saray totoo, et analo ka; kanyan Israel la so ngaran mo.
+029	Akibalsakan kad Dios tan saray totoo, et analo ka;
+029	kanyan Israel la so ngaran mo.
 030	Inkuanen Jacob, Ibagam met sirin so ngaran mo.
 031	Balet inmebat, Akin et labay mo nin naamtaan so ngaran ko?
 031	Binindisionan tod satan si Jacob.
-032	Inkuanen Jacob, Anengneng koy Dios ed lupa-lupaan, et mabilay ak ni; kanyan inngaran toy Peniel iman a pasen.
-033	Pinmaway lay agew nen ontataynan lay Jacob manlapud Peniel; mankitley lapud samay tapi to.
+032	Inkuanen Jacob, Anengneng koy Dios ed lupa-lupaan, et mabilay ak ni;
+032	kanyan inngaran toy Peniel iman a pasen.
+033	Pinmaway lay agew nen ontataynan lay Jacob manlapud Peniel;
+033	mankitley lapud samay tapi to.
 034	Anggad natan, ag mangakan iray kabyangay boleg nen Israel na laman na tapi, ta diad sayan laman so aponiti ed kinen Jacob.

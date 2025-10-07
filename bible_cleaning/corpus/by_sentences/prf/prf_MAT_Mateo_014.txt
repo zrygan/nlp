@@ -11,7 +11,8 @@ verse	content
 008	Gapu ten sulsul nen ina na ay kinagi nen dalaga, Mahal a hari, gustu kuwid a iyatd mu dikoku nadid bi ay en ulu ni Juan a Mgbinyag a nakadtton ti penggan.
 009	Ten dikona a masanig iyud ni Herodes ay minalungkut siya ti hustu, peru gapu ten pangaku na a nasanig nen bisita na hidi ay inyutus na a iyatd iyud ten dalaga.
 010	Kaya angay na pinaputol en ulu ni Juan ten pgpiresuwan.
-011	Sakay indtton di ten essa a penggan en ulu na sakay inyatd di ten dalaga; sakay inyangay na bi iyud ten ina na.
+011	Sakay indtton di ten essa a penggan en ulu na sakay inyatd di ten dalaga;
+011	sakay inyangay na bi iyud ten ina na.
 012	Dummemt en disepulus hidi ni Juan, inalap di en bangkay na sakay inlbbng di.
 012	Sakay imbareta di knni Jesus en nangyari.
 013	Ten dikona mabareta iyud ni Jesus ay summakay siya ten abeng sakay ummangay ten lugar a awan ti tolay.

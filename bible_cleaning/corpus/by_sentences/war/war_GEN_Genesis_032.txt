@@ -1,6 +1,7 @@
 verse	content
 001	Han nagpapadayon hin paglakat hi Jacob, tinmapo ha iya in mga anghel.
-002	Han paghikit-i niya ha ira, nagsiring hiya, Kampo ini ha Dyos; sanglit ginngaranan niya nga Mahanaim an dapit.
+002	Han paghikit-i niya ha ira, nagsiring hiya, Kampo ini ha Dyos;
+002	sanglit ginngaranan niya nga Mahanaim an dapit.
 003	Nagpauna hi Jacob hin mga surugoon ngadto kan Esau nga iya bugto didto ha tuna han Edumea.
 004	Iya gintugon hira hin pagsiring: Ako, hi Jacob nga imo masinugtanon nga surugoon, nagsusumat han akon agaron nga hi Esau, nga nag-ukoy ako upod kan Laban ngan nalangan ako hin pagbalik ngada yana.
 005	May-ada ako mga baka, mga asno, mga karnero, mga kanding, ngan mga oripon.
@@ -41,10 +42,12 @@ verse	content
 027	pinmakiana an tawo.
 028	Jacob, binmaton hiya.
 029	Nagsiring an tawo, Diri na Jacob an imo ngaran.
-029	Nakigdulong ka han Dyos ngan han mga tawo, ngan nagdaog ka; sanglit Israel na an imo ngaran.
+029	Nakigdulong ka han Dyos ngan han mga tawo, ngan nagdaog ka;
+029	sanglit Israel na an imo ngaran.
 030	Nagsiring hi Jacob, Yana pagsumati ako han imo ngaran.
 031	Kundi binmaton hiya, Kay ano nga karuyag mo mahibaro han akon ngaran?
 031	Ngan ginbendisyonan niya hi Jacob.
-032	Nagsiring hi Jacob, Iginkaatubang ko gud an Dyos ngan buhi pa man gihapon ako; sanglit iya ginngaranan nga Peniel adto nga dapit.
+032	Nagsiring hi Jacob, Iginkaatubang ko gud an Dyos ngan buhi pa man gihapon ako;
+032	sanglit iya ginngaranan nga Peniel adto nga dapit.
 033	Nasirang na an adlaw han pagtalikod ni Jacob han Peniel, ngan nag-iingka hiya tungod han kaigo han iya pig-i.
 034	Bisan ngada yana nga adlaw diri nakaon an mga tulin ni Israel han ugaton nga unod nga tungod gud han pig-i, kay dida gud hini nga ugat naigo hi Jacob.

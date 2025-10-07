@@ -15,7 +15,8 @@ verse	content
 010	Naghulat hiya hin pito pa ka adlaw ngan ginpagawas na liwat an sarapati.
 011	Binmalik ini ha iya han pagkagab-i nga nakakabanga hin lapyo pa nga dahon hin olibo.
 011	Sanglit nakasabot hi Noe nga hinmubas na an tubig.
-012	Niyan naghulat hiya hin pito pa ka adlaw ngan ginpagawas na liwat niya an sarapati; hini nga takna, waray na ini bumalik.
+012	Niyan naghulat hiya hin pito pa ka adlaw ngan ginpagawas na liwat niya an sarapati;
+012	hini nga takna, waray na ini bumalik.
 013	Han 601 na an panuigon ni Noe, dida han syahan nga adlaw han syahan nga bulan, hinmubas na gud an tubig.
 013	Kinuha ni Noe an tahob han arka, tinman-aw hiya ha palibot ngan hinkit-an niya nga nagtitikamara na an tuna.
 014	Dida han ika 27 nga adlaw han ikaduha nga bulan, mamara na gud an tuna.
@@ -26,7 +27,8 @@ verse	content
 019	Nagkagawas han arka an ngatanan nga kamanampan ug katamsihan nga burunyog dida han tagsa nira nga panon.
 020	Nagtindog hi Noe hin usa nga altar ngadto han Ginoo .
 020	Kinmuha hiya hin usa han tagsa nga mananap ug tamsi nga malinis para hin paghalad ngan gintubod ini hin bug-os dida han altar.
-021	Hinamotan an Ginoo han alimyon han halad, ngan nagsiring hiya ha iya ngahaw, Diri ko na gud tutunglohon an tuna tungod han binubuhat han tawo; maaram ako nga tikang pa han iya pagkabata maraot na an iya mga panhunahuna.
+021	Hinamotan an Ginoo han alimyon han halad, ngan nagsiring hiya ha iya ngahaw, Diri ko na gud tutunglohon an tuna tungod han binubuhat han tawo;
+021	maaram ako nga tikang pa han iya pagkabata maraot na an iya mga panhunahuna.
 021	Diri ko na gud pagpupuohon an ngatanan nga buhi nga mga binuhat sugad han akon ginbuhat yana.
 022	Samtang aada pa an kalibutan, magkakamay-ada panahon hin pagtanom ngan panahon hin pag-ani.
 022	Dayuday magkakamay-ada kathagkot ngan katsirak, kathuraw ngan kat-uran, kaadlawon ngan kagab-ihon.

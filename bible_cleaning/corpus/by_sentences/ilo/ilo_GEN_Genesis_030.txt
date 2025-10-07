@@ -39,7 +39,8 @@ verse	content
 021	Pinanagananna ngarud ti ubing iti Zabulon.
 022	Ket kalpasanna, naganak iti babai a pinanagananna iti Dina.
 023	Kamaudianna, naasian met laeng ti Dios ken ni Raquel.
-023	Impangagna ti kararagna; inikkanna iti gundaway nga aganak.
+023	Impangagna ti kararagna;
+023	inikkanna iti gundaway nga aganak.
 024	Nagsikog ni Raquel ket naganak iti lalaki.
 024	Kinunana, Inikkat ti Dios ti pakaibabainak gapu iti pannangtedna kaniak iti anak.
 025	Ikkannak koma ti Apo iti sabali pay nga anak a lalaki.

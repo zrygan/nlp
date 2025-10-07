@@ -3,20 +3,24 @@ verse	content
 001	Toluk kad siak tan gawam lawas so kamaungan.
 002	Misipanan ak ed sika tan itdan ta kay amayamay a kabyangay boleg mo.
 003	Dinmakmomoy Abram ya anggad dalin so lupa to, insan inkuan na Dios.
-004	Misipanan ak ed sika; pagmaliwen ta kan ama na amayamay a bansa.
+004	Misipanan ak ed sika;
+004	pagmaliwen ta kan ama na amayamay a bansa.
 005	Aliwa lan Abram so ngaran mo, no ag ta Abraham la, ta gawaen ta kan ama na amayamay a bansa.
 006	Amayamay so iter kod sikan kabyangay boleg mo, magmaliw iran amayamay a bansa, tan pigarad sikaray magmaliw ya arari.
 007	Tooren koy impisipanan kod sika tan saray kabyangay boleg mo diad arapen iran panaon, tan ipasen kon sakey ya andi-anggaan a sipanan.
 007	Siak so Dios mo tan siak so Dios na saray kabyangay boleg mo.
-008	Sangkaili kayo natan ed sayan dalin a panaayaman yo; iter ko yan dalin ed sika tan saray kabyangay boleg mo.
+008	Sangkaili kayo natan ed sayan dalin a panaayaman yo;
+008	iter ko yan dalin ed sika tan saray kabyangay boleg mo.
 008	Say intiron dalin na Canaan kayaryanen ya anggad angga na saray kabyangay boleg mo, tan siak so Dios da.
 009	Inkuan ni na Dios ed kinen Abraham, Nakaukolan a tooren yo met so impisipanan kod sikayo, sika tan saray kabyangay boleg mo diad arapen a panaon.
 010	Nakaukolan a sika tan saray kabyangay boleg mo et pasegat yo so balang sakey a laki ed sikayo.
-011	Manlapud natan nakaukolan a pasegat yoy ogaw a laki no waloy agew to; pasegat yo met iray aripen a nianak ed abung yo tan saray aripen a sinaliw yod arum a bansa.
+011	Manlapud natan nakaukolan a pasegat yoy ogaw a laki no waloy agew to;
+011	pasegat yo met iray aripen a nianak ed abung yo tan saray aripen a sinaliw yod arum a bansa.
 011	Sikato yay tanda na sipanan tayo.
 012	Nakaukolan a mampasegat so balang sakey a laki ed sikayo, tan sikato yay tanda ed laman yo a pakanengnengan ya andi-anggaan so impisipanan kod sikayo.
 013	Siopamay lakin ag asegat et ag la nibilang a kabyangan na saray totook, ta ag to tinoor so impisipanan ko.
-014	Intuloy ni na Dios ya inkuan ed kinen Abraham, Ag mo la tatawagen na Sarai so asawam; manlapu lad natan Sara so ngaran to.
+014	Intuloy ni na Dios ya inkuan ed kinen Abraham, Ag mo la tatawagen na Sarai so asawam;
+014	manlapu lad natan Sara so ngaran to.
 015	Bindisionan ko tan makaanak kad sikato na sakey a laki.
 015	Bindisionan ko, et magmaliw ya ina na saray bansa, tan wala ray magmaliw ya arari ed saray kabyangay boleg to.
 016	Dinmakmomo si Abraham ya anggad dalin so lupa to, balet akalek nen ninunot tod sikaton dili, Makaanak ni kasiy sakey a lakin mantaon lay sanlasus?

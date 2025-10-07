@@ -5,13 +5,15 @@ verse	content
 003	Kinating tunggal ditak ing danum king yatu.
 003	Kalabas da ring dinalan at limang pulung aldo,
 004	sinadsad ya ing barku king bunduk ning Ararat inyang kalabing pitung aldo na ning kapitung bulan.
-005	Pakati nang pakati ing danum angga king kapulung bulan; at linto la taluktuk ding bunduk king mumunang aldo na ning kapulung bulan.
+005	Pakati nang pakati ing danum angga king kapulung bulan;
+005	at linto la taluktuk ding bunduk king mumunang aldo na ning kapulung bulan.
 006	Kalabas da ring apat apulung aldo biklat neng Noe ing awang na ning barku,
 007	at pepasulapo ne ing awak.
 007	Pabalik-balik yang susulapo angga king kinati ing danum king yatu.
 008	Kaybat na nita, pepasulapo ne ing metung a patipati ban lawan na nung kinati na ing danum king yatu.
 009	Anti na ning ala yang ikit atukluan na, migbalik ya king barku, uling laganap pa ing danum king mabilug a yatu.
-009	Liwal neng Noe ing gamat na; dekap ne at binalik neng pasibayu king barku.
+009	Liwal neng Noe ing gamat na;
+009	dekap ne at binalik neng pasibayu king barku.
 010	Menenaya ya pang pitung aldo at kaybat na nita pepasulapawan neng pasibayu ing patipati.
 011	Inyang mabengi na mibalik ya ing patipati at darala ne king tuktuk na ing metung a bulung a olibong kayagtal-agtal.
 011	Makanyan nang abalung Noe king kinati na ing danum king yatu.

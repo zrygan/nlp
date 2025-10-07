@@ -27,12 +27,14 @@ verse	content
 015	Diad tuay tua, si Aaron et abeten to ka tan manliket ed pakanengneng tod sika.
 016	Mitongtong kad sikato tan ibagam so nepeg ton salitaen.
 016	Tulongan ta kayo ed pansalita yo tan ibagak ed sikayo so gawaen yo.
-017	Sikatoy mangiyalagey ed sika tan isalitaan to kad saray totoo; singa kad satan Dios ya ibagam ed sikato so salitaen to.
+017	Sikatoy mangiyalagey ed sika tan isalitaan to kad saray totoo;
+017	singa kad satan Dios ya ibagam ed sikato so salitaen to.
 018	Awit mo tay baston mo, ta ikanam ed panggawa na saray pakelaw.
 019	Sinmempet si Moises tan linmad kinen katolangan ton Jetro tan kuanto, Abuloyan yo ak pa ya ompawil ed saray kakanayon kod man ed Egipto, ta nengnengen ko no mabilay ni ra kasi.
 019	Inmabuloy si Jetro tan pinasiput to.
 020	Diman ed Madian say Katawan inkuantod kinen Moises, Pawil ka lad Egipto, ta amin da ra may totoon malabay a mamatey ed sika et inaatey la ra.
-021	Inala nen Moises sirin so asawa to tan saray lalakin anak to; impakabayo to rad sakey ya asno, insan ira amaarap ed dalin na Egipto a sankaegnaan to may baston ya imbagay Dios ya awiten to.
+021	Inala nen Moises sirin so asawa to tan saray lalakin anak to;
+021	impakabayo to rad sakey ya asno, insan ira amaarap ed dalin na Egipto a sankaegnaan to may baston ya imbagay Dios ya awiten to.
 022	Say Katawan inkuanto lamet ed kinen Moises, No wadman ka lan akaarap ed ari na Egipto, ag mo lilingwanan a gawaen ira may amin a pakelaw, ta inter ko lad sikay pakayarin manggawa.
 022	Balet paaweten koy puso to tan ag to ibolus iray totoo.
 023	Diad satan ibagam ed ari: Onya so kuan na Katawan ed sika, Si Israel so pangulowan ya anak ko.
@@ -44,7 +46,9 @@ verse	content
 026	Lapud saya ag la intuloy na Katawan a pateyen si Moises.
 027	Legan da ra yan nagagawa, say Katawan inkuantod kinen Aaron, Abet moy Moises diad kalawakan.
 027	Linma sirin si Aaron ed masanton palandey, et nen akapanabet ira, inanguban to.
-028	Tinongtong nen Moises ed kinen Aaron iray amin a sinalitay Katawan nen ingganggan ton ompawil ed Egipto; imbaga to met ya amin iray pakelaw ya imbilin na Katawan a gawaen to.
+028	Tinongtong nen Moises ed kinen Aaron iray amin a sinalitay Katawan nen ingganggan ton ompawil ed Egipto;
+028	imbaga to met ya amin iray pakelaw ya imbilin na Katawan a gawaen to.
 029	Insan linmad Egipto ira di Moises tan Aaron, tan tinipon da ray amin a pangulo na saray Israelita.
-030	Imbaga nen Aaron ed sikara so amin a sinalitay Katawan ed kinen Moises; insan nanggawa na saray pakelaw si Moises diad imatun da ray katoowan.
+030	Imbaga nen Aaron ed sikara so amin a sinalitay Katawan ed kinen Moises;
+030	insan nanggawa na saray pakelaw si Moises diad imatun da ray katoowan.
 031	Anisia ra, et nen nadngel dan dinalaw iray Katawan tan anengneng toy ontan lan kakairapan da, tinmuek ira tan angigalang irad Katawan .

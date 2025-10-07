@@ -43,7 +43,8 @@ verse	content
 023	Rumang-aytayo ditoy.
 024	Pimmanaw ni Isaac ket napan idiay Beerseba.
 025	Iti dayta a rabii, nagparang ni Yahweh kenkuana ket kinunana, Siak ti Dios ni Abraham a tatangmo.
-025	Dika agbuteng; addaak kenka.
+025	Dika agbuteng;
+025	addaak kenka.
 025	Bendisionanka ket paraburanka iti adu a kaputotan gapu iti karik ken ni adipenko nga Abraham.
 026	Nangbangon ni Isaac iti altar ket nagdaydayaw ken ni Yahweh.
 026	Sadiay ti nagkampoanna ket nagkali dagiti adipenna iti sabali a bubon.

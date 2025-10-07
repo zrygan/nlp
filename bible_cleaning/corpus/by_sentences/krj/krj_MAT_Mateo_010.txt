@@ -19,7 +19,8 @@ verse	content
 016	Pamatii ninyo dyaay!
 016	Kamo ginapaagto ko sa mga tawo nga mapintas, pareho kang mga karnero sa tunga kang mga lobo.
 016	Gani mangin maaram kamo pareho kang mga sawa, kag malulo pareho kang mga pating.
-017	Mag-andam kamo, hay may mga tawo nga magadakup kaninyo kag magadara kaninyo sa hukmanan; kag pagahanuton nanda kamo sa andang mga sinagoga.
+017	Mag-andam kamo, hay may mga tawo nga magadakup kaninyo kag magadara kaninyo sa hukmanan;
+017	kag pagahanuton nanda kamo sa andang mga sinagoga.
 018	Tungud kanakun pagadar-un nanda kamo kag pagapaatubangun sa mga gobernador kag mga hari, kag rugto magasugid kamo kang Mayad nga Balita kananda kag sa mga bukun ti Judio.
 019	Kon ginausisa run nanda kamo, indi kamo magpalibug kon ano ang inyo ihambal, ukon paano ninyo ihambal.
 019	Tungud hay sa pag-abot kang tion nga ria, pagatudloan kamo kon ano ang inyo ihambal.

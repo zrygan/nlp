@@ -24,7 +24,8 @@ verse	content
 012	Nang adto nga tyempo, nagtukad si Hesus sa isa nga bukid para magpangamuy.
 012	Kag nagpangamuy siya didto ning bilog nga gab-i.
 013	Pagkaaga, gingtawag niya ang iya mga disipulo kag nagpil siya ning dose sa inda kag gingtawag nga mga apostoles.
-014	Ang inda mga pangayan hay si Simon nga gingpangayanan da niya nga Pedro kag ang iya hali nga si Andres; si Santiago kag si Juan, si Felipe kag si Bartolome,
+014	Ang inda mga pangayan hay si Simon nga gingpangayanan da niya nga Pedro kag ang iya hali nga si Andres;
+014	si Santiago kag si Juan, si Felipe kag si Bartolome,
 015	si Mateo kag si Tomas, si Santiago nga ung ni Alfeus, si Simon nga dati hay nagrebelde sa gobyerno ng Roma,
 016	si Judas nga ung ni Santiago kag si Judas Iscariote nga imaw ang nagtraidor kay Hesus.
 017	Pagkatapos nagtugbong si Hesus kaibahan ang iya mga apostoles hasta sa nakaabot sinda sa malapad nga kapatagan.
@@ -88,7 +89,8 @@ verse	content
 055	Ang maayo nga kahoy ind makapamunga ng malain kag ang malain nga kahoy ind makapamunga ng maayo.
 056	Makikilaya ang kada kahoy sa iya bunga.
 056	Ang tanom nga tunukon, way nagapamunga ng igos o ubas.
-057	Pareho da ini sa tawo; ang maayo nga tawo nagahambay maayo kay maayo ang iya hunahun.
+057	Pareho da ini sa tawo;
+057	ang maayo nga tawo nagahambay maayo kay maayo ang iya hunahun.
 057	Pero ang malain nga tawo, nagahambay malain kay malain ang iya hunahun.
 057	Kay kung ano ang yar sa hunahun ng tawo, imaw da ang nagaluwas sa iya bb.
 058	Bas ginatawag nindo ako, Ginoo, Ginoo, pero way nindo ginasunura ang akon ginahambay?

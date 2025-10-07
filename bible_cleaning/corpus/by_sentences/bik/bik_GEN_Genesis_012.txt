@@ -4,8 +4,10 @@ verse	content
 003	Bebendisyonan ko an mga mabendisyon saimo,
 004	Asin isusumpa ko an mga masumpa saimo;
 005	Sa paagi mo, bebendisyonan ko man an gabos na nasyon sa daga.
-006	Kaya kan setenta y singko na an edad ni Abram, binayaan niya an Haran sosog sa itinaram saiya nin Kagurangnan ; nag-iba saiya si Lot.
-007	Ipinag-iba ni Abram si Sarai na saiyang agom, asin an sobrino niyang si Lot patin an mga oripon na napasainda sa Haran; dara man ninda an gabos nindang pagsadiri.
+006	Kaya kan setenta y singko na an edad ni Abram, binayaan niya an Haran sosog sa itinaram saiya nin Kagurangnan ;
+006	nag-iba saiya si Lot.
+007	Ipinag-iba ni Abram si Sarai na saiyang agom, asin an sobrino niyang si Lot patin an mga oripon na napasainda sa Haran;
+007	dara man ninda an gabos nindang pagsadiri.
 007	Dangan naglakaw sinda pasiring sa daga nin Canaan.
 008	Pag-abot ninda duman,
 009	nagpadagos pa sa paglakaw si Abram sagkod na makaabot siya sa sagradong kahoy nin More, an banal na lugar sa Shekem.
@@ -27,5 +29,6 @@ verse	content
 021	Kaya ipinaapod kan hade si Abram asin hinapot, Ano ining ginibo mo sako?
 021	Tano ta dai ka nagtaram na agom mo an babaeng ini?
 022	Tano ta nagsabi kang tugang mo siya, kun kaya kinua ko siya na magin agom ko?
-022	Uya an agom mo; kuaha siya asin hale na kamo!
+022	Uya an agom mo;
+022	kuaha siya asin hale na kamo!
 023	Nagboot an hade sa mga tawohan niya manongod ki Abram, kaya pinahale ninda ini sa Egipto kaiba an saiyang agom asin an gabos niyang rogaring.

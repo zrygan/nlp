@@ -8,7 +8,8 @@ verse	content
 007	hiya an Dyos han akon amay, ngan kakantahan ko an iya pagkagamhanan.
 008	Usa nga paraaway an Ginoo ;
 009	an Ginoo amo an iya ngaran.
-010	Iginlabog niya ha dagat an kasondalohan han Ehipto ngan an ira mga karuwahe; nagkalulumos didto han Dagat Pula
+010	Iginlabog niya ha dagat an kasondalohan han Ehipto ngan an ira mga karuwahe;
+010	nagkalulumos didto han Dagat Pula
 011	an gimamag-upayi nga mga opisyal.
 012	Ginlapwasan hira han hilarom nga dagat;
 013	linmunod hira ha kahiladman sugad hin bato.
@@ -62,4 +63,5 @@ verse	content
 058	Didto gintagan hira han Ginoo hin mga balaod nga pagtutumanon nira, ngan iya liwat ginsarihan hira didto.
 059	Nagsiring hiya, Kon pagsugton ako niyo hin hingpit pinaagi hin pagbuhat han akon gin-iisip nga matadong, ngan pinaagi hin pagtuman han akon mga sugo, diri ko kamo kakastigohon hin bisan ano nga sakit nga gindara ko ngadto han mga Ehiptohanon.
 059	Ako amo an Ginoo nga nagtatambal ha iyo.
-060	Sunod inmabot hira ngadto ha Elim, diin may-ada dose nga mga burabod ngan sitenta nga mga kahoy nga palmera; didto nagkampo hira ha ligid han tubig.
+060	Sunod inmabot hira ngadto ha Elim, diin may-ada dose nga mga burabod ngan sitenta nga mga kahoy nga palmera;
+060	didto nagkampo hira ha ligid han tubig.

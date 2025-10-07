@@ -18,7 +18,8 @@ verse	content
 010	Nagsimbag si Jacob, An mga taon nin sakong pakikihimanwa uminabot na sa syento treynta.
 010	Kadikit asin masakit an mga taon na iyan, bakong arog kan halawig na panahon nin pakikihimanwa kan sakong mga ginikanan.
 011	Benendisyonan giraray ni Jacob an hade bago siya naghale.
-012	Dangan pinaerok ni Jose sa Egipto an saiyang ama saka an saiyang mga tugang; tinawan niya sinda kan pinakamarahay na daga na harani sa syudad nin Rameses, siring sa ipinagboot kan hade.
+012	Dangan pinaerok ni Jose sa Egipto an saiyang ama saka an saiyang mga tugang;
+012	tinawan niya sinda kan pinakamarahay na daga na harani sa syudad nin Rameses, siring sa ipinagboot kan hade.
 013	Tinawan man ni Jose nin pagkakan an saiyang ama, an saiyang mga tugang saka an iba pang myembro kan pamilya kan saiyang ama sagkod an pinakaaki sainda.
 014	Mayo nin pagkakan sa gabos na lugar huli ta makuri an gutom minsan saen.
 014	Pinanruluya an mga Egipcio asin mga Cananeo huli sa gutom.
@@ -45,14 +46,17 @@ verse	content
 023	An daga sana kan mga padi an dai binakal ni Jose.
 023	Dai kaipuhan na ipabakal kan mga padi an saindang daga huli ta igwa sinda nin permanenteng kahirasan nin pagkakan hale sa hade.
 024	Sinabihan ni Jose an mga tawo, Ngunyan na aldaw, binakal ko na kamo asin an saindong mga daga para sa hade.
-024	Uya an banhi; itanom nindo.
+024	Uya an banhi;
+024	itanom nindo.
 025	Sa tig-anihan, itatao nindo an ikalimang parte kan ani sa hade.
 025	An natadang apat na parte, gibohon nindong banhi para sa saindong oma asin pagkakan nindo sagkod kan saindong pamilya.
-026	Nagsimbag sinda, Ilinigtas mo an samong buhay; nagin marahayon ka samo, kagurangnan, kaya magigin oripon kami kan hade.
+026	Nagsimbag sinda, Ilinigtas mo an samong buhay;
+026	nagin marahayon ka samo, kagurangnan, kaya magigin oripon kami kan hade.
 027	Kaya ginibo ni Jose na sarong pagboot sa daga nin Egipto na an ikalimang parte kan ani itatao sa hade.
 027	Sagkod ngunyan sinusunod pa an pagboot na ini.
 027	An mga daga sana kan mga padi an dai nasadirihan kan hade.
-028	Nag-erok an mga Israelita sa Egipto, sa rehiyon nin Goshen; nagyaman asin nagdakul sinda duman.
+028	Nag-erok an mga Israelita sa Egipto, sa rehiyon nin Goshen;
+028	nagyaman asin nagdakul sinda duman.
 029	Nag-erok si Jacob sa Egipto sa laog nin dyes y syeteng taon, sagkod na makaabot siya sa edad na syento kwarenta y syete.
 030	Kan madali na siyang magadan, inapod niya an aki niyang si Jose asin sinabihan, Ibugtak mo an saimong kamot sa pagultanan kan sakong mga hita asin magsumpa ka na dai mo ako ilulubong sa Egipto.
 031	Gusto kong iluwas mo ako sa Egipto asin ilubong sa lulubngan kan sakong mga magurang.

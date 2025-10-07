@@ -42,7 +42,8 @@ verse	content
 024	Pagkatapos naghambay siya sa mga nagatindog sa iya atubangan, Buy-a sa iya ang kwarta kag itao sa ulipon nga nakaganansya ning napuy!
 025	Pero nagsabat sinda, Palangg nga har, bas dugangan mo pa ang kwarta niya?
 025	Igwa na ngan siya napuy!
-026	Nagsabat ang har, Tandai nindo ini: ang masaligan taw-an pa gid; pero ang ind masaligan, aber ang maisot nga yar sa iya buy-on pa.
+026	Nagsabat ang har, Tandai nindo ini: ang masaligan taw-an pa gid;
+026	pero ang ind masaligan, aber ang maisot nga yar sa iya buy-on pa.
 027	Kag parti sa mga nagkontra sa akon kag ind gusto nga maghar ako sa inda, day-a nindo sinda diri kag pamatyon sa akon atubangan!
 028	Pagkahambay ini ni Hesus, nagpadayon siya kag ang iya mga kaibahan pakadto sa Jerusalem.
 029	Nang malapit na sinda sa mga baryo ng Betfage kag Betania, sa bukid nga ginatawag, Bukid ng mga Olibo, gingpauna ni Hesus ang iya duha nga disipulo.

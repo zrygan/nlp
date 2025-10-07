@@ -4,17 +4,21 @@ verse	content
 002	Dai ka magsunod sa kadaklan kun minagibo sinda nin sala o kun minasaksi sinda nin putik tanganing mabiko an hustisya.
 003	Dai ka magpahiling nin pagpaorog sa sarong dukha kun binibista siya.
 004	Kun mahiling mo na nakabutas an baka o an asno nin saimong kaiwal, ibalik mo iyan saiya.
-005	Kun mahiling mong napalugmok an asno kan sarong naanggot saimo huli sa gabat kan karga, tabangan mo siya na mapabuhat giraray iyan; dai mo siya pagpabayaan.
+005	Kun mahiling mong napalugmok an asno kan sarong naanggot saimo huli sa gabat kan karga, tabangan mo siya na mapabuhat giraray iyan;
+005	dai mo siya pagpabayaan.
 006	Itao mo an hustisya sa tawong dukha kun siya mag-atubang sa husgado.
-007	Dai ka magtugod-tugod; dai mo paggadanon an tawong mayong sala asin matanos, huli ta dai ko paliligtason an may sala.
+007	Dai ka magtugod-tugod;
+007	dai mo paggadanon an tawong mayong sala asin matanos, huli ta dai ko paliligtason an may sala.
 008	Dai ka mag-ako nin suhol, huli ta an suhol nakakabuta sa tawo asin nakakapadaog sa mga tawong mayong sala.
-009	Dai mo pagdaog-daogon an sarong dayuhan; aram mo an namamatean niya, huli ta ika nagin dayuhan man sa daga nin Egipto.
+009	Dai mo pagdaog-daogon an sarong dayuhan;
+009	aram mo an namamatean niya, huli ta ika nagin dayuhan man sa daga nin Egipto.
 010	Anom na taon kamong magtatanom sa saindong daga asin mag-aani kan bunga kaiyan.
 011	Alagad sa ikapitong taon pabayaan nindo an daga asin dai nindo pag-anihon an ano man na magtalubo diyan tanganing may makakan an mga dukha, asin an matada makakan kan mga lalaw na hayop.
 011	Arog man kaiyan an saindong gibohon sa saindong ubasan saka olibahan.
 012	Magtrabaho kamo sa laog nin anom na aldaw alagad sa ikapitong aldaw magpahingalo kamo, tanganing makapahingalo man an saindong mga oripon saka an mga dayuhan, dangan mahingaloan man an saindong mga hayop.
 013	Dangoga nindo an gabos kong itinaram.
-013	Dai kamo mamibi sa ibang mga dios; maski an saindang ngaran dai nanggad nindo pagsambiton.
+013	Dai kamo mamibi sa ibang mga dios;
+013	maski an saindang ngaran dai nanggad nindo pagsambiton.
 014	Sa laog nin sarong taon, tolong beses na maselebrar kamo nin pyesta para sako.
 015	Selebraron nindo an Pyesta nin Tinapay na Mayo nin Lebadura.
 015	Siring sa ipinagboot ko saindo, pitong aldaw kamong dai magkakan nin tinapay na igwa nin lebadura sa bulan nin Abib, huli ta ini an bulan kan paghale nindo sa Egipto.
@@ -32,7 +36,8 @@ verse	content
 025	Mangengenotan sa saindo an sakong anghel pasiring sa daga kan mga Amoreo, Heteo, Perezeo, Cananeo, Heveo asin Jebuseo dangan paparaon ko sinda gabos.
 026	Dai kamo magduko o magsamba sa saindang mga dios-dios, o mag-arog kan saindang mga ginigibo.
 026	Raoton nindo an saindang mga dios-dios asin gabaon nindo an saindang mga banal na hariging gapo.
-027	Kun ako, an Kagurangnan na saindong Dios, iyo sana an saindong sasambahon, bebendisyonan ko an saindong pagkakan asin inomon; dangan hahaleon ko saindo an gabos na helang.
+027	Kun ako, an Kagurangnan na saindong Dios, iyo sana an saindong sasambahon, bebendisyonan ko an saindong pagkakan asin inomon;
+027	dangan hahaleon ko saindo an gabos na helang.
 028	Sa saindong banwaan mayo nin babae na makukuahan o magigin baog.
 028	Tatawan ko kamo nin halawig na buhay.
 029	Gigibohon ko na matakot sako an mga tawo na makontra sa saindo.
@@ -43,4 +48,5 @@ verse	content
 033	Ibubugtak ko an mga kasagkoran kan saindong daga magpoon sa Salog nin Eufrates sagkod sa Dagat na Pula, asin magpoon sa kalangtadan sagkod sa Dagat nin Mediteraneo.
 033	Ibubugtak ko sa saindong mga kamot an mga nag-eerok sa daga asin papahaleon nindo sinda mantang naglalaog kamo sa daga.
 034	Dai kamo makipagtipan sa sainda o sa saindang mga dios-dios.
-035	Dai nindo sinda pagtugotan na mag-erok sa saindong daga huli ta kun magtugot kamo, papagkasalaon ninda kamo sa sakuya; iyan an magigin siod sa saindo kun sambahon nindo an saindang mga dios-dios.
+035	Dai nindo sinda pagtugotan na mag-erok sa saindong daga huli ta kun magtugot kamo, papagkasalaon ninda kamo sa sakuya;
+035	iyan an magigin siod sa saindo kun sambahon nindo an saindang mga dios-dios.

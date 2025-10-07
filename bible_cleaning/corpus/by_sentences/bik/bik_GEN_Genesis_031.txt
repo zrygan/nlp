@@ -2,9 +2,11 @@ verse	content
 001	Nadangog ni Jacob na ipinapamareta kan mga aking lalaki ni Laban na, Kinua ni Jacob an gabos na sadiri kan samong ama.
 001	An gabos niyang yaman gikan sa sadiri kan samong ama.
 002	Nahiling man ni Jacob na malaen na an pagtratar saiya ni Laban.
-003	Dangan tinaraman nin Kagurangnan si Jacob, Bumalik ka sa daga nin saimong mga magurang asin nin saimong mga kadugo; iibahan taka.
+003	Dangan tinaraman nin Kagurangnan si Jacob, Bumalik ka sa daga nin saimong mga magurang asin nin saimong mga kadugo;
+003	iibahan taka.
 004	Kaya pinasugoan ni Jacob si Rachel asin si Lea na sabaton siya duman sa oma na namumugtakan kan saiyang mga hayop,
-005	asin sinabihan niya sinda, Namasdan ko na iba na an pagtratar sako kan saindong ama; alagad an Dios kan sakong ama iniibahan ako.
+005	asin sinabihan niya sinda, Namasdan ko na iba na an pagtratar sako kan saindong ama;
+005	alagad an Dios kan sakong ama iniibahan ako.
 006	Aram nindong duwa na pinaglingkodan ko an saindong ama sa bilog kong kosog;
 007	dinaya niya ako asin sampolong beses niyang liniwat an sakong sweldo.
 007	Alagad dai itinugot nin Dios na kulogon niya ako.
@@ -44,7 +46,8 @@ verse	content
 031	Ngunyan, kun may makuahan ka digdi kan saimong mga dios-dios, gagadanon siya.
 031	Kaya sa atubang kan satong mga tawohan, hanapa an ano man na sadiri mo na yaon sako asin kuaha.
 031	Dai aram ni Jacob na hinabon ni Rachel an mga dios-dios ni Laban.
-032	Linaog ni Laban an tolda ni Jacob asin naghanap duman; isinunod niya an tolda ni Lea asin an tolda kan duwang babaeng oripon, alagad dai niya nakua duman an saiyang mga dios-dios.
+032	Linaog ni Laban an tolda ni Jacob asin naghanap duman;
+032	isinunod niya an tolda ni Lea asin an tolda kan duwang babaeng oripon, alagad dai niya nakua duman an saiyang mga dios-dios.
 032	Dangan linaog niya an tolda ni Rachel.
 033	Kinua na palan ni Rachel an mga dios-dios ni Laban, itinago sa kamadero kan kamelyo asin tinukawan an mga ini.
 033	Naghanap si Laban kan saiyang mga dios-dios sa bilog na tolda, alagad dai niya nakua duman.
@@ -55,21 +58,27 @@ verse	content
 035	Anong kasalan ko ta linamag mo ako?
 036	Ngunyan na nahalungkat mo na an gabos kong pagsadiri, ano an nakua mo na pagsadiri mo?
 036	Iluwas mo digdi sa atubang kan satong mga tawohan tanganing sinda an magsabi kun siisay sa sato an tama.
-037	Sa laog nin beynteng taon yaon ako sa kaibahan mo; mayong naghulos minsan saro kan saimong babaeng karnero o kanding; asin minsan saro kan saimong hayop dai ko kinakan.
-038	Kun igwang saro na ginadan kan mga maringis na hayop, dai ko na dinadara saimo tanganing ipahiling na mayo akong sala; binabayadan ko na sana huli ta pinapabayadan mo an arin man na hinabon sa aldaw o sa banggi.
-039	Tinios ko an init kan aldaw asin an lipot kan banggi; dai na ako nagkakatorog.
+037	Sa laog nin beynteng taon yaon ako sa kaibahan mo;
+037	mayong naghulos minsan saro kan saimong babaeng karnero o kanding;
+037	asin minsan saro kan saimong hayop dai ko kinakan.
+038	Kun igwang saro na ginadan kan mga maringis na hayop, dai ko na dinadara saimo tanganing ipahiling na mayo akong sala;
+038	binabayadan ko na sana huli ta pinapabayadan mo an arin man na hinabon sa aldaw o sa banggi.
+039	Tinios ko an init kan aldaw asin an lipot kan banggi;
+039	dai na ako nagkakatorog.
 040	Iyan an nagin buhay ko sa laog nin beynteng taon na yaon ako saimo.
 040	Naglingkod ako saimo sa laog nin katorseng taon para sa duwang aki mo, asin anom na taon para sa saimong mga hayop.
 040	Alagad sampolong beses mo pang liniwat an sweldo ko.
 041	Kun dai ako inibahan kan Dios nin sakong mga magurang, an Dios ni Abraham asin ni Isaac, tibaad haloy mo na akong pinalayas na mayo nin ano man na dara.
 041	Alagad nahiling nin Dios an sakong kasakitan asin an sakong kapagalan, kaya naanggotan ka niya kasubanggi.
-042	Sinimbag ni Laban si Jacob, Mga aki ko an mga babaeng ini; sadiri ko an saindang mga aki asin rogaring ko an mga hayop na ini.
+042	Sinimbag ni Laban si Jacob, Mga aki ko an mga babaeng ini;
+042	sadiri ko an saindang mga aki asin rogaring ko an mga hayop na ini.
 042	An totoo, sadiri ko an gabos na nahihiling mo.
 042	Alagad huli ta dai na akong magigibo tanganing mapugol sinda,
 043	andam ako na makipagtipan sa saimo.
 043	Magtambak kita nin mga gapo na iyo an danay na magpapagiromdom sato kan satong tipan.
 044	Kaya kuminua si Jacob nin gapo asin pinatindog ini bilang sarong hariging giromdom,
-045	dangan sinabihan an saiyang mga tawohan na magtambak nin mga gapo; duman na sinda nagkakan sa kataed kan tinambak na mga gapo.
+045	dangan sinabihan an saiyang mga tawohan na magtambak nin mga gapo;
+045	duman na sinda nagkakan sa kataed kan tinambak na mga gapo.
 046	Nginaranan ini ni Laban nin Jegar-Sahaduta asin Galeed naman an inginaran kaini ni Jacob.
 047	Sinabihan ni Laban si Jacob, An tambak na gapong ini iyo an magpapagiromdom sato.
 047	Kaya an lugar na idto nginaranan Galeed.
@@ -82,4 +91,5 @@ verse	content
 052	Kaya nanumpa si Jacob sa ngaran kan Dios na sinamba ni Isaac na saiyang ama.
 053	Nagbuno siya nin hayop na saiyang idinolot duman sa bukid dangan inapod niya an saiyang mga tawohan tanganing magkakan.
 053	Duman na sinda naagahan sa bukid.
-054	Pagkaagang amay, hinadokan ni Laban an saiyang mga makoapo asin mga aki dangan benendisyonan niya sinda; pakatapos, nagpuli na siya sa saiyang harong.
+054	Pagkaagang amay, hinadokan ni Laban an saiyang mga makoapo asin mga aki dangan benendisyonan niya sinda;
+054	pakatapos, nagpuli na siya sa saiyang harong.

@@ -25,7 +25,8 @@ verse	content
 018	Ya habla le ansina cay cada ao durante el celebracion del Passover, necesita si Pilato sigui el costumbre del maga Judio que libra gayot un preso.
 019	Cuando ya oi sila el cosa ya habla si Pilato, ya grita aquel manada de gente todas todas, Mata lang con ele, y libra con Barabas!
 020	Aquel gente si Barabas un preso con quien ya pone na prision cay ya causa le alsamiento con el maga gente na ciudad, y ya mata tamen le un gente durante el gulu.
-021	Si Pilato quiere hace libra con Jesus; entonces ya habla le otra vez con el maga gente, Cosa man ele ya hace malo?
+021	Si Pilato quiere hace libra con Jesus;
+021	entonces ya habla le otra vez con el maga gente, Cosa man ele ya hace malo?
 022	Pero mas fuerte gayot sila ta grita, Crucifica con ele!
 022	Crucifica con ele!
 023	Por el tercera vez si Pilato ya habla canila, Porque man?
@@ -74,7 +75,8 @@ verse	content
 052	Ele un miembro del Consejo Judio, y ele un hombre bueno y moral quien nuay aproba el cosa ya hace el maga otro miembro con Jesus.
 052	Ele tamen mismo ta espera el venida del Reino de Dios.
 053	Este si Jose ya anda con Pilato para pidi el cuerpo di Jesus.
-054	Cuando tiene ya le el permiso, ya quita le el cuerpo di Jesus na cruz; despues ya envolve con ese na un tela fino y blanco.
+054	Cuando tiene ya le el permiso, ya quita le el cuerpo di Jesus na cruz;
+054	despues ya envolve con ese na un tela fino y blanco.
 054	Cuando ya acaba le envolve el cuerpo, ya pone le con ese adentro na tumba que ya grevata na pader de piedra, donde nuay pa gayot pone ni con ningunos.
 055	Ya llega el dia de Viernes que ta llama el dia de preparacion para el venida del Sabado.
 055	Para con el maga Judio, el Sabado ta principia si ta sumi el sol Viernes tarde.

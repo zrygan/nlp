@@ -9,7 +9,8 @@ verse	content
 006	alagad kan siya buhay pa, an mga aki niyang lalaki sa saiyang mga kasaroan tinawan niya nin mga regalo asin pinaerok sa daga na nasa sirangan, harayo sa aki niyang si Isaac.
 007	Gurang nang marahay si Abraham kan siya magadan sa edad na syento setenta y singkong taon.
 008	Ilinubong siya kan mga aki niyang si Isaac asin Ismael duman sa lungib nin Macpela, sa oma na nasa sirangan kan Mamre, na dating pagsadiri ni Efron, na aking lalaki ni Zohar na Heteo.
-009	Iyo idto an oma na binakal ni Abraham sa mga Heteo; duman ilinubong si Abraham asin si Sara na saiyang agom.
+009	Iyo idto an oma na binakal ni Abraham sa mga Heteo;
+009	duman ilinubong si Abraham asin si Sara na saiyang agom.
 010	Benendisyonan nin Dios si Isaac na aki ni Abraham pagkagadan kaini.
 010	Dangan nag-erok si Isaac sa Beer-lahai-roi.
 011	Si Ismael, na aking lalaki ni Abraham ki Hagar, an babaeng taga Egipto na oripon ni Sara, nagkaigwa nin doseng aki.
@@ -18,7 +19,8 @@ verse	content
 014	Hadad, Tema, Jetur, Nafis asin Kedema.
 015	Sinda an ginikanan nin doseng tribu, asin an ngaran kan mga lugar na saindang pinag-eerokan isinunod sa saindang ngaran.
 016	Nagadan si Ismael sa edad na syento treynta y syeteng taon.
-017	An saiyang mga kapagarakian nag-erok poon sa Havila sagkod sa Sur na nasa ibong kan Egipto, sa dalan pasiring sa Asiria; namuhay sindang suhay sa ibang mga kapagarakian ni Abraham.
+017	An saiyang mga kapagarakian nag-erok poon sa Havila sagkod sa Sur na nasa ibong kan Egipto, sa dalan pasiring sa Asiria;
+017	namuhay sindang suhay sa ibang mga kapagarakian ni Abraham.
 018	Iyo ini an istorya ni Isaac na aking lalaki ni Abraham.
 019	Kan kwarenta na an edad ni Isaac, inagom niya si Rebecca, na aking babae ni Betuel, na Arameong taga Mesopotamia, asin tugang na babae ni Laban.
 020	Huli ta dai nag-aaki si Rebecca, namibi si Isaac sa Kagurangnan .
@@ -35,7 +37,8 @@ verse	content
 028	Mapula an naenot asin mabarahibo an saiyang kublit siring sa gubing na anit, kaya inapod siyang Esau.
 029	Namundag an ikaduwa na pugol nin marahay an bool ni Esau, kaya inapod siyang Jacob.
 029	An kambal namundag kan si Isaac sesentang taon na an edad.
-030	Kan magdakula an kambal, si Esau, na mas gusto an buhay sa luwas nagin sarong marahay na paraayam; alagad si Jacob bakong paragirong asin mas gusto sa harong.
+030	Kan magdakula an kambal, si Esau, na mas gusto an buhay sa luwas nagin sarong marahay na paraayam;
+030	alagad si Jacob bakong paragirong asin mas gusto sa harong.
 031	Padangat ni Isaac si Esau huli ta nawiwilihan niyang kakanon an mga inayaman kaini alagad padangat ni Rebecca si Jacob.
 032	Sarong aldaw mantang nagluluto si Jacob nin sinabawan na balatong, uminabot si Esau hale sa pangangayam.
 032	Gutom na ini nin marahay
@@ -46,5 +49,6 @@ verse	content
 035	Magagadan na ako sa gutom, kaya ano pa an halaga kan sakong deretso bilang matuang aking lalaki?
 036	Magsumpa ka ngona, an simbag ni Jacob.
 037	Kaya nagsumpa si Esau asin ipinabakal an saiyang deretso ki Jacob.
-038	Pakatapos kaini, tinawan ni Jacob si Esau nin tinapay asin nin sinabawan na balatong; nagkakan asin nag-inom ini dangan naghale.
+038	Pakatapos kaini, tinawan ni Jacob si Esau nin tinapay asin nin sinabawan na balatong;
+038	nagkakan asin nag-inom ini dangan naghale.
 038	Sa siring na paagi, dai pinahalagahan ni Esau an saiyang deretso bilang matuang aking lalaki.

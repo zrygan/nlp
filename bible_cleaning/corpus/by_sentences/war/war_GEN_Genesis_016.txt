@@ -21,7 +21,8 @@ verse	content
 010	Nagsiring an anghel, Balik ngadto ha iya ngan paoripon ha iya.
 011	Niyan nagsiring pa hiya, Tatagan ko ikaw hin damo hin duro nga mga tulin nga waray tawo nga makakaihap ha ira.
 012	Mag-aanak ka hin usa nga lalake ngan pagngangaranan mo hiya nga Ismael kay hinbatian han Ginoo an imo mga pagharoy.
-013	Kundi masusugad hin ihalas nga asno an imo anak; makontra hiya han tagsatagsa ngan kokontrahon man hiya han tagsatagsa.
+013	Kundi masusugad hin ihalas nga asno an imo anak;
+013	makontra hiya han tagsatagsa ngan kokontrahon man hiya han tagsatagsa.
 013	Mag-uokoy hiya nga hirayo han ngatanan niya nga kauropdan.
 014	Nagpakiana hi Agar ha iya la ngahaw, Hinkit-an ko ba hin tinuod an Dyos ngan nabuhi pa ako hin pagsumat hiunong hini?
 014	Sanglit gintawag niya an Ginoo nga naghimangraw ha iya, Usa ka Dyos nga Nakita.

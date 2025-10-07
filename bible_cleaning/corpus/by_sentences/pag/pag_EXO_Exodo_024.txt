@@ -1,5 +1,6 @@
 verse	content
-001	Say Katawan kuantod kinen Moises, Laen yo ak ed palandey, sikayo di Aaron, Nadab, Abiu, tan saray pitomplon pangulo na Israel; no arawi ki ni tuek kayo lan mangigalang ed siak.
+001	Say Katawan kuantod kinen Moises, Laen yo ak ed palandey, sikayo di Aaron, Nadab, Abiu, tan saray pitomplon pangulo na Israel;
+001	no arawi ki ni tuek kayo lan mangigalang ed siak.
 002	Sika labat tan anggapo lay arum so onsingger ed siak.
 002	Saray totoo et ag ira anggan onkalab a kaibam.
 003	Linmay Moises ed saray totoo tan sinalita tod sikaray amin ya ingganggan tan imbilin na Katawan , et amin da ray totoo nankakasakey iran inmebat, Gawaen mi ray amin ya imbaga na Katawan .
@@ -13,11 +14,14 @@ verse	content
 008	Inkuanto, Sikato yay dala a mamaelet na impisipanan na Katawan ed sikayo nen inter tod sikayo ra yan amin a ganggan.
 009	Kinmalab ed palandey ira di Moises, Aaron, Nadab, Abiu, tan saray pitomplon pangulo na Israel,
 010	insan anengneng da so Dios na Israel a manalalagey ed pasen a sapiro tan malinew a singa kolur na tawen.
-011	Ag pinasakitan na Dios ira yan lalakin pangulo na Israel; anengneng day Dios, insan nantitipon iran angan tan inminom.
+011	Ag pinasakitan na Dios ira yan lalakin pangulo na Israel;
+011	anengneng day Dios, insan nantitipon iran angan tan inminom.
 012	Say Katawan kuantod kinen Moises, Laen mo ak diad toktok na palandey tan, no wadman ka la, itdan ta ka na duaran tapyak a bato ya angitatakan ko na saray ganggan ko ya onkanan panaralan na saray totook.
-013	Namparaan si Moises tan si Josue a katulong to; si Moises ginapwan toy kinmalab ed masanton palandey.
+013	Namparaan si Moises tan si Josue a katulong to;
+013	si Moises ginapwan toy kinmalab ed masanton palandey.
 014	Inkuanen Moises ed saray pangulo, Manalagar kayod kampo ya anggad ipawil mi dia.
-014	Wadyan kaiba yo ra di Aaron tan Hur; siopaman a walay problima to onlad sikara.
+014	Wadyan kaiba yo ra di Aaron tan Hur;
+014	siopaman a walay problima to onlad sikara.
 015	Linma sirin si Moises ed Palandey na Sinai, et akobutan na lorem imay palandey.
 016	Linmeksab ed palandey so kagalangan na Katawan .
 016	Anengneng na saray Israelita imay kagalangan na Katawan a singa apoy a manliub ed toktok na palandey.

@@ -38,7 +38,8 @@ verse	content
 022	Nagtalinaed ni Jose idiay Egipto agraman dagiti familia ti amana.
 022	Agtawen iti 110 idi matay.
 023	Nakitana pay dagiti dadduma nga annak ni Efraim ken dagiti appokona.
-023	Adda pay la a biag idi maipasngay dagiti annak ni Makir nga anak ni Manases; pinagbalinna ida a kameng ti familiana.
+023	Adda pay la a biag idi maipasngay dagiti annak ni Makir nga anak ni Manases;
+023	pinagbalinna ida a kameng ti familiana.
 024	Kinunana kadagiti kakabsatna, Dandanin ti ipapatayko, ngem awan pagdanaganyo ta aywanannakayo ti Dios.
 024	Ipanawnakayo iti daytoy a daga ket ipannakayo iti daga a sinapataanna nga ited kada Abraham, Isaac ken Jacob.
 025	Kalpasanna, pinagsapata ni Jose dagiti kakabagianna, Ikariyo nga inton ipannakayo ti Dios iti dayta a daga, ikuyogyonto ti bangkayko.

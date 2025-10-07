@@ -38,7 +38,8 @@ verse	content
 024	Ngan nagpadayon siya sa paghambay, Mga ung, mahug gid ang makasuyod sa gingharian ng Dios!
 025	Mas malupos pa mag-agi ang kamelyo sa buh ng dayom kaysa sa magsuyod ang manggaranon sa gingharian ng Dios.
 026	Natingaya gid sinda kag nagpangutana sa iya, Kung tiyad in, sin-o lang ang maluwas?
-027	Gingsir sinda ni Hesus kag naghambay, Kung sa mga tawo lang imposible gid ini, pero puydi sa Dios; kay ang tanan nga butang hay posible sa Dios.
+027	Gingsir sinda ni Hesus kag naghambay, Kung sa mga tawo lang imposible gid ini, pero puydi sa Dios;
+027	kay ang tanan nga butang hay posible sa Dios.
 028	Naghambay si Pedro sa iya, Hay kami, gingbayaan namon ang tanan kag nagnunot sa imo.
 029	Naghambay si Hesus sa inda, Sa matuod lang ginahambay ko sa indo, way ning tawo nga nagbay ng iya bayay, mga maguyng kag mga manghod, nanay, tatay, mga ung, o mga uma tungod sa akon kag sa Maayong Balit,
 030	nga ind makabaton ning ginatos ka doble nga bayos sa ini nga kabuh: mga bayay, mga maguyng kag mga manghod, mga nanay, mga ung, mga uma kag pat sa mga paghingabot tungod sa pagtuo.
@@ -54,7 +55,8 @@ verse	content
 034	Pero pagkaligad ng tuyo ka adlaw mababanhaw ako.
 035	Nagpalapit kay Hesus sina Santiago kag Juan, mga ung ni Zebedee kag naghambay, Maestro, may pangayuon kunt kami sa imo.
 036	Naghambay si Hesus sa inda, Ano ang indo pangayuon sa akon?
-037	Nagsabat sinda, Pag maghar ka na sa imo mahimayaon nga gingharian, papungkua kami nga duha sa imo alihid; ang isa sa tuo kag ang isa sa waya.
+037	Nagsabat sinda, Pag maghar ka na sa imo mahimayaon nga gingharian, papungkua kami nga duha sa imo alihid;
+037	ang isa sa tuo kag ang isa sa waya.
 038	Pero naghambay si Hesus sa inda, Way nindo nasayuri kung ano ang indo ginapangay.
 038	Maagwanta ba nindo ang mga kahugaan nga akon agwantahon?
 038	Kag matitiis da ba nindo ang kamatayon nga akon agihan?
@@ -66,7 +68,8 @@ verse	content
 044	Pero bukon tiyad in sa indo.
 044	Kay kung sin-o sa indo ang gusto nga maging labaw sa tanan, dapat maging suluguon nindo.
 045	Kag kung sin-o sa indo ang gusto maging pinun, dapat maging ulipon ng tanan.
-046	Kay aber pa ngan ako nga Ung ng Tawo hay way nagkari diri sa kalibutan para magpaserbisyo kund magserbisyo; kag magtao ng akon kabuh agud matubos ang madam nga tawo.
+046	Kay aber pa ngan ako nga Ung ng Tawo hay way nagkari diri sa kalibutan para magpaserbisyo kund magserbisyo;
+046	kag magtao ng akon kabuh agud matubos ang madam nga tawo.
 047	Nag-abot sina Hesus sa Jerico.
 047	Nang nagapaluwas na siya sa banwa kaibahan ng iya mga disipulo kag ng madam nga tawo, may isa ka buta didto nga si Bartimeus, ung ni Timeus nga nagapungk kag nagapalimos sa alihid ng karsada.
 048	Pagkabat niya nga nagaagi si Hesus nga taga-Nazaret, nagsinggit siya, Hesus, inapo ni David, kaluy-i ako!

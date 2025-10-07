@@ -4,7 +4,8 @@ verse	content
 002	El cinco de ese maga dalaga falta juicio, y cinco di ila bien ajuiciao.
 003	Aquellos cinco dalaga falta juicio ya saca el di ila maga luz, pero nuay sila lleva pa-aman aceite.
 004	Pero el cinco dalaga bien ajuiciao ya lleva pa-aman aceite para el di ila maga luz.
-005	Ahora, el novio bien tarda gayot llega; poreso ta man tuyu ya sila hasta ya durmi ya lang.
+005	Ahora, el novio bien tarda gayot llega;
+005	poreso ta man tuyu ya sila hasta ya durmi ya lang.
 006	Pero cuando media noche ya, tiene quien ya anuncia, Taqui ya el novio!
 006	Anda ya kita hace encuentro con ele!
 007	Despues todo sila dies dalaga ya levanta, y cada uno ya arregla el di ila maga luz.
@@ -24,7 +25,8 @@ verse	content
 017	Ansina tamen el quien tiene dos mil pesos, ya hace tamen le ganancia de dos mil.
 018	Pero el quien ya recibi el un mil lang pesos, ya anda le abri un poso para esconde ese cen del di suyo amo.
 019	Ahora, despues de largo tiempo el amo de esos maga servidor ya volve ya para hace cuenta con el di suyo maga servidor.
-020	El quien ya recibi el cinco mil pesos ya atraca con el di suyo amo y ya lleva le otro cinco mil, y ya habla, or, ya dale uste conmigo cinco mil pesos; ahora, mira uste, ya puede ya yo hace ganancia otro cinco mil tamen!
+020	El quien ya recibi el cinco mil pesos ya atraca con el di suyo amo y ya lleva le otro cinco mil, y ya habla, or, ya dale uste conmigo cinco mil pesos;
+020	ahora, mira uste, ya puede ya yo hace ganancia otro cinco mil tamen!
 021	Ya habla el amo con ele, Un buen servidor gayot tu, y bien fiel!
 021	Ya puede yo contigo confia con ese poco cantidad, poreso ay deja yo na dituyo cargo el mas grande pa cantidad.
 021	Entra dao anay para puede tamen tu man alegria junto conmigo.

@@ -43,7 +43,8 @@ verse	content
 027	Gani kon ang kasanag nga rugyan kanimo dulum gali, daw ano ayhan kadulum ang imo kahimtangan!
 028	Wara ti tawo nga makaalagad kang dungan sa darwa ka agalun, hay ang matabo karia kaugtan na ang isara kag palanggaun na ang isara, ukon alagadun na kang husto ang isara kag ang isara tana tamayun na.
 028	Indi ninyo maalagad kang dungan ang Dios kag ang manggad.
-029	Amo gani nga nagakuon ako kaninyo nga indi kamo magsagad ka palibug sa inyo pagpangabuhi; kon ano ang inyo ikan-un ukon imnun kag kon ano ang inyo isuksok para sa inyo lawas.
+029	Amo gani nga nagakuon ako kaninyo nga indi kamo magsagad ka palibug sa inyo pagpangabuhi;
+029	kon ano ang inyo ikan-un ukon imnun kag kon ano ang inyo isuksok para sa inyo lawas.
 029	Indi bala nga mas importante ang kabuhi sangsa pagkaun, kag ang lawas sangsa bayo?
 030	Turuka bala ninyo ang mga pispis nga nagalupad-lupad.
 030	Wara sanda nagatanum kag wara man sanda nagaani, kag wara man sanda nagasuput sa kamarin, pero ang inyo Amay sa langit nagapakaun kananda.

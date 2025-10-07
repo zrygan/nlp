@@ -18,7 +18,8 @@ verse	content
 011	Nadid, dikona nedek di dn en abeng di hidi, ay linakadan di en atanan sakay ummunud hidi knni Jesus.
 012	Nadid dikona a ked ti Jesus ten essa a banuwan, ay netan siya nen essa a lllaki a kinetong.
 012	Lummuhud siya sakay nkkekagbi a kinagi na, Panginoon, ni gustuwn mu ay mapagpiyyak mu.
-013	Tinawidan siya ni Jesus sakay kinagi na, Gustu ku; magpiyya ka dn!
+013	Tinawidan siya ni Jesus sakay kinagi na, Gustu ku;
+013	magpiyya ka dn!
 013	Pagdaka a nawan en ketong na.
 014	Kinagi ni Jesus dikona, Dyan mu iyd kagikagiyn maski kndeya.
 014	Nan angay ka paileng ten padi.

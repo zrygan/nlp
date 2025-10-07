@@ -22,7 +22,8 @@ verse	content
 014	Dangan nagboot an Dios, Magtunga sa kalangitan an mga ilaw tanganing masuhay an aldaw sa banggi, asin tanganing maaraman kun nuarin mapoon an mga aldaw, an mga taon patin an mga panahon.
 015	Magliliwanag an mga ini sa kalangitan tanganing magtao nin liwanag sa daga.
 015	Nangyari ini.
-016	Kaya ginibo nin Dios an duwang darakulang ilaw: an aldaw na masakop kan bilog na maghapon asin an bulan na masakop kan bilog na banggi; ginibo man niya an mga bitoon.
+016	Kaya ginibo nin Dios an duwang darakulang ilaw: an aldaw na masakop kan bilog na maghapon asin an bulan na masakop kan bilog na banggi;
+016	ginibo man niya an mga bitoon.
 017	Ibinugtak niya sa kalangitan an mga ilaw tanganing magtao nin liwanag sa daga,
 018	magsakop kan aldaw saka banggi, asin magsuhay kan liwanag sa kadikloman.
 018	Nahiling nin Dios na ini marahay.
@@ -34,12 +35,16 @@ verse	content
 023	Nagkahapon dangan nagkaaga: an ikalimang aldaw.
 024	Dangan nagboot an Dios, Magkaigwa sa daga kan gabos na hayop: manso asin lalaw, dakula saka sadit,asin nangyari ini.
 025	Kaya ginibo nin Dios ini gabos asin nahiling niya na ini marahay.
-026	Dangan nagtaram an Dios, Ngunyan gibohon ta an katawohan sa satong ladawan; gibohon ta sindang arog sato.
+026	Dangan nagtaram an Dios, Ngunyan gibohon ta an katawohan sa satong ladawan;
+026	gibohon ta sindang arog sato.
 026	Magkakaigwa sinda nin kapangyarihan sa mga sira, sa mga gamgam, asin sa gabos na hayop, manso man o lalaw, dakula man o sadit.
-027	Kaya linalang nin Dios an katawohan siring sa saiyang ladawan; linalang niya sindang lalaki asin babae.
-028	Benendisyonan niya sinda dangan tinaraman, Magmabinunga asin magdakul kamo; panoon nindo an bilog na kinaban asin pamahalaan iyan.
+027	Kaya linalang nin Dios an katawohan siring sa saiyang ladawan;
+027	linalang niya sindang lalaki asin babae.
+028	Benendisyonan niya sinda dangan tinaraman, Magmabinunga asin magdakul kamo;
+028	panoon nindo an bilog na kinaban asin pamahalaan iyan.
 028	Magkaigwa kamo nin kapangyarihan sa mga sira, sa mga gamgam asin sa gabos na hayop.
-029	Itinatao ko saindo an gabos na klase nin tinanom na nagtatao nin banhi asin nin mga kahoy na nagtatao nin bunga; iyan an saindong magigin pagkakan.
+029	Itinatao ko saindo an gabos na klase nin tinanom na nagtatao nin banhi asin nin mga kahoy na nagtatao nin bunga;
+029	iyan an saindong magigin pagkakan.
 030	Sa gabos na hayop asin gamgam, itinatao ko an mga doot saka an mga madahon na tinanom, bilang pagkakan.
 030	Nangyari ini.
 031	Nahiling nin Dios na an gabos niyang ginibo orog karahay.

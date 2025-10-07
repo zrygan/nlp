@@ -1,6 +1,7 @@
 verse	content
 001	Manggawa ka na altar ya akasia a panagpoolan na insinso.
-002	Nepeg a kuadrado; labinwalon pulgada so karokey to tan labinwalon pulgada so kaawang to, tan talomplo tan anem a pulgada so kaatagey to.
+002	Nepeg a kuadrado;
+002	labinwalon pulgada so karokey to tan labinwalon pulgada so kaawang to, tan talomplo tan anem a pulgada so kaatagey to.
 002	Saray pinagkasaklur ed apatiran suyok to et nepeg a katekep na altar.
 003	Okupan mo na puron balituk so tagey to, saray apatiran dapag to, tan saray pinagkasaklur to, tan moldoraan mo na balituk iray gilig-gilig to.
 004	Manggawa kay duaran balituk a liken tan ipeket mo rad duaran dapag diad leksab na moldora tan sikaray pangisolungan ed saray tiken a panagsakbatan.
@@ -11,7 +12,8 @@ verse	content
 008	Onya met so gawaen to no selselan to ray lamparaan no labi.
 008	Sayan bagat na insinso et mansiansia lawas ya anggan kapigan.
 009	Diad sayan altar ag kayo mangibabagat na insinson aliwan masanto odino bagat ya ayep odino bagat a trigo, tan ag kayo mangikakalbo dia na bagat ya alak.
-010	Maminsan ed kapag taon gawaen nen Aaron so sirimonya a panlinis ed sayan altar diad pangiporanis tod saray pinagsaklur na altar; say iporanis to et say dala na ayep ya imbagat a pangekal na kasalanan.
+010	Maminsan ed kapag taon gawaen nen Aaron so sirimonya a panlinis ed sayan altar diad pangiporanis tod saray pinagsaklur na altar;
+010	say iporanis to et say dala na ayep ya imbagat a pangekal na kasalanan.
 010	Gawaen ya a tinaon ed kapigan man a panaon.
 010	Sayan altar et nepeg a sigput a masanto, tan nisaklang ed siak a Katawan .
 011	Say Katawan kuantod kinen Moises,
@@ -42,7 +44,8 @@ verse	content
 030	Insan mo poyukan si Aaron tan saray lalakin anak to tan ikonsagram ira a papari a manlingkur ed siak.
 031	Ikuanmod saray Israelita, Sayan masanton larak a panagpoyuk et nepeg ya ikana ed panlingkur ed siak diad kapigan man a panaon.
 032	Ag nepeg ya ikalbo ed ordinarion too, tan ag yo nepeg ya aligen so inkagawa to.
-032	Masanto yan larak; nepeg a masanto so pangipasen yo.
+032	Masanto yan larak;
+032	nepeg a masanto so pangipasen yo.
 033	Siopamay toon mangalig na inkagawa to odino mangikanad siopaman ya aliwan pari, sikatoy ag la nibilang a sakey ed saray totook.
 034	Say Katawan kuantod kinen Moises, Mangala ka na nampaparan karakel na onggendan a masamit a rikadoistakti, onika, galbanum, tan puron olibanum.
 035	Manggawa ka na insinso, a singa panaggawa na pabalingit.

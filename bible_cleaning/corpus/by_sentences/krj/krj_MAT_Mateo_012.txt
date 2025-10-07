@@ -50,7 +50,8 @@ verse	content
 038	Pero ang bisan sin-o tana nga magpasipala sa Balaan nga Ispirito indi pagpatawarun.
 039	Kag ang bisan sin-o nga maghambal kang malain batok sa Anak kang Tawo sarang pa mapatawad.
 039	Pero ang bisan sin-o tana nga maghambal kang malain batok sa Balaan nga Ispirito indi mapatawad sa dya nga panahon kag hasta san-o.
-040	Kon ang sangka kahoy nami, nami man ang bunga na kadya; kag kon ang sangka kahoy sayud, sayud man ang ana nga bunga.
+040	Kon ang sangka kahoy nami, nami man ang bunga na kadya;
+040	kag kon ang sangka kahoy sayud, sayud man ang ana nga bunga.
 040	Tungud nga ang kahoy makilala paagi sa anang bunga.
 041	Mga sawa kamo!
 041	Paano bay kamo makahambal kang mga mayad nga butang hay mga malaot kamo.

@@ -29,7 +29,8 @@ verse	content
 026	Dangan nabuhay pa siya nin syete syentos otsenta y dos na taon asin nagkaigwa pa nin ibang mga aki
 027	bago nagadan sa edad na nwebe syentos sesenta y nwebeng taon.
 028	Kan syento otsenta y dos na an edad ni Lamec, nagkaigwa siya nin sarong aking lalaki.
-029	Nagsabi siya, Hale sa dagang isinumpa nin Kagurangnan , an aking ini madara sato nin kaginhawahan sa gabos nyatong kapagalan; kaya Noe an inginaran niya sa aki.
+029	Nagsabi siya, Hale sa dagang isinumpa nin Kagurangnan , an aking ini madara sato nin kaginhawahan sa gabos nyatong kapagalan;
+029	kaya Noe an inginaran niya sa aki.
 030	Nabuhay pa si Lamec sa laog nin kinyentos nubenta y singkong taon asin nagkaigwa pa nin ibang aki.
 031	Nagadan siya sa edad na syete syentos setenta y syeteng taon.
 032	Kinyentos na an edad ni Noe kan siya nagkaigwa nin tolong aking lalaki, si Sem, si Ham asin si Jafet.

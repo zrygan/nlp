@@ -30,8 +30,12 @@ verse	content
 017	Isa lang ang maayo kag way na ning iban kund ang Dios.
 017	Kung gusto mo magkaigwa ning kabuh nga way katapusan, tumana ang mga sug.
 018	Nagpangutana siya liwat, Diin didto nga mga sug?
-018	Naghambay si Hesus, Ayaw magpamatay; ayaw magpangawatan; ayaw magpangawat; ayaw magtestigo ning pinusong;
-019	tahura ang imo tatay kag nanay; kag higugmaon mo ang imo isigkatawo pareho ng paghigugm mo sa imo kaugalingon.
+018	Naghambay si Hesus, Ayaw magpamatay;
+018	ayaw magpangawatan;
+018	ayaw magpangawat;
+018	ayaw magtestigo ning pinusong;
+019	tahura ang imo tatay kag nanay;
+019	kag higugmaon mo ang imo isigkatawo pareho ng paghigugm mo sa imo kaugalingon.
 020	Nagsabat ang soltero, Ini tanan hay natuman ko na.
 020	Ano pa ang kuyang ko?
 021	Nagsabat si Hesus, Kung gusto mo nga way ka na gid ning kuyang sa panir ng Dios, mag-ul ka kag ibaligy ang imo mga propidad kag ipanao ang kwarta sa mga pobre para magkaigwa ka na ning manggad sa langit.

@@ -9,8 +9,10 @@ verse	content
 006	Ang inyong mga bahay ay mapupuno, ang mga bahay ng lahat mong lingkod, at ang mga bahay ng mga Ehipcio, na hindi nakita ng inyong mga magulang ni ng inyong mga ninuno, mula nang araw na sila'y mapasa daigdig hanggang sa araw na ito.
 006	At siya'y tumalikod at nilisan ang Faraon.
 007	Sinabi ng mga lingkod ng Faraon sa kanya, Hanggang kailan magiging isang bitag sa atin ang taong ito?
-007	Hayaan mo nang umalis ang mga taong iyan upang sila'y makapaglingkod sa Panginoon nilang Diyos; hindi mo pa ba nauunawaan na ang Ehipto ay wasak na?
-008	Kaya't sina Moises at Aaron ay pinabalik sa Faraon at kanyang sinabi sa kanila, Humayo kayo, maglingkod kayo sa Panginoon ninyong Diyos; subalit sinu-sino ang aalis?
+007	Hayaan mo nang umalis ang mga taong iyan upang sila'y makapaglingkod sa Panginoon nilang Diyos;
+007	hindi mo pa ba nauunawaan na ang Ehipto ay wasak na?
+008	Kaya't sina Moises at Aaron ay pinabalik sa Faraon at kanyang sinabi sa kanila, Humayo kayo, maglingkod kayo sa Panginoon ninyong Diyos;
+008	subalit sinu-sino ang aalis?
 009	Sinabi ni Moises, Kami ay aalis kasama ang aming mga bata at matatanda, kasama ang aming mga anak na lalaki at babae, mga kawan at mga baka, sapagkat kami ay kailangang magdiwang ng isang pista sa Panginoon .
 010	Kanyang sinabi sa kanila, Sumainyo nawa ang Panginoon , kung kayo'y aking papayagan, at ang inyong maliliit na umalis!
 010	Tingnan ninyo, mayroon kayong masamang binabalak.
@@ -18,22 +20,28 @@ verse	content
 011	Maaaring umalis ang inyong mga kalalakihan at sumamba sa Panginoon , sapagkat iyan ang inyong hinihingi.
 011	At sila'y ipinagtabuyan mula sa harap ng Faraon.
 012	Pagkatapos, sinabi ng Panginoon kay Moises, Iunat mo ang iyong kamay sa lupain ng Ehipto, upang dumating dito ang mga balang at kainin ang lahat ng halaman sa lupain, maging ang lahat ng iniwan ng yelong ulan.
-013	Kaya't iniunat ni Moises ang kanyang tungkod sa lupain ng Ehipto, at ang Panginoon ay nagpahihip ng hanging amihan sa lupain ng buong araw na iyon at ng buong gabi; at nang mag-umaga ay dinala ng hanging amihan ang mga balang.
-014	Ang mga balang ay lumapag sa buong lupain ng Ehipto at dumagsa sa lahat ng hangganan ng Ehipto; totoong napakakapal ng mga balang na hindi nangyari noon at hindi na mangyayari pa.
+013	Kaya't iniunat ni Moises ang kanyang tungkod sa lupain ng Ehipto, at ang Panginoon ay nagpahihip ng hanging amihan sa lupain ng buong araw na iyon at ng buong gabi;
+013	at nang mag-umaga ay dinala ng hanging amihan ang mga balang.
+014	Ang mga balang ay lumapag sa buong lupain ng Ehipto at dumagsa sa lahat ng hangganan ng Ehipto;
+014	totoong napakakapal ng mga balang na hindi nangyari noon at hindi na mangyayari pa.
 015	Sapagkat tinakpan ng mga iyon ang ibabaw ng buong lupain, kaya't ang lupain ay nagdilim.
 015	Kinain nila ang lahat ng halaman sa lupain at ang lahat na bunga ng mga punungkahoy na iniwan ng yelong ulan at walang natirang anumang sariwang bagay, maging sa punungkahoy o sa halaman sa parang, sa buong lupain ng Ehipto.
 016	Pagkatapos ay nagmamadaling ipinatawag ng Faraon sina Moises at Aaron at kanyang sinabi, Ako'y nagkasala laban sa Panginoon ninyong Diyos at laban sa inyo.
 017	Ipatawad mo ang aking kasalanan, ngayon na lamang at hilingin ninyo sa Panginoon ninyong Diyos, ilayo man lamang sa akin ang nakakamatay na bagay na ito.
 018	Kaya't iniwan niya ang Faraon at nakiusap sa Panginoon .
-019	Pinabalik ng Panginoon ang isang napakalakas na hanging habagat na siyang tumangay sa mga balang, at itinaboy ang mga ito sa Dagat na Pula; walang natira kahit isang balang sa buong nasasakupan ng Ehipto.
+019	Pinabalik ng Panginoon ang isang napakalakas na hanging habagat na siyang tumangay sa mga balang, at itinaboy ang mga ito sa Dagat na Pula;
+019	walang natira kahit isang balang sa buong nasasakupan ng Ehipto.
 020	Subalit pinatigas ng Panginoon ang puso ni Faraon at hindi niya pinayagang umalis ang mga anak ni Israel.
 021	Sinabi ng Panginoon kay Moises, Iunat mo ang iyong kamay paharap sa langit, upang magdilim sa lupain ng Ehipto ng isang kadilimang mararamdaman.
 022	Kaya't iniunat ni Moises ang kanyang kamay paharap sa langit, at nagkaroon ng makapal na kadiliman sa buong lupain ng Ehipto ng tatlong araw.
-023	Sila'y hindi magkakitaan, at walang tumindig na sinuman sa kinaroroonan niya sa loob ng tatlong araw; ngunit lahat ng mga anak ni Israel ay may liwanag sa kanilang tirahan.
-024	Ipinatawag ng Faraon si Moises at sinabi, Humayo kayo, maglingkod kayo sa Panginoon ; iwan lamang ninyo ang inyong mga kawan at ang inyong mga baka.
+023	Sila'y hindi magkakitaan, at walang tumindig na sinuman sa kinaroroonan niya sa loob ng tatlong araw;
+023	ngunit lahat ng mga anak ni Israel ay may liwanag sa kanilang tirahan.
+024	Ipinatawag ng Faraon si Moises at sinabi, Humayo kayo, maglingkod kayo sa Panginoon ;
+024	iwan lamang ninyo ang inyong mga kawan at ang inyong mga baka.
 024	Isama na rin ninyo ang inyong mga anak.
 025	Ngunit sinabi ni Moises, Dapat ding magbigay ka sa aming kamay ng mga alay at mga handog na sinusunog upang aming maihandog sa Panginoon naming Diyos.
-026	Ang aming hayop ay isasama rin namin; wala kahit isang paa na maiiwan, sapagkat kailangang pumili kami ng ilan sa mga iyon para sa pagsamba sa Panginoon naming Diyos.
+026	Ang aming hayop ay isasama rin namin;
+026	wala kahit isang paa na maiiwan, sapagkat kailangang pumili kami ng ilan sa mga iyon para sa pagsamba sa Panginoon naming Diyos.
 026	Hindi namin nalalaman kung ano ang aming gagamitin sa pagsamba sa Panginoon , hanggang sa kami ay dumating doon.
 027	Subalit pinatigas ng Panginoon ang puso ng Faraon at hindi niya pinayagang umalis sila.
 028	Sinabi ng Faraon sa kanya, Umalis ka sa harap ko!

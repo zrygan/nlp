@@ -19,7 +19,8 @@ verse	content
 013	Usa ka adlaw han paghingadto ha Siquem han kabugtoan ni Jose hin pagmangno han panon han ira amay,
 014	nagsiring hi Jacob kan Jose, Karuyag ko nga kumadto ka ha Siquem diin nagmamangno han panon an imo kabugtoan.
 015	Binmaton hi Jose, Andam ako.
-016	Ginsiring hiya ni iya tatay, Kadto na ngan kitaa kon maupay ba an kahimtang han imo kabugtoan ngan han panon; ngan balik hin pagsumati ako.
+016	Ginsiring hiya ni iya tatay, Kadto na ngan kitaa kon maupay ba an kahimtang han imo kabugtoan ngan han panon;
+016	ngan balik hin pagsumati ako.
 016	Sanglit ginpagikan hiya han iya amay tikang ha kahamub-an han Hebron.
 017	Inmabot hi Jose didto ha Siquem,
 018	ngan nagsinudoysudoy hiya didto han kaumhan.

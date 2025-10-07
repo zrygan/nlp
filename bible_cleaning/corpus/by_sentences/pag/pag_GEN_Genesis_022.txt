@@ -1,5 +1,6 @@
 verse	content
-001	Ag abayag, sinubok na Dios si Abraham; tinawag to, Abraham!
+001	Ag abayag, sinubok na Dios si Abraham;
+001	tinawag to, Abraham!
 001	Wadya ak, ebat nen Abraham.
 002	Alam so anak mo, inkuan na Dios, say bogbogtung ya anak mon si Isaac ya inararom a tuloy, tan lakad dalin na Moria.
 002	Diman mo ibagat ed siak si Isaac diad tagey na palandey ya itorok ed sika.
@@ -8,7 +9,8 @@ verse	content
 004	Nen kumatlon agew abantag nen Abraham imay pasen.
 005	Insan inkuantod saramay aripen to, Dia kayo tan sayay asno.
 005	Onla ak tan sayay ogaw ed saman a pasen, ta mangigalang kamid Dios, insan mi kayo dia pawilen.
-006	Impasakbat nen Abraham ed kinen Isaac imay kiew a para bagat; sikato balet awit toy yuro tan ngalab a pamarlang da.
+006	Impasakbat nen Abraham ed kinen Isaac imay kiew a para bagat;
+006	sikato balet awit toy yuro tan ngalab a pamarlang da.
 006	Nen manaakar ira,
 007	inkuanen Isaac, Ama!
 008	Anto man, anak?

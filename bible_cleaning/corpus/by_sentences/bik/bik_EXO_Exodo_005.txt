@@ -13,7 +13,8 @@ verse	content
 006	Kan aldaw man sanang idto, nagboot an hade sa mga Egipciong parapamahala asin sa mga kapatas na Israelita,
 007	Ontokon an pagtao nin dagami sa mga tawo.
 007	Poon ngunyan sinda na an maghanap kan mga dagaming gagamiton ninda sa paggibo nin ladrilyo.
-008	Alagad piriton nindo sindang maggibo kan dating bilang nin ladrilyo; mayong kulang maski saro.
+008	Alagad piriton nindo sindang maggibo kan dating bilang nin ladrilyo;
+008	mayong kulang maski saro.
 008	Hinuhugakan sana sindang magtrabaho kaya nakikimaherak sindang tugotan ko na mag-atang sa saindang Dios!
 009	Dagdagi nindo an saindang trabaho tanganing mayo sinda nin oras sa pagdangog nin mga kaputikan.
 010	Naglakaw an mga parapamahala saka an mga kapatas asin nagsabi sa mga Israelita, Nagtaram an hade na dai na niya kamo tatawan nin dagami.

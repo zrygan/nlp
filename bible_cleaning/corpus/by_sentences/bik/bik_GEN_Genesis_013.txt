@@ -1,5 +1,6 @@
 verse	content
-001	Pakahale sa Egipto, naglakaw si Abram pasiring sa habagat na parte kan Canaan kaiba an saiyang agom asin an gabos niyang rogaring; nag-iba man saiya si Lot.
+001	Pakahale sa Egipto, naglakaw si Abram pasiring sa habagat na parte kan Canaan kaiba an saiyang agom asin an gabos niyang rogaring;
+001	nag-iba man saiya si Lot.
 002	Mayaman nang marahay si Abram huli ta kadakul na kan saiyang mga hayop, plata asin bulawan.
 003	Hale sa duman, nagpadagos siyang maglakaw sagkod na makaabot sa pagultanan kan Betel asin Ai, sa lugar na tinugdokan niya kaidto kan saiyang tolda,
 004	asin pinatindogan niya nin altar.
@@ -10,10 +11,14 @@ verse	content
 007	Kaya nagkaigwa nin pag-iriwal an mga pastor ni Abram asin ni Lot.
 007	Kaidto, an mga Cananeo asin Perezeo iyo an nag-eerok sa lugar na idto.
 008	Dangan sinabihan ni Abram si Lot, Magkadugo kitang duwa, kaya dai dapat na mag-iriwal an satong mga pastor.
-009	Mas marahay pang magsuhay kita; pilion mo an arin man na parte kan daga na magustohan mo; kun pumawala ka, mapatoo ako; kun pumatoo ka, mapawala ako.
+009	Mas marahay pang magsuhay kita;
+009	pilion mo an arin man na parte kan daga na magustohan mo;
+009	kun pumawala ka, mapatoo ako;
+009	kun pumatoo ka, mapawala ako.
 010	Nangalagkalag si Lot asin nahiling niya na mayaman sa tubig an bilog na Kapantayan nin Jordan sagkod sa Zoar, arog kan tatamnan kan Kagurangnan o arog kan daga nin Egipto.
 010	Ini an kamugtakan kan daga bago tunawon nin Kagurangnan an Sodoma asin an Gomorra.
-011	Kaya pinili ni Lot an bilog na Kapantayan nin Jordan, asin naglakaw siya pasiring sa sirangan; sa siring na paagi nagsuhay sindang duwa.
+011	Kaya pinili ni Lot an bilog na Kapantayan nin Jordan, asin naglakaw siya pasiring sa sirangan;
+011	sa siring na paagi nagsuhay sindang duwa.
 012	Nagpawalat si Abram sa Canaan mantang si Lot nag-erok sa mga syudad duman sa kapantayan na harani sa Sodoma.
 013	An nag-eerok sa Sodoma mga maraot na tawo asin mga parakasala sa Kagurangnan .
 014	Pakahale ni Lot, nagtaram an Kagurangnan ki Abram, Mangalagkalag ka sa palibot mo,

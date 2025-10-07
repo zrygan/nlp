@@ -7,11 +7,13 @@ verse	content
 004	Ang iba nga mga tawo rugto nag-ugut kag nagmunohay, Andut nga gin-uyangan lang ang agwa nga ria?
 005	Mabaligya pa raad dya kang sobra sa tatlo ka gatos ka kwarta nga pilak, kag ang bayad ipanugro sa mga imol!
 005	Kag ginkaraan nanda ang bayi.
-006	Pero ginhambalan sanda ni Jesus, Pabay-i lang ninyo tana; indi ninyo tana pagpahilabti.
+006	Pero ginhambalan sanda ni Jesus, Pabay-i lang ninyo tana;
+006	indi ninyo tana pagpahilabti.
 006	Mayad ang anang ginhimo nga dya kanakun.
 007	Kaimaw ninyo pirme ang mga imol kag bisan ano oras sarang ninyo sanda mabuligan kon gustohon ninyo.
 007	Pero ako tana indi ninyo kaimaw pirme.
-008	Ginhimo na ang anang masarangan; ginbu-boan na kang agwa ang akun lawas sa pag-aman sa akun lubung.
+008	Ginhimo na ang anang masarangan;
+008	ginbu-boan na kang agwa ang akun lawas sa pag-aman sa akun lubung.
 009	Sugidan ko kamo, bisan diin sa bug-os nga kalibutan iwali ang mayad nga balita, ang anang ginhimo nga dya isambitun man bilang pagdumdum kana.
 010	Si Judas Iscariote tana nga isara sa napulo'g darwa ka mga disipulo, nag-agto sa mga pangulo kang kaparian agud itugyan si Jesus kananda.
 011	Kang mabatian nanda dya, nalipay gid sanda kag ginsaadan nanda tana nga tugroan kang kwarta.
@@ -32,9 +34,11 @@ verse	content
 021	Pero makaluluoy gid ang madangatan kang tawo nga magaluib sa Anak kang Tawo.
 021	Mayad pa nga wara run lang tana matawo sa kalibutan.
 022	Samtang nagakaun sanda, nagbuul si Jesus kang tinapay kag nagpangamuyo sa pagpasalamat.
-022	Ginpamihak-pihak na dya kag ginpanugro kananda kag magkuon, Batona ninyo; amo dya ang akun lawas.
+022	Ginpamihak-pihak na dya kag ginpanugro kananda kag magkuon, Batona ninyo;
+022	amo dya ang akun lawas.
 023	Dayon nagbuul tana kang kupa kag nagpangamuyo sa pagpasalamat, kag gintugro kananda, kag tanan sanda nag-inum rugto.
-024	Nagkuon si Jesus kananda, Amo dya ang akun dugo nga nagaparig-un kang kasugtanan kang Dios; ang akun dugo nga gin-ula para sa duro nga mga tawo para sa kapatawaran kang mga kasal-anan.
+024	Nagkuon si Jesus kananda, Amo dya ang akun dugo nga nagaparig-un kang kasugtanan kang Dios;
+024	ang akun dugo nga gin-ula para sa duro nga mga tawo para sa kapatawaran kang mga kasal-anan.
 025	Sugidan ko kamo, indi run ako liwan mag-inum kang bino nga halin sa ubas hasta sa adlaw nga mag-inum ako kang bag-o nga bino sa tion kang paghari kang Dios.
 026	Pagkatapos nanda ka kanta kang pagdayaw, naggwa sanda kag mag-agto sa Bukid kang mga Olibo.
 027	Nagkuon si Jesus kananda, Tanan kamo magaparalagyo kag magabiya kanakun, tungud hay nagkuon ang Dios sa kasulatan, Pagapatyun ko ang manugbantay, kag magaharaplaag ang mga karnero.

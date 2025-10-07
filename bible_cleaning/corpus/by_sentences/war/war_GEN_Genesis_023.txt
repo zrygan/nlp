@@ -2,10 +2,12 @@ verse	content
 001	Nakaabot hi Sara hin panuigon nga 127.
 002	Namatay hiya didto ha Hebron ha tuna han Canaan, ngan nagmasulob-on hi Abraham tungod han iya kamatay.
 003	Binayaan ni Abraham an dapit nga hinahayaran han lawas han iya asawa, kinmadto hiya han mga Hiteohanon, ngan nagsiring,
-004	Usa ako nga lumalangyaw nga nag-uokoy dinhe ha iyo; papalita ako hin tuna, basi didto ko iglubngan an akon asawa.
+004	Usa ako nga lumalangyaw nga nag-uokoy dinhe ha iyo;
+004	papalita ako hin tuna, basi didto ko iglubngan an akon asawa.
 005	Binmaton hira,
 006	Mano, pamatii kami.
-006	Ginhahangad ka namon sugad nga usa nga gamhanan nga pangulo; iglubong an imo asawa didto han gimamaupayi nga lubnganan namon.
+006	Ginhahangad ka namon sugad nga usa nga gamhanan nga pangulo;
+006	iglubong an imo asawa didto han gimamaupayi nga lubnganan namon.
 006	Malilipay an bisan hin-o ha amon hin paghatag ha imo hin usa nga lubnganan, basi makaglubong ka ha iya.
 007	Niyan yinmukbo hi Abraham ha atubangan nira,
 008	ngan nagsiring, Kon naruruyag kamo nga iglubong ko dinhe an akon asawa, alayon paghangyo kan Efron nga anak nga lalake ni Zohar,

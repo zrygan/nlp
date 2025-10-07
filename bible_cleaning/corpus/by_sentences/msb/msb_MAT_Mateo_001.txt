@@ -2,7 +2,8 @@ verse	content
 001	Amo ini an mga kalulululuhi ni Jesu-Cristo na kalahi ni David kag kalahi man ni Abraham.
 002	Si Abraham ama ni Isaac na ama ni Jacob.
 002	Si Jacob naman ama ni Juda kag san iya mga kamaranghod na lalaki.
-003	Ini si Juda ama ninda Fares kag Zara na an iloy si Tamar; si Fares naman ama ni Esrom na ama ni Aram.
+003	Ini si Juda ama ninda Fares kag Zara na an iloy si Tamar;
+003	si Fares naman ama ni Esrom na ama ni Aram.
 004	Si Aram ama ni Aminadab na ama ni Naason na ama naman ni Salmon.
 005	Si Salmon ama ni Booz na an iloy si Rahab.
 005	Si Booz naman ama ni Obed na an iloy si Ruth, tapos si Obed ama ni Jesse

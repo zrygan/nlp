@@ -38,7 +38,8 @@ verse	content
 025	Ang Dios, Ispirito gani ang mga nagasimba kana kinahanglan magsimba kana sa ispirito kag sa kamatuoran.
 026	Nagkuon ang bayi, Nakamaan ako nga magaabot ang Mesias nga ginatawag Cristo.
 026	Kon mag-abot tana, isugid na kanatun ang tanan nga mga butang.
-027	Nagsabat si Jesus, Ako ria; ako nga nagapakig-istorya kanimo kadya.
+027	Nagsabat si Jesus, Ako ria;
+027	ako nga nagapakig-istorya kanimo kadya.
 028	Sa amo man to nga mga tinion, nag-abot ang mga disipulo ni Jesus.
 028	Natingala sanda kang makita nanda tana nga nagapakigsugidanun sa sangka bayi.
 028	Pero wara gid ti bisan isara kananda nga namangkot nga, Ano haw ang imo kinahanglan?

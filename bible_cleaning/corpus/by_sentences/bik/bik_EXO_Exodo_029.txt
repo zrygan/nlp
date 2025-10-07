@@ -13,7 +13,8 @@ verse	content
 009	Sinda asin an saindang mga kapagarakian an maglilingkod sako bilang padi sagkod pa man.
 010	Darahon mo sa atubangan kan Tabernakulo an torilyong baka asin sabihan mo si Aaron saka an saiyang mga aki na iduta an saindang mga kamot sa ibabaw kan payo kan torilyong baka.
 011	Dangan bunoon mo an torilyong baka sa atubangan ko, duman sa may pintoan kan Tabernakulo.
-012	Kumua ka nin dikit na dugo kan torilyong baka asin sa paagi kan saimong muro, lahidan mo an sungay kan altar; an natadang dugo iula mo gabos sa pamitisan kan altar.
+012	Kumua ka nin dikit na dugo kan torilyong baka asin sa paagi kan saimong muro, lahidan mo an sungay kan altar;
+012	an natadang dugo iula mo gabos sa pamitisan kan altar.
 013	Kuahon mo an gabos na taba na nakakatahob kan bituka, an pinakamarahay na parte kan katoy, an duwang bato kaiba an taba kaiyan asin tutongon mo gabos sa altar bilang atang sako.
 014	Alagad an karne kan torilyo, an anit asin an odo kaiyan tutongon mo sa luwas kan kampo.
 014	Ini an atang na mahale kan mga kasalan kan mga padi.
@@ -58,7 +59,8 @@ verse	content
 041	Ini sarong dolot na pagkakan para sa sako asin an parong kaini nawiwilihan ko.
 042	Sa gabos na panahon, ining tinutong na atang idodolot nindo sako sa may pintoan kan Tabernakulo, saen tatagboon ko kamo tanganing kaolayon.
 043	Diyan ko tatagboon an banwaan nin Israel, asin magigin banal an lugar na iyan huli kan sakong kamurawayan.
-044	Kokonsagrahon ko an Tabernakulo asin an altar; siring man si Aaron sagkod an saiyang mga aki kokonsagrahon ko tanganing maglingkod sinda sako bilang mga padi.
+044	Kokonsagrahon ko an Tabernakulo asin an altar;
+044	siring man si Aaron sagkod an saiyang mga aki kokonsagrahon ko tanganing maglingkod sinda sako bilang mga padi.
 045	Mag-eerok ako sa kaibahan kan banwaan nin Israel, asin ako an magigin Dios ninda.
 046	Mamimidbid ninda na ako iyo an Kagurangnan na saindang Dios, na nagluwas sainda sa Egipto tanganing mag-erok sa kaibahan ninda.
 046	Ako an Kagurangnan na saindang Dios.

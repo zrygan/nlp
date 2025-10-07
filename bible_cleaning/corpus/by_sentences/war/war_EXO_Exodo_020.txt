@@ -18,10 +18,13 @@ verse	content
 014	Ayaw kamo panlibog.
 015	Ayaw kamo pangawat.
 016	Ayaw kamo pagsumbong hin buwa kontra han iyo igkasi-tawo.
-017	Ayaw kamo kaipa han balay hin lain nga tawo; ayaw kaipa han iya asawa, han iya mga oripon, han iya mga baka, han iya mga asno, o han bisan ano nga iya mga butang.
+017	Ayaw kamo kaipa han balay hin lain nga tawo;
+017	ayaw kaipa han iya asawa, han iya mga oripon, han iya mga baka, han iya mga asno, o han bisan ano nga iya mga butang.
 018	Han pakabati han mga tawo han dalugdog ngan han tunog han trompeta, ngan han pakakita nira han kikidlat ngan han nag-usbok nga aso ha bukid, nangurog hira hin kahadlok ngan pinmahirayo hira hin pagtindog.
-019	Nagsiring hira kan Moises, Mamamati kami kon ikaw an maghimangraw ha amon; kundi nahadlok kami nga, kon an Dyos an maghimangraw ha amon, magkakamatay kami.
-020	Binmaton hi Moises, Ayaw kamo kahadlok; kinmahi la an Dyos hin pagsari ha iyo ngan hin pag-aghat nga dayuday magsugot kamo ha iya, basi diri kamo makasala.
+019	Nagsiring hira kan Moises, Mamamati kami kon ikaw an maghimangraw ha amon;
+019	kundi nahadlok kami nga, kon an Dyos an maghimangraw ha amon, magkakamatay kami.
+020	Binmaton hi Moises, Ayaw kamo kahadlok;
+020	kinmahi la an Dyos hin pagsari ha iyo ngan hin pag-aghat nga dayuday magsugot kamo ha iya, basi diri kamo makasala.
 021	Kundi pinmahirayo la gihapon hin pagtindog an mga tawo, ngan hi Moises la an hinmarani han madakmol nga dampog diin nakadto an Dyos.
 022	Nagsugo an Ginoo kan Moises nga sidngon niya an mga Israelita: Hinkit-an na niyo kon gin-unan-o ko nga Ginoo hin pakighimangraw ha iyo tikang ha langit.
 023	Ayaw kamo paghimo para ha iyo kalugaringon hin kadiyosan nga salapi o bulawan nga pagsisingbahon niyo ngan itatampo ha akon.

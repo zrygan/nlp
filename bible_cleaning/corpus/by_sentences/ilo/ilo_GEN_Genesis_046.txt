@@ -22,7 +22,8 @@ verse	content
 012	Dagiti lallaki nga annak ni Perez: Hezron ken Hamul.
 013	Ni Issacar ken dagiti lallaki nga annakna: Tola, Pua, Yob ken Simron.
 014	Ni Zabulon ken dagiti lallaki nga annakna: Sered, Elon ken Jaleel.
-015	Dagitoy dagiti annak ken appoko da Lea ken Jacob; nayanakda amin idiay Padan-aram, malaksid ni Dina nga anakda a babai.
+015	Dagitoy dagiti annak ken appoko da Lea ken Jacob;
+015	nayanakda amin idiay Padan-aram, malaksid ni Dina nga anakda a babai.
 015	Agdagup iti 33 dagiti kaputotanda ken ni Lea.
 016	Ni Gad ken dagiti annakna: Zifion, Aggi, Suni, Ezbon, Eri, Arodi ken Areli.
 017	Ni Aser ken dagiti lallaki nga annakna: Jimna, Isva, Isvi, Beria ken ni Sera a kabsatda a babai.

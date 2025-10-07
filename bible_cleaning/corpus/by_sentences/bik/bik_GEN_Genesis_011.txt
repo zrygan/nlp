@@ -5,7 +5,8 @@ verse	content
 003	Kaya nagkaigwa sinda nin mga ladrilyo embes na gapo asin aspalto embes na semento.
 004	Dangan nagsabi sinda, Gumibo kita nin sarong syudad, na igwa nin tore na abot sa langit, tanganing mabantog kita asin dai magkasiriblag sa bilog na kinaban.
 005	Naghilig an Kagurangnan tanganing hilingon an syudad asin an tore na ginibo kan mga tawo.
-006	Nagtaram siya, An mga tawong ini nagkakasararo asin saro sana an saindang lengwahe; iyo ini an kapinonan kan saindang mga gigibohon.
+006	Nagtaram siya, An mga tawong ini nagkakasararo asin saro sana an saindang lengwahe;
+006	iyo ini an kapinonan kan saindang mga gigibohon.
 006	Dai mahahaloy magigibo na ninda an ano man na saindang mawoton.
 007	Magduman kita asin ribongon ta an saindang lengwahe tanganing dai na sinda magkasinarabotan.
 008	Kaya iwinarak nin Kagurangnan an mga tawo sa bilog na kinaban asin binayaan kan mga ini an pagtugdok kan syudad.
@@ -33,5 +34,6 @@ verse	content
 028	Naenot na nagadan si Haran ki sa ama niyang si Tera, duman sa dagang namundagan niya, sa Ur kan Babilonia.
 029	Naagom ni Abram si Sarai asin naagom ni Nahor si Milca na aki ni Haran asin tugang ni Isca.
 030	Alagad baog si Sarai kaya dai siya nagkaaki.
-031	Kan maghale si Tera sa Ur kan Babilonia tanganing magduman sa Canaan, ipinag-iba niya si Abram na saiyang aki, an makoapo niyang si Lot na aki ni Haran asin an manugang niyang si Sarai; alagad kan makaabot sinda sa Haran, duman na sinda nag-erok.
+031	Kan maghale si Tera sa Ur kan Babilonia tanganing magduman sa Canaan, ipinag-iba niya si Abram na saiyang aki, an makoapo niyang si Lot na aki ni Haran asin an manugang niyang si Sarai;
+031	alagad kan makaabot sinda sa Haran, duman na sinda nag-erok.
 032	Nagadan si Tera sa Haran sa edad na dos syentos singkong taon.

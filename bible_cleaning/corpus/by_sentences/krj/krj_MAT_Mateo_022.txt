@@ -5,14 +5,17 @@ verse	content
 004	Gani nagsugo ruman tana kang iba pa gid nga mga surugoon kag ginkun-an, Ikun-on ninyo ang mga ginpang-imbitar nga handa run ang akun tabad.
 004	Ang akun mga baka kag mga tinday nga pinatambuk naihaw run kag ang tanan handa run.
 004	Gani agto run kamo dya sa tabad!
-005	Pero wara magsapak ang mga gin-imbitar nga to; nagpadayon lang sanda sa andang buruhatun.
-005	Ang isara nag-agto sa anang uma; ang isara tana sa anang negosyo.
+005	Pero wara magsapak ang mga gin-imbitar nga to;
+005	nagpadayon lang sanda sa andang buruhatun.
+005	Ang isara nag-agto sa anang uma;
+005	ang isara tana sa anang negosyo.
 006	Ang iba tana nga gin-imbitar ginpangdakup nanda ang mga surugoon, ginpintasan nanda kag ginpamatay.
 007	Naugut gid ang hari.
 007	Amo to kag ginsugo na ang anang mga suldado nga pamatyun ang mga nagpamatay kang anang mga surugoon kag sunugon ang andang syudad.
 008	Dayon ginkun-an na ang iba pa nga anang mga surugoon nga, Handa run ang tabad, pero ang mga tawo nga gin-imbitar indi takus nga magtambong.
 009	Kar-on, agto kamo sa mga karsadahun kag imbitara ninyo ang tanan nga tawo nga inyo makita.
-010	Gani ang mga surugoon nag-aragto sa mga karsadahun kag gintipon nanda ang tanan nga tawo nga anda nakita, ang mga mayad kag ang mga malain; kag ang karan-an sa tabad nabuta kang mga bisita.
+010	Gani ang mga surugoon nag-aragto sa mga karsadahun kag gintipon nanda ang tanan nga tawo nga anda nakita, ang mga mayad kag ang mga malain;
+010	kag ang karan-an sa tabad nabuta kang mga bisita.
 011	Pero kang pagsulud kang hari para agtonan ang mga bisita, may nakita tana nga sangka tawo rugto nga wara nakasuksok kang bayo para sa tabad.
 012	Ginpamangkot tana kang hari, Amigo, paano ikaw nakasulud rugya nga wara nakasuksok kang bayo nga para sa tabad?
 012	Ang tawo wara makasabat.
@@ -41,7 +44,8 @@ verse	content
 028	Kang urihi run, napatay man ang bayi.
 029	Kar-on, sa adlaw nga ang mga patay banhawun, kay sin-o bay tana asawa tungud hay tanan sanda nakapangasawa kana?
 030	Nagsabat si Jesus, Nagsayup gid kamo tungud hay wara kamo nakamaan kang ginakuon sa kasulatan ukon kang gahum kang Dios.
-031	Tungud hay sa adlaw nga ang mga patay banhawun indi run mag-arasawahay; mangin pareho run sanda kang mga anghel sa langit.
+031	Tungud hay sa adlaw nga ang mga patay banhawun indi run mag-arasawahay;
+031	mangin pareho run sanda kang mga anghel sa langit.
 032	Kon nahanungud tana sa pagkabanhaw, wara ninyo haw mabasa ang ginkuon kang Dios kaninyo?
 032	Nagkuon tana,
 033	Ako ang Dios ni Abraham, ang Dios ni Isaac, kag ang Dios ni Jacob.

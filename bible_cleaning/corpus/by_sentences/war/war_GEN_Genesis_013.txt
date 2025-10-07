@@ -21,6 +21,7 @@ verse	content
 013	kanay mga tawo magraot ngan dagko nga mga magpakasasala kontra han Ginoo .
 014	Han pagbaya na ni Lot, nagsiring an Ginoo ngadto Abram, Tikang han imo hinmumutangan tan-aw hin maupay ngadto han ngatanan nga dapit.
 015	Ighahatag ko ha imo ngan han imo mga tulin an ngatanan nga tuna nga matatan-aw han imo mga mata, ngan pagtatag-iyahon ini niyo ha kadayonan.
-016	Tatagan ko ikaw hin damo hin duro nga mga tulin nga waray tawo nga makakaihap ha ira ngatanan; masusugad ini hin pag-ihap han tagsa nga tapotapo han tuna.
+016	Tatagan ko ikaw hin damo hin duro nga mga tulin nga waray tawo nga makakaihap ha ira ngatanan;
+016	masusugad ini hin pag-ihap han tagsa nga tapotapo han tuna.
 017	Yana, kadto na ngan tan-awa an bug-os nga tuna, kay ighahatag ko ini ngatanan ha imo.
 018	Sanglit ginbalhin ni Abram an iya kampo ngan nag-ukoy hiya ha hirani han baraan nga kakahoyan han Mamre didto ha Hebron, ngan didto nagtindog hiya hin usa nga altar ngadto han Ginoo .

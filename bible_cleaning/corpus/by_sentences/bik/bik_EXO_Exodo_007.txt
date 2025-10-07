@@ -8,7 +8,8 @@ verse	content
 007	Otsenta an edad ni Moises, asin otsenta y tres si Aaron kan makipag-olay sinda sa hade.
 008	Nagtaram an Kagurangnan ki Moises asin ki Aaron,
 009	Kun an hade magpagibo saindo nin ngangalasan bilang patotoo na sinugo ko kamo, sabihan mo si Aaron na itapok an saiyang sugkod sa atubang kan hade asin magigin halas an sugkod.
-010	Kaya nagduman sinda sa hade dangan ginibo an ipinagboot nin Kagurangnan ; itinapok ni Aaron an saiyang sugkod sa atubangan kan hade asin kan saiyang mga opisyal, asin nagin halas an sugkod.
+010	Kaya nagduman sinda sa hade dangan ginibo an ipinagboot nin Kagurangnan ;
+010	itinapok ni Aaron an saiyang sugkod sa atubangan kan hade asin kan saiyang mga opisyal, asin nagin halas an sugkod.
 011	Dangan ipinaapod kan hade an mga tawong madodonong asin an mga salamangkero kan Egipto, na huli kan saindang tagong kadonongan naarog ninda an ginibo ni Aaron.
 012	Itinapok kan lambang saro sainda an saiyang sugkod asin nagin halas man an mga ini.
 012	Alagad hinalon kan sugkod ni Aaron an mga sugkod ninda.
@@ -22,10 +23,12 @@ verse	content
 017	Hilinga, papakulon ko kan sugkod na ini an Salog nin Nilo asin an tubig magigin dugo.
 018	Magkakagaradan an mga sira asin mabata an salog, kaya an mga Egipcio dai makakainom kan tubig kaini.
 019	Nagtaram an Kagurangnan ki Moises, Sabihan mo si Aaron na kuahon an saiyang sugkod asin unaton an saiyang kamot sa tangod kan katubigan kan Egipto, sa ibabaw kan saindang mga salog, kanal asin sapa.
-019	An tubig magigin dugo; magkakaigwa nin dugo sa bilog na daga sagkod sa mga tapayan asin batya.
+019	An tubig magigin dugo;
+019	magkakaigwa nin dugo sa bilog na daga sagkod sa mga tapayan asin batya.
 020	Ginibo ni Moises asin ni Aaron an ipinagboot nin Kagurangnan .
 020	Sa atubang kan hade dangan kan saiyang mga opisyal, itinaas ni Aaron an saiyang sugkod saka pinakol an tubig kan Nilo, kaya an bilog na salog nagin dugo.
-021	Nagkagaradan an mga sira; buminata an salog mala ta an mga Egipcio dai nakainom kan tubig kaini.
+021	Nagkagaradan an mga sira;
+021	buminata an salog mala ta an mga Egipcio dai nakainom kan tubig kaini.
 021	Nagkaigwa nin dugo sa bilog na daga nin Egipto.
 022	Alagad sa paagi kan saindang tagong kadonongan ginibo man kan mga salamangkero kan hade an ginibo ni Aaron kaya orog na nagmatagas an hade saka habong magdangog ki Moises asin ki Aaron sosog sa itinaram nin Kagurangnan .
 023	Binayaan niya sinda dangan nagpuli sa saiyang palasyo na garo mayong nangyari.

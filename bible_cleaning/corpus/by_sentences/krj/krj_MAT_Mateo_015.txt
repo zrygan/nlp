@@ -13,7 +13,8 @@ verse	content
 010	Ang andang pagsimba kanakun wara ti kapuslanan,
 011	tungud hay ginatudlo nanda ang pagturon-an nga ginhimo-himo lang kang tawo nga kuno kanakun maghalin.
 012	Gintawag ni Jesus ang mga tawo nga magparapit kana kag ginkun-an, Pamati kamo kag hangpa ninyo dyaay
-013	Bukun ti ang ginakaun kang tawo ang makadagta kana, kundi kon ano ang nagagwa sa anang ba-ba; amo ria ang makadagta kana.
+013	Bukun ti ang ginakaun kang tawo ang makadagta kana, kundi kon ano ang nagagwa sa anang ba-ba;
+013	amo ria ang makadagta kana.
 014	Dayon nagparapit kana ang anang mga disipulo kag nagkuon, Naman-an mo bala nga naglain ang buut kang mga Fariseo sa ginpanghambal nimo?
 015	Nagsabat si Jesus paagi sa paanggid, Ang kada tanum nga wara gintanum kang akun Amay sa langit pagagabuton.
 016	Pabay-i lang ninyo sanda.
@@ -42,7 +43,8 @@ verse	content
 031	Dayon nagtukad tana sa bakulod kag nagpungko para magtudlo.
 032	Duro gid nga mga tawo ang nag-aragto kana nga nagadara kang mga piang, bulag, pingkaw, apa, kag duro pa gid nga mga masakitun.
 032	Ginpangbutang nanda ang mga masakitun sa may atubang ni Jesus kag ginpang-ayad na sanda.
-033	Daw indi gid makapati ang mga tawo kang nakita nanda nga ang mga apa makahambal run, ang mga pingkaw naayad run, ang mga piang makapanaw run kag ang mga bulag makakita run; kag gindayaw nanda ang Dios kang Israel.
+033	Daw indi gid makapati ang mga tawo kang nakita nanda nga ang mga apa makahambal run, ang mga pingkaw naayad run, ang mga piang makapanaw run kag ang mga bulag makakita run;
+033	kag gindayaw nanda ang Dios kang Israel.
 034	Gintawag ni Jesus ang anang mga disipulo kag nagkuon, Nangir-o gid ako sa mga tawo nga dya hay tatlo ka adlaw run sanda nga nagaimaw kanakun kag wara run sanda ti makaun.
 034	Indi ako gusto nga mag-uroli sanda nga wara makakaun hay basi bala kon magkaralipung sanda sa dalan.
 035	Namangkot ang mga disipulo kana, Sa diin bay kita makabuul kang pagkaun rugya sa disyerto para sa amo dya kaduro nga mga tawo?

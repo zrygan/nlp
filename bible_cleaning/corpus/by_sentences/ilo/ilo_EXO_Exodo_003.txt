@@ -39,7 +39,8 @@ verse	content
 019	Kalpasanna, kakuyogmonto dagiti pangulo ti Israel a mapan iti ari ti Egipto ket kunayonto kenkuana, Nakisao kadakami ni Yahweh a Dios dagiti Hebreo.
 019	Palubosannakami koma a mapan idiay let-ang iti tallo nga aldaw tapno agidatagkami iti daton ken ni Yahweh a Diosmi.
 020	Ammok a dinakayto palubosan ti ari malaksid no mapilit.
-021	Ngem usarekto ti pannakabalinko ket dusaekto ti Egipto; nakabutbutengto dagiti aramidek sadiay.
+021	Ngem usarekto ti pannakabalinko ket dusaekto ti Egipto;
+021	nakabutbutengto dagiti aramidek sadiay.
 021	Kalpasan dayta, palubosannakayton.
 022	Itan-okkonto dagiti tattaok tapno raemen ida dagiti Egipcio ket inton pumanawda, saandanto nga ima-ima.
 023	Mapanto ti tunggal babai nga Israelita iti babai nga agnaed iti balay ti kaarrubana nga Egipcio ket dumawat iti pagan-anay ken alahas a pirak ken balitok.

@@ -9,7 +9,8 @@ verse	content
 006	Nkkuyug ti Jesus dikodi, peru dikona adeni dn siya ten bilay ay natagbu na en amigu hidi nen kapitan.
 006	Inutusan hidi nen kapitan para pekagi na knni Jesus en kona hddi: Panginoon, dyan ka dn magabala, gapu awank karapatdapat a angayan mu ten bilay ku.
 007	Sakay awank pa bi karapatdapat a umatubeng dikomu, nan kagiyn mu la ay magpiyya dn en alipin ku.
-008	Sakupk nen pinunu hidi a mas mataas nan sikn, sakay tehudk bi a nasakupan a sundalu hidi; ni kagiyn ku ten essa a, Angay ka hudi!
+008	Sakupk nen pinunu hidi a mas mataas nan sikn, sakay tehudk bi a nasakupan a sundalu hidi;
+008	ni kagiyn ku ten essa a, Angay ka hudi!
 008	ay sumunud iyud.
 008	Ni kagiyn ku bi ten essa a, Karon hd!
 008	ay umadeni iyud.
@@ -35,7 +36,8 @@ verse	content
 019	sakay pinaangay na hidi ten Panginoon tnni itanung di ni siya dn en nepangaku a dumemt, oni maguray pa hidi ti agum.
 020	Kddemt di knni Jesus ay kinagi di, Pinaangay kami hddi ni Juan a Mgbinyag gapu petanung na ni siko dn en impangaku a dumemt, oni maguray kami pa ti iba?
 021	Ti odasid a iyud ay makpal en pinagpiyya ni Jesus ten tehud hidi a manga saket, mahigpit a bbbatiyn, en sinddp hidi ni mgkaduks a ispiritu sakay makpal bi a burk en pinaketa na.
-022	Kinagi ni Jesus ten disepulus hidi ni Juan, Sumoli kamon knni Juan sakay kagiyn moy dikona en netan moy sakay nasanig; maketa dn en burk hidi, makalakad dn en pilay hidi, nagpiyya dn en kinetong hidi, makasanig dn en bngngg hidi, nabiyag a ruway en patay hidi, sakay ipppangaral en Maganda a Bareta ten pubri hidi.
+022	Kinagi ni Jesus ten disepulus hidi ni Juan, Sumoli kamon knni Juan sakay kagiyn moy dikona en netan moy sakay nasanig;
+022	maketa dn en burk hidi, makalakad dn en pilay hidi, nagpiyya dn en kinetong hidi, makasanig dn en bngngg hidi, nabiyag a ruway en patay hidi, sakay ipppangaral en Maganda a Bareta ten pubri hidi.
 023	Pinagpala en tolay a awan magduda dikoku!
 024	Kllakad nen disepulus hidi ni Juan ay tehud a kinagi ti Jesus ten tolay hidi tungkul knni Juan, Bakin ummangay kam ten kaparangan?
 024	nya beman gustu moyid a ketan?
@@ -78,7 +80,8 @@ verse	content
 044	Bilang katbbigan ten ked ten isip ni Simon ay kinagi ni Jesus, Simon, tehudk a kagiyn dikomu.
 044	nya iyud, Maistu?
 044	kagi ni Simon.
-045	Tulos a kinagi ni Jesus, Tehud a duwwa a tolay a nangddem ti pilak ten essa a mgpautang; en inddem nen essa ay limma datos a pilak a silber, sakay en essa bi ay limmapulu a pilak a silber.
+045	Tulos a kinagi ni Jesus, Tehud a duwwa a tolay a nangddem ti pilak ten essa a mgpautang;
+045	en inddem nen essa ay limma datos a pilak a silber, sakay en essa bi ay limmapulu a pilak a silber.
 046	Dikona parehu hidi a awan nakabayad ten utang di ay pinatawad hidi nen nangutangan di.
 046	Nadid i tanung kuwid dikomu, ay deya ten duwwa en mas mangmahal ten nagpautang dikodi?
 047	Tummbbig ti Simon, Palagay kuwid ay en pinatawad ten dikl ti inutang.

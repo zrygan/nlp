@@ -5,9 +5,11 @@ verse	content
 003	Si Jacob ay nagpasugo kay Esau na kanyang kapatid sa lupain ng Seir, sa bayan ng Edom.
 004	Sila'y kanyang inutusan na sinasabi, Ganito ang inyong sasabihin kay Esau na aking panginoon.
 004	Ganito ang sabi ng iyong lingkod na si Jacob, Ako'y tumigil ng ilang panahon kay Laban at namalagi roon hanggang ngayon.
-005	Mayroon akong mga baka, mga asno, mga kawan, at mga aliping lalaki at babae; at ako'y nagpasugo sa aking panginoon, upang ako'y makatagpo ng biyaya sa iyong paningin.
+005	Mayroon akong mga baka, mga asno, mga kawan, at mga aliping lalaki at babae;
+005	at ako'y nagpasugo sa aking panginoon, upang ako'y makatagpo ng biyaya sa iyong paningin.
 006	Ang mga sugo ay bumalik kay Jacob, na nagsasabi, Nakarating kami sa iyong kapatid na si Esau, at siya ay darating din upang sumalubong sa iyo, at kasama niya ang apatnaraang tao.
-007	Kaya't natakot nang husto at nabahala si Jacob; at kanyang hinati sa dalawa ang mga taong kasama niya, ang mga kawan, ang mga bakahan, at ang mga kamelyo.
+007	Kaya't natakot nang husto at nabahala si Jacob;
+007	at kanyang hinati sa dalawa ang mga taong kasama niya, ang mga kawan, ang mga bakahan, at ang mga kamelyo.
 008	At kanyang sinabi, Kung dumating si Esau sa isang pulutong at kanyang puksain ito, ang pulutong na natitira ay tatakas.
 009	Sinabi ni Jacob, O Diyos ng aking amang si Abraham, at Diyos ng aking amang si Isaac, O Panginoon , na nagsabi sa akin, Bumalik ka sa iyong lupain at sa iyong kamag-anak at gagawa ako ng mabuti sa iyo.
 010	Hindi ako karapat-dapat sa lahat ng kaawaan, at lahat ng katotohanan na iyong ginawa sa iyong lingkod sapagkat dumaan ako sa Jordang ito na dala ang aking tungkod, at ngayo'y naging dalawang pulutong ako.
@@ -22,11 +24,13 @@ verse	content
 017	Saan ka pupunta?
 017	At kanino itong nasa unahan mo?
 018	Kung magkagayo'y sasabihin mo, Sa iyong lingkod na si Jacob.
-018	Ito ay isang regalo na padala para sa aking panginoong si Esau; at bukod dito, siya'y nasa hulihan namin.
+018	Ito ay isang regalo na padala para sa aking panginoong si Esau;
+018	at bukod dito, siya'y nasa hulihan namin.
 019	Gayundin, iniutos niya sa ikalawa, sa ikatlo, at sa lahat ng sumusunod sa mga kawan, na sinasabi, Sasabihin ninyo ang gayunding bagay kay Esau, kapag nakasalubong ninyo siya,
 020	at sasabihin ninyo, Bukod dito, ang iyong lingkod na si Jacob ay nasa hulihan namin.
 020	Sapagkat kanyang iniisip, Baka mapaglubag ko ang kanyang galit sa pamamagitan ng regalo na ipinauna ko, at pagkatapos ay makikita ko ang kanyang mukha, marahil ay tatanggapin niya ako.
-021	Kaya't ang regalo ay ipinadala na nauna sa kanya; at siya'y nanatili sa kampo nang gabing iyon.
+021	Kaya't ang regalo ay ipinadala na nauna sa kanya;
+021	at siya'y nanatili sa kampo nang gabing iyon.
 022	Nang gabing iyon, siya'y bumangon at isinama niya ang kanyang dalawang asawa, ang kanyang dalawang aliping babae, at ang kanyang labing-isang anak at tumawid sa tawiran ng Jaboc.
 023	Sila'y kanyang isinama at itinawid sa batis, at kanya ring itinawid ang lahat ng kanyang ari-arian.
 024	Naiwang nag-iisa si Jacob at nakipagbuno sa kanya ang isang lalaki hanggang sa magbukang-liwayway.
@@ -35,10 +39,12 @@ verse	content
 026	At sinabi ni Jacob, Hindi kita bibitawan malibang ako ay mabasbasan mo.
 027	Sinabi ng lalaki kay Jacob, Ano ang pangalan mo?
 027	At kanyang sinabi, Jacob.
-028	Sinabi niya, Ang iyong pangalan ay hindi na tatawaging Jacob, kundi Israel; sapagkat ikaw ay nakipaglaban sa Diyos at sa mga tao, at ikaw ay nagtagumpay.
+028	Sinabi niya, Ang iyong pangalan ay hindi na tatawaging Jacob, kundi Israel;
+028	sapagkat ikaw ay nakipaglaban sa Diyos at sa mga tao, at ikaw ay nagtagumpay.
 029	Siya'y tinanong ni Jacob, Hinihiling ko sa iyo na sabihin mo sa akin ang iyong pangalan.
 029	At kanyang sinabi, Bakit itinatanong mo ang aking pangalan?
 029	At siya'y binasbasan doon.
 030	Tinawag ni Jacob ang pangalan ng lugar na iyon na Peniel na sinasabi, Sapagkat nakita ko ang Diyos sa harapan, at naligtas ang aking buhay.
-031	Sinikatan siya ng araw nang siya'y dumaraan sa Penuel; at siya'y papilay-pilay dahil sa kanyang hita.
+031	Sinikatan siya ng araw nang siya'y dumaraan sa Penuel;
+031	at siya'y papilay-pilay dahil sa kanyang hita.
 032	Dahil dito, hanggang ngayon ay hindi kumakain ang mga anak ni Israel ng litid ng balakang na nasa kasu-kasuan ng hita, sapagkat dito hinampas ng taong nakipagbuno ang kasu-kasuan ng hita ni Jacob, sa litid ng balakang.

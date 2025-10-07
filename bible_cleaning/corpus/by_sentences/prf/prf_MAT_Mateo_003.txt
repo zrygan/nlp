@@ -14,7 +14,8 @@ verse	content
 011	Patunayan moy pa ten kkkabiyag moy a talaga a inadggan moy dn en kasalanan moy hidi.
 012	Sakay dyan moy kagiyn a makaligtas kam ten parusa nen Diyos gapu kagi moy a lahi kam ni Abraham.
 012	Kagiyn ku dikomoy a kaya nen Diyos a manglalang ti batuwiday hidi ti tatarudan a lahi ni Abraham.
-013	Nadid palla ay nakahanda dn en wasay a pagkttol ten gamot nen kayu; en bawat kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
+013	Nadid palla ay nakahanda dn en wasay a pagkttol ten gamot nen kayu;
+013	en bawat kayu a awan magbunga ti maganda ay pukann sakay ibut ten apoy.
 014	Binyagan takam ten dinom bilang tanda a nagsisi kamon sakay inumadg ten kasalanan moy hidi.
 014	Peru en dumemt a kasunud ku ay siya en mangbinyag dikomoy ti Banal a Ispiritu sakay ti apoy.
 014	Mas makapangyariyan siya nan sikn, awank ngani karapatdapat maski ni tagatawid la ten sandalyas na.

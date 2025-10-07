@@ -40,7 +40,8 @@ verse	content
 029	Pareho bala kon may kasal.
 029	Ang nobya para lang sa nobyo.
 029	Ang amigo kang nobyo rugyan lang nga nagatindug kag nagpamati, kag nagakasadya tana kon mabatian na nga maghambal ang nobyo.
-029	Amo man karia nga kasadya ang akun nabatyagan; tuman gid ang akun kasadya hay makita ko ang mga tawo nagaparapit kay Jesus.
+029	Amo man karia nga kasadya ang akun nabatyagan;
+029	tuman gid ang akun kasadya hay makita ko ang mga tawo nagaparapit kay Jesus.
 030	Kinahanglan nga mas makilala tana nga labing importante, kag ako tana dapat nga malipatan run.
 031	Tana nga halin sa langit amo ang gamhanan sa tanan.
 031	Kag ang sa kalibutan halin kalibutanun, kag ang anang mga ginapanghambal parte lang sa mga butang nga rugya sa kalibutan.

@@ -3,9 +3,12 @@ verse	content
 001	Sanglit gindara niya an iya duha nga mga anak nga kalalaken-an, hira Manases ug Efraim, ngan kinmadto hira hin pakigkita kan Jacob.
 002	Han pagsumati la kan Jacob nga inmabot hi Jose hin pakigkita ha iya, naniguro hiya hin paglingkod dida han higdaan.
 003	Nagsiring hi Jacob kan Jose, Pinmakita ha akon an Dyos nga Labi Kamakagarahum didto ha Luz, didto ha tuna han Canaan, ngan ginbendisyonan ako.
-004	Nagsiring hiya ha akon, Tatagan ko ikaw hin damo nga mga anak, basi mahimo an imo mga tulin nga damo nga mga nasod; ighahatag ko ini nga tuna ngadto han imo mga tulin sugad nga ira dayon nga panurundon.
-005	Nagpadayon hi Jacob, Jose, akon an imo duha nga mga anak nga kalalaken-an nga natawo dinhe ha Ehipto han waray pa ako kakanhi; akon gud mga anak hira Efraim ug Manases sugad kanda Ruben ug Simeon.
-006	Kon may-ada pa nimo iba nga mga anak nga kalalaken-an, diri hira pag-iisipon nga akon; maaangkon nira an ira panurundon pinaagi kanda Efraim ug Manases.
+004	Nagsiring hiya ha akon, Tatagan ko ikaw hin damo nga mga anak, basi mahimo an imo mga tulin nga damo nga mga nasod;
+004	ighahatag ko ini nga tuna ngadto han imo mga tulin sugad nga ira dayon nga panurundon.
+005	Nagpadayon hi Jacob, Jose, akon an imo duha nga mga anak nga kalalaken-an nga natawo dinhe ha Ehipto han waray pa ako kakanhi;
+005	akon gud mga anak hira Efraim ug Manases sugad kanda Ruben ug Simeon.
+006	Kon may-ada pa nimo iba nga mga anak nga kalalaken-an, diri hira pag-iisipon nga akon;
+006	maaangkon nira an ira panurundon pinaagi kanda Efraim ug Manases.
 007	Binubuhat ko ini tungod kan Raquel nga imo nanay.
 007	Ha dako nga akon kabidoan, namatay hiya didto ha tuna han Canaan nga diri hirayo tikang ha Efrata, dida han naoli na ako tikang ha Mesopotamia.
 007	Iginlubong ko hiya didto ha ligid han dalan tipakadto ha Efrata.
@@ -33,9 +36,11 @@ verse	content
 027	pinaagi hini nga kabataan!
 028	Magkamay-ada unta hira damo nga mga anak,
 029	damo nga mga tulin!
-030	Waray malipay hi Jose han paghikit-i niya nga iginpandong han iya amay an iya tuo nga kamot dida han ulo ni Efraim; sanglit kinuha niya an kamot han iya amay hin pagbalhin hini tikang han ulo ni Efraim ngadto han ulo ni Manases.
+030	Waray malipay hi Jose han paghikit-i niya nga iginpandong han iya amay an iya tuo nga kamot dida han ulo ni Efraim;
+030	sanglit kinuha niya an kamot han iya amay hin pagbalhin hini tikang han ulo ni Efraim ngadto han ulo ni Manases.
 031	Ginsiring niya an iya tatay, Diri amo ito, tatay.
-031	Amo ini an magurang nga bata; igpandong ha iya ulo an imo tuo nga kamot.
+031	Amo ini an magurang nga bata;
+031	igpandong ha iya ulo an imo tuo nga kamot.
 032	Dinmiri an iya amay nga nasiring, Maaram ako, anak, maaram ako.
 032	Mahihimo liwat nga usa nga dako nga katawhan an mga tulin ni Manases.
 032	Kundi mahihimo nga labi hin kagamhanan an iya manghod kay ha iya, ngan mahihimo an iya mga tulin nga dagko nga mga nasod.

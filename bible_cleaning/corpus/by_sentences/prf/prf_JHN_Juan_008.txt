@@ -19,7 +19,8 @@ verse	content
 014	Nadid, ruway a nagtoldu ti Jesus ten Pariseo hidi.
 014	Kinagi na, Sikn en demlag ni munduwiday.
 014	En sumunud dikoku ay magkahud ti demlag ten biyag na sakay awan dn maglakad ten diklm.
-015	Kinagi nen Pariseo hidi, Siko labiyen a mismu i mangpatunayid ti sadili muwen; awan ti kuwenta i konaid han a pgpatunay.
+015	Kinagi nen Pariseo hidi, Siko labiyen a mismu i mangpatunayid ti sadili muwen;
+015	awan ti kuwenta i konaid han a pgpatunay.
 016	Tummbbig ti Jesus, Maski sikn la mangpatunayid ti sadili kuwidi ay tatarudan i kkkagiyn kuwidi, gapu tukoy ku ni hdyak a naggubwat sakay ni hdya angayan kuwid.
 016	Peru sikam ay awan moy tukoy ni hdya naggubwatan kuwid sakay angayan kuwid.
 017	Maghatul kam ayun ten pangileng nen tolay, peru sikn ay awank maghatul maski kndeya.
@@ -32,7 +33,8 @@ verse	content
 022	Ni matenggiyk moy ay matenggi moy bi en Ama ku.
 023	Kinagi iyd ni Jesus ten Templo ten dang nen pgdttonan ti alay.
 023	Peru awan ti nangahas a mangdikp dikona, gapu awan na palla odas.
-024	Ruway a kinagi ni Jesus dikodi, Adeniyk dn a lumakad sakay aryoknnk moy; peru awan kam makaangay ten angayan ku.
+024	Ruway a kinagi ni Jesus dikodi, Adeniyk dn a lumakad sakay aryoknnk moy;
+024	peru awan kam makaangay ten angayan ku.
 024	Mgkatay kam a awan palla mapatawad en kasalanan moy hidi.
 025	Namgguron en Judio hidi, Magpakamatay bewd bakin a kinagi na a, Awan kam makaangay ten angayan ku?
 026	Kinagi ni Jesus dikodi, Sikam ay taga-dibbbi, sikn ay taga-disunu.
@@ -54,11 +56,13 @@ verse	content
 036	matukuyan moy en katutuhanan, sakay en katutuhanan en mangpalaya dikomoy.
 037	Tummbbig hidi dikona, Gubwat kami ten lahi ni Abraham sakay maski nikan ay awan kami naalipin nen deyaman?
 037	Konya mu a makagi a palayan kami?
-038	Tummbbig ti Jesus, Kagiyn ku dikomoy; a en mabiyag ti kasalanan ay alipin ni kasalanan.
+038	Tummbbig ti Jesus, Kagiyn ku dikomoy;
+038	a en mabiyag ti kasalanan ay alipin ni kasalanan.
 039	En alipin ay awan kabilang ten pamilya a habang panahun, peru en anak ay kabilang a awan ti katapusan.
 040	Mara ni pinalaya kamon nen Anak, ay talaga ngani a malaya kamon.
 041	Tukoy ku a lahi kam ni Abraham, peru gustuwk moy a bunuwn gapu awan moy matanggap en itoldu ku dikomoy.
-042	En kkkagiyn ku dikomoy ay en neta ku ten Ama ku; peru sikam en gggamitn moy ay en nasanig moy ten ama moy.
+042	En kkkagiyn ku dikomoy ay en neta ku ten Ama ku;
+042	peru sikam en gggamitn moy ay en nasanig moy ten ama moy.
 043	Ti Abraham i Ama miyid, kagi nen Judio hidi.
 044	Kinagi ni Jesus dikodi, Ni talaga a lahi kam ni Abraham, ay di arign moy nakuwan en ginamet na.
 045	Kinagi ku la en katutuhanan a nasanig ku ten Diyos peru gustuwk moy dn a bunuwn.

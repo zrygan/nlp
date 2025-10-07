@@ -14,7 +14,9 @@ verse	content
 011	Natrangkahan run ang pwertahan kag kami kang akun mga kabataan nagabaratang run.
 011	Indi run ako makabangon kag magtugro kanimo ka bisan ano!
 012	Sugidan ko kamo, kon indi man tana magbangon sa pagtugro kanimo kang bisan ano sa rason nga amigohay kamo, magabangon run lang gid tana kag tugroan ikaw kang tanan mo nga kinahanglan tungud nga wara ikaw magmayha ka sagad pangayo kana.
-013	Gani ginakun-an ko kamo, magpangayo kamo kag mabaton ninyo ang inyo ginapangayo; magpangita kamo kag makita ninyo ang inyo ginapangita; magpanuktok kamo kag pagabuksan kaninyo ang gawang.
+013	Gani ginakun-an ko kamo, magpangayo kamo kag mabaton ninyo ang inyo ginapangayo;
+013	magpangita kamo kag makita ninyo ang inyo ginapangita;
+013	magpanuktok kamo kag pagabuksan kaninyo ang gawang.
 014	Tungud hay ang kada isara nga nagapangayo magabaton, ang nagapangita makakita, kag ang nagapanuktok pagabuksan kana ang gawang.
 015	Kamo nga mga tatay, kon mangayo kang isda ang inyo bata, tugroan bala ninyo tana kang sawa?
 016	Ukon, kon mangayo tana kang itlog, tugroan bala ninyo tana ka iwi-iwi?
@@ -75,7 +77,8 @@ verse	content
 050	Nagsabat si Jesus, Makaluluoy man kamo nga mga manunudlo kang Kasugoan!
 050	Ginatugroan ninyo ang mga tawo kang mga mabudlay nga turumanun kag ipapas-an kananda, pero kamo mismo wara nagabulig bisan gamay lang para nga masarangan dya idar-un kang mga tawo.
 051	Makaluluoy gid kamo, tungud hay ginapahimoan ninyo kang rulubngan ang mga propeta nga ginpamatay kang inyo mga kaulangan!
-052	Sa ginhimo ninyo nga ria, nagapamatuod lang nga nagapasugot kamo sa mga hinimoan kang inyo mga kaulangan; sanda ang nagpamatay kang mga propeta, kag kamo tana amo ang nagpahimo kang andang mga rulubngan.
+052	Sa ginhimo ninyo nga ria, nagapamatuod lang nga nagapasugot kamo sa mga hinimoan kang inyo mga kaulangan;
+052	sanda ang nagpamatay kang mga propeta, kag kamo tana amo ang nagpahimo kang andang mga rulubngan.
 053	Tungud karia, ang Dios sa anang kaaram nagkuon, Magapadara ako kananda kang mga propeta kag mga apostoles, nga ang iba pagapatyun nanda kag ang iba pagahingaboton nanda!
 054	Gani, ang mga tawo sa kadya nga panag-on amo ang magapanabat sa kamatayun kang tanan nga mga propeta nga ginpamatay katong una, halin pa kang pagtuga kang kalibutan
 055	umpisa sa kamatayun ni Abel hasta sa kay Zacarias nga ginpatay sa tunga kang altar kag kang Templo.

@@ -5,7 +5,8 @@ verse	content
 004	Pero nagsabat si Jesus, Nasulat sa kasulatan, Ang tawo indi lamang sa pagkaun mabuhi kundi sa kada pulong nga ginahambal kang Dios.
 005	Pagkatapos kato, gindara tana kang Yawa sa Jerusalem nga amo ang Balaan nga syudad, kag ginpatindug sa pinakamataas nga bahin kang Templo.
 006	Nagkuon ang Yawa kana, Kon matuod nga ikaw ang Anak kang Dios, abi paglumpat halin rugya kadya.
-006	Hay nasulat sa kasulatan, Suguon kang Dios ang anang mga anghel nga amligan ikaw; pagasapnayun nanda ikaw agud to nga bisan ang imong kahig indi makabunggu sa bato.
+006	Hay nasulat sa kasulatan, Suguon kang Dios ang anang mga anghel nga amligan ikaw;
+006	pagasapnayun nanda ikaw agud to nga bisan ang imong kahig indi makabunggu sa bato.
 007	Nagsabat si Jesus kana, Nasulat man sa kasulatan, Indi mo pagsulayun ang Ginoo nga imo Dios.
 008	Dayon gindara pa gid kang Yawa si Jesus sa tama gid ka taas nga bukid kag ginpakita kana ang tanan nga mga ginharian sa kalibutan kag ang andang mga kagamhanan.
 009	Kag nagkuon ang Yawa kana, Itugro ko kanimo ang tanan nga dya kon magaluhod ikaw kag simbahun ako.

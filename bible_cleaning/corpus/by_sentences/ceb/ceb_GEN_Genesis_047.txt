@@ -41,7 +41,8 @@ verse	content
 024	Aniay binhi aron ipugas ninyo sa inyong mga uma.
 025	Inigkating-ani, kinahanglan nga ang ikalimang bahin sa abot ihatag ninyo kang Paraon.
 025	Inyo na ang mahibilin aron binhion ug kan-on ninyo ug sa inyong mga pamilya.
-026	Mitubag sila, Sir, giluwas mo ang among kinabuhi; maayo ka kanamo ug mga ulipon na kami ni Paraon.
+026	Mitubag sila, Sir, giluwas mo ang among kinabuhi;
+026	maayo ka kanamo ug mga ulipon na kami ni Paraon.
 027	Busa gihimong balaod ni Jose sa tibuok Ehipto nga ang ikalimang bahin sa mga abot adto kang Paraon.
 027	Hangtod karon nagpabilin pa kining balaora.
 027	Ang yuta sa mga pari mao ray wala mapanag-iya ni Paraon.

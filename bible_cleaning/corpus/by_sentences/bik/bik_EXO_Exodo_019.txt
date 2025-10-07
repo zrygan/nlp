@@ -13,7 +13,8 @@ verse	content
 010	Ibinareta ni Moises sa Kagurangnan an simbag kan mga tawo.
 011	Tinaraman siya nin Kagurangnan , Magduman ka sa mga tawo asin sabihan mo na maglinig sinda ngunyan sagkod sa aga.
 011	Palabahan mo sainda an saindang mga gubing
-012	asin mag-andam sinda sa ikatolong aldaw; huli ta sa aldaw na iyan mahilig ako sa Bukid nin Sinai tanganing mahiling kan mga tawo.
+012	asin mag-andam sinda sa ikatolong aldaw;
+012	huli ta sa aldaw na iyan mahilig ako sa Bukid nin Sinai tanganing mahiling kan mga tawo.
 013	Bugtakan mo nin kasagkoran sa palibot kan bukid na dai dapat lampasan kan mga tawo, asin sabihan mo sinda na dai magtukad o magrani sa bukid.
 013	An maggibo kaiyan, gagadanon;
 014	mayo nin magduta saiya alagad dapat siyang gapoon o panaon.
@@ -21,18 +22,22 @@ verse	content
 014	Pagtanog kan trompeta, dangan na magrani sa bukid an mga tawo.
 015	Naghilig sa bukid si Moises asin pinaandam an mga tawo para sa pagsamba.
 015	Kaya linabahan ninda an saindang mga gubing.
-016	Sinabihan sinda ni Moises, Magin andam kamo sa ikatolong aldaw; mayo ngona nin magdorog.
+016	Sinabihan sinda ni Moises, Magin andam kamo sa ikatolong aldaw;
+016	mayo ngona nin magdorog.
 017	Pagkaaga kan ikatolong aldaw, nagkaigwa nin daguldol saka kikilat, nagtunga sa bukid an sarong mahibog na panganoron asin nadangog an makosog na tanog kan trompeta.
 017	An gabos na tawo sa kampo nagtarakig sa takot.
-018	Dinara ni Moises sa luwas kan kampo an mga tawo tanganing magsabat sa Dios; nagtindog sinda sa pamitisan kan bukid.
+018	Dinara ni Moises sa luwas kan kampo an mga tawo tanganing magsabat sa Dios;
+018	nagtindog sinda sa pamitisan kan bukid.
 019	Napatos nin aso an bukid huli ta naghilig duman an Kagurangnan sa porma nin kalayo.
 019	Nag-itaas an aso arog sa aso nin sarong horno asin naglinog nin makosog an bilog na bukid.
 020	Mantang orog na nagkokosog an tanog kan trompeta, nagtaram si Moises, asin sinimbag siya nin Dios sa daguldol.
 021	Huminilig an Kagurangnan sa alitoktok kan bukid asin inapod niya si Moises, kaya nagtukad ini.
 022	Tinaraman siya nin Kagurangnan , Maghilig ka asin patanidan mo an mga tawo na dai maglampas sa kasagkoran sa paghiling sako.
 022	Kun gibohon ninda iyan, dakul sainda an magagadan.
-023	Maski an mga padi na minadolok sako kaipuhan magpakabanal man; kun dai, papadusahan ko sinda.
+023	Maski an mga padi na minadolok sako kaipuhan magpakabanal man;
+023	kun dai, papadusahan ko sinda.
 024	Nagsabi si Moises sa Kagurangnan , Dai pwedeng magtukad an mga tawo huli ta nagboot ka samo na midbidon na banal an bukid asin bugtakan nin kasagkoran an palibot.
 025	Nagtaram an Kagurangnan , Maghilig ka asin ipag-iba mo digdi si Aaron.
-025	Alagad dai mo pagtugotan an mga padi asin an mga tawo na maglampas sa kasagkoran tanganing makarani sako; kun gibohon ninda iyan, papadusahan ko sinda.
+025	Alagad dai mo pagtugotan an mga padi asin an mga tawo na maglampas sa kasagkoran tanganing makarani sako;
+025	kun gibohon ninda iyan, papadusahan ko sinda.
 026	Naghilig si Moises asin sinabihan an mga tawo.

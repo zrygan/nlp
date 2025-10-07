@@ -1,9 +1,11 @@
 verse	content
 001	Gumibo kamo nin sarong altar na akasya.
-001	Kwadrado ini, na dos metros beynte sentimetros an laba asin an lakbang; an langkaw sarong metro may treynta sentimetros.
+001	Kwadrado ini, na dos metros beynte sentimetros an laba asin an lakbang;
+001	an langkaw sarong metro may treynta sentimetros.
 002	An ibabaw kan apat na kanto kan altar, pormahan nindo na garo mga sungay.
 002	Ini gibohon na magin sarong pedaso sana sagkod an altar dangan patoson nindo nin bronse an bilog na altar.
-003	Gumibo kamo nin mga kawa na bubugtakan kan abo; gumibo man kamo nin mga pala, mangko, pansipit saka mga bugtakan nin baga.
+003	Gumibo kamo nin mga kawa na bubugtakan kan abo;
+003	gumibo man kamo nin mga pala, mangko, pansipit saka mga bugtakan nin baga.
 003	Gibohon nindo iyan gabos sa bronse.
 004	Gumibo man kamo nin parilyang bronse dangan bugtakan nindo ini nin apat na siningsing na bronse sa lambang kanto.
 005	Dangan sa irarom kan sanipa, ibugtak nindo iyan magpoon sa kabangaan na parte kan altar paibaba.

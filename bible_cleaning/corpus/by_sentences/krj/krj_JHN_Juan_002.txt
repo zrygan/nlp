@@ -32,7 +32,8 @@ verse	content
 018	Dayon nagkuon kana ang mga pangulo kang mga Judio, Ano haw nga katingalahan ang imo mapakita kanamun bilang paratandaan nga may poder ikaw sa paghimo ka dya?
 019	Nagsabat si Jesus kananda, Gub-a ninyo ang templo nga dya kag tukodon ko liwan sa sulud kang tatlo ka adlaw!
 020	Nagsabat ang mga Judio, Araw-araw ta man ka imo nga ria!
-020	Gintukod ang dya nga templo sa sulud kang kap-atan kag anum ka tuig; kar-on tukodon mo liwan mo sa sulud lang kang tatlo ka adlaw!
+020	Gintukod ang dya nga templo sa sulud kang kap-atan kag anum ka tuig;
+020	kar-on tukodon mo liwan mo sa sulud lang kang tatlo ka adlaw!
 021	Pero ang templo tana nga ginatumud ni Jesus amo ang anang lawas.
 022	Gani nga kang mabanhaw tana halin sa mga minatay nadumduman kang anang mga disipulo ang ginkuon na nga dya.
 022	Kag nagtoo sanda sa ginkuon sa Kasulatan kag sa mga ginkuon nga to ni Jesus.

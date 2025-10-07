@@ -4,8 +4,10 @@ verse	content
 002	Balet inkuanen Abram, Katawan a DIOS , antoy kaabigan ya iter ed siak na tumang mo, anta anggapo met so anak ko.
 002	Si Eliezer labat a taga Damasco so tumatawir ko.
 003	Ag mo ak initday anak, kanyan say sakey ed saray aripen ko so manawir ed saray kayaryan ko.
-004	Arengel to lamet ya inkuan na Katawan , Ag tawiren nen Eliezer ya aripen mo iray kayaryan mo; say dilin anak mo so manawir.
-005	Say Katawan pinapaway to tan inkuanto, Nengneng moy tawen tan salim a bilangen iray bitewen; ontan naani so karakel na saray kabyangay boleg mo.
+004	Arengel to lamet ya inkuan na Katawan , Ag tawiren nen Eliezer ya aripen mo iray kayaryan mo;
+004	say dilin anak mo so manawir.
+005	Say Katawan pinapaway to tan inkuanto, Nengneng moy tawen tan salim a bilangen iray bitewen;
+005	ontan naani so karakel na saray kabyangay boleg mo.
 006	Anisiay Abram ed Katawan , tan lapud sayan pananisia to say Katawan impasen ton matonung si Abram.
 007	Insan inkuan ed sikato na Katawan , Siak so Katawan ya amataynan ed sika manlapud Ur na Babilonia, pian niiter kod sika yan dalin.
 008	Balet tinepet nen Abram, Katawan a DIOS , panoy pakaamtak a nakayaryan ko yan dalin?
@@ -14,7 +16,8 @@ verse	content
 010	Inawit nen Abram ira yan ayayep ed Dios, pinaldua to ra likud ed saramay manok, insan to ra impandarasig a nampepetekan so balang kapaldua.
 011	Dinapoan ira na saray buitri, balet inaabul ira nen Abram.
 012	Nen onseselek lay agew, akaogip na malmalet si Abram, tan balbaleg a takot so sinmabid sikato.
-013	Inkuan na Katawan ed sikato, Magmaliw iran sangkaili ed sakey a bansa iray kabyangay boleg mo; aripenen da rad man tan pairapen da ran apat a lasus a taon.
+013	Inkuan na Katawan ed sikato, Magmaliw iran sangkaili ed sakey a bansa iray kabyangay boleg mo;
+013	aripenen da rad man tan pairapen da ran apat a lasus a taon.
 014	Balet dusaen koy bansan mangaripen ed sikara, tan dakel a kayamanan so awiten da no taynan da man a bansa.
 015	Sika, andokey so bilay mo, mareen so ipatey mo, insan ka nipompon.
 016	Onlabas so apatiran kailalakan kasakbayan a makapawil ira diay kabyangay boleg mo.

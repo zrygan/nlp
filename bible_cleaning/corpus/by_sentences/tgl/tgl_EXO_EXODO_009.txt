@@ -12,7 +12,8 @@ verse	content
 009	Ito'y magiging pinong alabok sa buong lupain ng Ehipto, at magiging pigsang susugat sa tao, at sa hayop sa buong lupain ng Ehipto.
 010	Kaya't sila'y kumuha ng abo sa hurno, at tumayo sa harap ni Faraon.
 010	Isinaboy ito ni Moises sa himpapawid at naging pigsang sumusugat sa tao at sa hayop.
-011	Ang mga salamangkero ay hindi makatayo sa harap ni Moises dahil sa mga pigsa; sapagkat nagkapigsa ang mga salamangkero at ang lahat ng mga Ehipcio.
+011	Ang mga salamangkero ay hindi makatayo sa harap ni Moises dahil sa mga pigsa;
+011	sapagkat nagkapigsa ang mga salamangkero at ang lahat ng mga Ehipcio.
 012	Ngunit pinatigas ng Panginoon ang puso ng Faraon at hindi niya dininig sila gaya ng sinabi ng Panginoon kay Moises.
 013	Sinabi ng Panginoon kay Moises, Bumangon kang maaga sa kinaumagahan, at tumayo ka sa harap ng Faraon.
 013	Sabihin mo sa kanya, Ganito ang sabi ng Panginoon , ang Diyos ng mga Hebreo: Payagan mong umalis ang aking bayan upang sila'y makasamba sa akin.
@@ -21,7 +22,8 @@ verse	content
 016	Subalit dahil sa layuning ito ay binuhay kita, upang maipakita sa iyo ang aking kapangyarihan, at ang aking pangalan ay mahayag sa buong daigdig.
 017	Nagmamalaki ka pa ba laban sa aking bayan, at ayaw mo silang paalisin?
 018	Bukas, sa ganitong oras, ay magpapabagsak ako ng mabibigat na yelong ulan na kailanma'y hindi pa nangyari sa Ehipto mula nang araw na itatag ito hanggang ngayon.
-019	Ngayon nga'y magsugo ka, ipasilong mo ang iyong mga hayop at lahat ng iyong pag-aari sa parang; bawat tao at hayop na maabutan sa parang at hindi maisilong ay babagsakan ng yelong ulan at mamamatay.
+019	Ngayon nga'y magsugo ka, ipasilong mo ang iyong mga hayop at lahat ng iyong pag-aari sa parang;
+019	bawat tao at hayop na maabutan sa parang at hindi maisilong ay babagsakan ng yelong ulan at mamamatay.
 020	Ang bawat natakot sa salita ng Panginoon sa mga lingkod ni Faraon ay nagpauwi ng kanyang mga alipin at ng kanyang hayop sa mga bahay;
 021	ngunit ang nagwalang bahala sa salita ng Panginoon ay pinabayaan ang kanyang mga alipin at ang kanyang kawan sa parang.
 022	Sinabi ng Panginoon kay Moises, Iunat mo ang iyong kamay paharap sa langit upang magkaroon ng yelong ulan sa buong lupain ng Ehipto na babagsak sa mga tao, sa mga hayop, at sa bawat mga halaman sa parang sa buong lupain ng Ehipto.
@@ -30,14 +32,17 @@ verse	content
 024	Sa gayo'y nagkaroon ng yelong ulan at ng apoy na sumisiklab sa gitna ng yelong ulan, at ang gayong napakabigat na yelong ulan ay di nangyari kailanman sa buong lupain ng Ehipto mula nang maging bansa ito.
 025	Binagsakan ng yelong ulan ang buong lupain ng Ehipto, ang lahat na nasa parang, maging tao at maging hayop, pati ang lahat ng halaman sa parang, at binali ang lahat ng punungkahoy.
 026	Sa lupain lamang ng Goshen na kinaroroonan ng mga anak ni Israel hindi nagkaroon ng yelong ulan.
-027	Ang Faraon ay nagsugo at ipinatawag sina Moises at Aaron at sinabi sa kanila, Ako'y nagkasala sa pagkakataong ito; ang Panginoon ay matuwid samantalang ako at ang aking bayan ay masama.
+027	Ang Faraon ay nagsugo at ipinatawag sina Moises at Aaron at sinabi sa kanila, Ako'y nagkasala sa pagkakataong ito;
+027	ang Panginoon ay matuwid samantalang ako at ang aking bayan ay masama.
 028	Pakiusapan ninyo ang Panginoon , sapagkat nagkaroon na ng sapat na kulog at yelong ulan.
 028	Papayagan kong umalis na kayo at hindi na kayo mananatili pa.
-029	Sinabi ni Moises sa kanya, Pagkalabas ko sa lunsod, aking iuunat ang aking mga kamay sa Panginoon ; ang mga kulog ay titigil, at hindi na magkakaroon pa ng yelong ulan upang iyong malaman na ang daigdig ay sa Panginoon .
+029	Sinabi ni Moises sa kanya, Pagkalabas ko sa lunsod, aking iuunat ang aking mga kamay sa Panginoon ;
+029	ang mga kulog ay titigil, at hindi na magkakaroon pa ng yelong ulan upang iyong malaman na ang daigdig ay sa Panginoon .
 030	Ngunit tungkol sa iyo at sa iyong mga lingkod, alam ko na hindi pa kayo natatakot sa Panginoong Diyos.
 031	Ang lino at ang sebada ay nasira sapagkat ang sebada ay nag-uuhay na at ang lino ay namumulaklak na.
 032	Subalit ang trigo at ang espelta ay hindi nasira sapagkat hindi pa tumutubo.
 033	Kaya't si Moises ay lumabas sa lunsod mula sa Faraon, at iniunat ang kanyang mga kamay sa Panginoon .
 033	Ang mga kulog at ang yelong ulan ay tumigil at ang ulan ay hindi na bumuhos sa lupa.
 034	Ngunit nang makita ng Faraon na ang ulan, ang yelong ulan at ang mga kulog ay tumigil, muli siyang nagkasala at nagmatigas ang kanyang puso, pati ang kanyang mga lingkod.
-035	Ang puso ng Faraon ay nagmatigas at hindi niya pinayagang umalis ang bayan ng Israel; gaya ng sinabi ng Panginoon sa pamamagitan ni Moises.
+035	Ang puso ng Faraon ay nagmatigas at hindi niya pinayagang umalis ang bayan ng Israel;
+035	gaya ng sinabi ng Panginoon sa pamamagitan ni Moises.

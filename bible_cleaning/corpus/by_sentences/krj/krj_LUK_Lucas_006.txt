@@ -19,7 +19,8 @@ verse	content
 011	Tungud kadya naugut gid sanda ka mayad kag nagsapol kon ano ang andang himoon kay Jesus.
 012	Sa amo to nga tinion nagtukad si Jesus sa bakulod agud magpangamuyo, kag bilog gid nga gabii ang ana nga pagpangamuyo sa Dios.
 013	Pagkaaga, ginpanawag na ang anang mga disipulo kag halin kananda nagpili tana kang napulo'g darwa kag gintawag na sanda nga mga apostoles.
-014	Sanda kadya amo sanday Simon nga ana man ginhingaranan Pedro kag ang bugto ni Pedro nga si Andres; si Santiago kag si Juan, si Felipe kag si Bartolome,
+014	Sanda kadya amo sanday Simon nga ana man ginhingaranan Pedro kag ang bugto ni Pedro nga si Andres;
+014	si Santiago kag si Juan, si Felipe kag si Bartolome,
 015	si Mateo kag si Tomas, si Santiago nga bata ni Alfeo kag si Simon nga mapinalanggaun sa anang nasyon,
 016	si Judas nga bata ni Santiago, kag si Judas Iscariote nga amo ang nangin traidor.
 017	Nagdulhog si Jesus imaw kang ana nga mga apostoles, kag nagtindug tana sa may patag.

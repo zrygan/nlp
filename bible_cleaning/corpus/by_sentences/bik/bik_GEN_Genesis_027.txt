@@ -3,17 +3,21 @@ verse	content
 002	Uya po ako, an simbag ni Esau.
 003	Nagsabi si Isaac, Gurang na ako asin madali nang magadan.
 004	Kuaha an saimong pana asin mangayam ka sa kaomahan para sako.
-005	Iluto mo ako kan paborito kong putahe asin darahon mo sako tanganing magkakan ko; dangan bebendisyonan taka bago ako magadan.
+005	Iluto mo ako kan paborito kong putahe asin darahon mo sako tanganing magkakan ko;
+005	dangan bebendisyonan taka bago ako magadan.
 006	Mantang kaolay ni Isaac si Esau, nagdadangog si Rebecca.
 006	Kaya pakahale ni Esau tanganing mangayam,
 007	sinabihan ni Rebecca si Jacob, Nadangog ko an sinabi kan saimong ama sa tugang mong si Esau,
-008	Darahe ako nin hayop asin iluto mo ako kan paborito kong putahe asin makakan ako; dangan bebendisyonan taka sa atubang nin Kagurangnan bago ako magadan.
+008	Darahe ako nin hayop asin iluto mo ako kan paborito kong putahe asin makakan ako;
+008	dangan bebendisyonan taka sa atubang nin Kagurangnan bago ako magadan.
 009	Kaya, aki ko, sunoda an sasabihon ko saimo.
 010	Magduman ka sa satong mga hayop asin kumua ka nin duwang matabang ogbon nin kanding tanganing iluto ko kan paborito niyang putahe an saimong ama.
 011	Ika an madara kaiyan saiya tanganing kakanon niya asin tanganing bendisyonan ka niya bago siya magadan.
 012	Nagsimbag si Jacob ki Rebecca na saiyang ina, Alagad mabarahibo si Esau mantang ako bako.
-013	Tibaad hapiyapon ako kan sakong ama asin maaraman niyang dinadaya ko siya; kaya embes na bendisyon, sumpa an mapasako.
-014	Nagsimbag an saiyang ina, Mapasakuya an ano man na sumpa na para saimo, aki ko; sunoda sana an ipinapagibo ko.
+013	Tibaad hapiyapon ako kan sakong ama asin maaraman niyang dinadaya ko siya;
+013	kaya embes na bendisyon, sumpa an mapasako.
+014	Nagsimbag an saiyang ina, Mapasakuya an ano man na sumpa na para saimo, aki ko;
+014	sunoda sana an ipinapagibo ko.
 014	Lakaw na asin kumua ka na kan mga kanding.
 015	Kaya nagsunod si Jacob asin dinara an mga kanding sa saiyang ina.
 015	Ilinuto ini kan saiyang ina sa putaheng paborito kan saiyang ama.
@@ -37,9 +41,11 @@ verse	content
 028	Ako mananggad, an simbag ni Jacob.
 029	Dangan nagsabi si Isaac, Daraha na digdi an linuto mo.
 029	Pakakakan ko, bebendisyonan taka.
-029	Kaya dinara ni Jacob saiya an linuto asin nagkakan siya; dinarahan man siya ni Jacob nin arak asin nag-inom siya.
+029	Kaya dinara ni Jacob saiya an linuto asin nagkakan siya;
+029	dinarahan man siya ni Jacob nin arak asin nag-inom siya.
 030	Dangan nagsabi si Isaac, Aki ko, rumani ka asin hadokan mo ako.
-031	Nagrani si Jacob asin hinadokan an ama; naparong ni Isaac an gubing ni Esau, kaya benendisyonan siya ni Isaac na an sabi, An parong kan aki ko siring sa parong nin sarong oma na benendisyonan nin Kagurangnan !
+031	Nagrani si Jacob asin hinadokan an ama;
+031	naparong ni Isaac an gubing ni Esau, kaya benendisyonan siya ni Isaac na an sabi, An parong kan aki ko siring sa parong nin sarong oma na benendisyonan nin Kagurangnan !
 032	Itao logod saimo nin Dios an ambon hale sa langit, magin matubang logod an saimong daga, dangan magdakul logod an saimong ani asin arak.
 033	Maglingkod logod saimo an mga banwaan asin magduko saimo an mga nasyon.
 033	Magin kagurangnan ka logod kan saimong mga tugang, saka magduko logod saimo an mga kapagarakian nin saimong ina.
@@ -72,7 +78,8 @@ verse	content
 048	magigin sorogoon ka kan tugang mo.
 049	Alagad kun magrebelde ka, makakatalingkas ka sa saiyang kapangyarihan.
 050	Anggot na marahay si Esau ki Jacob huli ta benendisyonan ini kan saiyang ama.
-050	Nagsaboot si Esau, Madali na an panahon na ipagmomondo an kagadanan kan sakong ama; dangan ko gagadanon an tugang kong si Jacob.
+050	Nagsaboot si Esau, Madali na an panahon na ipagmomondo an kagadanan kan sakong ama;
+050	dangan ko gagadanon an tugang kong si Jacob.
 051	Alagad kan madangog ni Rebecca an planong ini ni Esau, ipinaapod niya si Jacob asin sinabihan, An tugang mong si Esau nagpaplanong gadanon ka.
 052	Kaya aki ko, magdulag ka tolos pasiring sa tugang kong si Laban duman sa Haran
 053	asin duman ka ngona sa kaibahan niya sagkod na mawara an anggot kan saimong tugang,

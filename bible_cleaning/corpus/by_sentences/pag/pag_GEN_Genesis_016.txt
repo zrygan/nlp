@@ -12,7 +12,8 @@ verse	content
 005	Inkuanen Sarai ed kinen Abram, Kasalanan mo so panlelemlemew nen Agar ed siak.
 005	Siak a dili so angiter ed sika na saman ya aripen ko, tan nanlapud naamtaan ton malokun la lelemlemewen to ak.
 005	Say Katawan lay manintinsia no siopay nalilingod sikatan dua.
-006	Inmebat si Abram, Aripen mo tan walad silong na pakayarim; gawam ed sikatoy labay mo.
+006	Inmebat si Abram, Aripen mo tan walad silong na pakayarim;
+006	gawam ed sikatoy labay mo.
 006	Pinapairap nen Sarai si Agar, kanyan tinmaynan.
 007	Inabet na anghil na Katawan si Agar ed abay na sobul a walad kalawakan, diad dalan a mamaarap ed Sur,
 008	tan inkuanto, Agar ya aripen nen Sarai, nanlapwan mo tan iner so laen mo?
@@ -20,7 +21,8 @@ verse	content
 010	Inkuanto may anghil sa Katawan , Pawil ka, tan paaripen kad sikato.
 011	Insan inyarum ton inkuan, Itdan ta ka na saray kabyangay boleg mo a diad karakel da et anggapoy makabilang.
 012	Mananak kay sakey a laki, tan ingaran mo na Ismael, ta nadngel na Katawan so tagleey mo.
-013	Balet mambilay a singa atap ya asno so anak mo; magmaliw a kalaban toy amin a too tan labanan dan amin.
+013	Balet mambilay a singa atap ya asno so anak mo;
+013	magmaliw a kalaban toy amin a too tan labanan dan amin.
 013	Siyanan to ray amin a kakanayon to, ta kabosul to ra.
 014	Tinepet nen Agar ed sikaton dili, Anengneng ko tan talaga so Dios, et mabilay ak ni?
 014	Inngaran to sirin so Katawan ya akisalitad sikato na, Dios a Mannenengneng.

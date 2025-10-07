@@ -7,12 +7,14 @@ verse	content
 006	ding Horiteo king mabunduk a lugal ning Seir angga king Elparan a malapit king disyerto.
 007	Kaybat na nita, migbalik la at miras Enmispat a pikabaluan kanitang Kades, at binihag de ing mabilug a bansa da ring Amalekita at Amoreo a manuknangan Hazazon Tamar.
 008	Kanita ding ari na ning Sodoma, Gomorra, Adma, Zeboiim, at Bela linage lang kayabe ding sundalus da king Kapatagan ning Siddim ban labanan da la
-009	ri Aring Kedorlaumer ning Elam, Tidal ning Goiim, Amrapel na ning Sinar, at Ariok ning Ellasar; apat a ari laban karing lima.
+009	ri Aring Kedorlaumer ning Elam, Tidal ning Goiim, Amrapel na ning Sinar, at Ariok ning Ellasar;
+009	apat a ari laban karing lima.
 010	Mitmu yang talaga a pikukuanan alketran ing Kapatagan ning Siddim.
 010	Kabang tatakas la ding ari na ning Sodoma at Gomorra menabu la karing talagang alketran kabang ding aliwa naman pesitakas la karing bunduk.
 011	Kinua ra ngan ding apat a aring miniambut ing pibandian ampon pamangan karin Sodoma at Gomorra at saka la meko.
 012	Pekidakap de i Lot a pangunakan nang Abram.
-012	Manuknangan ya kanita king Sodoma; dela ra pati pibandian na.
+012	Manuknangan ya kanita king Sodoma;
+012	dela ra pati pibandian na.
 013	Oneng dinatang ya ing metung a mekatakas at belita na kang Abram a Hebreo a manuknangan lele na ning sagradung tanaman ning Mamre, ing Amoreo at kamaganak da ri Escol at Aner.
 013	Kakampi na lang Abram deting adua.
 014	Kabud dimdam nang Abram ing balitang mebihag ya ing pangunakan nang i Lot, tinipun yang atlung dalan at labing walu kataung makilaban.

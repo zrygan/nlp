@@ -1,6 +1,8 @@
 verse	content
-001	Nagtaram an Kagurangnan ki Moises, Tumukad kamo pasiring sako, ika, si Aaron, si Nadab, si Abihu asin an setenta kan kamagurangan nin Israel; asin mantang harayo pa kamo, magsamba kamo sako.
-002	Ika sana an magdolok sako; dai magrani an iba.
+001	Nagtaram an Kagurangnan ki Moises, Tumukad kamo pasiring sako, ika, si Aaron, si Nadab, si Abihu asin an setenta kan kamagurangan nin Israel;
+001	asin mantang harayo pa kamo, magsamba kamo sako.
+002	Ika sana an magdolok sako;
+002	dai magrani an iba.
 002	Dai magtukad sa bukid an mga tawo.
 003	Nagduman si Moises sa mga tawo asin ipinahayag sainda an gabos na togon saka mga pagboot nin Kagurangnan .
 003	Sarabay na nagsimbag an mga tawo, Gigibohon mi an gabos na itinaram nin Kagurangnan .
@@ -8,7 +10,8 @@ verse	content
 004	Pagkaagang amay nagtugdok siya nin altar sa pamitisan kan bukid.
 004	Nagpatindog siya nin doseng hariging gapo para sa doseng tribu nin Israel.
 005	Dangan nagsugo siya nin nagkapirang hoben na lalaki nin Israel na magdolot nin mga tinutong na atang asin magsakripisyo nin mga baka bilang dolot para sa katoninongan.
-006	Kinua ni Moises an kabanga kan dugo kan ginadan na mga hayop asin ibinugtak sa mga palanggana; an kabanga inula niya sa altar.
+006	Kinua ni Moises an kabanga kan dugo kan ginadan na mga hayop asin ibinugtak sa mga palanggana;
+006	an kabanga inula niya sa altar.
 007	Pakatapos, kinua niya an libro nin tipan, na nasusuratan kan mga togon nin Kagurangnan , dangan binasa nin makosog sa atubang kan mga tawo.
 007	An mga Israelita nagsimbag, Susunodon mi an Kagurangnan asin gigibohon mi an gabos niyang pagboot.
 008	Kinua ni Moises an dugo sa mga palanggana dangan iwinirik sa mga tawo.

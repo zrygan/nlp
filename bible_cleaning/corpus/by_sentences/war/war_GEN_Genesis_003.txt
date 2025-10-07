@@ -3,24 +3,30 @@ verse	content
 001	Ginpakianhan han halas an babaye, Tinuod ba nga gindid-an kamo han Dyos hin pagkaon hin bunga tikang hin bisan ano nga kahoy dinhe han tanaman?
 002	Binmaton an babaye, Makakakaon kami han bunga hin bisan ano nga kahoy dinhe han tanaman,
 003	labot han kahoy nga aada ha butnga han tanaman.
-003	Gindid-an kami han Dyos hin pagkaon han bunga hito nga kahoy, o bisan pagkamkam hito; kon amon ini pagbuhaton, mapatay kami.
-004	Binmaton an halas, Buwa ito; diri kamo mapatay.
+003	Gindid-an kami han Dyos hin pagkaon han bunga hito nga kahoy, o bisan pagkamkam hito;
+003	kon amon ini pagbuhaton, mapatay kami.
+004	Binmaton an halas, Buwa ito;
+004	diri kamo mapatay.
 005	Ginsiring ito han Dyos kay maaram hiya nga kon kumaon kamo han bunga, masusugad kamo han Dyos, ngan makakasabot kamo han maupay ngan han maraot.
 006	Kinmita an babaye han kamatahom han kahoy ngan han kamarasa kaonon han bunga hini, ngan nakahunahuna hiya nga maupay gud an may-ada kinaadman.
 006	Sanglit kinmuha hiya hin pira ka bug-os nga bunga ngan kinmaon hiya.
 006	Niyan gintagan niya an iya bana ngan kinmaon liwat hiya hini.
-007	Han pakakaon gudla nira hini, nahibaro hira ngan nakasabot nga mga hubo hira; sanglit naghimo hira hin tapis hin mga dahon hin igos basi katabonan an ira lawas.
+007	Han pakakaon gudla nira hini, nahibaro hira ngan nakasabot nga mga hubo hira;
+007	sanglit naghimo hira hin tapis hin mga dahon hin igos basi katabonan an ira lawas.
 008	Hito ngahaw nga kulopay hinbatian nira an Ginoo nga Dyos nga naglalakat dida han tanaman, ngan tinmago hira ha iya dida han kakahoyan.
 009	Kundi gintawag han Ginoo nga Dyos an lalake, Hain ka?
-010	Binmaton hiya, Hinbatian ko ikaw dinhe han tanaman; nahadlok ako ngan tinmago ako ha imo, kay hubo ako.
+010	Binmaton hiya, Hinbatian ko ikaw dinhe han tanaman;
+010	nahadlok ako ngan tinmago ako ha imo, kay hubo ako.
 011	Hin-o an nagsumat ha imo nga hubo ka?
 011	nagpakiana an Dyos.
 011	Kinmaon ka ba han bunga nga igindiri ko ha imo?
 012	Binmaton an lalake, Gintagan ako han babaye nga imo iginbutang dinhe nga kaupod nakon, ngan kinmaon ako.
 013	Ginpakianhan han Ginoo nga Dyos an babaye, Kay ano nga ginbuhat mo ini?
 014	Binmaton hiya, Ginlimbongan ako han halas hin pagkaon hini.
-015	Niyan ginsiring han Ginoo nga Dyos an halas, Tungod hini pagsisirotan ko ikaw; han ngatanan nga kamanampan ikaw la mag-aantos hini nga gaba: tikang yana ha imo tiyan magdadanas ka ngan tapotapo an imo kakaonon samtang buhi ka pa.
-016	Hihimoon ko nga magkaaway kamohi ikaw ngan han babaye; dayuday magkaaway an iya ngan an imo mga tulin.
+015	Niyan ginsiring han Ginoo nga Dyos an halas, Tungod hini pagsisirotan ko ikaw;
+015	han ngatanan nga kamanampan ikaw la mag-aantos hini nga gaba: tikang yana ha imo tiyan magdadanas ka ngan tapotapo an imo kakaonon samtang buhi ka pa.
+016	Hihimoon ko nga magkaaway kamohi ikaw ngan han babaye;
+016	dayuday magkaaway an iya ngan an imo mga tulin.
 016	An iya mga tulin amo an madugmok han imo ulo, ngan pagtutukbon man nimo an iya tikod.
 017	Ngan nagsiring hiya ngadto han babaye, Dudugangan ko an imo kakurian dida ha imo pagburod ngan an imo kasakitan dida ha imo pag-anak.
 017	Bisan pa ngani hini, mahigugma ka la gihapon han imo bana, ngan hiya magpapangulo ha imo.

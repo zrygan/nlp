@@ -13,7 +13,8 @@ verse	content
 008	Ang iban nga binh nagtup sa maayo nga dut, nagtub kag nagpamunga gid ng kadam-dam.
 008	Pagkatapos mag-istorya ni Hesus, naghambay siya, Dapat intindihon gid nindo maayo ang indo nababatian.
 009	Gingpangutana ng iya mga disipulo si Hesus kung ano ang gusto hambayon ng adto nga parabola.
-010	Nagsabat siya, Sa indo lang gingtao ng Dios ang pang-intindi ng mga sikreto parti sa iya paghahar, pero sa iban, ginahambay niya ini paagi sa mga parabola, agud magsir man sinda, ind makakit; kag magpamat, pero ind makaintindi.
+010	Nagsabat siya, Sa indo lang gingtao ng Dios ang pang-intindi ng mga sikreto parti sa iya paghahar, pero sa iban, ginahambay niya ini paagi sa mga parabola, agud magsir man sinda, ind makakit;
+010	kag magpamat, pero ind makaintindi.
 011	Imaw ini ang gusto hambayon ng parabola: Ang binh, imaw ang hambay ng Dios.
 012	Ang alihid ng dayan nga gingtupaan ng binh imaw ang mga tawo nga nakabat ng hambay ng Dios, pero nag-abot ang diyablo kag gingbuoy niya ini sa inda tagipusuon para ind sinda magtuo kag maluwas.
 013	Ang kabatuhan nga gingtupaan ng binh, imaw ang mga tawo nga pagkabat sa hambay ng Dios gingbaton ini nga may kalipay.
@@ -43,7 +44,8 @@ verse	content
 026	Pagkatapos naghambay si Hesus sa inda, Diin ang indo pagtuo sa akon?
 027	Pero natingaya gid sinda kag hinadlukan.
 027	Nagpinangutan-an sinda, Sin-o gid baya ini nga tawo?
-027	Ginasug niya ang hangin kag ang humbak; kag nagatuman ini sa iya!
+027	Ginasug niya ang hangin kag ang humbak;
+027	kag nagatuman ini sa iya!
 028	Niyan, nag-abot sina Hesus sa lugar ng mga Geraseno nga nagaatubang sa Galilea.
 029	Nang makasalta na siya halin sa dyapang, gingsumpong siya ng isa ka tawo nga taga-Geraseno nga ginasapian ning mga demonyo.
 029	Kadugay na gid nga way siya nagasuksok ning bar kag way nagabalik sa iya bayay, kund nagaistar siya sa mga lubungan.

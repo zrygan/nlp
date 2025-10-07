@@ -13,7 +13,9 @@ verse	content
 008	E wari binalik mi la ibat king Canaan ding salaping ikit mi karing kekaming sako?
 008	Makananu mi ya mong paginteresan ing pilak o gintu na ning bale ning kekang panginuan?
 009	Nung metung ya kekami ing menako, papate ye at gawan yu kaming ipus.
-010	Ngana ning katiwala, Nayun ku king sinabi mu; itang kinangwa king kopa maging ipus ya; ding aliwa kekayu malyari na lang mako.
+010	Ngana ning katiwala, Nayun ku king sinabi mu;
+010	itang kinangwa king kopa maging ipus ya;
+010	ding aliwa kekayu malyari na lang mako.
 011	Kanita beba ne ning balang metung karela ing saku na at saka ne biklat.
 012	Tunggal-tunggal na lang piglawe ding saku ra manibat king pangane angga king bungsu.
 012	Meyakit ya ing kopa king saku nang Benjamin.

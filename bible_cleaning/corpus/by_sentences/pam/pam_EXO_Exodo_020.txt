@@ -10,7 +10,8 @@ verse	content
 008	Igalang ye ing Aldo ning Sabbath at ipangiling ye.
 009	Atin kayung anam a aldo ban daptan ing obra yu,
 010	oneng ing kapitung aldo metung yang aldo ning pamagpaynawa a makatalaga para kanaku.
-010	Ala metung man a malyaring magobra king aldong iti; e mu ikayu, nune pati na ding anak yu, ding ipus yu, ding sese yung animal o kaya ding dayuan a makipamalen kekayu.
+010	Ala metung man a malyaring magobra king aldong iti;
+010	e mu ikayu, nune pati na ding anak yu, ding ipus yu, ding sese yung animal o kaya ding dayuan a makipamalen kekayu.
 011	Kilub ding anam a aldo, aku, ing Ginung kekayung Dios, lelangan ke ing yatu, ing banua, ding dagat, at ing sablang atyu kareti, oneng pepaynawa ku king kapitung aldo.
 011	Iti ing sangkan nung inya aku, ing Ginu , binendisyunan ke ing Aldo ning Sabbath at gewa keng banal.
 012	Igalang ye i tata yu at i ima yu ban kumaba ing bie yu king gabun a babie ku kekayu.
@@ -22,7 +23,8 @@ verse	content
 017	E ye angkaminan ing asawa na, ding ipus na, ding baka na, ding asno na o ing nanumang bandi na.
 018	Ginalgal la king takut inyang dimdam da ring tau ing duldul, ing tiup na ning trumpeta, at ikit ing kildap ampon ing bunduk a mamasuk, at linaut la king bunduk.
 019	Ngara kang Moises, Makiramdam kami nung ika ing magsalita kekami, oneng e ne sana magsalita kekami ing Dios, pota mate kami.
-020	Nganang Moises, E kayu tatakut; dinatang ya ing Dios ba na kayu mung subukan, at ban kanita e mako kapilan man king kaisipan yu ing pamamintu, at ban e kayu mikasala.
+020	Nganang Moises, E kayu tatakut;
+020	dinatang ya ing Dios ba na kayu mung subukan, at ban kanita e mako kapilan man king kaisipan yu ing pamamintu, at ban e kayu mikasala.
 021	Menatili lang makatalakad king marayu ding tau at bukud mung i Moises ya ing linapit king makapal a biga nung nu ya atyu ing Dios.
 022	Ngana pa ning Ginu kang Moises, Sabian mu iti karing memalen na ning Israel: Ikayu mismu ikit yu nung makananung aku, ing Ginu , migsalita ku kekayu ibat banua.
 023	E kayu gagawang dios a pilak o gintu a pakipante yu kanaku at para samban subali kanaku.

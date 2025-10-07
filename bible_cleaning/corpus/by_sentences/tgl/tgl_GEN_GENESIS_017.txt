@@ -4,19 +4,25 @@ verse	content
 002	at ako'y makikipagtipan sa iyo at ikaw ay aking labis na pararamihin.
 003	At nagpatirapa si Abram, at sinabi ng Diyos sa kanya,
 004	Para sa akin, ito ang aking pakikipagtipan sa iyo: Ikaw ang magiging ama ng maraming bansa.
-005	Ang pangalan mo ay hindi na tatawaging Abram, kundi Abraham ang magiging pangalan mo; sapagkat ikaw ay ginawa kong ama ng maraming bansa.
-006	Ikaw ay gagawin kong mayroong napakaraming anak at magmumula sa iyo ang mga bansa; at magbubuhat sa iyo ang mga hari.
+005	Ang pangalan mo ay hindi na tatawaging Abram, kundi Abraham ang magiging pangalan mo;
+005	sapagkat ikaw ay ginawa kong ama ng maraming bansa.
+006	Ikaw ay gagawin kong mayroong napakaraming anak at magmumula sa iyo ang mga bansa;
+006	at magbubuhat sa iyo ang mga hari.
 007	Aking itatatag ang aking tipan sa iyo at sa iyong binhi kahit sa iyong pagkamatay sa buong lahi nila, isang tipang walang hanggan, upang maging Diyos mo at ng iyong binhi.
-008	At ibibigay ko sa iyo at sa iyong binhi pagkamatay mo ang lupaing kung saan ka ngayon ay isang dayuhan, ang buong lupain ng Canaan bilang pag-aaring walang hanggan; at ako ang magiging Diyos nila.
+008	At ibibigay ko sa iyo at sa iyong binhi pagkamatay mo ang lupaing kung saan ka ngayon ay isang dayuhan, ang buong lupain ng Canaan bilang pag-aaring walang hanggan;
+008	at ako ang magiging Diyos nila.
 009	Sinabi ng Diyos kay Abraham, At tungkol sa iyo, iingatan mo ang aking tipan, ikaw at ang iyong binhi pagkamatay mo sa buong lahi nila.
 010	Ito ang aking tipan na inyong iingatan, ang tipan natin at ng iyong binhi pagkamatay mo: Ang bawat lalaki sa inyo ay tutuliin.
 011	Inyong tutuliin ang balat ng inyong maselang bahagi, at ito ang magiging tanda ng aking tipan sa inyo.
 012	Sa inyong buong lahi, bawat lalaking may gulang na walong araw sa inyo ay tutuliin, maging ang aliping ipinanganak sa inyong bahay, o ang binili ng salapi sa sinumang taga-ibang lupa na hindi sa iyong lahi.
-013	Ang aliping ipinanganak sa bahay at ang binili ng iyong salapi ay dapat tuliin; at ang aking tipan ay makikita sa iyong laman bilang tipang walang hanggan.
-014	Ang sinumang lalaking hindi tuli, na hindi tinuli ang balat ng maselang bahagi ay ititiwalag sa kanyang bayan; sinira niya ang aking tipan.
+013	Ang aliping ipinanganak sa bahay at ang binili ng iyong salapi ay dapat tuliin;
+013	at ang aking tipan ay makikita sa iyong laman bilang tipang walang hanggan.
+014	Ang sinumang lalaking hindi tuli, na hindi tinuli ang balat ng maselang bahagi ay ititiwalag sa kanyang bayan;
+014	sinira niya ang aking tipan.
 015	At sinabi ng Diyos kay Abraham, Tungkol kay Sarai na iyong asawa, huwag siyang tatawaging Sarai, kundi Sara ang magiging pangalan niya.
 016	Siya'y aking pagpapalain, at bibigyan kita ng anak sa pamamagitan niya.
-016	Siya'y aking pagpapalain, at siya'y magiging ina ng mga bansa; ang mga hari ng mga bayan ay magmumula sa kanya.
+016	Siya'y aking pagpapalain, at siya'y magiging ina ng mga bansa;
+016	ang mga hari ng mga bayan ay magmumula sa kanya.
 017	Nang magkagayo'y nagpatirapa at tumawa si Abraham, at sinabi sa kanyang sarili, Magkakaanak pa kaya ang isang tao na isandaang taong gulang na?
 017	Manganak pa kaya si Sara na siyamnapung taong gulang na?
 018	At sinabi ni Abraham sa Diyos, Bakit hindi na lang si Ismael ang magmana ng mga ipinangako ninyo sa akin?

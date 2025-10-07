@@ -9,12 +9,15 @@ verse	content
 004	Sinmingger ira, insan inkuanto, Siak si agi yon Jose ya inlako yod Egipto.
 005	Ag kayo mapaga tan ag yo tetetelen so sikayon dili lapud inlako yo ak dia.
 005	Ta say Dios so angibakid siak dia ya onaan nen say sikayo, pian mambilay iray totoo.
-006	Kumadwa yan taon labat na eras; wala niy limaran taon ya ag nayariy mambaka tan anggapoy naani.
+006	Kumadwa yan taon labat na eras;
+006	wala niy limaran taon ya ag nayariy mambaka tan anggapoy naani.
 007	Say Dios so angibakid siak ya onaan nen say sikayo, pian nilaban kayo diad panamegley na sayan makapakelaw ya inkagawa, tan mambilay kayo tan saray kabyangay boleg yo.
 008	Kanyan aliwan sikayo so angibakid siak dia, no ag ta say Dios.
 008	Ginawa to ak a sankatageyan ya opisyal na ari.
-008	Siak to inkargado ed intiron bansa to; siak so manoley ed intiron Egipto.
-009	Natan sirin, ganatan yoy ompawil ed kindi ama tayo tan ibaga yod sikara yan papaibaga nen anak dan si Jose, Say Dios impagmaliw to ak a manoley ed intiron Egipto; dago kayon tampol ed siak.
+008	Siak to inkargado ed intiron bansa to;
+008	siak so manoley ed intiron Egipto.
+009	Natan sirin, ganatan yoy ompawil ed kindi ama tayo tan ibaga yod sikara yan papaibaga nen anak dan si Jose, Say Dios impagmaliw to ak a manoley ed intiron Egipto;
+009	dago kayon tampol ed siak.
 010	Nayarian yoy manayam ed dalin na Gosen, pian asingger kayod siaksikayo, saray anak yo, saray apo yo, saray karniro yo, saray kanding yo, saray baka yo, tan saray arum nin kayaryan yo.
 011	No wala kayod Gosen, naasikaso ta kayo.
 011	Wala niy limay taon na eras, et ag ko labay a naerasan kayo, saray pamilya yo, tan saray ayayep yo.

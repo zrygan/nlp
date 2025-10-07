@@ -33,13 +33,15 @@ verse	content
 027	Ipinaapod kan hade si Moises saka si Aaron asin sinabihan, Ngunyan nagkasala ako, an Kagurangnan iyo an tama.
 027	Ako asin an sakong banwaan an sala.
 028	Mamibi kamo sa Kagurangnan huli ta dai mi na matitios ining pagdaguldol asin pag-uran nin yelo.
-028	Nanunuga ako na papahaleon ko na kamo; asin dai na kamo maghahaloy digdi.
+028	Nanunuga ako na papahaleon ko na kamo;
+028	asin dai na kamo maghahaloy digdi.
 029	Nagsabi si Moises, Pakaluwas ko sa syudad, iitaas ko an sakong kamot sa pagpamibi sa Kagurangnan .
 029	Maontok an pagdaguldol asin an pag-uran nin yelo, tanganing maaraman mong an Kagurangnan iyo an kagsadiri kan kinaban.
 030	Alagad aram kong ika asin an saimong mga opisyal dai natatakot sa Kagurangnan Dios.
 031	An tanom na lino saka sebada nagkararaot huli ta naghihinog na an sebada asin namumurak na an lino.
 032	Alagad maski saro kan trigo dai naano huli ta huri an pagtalubo kaini.
-033	Binayaan ni Moises an hade; nagduman siya sa luwas kan syudad, asin itinaas an saiyang mga kamot sa pagpamibi sa Kagurangnan .
+033	Binayaan ni Moises an hade;
+033	nagduman siya sa luwas kan syudad, asin itinaas an saiyang mga kamot sa pagpamibi sa Kagurangnan .
 033	Dangan nag-ontok an daguldol, an yelo asin an uran.
 034	Kan mahiling kan hade an nangyari, nagkasala naman siya.
 034	Nagmatagas siya asin an saiyang mga opisyal.

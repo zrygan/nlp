@@ -38,7 +38,8 @@ verse	content
 021	Mas mapiyya pa ni awan dlla siya neenak.
 022	Dikona pasiyaan hidi a kuman ay nangalap ti Jesus ti tinapay sakay nagpasalamat ten Diyos.
 022	Kttapos ay tinppeng-tppeng na en tinapay sakay inyatd na ten disepulus na hidi.
-022	Kinagi na, Alapn moy iddi; iyd en bggi ku.
+022	Kinagi na, Alapn moy iddi;
+022	iyd en bggi ku.
 023	Nangalap bi siya ti tasa sakay kttapos na a magpasalamat ten Diyos ay intoyag na ten disepulus na hidi, sakay umminom hidi a atanan.
 024	Kinagi ni Jesus, Iyd en digi ku a mangpatibay ten pangaku nen Diyos, en digi a mebuhus para ten makpal.
 025	Tandaan moy: awank dn uminom a ruway ti alak a gubwat ti tbbug ni ubas hanggan ten aldew a inumn ku en bigu a alak ten kahariyan nen Diyos.
@@ -108,7 +109,8 @@ verse	content
 064	Nasanig moy en kinagi na a siya ay Diyos!
 064	nya nadid i gustu moyid a gamitn tam dikona?
 065	Kinagi di a atanan a kailangan a bunuwn siya.
-066	Sakay sinapulan di dn siya a pahirapan; linoktaban siya nen agum, pinngngssan di sakay sinssuntuk.
+066	Sakay sinapulan di dn siya a pahirapan;
+066	linoktaban siya nen agum, pinngngssan di sakay sinssuntuk.
 066	Pinatukoy di pa ni deya i nangsuntukid dikona, sakay binulbug siya nen mgbantay hidi.
 067	Nadid, ti Pedro ay ked ten laguwerta dikona dummemt en essa a alipin a bbbi nen kapunuwan nen padi hidi.
 068	Netan na ti Pedro a magindu ten apoy kaya minalas na siya ti hustu sakay tinanung na, Awan beman kaguman ka ni Jesus a taga-Nazaret?

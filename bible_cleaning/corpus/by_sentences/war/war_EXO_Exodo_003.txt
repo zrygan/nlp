@@ -11,7 +11,8 @@ verse	content
 006	Hukasa an imo sandalyas kay natukdaw ka dida hin baraan nga tuna.
 007	Ako amo an Dyos han imo kaapoy-apoyan, an Dyos nira Abraham, Isaac ug Jacob.
 007	Sanglit gintahoban ni Moises an iya bayhon kay nahadlok hiya hin pagtan-aw han Dyos.
-008	Niyan nagsiring an Ginoo , Hinkit-an ko an maraogdaog nga pagdumara han akon mga tawo didto ha Ehipto; hinbatian ko an ira pangaraba nga talwason ko hira tikang han mga mag-isog nga mga kapatas nira.
+008	Niyan nagsiring an Ginoo , Hinkit-an ko an maraogdaog nga pagdumara han akon mga tawo didto ha Ehipto;
+008	hinbatian ko an ira pangaraba nga talwason ko hira tikang han mga mag-isog nga mga kapatas nira.
 008	Sayod ako han ngatanan ira mga pag-antos,
 009	sanglit linmusad ako hin pagtalwas ha ira tikang han mga Ehiptohanon, ngan pagdara ha ira tikang ha Ehipto ngadto hin usa nga malangbo ngan hiluag nga tuna, hin usa nga hura ngan matambok nga tuna nga inuokyan na yana han mga Canaanhon, han mga Hiteohanon, han mga Amoreohanon, han mga Periseohanon han mga Hibeohanon, ngan han mga Jebuseohanon.
 010	Hinbatian ko gud an pangaraba han akon mga tawo, ngan hinkit-an ko an pagraogdaoga ha ira han mga Ehiptohanon.
@@ -25,7 +26,8 @@ verse	content
 015	Nagsiring an Dyos, Ako amo hi ako.
 015	Kinahanglan sidngon mo hira: An Amo Ako amo an nagsugo ha akon nganhi ha iyo.
 016	Sumati an mga Israelita nga ako amo an Ginoo nga Dyos han iyo kaapoy-apoyan, nga Dyos nira Abraham, Isaac, ug Jacob nga nagsugo ha imo ngadto ha ira.
-016	Amo ini an akon ngaran ha kadayonan; amo ini an igtatawag ha akon han ngatanan nga tiarabot nga mga katulinan.
+016	Amo ini an akon ngaran ha kadayonan;
+016	amo ini an igtatawag ha akon han ngatanan nga tiarabot nga mga katulinan.
 017	Kadto ngan tiroka an mga pangulo han Israel, ngan sumati hira nga pinmakita ha imo ako nga Ginoo nga Dyos han ira kaapoy-apoyan, nga Dyos nira Abraham, Isaac, ug Jacob.
 017	Sumati hira nga kinmadto ako ha ira ngan hinkit-an ko an binubuhat ha ira han mga Ehiptohanon.
 018	Nagbuot na ako nga pagagawson ko hira tikang ha Ehipto, diin ginraraogdaog hira, ngan pagdadad-on ko hira ngadto hin usa nga hura ngan matambok nga tunaan tuna han mga Canaanhon, han mga Hiteohanon, han mga Amoreohanon, han mga Periseohanon, han mga Hibeohanon, ngan han mga Jebuseohanon.

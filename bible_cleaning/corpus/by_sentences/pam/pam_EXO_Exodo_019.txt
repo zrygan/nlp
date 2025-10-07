@@ -18,7 +18,8 @@ verse	content
 013	King aldo a ita kuldas ku king Bunduk ning Sinai ban malyari da kung akit ding sablang tau.
 014	Mibili kang angganan king makapadurut king bunduk a e ra sukat lagpusan ding tau, at sabian mu karela king e la mumukiat king bunduk o lumapit man karin.
 014	Paten ya ing ninumang munta king bunduk;
-015	sukat yang basibasan batu o kaya panaan; ala sanang tatagkil king bunduk, tau ya man o animal sukat yang mate.
+015	sukat yang basibasan batu o kaya panaan;
+015	ala sanang tatagkil king bunduk, tau ya man o animal sukat yang mate.
 015	Kabud tiniup yang makaba ing trumpeta sukat na lang mukiat ding tau king bunduk.
 016	Kaybat na nita, kinuldas ya i Moises king bunduk, at sinabi na karing tau king magsadia na la para king pamanyamba.
 016	Inya pinipi ra ing imalan da.
@@ -34,7 +35,8 @@ verse	content
 021	Migsalita ya i Moises, at pekibatan ne ning Dios king kapamilatan ning duldul!
 022	Tinipa ya ing Ginu babo na ning Bunduk ning Sinai, at inaus ne i Moises ban mukiat king taluktuk na ning bunduk.
 022	Minukiat ya i Moises
-023	at ngana ning Ginu , Moises, kuldas ka at sabian mu karing tau king e la sa lalagpus king angganan ban lumapit at lawan da ku; nung lagpus la, dakal la ding mate karela.
+023	at ngana ning Ginu , Moises, kuldas ka at sabian mu karing tau king e la sa lalagpus king angganan ban lumapit at lawan da ku;
+023	nung lagpus la, dakal la ding mate karela.
 024	Agyang ding pari a lalapit kanaku sukat lang maglinis king sarili da, nung ali la parusan ku la.
 025	Nganang Moises king Ginu , E la malyaring mukiat keti ding tau uling penabilin yu kekami king ibilang mi yang sagradu iting bunduk, at mibili kaming angganan king makapadurut keti.
 026	Nganang mekibat ning Ginu , Kuldas na ka at dakitan me i Aaron at ituki keti.

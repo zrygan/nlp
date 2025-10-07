@@ -19,11 +19,13 @@ verse	content
 013	Diad kaliber-liber na palandey mananda kay ketegan ya ag nepeg a labsanan na saray totoo, tan ibagam ed sikara ya ag da kalaben, odino diwiten so palandey.
 013	No walay ondiwit ed palandey, sikatoy nepeg a pateyen;
 014	nepeg ya anggapoy maniwit ed laman to, tan nepeg a tupaken odino panaen.
-014	Say kipaakaran to yan bilin et saray totoo tan saray ayayep; nepeg iran pateyen no nadiwit da.
+014	Say kipaakaran to yan bilin et saray totoo tan saray ayayep;
+014	nepeg iran pateyen no nadiwit da.
 014	Balet no tinmanul lay trumpita, nepeg ya onkalab ed palandey iray totoo.
 015	Insan linmeksab a nanlapud palandey si Moises tan imbaga tod saray totoo a mamparaan iran mangigalang ed Dios.
 015	Kanyan impesak da ray kawes da,
-016	tan si Moises inkuantod sikara, Nabwas a sakey nepeg ya akaparaan kayo la; ag kayo ni miaakdul ed kaasawaan yo.
+016	tan si Moises inkuantod sikara, Nabwas a sakey nepeg ya akaparaan kayo la;
+016	ag kayo ni miaakdul ed kaasawaan yo.
 017	Diad kabwasan na kumatlon agew walay karul tan kirmat, pinmatnag ed palandey so makapal a lorem, tan nadngel so makmaksil a tanul na trumpita.
 017	Amin da ray katoowan ed kampo et manggiwgiw irad takot da.
 018	Si Moises inwanwan to ran impaway ed kampo ta abeten day Dios, tan nanalagey irad alusadsar na palandey.
@@ -33,9 +35,11 @@ verse	content
 020	Nansalitay Moises, et inmebat ed sikato so Dios diad panamegley na karul.
 021	Say Katawan inmakseb ed toktok na Palandey na Sinai tan tinawag tod man si Moises.
 021	Kinmalab ed toktok na palandey si Moises
-022	tan say Katawan kuantod sikato, Akseb ka, ta pasakbayan mo ray totoo ya ag da lalabsanan so ketegan diad idago ran onnengneng ed siak; no onlabsan ira, dakel ed sikaray ompatey.
+022	tan say Katawan kuantod sikato, Akseb ka, ta pasakbayan mo ray totoo ya ag da lalabsanan so ketegan diad idago ran onnengneng ed siak;
+022	no onlabsan ira, dakel ed sikaray ompatey.
 023	Anggan saray paparin onasingger ed siak nepeg ya iparaan day sikaran dili a mangigalang ed siak, ta no andi, dusaen ko ra.
 024	Si Moises kuantod Katawan , Ag nayarin onkalab ed palandey iray totoo, lapud ingganggan mod sikamin ipasen min masanto so palandey tan mananda kami na ketegan ed kaliber-liber to.
 025	Say Katawan inmebat, Akseb ka tan itagar mo diay Aaron.
-025	Balet saray papari tan saray totoo ag da nepeg a labsanan so ketegan no ondago rad siak; ta no andi, dusaen ko ra.
+025	Balet saray papari tan saray totoo ag da nepeg a labsanan so ketegan no ondago rad siak;
+025	ta no andi, dusaen ko ra.
 026	Si Moises inmakseb sirin ed saray totoo tan imbaga tod sikara so impaibaga na Katawan .

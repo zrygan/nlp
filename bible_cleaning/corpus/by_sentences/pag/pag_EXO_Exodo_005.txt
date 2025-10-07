@@ -15,7 +15,8 @@ verse	content
 007	Ibaki yo ra, ta sikara lan diliy mananap na dayami.
 008	Ag yo babawasan so gendat a bilang na saray laryon gagawaen da.
 008	Mangingiras ira, kanyan lawas dan kekerewen ya abuloyan ko ran mangibagat ed Dios da!
-009	Itdan yo ray ambebelat a kimey; ag yo ra pampapainawaen, pian anggapoy panaon dan ondengel ed saray salitan tila-tila.
+009	Itdan yo ray ambebelat a kimey;
+009	ag yo ra pampapainawaen, pian anggapoy panaon dan ondengel ed saray salitan tila-tila.
 010	Pinmaway ira may opisyal tan saramay kapatas ya Israelita tan linma rad saray Israelita.
 010	Inkuandad saray Israelita, Imbaga na ari ya ag to kayo la itdan na dayamin ikana yo.
 011	Ingganggan to a sikayo lan dili so ompaway a mangalay dayami ed inerman a pasen a pakalmoan yo.

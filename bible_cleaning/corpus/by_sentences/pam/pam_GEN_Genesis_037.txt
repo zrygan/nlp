@@ -1,7 +1,8 @@
 verse	content
 001	Menatili yang menuknangan i Jacob king sakup ning Canaan nung nu ya menuknangan i tata na.
 002	Iti ya ing istoria na ning pamilya na.
-003	Papastulan na lang Jose ding kawan inyang labi yang pitung banua; kayabe na la ring kapatad na kang tata na karing babaing kasese nang i Bilha at i Zilpa.
+003	Papastulan na lang Jose ding kawan inyang labi yang pitung banua;
+003	kayabe na la ring kapatad na kang tata na karing babaing kasese nang i Bilha at i Zilpa.
 003	Simbung nang Jose kang tata na ing e ustung pamaniaptan da ring kapatad na.
 004	Maygit neng kaluguran Israel i Jose kesa karing aliwa nang anak uling matua ne i Israel inyang mibait ya i Jose.
 004	Ginawa yang imalan a makaba takde para kang Jose.

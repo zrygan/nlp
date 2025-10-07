@@ -24,7 +24,8 @@ verse	content
 014	Singa ra kinmigtel a linaew.
 015	Nen anengneng ira na saray Israelita, ag da amta no anto ra man kanyan nantetepetan ira, Anto ya?
 016	Si Moises kuantod sikara, Sikato yay kanen yo ya inter na Katawan .
-017	Say Katawan ingganggan to a manala so balang sakey ed sikayo na dugan nakaukolan to; sakey ya litro so para balang sakey a kabyangan na pamilya to.
+017	Say Katawan ingganggan to a manala so balang sakey ed sikayo na dugan nakaukolan to;
+017	sakey ya litro so para balang sakey a kabyangan na pamilya to.
 018	Ginawa ya na saray Israelita.
 018	Saray arum et masoluk so inala ra tan saray arum, kulang;
 019	balet nen sukaten day inala ra, saray angala na masoluk anggapoy soluk da, tan saray angala na kulang anggapoy kulang da.
@@ -33,13 +34,16 @@ verse	content
 021	Balet wala ray pigaran ag dinmengel ed kinen Moises tan angisinup ira.
 021	Balet diad kaimbwasan abigis imay insinup da tan binmanget.
 021	Et si Moises akapasnuk ed sikara.
-022	Kapag kabwasan balang sakey a too nanala na dugan nakaukolan to; tan no ampetang lay agew, natonaw iray atilak ed dalin.
-023	Diad kumanem ya agew say alaen da mamidwad karakel na samay aalaen dan kakanen ya inagew-agew; duaran litro so para sakey a too.
+022	Kapag kabwasan balang sakey a too nanala na dugan nakaukolan to;
+022	tan no ampetang lay agew, natonaw iray atilak ed dalin.
+023	Diad kumanem ya agew say alaen da mamidwad karakel na samay aalaen dan kakanen ya inagew-agew;
+023	duaran litro so para sakey a too.
 023	Amin da ray pangulo na katoowan dinmago rad kinen Moises tan imbaga ray nipaakar ed samay kakanen.
 024	Inkuantod sikara, Say Katawan ingganggan to a nabwas et masanton agew na panagpainawa, say agew a nisaklang ed Katawan .
 024	Iyorno yo lan amin natan so labay yon ornoen, tan ilambung yo lay labay yon lambungen.
 024	Isinup yoy antokaman ya ikera yon para nabwas.
-025	Onung na ingganggan nen Moises, insinup day akeraan ya anggad ontombuk ya agew; ag aboluk odino abigis so insinup da.
+025	Onung na ingganggan nen Moises, insinup day akeraan ya anggad ontombuk ya agew;
+025	ag aboluk odino abigis so insinup da.
 026	Inkuanen Moises, Akan yo ya natan, lapud Agew na Panagpainawa natan, say agew a nisaklang ed Katawan .
 026	Anggapo natay narumog yon kakanen ed paway na kampo.
 027	Nepeg a manala kayo na kakanen ed loob na anemiran agew, balet diad kumapiton agew, say agew na panagpainawa, anggapo so naala yon kakanen.

@@ -56,7 +56,8 @@ verse	content
 043	Kinagi di, Hdya tttulusan muwid Rabbi?
 043	En gustu a kagiyn nen Rabbi ay Maistu.
 044	Kamon had angen moy ilingn, kagi ni Jesus.
-045	Kaya nkkuyug hidi knni Jesus sakay netan di en tttulusan na; sakay nktulos dn bi hidi ti iyud a aldew gapu magalaskuwatru dn ten apon.
+045	Kaya nkkuyug hidi knni Jesus sakay netan di en tttulusan na;
+045	sakay nktulos dn bi hidi ti iyud a aldew gapu magalaskuwatru dn ten apon.
 046	En essa ten duwwa a nakasanig ten kinagi ni Juan ay ti Andres a kapatkaka ni Simon Pedro.
 047	Kaya inaryok ni Andres en kapatkaka na a ti Pedro sakay kinagi na, Netan mi dn en Mesias!
 047	En gustu a kagiyn nen Mesias ay Cristo.

@@ -9,18 +9,23 @@ verse	content
 004	Nagdolok sinda ki Jose asin sinabihan, Ako an tugang nindong si Jose na ipinabakal nindo sa Egipto.
 005	Alagad dai kamo magmondo o magbasol kan saindong sadiri na ipinabakal nindo ako digdi.
 005	Enot akong ipinadara nin Dios ki sa saindo tanganing ikaligtas an dakul na buhay.
-006	Ikaduwang taon pa sana ini kan grabeng gutom sa daga; limang taon pa nin pagtios an maabot na mayo nin pag-aarado o pag-aani.
+006	Ikaduwang taon pa sana ini kan grabeng gutom sa daga;
+006	limang taon pa nin pagtios an maabot na mayo nin pag-aarado o pag-aani.
 007	Enot akong ipinadara nin Dios ki sa saindo tanganing iligtas kamo sa makangalas na paaging ini, asin buhayon kamo sagkod an saindong kapagarakian.
 008	Kaya bakong kamo an nagpadara sako digdi, kundi an Dios.
-008	Ginibo niya akong ikaduwa sa kapangyarihan sa hade asin parapamahala kan bilog na daga niya; ako an nagpapalakaw kan Egipto.
-009	Kaya maghidali kamo sa pagpuli sa sakong ama asin sabihan nindo siyang ini an sinabi kan saiyang aking si Jose: Ginibo ako nin Dios na magin parapamahala kan bilog na Egipto; maghidali ka sa pagdigdi sako.
+008	Ginibo niya akong ikaduwa sa kapangyarihan sa hade asin parapamahala kan bilog na daga niya;
+008	ako an nagpapalakaw kan Egipto.
+009	Kaya maghidali kamo sa pagpuli sa sakong ama asin sabihan nindo siyang ini an sinabi kan saiyang aking si Jose: Ginibo ako nin Dios na magin parapamahala kan bilog na Egipto;
+009	maghidali ka sa pagdigdi sako.
 010	Mag-erok ka sa rehiyon kan Goshen, harani sako, ika, an saimong kaakian saka mga makoapo, an saimong mga karnero, kanding asin baka, patin an gabos mong pagsadiri.
 011	Kun nasa Goshen ka na, maaataman taka.
-011	Lima pang taon an grabeng gutom; habo kong magutom kamoika, an saimong pamilya saka an saimong mga hayop.
+011	Lima pang taon an grabeng gutom;
+011	habo kong magutom kamoika, an saimong pamilya saka an saimong mga hayop.
 012	Nagsabi pa si Jose, Ngunyan nahihiling nindo, asin nahihiling mo man, Benjamin, na ako mananggad si Jose.
 013	Ibareta nindo sa sakong ama kun siisay ako sa Egipto.
 013	Isabi nindo saiya an saindong nahiling dangan maghidali kamo asin ipag-iba nindo siya digdi.
-014	Kinugos niya an saiyang tugang na si Benjamin asin naghibi; naghibi man si Benjamin mantang kugos ni Jose.
+014	Kinugos niya an saiyang tugang na si Benjamin asin naghibi;
+014	naghibi man si Benjamin mantang kugos ni Jose.
 015	Mantang naghihibi, kinugos man niya asin hinadokan an saiyang mga tugang.
 015	Pakatapos kaini, saka pa sana nakiolay ki Jose an saiyang mga tugang.
 016	Kan makaabot sa palasyo an bareta na nag-abot an mga tugang ni Jose, naogma an hade dangan an saiyang mga opisyal.

@@ -2,8 +2,10 @@ verse	content
 001	Say katolangan nen Moises a si Jetro a pari na Madian et nadngelan toy amin a ginawa na Dios a Katawan ed kinen Moises tan diad saray Israelita nen impaway to ran manlapud Egipto.
 002	Kanyan linmad kinen Moises si Jetro, a kaiba toy intilak nen Moises ya asawa to a si Zipora,
 003	tan saray duaran lalakin anak nen Zipora a di Gersom tan Eliezer.
-003	Si Moises inkuanto, Sangkaili ak ed dalin ya ag ko bansa; kanyan inngaran to na Gersom so sakey ya anak to.
-004	Inkuan to met ni, Say Dios na amak et tinulongan to ak tan inyagel to ak ed pamatey ed siak na ari na Egipto; kanyan inngaran to na Eliezer imay sakey nin anak to.
+003	Si Moises inkuanto, Sangkaili ak ed dalin ya ag ko bansa;
+003	kanyan inngaran to na Gersom so sakey ya anak to.
+004	Inkuan to met ni, Say Dios na amak et tinulongan to ak tan inyagel to ak ed pamatey ed siak na ari na Egipto;
+004	kanyan inngaran to na Eliezer imay sakey nin anak to.
 005	Si Jetro a kaiba toy asawa nen Moises tan saray duaran lalakin anak to et sinmabi rad kalawakan a kawalaay kampo nen Moises diad masanton palandey.
 006	Impaona to lan impaibagad kinen Moises ya onsabi ra,
 007	kanyan pinmaway si Moises tan inabet to, dinmakmomod arap to, insan to inanguban.
@@ -14,7 +16,8 @@ verse	content
 010	tan kuanto, Nadayew so Katawan ya angyagel ed sikayo ed ari tan diad saray Egipsio.
 010	Nadayew so Katawan ya angilaban ed saray totoo to ed impakaaripen.
 011	Natan amtak la a matalonggaring so Katawan nen saray amin a diriyos, lapud ginawa to ya nen saray Egipsio et nilemlemew da ray Israelita.
-012	Insan si Jetro angisaklang na bagat a popoolan tan saray arum a bagat ed Dios; et si Aaron tan amin a pangulo na Israel et akila rad sikato ya angan na masanton panangan a pamagalang dad Dios.
+012	Insan si Jetro angisaklang na bagat a popoolan tan saray arum a bagat ed Dios;
+012	et si Aaron tan amin a pangulo na Israel et akila rad sikato ya angan na masanton panangan a pamagalang dad Dios.
 013	Diad kaimbwasan to man ya agew si Moises inaarigloan to ray kolkolan day totoo, tan ag akatonda manlapud kabwasan ya anggad labi.
 014	Nen anengneng nen Jetro iray amin a ginawa nen Moises, inkuanto, Antoy gagawaen mo?
 014	Akin et bukbukor moy manggagawad saya, tan saray totoo et manalalagey ira dia manlapud kabwasan ya anggad labi diad pampanon dad sika?
@@ -24,10 +27,12 @@ verse	content
 017	Insan si Jetro kuanto, Aliway panggagawam.
 018	Punawen moy sikan dili tan sarayan totoo.
 018	Ambelat yan tuloy a gawaen mon bukor.
-019	Simbawaen ta ka natan; dengel mo ak, et say Dios walad sika.
+019	Simbawaen ta ka natan;
+019	dengel mo ak, et say Dios walad sika.
 019	Duga so pangilalaman mod saray totoo ed Dios tan say pangyaapireng mod sikato na saray kolkolan da.
 020	Nepeg mon ibangat ed sikara iray ganggan na Dios tan ipaliwawam ed sikara no panoy pambilay da tan no antoy nepeg dan gawaen.
-021	Balet nepeg a mamili ka met na pigaran lalaki a sarag day mangipangulo, tan ipasen mo ran pangulo na saray totoo; pangulo na tunggal libon totoo, tunggal lasus, tunggal limamplo, tan tunggal pulo.
+021	Balet nepeg a mamili ka met na pigaran lalaki a sarag day mangipangulo, tan ipasen mo ran pangulo na saray totoo;
+021	pangulo na tunggal libon totoo, tunggal lasus, tunggal limamplo, tan tunggal pulo.
 021	Nepeg a totoo ran walay takot ed Dios, napampiaan ira tan ag da labay so mangawat na pasoksok.
 022	Panintinsiam ira ed amiy panaon.
 022	Sarayan huis iyakar dad sika iray ambelat a kaso, balet no anlemew a kaso sikara lay makaolay a manintinsia.

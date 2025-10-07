@@ -1,13 +1,17 @@
 verse	content
 001	Nagkaroon ng taggutom sa lupain, bukod sa unang taggutom na nangyari nang mga araw ni Abraham.
 001	Pumunta si Isaac kay Abimelec, na hari ng mga Filisteo sa Gerar.
-002	At nagpakita ang Panginoon kay Isaac at sinabi, Huwag kang bumaba sa Ehipto; manatili ka sa lupaing aking sasabihin sa iyo.
-003	Manatili ka sa lupaing ito, at sasamahan kita, at ikaw ay aking pagpapalain; sapagkat sa iyo at sa iyong binhi ay ibibigay ko ang lahat ng lupaing ito, at tutuparin ko ang aking ipinangako kay Abraham na iyong ama.
+002	At nagpakita ang Panginoon kay Isaac at sinabi, Huwag kang bumaba sa Ehipto;
+002	manatili ka sa lupaing aking sasabihin sa iyo.
+003	Manatili ka sa lupaing ito, at sasamahan kita, at ikaw ay aking pagpapalain;
+003	sapagkat sa iyo at sa iyong binhi ay ibibigay ko ang lahat ng lupaing ito, at tutuparin ko ang aking ipinangako kay Abraham na iyong ama.
 004	Pararamihin ko ang iyong binhi na gaya ng mga bituin sa langit at ibibigay ko sa iyong binhi ang lahat ng lupaing ito at pagpapalain ang lahat ng bansa sa lupa sa pamamagitan ng iyong binhi,
 005	sapagkat pinakinggan ni Abraham ang aking tinig at sinunod ang aking tagubilin, ang aking mga utos, ang aking mga batas at ang aking mga kautusan.
 006	Nanirahan si Isaac sa Gerar.
-007	Tinanong siya ng mga taong taga-roon tungkol sa kanyang asawa, at sinabi niya, Siya'y aking kapatid; sapagkat takot siyang sabihin na, Siya'y aking asawa.
-007	Inakala niya na baka ako'y patayin ng mga taong taga-rito, dahil kay Rebecca; dahil sa siya'y may magandang anyo.
+007	Tinanong siya ng mga taong taga-roon tungkol sa kanyang asawa, at sinabi niya, Siya'y aking kapatid;
+007	sapagkat takot siyang sabihin na, Siya'y aking asawa.
+007	Inakala niya na baka ako'y patayin ng mga taong taga-rito, dahil kay Rebecca;
+007	dahil sa siya'y may magandang anyo.
 008	Nang siya'y matagal nang naroroon, dumungaw si Abimelec na hari ng mga Filisteo sa isang durungawan, at nakita si Isaac na hinahaplos si Rebecca na kanyang asawa.
 009	Kaya't tinawag ni Abimelec si Isaac at sa kanya'y sinabi, Asawa mo pala siya!
 009	Bakit sinabi mong, Siya'y aking kapatid?
@@ -18,11 +22,13 @@ verse	content
 012	At si Isaac ay naghasik sa lupaing iyon, at umani siya ng taong yaon ng makasandaang ibayo.
 012	Pinagpala siya ng Panginoon ,
 013	at naging mayaman ang lalaki at patuloy na naging mayaman hanggang sa naging napakayaman.
-014	At siya'y may ari-arian na mga kawan, mga bakahan, at malaking sambahayan; at kinainggitan siya ng mga Filisteo.
+014	At siya'y may ari-arian na mga kawan, mga bakahan, at malaking sambahayan;
+014	at kinainggitan siya ng mga Filisteo.
 015	Lahat ng mga balong hinukay ng mga alipin ng kanyang amang si Abraham ay pinagtatabunan at pinuno ng lupa ng mga Filisteo.
 016	Sinabi ni Abimelec kay Isaac, Humiwalay ka sa amin, sapagkat ikaw ngayon ay higit na malakas kaysa amin.
 017	At umalis si Isaac doon at nagkampo sa libis ng Gerar at nanirahan doon.
-018	Muling hinukay ni Isaac ang mga balon ng tubig na kanilang hinukay nang mga araw ni Abraham na kanyang ama; sapagkat pinagtatabunan iyon ng mga Filisteo pagkamatay ni Abraham.
+018	Muling hinukay ni Isaac ang mga balon ng tubig na kanilang hinukay nang mga araw ni Abraham na kanyang ama;
+018	sapagkat pinagtatabunan iyon ng mga Filisteo pagkamatay ni Abraham.
 018	Pinangalanan niya ang mga iyon ayon sa mga pangalang itinawag sa kanila ng kanyang ama.
 019	Humukay sa libis ang mga alipin ni Isaac at nakatagpo roon ng isang balon ng tubig na bumubukal.
 020	Nakipagtalo ang mga pastol ng Gerar sa mga pastol ni Isaac, na sinasabi, Ang tubig ay amin.
@@ -36,7 +42,8 @@ verse	content
 025	Itinayo niya roon ang kanyang tolda at humukay doon ng balon ang mga alipin ni Isaac.
 026	Pagkatapos noo'y pumunta si Abimelec sa kanya mula sa Gerar, kasama si Ahuzath na kanyang tagapayo, at si Ficol na kapitan ng kanyang hukbo.
 027	Sinabi sa kanila ni Isaac, Bakit kayo pumarito sa akin, yamang kayo'y napopoot sa akin at pinalayas ninyo ako?
-028	At sinabi nila, Malinaw naming nakita na ang Panginoon ay naging kasama mo; kaya't sinasabi namin, Magkaroon tayo ng sumpaan, kami ay makikipagtipan sa iyo,
+028	At sinabi nila, Malinaw naming nakita na ang Panginoon ay naging kasama mo;
+028	kaya't sinasabi namin, Magkaroon tayo ng sumpaan, kami ay makikipagtipan sa iyo,
 029	na hindi ka gagawa sa amin ng masama, gaya rin na hindi ka namin ginalaw, at wala kaming ginawa sa iyong di mabuti, at pinaalis ka naming payapa.
 029	Ikaw ngayon ang pinagpala ng Panginoon .
 030	Kaya siya'y nagpahanda ng maraming pagkain para sa kanila, at sila'y kumain at uminom.

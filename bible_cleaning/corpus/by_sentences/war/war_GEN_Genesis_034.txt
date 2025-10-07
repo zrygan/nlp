@@ -7,23 +7,27 @@ verse	content
 006	Ginmawas hi Hamor nga amay ni Siquem, hin pakighimangraw kan Jacob,
 007	samtang nga nagkakaabot man an mga anak nga kalalaken-an ni Jacob tikang han kaumhan.
 007	Han pakabati nira hiunong hini, nabido ngan napungot hira hin duro tungod nga ginbuhat ni Siquem in sugad nga butang ngan gintamay an mga tawo han Israel pinaagi hin paglugosa han babaye nga anak ni Jacob.
-008	Nagsiring hi Hamor kan Jacob, Nahigugma hi Siquem nga akon anak han imo anak nga babaye; tugoti gad an akon anak hin pangasawa ha iya.
+008	Nagsiring hi Hamor kan Jacob, Nahigugma hi Siquem nga akon anak han imo anak nga babaye;
+008	tugoti gad an akon anak hin pangasawa ha iya.
 009	Paghimo kita hin ginsabotan nga basi makahimo hin pangasawa an amon ngan han iyo mga tawo.
 010	Niyan makakag-ukoy kamo upod ha amon dinhe han amon tuna: makakag-ukoy kamo bisan diin an iyo karuyag, makakagpakabuhi kamo hin waray kaulangan, ngan makakagtag-iya kamo hin mga hiagi.
 011	Niyan nagsiring hi Siquem ngadto han amay ngan kabugtoan ni Dina, Ighatag gad ha akon ini nga pabor, ngan tatagan ko kamo han bisan ano nga iyo karuyag.
 012	Sumati ako kon ano nga mga regalo an iyo karuyag ngan pangaroi ako han gimamahali nga bugay para hin pagkasal.
 012	Ighahatag ko ha iyo an bisan ano nga iyo pangaroon, kon tutugotan la ako niyo hin pangasawa kan Dina.
 013	Tungod nga ginpasipad-an man ni Siquem hi Dina nga bugto nira, ginbaton han mga anak ni Jacob hi Siquem ngan hi Hamor nga iya amay hin malimbong nga paagi.
-014	Nagsiring ha ira an mga anak ni Jacob, Diri kami makakatugot han amon bugto nga babaye nga pangasaw-on hin usa ka tawo nga diri tinori; makaarawod ito para ha amon.
+014	Nagsiring ha ira an mga anak ni Jacob, Diri kami makakatugot han amon bugto nga babaye nga pangasaw-on hin usa ka tawo nga diri tinori;
+014	makaarawod ito para ha amon.
 015	Makakatangdo la kami kon magsugad kamo ha amon, pinaagi hin pagtori han ngatanan niyo nga kalalaken-an.
 016	Niyan matangdo kami nga mag-aragsawa an aton mga tawo.
 016	Mag-uokoy kami tampo ha iyo ngan magigin-usa na la kita nga katawhan.
-017	Kundi kon diri niyo pagtumanon ini nga pagtori; dadad-on namon hi Dina ngan malakat kami.
+017	Kundi kon diri niyo pagtumanon ini nga pagtori;
+017	dadad-on namon hi Dina ngan malakat kami.
 018	Nakalipay ini nga ira mga pulong kan Hamor ngan kan Siquem nga iya anak,
 019	ngan waray na maglangan an batan-on nga lalake hin pagtuman han iginsiring, kay nahigugma man hiya han babaye nga anak ni Jacob.
 019	Hi Siquem amo an labi ka tinahod nga kaapi han iya panimalay.
 020	Kinmadto hi Hamor ngan hi Siquem nga iya anak han dapit nga tirokan didto han ganghaan han bungto ngan nakighimangraw hira han ira mga igkasi taghimungto
-021	Makisasangkayon ini nga mga tawo; paukya ta hira upod ha aton dinhe ha aton tuna ngan tugoti ta hira hin pagpakabuhi hin waray kaulangan.
+021	Makisasangkayon ini nga mga tawo;
+021	paukya ta hira upod ha aton dinhe ha aton tuna ngan tugoti ta hira hin pagpakabuhi hin waray kaulangan.
 021	Hiluag hin duro para ha ira liwat ini nga tuna.
 021	Pangasaw-a ta an ira mga anak nga kababayen-an.
 022	Kundi matangdo la ini nga mga tawo hin pag-ukoy dinhe ha aton ngan karuyag nira hin pakig-usa ha aton kon aton pagtorion an ngatanan naton nga kalalaken-an sugad nga mga tinori hira.
@@ -36,6 +40,8 @@ verse	content
 027	Katapos han panmatay, gintikasan an syudad han iba nga mga anak ni Jacob hin pagbulos tungod han paglugosa han ira bugto nga babaye.
 028	Gindara nira an mga panon, an mga baka, an mga asno, ngan an ngatanan didto han syudad ngan didto han kaumhan.
 029	Gindara nira an ngatanan nga mga manggad, ginbihag an ngatanan nga kababayen-an ngan kabataan, ngan gindara an ngatanan nga mga butang didto han kabablayan.
-030	Nagsiring hi Jacob kanda Simeon ug Levi, Gindad-an ako niya hin kasamokan; yana magdudumot ha akon an mga Canaanhon, an mga Periseohanon, ngan an ngatanan nga mga tawo dida han tuna.
-030	Diri damo an akon mga tawo; kon mag-urosa hira kontra ha akon ngan sulongon ako, mapupuo an aton bug-os nga panimalay.
+030	Nagsiring hi Jacob kanda Simeon ug Levi, Gindad-an ako niya hin kasamokan;
+030	yana magdudumot ha akon an mga Canaanhon, an mga Periseohanon, ngan an ngatanan nga mga tawo dida han tuna.
+030	Diri damo an akon mga tawo;
+030	kon mag-urosa hira kontra ha akon ngan sulongon ako, mapupuo an aton bug-os nga panimalay.
 031	Kundi binmaton hira, Diri kami makakatugot nga pagsusugaron la hin usa nga maraot nga babaye an amon bugto.

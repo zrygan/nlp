@@ -1,6 +1,7 @@
 verse	content
 001	Manggawa ka na altar ya akasia.
-001	Nepeg a kuadrado; duara tan kapalduan mitro so karokey to tan duara tan kapalduan mitro so kaawang to, tan sakey tan kapalduan mitro so kaatagey to.
+001	Nepeg a kuadrado;
+001	duara tan kapalduan mitro so karokey to tan duara tan kapalduan mitro so kaawang to, tan sakey tan kapalduan mitro so kaatagey to.
 002	Manggawa ka na saray pinagkasaklur ed toktok na apatiran suyok to.
 002	Mitekep ira ed altar tan naokupan na gansa.
 003	Manggawa ka na saray palangganan pananginay dapul, tan manggawa ka na saray karyo, saray yaung, saray tinidor, tan saray palangganan pananginay ngalab.
@@ -14,10 +15,13 @@ verse	content
 009	Diad dapag ya abalaten say karokey na kurtina et limamplon yarda,
 010	isabit ira ed duamplon gansan lusek a nipatoon ed duamplon dapan a gansa, tan wala ray pilak a panagkawit tan sangal da.
 011	Gawam met so onya ed baybay a dapag na pinagkaalar.
-012	Diad dapag a sagur say benlag na saray kurtina et duamplo tan liman yarda; wala ray samploran lusek tan samploran dapan.
+012	Diad dapag a sagur say benlag na saray kurtina et duamplo tan liman yarda;
+012	wala ray samploran lusek tan samploran dapan.
 013	Diad dapag a bokig a kawalaay lolooban, say benlag na pinagkaalar to et duamplo tan liman yarda met.
-014	Diad kapag diking na lolooban say benlag na saray kurtina et pitora tan kapalduan yarda; wala ray taloran lusek tan taloran dapan.
-015	Diad lolooban say karokey na kurtina to et samploran yarda a pinon linen; asul, purpura, tan ambalanga so tinebey to tan bordaan mo.
+014	Diad kapag diking na lolooban say benlag na saray kurtina et pitora tan kapalduan yarda;
+014	wala ray taloran lusek tan taloran dapan.
+015	Diad lolooban say karokey na kurtina to et samploran yarda a pinon linen;
+015	asul, purpura, tan ambalanga so tinebey to tan bordaan mo.
 015	Apatiray lusek to a nipatoon ed apatiran dapan.
 016	Amin da ray lusek na pinagkaalar et nepeg ya atoop ira na saray sangal a pilak, say panagkawit da et pilak, tan saray dapan da et gansa.
 017	Say pinagkaalar et limamplon yarda so karokey to, duamplo tan liman yarda so kaawang to, duara tan kapalduay yarda so kaatagey to.

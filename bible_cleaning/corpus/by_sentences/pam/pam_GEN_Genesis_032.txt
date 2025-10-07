@@ -8,8 +8,10 @@ verse	content
 004	Ngana, Sabian yu king kapatad kung i Esau ing anti kaniti: Pasabi na ning kapatad yung i Jacob king menatili yang kayabe na ning bapa yung i Laban angga ngeni;
 005	king mika dakal yang sese baka, asno, tupa, at ipus a lalaki ampon babai.
 005	Pasabi na kekayu king magnasa yang maging katanggap-tanggap king arapan yu.
-006	Mibalik la ding tiburan nang Jacob at ngara, Pintalan mi ya i Esau a kapatad yu; ya mismu kanu ing sagana kekayu.
-006	Atin yang kayabe; apat lang dalan a katau.
+006	Mibalik la ding tiburan nang Jacob at ngara, Pintalan mi ya i Esau a kapatad yu;
+006	ya mismu kanu ing sagana kekayu.
+006	Atin yang kayabe;
+006	apat lang dalan a katau.
 007	Mitakutan yang e mu nanu i Jacob.
 007	Inya gewa na lang aduang grupu ding taung kayabe na, antimu rin ding tupa na, kambing, baka, at ding kamelyu.
 008	Inisip na nung sakaling dasnan neng Esau ing metung kareting grupu at salakayan ne, makatakas ya ing kadua.
@@ -22,12 +24,16 @@ verse	content
 011	Tatakut ku pota karatang na pamaten na kami at pati na ding ima ampon ding anak da.
 012	Ngayung mengaku kanaku: E ra ka paburen at parakalan ku la ring maging lahi mu, maging kasing dakal da la ring balas na ning dagat a e abilang-bilang.
 013	Kaybat nang linabas ing bengi karin, kewani na lang Jacob deting mapilan a bage ban iregalu king kapatad nang i Esau
-014	aduang dalan a babaing kambing at aduang pulung lalaking kambing; aduang dalan a babaing tupa at aduang pulung lalaking tupa;
-015	atlung pulung gatasan a kamelyu at ding karelang biseru; apat apulung baka at apulung toro; aduang pulung babaing asno at apulung lalaking asno.
+014	aduang dalan a babaing kambing at aduang pulung lalaking kambing;
+014	aduang dalan a babaing tupa at aduang pulung lalaking tupa;
+015	atlung pulung gatasan a kamelyu at ding karelang biseru;
+015	apat apulung baka at apulung toro;
+015	aduang pulung babaing asno at apulung lalaking asno.
 016	Pepanibala na la deti karing ipus na a mamahala balang grupu.
 016	Kaybat ngana karing ipus, Muna na kayu kanaku at dinan yeng pilatan ing balang grupu.
 017	Ngana ketang ipus a atyu king pekamumuna, Potang asaganan na ka ning kapatad kung i Esau at kutnan na ka nung kenu ka ipus at nung nu ka munta at nung kenu la ding animal
-018	ipakibat mu, Kang Jacob la a kekayung talasuyu; papabie na la kekayu.
+018	ipakibat mu, Kang Jacob la a kekayung talasuyu;
+018	papabie na la kekayu.
 018	Katuki mi ya.
 019	Makanyan munaman ing penabilin na king kaduang ipus, king katlu, at karing sablang maglakad kagulutan da ring kawan.
 019	Yan ing sabian yu kang Esau potang akatagpu yu ne.
@@ -45,10 +51,12 @@ verse	content
 028	Nanu waring lagyu mu?
 028	nganang kinutang ning lalaki.
 029	Jacob, nganang mekibat.
-030	Kanita ngana ning lalaki, Manibat ngeni Israel na ing lagyu mu; e na Jacob uling akabatbatan me ing Dios ampon ding tau at miniambut ka.
+030	Kanita ngana ning lalaki, Manibat ngeni Israel na ing lagyu mu;
+030	e na Jacob uling akabatbatan me ing Dios ampon ding tau at miniambut ka.
 031	Kanita nganang Jacob, Sabian yu ne mo kanaku ing lagyu yo.
 032	Pekibat na, Obat buri meng abalu ing lagyu ku?
 032	at binendisyunan ne i Jacob.
 033	Inya i Jacob inaus neng Peniel ing lugal a ita, ngana wari, Ing lupa na ning Dios, uling ikit ne lupa ing Dios, oneng e ya ninanu balang.
-034	Makaslag ne ing aldo inyang palako ne Peniel; tikul-tikul yang meko pauli na ning papaluan na.
+034	Makaslag ne ing aldo inyang palako ne Peniel;
+034	tikul-tikul yang meko pauli na ning papaluan na.
 035	Iti ya ing sangkan nung inya e la mamangan ding Israelita king laman a atyu king pikalukaluan na ning papaluan uli na ning kepilayan ya karin i Jacob king pangasakmal na.

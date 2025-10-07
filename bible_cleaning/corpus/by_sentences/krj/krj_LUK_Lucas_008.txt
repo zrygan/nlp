@@ -2,7 +2,8 @@ verse	content
 001	Wara magbuhay, naglibot si Jesus sa mga kabanwahanan kag kabaryohanan nga nagawali kang Mayad nga Balita nahanungud sa Paghari kang Dios.
 001	Ang napulo'g darwa ka mga disipulo nagtawas man kana
 002	kag may iba man nga mga kababainhan nga ginhilway ni Jesus sa mga malaot nga ispirito kag gin-ayad sa andang mga balatian: si Maria nga kilala man nga Maria Magdalena, nga nasudlan anay ka pito ka mga demonyo, pero ginpagwa sanda ni Jesus;
-003	si Juana nga asawa ni Cusa nga amo ang mayordomo sa palasyo ni Herodes; si Susana, kag ang iba pa gid nga mga kababainhan.
+003	si Juana nga asawa ni Cusa nga amo ang mayordomo sa palasyo ni Herodes;
+003	si Susana, kag ang iba pa gid nga mga kababainhan.
 003	Sanda ka dya amo ang nagtatap kay Jesus kag sa anang mga disipulo halin sa andang kaugalingun nga mga pagkabutang.
 004	Padayon nga nagatiriripon ang mga tawo kay Jesus nga nagharalin pa sa nagkalain-lain nga mga kabanwahanan.
 004	Kang duro run ang mga tawo nga nagtiriripon, nag-istorya si Jesus kananda kang paanggid nga dya
@@ -92,11 +93,13 @@ verse	content
 055	Nagkuon si Jesus kana, Inday, ang imo pagtoo amo ang nag-ayad kanimo.
 055	Kar-on, panaw run nga may kalinung.
 056	Samtang nagahambal pa si Jesus, may tawo nga nag-abot halin sa balay kang opisyal nga si Jairo, kag ginkun-an na si Jairo nga indi na run lang pagdistorbohon ang Maestro hay patay run ang anang bata.
-057	Pero nabatian dya ni Jesus kag nagkuon tana kay Jairo, Indi ikaw magkahadluk; magtuo lang ikaw, kag ang imo bata maayad.
+057	Pero nabatian dya ni Jesus kag nagkuon tana kay Jairo, Indi ikaw magkahadluk;
+057	magtuo lang ikaw, kag ang imo bata maayad.
 058	Pag-abot ni Jesus sa balay ni Jairo, wara tana ti iba nga gintugotan nga magsulud imaw kana magluwas lang kanday Pedro, Juan kag Santiago kag ang mga ginikanan kang bata.
 059	Tanan nga tawo rugto nagaparanangisun kag nagaparanambitun tungud sa bata.
 059	Nagkuon si Jesus kananda, Indi kamo maghirinibi.
-059	Bukun ti patay ang bata; nagakaturog lang.
+059	Bukun ti patay ang bata;
+059	nagakaturog lang.
 060	Ginkadlawan lang nanda si Jesus, tungud hay naman-an gid nanda nga patay run ang bata.
 061	Ginkaptan na ang bata sa alima kag gintawag, Inday, magbangon kaw!
 062	Nagbalik ang ginhawa kang bata kag lagi-lagi nagbangon dya.

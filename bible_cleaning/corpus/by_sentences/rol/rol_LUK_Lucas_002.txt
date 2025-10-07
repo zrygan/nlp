@@ -12,7 +12,8 @@ verse	content
 008	Adto da nga gab-i, ang mga pastor ng karnero hay yadto sa pasabsaban nga malapit sa Betlehem nga nagabantay ng inda mga hayop.
 009	Kag gulpi lang nagpakit ang anghel ng Ginoo sa inda kag nahayagan sinda ning kahayag ng Ginoo.
 009	Hinadlukan gid sinda,
-010	pero naghambay ang anghel, Ayaw kamo mahadlok; nagkari ako sa indo para ipasayod ang Maayong Balit nga magatao ning dak nga kalipay sa tanan nga tawo.
+010	pero naghambay ang anghel, Ayaw kamo mahadlok;
+010	nagkari ako sa indo para ipasayod ang Maayong Balit nga magatao ning dak nga kalipay sa tanan nga tawo.
 011	Kay sa ini nga adlaw, natawo sa banwa ni Haring David ang indo Manluluwas.
 011	Siya ang Ginoo nga ginatawag nga Kristo.
 012	Ini ang tand nga matuod ang akon ginahambay: makikit nindo ang lapsag nga nakaputos ning hamo nga nagahigd sa ginabutangan ng sabsabon.

@@ -27,7 +27,8 @@ verse	content
 025	kakung espada kaku yang bagutan, ba kung kuanan ing sabla rang pibandian.
 026	Oneng, Ginu , king metung mung pangisnawa,
 027	dagat karela mitakup ya,
-028	at ding tau Ehipto melumud la; anting tinggaputi king danuman limbug la.
+028	at ding tau Ehipto melumud la;
+028	anting tinggaputi king danuman limbug la.
 029	Ginu , ninu karing aliwang dios ing anti ika?
 030	Ninung kekang kalupa king kabanalan mung alang kalupa?
 031	Ninu ing makarapat karing milagrung kekang daraptan a binang pagmumulalan?
@@ -51,7 +52,8 @@ verse	content
 049	Ika, O Ginu , ing mag-ari king kapilan pa man.
 050	Mekadalan la ding Israelita libutad na ning dagat, king gabun a malangi.
 050	Inyang ding karung panggera da ring tau Ehipto, at ding karelang kabayu at ding pakasake kareti, ilang dinulung king dagat, pepasakublian na ning Ginu ing danum at mitakup iti at mitambunan la.
-051	Ing propetang i Miriam a kapatad nang Aaron, kinua ne ing pandereta na at tikian de ring sablang babai; titigtig lang pandereta at teterak la.
+051	Ing propetang i Miriam a kapatad nang Aaron, kinua ne ing pandereta na at tikian de ring sablang babai;
+051	titigtig lang pandereta at teterak la.
 052	Migkanta ya i Miriam para karela.
 052	Ngana
 053	Pagkanta ye ing Ginu , uling mitmung dangal ing pamagtagumpe na;
@@ -66,4 +68,5 @@ verse	content
 059	Karin na la binie ning Ginu ding utus a tuntunan da king pamibiebie ra at karin na la naman pinyubukan.
 060	Ngana karela, Nung mamintu kayung lubus kanaku at daptan yu itang karapatdapat at tuparan ding kautusan ku, e ra kayu paburen misakitan king isanu pa man karing sakit a pepagpa ku karing tau Ehipto.
 060	Aku, ing Ginu , ing babie kapaldanan kekayu.
-061	Kaybat, miras la Elim nung nu ating labing aduang sibul at pitung pulung pun a palma; migkampu la ketang lele na ning danum.
+061	Kaybat, miras la Elim nung nu ating labing aduang sibul at pitung pulung pun a palma;
+061	migkampu la ketang lele na ning danum.

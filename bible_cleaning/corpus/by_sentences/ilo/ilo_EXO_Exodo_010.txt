@@ -31,7 +31,8 @@ verse	content
 014	Kabigatanna, inyeg ti angin dagiti dudon.
 015	Pinangenpangenda a dimteng ket nagdissoda iti amin a lugar iti pagilian.
 015	Daytoy pay la ti kapuskolan a pangen ti dudon a timmaud ket awanen ti kastoy a kaadu, uray iti masakbayan.
-016	Uray la ngimmisit ti daga iti kaaduda; inibusda amin a tedda ti yelo, agraman dagiti bunga dagiti kayo.
+016	Uray la ngimmisit ti daga iti kaaduda;
+016	inibusda amin a tedda ti yelo, agraman dagiti bunga dagiti kayo.
 016	Awan ti bulong a natda iti kayo wenno mula iti entero nga Egipto.
 017	Dinardaras ti ari a pinaayaban da Moises ken Aaron ket kinunana kadakuada, Nakabasolak iti Apo a Diosyo, kasta met kadakayo.
 018	Pangngaasiyo ta pakawanenyo ti basolko, uray ita laeng.
@@ -50,7 +51,8 @@ verse	content
 025	Ket kinunana kadakuada, Mabalinyon ti mapan agdaydayaw iti Apo .
 025	Itugotyo dagiti babbai ken ubbingyo, ngem mabati dagiti karnero, kalding ken bakayo.
 026	Kinuna ni Moises, No kasta ngarud, masapul nga ikkannakami kadagiti animal a puoranmi nga idaton iti Apo a Diosmi.
-027	Ngem kasapulan nga ikuyogmi dagiti animalmi; awan ti uray maysa a mabati.
+027	Ngem kasapulan nga ikuyogmi dagiti animalmi;
+027	awan ti uray maysa a mabati.
 027	Ket pilienmi dagiti animal a pagdaydayaw iti Apo a Diosmi.
 027	Dimi pay ammo no ania dagiti idatonmi agingga a makadanonkami iti lugar a pagdaydayawanmi kenkuana.
 028	Pinatangken ni Yahweh ti puso ti ari ket dina impalubos a pumanaw dagiti Israelita.

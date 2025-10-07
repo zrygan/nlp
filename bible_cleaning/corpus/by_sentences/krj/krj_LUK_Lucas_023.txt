@@ -12,7 +12,8 @@ verse	content
 009	Nagalaum si Herodes nga makita na nga maghimo si Jesus kang mga milagro.
 010	Gani ginpamangkot ni Herodes si Jesus kang duro nga mga pamangkot, pero wara gid magsabat si Jesus.
 011	Ang mga pangulo kang kaparian kag ang mga manunudlo kang Kasugoan nagtirindug kag gin-akusar nanda si Jesus kang tam-an ka bug-at nga mga akusasyon.
-012	Ginmulay kag ginyaguta ni Herodes kag kang anang mga suldado si Jesus; dayon ginpasuksokan nanda tana kang manami nga panaptun kag ginpadara pabalik kay Pilato.
+012	Ginmulay kag ginyaguta ni Herodes kag kang anang mga suldado si Jesus;
+012	dayon ginpasuksokan nanda tana kang manami nga panaptun kag ginpadara pabalik kay Pilato.
 013	Sa amo gid to nga adlaw si Pilato kag si Herodes nag-amigohay, tungud hay kato anay kontrahanay sanda nga darwa.
 014	Dayon ginpatawag ni Pilato ang mga pangulo kang kaparian kag ang mga manugdumara kag ang mga katawhan.
 015	Kag nagkuon tana kananda, Gindara ninyo dya nga tawo kanakun tungud hay kuon ninyo ginapatalang na ang katawhan.
@@ -50,7 +51,8 @@ verse	content
 034	Kang pag-abot nanda sa lugar nga ginatawag Bagol rugto nanda tana ginlansang sa kros, kag amo man ang darwa ka kriminal, ang isara sa tuo nayon ni Jesus kag ang isara tana sa anang wala.
 035	Naghambal si Jesus, Amay, patawara sanda hay wara sanda kamaan kang andang ginahimo!
 036	Ang mga suldado tana naggabot-gabot sa paghururay kang anang mga bayo.
-037	Ang mga tawo rugto nagatirindug lang kag nagalantaw samtang ginayaguta si Jesus kang mga pangulo kang mga Judio, nga nagakuon, Ginluwas na ang iba; luwasun na man ang anang kaugalingun kon tana amo ang Cristo, ang pinili kang Dios!
+037	Ang mga tawo rugto nagatirindug lang kag nagalantaw samtang ginayaguta si Jesus kang mga pangulo kang mga Judio, nga nagakuon, Ginluwas na ang iba;
+037	luwasun na man ang anang kaugalingun kon tana amo ang Cristo, ang pinili kang Dios!
 038	Ginyaguta man si Jesus kang mga suldado.
 038	Nagparapit sanda kana kag gintungholan nanda tana kang langgaw,
 039	nga nagakuon, Luwasa ang imo kaugalingun kon ikaw ang hari kang mga Judio!

@@ -3,7 +3,8 @@ verse	content
 002	Hin-o man ito nga an Ginoo ?
 002	pinmakiana an hadi.
 002	Kay ano nga mamamati ako ha iya ngan palalakton ko an Israel?
-002	Diri ako nakilala han Ginoo ; ngan diri ko palalakton an Israel.
+002	Diri ako nakilala han Ginoo ;
+002	ngan diri ko palalakton an Israel.
 003	Binmaton hira Moises ug Aaron, Nagpadayag ha amon an Dyos han mga Hebreo.
 003	Tugoti kami hin paglakat hin tulo ka adlaw ngadto ha kamingawan basi maghalad kami hin mga halad nga tinubod ngadto han Ginoo nga amon Dyos.
 003	Kon diri kami maghalad, pamamatayon kami niya pinaagi hin sakit o hin araway.
@@ -12,7 +13,8 @@ verse	content
 005	Darudamo na ngani kamo nga mga tawo kay han mga Ehiptohanon.
 005	Ngan yana karuyag na niyo umundang hin pagtrabaho!
 006	Hito manta nga adlaw ginsugo han hadi an mag-isog nga mga kapatas nga Ehiptohanon ngan an mga tinaporan nga mga Israelita,
-007	Ayaw na niyo pagtagi an mga tawo hin mga uhot nga hirimoon nga baldosa; hira ngahaw an papagbilnga hini.
+007	Ayaw na niyo pagtagi an mga tawo hin mga uhot nga hirimoon nga baldosa;
+007	hira ngahaw an papagbilnga hini.
 008	Kundi papaghimoa hira hin amo la gihapon kadamo nga mga baldosa kay han una ngan ayaw gud niyo pagpaibani.
 008	Kulang hira hin trabaho, sanglit naghihinangyo hira nga tugotan hira hin paglakat ngan paghalad hin mga halad nga tinubod ngadto han ira Dyos!
 009	Dugangi hin trabaho ini nga mga tawo ngan ayaw pahunonga hira hin pagtrabaho basi mawaray na nira panahon hin pamati hin mga buwa.

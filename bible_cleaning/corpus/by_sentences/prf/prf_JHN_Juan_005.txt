@@ -24,7 +24,8 @@ verse	content
 017	Kaya sapul haud, ay inusig dn nen pinunu hidi nen Judio hidi ti Jesus gapu ten pgpapiyya na ten Aldew nen Kimang.
 018	Peru kinagi ni Jesus dikodi, En Ama ku ay tulos-tulos a magtarabahu a hanggan nadid, konak labi haud.
 019	Gapu ti iyud, ay lalu di a pinagsikapan a pabunu ti Jesus gapu linabag na dn en batas nen Aldew nen Kimang ay kinagi na pa a en Diyos i Ama naid, gustu naid a kagiyn ay ipantay na en sadili na ten Diyos.
-020	Kaya kinagi ni Jesus dikodi, Kagiyn ku dikomoy en katutuhanan a awan ti magamet en Anak a gubwat ten sadili na la; nan en ketan na a gamitn nen Ama ay siya labi iyud i gamitn naid.
+020	Kaya kinagi ni Jesus dikodi, Kagiyn ku dikomoy en katutuhanan a awan ti magamet en Anak a gubwat ten sadili na la;
+020	nan en ketan na a gamitn nen Ama ay siya labi iyud i gamitn naid.
 020	En gamitn nen Ama ay siya labi en gamitn nen Anak.
 021	Gapu mahal nen Ama en Anak, kaya ipeta na ten Anak en atanan a gggamitn na, sakay higit pa ti hidi iyn en gamet a ipeta dikona nen Ama tnni lalu kam a humanga.
 022	Ni biyagn nen Ama en patay hidi, ay kona labi hud, a biyagn nen Anak en deyaman a gustu na a biyagn.
@@ -37,7 +38,8 @@ verse	content
 027	Ni konya a en Ama ku a mismu en paggubwatan nen biyag, kona labi hud en Anak ay intdenan na ti konahud a kapangyariyan.
 028	Sakay intdenan na bi ti kapangyariyan en Anak a maghatul gapu siya en Anak nen Tolay.
 029	Dyan kam magtaka ti kagiyn kuwidi, gapu dumemt en odas a masanig nen patay hidi en boses na.
-030	Mabiyag hidi a ruway; atanan nen naggamet ti maganda ay magkahud ti biyag a awan ti katapusan, sakay en atanan a naggamet ti maduks ay maparusaan.
+030	Mabiyag hidi a ruway;
+030	atanan nen naggamet ti maganda ay magkahud ti biyag a awan ti katapusan, sakay en atanan a naggamet ti maduks ay maparusaan.
 031	Kinagi ni Jesus, Awank ti gamitn a ayun la ten sadili ku, maghatulk a ayun ten kagiyn dikoku nen Ama kaya tama en pghatul ku.
 031	Awan ku sunudn en sadili ku nan en sunudn ku ay en nangutus dikoku.
 032	Ni sikn la en mangpatunay tungkul ten sadili ku, ay en pgpatunay ku ay awan tatarudan.

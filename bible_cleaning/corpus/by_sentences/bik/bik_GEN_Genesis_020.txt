@@ -23,8 +23,10 @@ verse	content
 012	Aki siya kan sakong ama, alagad bako kan sakong ina, asin inagom ko siya.
 013	Kaya kan pahaleon ako nin Dios sa harong kan sakong ama, sinabihan ko siyang, Saen man kita makaabot ikakapahiling mo an saimong pagkamaimbod sako sa pagsabi sa kiisay man na tugang mo ako.
 014	Ibinalik ni Abimelek si Sara ki Abraham dangan tinawan pa niya ini nin mga karnero, mga baka, asin mga oripon.
-015	Sinabihan ni Abimelek si Abraham, Uya an bilog kong daga; mag-erok ka kun saen mo gusto.
-016	Sinabihan man niya si Sara, Tinawan ko an tugang mo nin sangribong pedasong plata bilang patotoo sa gabos mong kairiba na ika inosente; maaaraman ninda na mayo kang kasalan.
+015	Sinabihan ni Abimelek si Abraham, Uya an bilog kong daga;
+015	mag-erok ka kun saen mo gusto.
+016	Sinabihan man niya si Sara, Tinawan ko an tugang mo nin sangribong pedasong plata bilang patotoo sa gabos mong kairiba na ika inosente;
+016	maaaraman ninda na mayo kang kasalan.
 017	Dangan namibi sa Dios si Abraham asin binulong nin Dios si Abimelek.
 017	Binulong man nin Dios an agom kan hade asin an mga oripon na babae tanganing magkaaki sinda,
 018	huli ta pinadusahan nin Kagurangnan na dai mangaki an mga babae sa palasyo ni Abimelek huli kan nangyari ki Sara na agom ni Abraham.

@@ -5,7 +5,8 @@ verse	content
 004	Ang mga anak ni Javan: sina Elisha, Tarsis, Kittim, at Dodanim.
 005	Sa mga ito nahati ang mga pulo ng mga bansa sa kanilang mga lupain, ang bawat isa ayon sa kanyang wika, sa kanilang mga angkan at mga bansa.
 006	Ang mga anak ni Ham ay sina Cus, Mizraim, Put, at Canaan.
-007	Ang mga anak ni Cus ay sina Seba, Havila, Sabta, Raama, at Sabteca; at ang mga anak ni Raama: sina Sheba, at Dedan.
+007	Ang mga anak ni Cus ay sina Seba, Havila, Sabta, Raama, at Sabteca;
+007	at ang mga anak ni Raama: sina Sheba, at Dedan.
 008	Naging anak ni Cus si Nimrod na siyang nagsimulang maging makapangyarihan sa lupa.
 009	Siya'y makapangyarihang mangangaso sa harap ng Panginoon kaya't karaniwang sinasabi: Gaya ni Nimrod na makapangyarihang mangangaso sa harapan ng Panginoon .
 010	At ang simula ng kanyang kaharian ay ang Babel, ang Erec, ang Acad, ang Calne, sa lupain ng Shinar.
@@ -22,8 +23,12 @@ verse	content
 021	Nagkaroon din ng mga anak si Sem, na ama ng lahat ng mga anak ni Eber, na siyang matandang kapatid ni Jafet.
 022	Ang mga anak ni Sem: sina Elam, Ashur, Arfaxad, Lud, at Aram.
 023	Ang mga anak ni Aram: sina Uz, Hul, Geter, at Mas.
-024	Naging anak ni Arfaxad sina Shela; at naging anak ni Shela si Eber.
-025	Nagkaanak si Eber ng dalawang lalaki; ang pangalan ng una'y Peleg; sapagkat sa mga araw niya'y nahati ang lupa; at ang pangalan ng kanyang kapatid ay Joktan.
+024	Naging anak ni Arfaxad sina Shela;
+024	at naging anak ni Shela si Eber.
+025	Nagkaanak si Eber ng dalawang lalaki;
+025	ang pangalan ng una'y Peleg;
+025	sapagkat sa mga araw niya'y nahati ang lupa;
+025	at ang pangalan ng kanyang kapatid ay Joktan.
 026	Naging anak ni Joktan sina Almodad, Shelef, Hazar-mavet, at si Jerah,
 027	sina Hadoram, Uzal, at Dicla,
 028	sina Obal, Abimael, at Sheba,

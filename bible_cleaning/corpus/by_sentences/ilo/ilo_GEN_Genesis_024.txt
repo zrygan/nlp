@@ -81,7 +81,8 @@ verse	content
 049	Ita, pangngaasiyo ta ibagayo kaniak no kayatyo a tungpalen ti pagrebbenganyo iti apok.
 049	No saanyo a tungpalen, ibagayo koma tapno ammok ti aramidek.
 050	Simmungbat da Laban ken Betuel, Yantangay ta nakem daytoy ti Apo , saan a dakami ti mapaturay.
-051	Adtoy ni Rebecca; alaem ket inkayon.
+051	Adtoy ni Rebecca;
+051	alaem ket inkayon.
 051	Isu ti yasawam iti anak ti apom, kas imbilin ti Apo .
 052	Idi mangngeg ti adipen ni Abraham ti sinaoda, nagparintumeng iti daga ket nagdaydayaw ken ni Yahweh.
 053	Kalpasanna, nangiruar kadagiti alahas a pirak ken balitok ken pagan-anay ket itedna ken ni Rebecca.

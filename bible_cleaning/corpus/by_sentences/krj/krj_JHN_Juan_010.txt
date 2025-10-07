@@ -2,7 +2,8 @@ verse	content
 001	Nag-istorya si Jesus kang paraanggidan.
 001	Kuon na, Sugidan ko kamo: ang tawo nga nagasulud sa toril kang mga karnero pero wara tana nagaagi sa pwertahan na kadya, kundi nga nagatakras tana sa lain nga aragyan, ria nga tawo takawan kag bandido.
 002	Ang tawo tana nga nagaagi sa pwertahan kang toril amo ang manugbantay kang karnero.
-003	Ginapasulud tana kang bantay kang pwertahan; ang mga karnero nagapamati sa anang limug.
+003	Ginapasulud tana kang bantay kang pwertahan;
+003	ang mga karnero nagapamati sa anang limug.
 003	Ginatawag na ang mga karnero sa andang mga ngaran kag ginatuytoyan na sanda pagwa sa toril.
 004	Kon mapagwa na run ang tanan na nga mga karnero, nagauna tana kananda sa pagpanaw kag nagasunod sanda kana tungud nga kilala nanda ang anang limug.
 005	Ang mga karnero indi gid magsunod sa tawo nga wara nanda makilala.

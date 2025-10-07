@@ -2,7 +2,8 @@ verse	content
 001	Oreti ding anak nang Esau a ausan da namang Edom.
 002	Tau la ngan king Canaan ding asawa nang Esau: i Ada a anak nang Elon a Hiteo, i Oholibama a anak nang Ana at apu nang Zibeon a Heveo,
 003	at i Basemat a anak nang Ismael at kapatad nang Nebayot.
-004	Ing anak nang Esau kang Ada ya i Elifas; ing anak na kang Basemat ya i Reuel,
+004	Ing anak nang Esau kang Ada ya i Elifas;
+004	ing anak na kang Basemat ya i Reuel,
 005	at ding anak na kang Oholibama ila ri Jeus, Jalam, at i Kora.
 005	Ila deti ring anak nang lalaking Esau a mibait kabang mibalebale ya karin Canaan.
 006	Tiki na lang Esau ding asawa na, ding anak nang lalaki at babai, ding sablang katubale na, ding sese nang baka at aliwa pang animal, at ing sablang pibandian a atipun na Canaan, at minta ya king aliwang bansa.
@@ -11,7 +12,8 @@ verse	content
 008	Makanyan yang miras i Esau king lugal a mabunduk na ning Seir.
 008	I Esau ya naman i Edom.
 009	Oreti ding anak nang Esau a pipumpunan da ring Edomita karin king bunduk-bundukan nang lugal ning Seir
-010	I Elifas, ing anak na kang Ada; i Reuel, ing anak na kang Basemat.
+010	I Elifas, ing anak na kang Ada;
+010	i Reuel, ing anak na kang Basemat.
 011	Ding anak nang Elifas ila di Teman, Omar, Zefo, Gatam, at i Kenaz.
 012	I Timna ya ing babaing kasese nang Elifas a anak nang Esau.
 012	Ayanak neng Elifas kang Timna i Amalek.
@@ -50,7 +52,8 @@ verse	content
 033	Inyang mete ya i Bela ing sinalisi bilang ari ya i Jobab a anak nang Zerang tubu Bozra.
 034	Inyang mete ne man i Jobab ing sinalisi bilang ari ya i Husam, ing Temanita.
 035	Inyang mete ya i Husam, ing sinalisi ya i Hadad a anak nang Bedad bilang ari.
-035	Simbut na la ring Midianita king bansa ning Moab; ing siudad na ya ing Avit.
+035	Simbut na la ring Midianita king bansa ning Moab;
+035	ing siudad na ya ing Avit.
 036	Inyang mete ya i Hadad selisian neng Samla a tau Masreka bilang ari.
 037	Inyang mete ne man i Samla i Saul a tau Rehobot king Ilug ning Eufrates ya ing sinalisi bilang ari.
 038	Mete ya i Saul, at i Baalhanan a anak nang Akbor ya ing sinalisi bilang ari.

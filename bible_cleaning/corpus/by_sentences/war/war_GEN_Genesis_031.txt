@@ -5,7 +5,8 @@ verse	content
 003	Niyan nagsiring ha iya an Ginoo , Balik ngadto ha tuna han imo mga ginikanan ngan ngadto han imo mga kauropdan.
 003	Maupod ako ha imo.
 004	Sanglit nagpatugon hi Jacob ngadto kanda Raquel ug Lea nga tapoon hiya nira didto han uma diin nakadto an iya mga panon.
-005	Nagsiring hiya ha ira, Hinkit-an ko nga diri na gud makisasangkayon ha akon an iyo tatay sugad han una; kundi nagin kaupod ko la gihapon an Dyos han akon amay.
+005	Nagsiring hiya ha ira, Hinkit-an ko nga diri na gud makisasangkayon ha akon an iyo tatay sugad han una;
+005	kundi nagin kaupod ko la gihapon an Dyos han akon amay.
 006	Maaram man kamo nga duha nga nagkabudlay ako ha bug-os ko nga kusog para han iyo amay.
 007	Kundi ginlimbongan ako niya, ngan makanapulo na pagliwatliwata an akon suhol.
 007	Kundi waray tumugot an Dyos nga pagdaoton ako niya.
@@ -57,7 +58,8 @@ verse	content
 035	Ano nga balaod an akon natalapas nga nakahatag ha iyo hin katungod hin paglanat ha akon?
 036	Yana nga gin-usisa mo na an ngatanan nga akon mga kasangkapan, ano nga butang hin panimalay an imo hin-agian nga imo gintatag-iya?
 036	Igawas ito ngadi basi hikit-an han imo ngan han akon mga tawo, ngan papagbut-a hira kon hin-o ha aton an matadong.
-037	Kaupod ako nimo sulod hin 20 na ka tuig; waray umundang hin pag-anak an imo mga karnero ngan an imo mga kanding, ngan waray ako kumaon hin bisan usa nga karnero nga lalaki tikang han imo mga panon.
+037	Kaupod ako nimo sulod hin 20 na ka tuig;
+037	waray umundang hin pag-anak an imo mga karnero ngan an imo mga kanding, ngan waray ako kumaon hin bisan usa nga karnero nga lalaki tikang han imo mga panon.
 038	Kada pagpapataya hin ihalas nga kamanampan in usa nga karnero, akon dayon gin-aangkon an kapirdehan.
 038	Waray ako magdara hini ngadto ha imo hin pagpakita nga diri ini sayop nakon.
 038	Nagkinahanglan ka gud nga akon pagbaydan an bisan ano nga nakawat ha adlaw o ha gab-i.
@@ -68,7 +70,8 @@ verse	content
 040	Ngan bisan pa ngani, imo ginliwatliwat hin makanapulo an akon mga suhol.
 041	Kon diri pa upod ha akon an Dyos han akon mga ginikanan, nga Dyos nira Abraham ug Isaac, imo na unta ako ginpaiwas nga waray dara.
 041	Kundi hinkit-an han Dyos an akon kakurian ngan an buruhaton nga akon gintuman, ngan kagab-i iginhatag niya an iya paghukom.
-042	Binmaton hi Laban kan Jacob, Mga anak ko ini nga mga babaye; akon man an ira mga anak ngan akon ini nga mga panon.
+042	Binmaton hi Laban kan Jacob, Mga anak ko ini nga mga babaye;
+042	akon man an ira mga anak ngan akon ini nga mga panon.
 042	Ha pagkatinuod, akon an ngatanan nga imo hinkikit-an dinhe.
 042	Kundi tungod nga waray ko man mahihimo hin paghawid han akon mga anak nga kababayen-an ngan han ira mga anak,
 043	andam ako hin pakigsabot ha imo.

@@ -16,7 +16,8 @@ verse	content
 008	Ngana kang Jacob, Tune neng palsintan ning anak kung i Sikem i Dina a anak mu.
 008	Ipakisabi ku kekayu king paintulutan yu neng ayasawa ne.
 009	Paintulut yung miyayasawa la ring anak yu at ding anak mi.
-010	Manuknangan kayung kayabe mi; keti na kayu makipanuknangan, mangalakal, at manialing gabun.
+010	Manuknangan kayung kayabe mi;
+010	keti na kayu makipanuknangan, mangalakal, at manialing gabun.
 011	Kanita nganang Sikem kang tata na at karing kapatad nang Dina, Panusigan yu na ku at ibie ku kekayu ing nanumang aduan yu kanaku.
 012	Bayaran ke ing duru agyang magkanu ya.
 012	Paintulutan yu mung ayasawa ke ing anak yung dalaga.
@@ -46,8 +47,10 @@ verse	content
 026	Pete ria naman i Hamor at ing anak nang i Sikem.
 026	Kaybat tiki de i Dina at saka na la meko.
 027	Pemangua da ring aliwa nang anak Jacob ing nanumang bage akua ra king siudad anting pamanablas king pangasira na puri ning kapatad dang i Dina.
-028	Kinua da la ring kawan; dela da la ngan ding baka ampon asno, at ing sablang atyu kilub at kilual ning siudad.
-029	Kinua da ngan ing heganaganang bage maulaga; binihag da la ring asawa ra at anak at nipnap da la laman ding pibalebale ra.
+028	Kinua da la ring kawan;
+028	dela da la ngan ding baka ampon asno, at ing sablang atyu kilub at kilual ning siudad.
+029	Kinua da ngan ing heganaganang bage maulaga;
+029	binihag da la ring asawa ra at anak at nipnap da la laman ding pibalebale ra.
 030	Nganang Jacob kari Simeon at Levi, Karagul na ning problemang pepasari yo!
 030	Uli na ning gewa yu pikasaman da ku ding memalen na ning lugal a iti, ding tau Canaan, at ding Perezeo.
 030	Ditak la mu ding tauan ku.

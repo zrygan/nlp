@@ -17,7 +17,8 @@ verse	content
 010	Sa pag-abot nila sa giukanan didto sa Atad, sa sidlakan sa Jordan, nagbangotan ug nanghilak sila sa hilabihan gayod sulod sa taas nga panahon.
 010	Si Jose naghimog seremonyas sa pagbangotan sulod sa pito ka adlaw.
 011	Sa pagkakita sa katawhan sa Canaan sa pagbangotan didto sa Atad, miingon sila, Kini usa ka masulob-on nga seremonyas sa pagbangotan sa mga Ehiptohanon.
-011	Busa kadtong dapita ginganlag Abel Misraim; nahimutang kini sa sidlakan sa Jordan.
+011	Busa kadtong dapita ginganlag Abel Misraim;
+011	nahimutang kini sa sidlakan sa Jordan.
 012	Gituman sa mga anak ni Jacob ang iyang tugon kanila.
 013	Gidala nila ang iyang lawas ngadto sa Canaan ug gilubong sa Langub sa Macpela sa sidlakan sa Mamre nga napalit ni Abraham lakip sa uma gikan kang Efron nga Hitihanon aron himoong lubnganan.
 014	Human ilubong ni Jose ang iyang amahan, mipauli siya sa Ehipto uban sa iyang mga igsoon ug sa tanan nga mikuyog kaniya sa paglubong.

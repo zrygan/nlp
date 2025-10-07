@@ -2,11 +2,13 @@ verse	content
 001	Iyo ini an mga kapagarakian ni Esau na inaapod man Edom.
 002	Mga babaeng taga Canaan an saiyang inagom: Si Ada na aki ni Elon na Heteo, si Oholibama na aki ni Ana na aking lalaki ni Zibeon na Heveo,
 003	asin si Basemat na aki ni Ismael asin tugang ni Nebaiot.
-004	Namundag ki Ada si Elifaz; ki Basemat si Reuel;
+004	Namundag ki Ada si Elifaz;
+004	ki Basemat si Reuel;
 005	asin ki Oholibama si Jeus, Jalam saka si Kora.
 005	Ini an mga aki ni Esau na namundag saiya sa Canaan.
 006	Dangan dinara ni Esau an saiyang mga agom, an saiyang mga aking lalaki asin babae, an gabos na myembro kan saiyang harong sagkod an saiyang mga hayop saka rogaring na napasaiya sa daga nin Canaan, asin nagduman sa ibang daga na harayo sa tugang niyang si Jacob.
-007	Naghale siya huli ta an daga dai na nagkanigo sa saindang magtugang; dakul nang marahay an saindang mga hayop kaya dai na sinda pwedeng mag-erok sa parehong lugar.
+007	Naghale siya huli ta an daga dai na nagkanigo sa saindang magtugang;
+007	dakul nang marahay an saindang mga hayop kaya dai na sinda pwedeng mag-erok sa parehong lugar.
 008	Kaya nag-erok si Esau sa mabulod na daga nin Edom.
 009	Iyo ini an mga kapagarakian ni Esau na ginikanan kan mga Edomeo.
 010	Ini an mga ngaran kan mga aking lalaki ni Esau sa saiyang mga agom: si Elifaz na aki ni Ada, si Reuel na aki ni Basemat.

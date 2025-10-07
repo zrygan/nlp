@@ -2,16 +2,19 @@ verse	content
 001	Aramidem ti akin-uneg a paset ti santuario, ti Tolda ti Dios, iti sangapulo a kurtina a naabel iti nalamuyot a linen ken de lana nga asul, ube ken nalabaga.
 001	Pabordaam dagitoy kadagiti imahen dagiti kerubim.
 002	Pagpapadaem ti rukod ti tunggal kurtina: 12 a metro ti kaatiddogna ken dua a metro ti kaakaba.
-003	Lima a kurtina ti pagsasaipem iti maysa a naig; kasta met ti aramidem kadagiti dadduma a kurtina.
+003	Lima a kurtina ti pagsasaipem iti maysa a naig;
+003	kasta met ti aramidem kadagiti dadduma a kurtina.
 004	Yaramidam iti pagyusokan nga asul a lupot iti pingir iti akinruar dagiti dua a bengbeng a napagsasaip.
 005	Ikkam iti 50 a pagyusokan iti umuna a kurtina iti umuna a naig.
 005	Kasta met ti aramidem iti maudi a kurtina iti maikadua a naig.
 006	Mangaramidka iti 50 a balitok a kawit a mamagkamang kadagitoy dua a naig tapno sangsangkanayonda.
 007	Mangaramidka iti linong ti Tolda ti Dios iti sangapulo ket maysa a pedaso a lupot a naabel iti dutdot ti kalding.
 008	Pagpapadaem ti rukodda: 13 a metro ti kaatiddog ken dua a metro ti kaakaba.
-009	Pagsasaipem ti lima a pedaso; kasta met ti aramidem kadagiti innem a pedaso.
+009	Pagsasaipem ti lima a pedaso;
+009	kasta met ti aramidem kadagiti innem a pedaso.
 009	Kulpiem ti maikanem a pedaso tapno agdawatdaw iti sango ti Tolda ti Dios.
-010	Ikkam iti 50 a pagyusokan ti pingir ti maudi a pedaso iti maysa a naig; kasta met iti sabali a naig.
+010	Ikkam iti 50 a pagyusokan ti pingir ti maudi a pedaso iti maysa a naig;
+010	kasta met iti sabali a naig.
 011	Mangaramidka iti 50 a bronse a kawit ket yusongmo kadagiti pagyusokan a mamagkamang kadagiti dua a naig tapno mabukel ti maysa nga abbong.
 012	Aguy-oy ti kagudua ti pedaso ti tolda iti likud ti Tolda ti Dios.
 013	Aguy-oy met kadagiti sikigan ti Tolda ti Dios ti kagudua a yarda a surok ti pedaso iti agsumbangir ti kaatiddog ti tolda tapno abbonganna ti tabernakulo.
@@ -21,9 +24,11 @@ verse	content
 017	Ikkam iti dua nga agpada a sunta a mamagkamang kadagiti bastidor.
 017	Suntaam ti amin a bastidor.
 018	Mangaramidka iti 20 a bastidor a maikabil iti bangirna ti abagatan.
-019	Mangaramidka met iti 40 a pirak a pagbatayan dagiti bastidor; dua a pagbatayan ti tunggal bastidor ket dagitoy ti pagsaadan dagiti suntana.
+019	Mangaramidka met iti 40 a pirak a pagbatayan dagiti bastidor;
+019	dua a pagbatayan ti tunggal bastidor ket dagitoy ti pagsaadan dagiti suntana.
 020	Duapulo a bastidor ti aramidem para iti bangirna iti amianan.
-021	Mangaramidka pay iti 40 a pirak a pagbatayan; dua a pagbatayan iti tunggal tabla.
+021	Mangaramidka pay iti 40 a pirak a pagbatayan;
+021	dua a pagbatayan iti tunggal tabla.
 022	Para iti likudan ti Tolda iti bangirna iti laud, mangaramidka iti innem a bastidor
 023	ken dua a bastidor a maikabil kadagiti nagsulian.
 024	Agkakamang dagiti pasuli a bastidor iti umuna a pagyusokan, manipud iti baba agingga iti tuktok.
@@ -36,7 +41,8 @@ verse	content
 030	Bangonem ti Tolda ti Dios a kas mayannurot iti plano a naipakita kenka iti bantay.
 031	Mangaramidka iti kurtina iti nafino a linen a naabel iti delana nga asul, ube ken nalabaga.
 031	Bordaam kadagiti imahen dagiti kerubim.
-032	Ibitinmo ti kurtina kadagiti uppat a poste a kayo nga akasia a nakalupkopan iti balitok; adda kawitda ken naisaad kadagiti uppat a pirak a pagbatayan.
+032	Ibitinmo ti kurtina kadagiti uppat a poste a kayo nga akasia a nakalupkopan iti balitok;
+032	adda kawitda ken naisaad kadagiti uppat a pirak a pagbatayan.
 033	Ibitinmo ti kurtina kadagiti naintar a kawit nga adda iti baba ti Tolda ket ikabilmo ti Lakasa ti Tulag a nakaidulinan dagiti tapi a bato iti likudan ti kurtina.
 033	Adda ti kurtina iti nagbaetan ti Nasantoan a Disso ken ti Kasasantoan a Disso.
 034	Ikabilmo ti kalub iti rabaw ti Lakasa ti Tulag.

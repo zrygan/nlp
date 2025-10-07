@@ -8,7 +8,8 @@ verse	content
 005	Ita, nangngegko ti asug dagiti Israelita a tagtagabuen dagiti Egipcio ket nalagipko ti pannakitulagko.
 006	Ngarud, ibagam daytoy kadagiti Israelita, Siak ni Yahweh.
 006	Ispalenkayto ket wayawayaankayto iti pannakatagabuyo kadagiti Egipcio.
-006	Ipariknak kadakuada ti dagsen ti mannakabalin nga imak; nakabutbutengto ti panangdusak kadakuada ket isalakankayto.
+006	Ipariknak kadakuada ti dagsen ti mannakabalin nga imak;
+006	nakabutbutengto ti panangdusak kadakuada ket isalakankayto.
 007	Pagbalinenkayto a tattaok ket siakto ti Diosyo.
 007	Maammoanyonto a siak ni Yahweh a Diosyo inton wayawayaankayo iti pannakatagabuyo idiay Egipcio.
 008	Ipankayto iti daga nga insapatak nga ited kada Abraham, Isaac ken Jacob.
@@ -22,7 +23,8 @@ verse	content
 013	Imbilin ni Yahweh kada Moises ken Aaron nga ibagada kadagiti Israelita ken iti ari nga isuda a dua ti nabilin a mangiruar kadagiti Israelita idiay Egipto.
 014	Uppat ti lallaki nga annak ni Ruben nga inauna nga anak ni Jacob: Hanoc, Pallu, Hezron ken Carmi.
 014	Isuda ti kapuonan dagiti familia a naipanagan kadakuada.
-015	Innem ti annak ni Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar ken Saul nga anak ti maysa a Cananea; isuda ti kapuonan dagiti sangkafamiliaan a naipanagan kadakuada.
+015	Innem ti annak ni Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar ken Saul nga anak ti maysa a Cananea;
+015	isuda ti kapuonan dagiti sangkafamiliaan a naipanagan kadakuada.
 016	Tallo ti annak ni Levi: Gerson, Cohat ken Merari.
 016	Isuda ti kapuonan dagiti familia a naipanagan kadakuada.
 016	Nagbiag ni Levi iti 137 a tawen.
@@ -36,13 +38,17 @@ verse	content
 020	Nagbiag ni Amram iti 137 a tawen.
 021	Tallo ti annak ni Izar: Kora, Nefeg ken Zikri.
 022	Tallo met ti annak ni Uzziel: Misael, Elisafan ken Sitri.
-023	Inasawa ni Aaron ni Eliseba nga anak ni Aminadab ken kabsat ni Naason; inyanakna da Nadab, Abiu, Eleazar ken Itamar.
-024	Tallo ti annak ni Kora: Asir, Elcana ken Abiasaf; isuda ti kapuonan dagiti benneg dagiti sangkafamiliaan ni Kora.
-025	Inasawa ni Eleazar nga anak ni Aaron ti maysa kadagiti annak ni Futiel; inyanakna ni Finees.
+023	Inasawa ni Aaron ni Eliseba nga anak ni Aminadab ken kabsat ni Naason;
+023	inyanakna da Nadab, Abiu, Eleazar ken Itamar.
+024	Tallo ti annak ni Kora: Asir, Elcana ken Abiasaf;
+024	isuda ti kapuonan dagiti benneg dagiti sangkafamiliaan ni Kora.
+025	Inasawa ni Eleazar nga anak ni Aaron ti maysa kadagiti annak ni Futiel;
+025	inyanakna ni Finees.
 025	Dagitoy dagiti ulo ti familia ken dagiti kafamilia iti tribu ni Levi.
 026	Da Aaron ken Moises ti nagkunaan ni Yahweh, Iruaryo dagiti tribu ti Israel iti Egipto.
 027	Isuda ti nangibaga iti ari ti Egipto a wayawayaanna dagiti Israelita.
 028	Idi nagsao ni Yahweh ken ni Moises idiay Egipto,
 029	kinunana, Siak ni Yahweh.
 029	Ibagam iti ari ti Egipto dagiti amin nga ibagak kenka.
-030	Ngem insungbat ni Moises ken ni Yahweh, Ammoyo a diak nalaing nga agsao; kasano a denggennak ti ari?
+030	Ngem insungbat ni Moises ken ni Yahweh, Ammoyo a diak nalaing nga agsao;
+030	kasano a denggennak ti ari?

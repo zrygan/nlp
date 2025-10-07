@@ -9,7 +9,8 @@ verse	content
 006	An mga aking lalaki ni Ham iyo si Cus, Egipto, Libya, asin Canaan.
 007	An mga aking lalaki ni Cus iyo si Sheba, Havila, Sabta, Raama asin Sabteca.
 007	An mga aking lalaki ni Raama iyo si Sheba saka Dedan.
-008	Si Cus iyo an ama ni Nimrod; iyo ini an enot na tawo sa kinaban na nabantog bilang sarong mapangyaring mananakop.
+008	Si Cus iyo an ama ni Nimrod;
+008	iyo ini an enot na tawo sa kinaban na nabantog bilang sarong mapangyaring mananakop.
 009	Sa atubang nin Kagurangnan , siya sarong dakulang paraayam, kun kaya nagkaigwa nin kasabihan, Siring ki Nimrod na dakulang paraayam sa atubangan nin Kagurangnan !
 010	Kaayon sa kaenot-enoteng kahadean na sakop niya iyo an Babilon, an Erek, asin an Accad, na gabos yaon sa daga kan Babilonia.
 011	Hale sa dagang ini nagduman siya sa Asiria asin itinugdok an mga syudad nin Nineve, Rehobot-ir, Cala,
@@ -27,7 +28,8 @@ verse	content
 022	An mga aking lalaki ni Sem iyo si Elam, Assur, Arpaksad, Lud asin Aram.
 023	An mga aking lalaki ni Aram iyo si Uz, Hul, Geter asin Mas.
 024	Si Arpaksad iyo an ama ni Sela na ama ni Eber.
-025	Duwa an nagin aking lalaki ni Eberan saro inapod niyang Peleg, huli ta sa panahon kaini nabanga an mga tawo sa daga; asin an ikaduwa, nginaranan niyang Joktan.
+025	Duwa an nagin aking lalaki ni Eberan saro inapod niyang Peleg, huli ta sa panahon kaini nabanga an mga tawo sa daga;
+025	asin an ikaduwa, nginaranan niyang Joktan.
 026	Si Joktan iyo an ama ninda Almodad, Selef, Hazarmavet, Jera,
 027	Hadoram, Uzal, Dikla,
 028	Obal, Abimael, Sheba,

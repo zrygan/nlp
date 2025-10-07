@@ -11,7 +11,8 @@ verse	content
 005	I Sarah munaman ing sinabi king kapatad ne i Abraham.
 005	Mayap ku kapagnasan at ala kung kasalanan.
 006	Pekibat na ning Dios king kapamilatan na ning paninap, Wa, balu ku king mayap ing kapagnasan mu inyang gawan mu ita.
-006	Ing katutuan na niti aku ing menintun dalan ban e ka mikasala laban kanaku; makanyan kung e pepaintulut ing tagkilan me.
+006	Ing katutuan na niti aku ing menintun dalan ban e ka mikasala laban kanaku;
+006	makanyan kung e pepaintulut ing tagkilan me.
 007	Ibalik me king taung iti ing asawa na uling propeta ya i Abraham at manalangin ya para keka ban e ka mate.
 007	Nung e me ibalik mate ka at pati na ding memalen mu.
 008	Maranun pa migising ne i Abimelek at pepayaus na la ding pamuntuk na at belitanan na la tungkul king apaninap na.

@@ -42,11 +42,13 @@ verse	content
 022	Kaya itinaas ni Moises an saiyang kamot, asin nagdiklom an Egipto sa laog nin tolong aldaw;
 023	dai nagkahirilingan an mga Egipcio asin dai nin siisay man na nakahale sa saiyang namumugtakan.
 023	Alagad maliwanag sa lugar kan mga Israelita.
-024	Inapod kan hade si Moises asin sinabihan, Lakaw na kamo sa pagsamba sa Kagurangnan ; ipag-iba nindo maski an mga babae sagkod mga aki.
+024	Inapod kan hade si Moises asin sinabihan, Lakaw na kamo sa pagsamba sa Kagurangnan ;
+024	ipag-iba nindo maski an mga babae sagkod mga aki.
 024	Alagad mawawalat digdi an saindong mga karnero, mga kanding, asin mga baka.
 025	Nagsimbag si Moises, Dangan ika na an matao samo nin mga hayop na iaatang sa Kagurangnan na samong Dios.
 026	Dai pwede iyan!
-026	Dadarahon mi an samong mga hayop; mayong mawawalat maski saro.
+026	Dadarahon mi an samong mga hayop;
+026	mayong mawawalat maski saro.
 026	Kami sana an kaipuhan magpili kan mga hayop na iaatang sa Kagurangnan na samong Dios.
 026	Sagkod na dai kami nakaabot duman, dai mi maaaraman kun arin na mga hayop an iaatang saiya.
 027	Alagad pinatagas na naman nin Kagurangnan an puso kan hade kaya dai ini nagtugot na humale sinda.

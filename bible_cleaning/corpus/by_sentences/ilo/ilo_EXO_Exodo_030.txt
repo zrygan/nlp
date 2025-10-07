@@ -45,7 +45,8 @@ verse	content
 032	Diyo ibukbok daytoy iti gagangay a tao ket diyo tuladen ti kastoy a pannakaaramidna.
 032	Nasagradoan daytoy ket masapul nga ibilangyo a nasagradoan.
 033	Saanen a maibilang a taok ti siasinoman a mangaramid iti kastoy wenno mangusar iti siasinoman a tao a saan a padi.
-034	Kinuna ni Yahweh ken ni Moises, Mangalaka kadagiti nabanglo a rekado: estakte, onitsa, galbanum ken puro nga olibanum; pagpapadaem ti kaadu ti tunggal maysa.
+034	Kinuna ni Yahweh ken ni Moises, Mangalaka kadagiti nabanglo a rekado: estakte, onitsa, galbanum ken puro nga olibanum;
+034	pagpapadaem ti kaadu ti tunggal maysa.
 035	Aramidem dagitoy nga insenso a matempla a kas bangbanglo.
 035	Asinam tapno agtalinaed a puro ken sagrado.
 036	Mangmekmekka iti insenso samo ipan iti Tolda ti Dios iti imatangko ket iwarakiwakmo iti sangoanan ti Lakasa ti Tulag.

@@ -9,19 +9,24 @@ verse	content
 004	Dinmuok hira ngan nagsiring hiya, Amo ako hi Jose nga iyo bugto nga iginbaligya niyo nganhi ha Ehipto.
 005	Yana ayaw kamo kabaraka o pagbasol ha iyo ngahaw tungod nga iginbaligya ako niyo nganhi.
 005	An Dyos amo gud an nagpadara ha akon hin pag-una ha iyo nganhi hin pagtalwas han mga kinabuhi hin mga tawo.
-006	Ikaduha pala ka tuig ini nga gutom dinhe ha tuna; may-ada lilima pa ka tuig nga mawawaray pag-arado o pag-ani.
+006	Ikaduha pala ka tuig ini nga gutom dinhe ha tuna;
+006	may-ada lilima pa ka tuig nga mawawaray pag-arado o pag-ani.
 007	Ginpauna ako ha iyo han Dyos hin pagtalwas ha iyo ha sugad hini nga urosahon nga paagi ngan pagsiguro nga mabuhi kamo ngan an iyo mga tulin.
 008	Sanglit diri gud kamo kundi an Dyos amo an nagpadara ha akon nganhi.
 008	Ginhimo ako niya nga gilalabawi nga opisyal han hadi.
-008	Amo ako an tinaporan han iya bug-os nga nasod; amo ako an punoan han bug-os nga Ehipto.
-009	Yana pagdagmit kamo hin pagbalik ngadto han akon tatay ngan sumati hiya nga amo ini an siring ni Jose nga iya anak, Ginhimo ako han Dyos nga punoan han bug-os nga Ehipto; pakadi ha akon hin waray paglangan.
+008	Amo ako an tinaporan han iya bug-os nga nasod;
+008	amo ako an punoan han bug-os nga Ehipto.
+009	Yana pagdagmit kamo hin pagbalik ngadto han akon tatay ngan sumati hiya nga amo ini an siring ni Jose nga iya anak, Ginhimo ako han Dyos nga punoan han bug-os nga Ehipto;
+009	pakadi ha akon hin waray paglangan.
 010	Makakag-ukoy ka didto han katunaan han Gosen diin mahihirani kamo ha akonikaw, an imo mga anak, an imo mga apo, an imo mga karnero, an imo mga kanding, an imo mga baka, ngan an ngatanan nga iba pa nga imo mga hiagi.
 011	Kon aadto ka na ha Gosen, makakagmangno ako ha iyo.
-011	May lilima pa ka tuig nga gutom; ngan diri ko karuyag nga panggutomon ikaw, an imo panimalay, ngan an imo mga hayop.
+011	May lilima pa ka tuig nga gutom;
+011	ngan diri ko karuyag nga panggutomon ikaw, an imo panimalay, ngan an imo mga hayop.
 012	Nagpadayon hi Jose, Yana nakakakita kamo ngatanan, ngan ikaw liwat Benjamin nga amo gud ako hi Jose.
 013	Sumati an akon tatay nga gamhanan na ako dinhe ha Ehipto ngan sumati hiya hiunong han ngatanan nga iyo hinkit-an.
 013	Niyan pagdagmit kamo ngan dad-a hiya nganhi.
-014	Ginhangkopan niya hi Benjamin nga iya bugto ngan nagtangis hira nga duha; nagtangis liwat hi Benjamin samtang ginggagakos niya hi Jose.
+014	Ginhangkopan niya hi Benjamin nga iya bugto ngan nagtangis hira nga duha;
+014	nagtangis liwat hi Benjamin samtang ginggagakos niya hi Jose.
 015	Ngan samtang nagtitinangis pa hi Jose, ginhangkopan niya an kada usa han iya kabugtoan ngan ginhagkan hira.
 015	Katapos hito, nakighimangraw na ha iya an iya kabugtoan.
 016	Han pag-abot han sumat ngadto ha palasyo nga nagkaabot an kabugtoan ni Jose, nalipay an hadi ngan an iya mga opisyal.
@@ -29,7 +34,8 @@ verse	content
 018	Ipakuha ha ira an ira amay ngan an ira mga panimalay, ngan pabalika hira nganhi.
 018	Ighahatag ko ha ira an gimamaupayi nga tuna dinhe ha Ehipto, ngan mahuhura hira hin pagkaon.
 019	Ipadara liwat ha ira in mga karomata tikang ha Ehipto, para han ira kaasaw-an ngan han ira gudtiay nga kabataan, ngan paupda ha ira an ira amay.
-020	Diri hira angay mabaraka hin pagbaya han ira mga butang; magtatag-iya hira han gimamaupayi dinhe han bug-os nga tuna han Ehipto.
+020	Diri hira angay mabaraka hin pagbaya han ira mga butang;
+020	magtatag-iya hira han gimamaupayi dinhe han bug-os nga tuna han Ehipto.
 021	Gintuman han mga anak ni Jacob sumala han iginsiring ha ira.
 021	Gintagan hira ni Jose hin mga karomata ngan pagkaon para han ira paglalaktan sumala han iginsugo han hadi.
 022	Gintagan liwat niya hin liliwanan nga panapton an kada usa ha ira, kundi gintagan niya hi Benjamin hin tulo ka gatos ka bug-os nga salapi ngan lima nga liliwanan nga mga panapton.

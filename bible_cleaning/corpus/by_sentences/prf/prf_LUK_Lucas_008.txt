@@ -3,7 +3,8 @@ verse	content
 001	Impangaral na sakay intoldu en Maganda a Bareta tungkul ten pghari nen Diyos.
 001	Kaguman na en sapulu ay ti duwwa a disepulus na,
 002	sakay en sangan a bbbi a pinagpiyya na ten mgkaduks a ispiritu sakay ten saket di hidi: ti Maria Magdalena a nangpalakadan ni Jesus ten pittu a dimonyo,
-003	ti Juana a kabinga ni Cusa a katiwala ni Herodes; ti Susana, sakay en agum pa hidi.
+003	ti Juana a kabinga ni Cusa a katiwala ni Herodes;
+003	ti Susana, sakay en agum pa hidi.
 003	Ginastus di en sadili di a ari-ariyan ten kttulung di knni Jesus sakay ten disepulus na hidi.
 004	Nagdemttan pa en tolay hidi a gubwat ten iba-iba a banuwan sakay ummadeni hidi knni Jesus.
 004	Dikona naipun-ipun dn en tunay ti kakpal a tolay ay insaysay ni Jesus i talinhagaid a iddi

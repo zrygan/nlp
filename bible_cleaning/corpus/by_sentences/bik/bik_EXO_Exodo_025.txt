@@ -3,15 +3,20 @@ verse	content
 002	Sabihan mo an mga Israelita na magtao nin dolot sako.
 002	Akoon mo an anoman na boot nindang idolot.
 003	Ini an mga dolot na aakoon mo: bulawan, plata, bronse;
-004	pinong lino, telang lana na kolor asul, purpura saka pula; telang gibo sa balukag nin kanding;
-005	anit nin lalaking karnero na tinugma nin pula; anit nin kanding; tablang akasya;
-006	lana para sa mga ilawan; pahamot para sa panlahid na lana asin para sa insenso;
+004	pinong lino, telang lana na kolor asul, purpura saka pula;
+004	telang gibo sa balukag nin kanding;
+005	anit nin lalaking karnero na tinugma nin pula;
+005	anit nin kanding;
+005	tablang akasya;
+006	lana para sa mga ilawan;
+006	pahamot para sa panlahid na lana asin para sa insenso;
 007	mga batong oniks asin iba pang batong pantampok sa efod asin sa pantahob sa daghan kan Halangkaw na Padi.
 008	Pagibohon mo an mga tawo nin sarong Tabernakulo para sako, tanganing mag-erok ako sa kaibahan ninda.
 009	An Tabernakulo asin an gabos na kasangkapan kaiyan gibohon nindo siring sa plano na ipapahiling ko saimo.
 010	Gumibo kamo nin sarong Kaban na akasya, syento dyes sentimetros an laba, sesenta y seis sentimetros an lakbang asin sesenta y seis sentimetros an langkaw.
 011	Patoson nindo nin purong bulawan an laog asin an luwas kaiyan dangan bugtakan nindo nin moldurang bulawan sa palibot.
-012	Gibohan nindo iyan nin apat na siningsing na bulawan asin itakod nindo sa apat na bitis; duwang siningsing sa mag-ibong na gilid kan kaban.
+012	Gibohan nindo iyan nin apat na siningsing na bulawan asin itakod nindo sa apat na bitis;
+012	duwang siningsing sa mag-ibong na gilid kan kaban.
 013	Gumibo man kamo nin mga pasanan na akasya, saka patoson nindo nin bulawan
 014	asin isurok sa mga siningsing na nasa duwang gilid kan Kaban.
 015	Dai nanggad iyan paghaleon sa namumugtakan na mga siningsing.
@@ -22,7 +27,8 @@ verse	content
 019	Gibohon nindo na magin saro sanang pedaso nin bulawan an mga kerubin sagkod an takop.
 020	Maghahampangan an duwang kerubin sa ibabaw kan takop, na matatahoban kan nakaunat nindang mga pakpak.
 021	Ilaog mo sa Kaban an duwang tablang gapo dangan takopan mo.
-022	Diyan taka tatagboon sa ibabaw kan takop, sa tahaw kan duwang kerubin; diyan ko itataram saimo an sakong mga togon para sa banwaan nin Israel.
+022	Diyan taka tatagboon sa ibabaw kan takop, sa tahaw kan duwang kerubin;
+022	diyan ko itataram saimo an sakong mga togon para sa banwaan nin Israel.
 023	Gumibo kamo nin sarong lamesa na akasya, otsenta y otso sentimetros an laba, kwarenta y kwatro sentimetros an lakbang asin sesenta y seis sentimetros an langkaw.
 024	Patoson nindo iyan nin purong bulawan asin palibotan nin moldurang bulawan.
 025	An palibot kaiyan bugtakan nindo nin sanipa na pito may kabangang sentimetros an lakbang asin palibotan nindo nin moldurang bulawan.
@@ -33,7 +39,8 @@ verse	content
 029	Gumibo man kamo nin kalis, dulay saka mangko para sa dolot na arak.
 029	Iyan gabos gibohon nindo sa purong bulawan.
 030	Ibugtak nindo an lamesa sa atubangan kan Kaban nin Tipan, asin sa ibabaw kan lamesa, danay nindong bugtakan nin dolot na tinapay.
-031	Gumibo kamo nin sarong kandelerong purong bulawan; an bitis asin an kahawakan kaiyan gibohon nindo sa pinulpog na bulawan.
+031	Gumibo kamo nin sarong kandelerong purong bulawan;
+031	an bitis asin an kahawakan kaiyan gibohon nindo sa pinulpog na bulawan.
 031	Gibohon nindong saro sanang pedaso an kandelero sagkod an mga dekorasyon na burak, kaiba an mga bukol saka an mga petalo.
 032	Bugtakan nindo nin anom na sanga, an mag-ibong na gilid kan kandelero, tolong sanga lambang gilid.
 033	An lambang sanga samnohan nindo nin tolong burak na arog sa mga bukad na burak nin almendras na may kaibang mga bukol asin mga petalo.

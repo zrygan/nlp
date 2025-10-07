@@ -20,13 +20,15 @@ verse	content
 011	Sa harapan ng mga anak ng aking bayan ay ibinibigay ko sa iyo, ilibing mo ang iyong patay.
 012	Kaya't si Abraham ay yumukod sa harapan ng mga mamamayan ng lupain.
 013	At sinabi niya kay Efron sa pandinig ng mga mamamayan ng lupain, Kung nais mo ay pakinggan mo ako.
-013	Ibibigay ko sa iyo ang halaga ng parang; tanggapin mo iyon sa akin, at ililibing ko roon ang aking patay.
+013	Ibibigay ko sa iyo ang halaga ng parang;
+013	tanggapin mo iyon sa akin, at ililibing ko roon ang aking patay.
 014	Sumagot si Efron kay Abraham,
 015	Panginoon ko, pakinggan mo ako.
 015	Ang halaga ng isang pirasong lupa ay apatnaraang siklong pilak.
 015	Gaano na lamang iyon sa iyo at sa akin?
 015	Ilibing mo na nga ang iyong patay.
-016	At nakinig naman si Abraham kay Efron; at tinimbang ni Abraham para kay Efron ang salaping kanyang sinabi sa harapan ng mga anak ni Het, apatnaraang siklong pilak, sang-ayon sa timbang na karaniwan sa mga mangangalakal.
+016	At nakinig naman si Abraham kay Efron;
+016	at tinimbang ni Abraham para kay Efron ang salaping kanyang sinabi sa harapan ng mga anak ni Het, apatnaraang siklong pilak, sang-ayon sa timbang na karaniwan sa mga mangangalakal.
 017	Kaya't ang parang ni Efron na nasa Macpela, na nasa tapat ng Mamre, ang parang at ang yungib na nandoon, at ang lahat ng mga punungkahoy na nasa parang at ang lahat ng hangganan sa palibot nito,
 018	ay naging pag-aari ni Abraham sa harapan ng mga anak ni Het, sa harapan ng lahat ng pumasok sa pintuang-daan ng kanyang bayan.
 019	Pagkatapos nito ay inilibing ni Abraham si Sara na kanyang asawa sa yungib ng parang sa Macpela sa tapat ng Mamre na siyang Hebron sa lupain ng Canaan.

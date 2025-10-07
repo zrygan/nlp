@@ -9,14 +9,16 @@ verse	content
 006	Inyang mabie ya pa, dininan na na lang mana ring anak nang lalaki karing babaing kasese na.
 006	Pepapuntalan na la king dane aslagan ban ilaut la kang Isaac.
 007	Disnan nang Abraham ing idad dinalan pitung pulu at limang banua.
-008	Kaybat mepatlud ya inawa; mete yang maligaya at sidsad king ketuan.
+008	Kaybat mepatlud ya inawa;
+008	mete yang maligaya at sidsad king ketuan.
 008	At inabe re karing mete da ring kamaganak na.
 009	Kitkut de ring anak nang i Isaac at i Ismael king dane aslagan na ning Mamre, king kueba karin Makpela, king marangle nang Efron a anak nang Zohar, ing Hiteo.
 010	Ing gabun ya itang seli nang Abraham karing Hiteo.
 010	Karin ya mikutkut siping na ning asawa nang i Sarah.
 011	Kamate nang Abraham, binendisyunan ne ning Dios ing anak nang i Isaac a menuknangan malapit Beer-lahai-roi.
 012	Oreti ding anak nang Ismael a anak nang Abraham kang Agar a tubu Ehipto at ipus nang Sarah.
-013	Ding makatuki ila ding lagyu da ring anak nang Ismael; makasulat la agpang king pamidalan-dalan na ning karelang pangabait: i Nebayot a pangane na, i Kedar, i Adbeel, i Mibsam,
+013	Ding makatuki ila ding lagyu da ring anak nang Ismael;
+013	makasulat la agpang king pamidalan-dalan na ning karelang pangabait: i Nebayot a pangane na, i Kedar, i Adbeel, i Mibsam,
 014	i Misma, i Duma, i Massa,
 015	i Hadad, i Tema, i Jetur, i Napis, at i Kedema.
 016	Ila deti ring anak nang Ismael.
@@ -24,12 +26,14 @@ verse	content
 017	Mebie yang dinalan atlung pulu at pitung banua i Ismael.
 017	Kaybat mepatlud ya inawa.
 017	Mete ya at inabe re karing mete nang kamaganak.
-018	Menuknangan la ding lahi nang Ismael pilatan na ning Havila at Shur, banda nang aslagan ning Ehipto papunta Asiria; manuknangan ya ing balang metung karela tulid dang tolda ding kamaganak na.
+018	Menuknangan la ding lahi nang Ismael pilatan na ning Havila at Shur, banda nang aslagan ning Ehipto papunta Asiria;
+018	manuknangan ya ing balang metung karela tulid dang tolda ding kamaganak na.
 019	Oyni ing istoria na ning pamilya nang Isaac a anak nang Abraham.
 020	Apat yang pulung banua i Isaac inyang ayasawa ne i Rebeca a anak nang Betuel ing Arameo ning Mesopotamia.
 020	I Rebeca kapatad neng Laban a Arameo munaman.
 021	Menalangin ya i Isaac king Ginu para king asawa na uling e ya manganak.
-021	Pekiramdaman na ning Ginu ing panalangin na; kinagli ya at mebuktut i Rebeca.
+021	Pekiramdaman na ning Ginu ing panalangin na;
+021	kinagli ya at mebuktut i Rebeca.
 022	Oneng mitutulakan la ding anak king atian na angga king asabi na, Nung makanyan ing malilyari mayap pang mate na ku!
 022	Minaus ya king Ginu ba nang abalu nung nanu mo ing sabian na.
 023	Oyni ing pakibat ning Ginu ,
@@ -40,10 +44,13 @@ verse	content
 028	Inyang dinatang na ing oras a manganak ya, beit na la ding kambal a lalaki.
 029	Malare-lare ya at bulbulin a balat ing minunang mibait.
 029	Inya inaus deng Esau.
-030	Tinuki yang mibait ing kapatad na; makatalan ya king sakung nang Esau; inya inaus deng Jacob.
+030	Tinuki yang mibait ing kapatad na;
+030	makatalan ya king sakung nang Esau;
+030	inya inaus deng Jacob.
 030	Anam yang pulung banua i Isaac inyang mibait la.
 031	Meragul la ding anak.
-031	Mayap yang mangasu i Esau; magdatun ya king kaparangan.
+031	Mayap yang mangasu i Esau;
+031	magdatun ya king kaparangan.
 031	Samantalang i Jacob naman tau yang tahimik at maratun king toldang tuknangan da.
 032	Paborito neng Isaac i Esau uling maburi ya karing ararakap na niti king pamangasu na.
 032	I Jacob naman ya ing paborito nang Rebeca.
@@ -55,5 +62,6 @@ verse	content
 036	Nganang Jacob, Sumpa ka pa mu kanaku.
 036	Sinumpa ya i Esau at binie na kang Jacob ing katuliran na bilang pangane.
 037	Kanita i Jacob dininan neng tinape at king sabo gule a malare.
-037	Mengan ya at minum; tinikdo ya at saka ne meko.
+037	Mengan ya at minum;
+037	tinikdo ya at saka ne meko.
 037	E na pepakamalan Esau ing katuliran na bilang pangane.

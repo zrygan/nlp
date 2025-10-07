@@ -16,7 +16,8 @@ verse	content
 009	nya beman a talaga i gustu moyid a ketan?
 009	Awan beman gustu moy a maketa ti propeta?
 009	Tama kam, peru ti Juan ay mas higit pa nan ten essa a propeta.
-010	Ti Juan en kinagi nen Kasulatan a, Tehudk a inutusan a mgdipalongu dikomu; ihanda na en paglakadan mu.
+010	Ti Juan en kinagi nen Kasulatan a, Tehudk a inutusan a mgdipalongu dikomu;
+010	ihanda na en paglakadan mu.
 011	Tandaan moy, mas mataas ti Juan nan ten deyaman a tolay a neenak ti munduwiday.
 011	Peru en kababaan ten kahariyan dilanget ay mas mataas nan ti Juan.
 012	Sapul dikona mangaral ti Juan a Mgbinyag a hanggan nadid, en kahariyan dilanget ay pilit a sddppn nen tolay hidi a marahas.

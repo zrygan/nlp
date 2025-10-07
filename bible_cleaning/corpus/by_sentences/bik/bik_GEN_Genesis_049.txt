@@ -77,11 +77,15 @@ verse	content
 076	Sa angog kan pinalaen sa saiyang mga tugang.
 077	Arog sa sarong gutom na lobo si Benjamin,
 078	Na aldaw-banggi daing ontok sa paggadan asin sa pagkakan.
-079	Iyo ini an doseng tribu nin Israel, asin iyo ini an sinabi kan saindang ama kan bendisyonan niya sinda; benendisyonan ni Israel an lambang saro sainda kan maninigong bendisyon.
-080	Dangan pinagbotan ni Jacob an saiyang mga aki, Magagadan na ako; ilubong nindo ako sa kaibahan nin sakong mga ginikanan, duman sa lungib na nasa oma ni Efron na Heteo,
+079	Iyo ini an doseng tribu nin Israel, asin iyo ini an sinabi kan saindang ama kan bendisyonan niya sinda;
+079	benendisyonan ni Israel an lambang saro sainda kan maninigong bendisyon.
+080	Dangan pinagbotan ni Jacob an saiyang mga aki, Magagadan na ako;
+080	ilubong nindo ako sa kaibahan nin sakong mga ginikanan, duman sa lungib na nasa oma ni Efron na Heteo,
 081	sa Makpela, sa sirangan kan Mamre, sa daga nin Canaan.
 081	Binakal ni Abraham an lungib asin oma na ini ki Efron tanganing paglubongan.
-082	Iyo ini an lugar na pinaglubongan ninda ki Abraham sagkod ki Sara na saiyang agom; duman man ilinubong si Isaac saka si Rebecca na saiyang agom; asin duman ko ilinubong si Lea.
+082	Iyo ini an lugar na pinaglubongan ninda ki Abraham sagkod ki Sara na saiyang agom;
+082	duman man ilinubong si Isaac saka si Rebecca na saiyang agom;
+082	asin duman ko ilinubong si Lea.
 083	An oma saka an lungib na yaon duman binakal sa mga Heteo.
 083	Duman nindo ako ilubong.
 084	Pakasabi ni Jacob kaini gabos, naghigda siya giraray asin nagadan.

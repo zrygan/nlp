@@ -14,7 +14,8 @@ verse	content
 009	Kaya't isinalaysay ng puno ng mga katiwala ng kopa ang kanyang panaginip kay Jose at sinabi sa kanya, Sa aking panaginip ay may isang puno ng ubas sa aking harapan.
 010	Sa puno ng ubas ay may tatlong sanga.
 010	Sa pagsipot ng dahon nito, ito ay namulaklak at ang mga buwig niyon ay naging mga ubas na hinog.
-011	Ang kopa ng Faraon ay nasa aking kamay; at kinuha ko ang mga ubas at aking piniga ang mga ito sa kopa ng Faraon, at ibinigay ko ang kopa sa kamay ng Faraon.
+011	Ang kopa ng Faraon ay nasa aking kamay;
+011	at kinuha ko ang mga ubas at aking piniga ang mga ito sa kopa ng Faraon, at ibinigay ko ang kopa sa kamay ng Faraon.
 012	At sinabi ni Jose sa kanya, Ito ang kahulugan niyon: ang tatlong sanga ay tatlong araw.
 013	Sa loob ng tatlong araw ay itataas ng Faraon ang iyong ulo, at ibabalik ka sa iyong katungkulan, at ibibigay mo ang kopa ni Faraon sa kanyang kamay, gaya ng karaniwang dati mong ginagawa nang ikaw ay kanyang katiwala.
 014	Subalit alalahanin mo ako kapag ikaw ay napabuti na, at hinihiling ko sa iyo na gumawa ka ng mabuti sa akin, at banggitin mo ako sa Faraon, at ako'y ilabas mo sa bahay na ito.

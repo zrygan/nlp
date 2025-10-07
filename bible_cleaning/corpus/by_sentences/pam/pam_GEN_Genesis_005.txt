@@ -1,7 +1,8 @@
 verse	content
 001	Oyni ing listahan da ring lahi nang Adan.
 001	Kanitang lelangan ne ning Dios ing tau, lelang neng kawangis na.
-002	Lelangan na lang lalaki at babai; binendisyunan na la at inaus na lang Tau kanitang lalangan na la.
+002	Lelangan na lang lalaki at babai;
+002	binendisyunan na la at inaus na lang Tau kanitang lalangan na la.
 003	Dinalan atlung pulung banua ne i Adan inyang ayanak ne ing metung a anak a lalaking kawangis na.
 003	Set ing pemalagyu na king anak na.
 004	Kaybat nang mibait Set, mebie ya pang walung dalan a banua i Adan, at mika aliwa ya pang anak a lalaki at babai.
@@ -23,7 +24,8 @@ verse	content
 019	Mebie ya pang walung dalan a banua i Jared kaybat nang mibait Enoc, at mika aliwa yang anak a lalaki at babai.
 020	Miras yang siam a ralan at anam apulu't aduang banua i Jared bayu ya mete.
 021	Kanitang anam yang pulu't limang banua i Enoc, ayanak ne i Matusalem.
-022	Mebie ya pang atlung dalan a banua i Enoc; mibiebie yang malapit a malapit king Dios kaybat nang mibait Matusalem, at mika aliwa ya pang anak a lalaki at babai.
+022	Mebie ya pang atlung dalan a banua i Enoc;
+022	mibiebie yang malapit a malapit king Dios kaybat nang mibait Matusalem, at mika aliwa ya pang anak a lalaki at babai.
 023	Miras yang atlung dalan at anam apulu't limang banua i Enoc.
 024	Mibiebie yang malapit a malapit king Dios, at mewala nia mung bigla uli na ning kinua ne ning Dios.
 025	Kanitang dinalan ya at walung pulu't pitung banua i Matusalem, ayanak ne i Lamec.

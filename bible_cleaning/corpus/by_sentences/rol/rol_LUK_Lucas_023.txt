@@ -53,7 +53,8 @@ verse	content
 030	Kag sa mga bakuyod, Tabuni kami!
 031	Kay kung ginahuman ninda ini sa akon nga way ngan sal, ano pa ar ang matatab sa mga tawo nga may sal?
 032	May duha pa ka kriminal ang gingdaya ninda para patyon kaibahan ni Hesus.
-033	Pag-abot ninda sa lugar nga ginatawag, Bung; ginglangsang ninda si Hesus sa krus.
+033	Pag-abot ninda sa lugar nga ginatawag, Bung;
+033	ginglangsang ninda si Hesus sa krus.
 033	Ginglangsang da ninda ang duha ka kriminal, ang isa sa tuo kag ang isa sa waya.
 034	Pagkatapos naghambay si Hesus, Amay, patawara sinda kay way ninda nasayuri ang inda ginahuman.
 034	Gingparte-parte ninda ang iya mga bar paagi sa palabunutan.

@@ -17,7 +17,8 @@ verse	content
 012	Dai nahaloy nagadan an agom ni Juda.
 012	Kan matapos na an panahon kan pagmondo, si Juda, kaiba an amigo niyang si Hira na Adullamita, nagduman sa Timna sa lugar na pinagguguntingan kan saiyang mga karnero.
 013	Igwang nakaosip ki Tamar na an saiyang panugangan maduman sa Timna sa paggunting kan mga karnero.
-014	Kaya hinuba ni Tamar an gubing niyang sa balo asin nagsulot nin iba; tinahoban niya nin belo an saiyang lalawogon dangan tuminukaw sa may trangkahan kan banwaan nin Enaim, sa dalan pasiring sa Timna.
+014	Kaya hinuba ni Tamar an gubing niyang sa balo asin nagsulot nin iba;
+014	tinahoban niya nin belo an saiyang lalawogon dangan tuminukaw sa may trangkahan kan banwaan nin Enaim, sa dalan pasiring sa Timna.
 014	Aram ni Tamar na dakula na si Shela, an ngohod na aki ni Juda, alagad dai pa siya itinatao ni Juda ki Shela bilang agom.
 015	Kan mahiling ni Juda si Tamar, naghona siya na si Tamar sarong maraot na babae, huli ta tinahoban kaini an saiyang lalawogon.
 016	Dinolok siya ni Juda sa gilid kan dalan asin sinabihan, Gurano man an hagad mo?
@@ -45,8 +46,10 @@ verse	content
 031	Namidbidan an mga ini ni Juda asin nagsabi siya, Orog na matanos siya ki sa sako, huli ta dai ko siya itinao sa aki kong si Shela bilang agom.
 031	Dai na nanggad dinorogan ni Juda si Tamar.
 032	Kan mangangaki na si Tamar, napag-araman na kambal an nasa tulak niya.
-033	Kan nagpoporos na si Tamar, ilinuwas kan sarong aki an saiyang kamot; kinapotan ini kan partera asin ginakodan nin pulang torsido dangan nagsabi, Ini an naenot.
+033	Kan nagpoporos na si Tamar, ilinuwas kan sarong aki an saiyang kamot;
+033	kinapotan ini kan partera asin ginakodan nin pulang torsido dangan nagsabi, Ini an naenot.
 034	Alagad kan ilaog giraray kan aki an saiyang kamot, naenot na namundag an saiyang tugang.
 034	Nagsabi an partera, Siring palan kaini an paglusot mo!
 034	Kaya nginaranan siyang Perez.
-035	Dangan namundag man an saiyang tugang na may gakod nin pulang torsido sa saiyang kamot; nginaranan siyang Zera.
+035	Dangan namundag man an saiyang tugang na may gakod nin pulang torsido sa saiyang kamot;
+035	nginaranan siyang Zera.

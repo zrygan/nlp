@@ -15,7 +15,8 @@ verse	content
 010	kinahanglan kumadto an tawo han dapit hin pagsingba ngan magsumpa hiya nga waray hiya magkawat han hayop han tag-iya.
 010	Kon waray man kawata han naghupot an hayop, aangkonon han tag-iya an napirde ngan diri kinahanglan magbayad ha iya an naghupot;
 011	kundi kon kawaton an hayop, kinahanglan pagbaydan han naghupot an tag-iya.
-012	Kon ginpatay ini hin magpintas nga mga mananap, pagdadad-on han naghupot an mga nanhisalin han ginpatay sugad nga saksi; diri hiya kinahanglan magbayad han ginpatay hin magpintas nga mga mananap.
+012	Kon ginpatay ini hin magpintas nga mga mananap, pagdadad-on han naghupot an mga nanhisalin han ginpatay sugad nga saksi;
+012	diri hiya kinahanglan magbayad han ginpatay hin magpintas nga mga mananap.
 013	Kon humuram hin hayop in usa ka tawo tikang hin lain nga tawo, ngan masamad o mamatay ini nga waray dida an tag-iya, kinahanglan nga magbayad han hayop an hinmuram.
 014	Kundi kon mahinabo ini nga nakada an tag-iya, diri kinahanglan magbayad an hinmuram.
 014	Kon ginplitehan ini nga hayop, an plite igo na nga bayad han napirde nga hayop.
@@ -24,7 +25,8 @@ verse	content
 017	Pataya niyo an bisan hin-o nga babaye nga diwatahan.
 018	Pataya niyo an bisan hin-o nga tawo nga makighilawas hin mananap.
 019	Pataya niyo an bisan hin-o nga maghalad ngadto hin bisan ano nga diyos labot ha akon nga Ginoo .
-020	Ayaw niyo pagtalimpigosa o pagraogdaoga in lumalangyaw; panumdom nga mga lumalangyaw kamo hadto anay didto ha Ehipto.
+020	Ayaw niyo pagtalimpigosa o pagraogdaoga in lumalangyaw;
+020	panumdom nga mga lumalangyaw kamo hadto anay didto ha Ehipto.
 021	Ayaw niyo pagraogdaoga an bisan hin-o nga balo nga babaye o ilo.
 022	Kon pagbuhaton niyo ini, mabaton ha ira ako nga Ginoo kon magtawag hira ha akon hin pakibulig,
 023	ngan masisina ako ngan pamamatayon ko kamo didto ha pag-awayan.
@@ -39,4 +41,5 @@ verse	content
 029	Ighatag ha akon an iyo suhag nga kalalaken-an.
 030	Ighatag ha akon an suhag han iyo mga baka ug mga karnero.
 030	An suhag nga lalaki magpabilin upod han iroy niya sulod hin pito ka adlaw ngan ighalad ini ha akon dida han ikawalo ka adlaw.
-031	Akon kamo mga tawo, sanglit kinahanglan diri kamo kumaon han karne hin bisan ano nga mananap nga ginpatay hin ihalas nga mga mananap; ighatag lugod ini ngadto han kaayaman.
+031	Akon kamo mga tawo, sanglit kinahanglan diri kamo kumaon han karne hin bisan ano nga mananap nga ginpatay hin ihalas nga mga mananap;
+031	ighatag lugod ini ngadto han kaayaman.

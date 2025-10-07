@@ -6,21 +6,26 @@ verse	content
 005	Kan gibohon nin Kagurangnan Dios an kalangitan asin an daga,
 006	mayo nin ano man na tinanom asin banhi na nagtalubo sa ibabaw nin daga, huli ta dai pa niya pinapauran asin mayo pa nin mag-aataman;
 007	alagad an tubig hale sa irarom kan daga iyo an nakakadumog sa daga.
-008	Dangan nagkua nin kabokabo hale sa daga an Kagurangnan Dios; pinorma niyang tawo asin hinangosan sa dungo kan hinangos nin buhay asin an tawo nagin sarong buhay na linalang.
+008	Dangan nagkua nin kabokabo hale sa daga an Kagurangnan Dios;
+008	pinorma niyang tawo asin hinangosan sa dungo kan hinangos nin buhay asin an tawo nagin sarong buhay na linalang.
 009	Dangan nagbugtak an Kagurangnan Dios nin sarong tatamnan sa Eden sa parteng sirangan, asin duman niya ibinugtak an tawo na saiyang ginibo.
 010	Pinatalubo niya duman an manlaen-laen na kahoy na magayon paghilingon asin nagtatao nin masiram na bunga.
 010	Sa tahaw kan tatamnan idtoon an kahoy na nagtatao nin buhay, saka an kahoy na nagtatao nin pakaaram kan marahay asin kan maraot.
-011	May sarong salog na nagbubulos sa Eden asin nagpapatubig kan tatamnan; pakaluwas sa Eden minasanga ini asin nagigin apat na salog.
-012	An enot iyo an Pison; minabulos ini sa palibot kan daga nin Havila.
+011	May sarong salog na nagbubulos sa Eden asin nagpapatubig kan tatamnan;
+011	pakaluwas sa Eden minasanga ini asin nagigin apat na salog.
+012	An enot iyo an Pison;
+012	minabulos ini sa palibot kan daga nin Havila.
 013	Digdi makukua an purong bulawan, an mga pambihirang pahamot asin mga batong oniks.
 014	An ikaduwa iyo an Gihon na minabulos sa palibot kan daga nin Cus
 015	An ikatolo iyo an Tigris na minabulos sa sirangan kan Asiria asin an ikaapat iyo an Eufrates.
 016	Dangan ibinugtak nin Kagurangnan Dios an tawo sa tatamnan nin Eden tanganing pangatamanon asin bantayan ini.
 017	Tinaraman niya an tawo, Pwede mong kakanon an bunga kan arin man na kahoy digdi
-018	alagad dai ka nanggad magkakan kan bunga kan kahoy nin pakaaram kan marahay asin kan maraot; sa oras na magkakan ka, magagadan ka.
+018	alagad dai ka nanggad magkakan kan bunga kan kahoy nin pakaaram kan marahay asin kan maraot;
+018	sa oras na magkakan ka, magagadan ka.
 019	Dangan nagtaram an Kagurangnan Dios, Bakong marahay na magsolo-solo an tawo.
 019	Magibo ako nin sarong maninigong kaibahan niya na makakatabang saiya.
-020	Hale sa daga ginibo nin Kagurangnan Dios an gabos na hayop asin gamgam dangan dinara niya an mga ini sa tawo tanganing ngaranan; an inginaran sainda iyo na an pag-apod sainda.
+020	Hale sa daga ginibo nin Kagurangnan Dios an gabos na hayop asin gamgam dangan dinara niya an mga ini sa tawo tanganing ngaranan;
+020	an inginaran sainda iyo na an pag-apod sainda.
 021	Kaya nginaranan kan tawo an gabos na gamgam asin hayop alagad dai siya nakakua nin sarong maninigong kaibahan na makakatabang saiya.
 022	Kaya pinatorog nin Kagurangnan Dios an tawo asin mantang torog pa ini, kuminua siya nin sarong gusok dangan isinara niya an laman.
 023	Guminibo siya nin sarong babae hale sa gusok asin dinara niya ini sa lalaki.

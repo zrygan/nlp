@@ -8,7 +8,8 @@ verse	content
 006	Tinalo da met iray Horeo diad kapalandeyan na Edom, tan inosilan da ra ya anggad Elparan, diad samput na kalawakan.
 007	Insan ira amoliktar, pinmawil irad Cades Enmispat nen saman, sinakop da ray amin a dalin na saray Amalecita, tan tinalo da ray Amorreo a manaayam ed Hazazontamar.
 008	Tinipon na saray ari na Sodoma, Gomorra, Adma, Zeboim, tan Bela ed patar na Sidim iray sondalo ra tan akilaban irad
-009	saray ari na Elam, Goiim, Babilonia, tan Elasar; limara laban ed apatira.
+009	saray ari na Elam, Goiim, Babilonia, tan Elasar;
+009	limara laban ed apatira.
 010	Dakel diman iray maawang a bobun na alkitran, et nen ibabatikan day bakal ira may ari na Sodoma tan Gomorra naplag irad saraman a bobun, balet akabatik ed kapalandeyan ira may taloran ari.
 011	Inala na apatiran arari iray amin a walad Sodoma tan Gomorra, pati saray kakanen, insan la ra tinmaynan.
 012	Manaayam diman si Lot a kaanakan nen Abram, kanyan inala ra met tan amin a kayaryan to.
@@ -26,7 +27,8 @@ verse	content
 019	binindisionan to, tan inkuanto, Say Sankatageyan a Dios ya amalsay tawen tan dalin et bindisionan to komuy Abram.
 020	Nagalang komun so Sankatageyan a Dios ya angiter ed sikay pananalod saray kalaban mo.
 020	Inter nen Abram ed kinen Melkisedek so kakaplo na amin ya asamsam to.
-021	Inkuan na samay ari na Sodoma ed kinen Abram, Kayaryan mo la tay asamsam mo; ipawil mo labat ed siak iray amin a totook.
+021	Inkuan na samay ari na Sodoma ed kinen Abram, Kayaryan mo la tay asamsam mo;
+021	ipawil mo labat ed siak iray amin a totook.
 022	Inmebat si Abram, Sambaan kod Katawan , say Sankatageyan a Dios a Manamalsay tawen tan dalin,
 023	ya ag kon balut mangala na antokaman a kayaryan mo, anggan tinebey o sakey a bariber na sandalya.
 023	Ag mon balut nibagad satan, Siak so nampayaman ed Abram.

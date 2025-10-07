@@ -18,7 +18,8 @@ verse	content
 013	Kundi nagkamay-ada gutom didto ha Canaan, ngan nagrabe gud ini, sanglit nagtipatimogan pa hi Abram ngadto ha Ehipto, hin pag-ukoy didto hin madaliay.
 014	Han naitarabok na hiya han pag-ultan ngadto ha Ehipto, nagsiring hiya kan Sarai nga iya asawa, Mahusay ka nga babaye.
 015	Kon hikit-an ka han mga Ehiptohanon, maghuhunahuna gud hira nga akon ka asawa, sanglit papatayon ako nira ngan tutugotan ka nga mabuhi.
-016	Sumati hira nga bugto ko ikaw; ngan tungod ha imo, diri ako nira paglalabtan ngan uupayon an ira pagdara ha akon.
+016	Sumati hira nga bugto ko ikaw;
+016	ngan tungod ha imo, diri ako nira paglalabtan ngan uupayon an ira pagdara ha akon.
 017	Han pagtabok na niya han pag-ultan ngadto ha Ehipto, hinkit-an manggud han mga Ehiptohanon an iya asawa.
 018	Hinkit-an hi Sarai hin pira han mga opisyal han palasyo, ngan ginsumatan an hadi han pagkamahusay ni Sarai.
 018	Sanglit gindara hi Sarai ngadto han palasyo han hadi.
@@ -27,5 +28,6 @@ verse	content
 021	Niyan ginpasugoan han hadi hi Abram ngan ginpakianhan hiya, Ano ini nga imo ginbuhat ha akon?
 021	Kay ano nga waray mo ako pagsumati nga asawa mo hiya?
 022	Kay ano hin pagsiring mo nga bugto mo la hiya, ngan tinmugot ka nga kuhaon ko hiya sugad nga akon asawa?
-022	Iini an imo asawa; dad-a hiya ngan iwas kamo dinhe!
+022	Iini an imo asawa;
+022	dad-a hiya ngan iwas kamo dinhe!
 023	Nagsugo an hadi han iya mga tawo, sanglit ginkuha nira hi Abram ngan ginpagawas hiya han nasod upod an iya asawa ngan an ngatanan nga iya mga hiagi.

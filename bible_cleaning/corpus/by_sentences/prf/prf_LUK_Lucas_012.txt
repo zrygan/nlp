@@ -18,7 +18,8 @@ verse	content
 012	Gapu ti odasid a iyud ay itoldu dikomoy nen Banal a Ispiritu ni nya i dapat moyid a itbbig.
 013	Tehud a essa a lllaki ten katolayan a nagkagi knni Jesus ti kona hddi, Maistu, kagbiyan pay a iyutus ten kaka ku a iyatd na dn dikoku en mana ku.
 014	Tummbbig ti Jesus, Deya beman i nangatddid dikoku ti karapatan a magin huwes oni manghati ten mana moy?
-015	Kttapos ay kinagi ni Jesus dikodi a atanan, Mangilag kam ten atanan a kalasi ni kasakiman; gapu en biyag nen tolay ay bakn a ten kakpal nen kayamanan na.
+015	Kttapos ay kinagi ni Jesus dikodi a atanan, Mangilag kam ten atanan a kalasi ni kasakiman;
+015	gapu en biyag nen tolay ay bakn a ten kakpal nen kayamanan na.
 016	Kttapos ay inyistorya ni Jesus en essa a talinhaga.
 016	Kinagi na, Tehud a essa a mayaman a lllaki a tummama ten uma na.
 017	Sakay kinagi na ten sadili na, nya wd gamitn kuwid?
@@ -71,7 +72,8 @@ verse	content
 046	Parusaan siya nen amu na ti mahigpit sakay ipisan na siya ten tolay hidi a masssuwayn.
 047	En utusan a makatukoy ni nya gustuwid nen amu na a gamitn, peru awan na ginamet ay maparusaan ti mahigpit.
 048	Peru en utusan a awan palla nakatukoy ten gustu a pagamet nen amu na, magkulang man siya ten tungkulin na ay maparusaan, peru awan mahigpit.
-048	En inatddan ti makpal a bagay ay aryokan bi ti makpal a bagay; sakay en pinagkatiwalaan ti mas makpal a bagay ay tehud a sagutin ten mas makpal a bagay.
+048	En inatddan ti makpal a bagay ay aryokan bi ti makpal a bagay;
+048	sakay en pinagkatiwalaan ti mas makpal a bagay ay tehud a sagutin ten mas makpal a bagay.
 049	Kayak a ummangay ti munduwiday ay tnni magtawid ti parusa a kumn a apoy, gustu ku nakuwan a maggerab dn iyd.
 050	Peru bagu iyud ay kailangan a magdanask pa ti dikl a hirap.
 050	Mabalisak dn hanggan a awan iyd matupad.
