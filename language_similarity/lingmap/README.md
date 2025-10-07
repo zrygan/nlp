@@ -1,4 +1,4 @@
-# `zrygan/nlp/language_similarity/geography`
+# `zrygan/nlp/language_similarity/lingmap`
 
 Computing the similarity of languages using geographic and historical data.
 

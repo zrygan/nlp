@@ -1,11 +1,12 @@
 [project]
-name = "geography"
+name = "lingmap"
 version = "0.1.0"
-description = "Philippine language similarity project using geographical and historical analysis."
+description = "Mapping linguistic similarity in the Philippines using geography and socio-historical data."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "geopandas>=1.1.1",
     "matplotlib>=3.10.6",
+    "pandas>=2.0.0",
     "notebook>=7.4.7",
 ]
