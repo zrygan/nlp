@@ -367,9 +367,36 @@ func initializeParallelCorpusBySentences(root string) (map[string]map[string]str
 	fmt.Printf("Found %d languages for sentence-level corpus generation.\n", len(langs))
 	return index, langs, nil
 }
+
+func buildLanguageNounCache (src, tgt string, index map[string]map[string]string) *types.ProperNounCache {
+	var allSrcSents, allTgtSents []string
+	for _, srcFile := range index[src] {
+		srcVerses, err := readVerseMap(srcFile)
+		if err == nil {
+			for _, sents := range srcVerses {
+				allSrcSents = append(allSrcSents, sents...)
+			}
+		}
+	}
+	for _, tgtFile := range index[tgt] {
+		tgtVerses, err := readVerseMap(tgtFile)
+		if err == nil {
+			for _, sents := range tgtVerses {
+				allTgtSents = append(allTgtSents, sents...)
+			}
+		}
+	}
+
+	// Step 2: Build proper noun cache (from both source and target)
+	properNounCache := types.ExtractProperNouns(
+		append(allSrcSents, allTgtSents...),
+	)
+
+	return properNounCache
+}
+
 // buildCorpusSentences aligns verse-level TSVs (verse\tcontent) between src and tgt languages.
 // It performs safe sentence alignment per verse and accounts for missing or uneven sentence counts.
-
 func buildCorpusSentences(
 	src, tgt string,
 	index map[string]map[string]string, // chapterName -> filepath per language
@@ -380,6 +407,8 @@ func buildCorpusSentences(
 		SourceLang: src,
 		TargetLang: tgt,
 	}
+
+	cache := buildLanguageNounCache(src, tgt, index)
 
 	for chapterName, srcFile := range index[src] {
 
@@ -411,7 +440,7 @@ func buildCorpusSentences(
 				continue
 			}
 
-			pairs := sentencealignment.AlignSentencesByGaleChurchDP(srcSentences, tgtSentences, verseID)
+			pairs := sentencealignment.AlignSentencesByGaleChurchDP(srcSentences, tgtSentences, verseID, cache)
 			
 			chapterParts := strings.SplitN(chapterName, "_", 2)
 			if len(chapterParts) != 2 {
