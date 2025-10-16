@@ -5,7 +5,7 @@ Atlas of the Philippines.
 
 ## Files
 
-`la_data.tsv` is a tsv file containing the language codes of the selected languages from the
+- `la_data.tsv` is a tsv file containing the language codes of the selected languages from the
 `atlas`.
 
 ## Attribution
