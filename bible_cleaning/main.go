@@ -10,6 +10,7 @@ import (
 	parallelcorpus "github.com/zrygan.nlp/bible_cleaning/parallelbuilder"
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
 	"github.com/zrygan.nlp/bible_cleaning/sentencecleaning"
+	similaritymatrix "github.com/zrygan.nlp/bible_cleaning/similaritymatrix"
 	"github.com/zrygan.nlp/bible_cleaning/types"
 )
 
@@ -179,6 +180,46 @@ func getCorpus() {
 	parallelizeCorpusBySentences()
 }
 
+func buildOrthographicSimilarityMatrix() {
+    fmt.Println("Loading trigram counts...")
+    index, err := parallelcorpus.IndexLanguageFileMap("corpus/by_verses")
+    if err != nil {
+        panic(err)
+    }
+
+    trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
+    if err != nil {
+        panic(err)
+    }
+
+    matrix := similaritymatrix.BuildJaccardSimilarityMatrix(trigramCounts)
+
+    outPath := "similaritymatrix/orthographic_similarity_matrix.tsv"
+    if err := similaritymatrix.SaveOrthographicMatrix(matrix, outPath); err != nil {
+        panic(err)
+    }
+}
+
+func buildPhoneticSimilarityMatrix() {
+    index, err := parallelcorpus.IndexLanguageFileMap("corpus/by_verses")
+    if err != nil {
+        panic(err)
+    }
+
+	trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
+    if err != nil {
+        panic(err)
+    }
+	phoneticSets := similaritymatrix.BuildPhoneticCountsFromTrigrams(trigramCounts)
+    matrix := similaritymatrix.BuildPhoneticSimilarityMatrix(phoneticSets)
+
+    outPath := "similaritymatrix/phonetic_similarity_matrix.tsv"
+    if err := similaritymatrix.SavePhoneticMatrix(matrix, outPath); err != nil {
+        panic(err)
+    }
+}
+
+
 func main() {
 
 	if len(os.Args) < 2 {
@@ -201,9 +242,11 @@ func main() {
 			case "sentences", "sentence", "s":
 				parallelizeCorpusBySentences()
 		}
-
+	case "orthographic":
+		buildOrthographicSimilarityMatrix()
+	case "phonetic":
+		buildPhoneticSimilarityMatrix()
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}
-
 }
