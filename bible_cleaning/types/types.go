@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"sort"
 	"strings"
-
+	"unicode"
 	"github.com/zrygan.nlp/bible_cleaning/config"
 )
 
@@ -258,4 +258,26 @@ func (pc *ParallelCorpusEntry) Filter(predicate func(TextPair) bool) *ParallelCo
 	}
 
 	return filtered
+}
+
+type ProperNounCache struct {
+	Words map[string]struct{}
+}
+
+func ExtractProperNouns(sentences []string) *ProperNounCache {
+	cache := &ProperNounCache{Words: make(map[string]struct{})}
+	for _, s := range sentences {
+		tokens := strings.Fields (s)
+		for i, token := range tokens {
+			clean := strings.Trim(token, ".,;:!?\"'")
+			if len(clean) == 0 {
+				continue
+			}
+
+			if i > 0 && unicode.IsUpper(rune(clean[0])) {
+				cache.Words[clean] = struct{}{}
+			}
+		}
+	}
+	return cache
 }

@@ -3,6 +3,11 @@
 Data cleaning Bibles in 16 different Philippine languages by web scraping,
 HTML parsing, and regular expressions.
 
+- [`zrygan/nlp/bible_cleaning`](#zrygannlpbible_cleaning)
+  - [Project Files](#project-files)
+  - [Corpora Specifications](#corpora-specifications)
+  - [Declaration of AI Use](#declaration-of-ai-use)
+
 ## Project Files
 
 ```
