@@ -10,6 +10,7 @@ import (
 	parallelcorpus "github.com/zrygan.nlp/bible_cleaning/parallelbuilder"
 	"github.com/zrygan.nlp/bible_cleaning/scraper"
 	"github.com/zrygan.nlp/bible_cleaning/sentencecleaning"
+	similaritymatrix "github.com/zrygan.nlp/bible_cleaning/similaritymatrix"
 	"github.com/zrygan.nlp/bible_cleaning/types"
 )
 
@@ -179,6 +180,31 @@ func getCorpus() {
 	parallelizeCorpusBySentences()
 }
 
+func generateTrigrams() {
+    fmt.Println("🔤 Generating trigram counts per language...")
+
+    // Load the index (language → verseID → file path)
+    index, err := parallelcorpus.IndexLanguageFileMap("similaritymatrix")
+    if err != nil {
+        panic(fmt.Sprintf("Failed to load parallel corpus index: %v", err))
+    }
+
+    // Build trigram counts
+    trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
+    if err != nil {
+        panic(fmt.Sprintf("Failed to build trigram counts: %v", err))
+    }
+
+    // Save trigram counts to disk
+    outputDir := fmt.Sprintf("%s/trigrams", "bible_cleaning")
+    if err := similaritymatrix.SaveTrigramCounts(trigramCounts, outputDir); err != nil {
+        panic(fmt.Sprintf("Failed to save trigram counts: %v", err))
+    }
+
+    fmt.Println("✅ Trigram counts generated and saved successfully.")
+}
+
+
 func main() {
 
 	if len(os.Args) < 2 {
@@ -201,6 +227,8 @@ func main() {
 			case "sentences", "sentence", "s":
 				parallelizeCorpusBySentences()
 		}
+	case "trigrams":
+		generateTrigrams()
 
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
