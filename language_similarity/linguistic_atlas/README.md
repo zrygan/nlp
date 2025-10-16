@@ -1,4 +1,4 @@
-# `zrygan/nlp/language_similarity/Linguistic Atlas`
+# `zrygan/nlp/language_similarity/linguistic_atlas`
 
 Computing the similarity of languages using the Komisyon ng Wikang Filipino's (KWF) Linguistic
 Atlas of the Philippines.
