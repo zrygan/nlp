@@ -7,7 +7,28 @@ import (
 	"strings"
 )
 
-func getTrigrams(word string) []string {
+// load all words from the corpus
+func LoadCorpusWords(index map[string]map[string]string) map[string][]string {
+	langs := make(map[string][]string)
+
+	for lang, verseMap := range index {
+		for _, path := range verseMap {
+			content, err := os.ReadFile(path)
+			if err != nil {
+				continue
+			}
+			text := string(content)
+			words := strings.Fields(text)
+			langs[lang] = append(langs[lang], words...)
+		}
+	}
+
+	return langs
+}
+
+
+// gets trigrams of a word and returns it in an array
+func GetTrigrams(word string) []string {
 	padded := "  " + strings.ToLower(word) + " "
 	trigrams := make([]string, 0, len(padded)-2)
 	for i := 0; i < len(padded)-2; i++ {
@@ -16,7 +37,7 @@ func getTrigrams(word string) []string {
 	return trigrams
 }
 
-// BuildTrigramCounts traverses the index and builds trigram frequencies per language.
+// traverses the index and builds trigram frequencies per language
 func BuildTrigramCounts(index map[string]map[string]string) (map[string]map[string]int, error) {
     trigramCounts := make(map[string]map[string]int)
 
@@ -39,7 +60,7 @@ func BuildTrigramCounts(index map[string]map[string]string) (map[string]map[stri
 
                 words := strings.Fields(line)
                 for _, word := range words {
-                    for _, tri := range getTrigrams(word) {
+                    for _, tri := range GetTrigrams(word) {
                         trigramCounts[lang][tri]++
                     }
                 }
@@ -54,25 +75,25 @@ func BuildTrigramCounts(index map[string]map[string]string) (map[string]map[stri
     return trigramCounts, nil
 }
 
-func SaveTrigramCounts(counts map[string]map[string]int, outdir string) error {
-    if err := os.MkdirAll(outdir, os.ModePerm); err != nil {
-        return err
+// computes the Jaccard similarity
+func ComputeJaccardSimilarity(a, b map[string]int) float64 {
+    union := make(map[string]struct{})
+    intersection := 0
+
+    for k := range a {
+        union[k] = struct{}{}
+        if _, exists := b[k]; exists {
+            intersection++
+        }
     }
 
-    for lang, tris := range counts {
-        outPath := fmt.Sprintf("%s/%s_trigrams.tsv", outdir, lang)
-        f, err := os.Create(outPath)
-        if err != nil {
-            return err
-        }
-        defer f.Close()
-
-        for tri, count := range tris {
-            fmt.Fprintf(f, "%s\t%d\n", tri, count)
-        }
-        f.Close()
-        fmt.Printf("Saved: %s\n", outPath)
+    for k := range b {
+        union[k] = struct{}{}
     }
 
-    return nil
+    if len(union) == 0 {
+        return 0.0
+    }
+
+    return float64(intersection) / float64(len(union))
 }

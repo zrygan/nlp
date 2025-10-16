@@ -180,28 +180,43 @@ func getCorpus() {
 	parallelizeCorpusBySentences()
 }
 
-func generateTrigrams() {
-    fmt.Println("🔤 Generating trigram counts per language...")
-
-    // Load the index (language → verseID → file path)
-    index, err := parallelcorpus.IndexLanguageFileMap("similaritymatrix")
+func buildOrthographicSimilarityMatrix() {
+    fmt.Println("Loading trigram counts...")
+    index, err := parallelcorpus.IndexLanguageFileMap("corpus/by_verses")
     if err != nil {
-        panic(fmt.Sprintf("Failed to load parallel corpus index: %v", err))
+        panic(err)
     }
 
-    // Build trigram counts
     trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
     if err != nil {
-        panic(fmt.Sprintf("Failed to build trigram counts: %v", err))
+        panic(err)
     }
 
-    // Save trigram counts to disk
-    outputDir := fmt.Sprintf("%s/trigrams", "bible_cleaning")
-    if err := similaritymatrix.SaveTrigramCounts(trigramCounts, outputDir); err != nil {
-        panic(fmt.Sprintf("Failed to save trigram counts: %v", err))
+    matrix := similaritymatrix.BuildJaccardSimilarityMatrix(trigramCounts)
+
+    outPath := "similaritymatrix/orthographic_similarity_matrix.tsv"
+    if err := similaritymatrix.SaveOrthographicMatrix(matrix, outPath); err != nil {
+        panic(err)
+    }
+}
+
+func buildPhoneticSimilarityMatrix() {
+    index, err := parallelcorpus.IndexLanguageFileMap("corpus/by_verses")
+    if err != nil {
+        panic(err)
     }
 
-    fmt.Println("✅ Trigram counts generated and saved successfully.")
+	trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
+    if err != nil {
+        panic(err)
+    }
+	phoneticSets := similaritymatrix.BuildPhoneticCountsFromTrigrams(trigramCounts)
+    matrix := similaritymatrix.BuildPhoneticSimilarityMatrix(phoneticSets)
+
+    outPath := "similaritymatrix/phonetic_similarity_matrix.tsv"
+    if err := similaritymatrix.SavePhoneticMatrix(matrix, outPath); err != nil {
+        panic(err)
+    }
 }
 
 
@@ -227,11 +242,11 @@ func main() {
 			case "sentences", "sentence", "s":
 				parallelizeCorpusBySentences()
 		}
-	case "trigrams":
-		generateTrigrams()
-
+	case "orthographic":
+		buildOrthographicSimilarityMatrix()
+	case "phonetic":
+		buildPhoneticSimilarityMatrix()
 	default:
 		panic("Non-exaustive switch-case or argument not found.")
 	}
-
 }
