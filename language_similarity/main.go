@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	similaritymatrix "github.com/zrygan.nlp/language_similarity/similaritymatrix"
+	similaritymatrix "language_similarity/similaritymatrix"
 )
 
 // i stole this function from the bible
@@ -42,7 +42,7 @@ func IndexLanguageFileMap(root string) (map[string]map[string]string, error) {
 
 func buildOrthographicSimilarityMatrix() {
     fmt.Println("Loading trigram counts...")
-    index, err := IndexLanguageFileMap("corpus/by_verses")
+    index, err := IndexLanguageFileMap("../bible_cleaning/corpus/by_verses")
     if err != nil {
         panic(err)
     }
@@ -61,7 +61,7 @@ func buildOrthographicSimilarityMatrix() {
 }
 
 func buildPhoneticSimilarityMatrix() {
-    index, err := IndexLanguageFileMap("corpus/by_verses")
+    index, err := IndexLanguageFileMap("../bible_cleaning/corpus/by_verses")
     if err != nil {
         panic(err)
     }
