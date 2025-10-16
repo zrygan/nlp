@@ -1,0 +1,34 @@
+\documentclass[twocolumn]{article}
+\usepackage{hyperref}
+\usepackage{amsmath, amssymb, listings, cleveref, graphicx}
+\usepackage{pdflscape}
+\usepackage{tablefootnote}
+\usepackage[edges]{forest}
+\usepackage{xcolor}
+
+\graphicspath{{../}} % makes root = language_similarity/
+\newcommand{\todo}{\textcolor{blue}{--- TODO ---}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%% FOR TODOs OR MISSING INFORMATION
+%%%%%%%%%% Add the \todo annotation
+%%%%%%%%%% and make its font color blue
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Orthographic, Phonetic, and Socio-Geographic Similarity of Philippine Languages}
+\author{Clarence Ang, Clive Ang, Roan Campo, Zhean Ganituen}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\input{chapters/intro.tex}
+\input{chapters/geo.tex}
+
+\bibliography{refs}
+\bibliographystyle{alpha}
+
+\vfill 
+\paragraph{Declaration of Generative AI Use} \todo
+
+\end{document}
