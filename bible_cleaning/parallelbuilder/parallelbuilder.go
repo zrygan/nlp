@@ -52,7 +52,7 @@ func readLines(path string) ([]string, error) {
 	return out, nil
 }
 
-func IndexLanguageFileMap(root string) (map[string]map[string]string, error) {
+func indexLanguageFileMap(root string) (map[string]map[string]string, error) {
 	files, err := filepath.Glob(root + "/*/*.txt")
 	if err != nil {
 		return nil, err
@@ -307,7 +307,7 @@ func initializeParallelCorpusByVerses() (map[string]map[string]string, []string,
 		return nil, nil, err
 	}
 
-	index, err := IndexLanguageFileMap(root)
+	index, err := indexLanguageFileMap(root)
 
 	if err != nil {
 		return nil, nil, err
@@ -357,7 +357,7 @@ func initializeParallelCorpusBySentences(root string) (map[string]map[string]str
 		return nil, nil, err
 	}
 
-	index, err := IndexLanguageFileMap(root)
+	index, err := indexLanguageFileMap(root)
 	if err != nil {
 		return nil, nil, err
 	}

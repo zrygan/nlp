@@ -6,7 +6,6 @@ require (
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/gocolly/colly v1.2.0
 	github.com/schollz/progressbar/v3 v3.18.0
-	github.com/twuillemin/doublemetaphone v0.2.0
 )
 
 require (
