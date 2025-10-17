@@ -1,4 +1,4 @@
-# README
+# # `zrygan/nlp/sentence_reconstruction`
 
 This directory contains reconstructed sentences generated using **trigram** and **quadgram** language models.  
 
