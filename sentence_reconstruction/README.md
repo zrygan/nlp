@@ -1,6 +1,6 @@
 # README
 
-This directory contains a **subset** of reconstructed sentences generated using **trigram** and **quadgram** language models.  
+This directory contains  reconstructed sentences generated using **trigram** and **quadgram** language models.  
 
 Each reconstructed sentence is defined as a string  
 
@@ -28,3 +28,9 @@ The vertical bar (`|`) separates each \( p_i \) in the output for clarity.
 String equality is **case-sensitive**, and underscores (`_`) denote **sentence boundaries**.  
 
 The output files retain `_` and `|` annotations; you may remove these when presenting the cleaned sentences.
+
+## $n$-gram Models
+The trigram and quadgram models may be accessed in the [`data/`](data/) directory.
+
+## Reconstructed Sentences
+The reconstructed sentences may be accessed in the [`output`](output/) directory.

@@ -30,7 +30,7 @@ Web scraping and parsing HTML files of 16 Philippine language translations of th
 
 Also see [`bible_cleaning/README.md`](bible_cleaning/README.md)
 
-Status: In progress
+Status: Done
 
 ### 🟰 `/language_similarity`
 
@@ -39,3 +39,11 @@ Explores the relationships among languages using computational tools and techniq
 Alse see [`language_similarity/README.md`](language_similarity/README.md)
 
 Status: To do
+
+### 👷 `/sentence_reconstruction`
+
+Sentence reconstruction by $n$-gram models.
+
+Also see [`sentence_reconstruction/README.md`](sentence_reconstruction/README.md)
+
+Status: Done
