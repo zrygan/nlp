@@ -21,12 +21,3 @@ and National Mapping and Resource Information Authority. Version 20231106, relea
 November 6, 2023.
 
 For brevity, the source code and the repository refers to this as `psa_namria_sf`.
-
-### Developer Comments/Todo List
-Zhean:
-- Namria Topographic Maps:https://www.namria.gov.ph/Downloads.aspx#gsc.tab=0
-- Geoportal Topographic Map: https://www.geoportal.gov.ph/
-- The Philippine Language Situation: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-971X.2004.00335.x
-- Y. Boquet Paper: https://doi.org/10.1007/978-3-319-51926-5_7
-- R. Blust Paper: https://www.jstor.org/stable/pdf/3623084.pdf?refreqid=fastly-default%3A1e704fb09fab6ae079e109089add2ce5&ab_segments=&initiator=&acceptTC=1
-- Who Are the Philippine Negritos?: https://www.jstor.org/stable/pdf/10.13110/humanbiology.85.1-3.0329.pdf?refreqid=fastly-default%3A19cb2ff5acf396a39e04c002225afaad&ab_segments=&initiator=&acceptTC=1

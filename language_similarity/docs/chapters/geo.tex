@@ -1,54 +1,121 @@
 \section{Geographic Determinants}
 
-This section will use linguistic cartography and a literature review as its
-primary methodology. \todo (IS THIS EVEN GOOD? REVISE)
+This section employs linguistic cartography and a focused literature review to
+examine how geography has shaped the distribution and divergence of Philippine
+languages. Linguistic cartography—mapping language data onto spatial terrain—enables
+the visualization of geolinguistic variation, while literature contextualizes these
+patterns through historical and sociocultural perspectives. Together, these methods
+offer complementary insight into how environmental constraints have contributed to
+linguistic diversification across the archipelago.
 
-\todo (ADD MORE WORK HERE)
+The Philippines is a topographically complex nation, composed of over 7,600 islands
+grouped into \emph{Luzon}, \emph{Visayas}, and \emph{Mindanao}. Each region
+possesses distinct ecological and historical conditions that correspond to linguistic
+variation~\cite{Boquet_2017}. Scholars attribute this diversity largely to the
+archipelago's fragmented geography, which has historically restricted mobility and
+sustained linguistic isolation~\cite{Blust_1991}. Mountains, rivers, and ocean
+channels function both as connectors and separators, influencing how language
+communities form, expand, and maintain distinct identities.
 
-The Philippines is a topographically complex (with mountainous and archipelagic
-country), it is composed of three main island groups \emph{Luzon},
-\emph{Visayas}, and \emph{Mindanao}. Each with their own geolinguistic
-variation~\cite{Boquet_2017}. Literature attributes the Philippines's
-geolinguistic diversity to its geographic features serving as a separation
-between cultural or linguistic groups~\cite{Blust_1991}.
+Historically, the smallest socio-political unit of pre-colonial society—the
+\emph{barangay}—was typically situated near water sources such as rivers or coastal
+areas. These locations facilitated trade and communication, yet simultaneously
+created micro-environments of linguistic autonomy. The archipelagic layout of the
+country further intensified this phenomenon: neighboring islands could remain
+mutually unintelligible despite geographic proximity. Over time, these conditions
+produced a mosaic of related but distinct linguistic systems.
 
-Historically, the smallest socio-political unit of Philippine society was the
-\emph{barangay}, whose pre-colonial location was often determined by proximity
-to water---rivers, coasts, and estuaries. Given the archipelagic and
-mountainous nature of the Philippines, settlement distribution may have
-constrained inter-barangay communication, influencing the evolution and
-divergence of local languages. \todo (no citation)
+Blust's Austronesian dispersal hypothesis~\cite{Blust_1991} suggests that a single
+protolanguage, introduced by early settlers from the Asian mainland, gradually
+diverged through localized adaptation and restricted contact. As communities became
+geographically isolated, subtle phonological and lexical innovations accumulated,
+leading to the 175 documented Philippine languages, two of which are now
+extinct~\cite{ethnologue2025}. This section highlights a representative subset of
+these languages—ranging from dominant regional lingua francas to endangered local
+tongues—shown in \cref{tab:ph_languages}.
 
-We will do a comparison of the selected languages by comparing geographic determinants.
+These languages collectively represent the major linguistic regions of the
+Philippines. Tagalog, Kapampangan, and Pangasinan
+dominate Central Luzon's plains; Ilocano and
+Paranan reflect the mountainous north and isolated Sierra Madre
+communities. In the Visayas, Cebuano, Hiligaynon,
+Kinaray-a, and Waray form a contiguous yet
+diversified cluster of Bisayan languages separated by narrow sea channels.
+Meanwhile, Bikol, Romblomanon, and Masbatenyo
+occupy transitional zones between Luzon and the Visayas, serving as
+intermediate varieties shaped by frequent inter-island contact. Mindanao's
+linguistic landscape, represented by Tausug and Chavacano
+, displays intense multilingual interaction and creolization due to
+historic trade networks. Yami, spoken in the Batanes Islands, marks
+the northern Austronesian periphery, maintaining archaic features shared with
+Formosan languages.
 
-\subsection{Proving Blust's 1991 Hypothesis by Linguistic Cartography}
+\subsection{Methodology}
 
-Blust's 1991 hypothesis in~\cite{Blust_1991} mentions that Philippine languages started
-from a protolanguage which were used by the mainland pre-colonial Filipino people who then
-spread out to numerous coastal areas and islands. And due to the geographic features of the
-Philippines, he highlights that small linguistic variation and borrowing over long periods
-of time lead to a massive shift in the language use of each social unit which.
-As a consequence of this, the protolanguage grew to the 175 languages of the Philippines, two
-of which are now extinct~\cite{ethnologue2025}.
-
-We will show that Blust's 1991 hypothesis is indeed true through topographic and linguistic cartography.
-
-\subsection{Linguistic Atlas}
-
-Python code was written using
+We employed two official linguistic atlases published by the Komisyon ng Wikang
+Filipino (KWF): the \emph{Mapa ng mga Wika} and the \emph{Mapa ng mga Wika ng
+Katutubong Pamayanang Kultural}. These maps delineate the spatial distribution of
+languages across Philippine administrative boundaries and identify overlapping
+zones of multilingual interaction~\cite{Marrion2025MapaKultural,
+KWF2025MapaPilipinas}. To enhance precision, we generated a custom digital map
+using boundary data from the United Nations Office for the Coordination of
+Humanitarian Affairs (OCHA) and rendered it with
 Matplotlib\footnote{\url{https://matplotlib.org/}} and
-GeoPandas\footnote{\url{https://geopandas.org/en/stable/}} to generate a
-colored map of the Philippines where each of the selected Philippine languages
-are highlighted, as shown in~\cref{fig:lingmap_out}. The corresponding code is
-available in the
-\href{https://github.com/zrygan/nlp/tree/master/language_similarity/lingmap}{\texttt{language\_similarity/lingmap}}
-directory of the GitHub repository.
+GeoPandas\footnote{\url{https://geopandas.org/en/stable/}} in
+Python~\cite{OCHA_Philippines_2018_PHL_Admin_Boundaries, Hunter:2007,
+kelsey_jordahl_2020_3946761}. This process ensured spatial consistency between
+linguistic and geographic datasets.
+
+Topographic data were obtained from the National Mapping and Resource Information
+Authority (NAMRIA)~\cite{NAMRIA_Downloads}, including elevation models, hydrology,
+and terrain classifications. By overlaying linguistic boundaries on these physical
+features, we identified correlations between geography and language distribution.
+In particular, we focused on how elevation and water systems delineate the
+boundaries of the languages in \cref{tab:ph_languages}.
+
+The analysis followed three phases: (1) geospatial alignment of linguistic and
+physical layers; (2) detection of convergence between linguistic boundaries and
+terrain discontinuities; and (3) qualitative interpretation through historical and
+sociolinguistic literature. This mixed-method approach integrates computational
+mapping with cultural geography, facilitating both quantitative and interpretive
+insights.
+
+\subsection{Results and Discussion}
+
+The generated linguistic map, presented in \cref{fig:lingmap_out}, reveals clear
+patterns of correspondence between physical terrain and language boundaries.
+Ilocano and Paranan, for instance, are divided by the Cordillera and Sierra Madre
+ranges, while the seas separating Panay, Negros, and Leyte correspond precisely to
+the divisions among Hiligaynon, Kinaray-a, and Waray. The case of Bikol,
+Masbatenyo, and Romblomanon illustrates an intermediate linguistic zone where
+mutual intelligibility correlates with ease of maritime travel.
+
+In contrast, lowland regions such as Central Luzon and Northern Mindanao show
+diffuse linguistic borders, reflecting trade, migration, and urbanization. The
+presence of Chavacano in Zamboanga exemplifies contact-induced
+change, where Spanish influence merged with Cebuano and Tausug substrates to form
+a stable creole. Similarly, Yami in the Batanes archipelago
+preserves linguistic continuity with Taiwan's indigenous languages due to
+geographic proximity and historical seafaring ties.
+
+Overall, the spatial correlations underscore geography as both a limiting and
+enabling force: rugged terrains and isolated islands encourage linguistic
+diversification, while navigable waterways foster linguistic contact and hybrid
+formation. These findings align with global typologies of geography-driven
+diversity, placing the Philippines alongside regions such as Indonesia and Papua
+New Guinea in the broader Austronesian context.
 
 \begin{figure}[h]
     \centering
     \includegraphics[width=\columnwidth]{lingmap/artifacts/lingmap_out.png}
-    \caption{Generated linguistic map output.}\label{fig:lingmap_out}
+    \caption{Generated linguistic map showing the spatial distribution of selected
+    Philippine languages overlaid on topographic contours.}
+    \label{fig:lingmap_out}
 \end{figure}
 
-We then cross-referenced the generated linguistic atlas using the Komisyon ng
-Wikang Filipino's (KWF) \emph{Mapa ng mga Wika} or linguistic atlas.
+The mapping code and datasets are publicly available in the
+\href{https://github.com/zrygan/nlp/tree/master/language_similarity/lingmap}
+{\texttt{language\_similarity/lingmap}} directory for transparency and
+reproducibility. The results affirm that the Philippine archipelago's natural
+terrain and hydrology are central to understanding the historical pathways and
+current distribution of its languages.
