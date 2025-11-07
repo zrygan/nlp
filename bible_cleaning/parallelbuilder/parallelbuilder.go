@@ -244,6 +244,7 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 
 	for verseID, srcFile := range index[src] {
 		if tgtFile, ok := index[tgt][verseID]; ok {
+			fmt.Printf("Processing (src %s, dst %s) with files (%s, %s)\n", src, tgt, srcFile, index[tgt][verseID])
 			book := strings.SplitN(verseID, "_", 2)[0]
 			chapter := strings.SplitN(verseID, "_", 2)[1]
 
@@ -273,17 +274,20 @@ func buildCorpusVerses(src, tgt string, index map[string]map[string]string, outd
 				Status:   fmt.Sprintf("Processed %03d/%03d verses for %s <--> %s", n, total, src, tgt),
 			}
 		}
+		fmt.Printf("Done Processing (%s, %s)... Sorting and Sending...\n", src, tgt);
 	}
-	
+	fmt.Printf("Sort...");
 	entry.Sort()
+	fmt.Printf("Ending...");
 
-	prg.Progress <- workerprogress.WorkerProgressMsg{
-		WorkerID: prg.WorkerID,
-		Percent:  1.0,
-		Status:   fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
-	}
-
+	// prg.Progress <- workerprogress.WorkerProgressMsg{
+	// 	WorkerID: prg.WorkerID,
+	// 	Percent:  1.0,
+	// 	Status:   fmt.Sprintf("Built sentence-level corpus for %s <--> %s (%03d pairs); Saving TSV file. ", src, tgt, len(entry.Pairs)),
+	// }
+	fmt.Printf("Done Sort and Send (%s, %s)... Saving...\n", src, tgt);
 	entry.SaveAsTSV(fmt.Sprintf("%s_%s.tsv", src, tgt), outdir)
+	fmt.Printf("Done Saving (%s, %s)... End.\n", src, tgt);
 }
 
 /*

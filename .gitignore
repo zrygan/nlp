@@ -35,6 +35,8 @@ corpus/by_sentences/
 
 bible_cleaning/corpus/by_verses/*
 bible_cleaning/corpus/by_sentences/*
+bible_cleaning/parallel_corpus/by_verses/*
+bible_cleaning/parallel_corpus/by_sentences/*
 
 .tsv
 

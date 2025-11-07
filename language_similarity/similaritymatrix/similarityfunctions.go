@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
+    "math"
 )
 
 // load all words from the corpus
@@ -96,4 +97,33 @@ func ComputeJaccardSimilarity(a, b map[string]int) float64 {
     }
 
     return float64(intersection) / float64(len(union))
+}
+
+
+
+func ComputeCosineSimilarity(a, b map[string]int) float64 {
+    // Compute dot product and magnitudes
+    dot := 0.0
+    magA := 0.0
+    magB := 0.0
+
+    // Dot product for common keys
+    for k, valA := range a {
+        if valB, exists := b[k]; exists {
+            dot += float64(valA * valB)
+        }
+        magA += float64(valA * valA)
+    }
+
+    // Magnitude of vector B
+    for _, valB := range b {
+        magB += float64(valB * valB)
+    }
+
+    denom := math.Sqrt(magA) * math.Sqrt(magB)
+    if denom == 0 {
+        return 0.0
+    }
+
+    return dot / denom
 }

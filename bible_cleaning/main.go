@@ -15,7 +15,7 @@ import (
 
 // initialize sets up the initial parameters for the webscraping process
 func initialize() (int, map[string]string, map[string]int) {
-	chapterLimit := 261
+	chapterLimit := 30000
 
 	bibles := map[string]string{
 		//  ISO 639: Root URL
