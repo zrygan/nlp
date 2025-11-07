@@ -33,6 +33,9 @@ go.work.sum
 corpus/by_verses/
 corpus/by_sentences/
 
+bible_cleaning/corpus/by_verses/*
+bible_cleaning/corpus/by_sentences/*
+
 .tsv
 
 # LaTeX
