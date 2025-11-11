@@ -3,9 +3,9 @@ package similaritymatrix
 import (
 	"bufio"
 	"fmt"
+	"math"
 	"os"
 	"strings"
-    "math"
 )
 
 // load all words from the corpus
@@ -40,13 +40,16 @@ func GetTrigrams(word string) []string {
 
 // traverses the index and builds trigram frequencies per language
 func BuildTrigramCounts(index map[string]map[string]string) (map[string]map[string]int, error) {
+	fmt.Printf("Starting trigram count build. Total languages: %d\n", len(index))
     trigramCounts := make(map[string]map[string]int)
-
+    
     for lang, fileMap := range index {
         fmt.Printf("Processing language: %s (%d files)\n", lang, len(fileMap))
         trigramCounts[lang] = make(map[string]int)
 
         for _, filePath := range fileMap {
+			fmt.Printf("  -> Reading file: (%s)\n", filePath)
+
             file, err := os.Open(filePath)
             if err != nil {
                 return nil, fmt.Errorf("failed to open %s: %v", filePath, err)
