@@ -43,7 +43,7 @@ func BuildPhoneticSimilarityMatrix(phoneticCounts map[string]map[string]int) map
 			if langA == langB {
 				matrix[langA][langB] = 1.0
 			} else {
-				sim := ComputeJaccardSimilarity(phoneticCounts[langA], phoneticCounts[langB])
+				sim := ComputeCosineSimilarity(phoneticCounts[langA], phoneticCounts[langB])
 				matrix[langA][langB] = sim
 			}
 		}

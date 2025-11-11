@@ -22,7 +22,7 @@ func BuildJaccardSimilarityMatrix(trigramCounts map[string]map[string]int) map[s
                 matrix[langA][langB] = 1.0
                 continue
             }
-            sim := ComputeJaccardSimilarity(trigramCounts[langA], trigramCounts[langB])
+            sim := ComputeCosineSimilarity(trigramCounts[langA], trigramCounts[langB])
             matrix[langA][langB] = sim
         }
     }
