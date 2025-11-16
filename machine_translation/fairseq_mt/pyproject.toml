@@ -1,0 +1,14 @@
+[project]
+name = "fairseq-mt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fairseq",
+    "torchaudio>=2.5.1",
+    "torchvision>=0.20.1",
+]
+
+[tool.uv.sources]
+fairseq = { git = "https://github.com/facebookresearch/fairseq.git" }

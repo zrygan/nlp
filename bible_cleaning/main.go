@@ -15,7 +15,7 @@ import (
 
 // initialize sets up the initial parameters for the webscraping process
 func initialize() (int, map[string]string, map[string]int) {
-	chapterLimit := 30000
+	chapterLimit := 100000
 
 	bibles := map[string]string{
 		//  ISO 639: Root URL
@@ -165,6 +165,9 @@ func getCorpus() {
 		}, {
 			Find:    `^[\d#:\s]+`,
 			Replace: "",
+		}, {
+			Find:		`\n`,
+			Replace: " ",
 		},
 	})
 

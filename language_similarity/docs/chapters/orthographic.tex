@@ -12,9 +12,11 @@ To compute the orthographic similarity between the selected Philippine languages
 coefficient. The Jaccard similarity coefficient is a statistical measure used to compare the similarity and diversity of
 sample sets. It is defined as the size of the intersection divided by the size of the union of the sample sets. In our case,
 we defined the sample sets as the unique characters used in the orthography of each language. The Jaccard similarity coefficient is computed using the formula:
+
 \begin{equation}
     J(A, B) = \frac{|A \cap B|}{|A \cup B|}
 \end{equation}
+
 where \(A\) and \(B\) are the sets of unique trigrams in the orthography of two languages.
 We extracted the unique characters from the corpora of each language and computed the Jaccard similarity coefficient for each pair of languages. We stored these values
 in a similarity matrix, which is presented in \cref{fig:ortho_sim_matrix}.
