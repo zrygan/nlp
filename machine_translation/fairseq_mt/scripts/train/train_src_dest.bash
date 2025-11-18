@@ -3,7 +3,7 @@ set -e
 
 # ============================================
 # Direct Training: SRC → DST
-# Example: tgl → ceb
+# Example: ceb → tgl
 # ============================================
 
 SRC=$1
@@ -18,7 +18,7 @@ LR=0.0005
 DROPOUT=0.3
 MAX_TOKENS=4096
 MAX_EPOCH=50
-WARMUP=1000
+WARMUP=8000
 
 if [ -z "$SRC" ] || [ -z "$DST" ]; then
     echo "Usage: ./direct_train.sh tgl ceb"
@@ -41,6 +41,8 @@ echo "============================================"
 
 uv run --active fairseq-train "$DATA_DIR" \
   --arch $ARCH \
+  --bpe sentencepiece \
+  --sentencepiece-model unigram \
   --encoder-normalize-before --decoder-normalize-before \
   --share-all-embeddings \
   --optimizer adam --adam-betas '(0.9,0.98)' \
@@ -63,7 +65,7 @@ uv run --active fairseq-train "$DATA_DIR" \
   --eval-bleu \
   --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \
   --eval-bleu-detok space \
-  --eval-bleu-remove-bpe \
+  --eval-bleu-remove-bpe sentencepiece \
   --best-checkpoint-metric bleu \
   --maximize-best-checkpoint-metric
 

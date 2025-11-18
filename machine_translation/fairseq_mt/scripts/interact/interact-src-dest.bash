@@ -6,10 +6,10 @@ set -e
 # TGL → CEB
 # ============================================
 
-SRC_LANG="tgl"
-TGT_LANG="ceb"
+SRC_LANG="ceb"
+TGT_LANG="tgl"
 REVERSE=false
-DIR_REVERSE=true
+DIR_REVERSE=false
 
 TEST_DIR="../../tests/"
 if [ "$DIR_REVERSE" = true ] ; then

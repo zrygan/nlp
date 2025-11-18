@@ -11,8 +11,8 @@ TEST_PCT  = 0.05
 assert abs(TRAIN_PCT + VALID_PCT + TEST_PCT - 1.0) < 1e-6
 # -------------
 
-root = Path("../../../bible_cleaning/parallel_corpus/by_verses")
-raw = "../data/raw/"
+root = Path("../../../../bible_cleaning/parallel_corpus/by_sentences")
+raw = "../../data/raw/"
 tsv_files = list(root.glob("*.tsv"))
 
 # Detect TSV files

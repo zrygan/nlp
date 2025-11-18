@@ -15,6 +15,10 @@ To download the latest packages, perform `uv sync`.
 - [`zrygan/nlp/machine_translation`](#zrygannlpmachine_translation)
   - [Project Files](#project-files)
   - [Usage](#usage)
+    - [Preprocess](#preprocess)
+    - [Training](#training)
+    - [Evaluation](#evaluation)
+    - [Interactive](#interactive)
   - [Configuration](#configuration)
   - [Model Specifications](#model-specifications)
   - [Declaration of AI Use](#declaration-of-ai-use)
@@ -36,6 +40,10 @@ To download the latest packages, perform `uv sync`.
 ## Usage
 
 Make sure to activate the virtual directory first.
+
+There's a preconfigured main file to run if lazy: `./fairseq_main.bash`.
+
+### Preprocess
 
 First, preprocess all the verses data from `bible_cleaning/parallel_corpus/by_verses` to unigram.
 
@@ -60,6 +68,8 @@ Make sure that it has permissions, if not, perform `chmod 777 <filename>` in the
 > SRC_LANG="ceb"
 > TGT_LANG="tgl
 
+### Training
+
 Afterwards, you can start training. Make sure you have the right uv modules for training.
 
 Change directory to `/train`, and choose a machine translation method to train.
@@ -72,11 +82,25 @@ SRC --> PIVOT --> DST: `./train-src-pivot-dest.bash`
 
 While 10 minutes while training.
 
-Afterwards, it should produce a checkpoint at `/results`.
+Afterwards, it should produce a checkpoint at `/checkpoint`.
 
-Change directoru to the previos parent and perform evaluation.
+### Evaluation
 
-./
+Change directory to the parent directory and perform evaluation.
+
+```bash
+./fairseq_evaluate.bash
+```
+
+Check `./results` for the BLEU score training, test, and valid data
+
+### Interactive
+
+> [!wip] Work in Progress
+
+You can translate directly from the machine translation model. Check out `/interaction` to check how to translate from source to destination language.
+
+You can also translate with a middle pivot language.
 
 ## Configuration
 
