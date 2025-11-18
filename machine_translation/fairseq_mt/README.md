@@ -15,6 +15,7 @@ To download the latest packages, perform `uv sync`.
 - [`zrygan/nlp/machine_translation`](#zrygannlpmachine_translation)
   - [Project Files](#project-files)
   - [Usage](#usage)
+  - [Configuration](#configuration)
   - [Model Specifications](#model-specifications)
   - [Declaration of AI Use](#declaration-of-ai-use)
 
@@ -38,17 +39,46 @@ Make sure to activate the virtual directory first.
 
 First, preprocess all the verses data from `bible_cleaning/parallel_corpus/by_verses` to unigram.
 
-Go to `./scripts` or perform `cd ./scripts`. Assuming that you are executing in that folder, execute:
+Go to `/scripts` or perform `cd ./scripts`. Assuming that you are executing in that folder, execute:
 
 ```bash
-uv run --active python ./training_data_creation.py
+uv run --active python training_data_creation.py
 ```
 
-Then, Go to `./unigram_preprocess` and execute the following lines of code:
+Then, convert raw data to unigram format.
+
+Change directory to `/unigram_preprocess` or do `cd ./unigram_preprocess` and execute the following lines of code:
 
 ```bash
-uv run --active python unigram_convert_vocab.py
+./unigram_conversion
 ```
+
+Make sure that it has permissions, if not, perform `chmod 777 <filename>` in the same directory. Executing this setups the folders and files to run three python files for unigram generation, encoding, and fairseq preprocessing.
+
+> NOTE: you can configure the SRC and DST language. Default as of moment is tagalog and cebuano.
+> Change the settings for which unigram via unigram.bash file
+> SRC_LANG="ceb"
+> TGT_LANG="tgl
+
+Afterwards, you can start training. Make sure you have the right uv modules for training.
+
+Change directory to `/train`, and choose a machine translation method to train.
+
+> NOTE: if you want to configure a new format, save the previous version training bash script and the evaulation results in `fairseq_mt/evaluation/<user_defined_mt_name>`
+
+SRC --> DST: `./train-src-dest.bash`
+
+SRC --> PIVOT --> DST: `./train-src-pivot-dest.bash`
+
+While 10 minutes while training.
+
+Afterwards, it should produce a checkpoint at `/results`.
+
+Change directoru to the previos parent and perform evaluation.
+
+./
+
+## Configuration
 
 ## Model Specifications
 
