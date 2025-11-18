@@ -3,9 +3,9 @@
 # Configuration
 SRC_LANG="ceb"
 TGT_LANG="tgl"
-MODEL_PATH="checkpoints/${SRC_LANG}-${TGT_LANG}/checkpoint_best.pt"
-DATA_BIN="data-bin/${SRC_LANG}-${TGT_LANG}"
-RESULTS_DIR="results/${SRC_LANG}-${TGT_LANG}"
+MODEL_PATH="../checkpoints/${SRC_LANG}-${TGT_LANG}/checkpoint_best.pt"
+DATA_BIN="../data-bin/unigram/${SRC_LANG}-${TGT_LANG}"
+RESULTS_DIR="results/unigram/${SRC_LANG}-${TGT_LANG}"
 
 # Create results directory
 mkdir -p ${RESULTS_DIR}

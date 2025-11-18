@@ -1,0 +1,31 @@
+uv run --active fairseq-train ${data_dir} \
+  --arch transformer \  
+  --share-decoder-input-output-embed \
+  --optimizer adam \
+  --adam-betas '(0.9, 0.98)' \
+  --clip-norm ${CLIP_NORM} \
+  --lr ${LR} \
+  --lr-scheduler inverse_sqrt \
+  --warmup-updates ${WARMUP_UPDATES} \
+  --warmup-init-lr 1e-07 \
+  --dropout ${DROPOUT} \
+  --weight-decay 0.0001 \
+  --criterion label_smoothed_cross_entropy \
+  --label-smoothing 0.1 \
+  --max-tokens ${MAX_TOKENS} \
+  --max-epoch ${MAX_EPOCH} \
+  --save-dir ${checkpoint_dir} \
+  --keep-best-checkpoints 3 \
+  --no-epoch-checkpoints \
+  --no-last-checkpoints \
+  --no-save-optimizer-state \
+  --log-interval 50 \
+  --seed 42 \
+  --fp16 \
+  --eval-bleu \
+  --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \
+  --eval-bleu-detok space \
+  --eval-bleu-remove-bpe \
+  --eval-bleu-print-samples \
+  --best-checkpoint-metric bleu \
+  --maximize-best-checkpoint-metric

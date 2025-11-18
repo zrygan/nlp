@@ -1,0 +1,40 @@
+====================================
+TYPE–TOKEN RATIO (TTR)
+====================================
+Source TTR: 0.0732
+Target TTR: 0.0785
+Combined TTR: 0.0715
+
+====================================
+AVERAGE SENTENCE LENGTH
+====================================
+Mean sentence length difference: 6.674
+Mean length ratio: 1.599
+Length ratio outliers (> 3.0): 433
+
+====================================
+RARE TOKEN FREQUENCY
+====================================
+Avg rare tokens per source sentence: 0.765
+Avg rare tokens per target sentence: 0.858
+
+====================================
+SEMANTIC SIMILARITY (LaBSE)
+====================================
+Mean embedding distance: 0.409
+Embedding outliers (>0.4): 3238
+
+====================================
+ChrF++ SIMILARITY
+====================================
+Mean ChrF++ score: 26.408
+
+====================================
+SUBWORD FERTILITY (SentencePiece)
+====================================
+Avg fertility (src): 1.661
+Avg fertility (tgt): 1.773
+
+====================================
+DONE – FULL DATASET QUALITY REPORT
+====================================
