@@ -20,10 +20,113 @@ We extracted the unique characters from the corpora of each language and compute
 in a similarity matrix, which is presented in \cref{fig:ortho_sim_matrix}.
 \begin{figure}[h]
     \centering
-    \includegraphics[width=\columnwidth]{artifacts/orthographic_heat_map.png}
+    \includegraphics[width=\columnwidth]{chapters/artifacts/orthographic_heat_map.png}
     \caption{Orthographic Similarity Matrix using Jaccard Similarity Coefficient}
     \label{fig:ortho_sim_matrix}
 \end{figure}
 
 \subsection{Results and Discussion}
 
+The orthographic similarity matrix in \cref{fig:ortho_sim_matrix} reveals interesting patterns in how Philippine 
+languages relate through their written forms. The overall similarity values range from moderate to high, with considerable 
+variation across language pairs. Several languages that are geographically close or linguistically related show relatively 
+weak orthographic connections, while others maintain strong similarity. This variability tells us something important: 
+the adoption of Latin script across Philippine languages has followed different paths, shaped by distinct standardization 
+processes, missionary influences, and local literacy traditions.
+
+The Bisayan languages form a clear cohesive cluster in the orthographic data. Hiligaynon and Cebuano achieve a strong 
+similarity score of 0.9391, reflecting their close linguistic relationship as Central Bisayan languages. What's particularly 
+interesting is that Romblomanon shows even stronger orthographic connections—scoring 0.9242 with Hiligaynon and 0.8870 
+with Cebuano. Kinaray-a maintains solid ties to both Hiligaynon (0.9067) and Cebuano (0.8805), confirming the orthographic 
+similarity of Western Visayan languages. Waray-Waray shows somewhat more moderate connections to the other Bisayan languages, 
+though still maintaining respectable similarity scores. These patterns suggest that spelling conventions within the Bisayan 
+group have remained relatively consistent, likely due to shared educational and religious materials during Spanish 
+colonization.
+
+Romblomanon emerges as a particularly interesting bridge language in the orthographic data. It achieves the highest 
+similarity with Hiligaynon (0.9242) and shows strong connections to both Tagalog (0.8666) and Cebuano (0.8870). The 
+Romblomanon-Kinaray-a pair scores an impressive 0.9143, suggesting that these two languages from neighboring island 
+groups have maintained very similar spelling conventions. This makes sense given Romblon's position between major 
+linguistic zones—the writing systems likely influenced each other through trade and administrative contact during 
+both the Spanish colonial period and modern times.
+
+Bikol and Masbatenyo present another case of exceptionally high orthographic similarity at 0.9206, their highest 
+mutual score. This reflects their geographic proximity in the Bicol Peninsula and adjacent islands. These languages 
+have clearly maintained similar writing conventions, likely due to shared educational and religious materials during 
+Spanish colonization and continuing through modern standardization efforts. Their similarity suggests that the Bicol region had the same literary heritage.
+
+Tagalog shows interesting orthographic patterns that reflect its status as a major regional language. It pairs well 
+with Cebuano (0.8877) and Hiligaynon (0.8811), and also maintains strong similarity with Bikol (0.8298) and Romblomanon 
+(0.8666). However, its connection to Kapampangan (0.7985) is more moderate, suggesting that despite being geographic 
+neighbors in Central Luzon, their orthographic conventions have developed with some independence. The relatively high 
+Tagalog-Cebuano score is notable—these are the two most widely spoken Philippine languages, and their similar 
+orthographies likely reflect mutual influence through education and media.
+
+Chavacano stands out as the most orthographically divergent language in the matrix. Its highest scores 
+are with Pangasinan (0.5228) and Paranan (0.4960), with most other languages scoring between 0.35-0.45. This pattern 
+reflects Chavacano's unique status as a Spanish-based creole with a spelling system that differs fundamentally from 
+Austronesian languages. Chavacano uses different letter combinations and orthographic conventions inherited from Spanish, 
+creating a written form that looks distinctly different from its geographic neighbors. However, the fact that it shows 
+any orthographic similarity at all suggests that the standardized Latin script provides some common ground, even for 
+a creole language with such different origins.
+
+Ilocano's orthographic profile is quite distinct from most Philippine languages. Its scores are consistently in the 
+moderate-to-low range, with its highest similarities being with Paranan (0.7235) and Pangasinan (0.6818). Ilocano's 
+orthographic similarity with central Philippine languages—Hiligaynon (0.5583), Cebuano (0.5588), and Tagalog 
+(0.5669)—is relatively low, suggesting that Northern Luzon languages have developed distinct spelling conventions. 
+This likely reflects different influences during Spanish colonization, with Northern Luzon potentially 
+having different standardization traditions than the more heavily populated central regions.
+
+Paranan presents an interesting orthographic profile. It achieves its highest similarities with Pangasinan (0.7828), 
+Ilocano (0.7235), and Yami (0.7103), suggesting some Northern Luzon orthographic commonalities. However, these scores 
+are moderate rather than exceptionally high, indicating that even within this geographic region, each language has 
+maintained somewhat independent spelling conventions. Paranan's isolated position in the Sierra Madre mountains may 
+have contributed to its orthographic development following a somewhat different path from its neighbors.
+
+Yami presents an intriguing case. Its similarities are moderate across the board, with the highest connections to 
+Pangasinan (0.7769), Bikol (0.7047), and Paranan (0.7103). These moderate scores might reflect Yami's geographic 
+isolation in the Batanes Islands—the language has been written down less frequently and may have been subject to 
+different orthographic influences. Its position near Taiwan could mean connections to Formosan language writing 
+systems, or simply that it underwent less intensive standardization than more widely spoken languages.
+
+Kapampangan shows a somewhat isolated orthographic profile. Its highest similarity is with Tagalog (0.7985), which 
+makes sense given their geographic proximity in Central Luzon and likely shared educational systems. However, 
+Kapampangan scores lower with most other languages—including 0.7033 with Cebuano and only 0.5421 with Ilocano. 
+The orthographic distinctiveness suggests that Kapampangan has maintained unique spelling conventions, possibly 
+reflecting its literary heritage in Pampanga province. The language 
+has a long history of written materials, which may have allowed it to develop and preserve distinct orthographic 
+features.
+
+Pangasinan emerges as having relatively balanced orthographic similarities across multiple languages. It scores 
+well with Paranan (0.7828), Bikol (0.7926), Masbatenyo (0.7906), and Yami (0.7769). This pattern positions Pangasinan 
+as something of a linguistic crossroads in orthographic terms, showing moderate similarity to both northern and 
+southern varieties. The consistency of these mid-to-high scores suggests that Pangasinan's writing system incorporates 
+features that are broadly representative of Philippine orthographic conventions, making it somewhat of a "middle ground" 
+among Philippine spelling systems.
+
+Tausug's orthographic scores are moderate, ranging mostly from 0.59-0.77. Its strongest connections are with Bikol 
+(0.7762), Masbatenyo (0.7464), and Romblomanon (0.7217). This moderate level of similarity is interesting given 
+Tausug's position in the far south of the archipelago. The language has been influenced by different educational 
+systems and has historical connections to Arabic script traditions in the Muslim areas of Mindanao, even though 
+it's now written in Latin script. These influences may have shaped its orthographic conventions in ways that differ 
+from languages in the central and northern Philippines.
+
+When we compare these orthographic patterns with the geographic distribution in \cref{fig:lingmap_out}, we see 
+that geography provides only a partial explanation for orthographic similarity. The Bisayan cluster maintains cohesion, 
+and Northern Luzon languages show some clustering tendencies, but the correlation is not absolute. This makes sense: 
+orthography is highly susceptible to standardization efforts, missionary influences, and educational policies that 
+can cut across geographic boundaries. Languages separated by water or mountains might still develop similar spelling 
+systems if they were served by the same missionary groups or educational institutions.
+
+The orthographic data reveals which language communities have had closer contact in written contexts—through shared 
+educational materials, religious texts, or administrative documents. The high Romblomanon-Hiligaynon and Bikol-Masbatenyo 
+scores suggest said shared heritage. The lower scores for Chavacano and the variable patterns for isolated 
+languages like Yami and Paranan show how geographic and cultural isolation can lead to their orthography developing independently.
+
+These findings show that orthographic similarity tells a specific story about the history of literacy. The matrix shows us that while Philippine languages have converged on using the Latin script, 
+they've done so in ways that reflect their unique histories and the particular contexts in which literacy was introduced 
+and standardized. The variation we see in orthographic similarity—from Chavacano's dramatic divergence to the tight 
+clustering of Bisayan languages—reflects centuries of decisions by educators, linguists, missionaries, and communities 
+about how to represent their speech in writing. Future research examining specific orthographic features—like diacritic 
+usage, digraph conventions, and representation of sounds that do not exist in Spanish—could provide even more insight 
+into how these writing systems developed and why some languages maintain more similar conventions than others.
