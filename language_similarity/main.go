@@ -46,13 +46,16 @@ func buildOrthographicSimilarityMatrix() {
     if err != nil {
         panic(err)
     }
+	fmt.Println("Building trigram counts...")
 
     trigramCounts, err := similaritymatrix.BuildTrigramCounts(index)
     if err != nil {
         panic(err)
     }
 
-    matrix := similaritymatrix.BuildJaccardSimilarityMatrix(trigramCounts)
+	fmt.Println("Building cosine similarity matrix...")
+
+    matrix := similaritymatrix.BuildCosineSimilarityMatrix(trigramCounts)
 
     outPath := "similaritymatrix/orthographic_similarity_matrix.tsv"
     if err := similaritymatrix.SaveOrthographicMatrix(matrix, outPath); err != nil {

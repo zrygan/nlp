@@ -40,6 +40,12 @@ bible_cleaning/parallel_corpus/by_sentences/*
 
 .tsv
 
+machine_translation/fairseq_mt/data-bin/*
+machine_translation/fairseq_mt/data/*
+machine_translation/fairseq_mt/results/*
+machine_translation/fairseq_mt/checkpoints/*
+
+
 # LaTeX
 *.acn
 *.acr

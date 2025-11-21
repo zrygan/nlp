@@ -6,14 +6,17 @@ import (
 	"strings"
 )
 
-// builds the similarity matrix using frequency-aware Jaccard
-func BuildJaccardSimilarityMatrix(trigramCounts map[string]map[string]int) map[string]map[string]float64 {
+// builds the similarity matrix using cosine similarity
+func BuildCosineSimilarityMatrix(trigramCounts map[string]map[string]int) map[string]map[string]float64 {
     matrix := make(map[string]map[string]float64)
 
+	fmt.Println("Calculating cosine similarities...")
     langs := make([]string, 0, len(trigramCounts))
+	fmt.Printf("trigramCounts size: %d\n", len(trigramCounts))
     for lang := range trigramCounts {
         langs = append(langs, lang)
     }
+
 
     for _, langA := range langs {
         matrix[langA] = make(map[string]float64)
