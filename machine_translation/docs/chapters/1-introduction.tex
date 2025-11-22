@@ -1,0 +1,18 @@
+\section{Introduction}
+
+Machine translation for Philippine languages presents unique challenges due to their morphologically rich structure and limited availability of parallel corpora. With over 100 languages spoken across the archipelago, most Philippine languages remain critically under-resourced for applications in computational linguistics. This report addresses these challenges by taking advantage of the linguistic relationships between closely related languages to improve translation quality for low-resource language pairs.
+\\
+
+The Philippines hosts a diverse linguistic landscape where languages exhibit varying degrees of similarity. Through our prior work in language similarity analysis, we computed orthographic and phonetic similarity matrices across 16 Philippine languages using cosine similarity on character trigram distributions. The results reveal distinct language clusters: Cebuano and Tagalog demonstrate high orthographic similarity (0.8877), while languages such as Romblomanon, Hiligaynon (jil), and Kinaray-a form another closely related cluster. These quantitative measures of language relatedness provide a foundation for our machine translation strategy.
+\\
+
+Our approach focuses on translating Cebuano to Tagalog, two languages that collectively serve over 40 million speakers across the Philippines. Despite their high orthographic similarity score, direct translation between these languages remains difficult due to the insufficient amount of parallel training data. Additionally, the morphologically rich nature of these languages, characterized by extensive use of affixes to modify root words, further complicates this task as it significantly expands the vocabulary space.
+\\
+
+To overcome these resource constraints, we look into a pivot translation strategy where Cebuano is first translated to English before being translated to Tagalog. This approach uses the substantially larger English parallel corpora available for both languages. Our hypothesis is that pivoting through a high-resource language can compensate for the scarcity of direct parallel data between the source and target languages.
+\\
+
+The parallel corpora used in this project derive from Bible translations, which provide naturally aligned text across multiple Philippine languages. From the 16 available language corpora, we extracted and preprocessed parallel verses to create training, validation, and test sets. 
+\\
+
+This report documents our implementation of a transformer-based machine translation system using the Fairseq toolkit. We detail our design choices in data representation, particularly our adoption of unigram tokenization to handle Philippine languages' morphological complexity. We present our experiments with various model architectures, discuss the computational constraints that influenced our model selection, and analyze the resulting translation quality through standard evaluation metrics.
