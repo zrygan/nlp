@@ -1,0 +1,36 @@
+\documentclass[twocolumn]{article}
+\usepackage{hyperref}
+\usepackage{amsmath, amssymb, listings, cleveref, graphicx}
+\usepackage{pdflscape}
+\usepackage{tablefootnote}
+\usepackage[edges]{forest}
+\usepackage{xcolor}
+
+\graphicspath{{../}} % makes root = language_similarity/
+\newcommand{\todo}{\textcolor{blue}{--- TODO ---}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%% FOR TODOs OR MISSING INFORMATION
+%%%%%%%%%% Add the \todo annotation
+%%%%%%%%%% and make its font color blue
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Machine Translation for Low-Resource Philippine Languages: A Cebuano-Tagalog Case Study}
+\author{Clarence Ang, Clive Ang, Roan Campo, Zhean Ganituen}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\input{chapters/1-introduction}
+\input{chapters/2-language-selection}
+\input{chapters/3-methodology}
+\input{chapters/4-experimental-setup}
+\input{chapters/5-results-and-analysis}
+\input{chapters/6-conclusion}
+\include{chapters/7-declaration-of-ai}
+
+% \bibliography{refs}
+% \bibliographystyle{alpha}
+
+\end{document}

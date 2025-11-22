@@ -1,0 +1,9 @@
+\section{Conclusion}
+
+This project investigated machine translation for low-resource Philippine languages through a case study on Cebuano–Tagalog translation. By combining linguistic similarity analysis, subword tokenization techniques, and both direct and pivot-based translation strategies, we evaluated how different factors can affect translation quality in a low-resource environment.
+
+Our experiments show that unigram tokenization consistently outperforms BPE, supporting the idea that probabilistic subword selection is better suited to the rich morphological structure of Cebuano and Tagalog. Despite Cebuano and Tagalog having high orthographic and phonetic similarity, direct translation between them performed poorly, with BLEU scores ranging from 3.32 to 10.47. In contrast, the pivot approach using English, despite its large linguistic distance from Philippine languages, achieved substantially higher translation quality.
+
+These results indicate that having an abundance in data can outweigh the effects of linguistic similarity, especially when the parallel corpus for the similar languages is small or noisy. The Cebuano corpus appears to be a key limiting factor which is its size and segmentation behavior contribute to low performance whenever Cebuano is involved, making it a bottleneck in both direct and pivot pipelines.
+
+The findings highlight the broader challenges of machine translation for Philippine languages. Improving translation quality will require larger and cleaner corpora, more effective tokenization strategies, and possibly multilingual or transfer-learning approaches that can use related Visayan languages. Despite the limitations, this study shows that meaningful MT systems for under-resourced Philippine languages can be developed even with modest computational resources.

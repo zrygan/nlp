@@ -15,7 +15,7 @@ import (
 
 // initialize sets up the initial parameters for the webscraping process
 func initialize() (int, map[string]string, map[string]int) {
-	chapterLimit := 100000
+	chapterLimit := 30000
 
 	bibles := map[string]string{
 		//  ISO 639: Root URL
@@ -27,8 +27,6 @@ func initialize() (int, map[string]string, map[string]int) {
 		"war": "https://www.bible.com/bible/2198/GEN.1.MBBSAM",
 		"pam": "https://www.bible.com/bible/1141/GEN.1.PMPV",
 		"pag": "https://www.bible.com/bible/1166/GEN.1.PNPV",
-		
-		"eng": "https://www.bible.com/bible/2692/GEN.1.NASB2020", // As an auxiliary language only
 
 		"tiu": "https://www.bible.com/bible/2812/MAT.1.YBT",
 		"cbk": "https://www.bible.com/bible/1129/MAT.1.CBKNT",
@@ -49,7 +47,6 @@ func initialize() (int, map[string]string, map[string]int) {
 		"war": 0,
 		"pam": 0,
 		"pag": 0,
-		"eng": 0,
 		"tiu": 0,
 		"cbk": 0,
 		"prf": 0,
@@ -230,12 +227,12 @@ func main() {
 		splitSentencesInCorpus()
 	case "parallel":
 		switch os.Args[2] {
-			default:
-				panic("No argument provided")
-			case "verses", "verse", "v":
-				parallelizeCorpusByVerses()
-			case "sentences", "sentence", "s":
-				parallelizeCorpusBySentences()
+		default:
+			panic("No argument provided")
+		case "verses", "verse", "v":
+			parallelizeCorpusByVerses()
+		case "sentences", "sentence", "s":
+			parallelizeCorpusBySentences()
 		}
 
 	default:

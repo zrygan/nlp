@@ -1,1 +1,61 @@
 \section{Phonetic Similarity}
+
+The phonetic similarity of languages refers to the sound patterns and pronunciation features that characterize speech. This metric reveals deeper linguistic relationships that may not be apparent from orthographic analysis alone. Languages that share similar phonetic structures often indicate common ancestry, historical contact, or parallel phonological evolution. Phonetic analysis is particularly useful for understanding the Austronesian language family, where phonics have been important to reconstructing proto-languages and tracing migration patterns~\cite{Blust_1991}.
+
+Unlike orthographic similarity, which measures written forms, phonetic similarity shows the acoustic and articulatory properties of language. This distinction is important for Philippine languages, many of which adopted the Latin script during Spanish colonization despite maintaining distinct phonological sets. Two languages may share similar orthographies due to external influences, yet preserve divergent phonetic systems rooted in their indigenous sound structures. Conversely, languages with different spelling conventions may exhibit notable phonetic similarity, reflecting their shared Austronesian heritage.
+
+\subsection{Methodology}
+
+To compute the phonetic similarity between the selected Philippine languages, we employed a two-stage transformation process. First, we extracted trigrams from each word in the corpora, as described in the orthographic analysis. These trigrams were then converted to phonetic representations using the Double Metaphone algorithm. The Double Metaphone algorithm is a phonetic encoding scheme that generates two phonetic codes (primary and alternate) for each input string, accounting for variant pronunciations and phonological ambiguities common in multilingual settings.
+
+The Double Metaphone algorithm was selected over simpler phonetic encoders such as Soundex because it handles non-English phonological patterns more robustly and produces multiple encodings when pronunciation is ambiguous. For each trigram extracted from the corpus, we obtained both primary and alternate phonetic codes, which were then aggregated into frequency distributions for each language. This approach preserves the distributional properties of phonetic patterns while abstracting away from 
+orthographic representation.
+
+Once the phonetic frequency vectors were constructed, we computed pairwise similarity using cosine similarity. The cosine similarity metric measures the cosine of the angle between two vectors in a multi-dimensional space, defined as:
+\begin{equation}
+    \text{cos}(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} = \frac{\sum_{i=1}^{n} A_i B_i}{\sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2}}
+\end{equation}
+where \(\mathbf{A}\) and \(\mathbf{B}\) are the phonetic frequency vectors for two languages. Cosine similarity is particularly appropriate for this analysis because it accounts for the relative distribution of phonetic features rather 
+than their absolute frequencies, making it robust to variations in the corpus size.
+
+We constructed a phonetic similarity matrix for all language pairs, with values ranging from 0 (no phonetic overlap) 
+to 1 (identical phonetic distributions). The resulting matrix is visualized as a heatmap in \cref{fig:phonetic_sim_matrix}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]{chapters/artifacts/phonetic_heat_map.png}
+    \caption{Phonetic Similarity Matrix using Double Metaphone encoding and Cosine Similarity}
+    \label{fig:phonetic_sim_matrix}
+\end{figure}
+
+\subsection{Results and Discussion}
+
+The phonetic similarity matrix in \cref{fig:phonetic_sim_matrix} tells a different story than what we observed in orthographic analysis. The first thing that stands out is how much higher the similarity values are. Most language pairs score above 0.80, whereas orthographic similarities were considerably more varied. This suggests that despite adopting similar writing systems during Spanish colonization, these languages have maintained deeper phonological connections rooted in their shared Austronesian heritage.
+
+Looking at the Bisayan languages provides perhaps the clearest example of phonetic cohesion. Hiligaynon and Cebuano score 0.9927, the highest in the entire matrix. This makes sense given their geographic proximity in the central Visayas and their classification as Central Bisayan languages. Another thing to note is that Kinaray-a, also from Western Visayas, maintains similarly strong connections to both Hiligaynon (0.9582) and Cebuano (0.9650). Even Waray-Waray, separated by the Samar Sea, shows strong similarity to Kinaray-a (0.9550). These numbers suggest that the narrow straits between Visayan islands have not created significant phonological barriers—if anything, maritime 
+connections may have facilitated rather than hindered linguistic contact.
+
+Romblomanon presents a particularly interesting case. With similarity scores exceeding 0.97 for both Tagalog (0.9716) and the Bisayan languages, Hiligaynon (0.9734) and Cebuano (0.9708), it appears to function as a phonetic bridge. This aligns well with Romblon's position in the MIMAROPA region, sitting between Luzon and the Visayas. The island has historically been a contact zone between northern and southern migration routes, and the phonetic data reflects this intermediary role. Similarly, Bikol and Masbatenyo show remarkably high mutual similarity (0.9857), which makes sense given their geographic adjacency in what is essentially a transitional area between Luzon and Visayan phonological 
+features.
+
+On the other end of the spectrum, Chavacano stands out as phonetically distinct. Its scores are consistently the lowest in the matrix, 0.7972 with Waray-Waray and 0.7881 with Tagalog, which reflects its unique status as a Spanish-based creole. While Chavacano borrowed extensively from Cebuano and Tausug vocabulary, its phonological structure has been fundamentally reshaped by Spanish. The language adopted Spanish phonotactics and sound patterns, creating a phonetic profile that diverges significantly from its Austronesian neighbors. This is a clear case where creolization produces 
+more dramatic phonological changes than simple language contact.
+
+Ilocano's phonetic profile is also noteworthy for being systematically different from central Philippine languages. Its similarities with Hiligaynon (0.7622), Cebuano (0.7896), and Tagalog (0.7936) are among the lowest for non-creole languages. The Cordillera mountains have clearly played a role in isolating Northern Luzon linguistically. However, Ilocano shows much stronger connections to other northern languages, Paranan (0.9594) and Pangasinan (0.9186), suggesting 
+that there exists a distinct Northern Luzon phonological pattern that these languages share.
+
+Despite being spoken in the isolated Sierra Madre region, Paranan maintains strong phonetic ties to Pangasinan (0.9677), Ilocano (0.9594), and surprisingly, Tausug (0.9435). The Paranan-Pangasinan connection is particularly curious given the distance between them. One possibility is that these languages have retained conservative phonological features from an earlier stage of development, features that more innovative central varieties have since lost. Alternatively, isolated communities sometimes undergo similar patterns of phonological 
+simplification independently, which could produce superficial similarities.
+
+The Central Luzon languages form a moderate cluster, though less cohesive than the Bisayan group. Tagalog pairs reasonably well with Kapampangan (0.9292) and Pangasinan (0.8986), but these values are lower than what we see within the Visayas. Kapampangan shows an interesting pattern where it connects more strongly to distant languages like Kinaray-a (0.9456) and Waray-Waray (0.9206) than to its neighbor Ilocano (0.8483). This could reflect historical lowland trade networks that created phonological convergence across non-adjacent regions, bypassing the more isolated 
+highland areas.
+
+Tausug, representing the southernmost language in our study, maintains surprisingly high similarity with most Philippine languages. Its strongest connections are with Masbatenyo (0.9538), Bikol (0.9519), and Pangasinan (0.9587). Despite being at the southern edge of the archipelago and having distinct cultural influences from maritime Southeast Asia, Tausug has retained core Austronesian phonological features. This stands in sharp contrast to Chavacano and reinforces the idea that creolization, not just geographic distance or cultural contact, is what produces radical 
+phonological restructuring.
+
+When we overlay these phonetic patterns onto the geographic map from \cref{fig:lingmap_out}, we see that the Bisayan cluster's high phonetic cohesion matches their geographic clustering, confirming that the narrow seas between Visayan islands have facilitated linguistic continuity. Ilocano's distinctiveness aligns with its position beyond the Cordillera mountains. But other patterns are harder to explain geographically. The Paranan-Pangasinan connection, the Yami-Tausug similarities, and Chavacano's divergence all suggest that phonetic similarity depends on 
+more than just proximity.
+
+What's perhaps most revealing is that the baseline phonetic similarity is much higher than orthographic similarity. While orthographic systems have diverged through standardization efforts and colonial influences, everyone adopted the Latin script, but in different ways, the phonology appears to preserve deeper traces of shared ancestry. You can standardize spelling, but people still speak in ways that reflect centuries or millennia of common heritage.
+
+These findings show why phonetic analysis matters for understanding Philippine linguistic history. Orthography tells us about recent standardization and colonial interventions. Phonetics gives us access to older patterns of relationship and contact. From our matrix, we can identify the Bisayan languages as the most cohesive group, Northern Luzon as a distinct phonological zone, and creolization as the main driver of radical phonological change. Moving forward, more detailed studies could help clarify some of these patterns, especially for languages like Yami and Paranan that seem to preserve archaic features.
