@@ -1,18 +1,24 @@
-cd parallel_corpus_preprocess
+# cd parallel_corpus_preprocess
 
-uv run --active python training_data_creation.py
-ls
+# uv run --active python training_data_creation.py
+# ls
 
-cd ..
-cd unigram_preprocess
+# cd ..
+# cd unigram_preprocess
 
-./unigram_conversion.bash
+# ./unigram_conversion.bash
 
-cd ..
-cd train
+# cd ..
 
-./train_src_dest.bash ceb tgl
 
-cd ..
+## PIVOT
+# cd train
 
-./fairseq_evaluate.bash
+# ./train_src_pivot_dest.bash ceb eng tgl
+
+# cd ..
+
+# ./fairseq_evaluate.bash
+
+## Augmentation
+

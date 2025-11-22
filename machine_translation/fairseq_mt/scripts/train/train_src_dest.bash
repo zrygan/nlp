@@ -9,21 +9,18 @@ set -e
 SRC=$1
 DST=$2
 
-DATA_DIR="../../data-bin/unigram/${SRC}-${DST}"
-SAVE_DIR="../../checkpoints/${SRC}-${DST}"
+DATA_DIR="../../data-bin/augmentation/ceb-eng/bin"
+SAVE_DIR="../../checkpoints/augmentation/aug4_ceb_eng/"
 
 # Training hyperparameters (optimized for low-resource)
-ARCH="transformer_iwslt_de_en"
+ARCH="transformer_iwslt_de_en" # 1024 parameters
 LR=0.0005
 DROPOUT=0.3
 MAX_TOKENS=4096
 MAX_EPOCH=50
 WARMUP=8000
 
-if [ -z "$SRC" ] || [ -z "$DST" ]; then
-    echo "Usage: ./direct_train.sh tgl ceb"
-    exit 1
-fi
+
 
 if [ ! -d "$DATA_DIR" ]; then
     echo "❌ ERROR: Missing data directory: $DATA_DIR"
@@ -44,7 +41,6 @@ uv run --active fairseq-train "$DATA_DIR" \
   --bpe sentencepiece \
   --sentencepiece-model unigram \
   --encoder-normalize-before --decoder-normalize-before \
-  --share-all-embeddings \
   --optimizer adam --adam-betas '(0.9,0.98)' \
   --clip-norm 1.0 \
   --lr $LR \
@@ -60,7 +56,7 @@ uv run --active fairseq-train "$DATA_DIR" \
   --seed 42 \
   --fp16 \
   --save-dir "$SAVE_DIR" \
-  --keep-best-checkpoints 3 \
+  --keep-best-checkpoints 2 \
   --no-epoch-checkpoints --no-last-checkpoints \
   --eval-bleu \
   --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \

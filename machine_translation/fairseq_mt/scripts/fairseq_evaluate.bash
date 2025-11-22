@@ -2,26 +2,28 @@
 
 # Configuration
 SRC_LANG="ceb"
-TGT_LANG="tgl"
-MODEL_PATH="../checkpoints/${SRC_LANG}-${TGT_LANG}/checkpoint_best.pt"
-DATA_BIN="../data-bin/unigram/${SRC_LANG}-${TGT_LANG}"
-RESULTS_DIR="results/unigram/${SRC_LANG}-${TGT_LANG}"
+TGT_LANG="eng"
+MODEL_PATH="../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_12.2801.pt"
+DATA_BIN="../data-bin/augmentation/ceb-eng/bin"
+RESULTS_DIR="results/augmentation/aug4_ceb_eng"
 
 # Create results directory
 mkdir -p ${RESULTS_DIR}
 
-echo "=========================================="
-echo "Evaluating ${SRC_LANG} → ${TGT_LANG} Model"
-echo "=========================================="
-echo ""
-echo "Model: ${MODEL_PATH}"
-echo "Data: ${DATA_BIN}"
-echo ""
+cat << EOF
+==========================================
+Evaluating ${SRC_LANG} → ${TGT_LANG} Model
+==========================================
+Model: ${MODEL_PATH}
+Data: ${DATA_BIN}
+EOF
 
 # Check if model exists
 if [ ! -f "${MODEL_PATH}" ]; then
-    echo "ERROR: Model not found at ${MODEL_PATH}"
-    echo "Please train the model first or check the path."
+cat << EOF
+:( ERROR: Model not found at ${MODEL_PATH}
+:( Please train the model first or check the path.
+EOF
     exit 1
 fi
 
@@ -29,7 +31,7 @@ fi
 echo "Running evaluation on test set..."
 uv run --active fairseq-generate ${DATA_BIN} \
     --path ${MODEL_PATH} \
-    --batch-size 128 \
+    --batch-size 32 \
     --beam 5 \
     --remove-bpe \
     --gen-subset test \
@@ -39,15 +41,16 @@ uv run --active fairseq-generate ${DATA_BIN} \
 # The actual translations are in generate-test.txt
 GENERATE_FILE="${RESULTS_DIR}/generate-test.txt"
 
-echo ""
-echo "=========================================="
-echo "Results Summary"
-echo "=========================================="
+cat << EOF
+==========================================
+Results Summary
+==========================================
+EOF
 
 # Extract BLEU score from evaluation.log (console output)
-echo ""
-echo "BLEU Score:"
+echo "\nBLEU Score:"
 BLEU=$(grep "BLEU4 = " ${RESULTS_DIR}/generate-test.txt | grep -oP "BLEU4 = \K[0-9.]+")
+
 if [ -z "$BLEU" ]; then
     BLEU=$(grep "BLEU = " ${RESULTS_DIR}/generate-test.txt | grep -oP "BLEU = \K[0-9.]+")
 fi
@@ -73,10 +76,11 @@ echo ""
 echo "Sample Translations (first 10):"
 grep "^S-\|^T-\|^H-\|^D-" ${GENERATE_FILE} | head -40
 
-echo ""
-echo "=========================================="
-echo "Additional Analysis"
-echo "=========================================="
+cat << EOF
+==========================================
+Additional Analysis
+==========================================
+EOF
 
 # Count translations from generate-test.txt
 NUM_TRANSLATIONS=$(grep "^H-" ${GENERATE_FILE} | wc -l)
@@ -110,5 +114,4 @@ else
     echo "WARNING: No translations found. Check ${GENERATE_FILE} for errors."
 fi
 
-echo ""
 echo "Evaluation complete!"

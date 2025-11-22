@@ -146,6 +146,36 @@ func getWebscrape() {
 		}, {
 			Find:    `^[\d#:\s]+`,
 			Replace: "",
+		}, {
+			Find:		 `[\ ]*L[\s]ord[\ ]*`,
+			Replace: "Lord",
+		}, {
+			Find: `[\ ]*H[\s]e[\ ]*`,
+			Replace: `He`,
+		}, {
+			Find: `[\ ]*h[\s]e[\ ]*`,
+			Replace: `he`,
+		}, {
+			Find: `[\ ]*T[\s]he[\ ]*`,
+			Replace: `The`,
+		}, {
+			Find: `[\ ]*t[\s]he[\ ]*`,
+			Replace: `the`,
+		}, {
+			Find: `[\ ]*W[\s]e[\ ]*`,
+			Replace: `We`,
+		}, {
+			Find: `[\ ]*w[\s]e[\ ]*`,
+			Replace: `we`,
+		}, {
+			Find: `[\ ]*B[\s]ehold[\ ]*`,
+			Replace: `Behold`,
+		}, {
+			Find: `[\ ]*A[\s]nd[\ ]*`,
+			Replace: `And`,
+		}, {
+			Find: `[\ ]*I[\s]f[\ ]*`,
+			Replace: `If`,
 		},
 	})
 
@@ -169,8 +199,8 @@ func getCorpus() {
 			Find:    `^[\d#:\s]+`,
 			Replace: "",
 		}, {
-			Find:		`\n`,
-			Replace: " ",
+			Find:		`[\s]L[\s]ord[\s]`,
+			Replace: " Lord ",
 		},
 	})
 

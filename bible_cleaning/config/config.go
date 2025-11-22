@@ -8,7 +8,7 @@ const (
 	PARALLEL_VERSES_FOLDER             = "parallel_corpus/by_verses"
 	PARALLEL_SENTENCES_FOLDER          = "parallel_corpus/by_sentences"
 	WORKER_REPORT_INTERVAL_MS          = 50000 // milliseconds
-	THREAD_POOL_SIZE                   = 1   // number of worker threads
+	THREAD_POOL_SIZE                   = 12   // number of worker threads
 	IS_DETAILED                        = false
 	USE_PROGRESS_BAR                   = false
 	WORKER_THREAD_REPORT_PROGRESS_RATE = 10000 // report progress every N items processed

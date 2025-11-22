@@ -11,7 +11,7 @@ TEST_PCT  = 0.05
 assert abs(TRAIN_PCT + VALID_PCT + TEST_PCT - 1.0) < 1e-6
 # -------------
 
-root = Path("../../../../bible_cleaning/parallel_corpus/by_sentences")
+root = Path("../../../../bible_cleaning/parallel_corpus/by_verses")
 raw = "../../data/raw/"
 tsv_files = list(root.glob("*.tsv"))
 
@@ -31,24 +31,23 @@ def write_split(split_name, data, langA, langB):
     if len(data) == 0:
         print(f"  WARNING: {split_name} has no data, skipping...")
         return
-    
-    # Fairseq expects languages in alphabetical order
-    if langA < langB:
-        src, tgt = langA, langB
-        pairs = data
-    else:
-        src, tgt = langB, langA
-        # Swap source and target
-        pairs = [(b, a) for (a, b) in data]
+    src, tgt = langA, langB
+    pairs = data
     
     src_path = raw+f"{split_name}.{src}-{tgt}.{src}"
     tgt_path = raw+f"{split_name}.{src}-{tgt}.{tgt}"
     
     with open(src_path, "w", encoding="utf-8") as fa, \
             open(tgt_path, "w", encoding="utf-8") as fb:
+        
+            
         for s, t in pairs:
-            fa.write(f"<{src}> " + s + "\n")
-            fb.write(f"<{tgt}> " + t + "\n")
+            if langA < langB:
+                fa.write(s + "\n") # src
+                fb.write(t + "\n") # tgt
+            else:
+                fb.write(s + "\n") # tgt
+                fa.write(t + "\n") # src
     
     # Verify line counts
     with open(src_path, 'r', encoding='utf-8') as fa, \
@@ -80,8 +79,8 @@ def read_tsv(tsv_file: Path):
             return False, aligned_pairs
         
         for row in reader:
-            source = row['source_text'].strip()
-            target = row['target_text'].strip()
+            source = row['source_text'].strip().lower()
+            target = row['target_text'].strip().lower()
             
             # Skip empty pairs
             if source and target:
@@ -134,7 +133,13 @@ for tsv_file in tsv_files:
     write_split("train", train_data, langA, langB)
     write_split("valid", valid_data, langA, langB)
     write_split("test",  test_data,  langA, langB)
-
+    
+    print(f"Split: train={len(train_data)}, valid={len(valid_data)}, test={len(test_data)}")
+    
+    write_split("train", train_data, langB, langA)
+    write_split("valid", valid_data, langB, langA)
+    write_split("test",  test_data,  langB, langA)
+    
 COMPLETION_STR = '''
 :) Preprocessing complete!
 

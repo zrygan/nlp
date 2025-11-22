@@ -6,18 +6,18 @@ set -e
 # TGL → CEB
 # ============================================
 
-SRC_LANG="ceb"
+SRC_LANG="eng"
 TGT_LANG="tgl"
 REVERSE=false
 DIR_REVERSE=false
 
 TEST_DIR="../../tests/"
 if [ "$DIR_REVERSE" = true ] ; then
-    DATA_DIR="../../data-bin/unigram/${TGT_LANG}-${SRC_LANG}"
-    CHECKPOINT="../../checkpoints/${TGT_LANG}-${SRC_LANG}/checkpoint_best.pt"
+    DATA_DIR="../../evaluation/unigram-label-pivot-eng-tgl/bin"
+    CHECKPOINT="../../evaluation/unigram-label-pivot-eng-tgl/model/checkpoint_best.pt"
 else
-    DATA_DIR="../../data-bin/unigram/${SRC_LANG}-${TGT_LANG}"
-    CHECKPOINT="../../checkpoints/${SRC_LANG}-${TGT_LANG}/checkpoint_best.pt"
+    DATA_DIR="../../evaluation/unigram-label-pivot-eng-tgl/bin"
+    CHECKPOINT="../../evaluation/unigram-label-pivot-eng-tgl/model/checkpoint_best.pt"
 fi
 INPUT_FILE=$1
 OUTPUT_FILE=$2
@@ -81,5 +81,5 @@ fi
 
 echo "==============================================="
 echo "✓ Translation complete!"
-echo "✓ Output saved to: ${OUTPUT_FILE}"
+echo "✓ Output saved to: ${TEST_DIR}${OUTPUT_FILE}"
 echo "==============================================="

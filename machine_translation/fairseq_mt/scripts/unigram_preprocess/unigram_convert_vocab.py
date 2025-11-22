@@ -3,11 +3,8 @@ import os
 from pathlib import Path 
 
 def load_user_defined_symbols(path="./special_tokens.txt"):
-    """Load user-defined symbols as a comma-separated string."""
-    p = Path(path)
-    with open(p, "r", encoding="utf-8") as f:
-        symbols = [line.strip() for line in f if line.strip()]
-    return ",".join(symbols)
+    with open(path, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip()]
 
 def train_spm():
     user_symbols = load_user_defined_symbols("./special_tokens.txt")
@@ -15,12 +12,16 @@ def train_spm():
     os.chdir("../../data/unigram/")
 
     spm.SentencePieceTrainer.train( # type: ignore
-        input="all_raw_languages_training_data.txt",
+        input="./all_train.txt",
         model_prefix="spm_unigram",
-        vocab_size=4000,
+        vocab_size=32000,
         character_coverage=1.0,
         model_type="unigram",
-        user_defined_symbols=user_symbols
+        treat_whitespace_as_suffix=False,
+        normalization_rule_name="nmt_nfkc",
+        input_sentence_size=8000000,
+        user_defined_symbols=user_symbols,
+        shuffle_input_sentence=True
     )
     
     print(":) SentencePiece training complete!")

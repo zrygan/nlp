@@ -8,6 +8,13 @@ DESTDIR = "../../data-bin/"
 
 PAIR_REGEX = re.compile(r"(train|valid|test)\.([a-z]+)-([a-z]+)\.spm\.[a-z]+")
 
+def load_user_defined_symbols(path="./special_tokens.txt"):
+    """Load user-defined symbols as a comma-separated string."""
+    p = Path(path)
+    with open(p, "r", encoding="utf-8") as f:
+        symbols = [line.strip() for line in f if line.strip()]
+    return ",".join(symbols)
+
 def find_unique_pairs():
     """Scan data/ folder for all valid parallel corpus pairs."""
     pairs = set()
@@ -43,7 +50,8 @@ def run_fairseq_preprocess(args):
         "fairseq-preprocess",
         "--joined-dictionary",
         "--workers", "8",
-        "--destdir", DESTDIR
+        "--destdir", DESTDIR,
+        "--user_defined_symbols", f"${load_user_defined_symbols()}",
     ]
 
     full_cmd = base_cmd + args

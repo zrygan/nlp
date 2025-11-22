@@ -12,5 +12,15 @@
 # --testpref data/raw/test.${SRC_LANG}-${TGT_LANG} \
 # --joined-dictionary \
 # --workers 8
+cd parallel_corpus_preprocess
+uv run --active python training_data_creation.py
 
-uv run --active python ./parallel_corpus_preprocess/training_data_creation.py
+cd ..
+cd unigram_preprocess
+
+./unigram_conversion.bash
+
+cd ..
+cd multilingual
+
+uv run --active python multi.py
