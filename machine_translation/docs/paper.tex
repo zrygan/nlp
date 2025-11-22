@@ -6,7 +6,7 @@
 \usepackage[edges]{forest}
 \usepackage{xcolor}
 
-\graphicspath{{../}}
+\graphicspath{{../}} % makes root = language_similarity/
 \newcommand{\todo}{\textcolor{blue}{--- TODO ---}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -15,7 +15,7 @@
 %%%%%%%%%% and make its font color blue
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{Machine Translation for Low-Resource Philippine Languages}
+\title{Machine Translation for Low-Resource Philippine Languages: A Cebuano-Tagalog Case Study}
 \author{Clarence Ang, Clive Ang, Roan Campo, Zhean Ganituen}
 \date{\today}
 
@@ -28,9 +28,9 @@
 \input{chapters/4-experimental-setup}
 \input{chapters/5-results-and-analysis}
 \input{chapters/6-conclusion}
-\input{chapters/7-declaration-of-ai}
+\include{chapters/7-declaration-of-ai}
 
-\bibliography{refs}
-\bibliographystyle{alpha}
+% \bibliography{refs}
+% \bibliographystyle{alpha}
 
 \end{document}

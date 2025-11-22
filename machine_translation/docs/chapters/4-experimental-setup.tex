@@ -1,12 +1,12 @@
 \section{Experimental Setup and Evaluation}
 
-\subsection{Experimental Design}
+This section describes the experimental design, evaluation metrics, and testing procedures used to assess our machine translation models.
 
-We conducted experiments on two translation strategies: direct Cebuano-Tagalog translation and pivot translation through English. Each experiment used the same preprocessing pipeline, model architecture, and training configuration to ensure fair comparison. The primary variable across experiments was the translation path and the availability of training data.
+\subsection{Experimental Design}
 
 \subsubsection{Vocabulary Size Experiments}
 
-To investigate the impact of vocabulary size on translation quality, we trained models with different SentencePiece vocabulary configurations. We experimented with vocabulary sizes of 1,000 and 4,000 subword units. The smaller vocabulary (1k) tests whether aggressive subword compression can capture essential morphological patterns with minimal vocabulary, while the larger vocabulary (4k) provides more granular subword representations that may better preserve semantic distinctions.
+To analyze the impact of vocabulary size on translation quality, we trained models with different SentencePiece vocabulary configurations. We experimented with vocabulary sizes of 1,000 and 4,000 subword units. The smaller vocabulary (1k) tests whether aggressive subword compression can capture essential morphological patterns with minimal vocabulary, while the larger vocabulary (4k) provides more granular subword representations that may better preserve semantic distinctions.
 
 \subsubsection{Tokenization Strategy Comparison}
 
@@ -21,50 +21,27 @@ The primary evaluation metric is BLEU4 (Bilingual Evaluation Understudy with 4-g
 
 BLEU4 considers unigram, bigram, trigram, and 4-gram matches, providing a balanced assessment of both lexical choice and phrase-level fluency. The metric also includes a brevity penalty (BP) to discourage overly short translations. While BLEU has known limitations—particularly insensitivity to semantic equivalence and bias toward literal translations—it remains the standard for automatic MT evaluation and enables comparison with prior work on low-resource translation.
 
-\subsubsection{Additional Metrics}
-
-The Fairseq evaluation pipeline also reports precision scores for individual n-gram levels (1-gram through 4-gram), system length versus reference length, and the brevity penalty factor. These component metrics provide diagnostic information about model behavior. For instance, high unigram precision with low 4-gram precision suggests the model selects correct words but struggles with fluency and word order.
-
 \subsection{Evaluation Procedure}
 
 \subsubsection{Test Set Generation}
 
-The test set consists of held-out Bible verses that were separated during the initial train/validation/test split (90\%/5\%/5\%). This ensures no overlap between training and evaluation data. The test set contains approximately 1,550 aligned verse pairs for Cebuano-Tagalog, representing diverse grammatical constructions and vocabulary.
+The test set consists of held-out Bible verses that were separated during the initial train/validation/test split (80\%/10\%/10\%). This ensures no overlap between training and evaluation data. The test set contains approximately 1,550 aligned verse pairs for Cebuano-Tagalog.
 \\
 
-For pivot translation experiments, we evaluate each stage independently (Cebuano→English and English→Tagalog) and compute the end-to-end translation quality by pipelining the models. The intermediate English translations are saved for inspection and error analysis.
+For pivot translations, we evaluate each stage independently (Cebuano→English and English→Tagalog) and compute the end-to-end translation quality by pipelining the models. The intermediate English translations are saved for inspection and error analysis.
 
 \subsubsection{Beam Search Decoding}
 
-At inference time, we use beam search with a beam width of 5 to generate translations. Beam search maintains multiple hypotheses at each decoding step, selecting the 5 most probable continuations. This improves translation quality compared to greedy decoding, which selects only the single most probable token at each step. The beam search balances exploration of alternative translations against computational cost.
-\\
-
-We set maximum target length to $1.2 \times \text{source\_length} + 10$ tokens to accommodate reasonable length variation between languages while preventing excessively long outputs. Subword tokens are automatically removed during evaluation (the \texttt{--remove-bpe} flag) to compute BLEU on full words rather than subword units.
+At inference time, we use beam search with a beam width of 5 to generate translations. Beam search maintains multiple hypotheses at each decoding step, selecting the 5 most probable continuations. This improves translation quality compared to greedy decoding, which selects only the single most probable token at each step.
 
 \subsection{Hardware and Software Environment}
 
-All experiments were conducted on consumer-grade hardware due to the academic setting and budget constraints. The training and evaluation used the following environment:
-\\
-
-\textbf{Framework:} Fairseq 0.12.2, PyTorch 2.0.1, Python 3.11\\
-\textbf{Tokenization:} SentencePiece 0.1.99\\
-\textbf{Package Manager:} uv for fast dependency resolution and environment management\\
-\textbf{Precision:} Mixed precision training (FP16) to reduce memory requirements\\
-\textbf{Compute:} Training time ranged from 10-15 minutes per model depending on corpus size and vocabulary configuration
-\\
-
-The relatively modest computational requirements stem from our small corpus size and lightweight model architecture. While this limits the absolute performance ceiling, it demonstrates that useful low-resource MT systems can be developed without access to large-scale computational infrastructure.
+All experiments were conducted on consumer-grade hardware using Fairseq 0.12.2, PyTorch 2.0.1, Python 3.11, and SentencePiece 0.1.99. The training itself used mixed precision (FP16) and took 10-15 minutes per model, demonstrating that low-resource MT systems can be developed without large-scale computational infrastructure.
 
 \subsection{Gold Standard and Reference Translations}
 
-Our gold standard references are the human-translated Bible verses from the original parallel corpus. These translations were produced by professional translators and religious scholars, ensuring high quality and accuracy. The religious domain provides consistent terminology and natural language across both source and target texts.
-\\
-
-While Bible text represents a specific register and domain, it offers several advantages for evaluation: (1) complete coverage of grammatical structures, (2) consistent translation quality, (3) availability across multiple Philippine languages, and (4) natural sentence-level alignment. Future work should evaluate on additional domains to assess generalization beyond religious text.
+Our gold standard references are the human-translated Bible verses from the original parallel corpus. These translations were produced by professional translators and religious scholars.
 
 \subsection{Reproducibility}
 
-All experiments are fully reproducible through the provided scripts in the \texttt{fairseq\_mt/scripts} directory. The preprocessing, training, and evaluation pipelines are documented in bash scripts with clear parameters. The random seed is fixed at 42 throughout all stages (data splitting, model initialization, and training) to ensure deterministic results.
-\\
-
-Model checkpoints, vocabularies, and evaluation outputs are preserved in the \texttt{fairseq\_mt/evaluation} directory, organized by experiment name (e.g., \texttt{unigram-ceb-tgl-4k}). This structure facilitates comparison across different configurations and enables external validation of our results.
+All experiments are fully reproducible through the provided scripts in the \texttt{fairseq\_mt/scripts} directory with a fixed random seed 42. Model checkpoints and evaluation outputs are preserved in the \texttt{fairseq\_mt/evaluation} directory, organized by experiment name.
