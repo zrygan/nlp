@@ -1,0 +1,85 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+
+% Remove the "review" option to generate the final version.
+\usepackage{ACL2023}
+
+\usepackage{newtxtext,newtxmath}
+\usepackage{latexsym}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+
+% Additional packages
+
+% Define \blfootnote command for footnote without marker
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\title{English Nativization Algorithm for Filipino Loan Words}
+\setlength\titlebox{10cm}
+\author{
+  Clarence Ang \\
+    De La Salle University \\
+    \texttt{clarence\_ang@dlsu.edu.ph} \\\AND%
+  Clive Ang \\
+    De La Salle University \\
+    \texttt{clive\_ang@dlsu.edu.ph} \\\AND%
+  Roan Campo \\
+    De La Salle University \\
+    \texttt{roan\_campo@dlsu.edu.ph} \\\AND%
+  Zhean Ganituen \\
+    De La Salle University \\
+    \texttt{zhean\_robby\_ganituen@dlsu.edu.ph} \\\AND%
+  Nathaniel Oco \\
+    De La Salle University \\
+    \texttt{nathaniel.oco@dlsu.edu.ph} \\
+}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We present a nativization algorithm for Filipino loan words. The method is evaluated on three gold standard datasets with ... results.
+\end{abstract}
+
+\input{chapters/introduction.tex}
+\input{chapters/algorithm.tex}
+\input{chapters/experiments.tex}
+\input{chapters/results.tex}
+\input{chapters/conclusion.tex}
+
+
+\section*{Limitations}
+ACL 2023 requires all submissions to have a section titled ``Limitations'', for discussing the limitations of the paper as a complement to the discussion of strengths in the main text. This section should occur after the conclusion, but before the references. It will not count towards the page limit.
+The discussion of limitations is mandatory. Papers without a limitation section will be desk-rejected without review.
+
+While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. 
+Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative.
+In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
+
+\section*{Ethics Statement}
+Scientific work published at ACL 2023 must comply with the ACL Ethics Policy.\footnote{\url{https://www.aclweb.org/portal/content/acl-code-ethics}} We encourage all authors to include an explicit ethics statement on the broader impact of the work, or other ethical considerations after the conclusion but before the references. The ethics statement will not count toward the page limit (8 pages for long, 4 pages for short papers).
+
+\section*{Acknowledgments}
+This work represents a preliminary work as part of an ongoing undergraduate thesis research project by Zhean Ganituen and others, advised by Nathaniel Oco, on computing confusible drug names in the Philippine setting.
+
+% Entries for the entire Anthology, followed by custom entries
+\bibliography{anthology,custom}
+\bibliographystyle{acl_natbib}
+
+% \appendix
+
+% \section{Example Appendix}
+% \label{sec:appendix}
+
+% This is a section in the appendix.
+
+\end{document}
