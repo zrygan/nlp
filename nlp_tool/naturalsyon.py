@@ -77,11 +77,11 @@ class FilipinoCFGParser:
         for pattern, replacement in self.phoneme_rules:
             result = result.replace(pattern, replacement)
         
-        # if y is after x, change to i (e.g., acyclovir -> asayklobir)
-        result = re.sub(r'(?<=[x])y', 'i', result)
-        
         # Only if starts with x, change to s
         result = re.sub(r'^x', 's', result)
+        
+        # if y is after x, change to i (e.g., acyclovir -> asayklobir)
+        result = re.sub(r'(?<=[x])y', 'i', result)
         
         # Every other case, replace with ks
         result = re.sub(r'x', 'ks', result)
@@ -101,11 +101,16 @@ class FilipinoCFGParser:
         # Any ch -> k instead
         result = result.replace('kh', 'k')
         
+        
         # Special handling for 'sy' -> 'sayk' (e.g., cyclosporine -> siklosporine)
         result = re.sub(r'(?i)y', 'ay', result)
         
+        
         # switch y and i if y does not preceed with a
         result = re.sub(r'(?<!a)y', 'i', result)
+        
+        # Account for g special case
+        result = re.sub(r'g([eiy])(?![sck])', r'dy\1', result)
         
         # Handle anything ending with -ate
         result = re.sub(r'ate$', 'eyt', result)
@@ -124,7 +129,7 @@ class FilipinoCFGParser:
         
         # Anything with thion should be tayon
         
-        result = re.sub(r'thion', 'tayon', result)
+        result = re.sub(r'thi([ao])', r'tay\1', result)
         
         # Handle th specifically
         
@@ -141,9 +146,13 @@ class FilipinoCFGParser:
         
         result = re.sub(r'o([aeiou])(?![aeiou])', r'oy\1', result)
         
-        # Anything with 'io' has a y in middle
+        # Anything with 'i[vowel]' has a y in middle
         
         result = re.sub(r'i([aeiou])', r'iy\1', result)
+        
+        # Anything with 'u[vowel]' has a w in middle
+        
+        result = re.sub(r'u([aeiou])', r'uw\1', result)
         
         # Anything with 'eu' should be u in middle
         
