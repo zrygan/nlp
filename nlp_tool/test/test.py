@@ -1,5 +1,7 @@
 import os, sys, csv
 
+DATA_FILE_NAME = "data.csv"
+
 nlp_tool = os.path.join('..')
 sys.path.insert(0, nlp_tool)
 
@@ -7,7 +9,7 @@ from naturalsyon import FilipinoCFGParser
 
 parser = FilipinoCFGParser()
 
-with open('data.csv', 'r') as f:
+with open(DATA_FILE_NAME, 'r') as f:
     reader = csv.reader(f)
     out = open('res.txt', 'w')
     out_csv = open('res.csv', 'w')
