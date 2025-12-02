@@ -1,4 +1,4 @@
-filename = "data_2.csv"
+filename = "data_eng.csv"
 import csv 
 
 def clean(entry: str):

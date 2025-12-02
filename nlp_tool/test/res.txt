@@ -1,266 +1,202 @@
-noklot               -> noklot               ? noklot               : True
-ondavell             -> ondavel              ? ondabel              : False
-ceegy                -> seedyi               ? segay                : False
-katinko oil          -> katinko oyl          ? katinko oyil         : False
-new zyrine           -> nyu syrin            ? new sayrin           : False
-atorzet 40           -> atorset 40           ? atorset 40           : True
-votrient             -> botriyent            ? botriyent            : True
-abilify              -> abilofay             ? abilifay             : False
-maricoxia-120        -> marikoksiya-120      ? marikoksiya-120      : True
-pamidol 370          -> pamidol 370          ? pamidol 370          : True
-seiletam             -> seeletam             ? seiletam             : False
-clopitor             -> klopitor             ? klopitor             : True
-ecsapro              -> eksapro              ? eksapro              : True
-chlorsapheine        -> klorsapin            ? khlorsafeen          : False
-vitaplus             -> baytaplus            ? bitaplus             : False
-azithcor             -> asitkor              ? asitkor              : True
-iron                 -> ayyorn               ? iron                 : False
-femzol               -> femsol               ? femsol               : True
-cortef-250           -> kortef-250           ? kortef-250           : True
-amphot               -> amfot                ? amfot                : True
-asbunyl plus         -> asbunil plus         ? asbunil plus         : True
-focid                -> fosid                ? fosid                : True
-cerin-250            -> serin-250            ? serin-250            : True
-aciherpin            -> asiherpin            ? asiherpin            : True
-ximebac              -> simebak              ? simebak              : True
-rosudaise 20         -> rosudays 20          ? rosudaise 20         : False
-sitagli-100          -> sitagli-100          ? sitagli-10           : False
-xaliptine            -> saliptin             ? saliptin             : True
-zeal                 -> seal                 ? seal                 : True
-evacaine             -> evakayn              ? ebakain              : False
-zetifen              -> setifen              ? setifen              : True
-glimesyn             -> glimesin             ? glimesayn            : False
-forvit-plus          -> forbit-plus          ? forbit-plus          : True
-janumet              -> dyanumet             ? dayanumet            : False
-sanfur-500           -> sanfur-500           ? sanfur-50            : False
-shield+              -> syild                ? shiyeld+             : False
-leuzotex             -> leusoteks            ? lusoteks             : False
-mycofena dr          -> mycofena dee ar      ? maykofena dr         : False
-duomed               -> duomed               ? duomed               : True
-flazomel             -> flasomel             ? flasomel             : True
-diurix-50            -> duiriks-50           ? diyuriks-50          : False
-bactigard            -> baktigard            ? baktigard            : True
-ondenox              -> ondenoks             ? ondenoks             : True
-fulcef               -> fulsef               ? fulsef               : True
-nasocure             -> nasokyur             ? nasokur              : False
-broncho rub-citrus   -> bronko rab-sitrus    ? bronkho rub-sitrus   : False
-amlospeed 5          -> amlospid 5           ? amlosped 5           : False
-atorfibrate          -> atorfibreyt          ? atorfibreyt          : True
-actilyse             -> aktilays             ? aktilis              : False
-kidneyfix            -> kidnifix             ? kidneayfiks          : False
-cinacred 60          -> sinakred 60          ? sinakred 60          : True
-rivazin              -> ribasin              ? ribasin              : True
-amlopex              -> amlopex              ? amlopeks             : False
-nivicof              -> nibicof              ? nibikof              : False
-l-asparaginase       -> el-asperadyinays     ? l-asparaginas        : False
-depen-c              -> depen-si             ? depen-k              : False
-gentamite            -> gentamayt            ? gentamit             : False
-mucovin              -> mukobin              ? mukobin              : True
-dopezil              -> dopesil              ? dopesil              : True
-ivabrox              -> ibabronks            ? ibabroks             : False
-spinlok              -> spinlok              ? spinlok              : True
-fern women           -> fern wimen           ? fern women           : False
-golyptin             -> golyptin             ? golayptin            : False
-melophil             -> melofil              ? melofil              : True
-osavir               -> osabir               ? osabir               : True
-mulfesaph            -> mulfesaf             ? mulfesaf             : True
-maxolin              -> maksolin             ? maksolin             : True
-janumet xr           -> janumet eks ar       ? dayanumet ksr        : False
-infiobiotic          -> infiobayotik         ? infiyobiyotik        : False
-amoxsaph-125         -> amoksaf-125          ? amoksaf-125          : True
-aropotin             -> aropotin             ? aropotin             : True
-glumet-xr            -> glumet eks ar        ? glumet-ksr           : False
-brizol               -> brisol               ? brisol               : True
-ibanox               -> ibanoks              ? ibanoks              : True
-carbumox             -> karbumoks            ? karbumoks            : True
-epribenz-50          -> epribens-60          ? epribens-50          : False
-telarb               -> telarb               ? telarb               : True
-dayzinc              -> daysink              ? daisink              : False
-rezotam              -> resotam              ? resotam              : True
-hepuri               -> hepuri               ? hepuri               : True
-tussis-100           -> tusis-100            ? tusis-10             : False
-sitavia 50           -> sitabya 50           ? sitabiya 50          : False
-mucofalk             -> mukofalk             ? mukofalk             : True
-medvit-ob            -> medbit-o bee         ? medbit-ob            : False
-asmagone             -> asmagon              ? asmagon              : True
-ometift              -> ometift              ? ometift              : True
-myfetil              -> mayfetil             ? mayfetil             : True
-glimep               -> glimep               ? glimep               : True
-medicross            -> medikros             ? medikros             : True
-actimax              -> aktimaks             ? aktimaks             : True
-britamox             -> britamoks            ? britamoks            : True
-cycamil              -> saykamil             ? saykamil             : True
-calaman-cee          -> kalaman-si           ? kalaman-se           : False
-zestril              -> sestril              ? sestril              : True
-povide               -> provayd              ? pobayd               : False
-loviscol             -> lobiskol             ? lobiskol             : True
-sitaform 1/50        -> sitaform 1/50        ? sitaform 1/50        : True
-prostakon            -> prostakon            ? prostakon            : True
-paxwind 260          -> pakswind 260         ? pakswind 260         : True
-hyzaar               -> hisar                ? hisar                : True
-elpitaz              -> elpitas              ? elpitas              : True
-quetianov 25         -> kuwitiyanob 25       ? kwetiyanob 25        : False
-proxilev             -> proksilev            ? proksileb            : False
-vexbos 80            -> beksbos 80           ? beksbos 80           : True
-amika                -> amika                ? amika                : True
-zymet                -> saymet               ? saymet               : True
-sirturo              -> sirturo              ? sirturo              : True
-revicon xtr          -> rebikon eks tee ar   ? rebikon kstr         : False
-ferroplex ob         -> feropleks o bi       ? feropleks ob         : False
-diltimax             -> diltimaks            ? diltimaks            : True
-azepril              -> asepril              ? asepril              : True
-iressa               -> iresa                ? iresa                : True
-dilzep 90            -> dilsep 90            ? dilsep 90            : True
-tramafar             -> tramafar             ? tramafar             : True
-ziproc-100           -> siprok-100           ? siprok-10            : False
-prevaclav            -> prevaclav            ? prebaklab            : False
-choltrol             -> koltrol              ? kholtrol             : False
-azisaph-d            -> asisaf-dee           ? asisaf-d             : False
-klaz                 -> klas                 ? klas                 : True
-nystor               -> naystor              ? nistor               : False
-gastorid             -> gastorid             ? gastorid             : True
-enoxden              -> enoksden             ? enoksden             : True
-axerich              -> akserits             ? akserikh             : False
-suprehem             -> suprehem             ? suprehem             : True
-gotham               -> gotam                ? gotam                : True
-axemol iv            -> aksemol ay vee       ? aksemol ib           : False
-oxa-health 100       -> oksa-helt 100        ? oksa-healt 10        : False
-infacare             -> infaker              ? infakar              : False
-losartan potassium   -> losartan potasiyum   ? losartan potasiyum   : True
-valtrex              -> baltreks             ? baltreks             : True
-sinutab cold         -> saynutab kold        ? sinutab kold         : False
-fonkonat             -> fonkonat             ? fonkonat             : True
-aminotrene           -> aminotrin            ? aminotren            : False
-goclitax             -> goklitaks            ? goklitaks            : True
-atorpine             -> atorpin              ? atorpin              : True
-neosan               -> niyosan              ? neosan               : False
-aimafix              -> aymafiks             ? aimafiks             : False
-lupimet              -> lupimet              ? lupimet              : True
-atorvex-10           -> atirveks-10          ? atorbeks-10          : False
-medgivit             -> medyibit             ? medgibit             : False
-nutravit c           -> nutrabit si          ? nutrabit k           : False
-tazonorth            -> tasonort             ? tasonort             : True
-ambroflam            -> ambroflam            ? ambroflam            : True
-ketoguard            -> kitogard             ? ketoguard            : False
-ascorsaph            -> askorsaf             ? askorsaf             : True
-valpros              -> balpros              ? balpros              : True
-dalactin             -> dalaktin             ? dalaktin             : True
-nervica 25           -> nerbika 25           ? nerbika 25           : True
-prolix               -> proliks              ? proliks              : True
-clomate              -> klomeyt              ? klomeyt              : True
-nervesaph-forte      -> nerbesaf-forte       ? nerbesaf-fort        : False
-osteofree            -> ostiyofri            ? osteofre             : False
-calmol 125           -> kalmol 125           ? kalmol 125           : True
-augmentin-ds         -> ogmentin-dee es      ? augmentin-ds         : False
-muskelax             -> muskelaks            ? muskelaks            : True
-blitidor             -> blitidor             ? blitidor             : True
-khrizvix             -> krisbiks             ? khrisbiks            : False
-amlog plus           -> amlog plas           ? amlog plus           : False
-rivaxored            -> ribaksored           ? ribaksored           : True
-appeczin plus        -> apeksin plus         ? apeksin plus         : True
-ipravent             -> iprabent             ? iprabent             : True
-cort                 -> kortef-250           ? kort                 : False
-zynaphar             -> sinafar              ? saynafar             : False
-neurobion forte 5000 -> niyurobiyon forte 50000 ? nurobiyon forte 500  : False
-rixo                 -> rikso                ? rikso                : True
-saphcorzee-od        -> safkorsi-oh dee      ? safkorse-od          : False
-nervesaph-forte      -> nerbsaf-forte        ? nerbesaf-fort        : False
-golden cup balm      -> golden kap balm      ? golden kup balm      : False
-cefudyne             -> sefudayn             ? sefudayn             : True
-torfil 2.5           -> torfil 2             ? torfil 2.5           : False
-clotisprin           -> klotisprin           ? klotisprin           : True
-fenetor              -> fenetor              ? fenetor              : True
-orapen-g             -> orapen-dyi           ? orapen-g             : False
-mistel               -> mistel               ? mistel               : True
-asconvitazin         -> asconbitasin         ? askonbitasin         : False
-appetason            -> apetason             ? apetason             : True
-gorondaz             -> gorondas             ? gorondas             : True
-isoking              -> aysoking             ? isoking              : False
-tricor               -> traykor              ? trikor               : False
-tropin               -> tropin               ? tropin               : True
-sulfakrem            -> sulfrakrem           ? sulfakrem            : False
-dextro               -> dekstro              ? dekstro              : True
-dormazine            -> dormasin             ? dormasin             : True
-dr. s. wong's bioderm -> doktor es wong's bayoderm ? dr. s. wong's biyoderm : False
-folcacium            -> folkasiyum           ? folkasiyum           : True
-lipid-aid            -> lipid-ayd            ? lipid-aid            : False
-emizole              -> emisol               ? emisol               : True
-derpson              -> deprson              ? derson               : False
-exalac               -> eksalak              ? eksalak              : True
-loswind              -> loswind              ? loswind              : True
-norepors             -> norepors             ? norepors             : True
-clavmetz             -> klabmets             ? klabmets             : True
-esoget               -> esoget               ? esoget               : True
-pemex                -> pemeks               ? pemeks               : True
-neo-c                -> neo-si               ? neo-k                : False
-apo-tin              -> apo-tin              ? apo-tin              : True
-cleocin              -> kliyosin             ? kleosin              : False
-ketocorex            -> ketokoreks           ? ketokoreks           : True
-nicopro              -> nikopro              ? nikopro              : True
-nutrizinc            -> nitrusink            ? nutrisink            : False
-apliva               -> apliba               ? apliba               : True
-trixophin            -> triksopin            ? triksofin            : False
-khrizcopan 20        -> kriskopan 20         ? khriskopan 20        : False
-salmed               -> salmed               ? salmed               : True
-clanza               -> klansa               ? klansa               : True
-ferricore            -> ferikor              ? ferikor              : True
-corsin-600           -> korsin-600           ? korsin-60            : False
-xet 20               -> set 20               ? set 20               : True
-relzin               -> relsin               ? relsin               : True
-comox                -> comoks               ? komoks               : False
-quicker              -> kuwiker              ? kwiker               : False
-zyvax                -> sayvaks              ? saybaks              : False
-stravas              -> strabas              ? strabas              : True
-fondux               -> fonduks              ? fonduks              : True
-reducel              -> redusel              ? redusel              : True
-bronix               -> broniks              ? broniks              : True
-hiroxib-100          -> hayroksib-100        ? hiroksib-10          : False
-euthyrox             -> yutiroks             ? utayroks             : False
-avazart              -> abasart              ? abasart              : True
-rosen                -> rosen                ? rosen                : True
-oelanzapine          -> owelensapin          ? oyelansapin          : False
-vasatraz             -> vasatras             ? basatras             : False
-coplavix             -> coplaviks            ? koplabiks            : False
-motillex             -> motilleks            ? motileks             : False
-funginil-k           -> fungginil-key        ? funginil-k           : False
-misartan 40          -> misartan 40          ? misartan 40          : True
-alabsar              -> alabsar              ? alabsar              : True
-ventobrox            -> bentobroks           ? bentobroks           : True
-norvasc              -> norbask              ? norbask              : True
-glysiptin            -> glysiptin            ? glisiptin            : False
-ocubidex             -> okubideks            ? okubideks            : True
-c-zin                -> si-sin               ? k-sin                : False
-ferrogen             -> ferodyen             ? ferogen              : False
-otoflox              -> otofloks             ? otofloks             : True
-paclimed-30          -> paklimed-30          ? paklimed-30          : True
-dermobetasol         -> dermobetasol         ? dermobetasol         : True
-atorschwartz         -> atorswarts           ? atorskhwarts         : False
-alketo               -> alketo               ? alketo               : True
-lenagen              -> lenagen              ? lenagen              : True
-viamitus             -> biyamitus            ? biyamitus            : True
-nepanac              -> nepanak              ? nepanak              : True
-praxid               -> praksid              ? praksid              : True
-ketocass             -> praksid              ? ketokas              : False
-rocuroniusaph        -> ketokas              ? rokuroniyusaf        : False
-betamox              -> rokuroniyusaf        ? betamoks             : False
-mucosform            -> betamoks             ? mukosform            : False
-amlospeed 10         -> mucosform            ? amlosped 10          : False
-enset-4              -> amlospid 10          ? enset-4              : False
-orazinc plus         -> enset-4              ? orasink plus         : False
-cardiosim            -> orasink plas         ? kardiyosim           : False
-neuracet             -> niyuraset            ? nuraset              : False
-paclizel             -> paklisel             ? paklisel             : True
-rylin                -> raylin               ? rilin                : False
-melfor               -> melfor               ? melfor               : True
-mometarex            -> mometareks           ? mometareks           : True
-saphmetoc            -> sefametok            ? safmetok             : False
-cefopsiv             -> cefopsib             ? sefosib              : False
-zelpis-100           -> selpis-100           ? selpis-10            : False
-versant-xr           -> bersant-eks ar       ? bersant-ksr          : False
-cefrimed             -> sefrimed             ? sefrimed             : True
-alerid               -> alerid               ? alerid               : True
-respiz               -> respiz               ? respis               : False
-d-rize               -> dee-rays             ? d-ris                : False
-Trues:        144
-Falses:        119
-Accuracy:   54.75%
+acetaminophen        -> asetaminofen         ? asetaminofen         : True
+acetylcysteine       -> asetilsisteen        ? asetilsisteen        : True
+acyclovir            -> asayklobir           ? asayklobir           : True
+albendazole          -> albendasol           ? albendasol           : True
+albuterol            -> albiyuterol          ? albuterol            : False
+alendronate          -> alendroneyt          ? alendroneyt          : True
+alprazolam           -> alprasolam           ? alprasolam           : True
+amikacin             -> amikasin             ? amikasin             : True
+amlodipine           -> amlodipin            ? amlodipin            : True
+amoxicillin          -> amoksisilin          ? amoksisilin          : True
+apixaban             -> apiksaban            ? apiksaban            : True
+aripiprazole         -> aripiprasol          ? aripiprasol          : True
+aspirin              -> aspirin              ? aspirin              : True
+atorvastatin         -> atorbastatin         ? atorbastatin         : True
+azithromycin         -> asitromaysin         ? asitromaysin         : True
+aztreonam            -> astreonam            ? astreonam            : True
+bacitracin           -> basitrasin           ? basitrasin           : True
+baloxavir            -> baloksabir           ? baloksabir           : True
+beclomethasone       -> beklometasown        ? beklometason         : False
+betamethasone        -> betametasown         ? betametason          : False
+bisacodyl            -> bisakodil            ? bisakodil            : True
+brompheniramine      -> bromfeniramin        ? bromfeniramin        : True
+budesonide           -> budesonayd           ? budesonayd           : True
+bupropion            -> bupropiyon           ? bupropiyon           : True
+buspirone            -> buspirown            ? buspiron             : False
+calcium carbonate    -> kalsiyum karboneyt   ? kalsiyum karboneyt   : True
+captopril            -> kaptopril            ? kaptopril            : True
+carbamazepine        -> karbamasepine        ? karbamasepin         : False
+carbimazole          -> karbimasol           ? karbimasol           : True
+carvedilol           -> karbedilol           ? karbedilol           : True
+celecoxib            -> selekoksib           ? selekoksib           : True
+cephalexin           -> sefaleksin           ? sefaleksin           : True
+cetirizine           -> setirisin            ? setirisin            : True
+chloramphenicol      -> kloramfenikol        ? khloramfenikol       : False
+chloroquine          -> klorokwin            ? khlorokwin           : False
+chlorpromazine       -> klorpromazin         ? khlorpromasin        : False
+ciprofloxacin        -> siprofloksasin       ? siprofloksasin       : True
+clindamycin          -> klindamaysin         ? klindamaysin         : True
+clobetasol           -> klobetasol           ? klobetasol           : True
+clonazepam           -> klonasepam           ? klonasepam           : True
+clopidogrel          -> klopidogrel          ? klopidogrel          : True
+clotrimazole         -> klotrimasol          ? klotrimasol          : True
+clozapine            -> klozapin             ? klosapin             : False
+codeine              -> kodeen               ? kodeen               : True
+cyanocobalamin       -> sayanokobalamin      ? sayanokobalamin      : True
+cyclosporine         -> sayklosporin         ? sayklosporin         : True
+cyproheptadine       -> sayproheptadin       ? sayproheptadin       : True
+daptomycin           -> daptomaysin          ? daptomaysin          : True
+desloratadine        -> desloratadin         ? desloratadin         : True
+dexamethasone        -> deksametasown        ? deksametason         : False
+dextromethorphan     -> dekstrometorfan      ? dekstrometorfan      : True
+diazepam             -> diyasepam            ? diyasepam            : True
+diclofenac           -> dayklofenak          ? diklofenak           : False
+dimenhydrinate       -> dimenhaydrineyt      ? dimenhaydrineyt      : True
+diphenhydramine      -> dayfenhaydramin      ? difenhaydramin       : False
+dolutegravir         -> dolutegrabir         ? dolutegrabir         : True
+domperidone          -> domperidon           ? domperidon           : True
+doxycycline          -> doksisayklin               ? doksisayklin         : False
+duloxetine           -> duloksetin           ? duloksetin           : True
+efavirenz            -> efabirens            ? efabirens            : False
+enalapril            -> enalapril            ? enalapril            : True
+ertapenem            -> ertapenem            ? ertapenem            : True
+erythromycin         -> eritromaysin         ? eraytromaysin        : False
+escitalopram         -> eskitalopram         ? esitalopram          : False
+esomeprazole         -> esomeprasol          ? esomeprasol          : True
+ethambutol           -> etambutol            ? etambutol            : True
+famciclovir          -> famsiklobir          ? famsiklobir          : True
+fentanyl             -> fentanil             ? fentanil             : True
+ferrous sulfate      -> ferus sulfeyt        ? feroyus sulfeyt      : False
+fexofenadine         -> feksofenadin         ? feksofenadin         : True
+finasteride          -> finasterayd          ? finasterayd          : True
+fluconazole          -> flukonasol           ? flukonasol           : True
+fluoxetine           -> fluoksetin           ? fluoksetin           : True
+fluticasone          -> flutikasown          ? flutikason           : False
+folic acid           -> folik asid           ? folik asid           : True
+formoterol           -> formoterol           ? formoterol           : True
+furosemide           -> furosemayd           ? furosemayd           : True
+gabapentin           -> gabapentin           ? gabapentin           : True
+gentamicin           -> gentamaysin          ? gentamisin           : False
+glimepiride          -> glaymepirayd         ? glimepirayd          : False
+guaifenesin          -> gwayfenesin          ? guaifenesin          : False
+haloperidol          -> haloperidol          ? haloperidol          : True
+heparin              -> heparin              ? heparin              : True
+hydrochlorothiazide  -> haydroklorotayasayd  ? haydrokhlorotiyasayd : False
+hydrocortisone       -> haydrokortisown      ? haydrokortison       : False
+hydroxychloroquine   -> haydrosayklorokwin   ? haydroksikhlorokwin  : False
+hydroxyzine          -> haydroksisin         ? haydroksisin         : True
+ibuprofen            -> aybuprofen           ? ibuprofen            : False
+imipenem             -> imipenem             ? imipenem             : True
+insulin              -> insulin              ? insulin              : True
+interferon           -> interferon           ? interferon           : True
+ipratropium          -> ipratropiyum         ? ipratropiyum         : True
+isoniazid            -> aysoneyasid          ? isoniyasid           : False
+ivermectin           -> aybermektin          ? ibermektin           : False
+ketoconazole         -> ketokonasol          ? ketokonasol          : True
+ketorolac            -> ketorolak            ? ketorolak            : True
+lamivudine           -> lamibudin            ? lamibudin            : True
+lamotrigine          -> lamotridyin          ? lamotrigin           : False
+levamisole           -> lebamisol            ? lebamisol            : True
+levetiracetam        -> lebetirasetam        ? lebetirasetam        : True
+levocetirizine       -> lebosetirisin        ? lebosetirisin        : True
+levofloxacin         -> lebofloksasin        ? lebofloksasin        : True
+levothyroxine        -> lebotayroksin        ? lebotayroksin        : True
+linezolid            -> linesolid            ? linesolid            : True
+lisinopril           -> lisinopril           ? lisinopril           : True
+lithium              -> litiyum              ? litiyum              : True
+loperamide           -> loperamayd           ? loperamayd           : True
+loratadine           -> loratadin            ? loratadin            : True
+lorazepam            -> lorasepam            ? lorasepam            : True
+losartan             -> losartan             ? losartan             : True
+magnesium oxide      -> magnesiyum oksayd    ? magnesiyum oksayd    : True
+malathion            -> malatayon            ? malatayon            : False
+mebendazole          -> mebendasol           ? mebendasol           : True
+meclizine            -> meklisin             ? meklisin             : True
+meloxicam            -> meloksikam           ? meloksikam           : True
+meropenem            -> meropenem            ? meropenem            : True
+metformin            -> metformin            ? metformin            : True
+methimazole          -> metimasol            ? metimasol            : True
+methylprednisolone   -> metilprednisolown    ? metilprednisolon     : False
+metoclopramide       -> metoklopramayd       ? metoklopramayd       : True
+metoprolol           -> metoprolol           ? metoprolol           : True
+metronidazole        -> metronidasol         ? metronidasol         : True
+midazolam            -> midasolam            ? midasolam            : True
+minocycline          -> minosayklin          ? minosayklin          : True
+mirtazapine          -> mirtasapin           ? mirtasapin           : True
+molnupiravir         -> molnupirabir         ? molnupirabir         : True
+mometasone           -> mometasown           ? mometason            : False
+montelukast          -> montelukast          ? montelukast          : True
+morphine             -> morfin               ? morfin               : True
+naproxen             -> naproksen            ? naproksen            : True
+neomycin             -> neomaysin            ? neomaysin            : True
+nitrofurantoin       -> nitrofurantoyn       ? nitrofurantoyin      : False
+ofloxacin            -> ofloksasin           ? ofloksasin           : True
+olanzapine           -> olansapin            ? olansapin            : True
+omeprazole           -> omeprasol            ? omeprasol            : True
+ondansetron          -> ondansetron          ? ondansetron          : True
+oseltamivir          -> oseltamibir          ? oseltamibir          : True
+oxycodone            -> oksikodon            ? oksikodon            : True
+oxymetazoline        -> oksimetazolin        ? oksimetasolin        : False
+pantoprazole         -> pantroprasol         ? pantoprasol          : False
+paracetamol          -> parasetamol          ? parasetamol          : True
+paroxetine           -> paroksetin           ? paroksetin           : True
+paxlovid             -> pakslobid            ? pakslobid            : True
+permethrin           -> permetrin            ? permetrin            : True
+phenylephrine        -> fenilefrin           ? fenilefrin           : True
+phenytoin            -> fenitoyn             ? fenaytoyin           : False
+polymyxin b          -> polimiksin bi        ? polaymayksin b       : False
+praziquantel         -> prasikwantel         ? prasikwantel         : True
+prednisone           -> prednisown           ? prednison            : False
+pregabalin           -> pregabalin           ? pregabalin           : True
+prochlorperazine     -> proklorperasin       ? prokhlorperasin      : False
+promethazine         -> prometasin           ? prometasin           : True
+propranolol          -> propranolol          ? propranolol          : True
+pseudoephedrine      -> sudoyefedrin         ? sudoyefedrin         : True
+psyllium             -> silyum               ? siliyum              : False
+pyrantel pamoate     -> payrantel pamoeyt    ? payrantel pamoyeyt   : False
+pyrazinamide         -> payrasinamayd        ? payrasinamayd        : True
+quetiapine           -> kwetiyapin           ? kwetiyapin           : True
+ranitidine           -> ranitidin            ? ranitidin            : True
+remdesivir           -> remdesibir           ? remdesibir           : True
+rifampicin           -> rifampisin           ? rifampisin           : True
+risperidone          -> risperidown          ? risperidon           : False
+rivaroxaban          -> ribaroksaban         ? ribaroksaban         : True
+rosuvastatin         -> rosubastatin         ? rosubastatin         : True
+salbutamol           -> salbutamol           ? salbutamol           : True
+salmeterol           -> salmeterol           ? salmeterol           : True
+senna                -> sena                 ? sena                 : True
+sertraline           -> sertralin            ? sertralin            : True
+sildenafil           -> sildenafil           ? sildenafil           : True
+simethicone          -> simetikown           ? simetikon            : False
+simvastatin          -> simbastatin          ? simbastatin          : True
+sitagliptin          -> sitagliptin          ? sitagliptin          : True
+spironolactone       -> spironolaktown       ? spironolakton        : False
+sulfamethoxazole     -> warfarin             ? sulfametoksasol      : False
+tacrolimus           -> takrolimus           ? takrolimus           : True
+tadalafil            -> tadalapil            ? tadalafil            : False
+tamsulosin           -> tamsulosin           ? tamsulosin           : True
+tenofovir            -> tenofobir            ? tenofobir            : True
+tetracycline         -> tetrasayklin         ? tetrasayklin         : True
+theophylline         -> teofilin             ? teofilin             : True
+tigecycline          -> taygasayklin         ? tigesayklin          : False
+tiotropium           -> tiyotropiyum         ? tiyotropiyum         : True
+tobramycin           -> tobramaysin          ? tobramaysin          : True
+topiramate           -> topirameyt           ? topirameyt           : True
+tramadol             -> tramadol             ? tramadol             : True
+trazodone            -> trasodown            ? trasodon             : False
+triamcinolone        -> triamsinolown        ? triyamsinolon        : False
+trimethoprim         -> trimetoprim          ? trimetoprim          : True
+valacyclovir         -> balasayklobir        ? balasayklobir        : True
+valproic acid        -> balproyik asid       ? balproyik asid       : True
+valsartan            -> balsartan            ? balsartan            : True
+vancomycin           -> bankomaysin          ? bankomaysin          : True
+venlafaxine          -> benlafaksin          ? benlafaksin          : True
+vitamin c            -> bitamin si           ? bitamin k            : False
+vitamin d            -> bitamin di           ? bitamin d            : False
+warfarin             -> warfarin             ? warfarin             : True
+xylometazoline       -> saylometasolin       ? silometasolin        : False
+zanamivir            -> sanamibir            ? sanamibir            : True
+zinc sulfate         -> sink sulfeyt         ? sink sulfeyt         : True
+Trues:        148
+Falses:         51
+Accuracy:   74.37%
