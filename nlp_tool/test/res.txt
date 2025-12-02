@@ -1,5 +1,5 @@
 acetaminophen        -> asetaminofen         ? asetaminofen         : True
-acetylcysteine       -> asetilsisteen        ? asetilsistin         : False
+acetylcysteine       -> asetilsistin         ? asetilsistin         : True
 acyclovir            -> asayklobir           ? asayklobir           : True
 albendazole          -> albendasol           ? albendasol           : True
 albuterol            -> albiyuterol          ? albuterol            : False
@@ -25,7 +25,7 @@ bupropion            -> bupropiyon           ? bupropiyon           : True
 buspirone            -> buspirown            ? buspirown            : True
 calcium carbonate    -> kalsiyum karboneyt   ? kalsiyum karboneyt   : True
 captopril            -> kaptopril            ? kaptopril            : True
-carbamazepine        -> karbamasepine        ? karbamasepin         : False
+carbamazepine        -> karbamasepin         ? karbamasepin         : True
 carbimazole          -> karbimasol           ? karbimasol           : True
 carvedilol           -> karbedilol           ? karbedilol           : True
 celecoxib            -> selekoksib           ? selekoksib           : True
@@ -33,14 +33,14 @@ cephalexin           -> sefaleksin           ? sefaleksin           : True
 cetirizine           -> setirisin            ? setirisin            : True
 chloramphenicol      -> kloramfenikol        ? kloramfenikol        : True
 chloroquine          -> klorokuwin           ? klorokuwin           : True
-chlorpromazine       -> klorpromazin         ? klorpromasin         : False
+chlorpromazine       -> klorpromasin         ? klorpromasin         : True
 ciprofloxacin        -> siprofloksasin       ? siprofloksasin       : True
 clindamycin          -> klindamaysin         ? klindamaysin         : True
 clobetasol           -> klobetasol           ? klobetasol           : True
 clonazepam           -> klonasepam           ? klonasepam           : True
 clopidogrel          -> klopidogrel          ? klopidogrel          : True
 clotrimazole         -> klotrimasol          ? klotrimasol          : True
-clozapine            -> klozapin             ? klosapin             : False
+clozapine            -> klosapin             ? klosapin             : True
 codeine              -> kodin                ? kodin                : True
 cyanocobalamin       -> sayanokobalamin      ? sayanokobalamin      : True
 cyclosporine         -> sayklosporin         ? sayklosporin         : True
@@ -54,10 +54,10 @@ diclofenac           -> dayklofenak          ? diklofenak           : False
 dimenhydrinate       -> dimenhaydrineyt      ? dimenhaydrineyt      : True
 diphenhydramine      -> dayfenhaydramin      ? difenhaydramin       : False
 dolutegravir         -> dolutegrabir         ? dolutegrabir         : True
-domperidone          -> domperidon           ? domperidown          : False
+domperidone          -> domperidown          ? domperidown          : True
 doxycycline          -> doksisayklin         ? doksisayklin         : True
 duloxetine           -> duloksetin           ? duloksetin           : True
-efavirenz            -> efabirens            ? efabirens            : False
+efavirenz            -> efabirens            ? efabirens            : True
 enalapril            -> enalapril            ? enalapril            : True
 ertapenem            -> ertapenem            ? ertapenem            : True
 erythromycin         -> eritromaysin         ? eraytromaysin        : False
@@ -70,7 +70,7 @@ ferrous sulfate      -> ferus sulfeyt        ? feroyus sulfeyt      : False
 fexofenadine         -> feksofenadin         ? feksofenadin         : True
 finasteride          -> finasterayd          ? finasterayd          : True
 fluconazole          -> flukonasol           ? flukonasol           : True
-fluoxetine           -> fluoksetin           ? fluwoksetin          : False
+fluoxetine           -> fluwoksetin          ? fluwoksetin          : True
 fluticasone          -> flutikasown          ? flutikasown          : True
 folic acid           -> folik asid           ? folik asid           : True
 formoterol           -> formoterol           ? formoterol           : True
@@ -197,6 +197,6 @@ warfarin             -> warfarin             ? warfarin             : True
 xylometazoline       -> saylometasolin       ? silometasolin        : False
 zanamivir            -> sanamibir            ? sanamibir            : True
 zinc sulfate         -> sink sulfeyt         ? sink sulfeyt         : True
-Trues:        170
-Falses:         29
-Accuracy:   85.43%
+Trues:        177
+Falses:         22
+Accuracy:   88.94%
