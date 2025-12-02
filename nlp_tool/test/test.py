@@ -20,19 +20,23 @@ with open('data.csv', 'r') as f:
         inp = inp.lower()
         exp = exp.lower()
         act = parser.apply_phonological_rules(inp)
+        
 
         if exp == act:
             ts+=1
         else:
             fs+=1
-
-        total = ts + fs
-        accuracy = ts / total * 100
-        print(f"Trues: {ts:>10}")
-        print(f"Falses: {fs:>10}")
-        print(f"Accuracy: {accuracy:>7.2f}%")
-        out.write(f"Trues: {ts:>10}")
+        print(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
+        out.write(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
         out.write("\n")
-        out.write(f"Falses: {fs:>10}")
-        out.write("\n")
-        out.write(f"Accuracy: {accuracy:>7.2f}%")
+        
+    total = ts + fs
+    accuracy = ts / total * 100
+    print(f"Trues: {ts:>10}")
+    print(f"Falses: {fs:>10}")
+    print(f"Accuracy: {accuracy:>7.2f}%")
+    out.write(f"Trues: {ts:>10}")
+    out.write("\n")
+    out.write(f"Falses: {fs:>10}")
+    out.write("\n")
+    out.write(f"Accuracy: {accuracy:>7.2f}%")
