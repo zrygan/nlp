@@ -137,7 +137,7 @@ ondansetron          -> ondansetron          ? ondansetron          : True
 oseltamivir          -> oseltamibir          ? oseltamibir          : True
 oxycodone            -> oksikodown           ? oksikodown           : True
 oxymetazoline        -> oksimetasolin        ? oksimetasolin        : True
-pantoprazole         -> pantroprasol         ? pantoprasol          : False
+pantoprazole         -> pantoprasol          ? pantoprasol          : True
 paracetamol          -> parasetamol          ? parasetamol          : True
 paroxetine           -> paroksetin           ? paroksetin           : True
 paxlovid             -> pakslobid            ? pakslobid            : True
@@ -197,6 +197,6 @@ warfarin             -> warfarin             ? warfarin             : True
 xylometazoline       -> saylometasolin       ? silometasolin        : False
 zanamivir            -> sanamibir            ? sanamibir            : True
 zinc sulfate         -> sink sulfeyt         ? sink sulfeyt         : True
-Trues:        169
-Falses:         30
-Accuracy:   84.92%
+Trues:        170
+Falses:         29
+Accuracy:   85.43%
