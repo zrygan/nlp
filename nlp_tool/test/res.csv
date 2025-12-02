@@ -33,7 +33,7 @@ celecoxib,selekoksib,selekoksib,True
 cephalexin,sefaleksin,sefaleksin,True
 cetirizine,setirisin,setirisin,True
 chloramphenicol,kloramfenikol,kloramfenikol,True
-chloroquine,klorokwin,klorokuwin,False
+chloroquine,klorokuwin,klorokuwin,True
 chlorpromazine,klorpromazin,klorpromasin,False
 ciprofloxacin,siprofloksasin,siprofloksasin,True
 clindamycin,klindamaysin,klindamaysin,True
@@ -84,7 +84,7 @@ haloperidol,haloperidol,haloperidol,True
 heparin,heparin,heparin,True
 hydrochlorothiazide,haydroklorotayasayd,haydroklorotayasayd,True
 hydrocortisone,haydrokortisown,haydrokortisown,True
-hydroxychloroquine,haydrosayklorokwin,haydroksiklorokuwin,False
+hydroxychloroquine,haydrosayklorokuwin,haydroksiklorokuwin,False
 hydroxyzine,haydroksisin,haydroksisin,True
 ibuprofen,aybuprofen,ibuprofen,False
 imipenem,imipenem,imipenem,True
