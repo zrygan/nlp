@@ -114,6 +114,10 @@ class FilipinoCFGParser:
         
         result = re.sub(r'e$', '', result)
         
+        # Anything with thion should be tayon
+        
+        result = re.sub(r'thion', 'tayon', result)
+        
         # Handle th specifically
         
         result = result.replace('th', 't')
@@ -135,7 +139,7 @@ class FilipinoCFGParser:
         
         # Anything with 'io' has a y in middle
         
-        # result = result.replace('io', 'iyo')
+        result = re.sub(r'i([aeiou])', r'iy\1', result)
         
         # Step 3: Apply Spanish-specific patterns
         # if source_lang in ['spanish', 'auto']:
@@ -507,7 +511,7 @@ if __name__ == "__main__":
         'Hydrocortisone': ['haydkortison', 'haydkortisown'],
         'Hydroxychloroquine': ['haydroksiklorokwin'],
         'Hydroxyzine': ['haydroksisin'],
-        'Ibuprofen': ['aaybuprofén', 'aybuprofen', 'aaybupropen', 'aybupropen'],
+        'Ibuprofen': ['aaybuprofen', 'aybuprofen', 'aaybupropen', 'aybupropen'],
         'Imipenem': ['imipenem'],
         'Insulin': ['insulin'],
         'Interferon': ['interferon'],
@@ -531,7 +535,7 @@ if __name__ == "__main__":
         'Lorazepam': ['lorasepam'],
         'Losartan': ['losartan'],
         'Magnesium Oxide': ['magnesyum oksayd'],
-        'Malathion': ['malasyon'],
+        'Malathion': ['malatayon'],
         'Mebendazole': ['mebendasol'],
         'Meclizine': ['meklisin'],
         'Meloxicam': ['meloksikam'],
@@ -581,18 +585,18 @@ if __name__ == "__main__":
         'Ranitidine': ['ranitidin'],
         'Remdesivir': ['remdesibir'],
         'Rifampicin': ['rifampisin'],
-        'Risperidone': ['rispéridon'],
+        'Risperidone': ['risperidon'],
         'Rivaroxaban': ['ribaraksaban'],
         'Rosuvastatin': ['rosubastatin'],
         'Salbutamol': ['salbutamol'],
         'Salmeterol': ['salmeterol'],
-        'Senna': ['senna'],
+        'Senna': ['sena'],
         'Sertraline': ['sertralin'],
-        'Sildenafil': ['sildenefil'],
+        'Sildenafil': ['sildenafil'],
         'Simethicone': ['simetikon', 'simetikown'],
         'Simvastatin': ['simbastatin'],
         'Sitagliptin': ['sitagliptin'],
-        'Spironolactone': ['spironolákton'],
+        'Spironolactone': ['spironolakton'],
         'Sulfamethoxazole': ['sulfametoksasol'],
         'Tacrolimus': ['takrolimus'],
         'Tadalafil': ['tadalapil'],

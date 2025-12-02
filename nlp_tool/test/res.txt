@@ -21,7 +21,7 @@ betamethasone        -> betametasown         ? betametason          : False
 bisacodyl            -> bisakodil            ? bisakodil            : True
 brompheniramine      -> brompeniramin        ? bromfeniramin        : False
 budesonide           -> budesonayd           ? budesonayd           : True
-bupropion            -> bupropyon            ? bupropion            : False
+bupropion            -> bupropyon            ? bupropiyon           : False
 buspirone            -> buspirown            ? buspiron             : False
 calcium carbonate    -> kalsium karbonate    ? kalsium karboneyt    : False
 captopril            -> kaptopril            ? kaptopril            : True
@@ -109,7 +109,7 @@ loratadine           -> loratadin            ? loratadin            : True
 lorazepam            -> lorasepam            ? lorasepam            : True
 losartan             -> losartan             ? losartan             : True
 magnesium oxide      -> magnesyum oksayd     ? magnesium oksayd     : False
-malathion            -> malasyon             ? malasyon             : True
+malathion            -> malasyon             ? malatiyon            : False
 mebendazole          -> mebendasol           ? mebendasol           : True
 meclizine            -> meklisin             ? meklisin             : True
 meloxicam            -> meloksikam           ? meloksikam           : True
@@ -152,7 +152,7 @@ prochlorperazine     -> proklorperasin       ? prokhlorperasin      : False
 promethazine         -> prometasin           ? prometasin           : True
 propranolol          -> propranolol          ? propranolol          : True
 pseudoephedrine      -> sudoyepedrin         ? sudoyefedrin         : False
-psyllium             -> sillyum              ? silium               : False
+psyllium             -> silyum               ? silium               : False
 pyrantel pamoate     -> payrantel pamoeyt    ? payrantel pamoyeyt   : False
 pyrazinamide         -> payrasinamayd        ? payrasinamayd        : True
 quetiapine           -> kwetiyapin           ? kwetiapin            : False
@@ -164,9 +164,9 @@ rivaroxaban          -> ribaroksaban         ? ribaroksaban         : True
 rosuvastatin         -> rosubastatin         ? rosubastatin         : True
 salbutamol           -> salbutamol           ? salbutamol           : True
 salmeterol           -> salmeterol           ? salmeterol           : True
-senna                -> senna                ? sena                 : False
+senna                -> sena                 ? sena                 : True
 sertraline           -> sertralin            ? sertralin            : True
-sildenafil           -> sildenefil           ? sildenafil           : False
+sildenafil           -> sildenafil           ? sildenafil           : True
 simethicone          -> simetikown           ? simetikon            : False
 simvastatin          -> simbastatin          ? simbastatin          : True
 sitagliptin          -> sitagliptin          ? sitagliptin          : True
@@ -179,7 +179,7 @@ tenofovir            -> tenofobir            ? tenofobir            : True
 tetracycline         -> tetrasayklin         ? tetrasayklin         : True
 theophylline         -> teofilin             ? teofilin             : True
 tigecycline          -> taygasayklin         ? tigesayklin          : False
-tiotropium           -> tiyotropiyum         ? tiotropium           : False
+tiotropium           -> tiyotropiyum         ? tiyotropium          : False
 tobramycin           -> tobramaysin          ? tobramaysin          : True
 topiramate           -> topirameyt           ? topirameyt           : True
 tramadol             -> tramadol             ? tramadol             : True
@@ -197,6 +197,6 @@ warfarin             -> warfarin             ? warfarin             : True
 xylometazoline       -> saylometasolin       ? silometasolin        : False
 zanamivir            -> sanamibir            ? sanamibir            : True
 zinc sulfate         -> sink sulpate         ? sink sulfeyt         : False
-Trues:        133
-Falses:         66
-Accuracy:   66.83%
+Trues:        134
+Falses:         65
+Accuracy:   67.34%
