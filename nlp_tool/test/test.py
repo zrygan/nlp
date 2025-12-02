@@ -9,27 +9,31 @@ parser = FilipinoCFGParser()
 
 with open('data.csv', 'r') as f:
     reader = csv.reader(f)
-    with open('res.txt', 'w') as out:
-        ts = 0
-        fs = 0
-        for row in reader:
-            inp, exp = row
-            inp = inp.lower()
-            exp = exp.lower()
-            act = parser.apply_phonological_rules(inp)
+    out = open('res.txt', 'w')
+    out_csv = open('res.csv', 'w')
+    out_csv.write("inp, exp, act, t/f\n")
 
-            if exp == act:
-                ts+=1
-            else:
-                fs+=1
+    ts = 0
+    fs = 0
+    for row in reader:
+        inp, exp = row
+        inp = inp.lower()
+        exp = exp.lower()
+        act = parser.apply_phonological_rules(inp)
 
-            print(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
-            out.write(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
-            out.write("\n")
+        if exp == act:
+            ts+=1
+        else:
+            fs+=1
 
-
-        print(f"Trues: {ts:>10}")
-        print(f"Falses: {fs:>10}")
-        out.write(f"Trues: {ts:>10}")
+        print(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
+        out.write(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
         out.write("\n")
-        out.write(f"Falses: {fs:>10}")
+        out_csv.write(f"{inp}, {exp}, {act}, {exp==act}")
+        out_csv.write("\n")
+
+    print(f"Trues: {ts:>10}")
+    print(f"Falses: {fs:>10}")
+    out.write(f"Trues: {ts:>10}")
+    out.write("\n")
+    out.write(f"Falses: {fs:>10}")
