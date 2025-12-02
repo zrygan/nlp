@@ -1,265 +1,103 @@
-noklot               -> noklot               ? noklot               : True
-ondavell             -> ondabel              ? ondabel              : True
-ceegy                -> seedyi               ? segay                : False
-katinko oil          -> katinko oyl          ? katinko oyil         : False
-new zyrine           -> nyu syrin            ? new sayrin           : False
-atorzet 40           -> atorset 40           ? atorset 40           : True
-votrient             -> botriyent            ? botriyent            : True
-abilify              -> abilifay             ? abilifay             : True
-maricoxia-120        -> marikoksiya-120      ? marikoksiya-120      : True
-pamidol 370          -> pamidol 370          ? pamidol 370          : True
-seiletam             -> seiletam             ? seiletam             : True
-clopitor             -> klopitor             ? klopitor             : True
-ecsapro              -> eksapro              ? eksapro              : True
-chlorsapheine        -> klorsafin            ? klorsafeen           : False
-vitaplus             -> baytaplus            ? bitaplus             : False
-azithcor             -> asitkor              ? asitkor              : True
-iron                 -> ayyorn               ? iron                 : False
-femzol               -> femsol               ? femsol               : True
-cortef-250           -> kortef-250           ? kortef-250           : True
-amphot               -> amfot                ? amfot                : True
-asbunyl plus         -> asbunil plus         ? asbunil plus         : True
-focid                -> fosid                ? fosid                : True
-cerin-250            -> serin-250            ? serin-250            : True
-aciherpin            -> asiherpin            ? asiherpin            : True
-ximebac              -> simebak              ? simebak              : True
-rosudaise 20         -> rosudays 20          ? rosudaise 20         : False
-sitagli-100          -> sitagli-100          ? sitagli-10           : False
-xaliptine            -> saliptin             ? saliptin             : True
-zeal                 -> seal                 ? seal                 : True
-evacaine             -> ebakayn              ? ebakain              : False
-zetifen              -> setifen              ? setifen              : True
-glimesyn             -> glimesin             ? glimesayn            : False
-forvit-plus          -> forbit-plus          ? forbit-plus          : True
-janumet              -> dyanumet             ? dayanumet            : False
-sanfur-500           -> sanfur-500           ? sanfur-50            : False
-shield+              -> syild+               ? shiyeld+             : False
-leuzotex             -> lusoteks             ? lusoteks             : True
-mycofena dr          -> mykofena dee ar      ? maykofena dr         : False
-duomed               -> duomed               ? duomed               : True
-flazomel             -> flasomel             ? flasomel             : True
-diurix-50            -> duiriks-50           ? diyuriks-50          : False
-bactigard            -> baktigard            ? baktigard            : True
-ondenox              -> ondenoks             ? ondenoks             : True
-fulcef               -> fulsef               ? fulsef               : True
-nasocure             -> nasokyur             ? nasokur              : False
-broncho rub-citrus   -> bronko rab-sitrus    ? bronko rub-sitrus    : False
-amlospeed 5          -> amlospid 5           ? amlosped 5           : False
-atorfibrate          -> atorfibreyt          ? atorfibreyt          : True
-actilyse             -> aktilays             ? aktilis              : False
-kidneyfix            -> kidnifix             ? kidneayfiks          : False
-cinacred 60          -> sinakred 60          ? sinakred 60          : True
-rivazin              -> ribasin              ? ribasin              : True
-amlopex              -> amlopex              ? amlopeks             : False
-nivicof              -> nibikof              ? nibikof              : True
-l-asparaginase       -> el-asperadyinays     ? l-asparaginas        : False
-depen-c              -> depen-si             ? depen-k              : False
-gentamite            -> gentamayt            ? gentamit             : False
-mucovin              -> mukobin              ? mukobin              : True
-dopezil              -> dopesil              ? dopesil              : True
-ivabrox              -> ibabronks            ? ibabroks             : False
-spinlok              -> spinlok              ? spinlok              : True
-fern women           -> fern wimen           ? fern women           : False
-golyptin             -> golyptin             ? golayptin            : False
-melophil             -> melofil              ? melofil              : True
-osavir               -> osabir               ? osabir               : True
-mulfesaph            -> mulfesaf             ? mulfesaf             : True
-maxolin              -> maksolin             ? maksolin             : True
-janumet xr           -> janumet eks ar       ? dayanumet ksr        : False
-infiobiotic          -> infiobayotik         ? infiyobiyotik        : False
-amoxsaph-125         -> amoksaf-125          ? amoksaf-125          : True
-aropotin             -> aropotin             ? aropotin             : True
-glumet-xr            -> glumet eks ar        ? glumet-ksr           : False
-brizol               -> brisol               ? brisol               : True
-ibanox               -> ibanoks              ? ibanoks              : True
-carbumox             -> karbumoks            ? karbumoks            : True
-epribenz-50          -> epribens-60          ? epribens-50          : False
-telarb               -> telarb               ? telarb               : True
-dayzinc              -> daysink              ? daisink              : False
-rezotam              -> resotam              ? resotam              : True
-hepuri               -> hepuri               ? hepuri               : True
-tussis-100           -> tusis-100            ? tusis-10             : False
-sitavia 50           -> sitabiya 50          ? sitabiya 50          : True
-mucofalk             -> mukofalk             ? mukofalk             : True
-medvit-ob            -> medbit-o bee         ? medbit-ob            : False
-asmagone             -> asmagon              ? asmagown             : False
-ometift              -> ometift              ? ometift              : True
-myfetil              -> mayfetil             ? mayfetil             : True
-glimep               -> glimep               ? glimep               : True
-medicross            -> medikros             ? medikros             : True
-actimax              -> aktimaks             ? aktimaks             : True
-britamox             -> britamoks            ? britamoks            : True
-cycamil              -> saykamil             ? saykamil             : True
-calaman-cee          -> kalaman-si           ? kalaman-se           : False
-zestril              -> sestril              ? sestril              : True
-povide               -> pobayd               ? pobayd               : True
-loviscol             -> lobiskol             ? lobiskol             : True
-sitaform 1/50        -> sitaform 1/50        ? sitaform 1/50        : True
-prostakon            -> prostakon            ? prostakon            : True
-paxwind 260          -> pakswind 260         ? pakswind 260         : True
-hyzaar               -> hisar                ? hisar                : True
-elpitaz              -> elpitas              ? elpitas              : True
-quetianov 25         -> kuwitiyanob 25       ? kwetiyanob 25        : False
-proxilev             -> proksileb            ? proksileb            : True
-vexbos 80            -> beksbos 80           ? beksbos 80           : True
-amika                -> amika                ? amika                : True
-zymet                -> saymet               ? saymet               : True
-sirturo              -> sirturo              ? sirturo              : True
-revicon xtr          -> rebikon eks tee ar   ? rebikon kstr         : False
-ferroplex ob         -> feropleks o bi       ? feropleks ob         : False
-diltimax             -> diltimaks            ? diltimaks            : True
-azepril              -> asepril              ? asepril              : True
-iressa               -> iresa                ? iresa                : True
-dilzep 90            -> dilsep 90            ? dilsep 90            : True
-tramafar             -> tramafar             ? tramafar             : True
-ziproc-100           -> siprok-100           ? siprok-10            : False
-prevaclav            -> prebaklab            ? prebaklab            : True
-choltrol             -> koltrol              ? koltrol              : True
-azisaph-d            -> asisaf-dee           ? asisaf-d             : False
-klaz                 -> klas                 ? klas                 : True
-nystor               -> naystor              ? nistor               : False
-gastorid             -> gastorid             ? gastorid             : True
-enoxden              -> enoksden             ? enoksden             : True
-axerich              -> akserits             ? akserik              : False
-suprehem             -> suprehem             ? suprehem             : True
-gotham               -> gotam                ? gotam                : True
-axemol iv            -> aksemol ay bee       ? aksemol ib           : False
-oxa-health 100       -> oksa-helt 100        ? oksa-healt 10        : False
-infacare             -> infaker              ? infakar              : False
-losartan potassium   -> losartan potasiyum   ? losartan potasiyum   : True
-valtrex              -> baltreks             ? baltreks             : True
-sinutab cold         -> saynutab kold        ? sinutab kold         : False
-fonkonat             -> fonkonat             ? fonkonat             : True
-aminotrene           -> aminotrin            ? aminotren            : False
-goclitax             -> goklitaks            ? goklitaks            : True
-atorpine             -> atorpin              ? atorpin              : True
-neosan               -> niyosan              ? neosan               : False
-aimafix              -> aymafiks             ? aimafiks             : False
-lupimet              -> lupimet              ? lupimet              : True
-atorvex-10           -> atorbeks-10          ? atorbeks-10          : True
-medgivit             -> medyibit             ? medgibit             : False
-nutravit c           -> nutrabit si          ? nutrabit k           : False
-tazonorth            -> tasonort             ? tasonort             : True
-ambroflam            -> ambroflam            ? ambroflam            : True
-ketoguard            -> kitogard             ? ketoguard            : False
-ascorsaph            -> askorsaf             ? askorsaf             : True
-valpros              -> balpros              ? balpros              : True
-dalactin             -> dalaktin             ? dalaktin             : True
-nervica 25           -> nerbika 25           ? nerbika 25           : True
-prolix               -> proliks              ? proliks              : True
-clomate              -> klomeyt              ? klomeyt              : True
-nervesaph-forte      -> nerbesaf-forte       ? nerbesaf-fort        : False
-osteofree            -> ostiyofri            ? osteofre             : False
-calmol 125           -> kalmol 125           ? kalmol 125           : True
-augmentin-ds         -> ogmentin-dee es      ? augmentin-ds         : False
-muskelax             -> muskelaks            ? muskelaks            : True
-blitidor             -> blitidor             ? blitidor             : True
-khrizvix             -> krisbiks             ? krisbiks             : True
-amlog plus           -> amlog plas           ? amlog plus           : False
-rivaxored            -> ribaksored           ? ribaksored           : True
-appeczin plus        -> apeksin plus         ? apeksin plus         : True
-ipravent             -> iprabent             ? iprabent             : True
-cort                 -> kort                 ? kort                 : True
-zynaphar             -> sinafar              ? saynafar             : False
-neurobion forte 5000 -> niyurobiyon forte 50000 ? nurobiyon forte 500  : False
-rixo                 -> rikso                ? rikso                : True
-saphcorzee-od        -> safkorsi-oh dee      ? safkorse-od          : False
-nervesaph-forte      -> nerbsaf-forte        ? nerbesaf-fort        : False
-golden cup balm      -> golden kap balm      ? golden kup balm      : False
-cefudyne             -> sefudayn             ? sefudayn             : True
-torfil 2.5           -> torfil 2.5           ? torfil 2.5           : True
-clotisprin           -> klotisprin           ? klotisprin           : True
-fenetor              -> fenetor              ? fenetor              : True
-orapen-g             -> orapen-dyi           ? orapen-g             : False
-mistel               -> mistel               ? mistel               : True
-asconvitazin         -> asconbitasin         ? askonbitasin         : False
-appetason            -> apetason             ? apetason             : True
-gorondaz             -> gorondas             ? gorondas             : True
-isoking              -> aysoking             ? isoking              : False
-tricor               -> traykor              ? trikor               : False
-tropin               -> tropin               ? tropin               : True
-sulfakrem            -> sulfrakrem           ? sulfakrem            : False
-dextro               -> dekstro              ? dekstro              : True
-dormazine            -> dormasin             ? dormasin             : True
-folcacium            -> folkasiyum           ? folkasiyum           : True
-lipid-aid            -> lipid-ayd            ? lipid-aid            : False
-emizole              -> emisol               ? emisol               : True
-derpson              -> derpson              ? derson               : False
-exalac               -> eksalak              ? eksalak              : True
-loswind              -> loswind              ? loswind              : True
-norepors             -> norepors             ? norepors             : True
-clavmetz             -> klabmets             ? klabmets             : True
-esoget               -> esoget               ? esoget               : True
-pemex                -> pemeks               ? pemeks               : True
-neo-c                -> neo-si               ? neo-k                : False
-apo-tin              -> apo-tin              ? apo-tin              : True
-cleocin              -> kliyosin             ? kleosin              : False
-ketocorex            -> ketokoreks           ? ketokoreks           : True
-nicopro              -> nikopro              ? nikopro              : True
-nutrizinc            -> nutrisink            ? nutrisink            : True
-apliva               -> apliba               ? apliba               : True
-trixophin            -> triksopin            ? triksofin            : False
-khrizcopan 20        -> kriskopan 20         ? kriskopan 20         : True
-salmed               -> salmed               ? salmed               : True
-clanza               -> klansa               ? klansa               : True
-ferricore            -> ferikor              ? ferikor              : True
-corsin-600           -> korsin-600           ? korsin-60            : False
-xet 20               -> set 20               ? set 20               : True
-relzin               -> relsin               ? relsin               : True
-comox                -> komoks               ? komoks               : True
-quicker              -> kuwiker              ? kwiker               : False
-zyvax                -> saybaks              ? saybaks              : True
-stravas              -> strabas              ? strabas              : True
-fondux               -> fonduks              ? fonduks              : True
-reducel              -> redusel              ? redusel              : True
-bronix               -> broniks              ? broniks              : True
-hiroxib-100          -> hayroksib-100        ? hiroksib-10          : False
-euthyrox             -> utiroks              ? utayroks             : False
-avazart              -> abasart              ? abasart              : True
-rosen                -> rosen                ? rosen                : True
-oelanzapine          -> owelensapin          ? oyelansapin          : False
-vasatraz             -> basatras             ? basatras             : True
-coplavix             -> koplabiks            ? koplabiks            : True
-motillex             -> motilleks            ? motileks             : False
-funginil-k           -> fundyinil-key        ? funginil-k           : False
-misartan 40          -> misartan 40          ? misartan 40          : True
-alabsar              -> alabsar              ? alabsar              : True
-ventobrox            -> bentobroks           ? bentobroks           : True
-norvasc              -> norbask              ? norbask              : True
-glysiptin            -> glysiptin            ? glisiptin            : False
-ocubidex             -> okubideks            ? okubideks            : True
-c-zin                -> si-sin               ? k-sin                : False
-ferrogen             -> ferodyen             ? ferogen              : False
-otoflox              -> otofloks             ? otofloks             : True
-paclimed-30          -> paklimed-30          ? paklimed-30          : True
-dermobetasol         -> dermobetasol         ? dermobetasol         : True
-atorschwartz         -> atorswarts           ? atorskwarts          : False
-alketo               -> alketo               ? alketo               : True
-lenagen              -> lenagen              ? lenagen              : True
-viamitus             -> biyamitus            ? biyamitus            : True
-nepanac              -> nepanak              ? nepanak              : True
-praxid               -> praksid              ? praksid              : True
-ketocass             -> ketokas              ? ketokas              : True
-rocuroniusaph        -> rokuroniyusaf        ? rokuroniyusaf        : True
-betamox              -> betamoks             ? betamoks             : True
-mucosform            -> mukosform            ? mukosform            : True
-amlospeed 10         -> amlospid 10          ? amlosped 10          : False
-enset-4              -> enset-4              ? enset-4              : True
-orazinc plus         -> orasink plas         ? orasink plus         : False
-cardiosim            -> kardiyosim           ? kardiyosim           : True
-neuracet             -> niyuraset            ? nuraset              : False
-paclizel             -> paklisel             ? paklisel             : True
-rylin                -> raylin               ? rilin                : False
-melfor               -> melfor               ? melfor               : True
-mometarex            -> mometareks           ? mometareks           : True
-saphmetoc            -> sefametok            ? safmetok             : False
-cefopsiv             -> sefopsib             ? sefosib              : False
-zelpis-100           -> selpis-100           ? selpis-10            : False
-versant-xr           -> bersant-eks ar       ? bersant-ksr          : False
-cefrimed             -> sefrimed             ? sefrimed             : True
-alerid               -> alerid               ? alerid               : True
-respiz               -> respiz               ? respis               : False
-d-rize               -> dee-rays             ? d-ris                : False
-Trues:        169
-Falses:         93
-Accuracy:   64.50%
+okay                 -> okey                 ? okay                 : False
+sorry                -> sori                 ? soray                : False
+wait                 -> weit                 ? wait                 : False
+like                 -> laik                 ? lik                  : False
+share                -> sher                 ? shar                 : False
+post                 -> post                 ? post                 : True
+comment              -> koment               ? koment               : True
+text                 -> tekst                ? tekst                : True
+call                 -> kol                  ? kal                  : False
+chat                 -> tsat                 ? kat                  : False
+message              -> meseyj               ? mesag                : False
+password             -> pasword              ? pasword              : True
+account              -> akawnt               ? akoyunt              : False
+email                -> imeyl                ? email                : False
+internet             -> internet             ? internet             : True
+online               -> onlayn               ? onlin                : False
+website              -> websayt              ? websit               : False
+link                 -> link                 ? link                 : True
+screenshot           -> skrinshat            ? skrenshot            : False
+download             -> dawnlowd             ? downloyad            : False
+upload               -> aplowd               ? uployad              : False
+file                 -> fayl                 ? fil                  : False
+folder               -> folder               ? folder               : True
+save                 -> seiv                 ? sab                  : False
+delete               -> dilit                ? delet                : False
+edit                 -> edit                 ? edit                 : True
+update               -> apdeyt               ? updeyt               : False
+check                -> chek                 ? kek                  : False
+fix                  -> fiks                 ? fiks                 : True
+problem              -> problem              ? problem              : True
+issue                -> isyu                 ? isu                  : False
+error                -> eror                 ? eror                 : True
+boss                 -> bos                  ? bos                  : True
+manager              -> maneyjer             ? manager              : False
+team                 -> tim                  ? team                 : False
+meeting              -> miting               ? meting               : False
+schedule             -> skedyul              ? skedul               : False
+project              -> projekt              ? prodayekt            : False
+task                 -> task                 ? task                 : True
+report               -> report               ? report               : True
+plan                 -> plan                 ? plan                 : True
+idea                 -> aydiya               ? idea                 : False
+feedback             -> fidbak               ? fedbak               : False
+tip                  -> tip                  ? tip                  : True
+trick                -> trik                 ? trik                 : True
+stress               -> stres                ? stres                : True
+panic                -> panik                ? panik                : True
+hurry                -> hari                 ? huray                : False
+late                 -> leyt                 ? leyt                 : True
+early                -> erli                 ? earlay               : False
+waiter               -> weyter               ? waiter               : False
+menu                 -> menu                 ? menu                 : True
+order                -> order                ? order                : True
+price                -> prays                ? pris                 : False
+sale                 -> seyl                 ? sal                  : False
+discount             -> diskawnt             ? diskoyunt            : False
+cheap                -> chip                 ? keap                 : False
+expensive            -> ekspensiv            ? ekspensib            : False
+pay                  -> pey                  ? pay                  : False
+card                 -> kard                 ? kard                 : True
+cash                 -> kash                 ? kash                 : True
+bank                 -> bangk                ? bank                 : False
+loan                 -> lown                 ? loyan                : False
+credit               -> kredit               ? kredit               : True
+shop                 -> shap                 ? shop                 : False
+mall                 -> mol                  ? mal                  : False
+store                -> stor                 ? stor                 : True
+market               -> market               ? market               : True
+delivery             -> delibery             ? deliberay            : False
+package              -> pakeyj               ? pakag                : False
+travel               -> trabel               ? trabel               : True
+trip                 -> trip                 ? trip                 : True
+ticket               -> tiket                ? tiket                : True
+flight               -> flayt                ? flight               : False
+hotel                -> hotel                ? hotel                : True
+room                 -> rum                  ? rom                  : False
+reservation          -> reserbeysiyon        ? reserbatiyon         : False
+check-in             -> chek-in              ? kek-in               : False
+check-out            -> chek-awt             ? kek-oyut             : False
+vacation             -> bakeysiyon           ? bakatiyon            : False
+party                -> parti                ? partay               : False
+event                -> ebent                ? ebent                : True
+invite               -> invayt               ? inbit                : False
+guest                -> gest                 ? guest                : False
+gift                 -> gift                 ? gift                 : True
+present              -> present              ? present              : True
+cake                 -> keyk                 ? kak                  : False
+chocolate            -> tsokoleyt            ? kokoleyt             : False
+coffee               -> kofi                 ? kofe                 : False
+tea                  -> ti                   ? tea                  : False
+juice                -> jus                  ? dayuis               : False
+drink                -> drink                ? drink                : True
+beer                 -> bir                  ? ber                  : False
+wine                 -> wain                 ? win                  : False
+restaurant           -> restorant            ? restaurant           : False
+breakfast            -> brekfast             ? breakfast            : False
+lunch                -> lansh                ? lunk                 : False
+dinner               -> diner                ? diner                : True
+snack                -> snak                 ? snak                 : True
+food                 -> fud                  ? fod                  : False
+Trues:         37
+Falses:         63
+Accuracy:   37.00%

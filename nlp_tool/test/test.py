@@ -1,6 +1,6 @@
 import os, sys, csv
 
-DATA_FILE_NAME = "cleaned_data_2.csv"
+DATA_FILE_NAME = "cleaned_data_eng.csv"
 
 nlp_tool = os.path.join('..')
 sys.path.insert(0, nlp_tool)
@@ -31,6 +31,7 @@ with open(DATA_FILE_NAME, 'r') as f:
         print(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
         out.write(f"{inp:<20} -> {exp:<20} ? {act:<20} : {exp==act}")
         out.write("\n")
+        out_csv.write(f"{inp},{exp},{act},{exp==act}\n")
         
     total = ts + fs
     accuracy = ts / total * 100
