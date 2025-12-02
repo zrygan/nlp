@@ -1,6 +1,6 @@
 import os, sys, csv
 
-DATA_FILE_NAME = "cleaned_data_2.csv"
+DATA_FILE_NAME = "data.csv"
 
 nlp_tool = os.path.join('..')
 sys.path.insert(0, nlp_tool)

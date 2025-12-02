@@ -22,7 +22,7 @@ class FilipinoCFGParser:
             ('j', 'dy'),   # jeep -> dyip
             ('z', 's'),    # zipon -> sipon
             ('ñ', 'ny'),   # baño -> banyo
-            ('qu', 'kw'),  # queen -> kwin
+            ('q', 'kuw'),  # queen -> kwin
         ]
         
         # Special C handling: /s/ sound -> s, /k/ sound -> k
@@ -131,7 +131,7 @@ class FilipinoCFGParser:
         
         # Sub out for double letters in a row
         
-        result = re.sub(r'(.)\1', r'\1', result)
+        result = re.sub(r'([^\d])\1', r'\1', result)
     
         # Anything with ein turns into eene
         result = result.replace('ein', 'een')
@@ -633,6 +633,7 @@ if __name__ == "__main__":
         'Zanamivir': ['sanamibir'],
         'Zinc Sulfate': ['sink sulpeyt', 'sink sulfeyt'],
     }
+    
 
     # Testing loop
     for drug, expected_list in drug_table.items():
