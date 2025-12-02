@@ -16,14 +16,12 @@ class FilipinoCFGParser:
         # Phonological mapping rules (Section 2.1.4 of the document)
         # These are the official Filipino naturalization rules
         self.phoneme_rules = [
-            ('ph', 'p'),   # phone -> pon
-            ('f', 'p'),    # telefono -> telepono
+            ('ph', 'f'),   # phone -> pon
+            ('ps', 's'),   # psychology -> sikolodi
             ('v', 'b'),    # verde -> berde
-            ('ch', 'ts'),  # chocolate -> tsokolate
             ('j', 'dy'),   # jeep -> dyip
             ('z', 's'),    # zipon -> sipon
             ('ñ', 'ny'),   # baño -> banyo
-            ('x', 'ks'),   # examen -> eksamen
             ('qu', 'kw'),  # queen -> kwin
         ]
         
@@ -34,12 +32,12 @@ class FilipinoCFGParser:
         # Common Spanish->Filipino transformations
         self.spanish_patterns = [
             (r'é', 'e'),             # teléfono -> teléphono
-            (r'ó', 'o'),             # zipón -> sipón
+            (r'o', 'o'),             # zipon -> sipon
             (r'á', 'a'),             # como está -> komo está
             (r'cion$', 'syon'),      # educacion -> edukasyon
-            (r'ción$', 'syon'),      # 
+            (r'cion$', 'syon'),      # 
             (r'tion$', 'syon'),      # education -> edukasyon
-            (r'tión$', 'syon'),      # education -> edukasyon
+            (r'tion$', 'syon'),      # education -> edukasyon
             (r'gobierno', 'gobyerno'), # gobierno -> gobyerno
             (r'bie', 'biye'),        # gobierno -> gobyerno
             (r'ci([eo])', r'sy\1'),  # gracias -> grasyas
@@ -52,7 +50,6 @@ class FilipinoCFGParser:
         # Vowel interchangeability (Section 2.1.1)
         # e/i and o/u are allophones in Filipino
         self.vowel_shifts = {
-            'ee': 'i',
             'oo': 'u',
         }
         
@@ -79,16 +76,71 @@ class FilipinoCFGParser:
         for pattern, replacement in self.phoneme_rules:
             result = result.replace(pattern, replacement)
         
-        # Step 2: Handle 'c' specially
+        # if y is after x, change to i (e.g., acyclovir -> asayklobir)
+        result = re.sub(r'(?<=[x])y', 'i', result)
+        
+        # Only if starts with x, change to s
+        result = re.sub(r'^x', 's', result)
+        
+        # Every other case, replace with ks
+        result = re.sub(r'x', 'ks', result)
+        
+        # if y is before s, change to i (e.g., acyclovir -> asayklobir)
+        result = re.sub(r'y(?=[s])', 'i', result)    
+        
+        # If y is before l, change to i (e.g., acetylcysteine -> asetilsisteen)
+        result = re.sub(r'(?i)y(?=l)', 'i', result)    
+        
         # c before e/i -> s (centro -> sentro)
-        result = re.sub(r'c([ei])', r's\1', result)
+        result = re.sub(r'c([eyi])', r's\1', result)
+        
         # c elsewhere -> k (computer -> kompyuter)
         result = result.replace('c', 'k')
         
+        # Special handling for 'sy' -> 'sayk' (e.g., cyclosporine -> siklosporine)
+        result = re.sub(r'(?i)y', 'ay', result)
+        
+        # switch y and i if y does not preceed with a
+        result = re.sub(r'(?<!a)y', 'i', result)
+        
+        # Handle anything ending with -ate
+        result = re.sub(r'ate$', 'eyt', result)
+        
+        # Handle anything ending with -ide
+        
+        result = re.sub(r'ide$', 'ayd', result)
+        
+        # Handle anything ending with -e
+        
+        result = re.sub(r'e$', '', result)
+        
+        # Handle th specifically
+        
+        result = result.replace('th', 't')
+        
+        # Sub out for double letters in a row
+        
+        result = re.sub(r'(.)\1', r'\1', result)
+    
+        # Anything with ein turns into eene
+        result = result.replace('ein', 'een')
+        
+        # Anything with 'o[vowel][!consonant]' has a y in middle
+        
+        result = re.sub(r'o([aeiou])(?![aeiou])', r'oy\1', result)
+        
+        # Anything with 'eu' should be u in middle
+        
+        result = result.replace('eu', 'u')
+        
+        # Anything with 'io' has a y in middle
+        
+        # result = result.replace('io', 'iyo')
+        
         # Step 3: Apply Spanish-specific patterns
-        if source_lang in ['spanish', 'auto']:
-            for pattern, replacement in self.spanish_patterns:
-                result = re.sub(pattern, replacement, result)
+        # if source_lang in ['spanish', 'auto']:
+        #     for pattern, replacement in self.spanish_patterns:
+        #         result = re.sub(pattern, replacement, result)
         
         # Step 4: Apply English-specific patterns
         if source_lang in ['english', 'auto']:
@@ -255,13 +307,13 @@ class FilipinoCFGParser:
             ('verde', 'berde'),
             ('chocolate', 'tsokolate'),
             ('jeep', 'dyip'),
-            ('zipón', 'sipon'),
+            ('zipon', 'sipon'),
             ('baño', 'banyo'),
             ('examen', 'eksamen'),
             ('centro', 'sentro'),
             ('como está', 'kumusta'),
             ('gobierno', 'gobyerno'),
-            ('educación', 'edukasyon'),
+            ('educacion', 'edukasyon'),
         ]
         for spanish, expected in spanish_words:
             result = self.apply_phonological_rules(spanish, 'spanish')
@@ -331,6 +383,19 @@ class FilipinoCFGParser:
             print(f"   {prev:10} + {result:4} → {phrase}")
         
         print("\n" + "=" * 70)
+        
+    def evaluate_parser(self, drug_table):
+        TP = FP = 0
+        for drug, expected_list in drug_table.items():
+            result = self.apply_phonological_rules(drug, 'english')
+            if result in expected_list:
+                TP += 1
+            else:
+                FP += 1
+        accuracy = TP / (TP + FP) if (TP + FP) else 0
+        precision = TP / (TP + FP) if (TP + FP) else 0
+        return {'TP': TP, 'FP': FP, 'Accuracy': accuracy, 'Precision': precision}
+
 
 
 # Example usage
@@ -345,20 +410,232 @@ if __name__ == "__main__":
     print("INTERACTIVE EXAMPLES")
     print("=" * 70)
     
-    print("\nSpanish words:")
-    for word in ['gobierno', 'educación', 'teléfono', 'baño']:
-        print(f"  {word:15} → {parser.apply_phonological_rules(word, 'spanish')}")
+    # print("\nSpanish words:")
+    # for word in ['gobierno', 'educacion', 'teléfono', 'baño']:
+    #     print(f"  {word:15} → {parser.apply_phonological_rules(word, 'spanish')}")
     
-    print("\nEnglish words:")
-    for word in ['computer', 'facebook', 'television']:
-        print(f"  {word:15} → {parser.apply_phonological_rules(word, 'english')}")
+    # print("\nEnglish words:")
+    # for word in ['computer', 'facebook', 'television']:
+    #     print(f"  {word:15} → {parser.apply_phonological_rules(word, 'english')}")
+        
+    # Dictionary of drug names -> list of acceptable outputs
+    drug_table = {
+        'Acetaminophen': ['asetaminofen', 'asitaminofen'],
+        'Acetylcysteine': ['asetilsisteen'],
+        'Acyclovir': ['asayklobir'],
+        'Albendazole': ['albendasol'],
+        'Albuterol': ['albiyuterol'],
+        'Alendronate': ['alendronet', 'alendroneyt'],
+        'Alprazolam': ['alprasolam'],
+        'Amikacin': ['amikasin'],
+        'Amlodipine': ['amlodopin'],
+        'Amoxicillin': ['amoksisilin'],
+        'Apixaban': ['apiksaban'],
+        'Aripiprazole': ['aripiprasol'],
+        'Aspirin': ['asprin', 'aspirin'],
+        'Atorvastatin': ['atorvastatin'],
+        'Azithromycin': ['asitromaysin'],
+        'Aztreonam': ['astreonam'],
+        'Bacitracin': ['basitrasin'],
+        'Baloxavir': ['baloksabir'],
+        'Beclomethasone': ['beklometason'],
+        'Betamethasone': ['betametason'],
+        'Bisacodyl': ['bisakodil'],
+        'Brompheniramine': ['brompeniramin', 'bromfeniramin'],
+        'Budesonide': ['budesonayd'],
+        'Bupropion': ['bupropyon', 'bupropiyon'],
+        'Buspirone': ['buspiron'],
+        'Calcium Carbonate': ['kalsyung karbonet'],
+        'Captopril': ['kaptopril'],
+        'Carbamazepine': ['karbamasepin'],
+        'Carbimazole': ['karbimasol'],
+        'Carvedilol': ['karbedilol'],
+        'Celecoxib': ['selekoksib'],
+        'Cephalexin': ['sefaleksin'],
+        'Cetirizine': ['setirisin', 'sitirisin'],
+        'Chloramphenicol': ['kloramfenikol'],
+        'Chloroquine': ['kloroquin'],
+        'Chlorpromazine': ['klorpromasin'],
+        'Ciprofloxacin': ['siprofloksasin'],
+        'Clindamycin': ['klindamaysin'],
+        'Clobetasol': ['klobetasol'],
+        'Clonazepam': ['klonasepam'],
+        'Clopidogrel': ['klopidogrel'],
+        'Clotrimazole': ['klotrimasol', 'klotrimasowl'],
+        'Clozapine': ['klosapin'],
+        'Codeine': ['kodeyn', 'kowdeyn', 'kodin', 'kowdin', 'kowdeen'],
+        'Cyanocobalamin': ['sayanokobalamin'],
+        'Cyclosporine': ['sayklosporin'],
+        'Cyproheptadine': ['sipropetadin'],
+        'Daptomycin': ['daptomaysin'],
+        'Desloratadine': ['desloratadin'],
+        'Dexamethasone': ['deksametason', 'deksametasown'],
+        'Dextromethorphan': ['dekstrometorfan', 'dektrometorpan'],
+        'Diazepam': ['diyasepam'],
+        'Diclofenac': ['diklofenak'],
+        'Dimenhydrinate': ['dimenhaydrineyt'],
+        'Diphenhydramine': ['daypenhaydramin'],
+        'Dolutegravir': ['dolutegrawir'],
+        'Domperidone': ['domperidon', 'domperidown'],
+        'Doxycycline': ['doksaysiklin'],
+        'Duloxetine': ['duloksetin'],
+        'Efavirenz': ['epabirens'],
+        'Enalapril': ['enalapril'],
+        'Ertapenem': ['ertapenem'],
+        'Erythromycin': ['eritromaysin'],
+        'Escitalopram': ['eskitalopram'],
+        'Esomeprazole': ['esomeprasol', 'esomeprasowl'],
+        'Ethambutol': ['etambutol'],
+        'Famciclovir': ['pamsiklobir'],
+        'Fentanyl': ['fentanil'],
+        'Ferrous Sulfate': ['peryus sulpeyt'],
+        'Fexofenadine': ['feksofenadin'],
+        'Finasteride': ['finasterayd'],
+        'Fluconazole': ['flukonasol', 'flukonasowl'],
+        'Fluoxetine': ['pluoksetin'],
+        'Fluticasone': ['flutikason'],
+        'Folic Acid': ['folik asid'],
+        'Formoterol': ['formoterol'],
+        'Furosemide': ['furosemayd'],
+        'Gabapentin': ['gabapentin'],
+        'Gentamicin': ['hentamaysin'],
+        'Glimepiride': ['glaymepirayd'],
+        'Guaifenesin': ['gwaypenesin', 'gwafenesin'],
+        'Haloperidol': ['haloperidol'],
+        'Heparin': ['heparin'],
+        'Hydrochlorothiazide': ['haydroklorotayasayd'],
+        'Hydrocortisone': ['haydkortison', 'haydkortisown'],
+        'Hydroxychloroquine': ['haydroksiklorokwin'],
+        'Hydroxyzine': ['haydroksisin'],
+        'Ibuprofen': ['aaybuprofén', 'aybuprofen', 'aaybupropen', 'aybupropen'],
+        'Imipenem': ['imipenem'],
+        'Insulin': ['insulin'],
+        'Interferon': ['interferon'],
+        'Ipratropium': ['ipratropyum'],
+        'Isoniazid': ['aysoneyasid'],
+        'Ivermectin': ['aybermek­tin'],
+        'Ketoconazole': ['ketokonasol', 'ketonasowl'],
+        'Ketorolac': ['ketorolak'],
+        'Lamivudine': ['lamivudin'],
+        'Lamotrigine': ['lamotrijin'],
+        'Levamisole': ['lebamisol'],
+        'Levetiracetam': ['lebetirasetam'],
+        'Levocetirizine': ['lebosetirisin'],
+        'Levofloxacin': ['lebofloksasin'],
+        'Levothyroxine': ['lebotayroksin'],
+        'Linezolid': ['linesolid'],
+        'Lisinopril': ['lisinopril'],
+        'Lithium': ['lityum'],
+        'Loperamide': ['loperamayd'],
+        'Loratadine': ['loratadin'],
+        'Lorazepam': ['lorasepam'],
+        'Losartan': ['losartan'],
+        'Magnesium Oxide': ['magnesyum oksayd'],
+        'Malathion': ['malasyon'],
+        'Mebendazole': ['mebendasol'],
+        'Meclizine': ['meklisin'],
+        'Meloxicam': ['meloksikam'],
+        'Meropenem': ['meropenem'],
+        'Metformin': ['metformin'],
+        'Methimazole': ['metimasol'],
+        'Methylprednisolone': ['metilprednisolon'],
+        'Metoclopramide': ['metoklopramayd'],
+        'Metoprolol': ['metoprolol'],
+        'Metronidazole': ['metronidasol', 'metronidasowl'],
+        'Midazolam': ['midasolam'],
+        'Minocycline': ['minosayklin'],
+        'Mirtazapine': ['mirtasapin'],
+        'Molnupiravir': ['molnupirabir'],
+        'Mometasone': ['mometason'],
+        'Montelukast': ['montelukast'],
+        'Morphine': ['morfin', 'morpin'],
+        'Naproxen': ['naproksen'],
+        'Neomycin': ['neomaysin'],
+        'Nitrofurantoin': ['nitropurantoyin', 'nitrofurantoyin'],
+        'Ofloxacin': ['ofloksasin'],
+        'Olanzapine': ['olansapin'],
+        'Omeprazole': ['omeprasol'],
+        'Ondansetron': ['ondansetron'],
+        'Oseltamivir': ['oseltamibir'],
+        'Oxycodone': ['oksikodon', 'oksikodown'],
+        'Oxymetazoline': ['oksimetasolin'],
+        'Pantoprazole': ['pantoprasol', 'pantoprasowl'],
+        'Paracetamol': ['parasetamol'],
+        'Paroxetine': ['paroksetin'],
+        'Paxlovid': ['pakslobid'],
+        'Permethrin': ['permetrin'],
+        'Phenylephrine': ['piniyleprin'],
+        'Phenytoin': ['penitoyn', 'fenitoyn'],
+        'Polymyxin B': ['polimiksin bi'],
+        'Praziquantel': ['prasekwantel'],
+        'Prednisone': ['prednison', 'prednisown'],
+        'Pregabalin': ['pregabalin'],
+        'Prochlorperazine': ['proklorperasin'],
+        'Promethazine': ['prometasin'],
+        'Propranolol': ['propranolol'],
+        'Pseudoephedrine': ['sudoyepedrin', 'sudoyefedrin'],
+        'Psyllium': ['sillyum', 'silium'],
+        'Pyrantel Pamoate': ['payrantel pamoeyt'],
+        'Pyrazinamide': ['payrasinamayd'],
+        'Quetiapine': ['kwetiyapin'],
+        'Ranitidine': ['ranitidin'],
+        'Remdesivir': ['remdesibir'],
+        'Rifampicin': ['rifampisin'],
+        'Risperidone': ['rispéridon'],
+        'Rivaroxaban': ['ribaraksaban'],
+        'Rosuvastatin': ['rosubastatin'],
+        'Salbutamol': ['salbutamol'],
+        'Salmeterol': ['salmeterol'],
+        'Senna': ['senna'],
+        'Sertraline': ['sertralin'],
+        'Sildenafil': ['sildenefil'],
+        'Simethicone': ['simetikon', 'simetikown'],
+        'Simvastatin': ['simbastatin'],
+        'Sitagliptin': ['sitagliptin'],
+        'Spironolactone': ['spironolákton'],
+        'Sulfamethoxazole': ['sulfametoksasol'],
+        'Tacrolimus': ['takrolimus'],
+        'Tadalafil': ['tadalapil'],
+        'Tamsulosin': ['tamsulosin'],
+        'Tenofovir': ['tenofobir'],
+        'Tetracycline': ['tetraysiklin'],
+        'Theophylline': ['teofilin'],
+        'Tigecycline': ['tigesayklin'],
+        'Tiotropium': ['tiyotropiyum'],
+        'Tobramycin': ['tobramaysin'],
+        'Topiramate': ['topirameyt'],
+        'Tramadol': ['tramadol'],
+        'Trazodone': ['trasodon'],
+        'Triamcinolone': ['triamsinolon'],
+        'Trimethoprim': ['trimetoprim'],
+        'Valacyclovir': ['balasayklobir'],
+        'Valproic Acid': ['balproyik asid'],
+        'Valsartan': ['balsartan'],
+        'Vancomycin': ['bankomaysin'],
+        'Venlafaxine': ['benlafaksin'],
+        'Vitamin C': ['bitamin si'],
+        'Vitamin D': ['bitamin di'],
+        'Warfarin': ['warfarin'],
+        'Xylometazoline': ['silometasolin'],
+        'Zanamivir': ['sanamibir'],
+        'Zinc Sulfate': ['sink sulpeyt', 'sink sulfeyt'],
+    }
+
+    # Testing loop
+    for drug, expected_list in drug_table.items():
+        result = parser.apply_phonological_rules(drug, 'english')  # your parser function
+        match = '✓' if result in expected_list else '✗'
+        print(f"{match} {drug:25} → {result:25} (expected: {', '.join(expected_list)})")
+
+    metrics = parser.evaluate_parser(drug_table)
+    print(metrics)
     
-    print("\nWith affixes:")
-    print(f"  luto + mag → {parser.add_affixes('luto', 'mag')}")
-    print(f"  kain + um  → {parser.add_affixes('kain', 'um')}")
+    # print("\nWith affixes:")
+    # print(f"  luto + mag → {parser.add_affixes('luto', 'mag')}")
+    # print(f"  kain + um  → {parser.add_affixes('kain', 'um')}")
     
-    print("\nLigatures:")
-    print(f"  maganda + bahay → {parser.apply_ligature('maganda', 'bahay')}")
-    print(f"  malinis + silid → {parser.apply_ligature('malinis', 'silid')}")
+    # print("\nLigatures:")
+    # print(f"  maganda + bahay → {parser.apply_ligature('maganda', 'bahay')}")
+    # print(f"  malinis + silid → {parser.apply_ligature('malinis', 'silid')}")
     
     print("\n" + "=" * 70)
