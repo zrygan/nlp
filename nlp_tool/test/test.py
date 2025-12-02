@@ -9,7 +9,7 @@ parser = FilipinoCFGParser()
 
 with open('data.csv', 'r') as f:
     reader = csv.reader(f)
-    with open('res.csv', 'w') as out:
+    with open('res.txt', 'w') as out:
         ts = 0
         fs = 0
         for row in reader:
