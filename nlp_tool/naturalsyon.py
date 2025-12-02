@@ -22,7 +22,7 @@ class FilipinoCFGParser:
             ('j', 'dy'),   # jeep -> dyip
             ('z', 's'),    # zipon -> sipon
             ('ñ', 'ny'),   # baño -> banyo
-            ('q', 'kuw'),  # queen -> kwin
+            ('qu', 'kuw'),  # queen -> kwin
         ]
         
         # Special C handling: /s/ sound -> s, /k/ sound -> k
@@ -50,6 +50,7 @@ class FilipinoCFGParser:
         # Vowel interchangeability (Section 2.1.1)
         # e/i and o/u are allophones in Filipino
         self.vowel_shifts = {
+            'ee': 'i',
             'oo': 'u',
         }
         
@@ -134,7 +135,7 @@ class FilipinoCFGParser:
         result = re.sub(r'([^\d])\1', r'\1', result)
     
         # Anything with ein turns into eene
-        result = result.replace('ein', 'een')
+        result = result.replace('ein', 'in')
         
         # Anything with 'o[vowel][!consonant]' has a y in middle
         
@@ -148,12 +149,20 @@ class FilipinoCFGParser:
         
         result = result.replace('eu', 'u')
         
+        # 'ee' -> 'i', 'oo' -> 'u'
+        result = result.replace('ee', 'i')
+        result = result.replace('oo', 'u')
+        
 
         
         # Step 3: Apply Spanish-specific patterns
         # if source_lang in ['spanish', 'auto']:
         #     for pattern, replacement in self.spanish_patterns:
         #         result = re.sub(pattern, replacement, result)
+        
+        # Step 6: Apply vowel shifts
+        # for eng, fil in self.vowel_shifts.items():
+        #     result = result.replace(eng, fil)
         
         # Step 4: Apply English-specific patterns
         if source_lang in ['english', 'auto']:
@@ -166,9 +175,6 @@ class FilipinoCFGParser:
             if consonant + consonant + consonant in result:
                 result = result.replace(consonant + consonant + consonant, consonant)
         
-        # Step 6: Apply vowel shifts
-        for eng, fil in self.vowel_shifts.items():
-            result = result.replace(eng, fil)
         
         return result
     
