@@ -1,0 +1,117 @@
+#!/bin/bash
+
+# Configuration
+SRC_LANG="ceb"
+TGT_LANG="eng"
+MODEL_PATH="../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_12.2801.pt"
+DATA_BIN="../data-bin/augmentation/ceb-eng/bin"
+RESULTS_DIR="results/augmentation/aug4_ceb_eng"
+
+# Create results directory
+mkdir -p ${RESULTS_DIR}
+
+cat << EOF
+==========================================
+Evaluating ${SRC_LANG} → ${TGT_LANG} Model
+==========================================
+Model: ${MODEL_PATH}
+Data: ${DATA_BIN}
+EOF
+
+# Check if model exists
+if [ ! -f "${MODEL_PATH}" ]; then
+cat << EOF
+:( ERROR: Model not found at ${MODEL_PATH}
+:( Please train the model first or check the path.
+EOF
+    exit 1
+fi
+
+# Evaluate on test set
+echo "Running evaluation on test set..."
+uv run --active fairseq-generate ${DATA_BIN} \
+    --path ${MODEL_PATH} \
+    --batch-size 32 \
+    --beam 5 \
+    --remove-bpe \
+    --gen-subset test \
+    --results-path ${RESULTS_DIR} \
+    2>&1 | tee ${RESULTS_DIR}/evaluation.log
+
+# The actual translations are in generate-test.txt
+GENERATE_FILE="${RESULTS_DIR}/generate-test.txt"
+
+cat << EOF
+==========================================
+Results Summary
+==========================================
+EOF
+
+# Extract BLEU score from evaluation.log (console output)
+echo "\nBLEU Score:"
+BLEU=$(grep "BLEU4 = " ${RESULTS_DIR}/generate-test.txt | grep -oP "BLEU4 = \K[0-9.]+")
+
+if [ -z "$BLEU" ]; then
+    BLEU=$(grep "BLEU = " ${RESULTS_DIR}/generate-test.txt | grep -oP "BLEU = \K[0-9.]+")
+fi
+if [ -n "$BLEU" ]; then
+    echo "  BLEU: $BLEU"
+else
+    echo "  (BLEU score not found - check evaluation.log)"
+fi
+
+echo ""
+echo "Full evaluation log: ${RESULTS_DIR}/evaluation.log"
+echo "Generated translations: ${GENERATE_FILE}"
+
+# Check if generate-test.txt exists
+if [ ! -f "${GENERATE_FILE}" ]; then
+    echo ""
+    echo "ERROR: ${GENERATE_FILE} not found!"
+    exit 1
+fi
+
+# Extract sample translations from generate-test.txt
+echo ""
+echo "Sample Translations (first 10):"
+grep "^S-\|^T-\|^H-\|^D-" ${GENERATE_FILE} | head -40
+
+cat << EOF
+==========================================
+Additional Analysis
+==========================================
+EOF
+
+# Count translations from generate-test.txt
+NUM_TRANSLATIONS=$(grep "^H-" ${GENERATE_FILE} | wc -l)
+echo "Total translations: ${NUM_TRANSLATIONS}"
+
+if [ ${NUM_TRANSLATIONS} -gt 0 ]; then
+    # Extract all hypotheses (3rd field)
+    grep "^H-" ${GENERATE_FILE} | cut -f3 > ${RESULTS_DIR}/hypotheses.txt
+    echo "All translations saved to: ${RESULTS_DIR}/hypotheses.txt"
+    
+    # Extract all references (2nd field)
+    grep "^T-" ${GENERATE_FILE} | cut -f2 > ${RESULTS_DIR}/references.txt
+    echo "All references saved to: ${RESULTS_DIR}/references.txt"
+    
+    # Extract all sources (2nd field)
+    grep "^S-" ${GENERATE_FILE} | cut -f2 > ${RESULTS_DIR}/sources.txt
+    echo "All sources saved to: ${RESULTS_DIR}/sources.txt"
+    
+    # Show statistics
+    echo ""
+    echo "Translation Statistics:"
+    echo "  Average source length: $(awk '{print NF}' ${RESULTS_DIR}/sources.txt | awk '{s+=$1} END {printf "%.1f", s/NR}') words"
+    echo "  Average translation length: $(awk '{print NF}' ${RESULTS_DIR}/hypotheses.txt | awk '{s+=$1} END {printf "%.1f", s/NR}') words"
+    
+    # Show a few example translations side-by-side
+    echo ""
+    echo "Example Translations:"
+    echo "---"
+    paste ${RESULTS_DIR}/sources.txt ${RESULTS_DIR}/hypotheses.txt ${RESULTS_DIR}/references.txt | head -5 | awk -F'\t' '{printf "SRC: %s\nHYP: %s\nREF: %s\n---\n", $1, $2, $3}'
+else
+    echo "WARNING: No translations found. Check ${GENERATE_FILE} for errors."
+fi
+
+echo "Evaluation complete!"

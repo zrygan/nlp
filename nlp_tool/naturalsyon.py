@@ -1,0 +1,364 @@
+"""
+Filipino Naturalization CFG Parser
+Based on Filipino orthography rules from linguistic research
+Applies phonological rules as documented in Filipino language standardization
+"""
+
+import re
+from typing import List, Tuple, Dict, Optional
+
+class FilipinoCFGParser:
+    def __init__(self):
+        # Core Filipino alphabet
+        self.core_consonants = {'b', 'k', 'd', 'g', 'h', 'l', 'm', 'n', 'ng', 'p', 'r', 's', 't', 'w', 'y'}
+        self.vowels = {'a', 'e', 'i', 'o', 'u'}
+        
+        # Phonological mapping rules (Section 2.1.4 of the document)
+        # These are the official Filipino naturalization rules
+        self.phoneme_rules = [
+            ('ph', 'p'),   # phone -> pon
+            ('f', 'p'),    # telefono -> telepono
+            ('v', 'b'),    # verde -> berde
+            ('ch', 'ts'),  # chocolate -> tsokolate
+            ('j', 'dy'),   # jeep -> dyip
+            ('z', 's'),    # zipon -> sipon
+            ('ñ', 'ny'),   # baño -> banyo
+            ('x', 'ks'),   # examen -> eksamen
+            ('qu', 'kw'),  # queen -> kwin
+        ]
+        
+        # Special C handling: /s/ sound -> s, /k/ sound -> k
+        # gobierno -> gobyerno (c as /k/ before i/e in Spanish -> /g/ in Filipino)
+        # centro -> sentro (c as /s/)
+        
+        # Common Spanish->Filipino transformations
+        self.spanish_patterns = [
+            (r'é', 'e'),             # teléfono -> teléphono
+            (r'ó', 'o'),             # zipón -> sipón
+            (r'á', 'a'),             # como está -> komo está
+            (r'cion$', 'syon'),      # educacion -> edukasyon
+            (r'ción$', 'syon'),      # 
+            (r'tion$', 'syon'),      # education -> edukasyon
+            (r'tión$', 'syon'),      # education -> edukasyon
+            (r'gobierno', 'gobyerno'), # gobierno -> gobyerno
+            (r'bie', 'biye'),        # gobierno -> gobyerno
+            (r'ci([eo])', r'sy\1'),  # gracias -> grasyas
+            (r'ce', 'se'),           # centro -> sentro
+            (r'ci', 'si'),           # medicina -> medisina
+            (r'o e', 'u'),           # como está -> komustá
+            (r'^ko', 'ku'),          # como está -> kumustá
+        ]
+        
+        # Vowel interchangeability (Section 2.1.1)
+        # e/i and o/u are allophones in Filipino
+        self.vowel_shifts = {
+            'ee': 'i',
+            'oo': 'u',
+        }
+        
+        # Common English->Filipino word patterns
+        self.english_patterns = [
+            (r'tion$', 'syon'),
+            (r'sion$', 'syon'),
+            (r'ture$', 'tyur'),
+            (r'ter$', 'ter'),
+            (r'ble$', 'bol'),
+        ]
+        
+    def apply_phonological_rules(self, word: str, source_lang: str = 'auto') -> str:
+        """
+        Apply Filipino phonological naturalization rules
+        
+        Args:
+            word: Word to naturalize
+            source_lang: 'spanish', 'english', or 'auto'
+        """
+        result = word.lower()
+        
+        # Step 1: Apply basic phoneme mappings (works for both Spanish and English)
+        for pattern, replacement in self.phoneme_rules:
+            result = result.replace(pattern, replacement)
+        
+        # Step 2: Handle 'c' specially
+        # c before e/i -> s (centro -> sentro)
+        result = re.sub(r'c([ei])', r's\1', result)
+        # c elsewhere -> k (computer -> kompyuter)
+        result = result.replace('c', 'k')
+        
+        # Step 3: Apply Spanish-specific patterns
+        if source_lang in ['spanish', 'auto']:
+            for pattern, replacement in self.spanish_patterns:
+                result = re.sub(pattern, replacement, result)
+        
+        # Step 4: Apply English-specific patterns
+        if source_lang in ['english', 'auto']:
+            for pattern, replacement in self.english_patterns:
+                result = re.sub(pattern, replacement, result)
+        
+        # Step 5: Handle double consonants (reduce to single in most cases)
+        # But preserve important doubles like 'dd' in 'adda'
+        for consonant in 'bdfghjklmnpqrstvwxz':
+            if consonant + consonant + consonant in result:
+                result = result.replace(consonant + consonant + consonant, consonant)
+        
+        # Step 6: Apply vowel shifts
+        for eng, fil in self.vowel_shifts.items():
+            result = result.replace(eng, fil)
+        
+        return result
+    
+    def add_affixes(self, root: str, affix_type: str = 'mag') -> str:
+        """
+        Add Filipino verbal affixes (Section 3.2.2 - Verb focus and aspect)
+        
+        Affix types:
+        - mag: actor focus (mag-aral = to study)
+        - nag: completed actor focus
+        - um: actor focus infix
+        - in: object focus suffix
+        - pag: nominalizer
+        - ka: superlative/recent completion
+        """
+        affixes = {
+            'mag': f'mag-{root}',           # magkain ka rinaldo ng itlog
+            'nag': f'nag-{root}',           # nagkain ni rinaldo ang kanyang talong
+            'um': self._insert_um(root),    # kumain ka lang clarence
+            'in': f'{root}-in',             # kainin mo ang sushi roll clive
+            'an': f'{root}-an',             
+            'pag': f'pag-{root}',           # ang pagkain ni Roan ay maliit
+            'i': f'i-{root}',               
+            'ka': f'ka-{root}',             # kakain lang ni rinaldo ang buldak
+            'pang': f'pang-{root}',
+        }
+        
+        return affixes.get(affix_type, root)
+    
+    def _insert_um(self, word: str) -> str:
+        """Insert 'um' infix after first consonant or at beginning if starts with vowel"""
+        vowels = 'aeiou'
+        
+        # If starts with vowel, just prefix
+        if word[0] in vowels:
+            return f'um{word}'
+        
+        # Find first vowel and insert 'um' before it
+        for i, char in enumerate(word):
+            if char in vowels:
+                return word[:i] + 'um' + word[i:]
+        
+        return f'um{word}'
+    
+    def apply_reduplication(self, word: str, pattern: str = 'full', prefix: str = '') -> str:
+        """
+        Apply Filipino reduplication patterns (Section 2.3.5)
+        
+        For recent completion (ka-): reduplicate first syllable of ROOT, not prefix
+        Example: ka-gising -> ka-gi-gising (not ka-ka-gising)
+        """
+        if pattern == 'full':
+            return f'{word}-{word}'
+        
+        elif pattern == 'partial':
+            # Reduplicate first CV (consonant-vowel)
+            vowels = 'aeiou'
+            
+            # Skip prefix if provided
+            root = word
+            if prefix and word.startswith(prefix):
+                root = word[len(prefix):]
+            
+            # Find first CV pattern in root
+            for i in range(len(root) - 1):
+                if root[i] not in vowels and root[i+1] in vowels:
+                    reduplication = root[:i+1]
+                    if prefix:
+                        return f'{prefix}{reduplication}-{root}'
+                    else:
+                        return f'{reduplication}-{root}'
+            
+            # Fallback
+            return f'{word[:2]}-{word}'
+        
+        elif pattern == 'recent':
+            # ka- + CV-reduplication (Section 2.3.5)
+            # kagigising = ka-gi-gising (reduplicate first syllable of "gising")
+            vowels = 'aeiou'
+            
+            for i in range(len(word) - 1):
+                if word[i] not in vowels and word[i+1] in vowels:
+                    first_syllable = word[:i+2]  # Get CV
+                    return f'ka{first_syllable}-{word}'
+            
+            return f'ka{word[:2]}-{word}'
+        
+        return word
+    
+    def apply_ligature(self, adjective: str, noun: str) -> str:
+        """
+        Apply Filipino ligature rules (Section 2.5.1)
+        
+        Rules:
+        - If adjective ends in vowel: add -ng
+        - If adjective ends in 'n': add -g  
+        - If adjective ends in other consonant: add ' na'
+        """
+        last_char = adjective[-1].lower()
+        
+        if last_char in 'aeiou':
+            # Vowel ending: add -ng
+            return f'{adjective}ng {noun}'
+        elif last_char == 'n':
+            # Ends in 'n': add -g
+            return f'{adjective}g {noun}'
+        else:
+            # Other consonant: use 'na'
+            return f'{adjective} na {noun}'
+    
+    def check_particle_agreement(self, prev_word: str, particle: str) -> str:
+        """
+        Check din/rin agreement (Section 2.3.3)
+        
+        Rule: Use 'rin' after vowels/w/y, 'din' after consonants
+        """
+        if not prev_word:
+            return particle
+        
+        last_char = prev_word.rstrip('.,!?;:')[-1].lower()
+        
+        if last_char in 'aeiouy' or last_char == 'w':
+            return 'rin'
+        else:
+            return 'din'
+    
+    def parse_cfg_rule(self, rule: str) -> Tuple[str, List[str]]:
+        """Parse CFG rule: S -> NP VP"""
+        parts = rule.split('->')
+        if len(parts) != 2:
+            raise ValueError(f"Invalid CFG rule: {rule}")
+        
+        left = parts[0].strip()
+        right = parts[1].strip().split()
+        
+        return left, right
+    
+    def demonstrate_naturalization(self):
+        """Demonstrate Filipino naturalization with real examples from the paper"""
+        print("=" * 70)
+        print("FILIPINO NATURALIZATION PARSER")
+        print("Based on: Ang, Chua, Tabe (2025) - Analysis of Filipino Spelling")
+        print("=" * 70)
+        
+        # Spanish loanwords (Section 2.1.4)
+        print("\n1. SPANISH LOANWORDS -> FILIPINO:")
+        spanish_words = [
+            ('teléfono', 'telepono'),
+            ('verde', 'berde'),
+            ('chocolate', 'tsokolate'),
+            ('jeep', 'dyip'),
+            ('zipón', 'sipon'),
+            ('baño', 'banyo'),
+            ('examen', 'eksamen'),
+            ('centro', 'sentro'),
+            ('como está', 'kumusta'),
+            ('gobierno', 'gobyerno'),
+            ('educación', 'edukasyon'),
+        ]
+        for spanish, expected in spanish_words:
+            result = self.apply_phonological_rules(spanish, 'spanish')
+            match = "✓" if result == expected else "✗"
+            print(f"   {match} {spanish:15} → {result:15} (expected: {expected})")
+        
+        # English loanwords
+        print("\n2. ENGLISH LOANWORDS -> FILIPINO:")
+        english_words = [
+            ('computer', 'kompyuter'),
+            ('facebook', 'peysbok'),
+            ('television', 'telebisyon'),
+            ('education', 'edukasyon'),
+        ]
+        for english, expected in english_words:
+            result = self.apply_phonological_rules(english, 'english')
+            print(f"   {english:15} → {result}")
+        
+        # Affixation (Section 3.2.2)
+        print("\n3. AFFIXATION (Verb Focus):")
+        examples = [
+            ('aral', 'mag', 'mag-aral (to study)'),
+            ('aral', 'nag', 'nag-aral (studied)'),
+            ('kain', 'um', 'kumain (ate)'),
+            ('sulat', 'in', 'sulat-in (to be written)'),
+        ]
+        for root, affix, description in examples:
+            result = self.add_affixes(root, affix)
+            print(f"   {root} + {affix:3} → {result:15} ({description})")
+        
+        # Reduplication for recent completion (Section 2.3.5)
+        print("\n4. REDUPLICATION (Recent Completion - ka-):")
+        print("   Rule: ka- + reduplicate first syllable of ROOT")
+        examples = [
+            ('gising', 'kagigising', 'just woke up'),
+            ('sulat', 'kasusulat', 'just wrote'),
+            ('tapos', 'katatapos', 'just finished'),
+        ]
+        for root, expected, meaning in examples:
+            result = self.apply_reduplication(root, 'recent')
+            match = "✓" if result.replace('-', '') == expected else "✗"
+            print(f"   {match} {root:10} → {result:15} (expected: {expected}) = {meaning}")
+        
+        # Ligatures (Section 2.5.1)
+        print("\n5. LIGATURES (Adjective-Noun):")
+        examples = [
+            ('maganda', 'bahay', 'magandang bahay', 'beautiful house'),
+            ('malinis', 'silid', 'malinis na silid', 'clean room'),
+            ('magaan', 'aklat', 'magaang aklat', 'light book'),
+        ]
+        for adj, noun, expected, meaning in examples:
+            result = self.apply_ligature(adj, noun)
+            match = "✓" if result == expected else "✗"
+            print(f"   {match} {adj} + {noun:6} → {result:20} ({meaning})")
+        
+        # Particle agreement (Section 2.3.3)
+        print("\n6. ENCLITIC PARTICLES (din/rin):")
+        print("   Rule: 'rin' after vowels/w/y, 'din' after consonants")
+        examples = [
+            ('ako', 'rin', 'ako rin'),
+            ('Juan', 'din', 'Juan din'),
+            ('mahirap', 'din', 'mahirap din'),
+            ('wala pa', 'rin', 'wala pa rin'),
+        ]
+        for prev, expected_particle, phrase in examples:
+            result = self.check_particle_agreement(prev, 'din/rin')
+            print(f"   {prev:10} + {result:4} → {phrase}")
+        
+        print("\n" + "=" * 70)
+
+
+# Example usage
+if __name__ == "__main__":
+    parser = FilipinoCFGParser()
+    
+    # Run comprehensive demonstrations
+    parser.demonstrate_naturalization()
+    
+    # Interactive examples
+    print("\n" + "=" * 70)
+    print("INTERACTIVE EXAMPLES")
+    print("=" * 70)
+    
+    print("\nSpanish words:")
+    for word in ['gobierno', 'educación', 'teléfono', 'baño']:
+        print(f"  {word:15} → {parser.apply_phonological_rules(word, 'spanish')}")
+    
+    print("\nEnglish words:")
+    for word in ['computer', 'facebook', 'television']:
+        print(f"  {word:15} → {parser.apply_phonological_rules(word, 'english')}")
+    
+    print("\nWith affixes:")
+    print(f"  luto + mag → {parser.add_affixes('luto', 'mag')}")
+    print(f"  kain + um  → {parser.add_affixes('kain', 'um')}")
+    
+    print("\nLigatures:")
+    print(f"  maganda + bahay → {parser.apply_ligature('maganda', 'bahay')}")
+    print(f"  malinis + silid → {parser.apply_ligature('malinis', 'silid')}")
+    
+    print("\n" + "=" * 70)

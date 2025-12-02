@@ -1,0 +1,29 @@
+\section{Language Selection and Relationship Analysis}
+
+The selection of source and target languages for this machine translation project is determined by both the  similarity analysis and the practical considerations of speaker populations and resource availability. 
+
+\subsection{Language Pair Selection}
+
+Based on the similarity analysis and practical considerations, we selected Cebuano as the source language and Tagalog as the target language. This decision is justified by several factors:
+\\
+
+\textbf{High Linguistic Similarity:} The orthographic similarity of 0.8877 and phonetic similarity of 0.9698 between Cebuano and Tagalog indicate a significant overlap in their structural and word vocabulary. This similarity should facilitate transfer learning and improve translation quality even with limited parallel data.
+\\
+
+\textbf{Speaker Population:} Cebuano serves approximately 27.5 million speakers primarily in regions VII, X, XI, and XIII, while Tagalog reaches over 28 million native speakers in NCR and surrounding regions. Combined with their roles as lingua francas in their respective regions, these languages collectively impact over 40 million Filipinos.
+\\
+
+\textbf{Resource Availability:} Both languages have an abundant amount Bible translations available, providing us with a parallel corpus covering diverse grammatical structures and vocabulary. The Cebuano corpus contains 59,339 words while the Tagalog corpus contains 64,836 words from our Bible cleaning project.
+\\
+
+\textbf{Cluster Representation:} Cebuano and Tagalog belong to the closely related Visayan-Central Philippine language cluster, as evidenced by their high similarity scores with languages like Hiligaynon, Bikol, and Waray. This allows our findings to potentially generalize to other languages within this cluster.
+
+\subsection{Pivot Language Consideration}
+
+Given the limited size of our direct Cebuano-Tagalog parallel corpus, we decided to look into a pivot translation strategy using English as an intermediary language. While English shows no relationship to Philippine languages and would score poorly on our similarity matrices, it offers some advantages:
+\\
+
+English parallel corpora exist for both Cebuano and Tagalog in significantly larger quantities than direct parallel text. Bible translations provide natural alignments to English, and the broader availability of English language resources enables better model training. The pivot approach, translating Cebuano to English, then English to Tagalog, trades the benefits of close linguistic similarity for the advantages of having an abundant amount of data.
+\\
+
+This decision also reflects a major problem in low-resource machine translation: whether to use linguistic similarity with limited data or to use resource-rich pivot languages despite their differences. Our experiments evaluate both direct translation and pivot translation to quantify this tradeoff for Philippine languages.

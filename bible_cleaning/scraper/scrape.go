@@ -42,9 +42,12 @@ func scrapeChapter(chapterURL string, cleaningConfig *[]types.FindReplaceTuple[*
 				}
 			}
 		})
-
+		var verse = strings.Join(verseTexts, " ");
+		for _, tuple := range *cleaningConfig {
+			verse = tuple.Find.ReplaceAllString(verse, tuple.Replace.String())
+		}
 		if len(verseTexts) > 0 {
-			verses = append(verses, fmt.Sprintf("%s", strings.Join(verseTexts, " ")))
+			verses = append(verses, verse)
 		}
 	})
 

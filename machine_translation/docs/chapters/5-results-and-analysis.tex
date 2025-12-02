@@ -1,0 +1,36 @@
+\section{Results and Analysis}
+
+\subsection{Translation Quality}
+Across all tested configurations, the unigram tokenizer achieves slightly higher BLEU scores than BPE. This supports the hypothesis that the probabilistic unigram model better handles the rich morphology and variability present in Philippine languages compared to BPE’s deterministic merge operations.
+
+\subsection{Pivot Translation Performance}
+Based on the experiments, pivoting to English and selecting unigram subtokenization provides much greater results as they are displayed as follows.
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l c}
+\hline
+\textbf{Model} & \textbf{BLEU} \\
+\hline
+ENG $\rightarrow$ TGL (NEW) & 30.26 \\
+ENG $\rightarrow$ TGL + CEB (NEW) & 15.62 \\
+CEB $\rightarrow$ ENG (OLD, UNI) & 19.00 \\
+CEB $\rightarrow$ TGL (OLD, BPE) & 3.32 \\
+CEB $\rightarrow$ TGL (OLD, UNI) & 10.47 \\
+\hline
+\end{tabular}
+\caption{BLEU scores for the evaluated translation models.}
+\label{tab:bleu-results}
+\end{table}
+
+From these results alone, we hypothesize that the Cebuano data is a bottleneck on the overall model as it consistently performs worse when it is involved.
+
+Another theory may be that Cebuano is not as morphologically rich as Tagalog or as analytic as English. This may produce longer sequences or break down words into difficult segments for the model to analyze upon.
+
+\subsection{Error Propagation in the Pivoting}
+
+Although pivot translation improved BLEU overall, it introduces a well-known risk, error propagation. Any mistranslation in the Cebuano → English stage necessarily flows into the English → Tagalog stage. Despite this, the pivot results still outperformed direct CEB → TGL translation, suggesting that the improved data quantity and quality more than compensated for these compounded errors.
+
+\subsection{Interpretation of Results}
+
+Overall, the results of the experiments prove that pivoting to resource-rich languages can outperform direct translation even when the linguistic similarity between two languages are high. This may be due to the limited resources on both Tagalog and Cebuano data that was collected. Thus, proving that languages with high resources could possibly serve as a substitute when dealing with machine translation between two low resource languages.

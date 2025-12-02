@@ -1,0 +1,372 @@
+2025-11-22 10:00:51 | INFO | fairseq.tasks.translation | [ceb] dictionary: 15288 types
+2025-11-22 10:00:51 | INFO | fairseq.tasks.translation | [eng] dictionary: 15288 types
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | TransformerModel(
+  (encoder): TransformerEncoderBase(
+    (dropout_module): FairseqDropout()
+    (embed_tokens): Embedding(15288, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0-5): 6 x TransformerEncoderLayerBase(
+        (self_attn): MultiheadAttention(
+          (dropout_module): FairseqDropout()
+          (k_proj): Linear(in_features=512, out_features=512, bias=True)
+          (v_proj): Linear(in_features=512, out_features=512, bias=True)
+          (q_proj): Linear(in_features=512, out_features=512, bias=True)
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (dropout_module): FairseqDropout()
+        (activation_dropout_module): FairseqDropout()
+        (fc1): Linear(in_features=512, out_features=1024, bias=True)
+        (fc2): Linear(in_features=1024, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+  )
+  (decoder): TransformerDecoderBase(
+    (dropout_module): FairseqDropout()
+    (embed_tokens): Embedding(15288, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0-5): 6 x TransformerDecoderLayerBase(
+        (dropout_module): FairseqDropout()
+        (self_attn): MultiheadAttention(
+          (dropout_module): FairseqDropout()
+          (k_proj): Linear(in_features=512, out_features=512, bias=True)
+          (v_proj): Linear(in_features=512, out_features=512, bias=True)
+          (q_proj): Linear(in_features=512, out_features=512, bias=True)
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (activation_dropout_module): FairseqDropout()
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (dropout_module): FairseqDropout()
+          (k_proj): Linear(in_features=512, out_features=512, bias=True)
+          (v_proj): Linear(in_features=512, out_features=512, bias=True)
+          (q_proj): Linear(in_features=512, out_features=512, bias=True)
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=1024, bias=True)
+        (fc2): Linear(in_features=1024, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+    (output_projection): Linear(in_features=512, out_features=15288, bias=False)
+  )
+)
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | task: TranslationTask
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | model: TransformerModel
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | criterion: LabelSmoothedCrossEntropyCriterion
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | num. shared model params: 55,027,712 (num. trained: 55,027,712)
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | num. expert model params: 0 (num. trained: 0)
+2025-11-22 10:00:51 | INFO | fairseq.data.data_utils | loaded 1,808 examples from: ../../data-bin/augmentation/ceb-eng/bin/valid.ceb-eng.ceb
+2025-11-22 10:00:51 | INFO | fairseq.data.data_utils | loaded 1,808 examples from: ../../data-bin/augmentation/ceb-eng/bin/valid.ceb-eng.eng
+2025-11-22 10:00:51 | INFO | fairseq.tasks.translation | ../../data-bin/augmentation/ceb-eng/bin valid ceb-eng 1808 examples
+2025-11-22 10:00:51 | INFO | fairseq.utils | ***********************CUDA enviroments for all 1 workers***********************
+2025-11-22 10:00:51 | INFO | fairseq.utils | rank   0: capabilities =  8.6  ; total memory = 3.680 GB ; name = NVIDIA GeForce RTX 3050 Ti Laptop GPU   
+2025-11-22 10:00:51 | INFO | fairseq.utils | ***********************CUDA enviroments for all 1 workers***********************
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | training on 1 devices (GPUs/TPUs)
+2025-11-22 10:00:51 | INFO | fairseq_cli.train | max tokens per device = 4096 and max sentences per device = None
+2025-11-22 10:00:51 | INFO | fairseq.trainer | Preparing to load checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_last.pt
+2025-11-22 10:00:51 | INFO | fairseq.trainer | No existing checkpoint found ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_last.pt
+2025-11-22 10:00:51 | INFO | fairseq.trainer | loading train data for epoch 1
+2025-11-22 10:00:51 | INFO | fairseq.data.data_utils | loaded 32,553 examples from: ../../data-bin/augmentation/ceb-eng/bin/train.ceb-eng.ceb
+2025-11-22 10:00:51 | INFO | fairseq.data.data_utils | loaded 32,553 examples from: ../../data-bin/augmentation/ceb-eng/bin/train.ceb-eng.eng
+2025-11-22 10:00:51 | INFO | fairseq.tasks.translation | ../../data-bin/augmentation/ceb-eng/bin train ceb-eng 32553 examples
+2025-11-22 10:00:51 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:00:51 | INFO | fairseq.tasks.fairseq_task | reuse_dataloader = True
+2025-11-22 10:00:51 | INFO | fairseq.tasks.fairseq_task | rebuild_batches = False
+2025-11-22 10:00:51 | INFO | fairseq.tasks.fairseq_task | creating new batches for epoch 1
+2025-11-22 10:00:52 | INFO | fairseq_cli.train | begin dry-run validation on "valid" subset
+2025-11-22 10:00:52 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:00:52 | INFO | fairseq.tasks.fairseq_task | reuse_dataloader = True
+2025-11-22 10:00:52 | INFO | fairseq.tasks.fairseq_task | rebuild_batches = False
+2025-11-22 10:00:52 | INFO | fairseq.tasks.fairseq_task | creating new batches for epoch 1
+2025-11-22 10:00:52 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 001:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:00:52 | INFO | fairseq.trainer | begin training epoch 1
+2025-11-22 10:00:52 | INFO | fairseq_cli.train | Start iterating over samples
+/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq/tasks/fairseq_task.py:531: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast(enabled=(isinstance(optimizer, AMPOptimizer))):
+/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/torch/nn/functional.py:5849: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+epoch 001:   7%|█████▏                                                                       | 17/252 [00:02<00:37,  6.33it/s]2025-11-22 10:00:55 | INFO | fairseq.trainer | NOTE: gradient overflow detected, ignoring gradient, setting loss scale to: 64.0
+epoch 001: 100%|▉| 251/252 [00:37<00:00,  6.70it/s, loss=11.016, nll_loss=10.592, ppl=1543.63, wps=18182.6, ups=6.66, wpb=27312025-11-22 10:01:30 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:01:30 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:01:34 | INFO | valid | epoch 001 | valid on 'valid' subset | loss 9.898 | nll_loss 9.296 | ppl 628.62 | bleu 0.73 | wps 10907.5 | wpb 1534.8 | bsz 72.3 | num_updates 251
+2025-11-22 10:01:34 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 1 @ 251 updates
+2025-11-22 10:01:34 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:01:34 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:01:35 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 1 @ 251 updates, score 0.73) (writing took 1.2491508899838664 seconds)
+2025-11-22 10:01:35 | INFO | fairseq_cli.train | end of epoch 1 (average epoch stats below)                                   
+2025-11-22 10:01:35 | INFO | train | epoch 001 | loss 11.807 | nll_loss 11.475 | ppl 2846.84 | wps 16259.4 | ups 5.9 | wpb 2751.4 | bsz 128.6 | num_updates 251 | lr 1.57844e-05 | gnorm 2.629 | clip 100 | loss_scale 64 | train_wall 37 | gb_free 1.5 | wall 43
+2025-11-22 10:01:35 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:01:35 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 002:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:01:35 | INFO | fairseq.trainer | begin training epoch 2
+2025-11-22 10:01:35 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 002: 100%|▉| 251/252 [00:37<00:00,  6.21it/s, loss=8.612, nll_loss=7.8, ppl=222.9, wps=18414.5, ups=6.64, wpb=2773.8, bs2025-11-22 10:02:13 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:02:13 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:02:28 | INFO | valid | epoch 002 | valid on 'valid' subset | loss 8.402 | nll_loss 7.492 | ppl 180.01 | bleu 4.72 | wps 2490.8 | wpb 1534.8 | bsz 72.3 | num_updates 503 | best_bleu 4.72
+2025-11-22 10:02:28 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 2 @ 503 updates
+2025-11-22 10:02:28 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:02:29 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:02:30 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 2 @ 503 updates, score 4.72) (writing took 1.6845925509696826 seconds)
+2025-11-22 10:02:30 | INFO | fairseq_cli.train | end of epoch 2 (average epoch stats below)                                   
+2025-11-22 10:02:30 | INFO | train | epoch 002 | loss 9.017 | nll_loss 8.288 | ppl 312.55 | wps 12644.8 | ups 4.6 | wpb 2751.7 | bsz 129.2 | num_updates 503 | lr 3.15312e-05 | gnorm 1.197 | clip 58.7 | loss_scale 64 | train_wall 37 | gb_free 1.4 | wall 98
+2025-11-22 10:02:30 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:02:30 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 003:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:02:30 | INFO | fairseq.trainer | begin training epoch 3
+2025-11-22 10:02:30 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 003: 100%|▉| 251/252 [00:38<00:00,  6.56it/s, loss=8.06, nll_loss=7.125, ppl=139.56, wps=17838.6, ups=6.6, wpb=2701.2, b2025-11-22 10:03:08 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:03:08 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:03:19 | INFO | valid | epoch 003 | valid on 'valid' subset | loss 7.87 | nll_loss 6.849 | ppl 115.24 | bleu 6.36 | wps 3445.8 | wpb 1534.8 | bsz 72.3 | num_updates 755 | best_bleu 6.36
+2025-11-22 10:03:19 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 3 @ 755 updates
+2025-11-22 10:03:19 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:03:20 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:03:21 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 3 @ 755 updates, score 6.36) (writing took 1.871404784033075 seconds)
+2025-11-22 10:03:21 | INFO | fairseq_cli.train | end of epoch 3 (average epoch stats below)                                   
+2025-11-22 10:03:21 | INFO | train | epoch 003 | loss 8.121 | nll_loss 7.198 | ppl 146.85 | wps 13518.2 | ups 4.91 | wpb 2751.7 | bsz 129.2 | num_updates 755 | lr 4.72781e-05 | gnorm 1.169 | clip 52.8 | loss_scale 64 | train_wall 38 | gb_free 1.5 | wall 150
+2025-11-22 10:03:21 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:03:21 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 004:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:03:21 | INFO | fairseq.trainer | begin training epoch 4
+2025-11-22 10:03:21 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 004: 100%|▉| 251/252 [00:38<00:00,  6.77it/s, loss=7.621, nll_loss=6.618, ppl=98.19, wps=18014.7, ups=6.57, wpb=2742.2, 2025-11-22 10:03:59 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:03:59 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:04:12 | INFO | valid | epoch 004 | valid on 'valid' subset | loss 7.511 | nll_loss 6.463 | ppl 88.23 | bleu 8.34 | wps 2902 | wpb 1534.8 | bsz 72.3 | num_updates 1007 | best_bleu 8.34
+2025-11-22 10:04:12 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 4 @ 1007 updates
+2025-11-22 10:04:12 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:04:14 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:04:14 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 4 @ 1007 updates, score 8.34) (writing took 1.7281748609966598 seconds)
+2025-11-22 10:04:14 | INFO | fairseq_cli.train | end of epoch 4 (average epoch stats below)                                   
+2025-11-22 10:04:14 | INFO | train | epoch 004 | loss 7.675 | nll_loss 6.681 | ppl 102.58 | wps 13021.7 | ups 4.73 | wpb 2751.7 | bsz 129.2 | num_updates 1007 | lr 6.30249e-05 | gnorm 1.097 | clip 46.8 | loss_scale 64 | train_wall 38 | gb_free 1.4 | wall 203
+2025-11-22 10:04:14 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:04:14 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 005:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:04:14 | INFO | fairseq.trainer | begin training epoch 5
+2025-11-22 10:04:14 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 005: 100%|▉| 251/252 [00:38<00:00,  6.34it/s, loss=7.35, nll_loss=6.311, ppl=79.42, wps=18459.5, ups=6.55, wpb=2819, bsz2025-11-22 10:04:52 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:04:52 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:05:05 | INFO | valid | epoch 005 | valid on 'valid' subset | loss 7.251 | nll_loss 6.169 | ppl 71.94 | bleu 7.99 | wps 3153.4 | wpb 1534.8 | bsz 72.3 | num_updates 1259 | best_bleu 8.34
+2025-11-22 10:05:05 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 5 @ 1259 updates
+2025-11-22 10:05:05 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_7.9901.pt
+2025-11-22 10:05:05 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_7.9901.pt
+2025-11-22 10:05:06 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_7.9901.pt (epoch 5 @ 1259 updates, score 7.99) (writing took 0.9255602759658359 seconds)
+2025-11-22 10:05:06 | INFO | fairseq_cli.train | end of epoch 5 (average epoch stats below)                                   
+2025-11-22 10:05:06 | INFO | train | epoch 005 | loss 7.366 | nll_loss 6.329 | ppl 80.4 | wps 13499.1 | ups 4.91 | wpb 2751.7 | bsz 129.2 | num_updates 1259 | lr 7.87718e-05 | gnorm 1.034 | clip 41.7 | loss_scale 64 | train_wall 38 | gb_free 1.3 | wall 254
+2025-11-22 10:05:06 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:05:06 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 006:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:05:06 | INFO | fairseq.trainer | begin training epoch 6
+2025-11-22 10:05:06 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 006: 100%|▉| 251/252 [00:38<00:00,  6.39it/s, loss=7.064, nll_loss=5.987, ppl=63.42, wps=18517, ups=6.62, wpb=2797.4, bs2025-11-22 10:05:44 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:05:44 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:05:56 | INFO | valid | epoch 006 | valid on 'valid' subset | loss 7.073 | nll_loss 5.977 | ppl 62.97 | bleu 7.92 | wps 3272.8 | wpb 1534.8 | bsz 72.3 | num_updates 1511 | best_bleu 8.34
+2025-11-22 10:05:56 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 6 @ 1511 updates
+2025-11-22 10:05:56 | INFO | fairseq_cli.train | end of epoch 6 (average epoch stats below)                                   
+2025-11-22 10:05:56 | INFO | train | epoch 006 | loss 7.116 | nll_loss 6.047 | ppl 66.1 | wps 13846.9 | ups 5.03 | wpb 2751.7 | bsz 129.2 | num_updates 1511 | lr 9.45186e-05 | gnorm 0.99 | clip 34.1 | loss_scale 64 | train_wall 38 | gb_free 1.7 | wall 304
+2025-11-22 10:05:56 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:05:56 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 007:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:05:56 | INFO | fairseq.trainer | begin training epoch 7
+2025-11-22 10:05:56 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 007: 100%|▉| 251/252 [00:38<00:00,  6.40it/s, loss=6.881, nll_loss=5.778, ppl=54.89, wps=18316.3, ups=6.61, wpb=2771.6, 2025-11-22 10:06:34 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:06:34 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:06:47 | INFO | valid | epoch 007 | valid on 'valid' subset | loss 6.86 | nll_loss 5.729 | ppl 53.03 | bleu 9.58 | wps 2817.8 | wpb 1534.8 | bsz 72.3 | num_updates 1763 | best_bleu 9.58
+2025-11-22 10:06:47 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 7 @ 1763 updates
+2025-11-22 10:06:47 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:06:49 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:06:49 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 7 @ 1763 updates, score 9.58) (writing took 1.7826373800053261 seconds)
+2025-11-22 10:06:49 | INFO | fairseq_cli.train | end of epoch 7 (average epoch stats below)                                   
+2025-11-22 10:06:49 | INFO | train | epoch 007 | loss 6.901 | nll_loss 5.801 | ppl 55.74 | wps 12918.1 | ups 4.69 | wpb 2751.7 | bsz 129.2 | num_updates 1763 | lr 0.000110265 | gnorm 0.958 | clip 30.2 | loss_scale 64 | train_wall 38 | gb_free 1.5 | wall 358
+2025-11-22 10:06:49 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:06:49 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 008:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:06:49 | INFO | fairseq.trainer | begin training epoch 8
+2025-11-22 10:06:49 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 008: 100%|▉| 251/252 [00:38<00:00,  6.49it/s, loss=6.68, nll_loss=5.549, ppl=46.83, wps=18360.5, ups=6.58, wpb=2789.8, b2025-11-22 10:07:28 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:07:28 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:07:40 | INFO | valid | epoch 008 | valid on 'valid' subset | loss 6.698 | nll_loss 5.533 | ppl 46.3 | bleu 9.44 | wps 3102.6 | wpb 1534.8 | bsz 72.3 | num_updates 2015 | best_bleu 9.58
+2025-11-22 10:07:40 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 8 @ 2015 updates
+2025-11-22 10:07:40 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.4400.pt
+2025-11-22 10:07:41 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.4400.pt
+2025-11-22 10:07:41 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.4400.pt (epoch 8 @ 2015 updates, score 9.44) (writing took 0.8695467970101163 seconds)
+2025-11-22 10:07:41 | INFO | fairseq_cli.train | end of epoch 8 (average epoch stats below)                                   
+2025-11-22 10:07:41 | INFO | train | epoch 008 | loss 6.717 | nll_loss 5.592 | ppl 48.23 | wps 13475.7 | ups 4.9 | wpb 2751.7 | bsz 129.2 | num_updates 2015 | lr 0.000126012 | gnorm 0.97 | clip 31.3 | loss_scale 64 | train_wall 38 | gb_free 1.3 | wall 409
+2025-11-22 10:07:41 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:07:41 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 009:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:07:41 | INFO | fairseq.trainer | begin training epoch 9
+2025-11-22 10:07:41 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 009: 100%|▉| 251/252 [00:38<00:00,  6.33it/s, loss=6.525, nll_loss=5.372, ppl=41.41, wps=17863, ups=6.61, wpb=2704.4, bs2025-11-22 10:08:19 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:08:19 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:08:32 | INFO | valid | epoch 009 | valid on 'valid' subset | loss 6.567 | nll_loss 5.362 | ppl 41.12 | bleu 9.89 | wps 2996.6 | wpb 1534.8 | bsz 72.3 | num_updates 2267 | best_bleu 9.89
+2025-11-22 10:08:32 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 9 @ 2267 updates
+2025-11-22 10:08:32 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:08:33 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:08:34 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 9 @ 2267 updates, score 9.89) (writing took 1.719330446969252 seconds)
+2025-11-22 10:08:34 | INFO | fairseq_cli.train | end of epoch 9 (average epoch stats below)                                   
+2025-11-22 10:08:34 | INFO | train | epoch 009 | loss 6.533 | nll_loss 5.382 | ppl 41.69 | wps 13088.5 | ups 4.76 | wpb 2751.7 | bsz 129.2 | num_updates 2267 | lr 0.000141759 | gnorm 0.928 | clip 26.6 | loss_scale 64 | train_wall 38 | gb_free 1.7 | wall 462
+2025-11-22 10:08:34 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:08:34 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 010:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:08:34 | INFO | fairseq.trainer | begin training epoch 10
+2025-11-22 10:08:34 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 010: 100%|▉| 251/252 [00:38<00:00,  6.49it/s, loss=6.376, nll_loss=5.201, ppl=36.79, wps=18226.8, ups=6.54, wpb=2788.6, 2025-11-22 10:09:12 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:09:12 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:09:25 | INFO | valid | epoch 010 | valid on 'valid' subset | loss 6.461 | nll_loss 5.245 | ppl 37.92 | bleu 9.77 | wps 2997.6 | wpb 1534.8 | bsz 72.3 | num_updates 2519 | best_bleu 9.89
+2025-11-22 10:09:25 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 10 @ 2519 updates
+2025-11-22 10:09:25 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.7700.pt
+2025-11-22 10:09:26 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.7700.pt
+2025-11-22 10:09:26 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_9.7700.pt (epoch 10 @ 2519 updates, score 9.77) (writing took 0.8726030010147952 seconds)
+2025-11-22 10:09:26 | INFO | fairseq_cli.train | end of epoch 10 (average epoch stats below)                                  
+2025-11-22 10:09:26 | INFO | train | epoch 010 | loss 6.369 | nll_loss 5.194 | ppl 36.62 | wps 13321.7 | ups 4.84 | wpb 2751.7 | bsz 129.2 | num_updates 2519 | lr 0.000157506 | gnorm 0.922 | clip 27 | loss_scale 64 | train_wall 38 | gb_free 1.3 | wall 514
+2025-11-22 10:09:26 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:09:26 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 011:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:09:26 | INFO | fairseq.trainer | begin training epoch 11
+2025-11-22 10:09:26 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 011: 100%|▉| 251/252 [00:38<00:00,  6.61it/s, loss=6.235, nll_loss=5.04, ppl=32.9, wps=17882.5, ups=6.56, wpb=2726.1, bs2025-11-22 10:10:04 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:10:04 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:10:17 | INFO | valid | epoch 011 | valid on 'valid' subset | loss 6.337 | nll_loss 5.105 | ppl 34.41 | bleu 10.73 | wps 3080 | wpb 1534.8 | bsz 72.3 | num_updates 2771 | best_bleu 10.73
+2025-11-22 10:10:17 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 11 @ 2771 updates
+2025-11-22 10:10:17 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:10:18 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:10:18 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 11 @ 2771 updates, score 10.73) (writing took 1.657788457989227 seconds)
+2025-11-22 10:10:18 | INFO | fairseq_cli.train | end of epoch 11 (average epoch stats below)                                  
+2025-11-22 10:10:18 | INFO | train | epoch 011 | loss 6.22 | nll_loss 5.024 | ppl 32.54 | wps 13213.3 | ups 4.8 | wpb 2751.7 | bsz 129.2 | num_updates 2771 | lr 0.000173253 | gnorm 0.93 | clip 27 | loss_scale 64 | train_wall 38 | gb_free 1.3 | wall 567
+2025-11-22 10:10:18 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:10:18 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 012:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:10:18 | INFO | fairseq.trainer | begin training epoch 12
+2025-11-22 10:10:18 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 012: 100%|▉| 251/252 [00:38<00:00,  7.07it/s, loss=6.053, nll_loss=4.832, ppl=28.47, wps=18154.6, ups=6.55, wpb=2771.4, 2025-11-22 10:10:57 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:10:57 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:11:09 | INFO | valid | epoch 012 | valid on 'valid' subset | loss 6.279 | nll_loss 5.029 | ppl 32.64 | bleu 10.18 | wps 3129.9 | wpb 1534.8 | bsz 72.3 | num_updates 3023 | best_bleu 10.73
+2025-11-22 10:11:09 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 12 @ 3023 updates
+2025-11-22 10:11:09 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_10.1801.pt
+2025-11-22 10:11:10 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_10.1801.pt
+2025-11-22 10:11:10 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_10.1801.pt (epoch 12 @ 3023 updates, score 10.18) (writing took 0.89355869096471 seconds)
+2025-11-22 10:11:10 | INFO | fairseq_cli.train | end of epoch 12 (average epoch stats below)                                  
+2025-11-22 10:11:10 | INFO | train | epoch 012 | loss 6.074 | nll_loss 4.856 | ppl 28.96 | wps 13449.5 | ups 4.89 | wpb 2751.7 | bsz 129.2 | num_updates 3023 | lr 0.000189 | gnorm 0.92 | clip 25 | loss_scale 64 | train_wall 38 | gb_free 1.3 | wall 618
+2025-11-22 10:11:10 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:11:10 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 013:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:11:10 | INFO | fairseq.trainer | begin training epoch 13
+2025-11-22 10:11:10 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 013: 100%|▉| 251/252 [00:38<00:00,  6.60it/s, loss=5.963, nll_loss=4.729, ppl=26.53, wps=17639.4, ups=6.65, wpb=2651, bs2025-11-22 10:11:48 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:11:48 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:12:02 | INFO | valid | epoch 013 | valid on 'valid' subset | loss 6.201 | nll_loss 4.941 | ppl 30.72 | bleu 10.93 | wps 2855 | wpb 1534.8 | bsz 72.3 | num_updates 3275 | best_bleu 10.93
+2025-11-22 10:12:02 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 13 @ 3275 updates
+2025-11-22 10:12:02 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:12:03 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:12:03 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 13 @ 3275 updates, score 10.93) (writing took 1.8011394830537029 seconds)
+2025-11-22 10:12:04 | INFO | fairseq_cli.train | end of epoch 13 (average epoch stats below)                                  
+2025-11-22 10:12:04 | INFO | train | epoch 013 | loss 5.936 | nll_loss 4.698 | ppl 25.96 | wps 12905.8 | ups 4.69 | wpb 2751.7 | bsz 129.2 | num_updates 3275 | lr 0.000204747 | gnorm 0.92 | clip 26.6 | loss_scale 64 | train_wall 38 | gb_free 1.5 | wall 672
+2025-11-22 10:12:04 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:12:04 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 014:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:12:04 | INFO | fairseq.trainer | begin training epoch 14
+2025-11-22 10:12:04 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 014: 100%|▉| 251/252 [00:38<00:00,  6.63it/s, loss=5.801, nll_loss=4.541, ppl=23.28, wps=18393.2, ups=6.61, wpb=2782.5, 2025-11-22 10:12:42 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:12:42 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:12:54 | INFO | valid | epoch 014 | valid on 'valid' subset | loss 6.141 | nll_loss 4.86 | ppl 29.05 | bleu 11.63 | wps 3070.8 | wpb 1534.8 | bsz 72.3 | num_updates 3527 | best_bleu 11.63
+2025-11-22 10:12:54 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 14 @ 3527 updates
+2025-11-22 10:12:54 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:12:56 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:12:56 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 14 @ 3527 updates, score 11.63) (writing took 1.718464136007242 seconds)
+2025-11-22 10:12:56 | INFO | fairseq_cli.train | end of epoch 14 (average epoch stats below)                                  
+2025-11-22 10:12:56 | INFO | train | epoch 014 | loss 5.8 | nll_loss 4.542 | ppl 23.29 | wps 13169.3 | ups 4.79 | wpb 2751.7 | bsz 129.2 | num_updates 3527 | lr 0.000220493 | gnorm 0.919 | clip 23.4 | loss_scale 64 | train_wall 38 | gb_free 1.6 | wall 725
+2025-11-22 10:12:56 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:12:56 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 015:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:12:56 | INFO | fairseq.trainer | begin training epoch 15
+2025-11-22 10:12:56 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 015: 100%|▉| 251/252 [00:38<00:00,  6.81it/s, loss=5.676, nll_loss=4.398, ppl=21.08, wps=18014.6, ups=6.57, wpb=2742.6, 2025-11-22 10:13:35 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:13:35 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:13:47 | INFO | valid | epoch 015 | valid on 'valid' subset | loss 6.121 | nll_loss 4.822 | ppl 28.29 | bleu 11.22 | wps 3055.5 | wpb 1534.8 | bsz 72.3 | num_updates 3779 | best_bleu 11.63
+2025-11-22 10:13:47 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 15 @ 3779 updates
+2025-11-22 10:13:47 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.2200.pt
+2025-11-22 10:13:48 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.2200.pt
+2025-11-22 10:13:48 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.2200.pt (epoch 15 @ 3779 updates, score 11.22) (writing took 0.89170776901301 seconds)
+2025-11-22 10:13:48 | INFO | fairseq_cli.train | end of epoch 15 (average epoch stats below)                                  
+2025-11-22 10:13:48 | INFO | train | epoch 015 | loss 5.67 | nll_loss 4.392 | ppl 20.99 | wps 13365.5 | ups 4.86 | wpb 2751.7 | bsz 129.2 | num_updates 3779 | lr 0.00023624 | gnorm 0.92 | clip 23 | loss_scale 64 | train_wall 38 | gb_free 1.4 | wall 777
+2025-11-22 10:13:48 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:13:48 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 016:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:13:48 | INFO | fairseq.trainer | begin training epoch 16
+2025-11-22 10:13:48 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 016: 100%|▉| 251/252 [00:38<00:00,  6.46it/s, loss=5.572, nll_loss=4.276, ppl=19.38, wps=18123.6, ups=6.61, wpb=2741.9, 2025-11-22 10:14:27 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:14:27 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:14:39 | INFO | valid | epoch 016 | valid on 'valid' subset | loss 6.073 | nll_loss 4.784 | ppl 27.55 | bleu 10.97 | wps 3020 | wpb 1534.8 | bsz 72.3 | num_updates 4031 | best_bleu 11.63
+2025-11-22 10:14:39 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 16 @ 4031 updates
+2025-11-22 10:14:39 | INFO | fairseq_cli.train | end of epoch 16 (average epoch stats below)                                  
+2025-11-22 10:14:39 | INFO | train | epoch 016 | loss 5.539 | nll_loss 4.24 | ppl 18.89 | wps 13591.1 | ups 4.94 | wpb 2751.7 | bsz 129.2 | num_updates 4031 | lr 0.000251987 | gnorm 0.938 | clip 28.6 | loss_scale 64 | train_wall 38 | gb_free 1.4 | wall 828
+2025-11-22 10:14:39 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:14:39 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 017:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:14:39 | INFO | fairseq.trainer | begin training epoch 17
+2025-11-22 10:14:39 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 017: 100%|▉| 251/252 [00:37<00:00,  6.26it/s, loss=5.428, nll_loss=4.11, ppl=17.27, wps=17876.8, ups=6.62, wpb=2700.1, b2025-11-22 10:15:17 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:15:17 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:15:29 | INFO | valid | epoch 017 | valid on 'valid' subset | loss 6.033 | nll_loss 4.716 | ppl 26.28 | bleu 12.28 | wps 3209.5 | wpb 1534.8 | bsz 72.3 | num_updates 4283 | best_bleu 12.28
+2025-11-22 10:15:29 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 17 @ 4283 updates
+2025-11-22 10:15:29 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:15:31 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt
+2025-11-22 10:15:31 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint_best.pt (epoch 17 @ 4283 updates, score 12.28) (writing took 1.8112927579786628 seconds)
+2025-11-22 10:15:31 | INFO | fairseq_cli.train | end of epoch 17 (average epoch stats below)                                  
+2025-11-22 10:15:31 | INFO | train | epoch 017 | loss 5.418 | nll_loss 4.099 | ppl 17.14 | wps 13344.3 | ups 4.85 | wpb 2751.7 | bsz 129.2 | num_updates 4283 | lr 0.000267734 | gnorm 0.938 | clip 24.6 | loss_scale 64 | train_wall 38 | gb_free 1.5 | wall 880
+2025-11-22 10:15:31 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:15:31 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 018:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:15:31 | INFO | fairseq.trainer | begin training epoch 18
+2025-11-22 10:15:31 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 018: 100%|▉| 251/252 [00:38<00:00,  6.67it/s, loss=5.316, nll_loss=3.979, ppl=15.77, wps=18029.8, ups=6.53, wpb=2760.3, 2025-11-22 10:16:09 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:16:09 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:16:20 | INFO | valid | epoch 018 | valid on 'valid' subset | loss 6.056 | nll_loss 4.738 | ppl 26.68 | bleu 10.28 | wps 3804.1 | wpb 1534.8 | bsz 72.3 | num_updates 4535 | best_bleu 12.28
+2025-11-22 10:16:20 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 18 @ 4535 updates
+2025-11-22 10:16:20 | INFO | fairseq_cli.train | end of epoch 18 (average epoch stats below)                                  
+2025-11-22 10:16:20 | INFO | train | epoch 018 | loss 5.29 | nll_loss 3.951 | ppl 15.46 | wps 14312.8 | ups 5.2 | wpb 2751.7 | bsz 129.2 | num_updates 4535 | lr 0.000283481 | gnorm 0.951 | clip 29 | loss_scale 64 | train_wall 38 | gb_free 1.5 | wall 928
+2025-11-22 10:16:20 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:16:20 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 019:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:16:20 | INFO | fairseq.trainer | begin training epoch 19
+2025-11-22 10:16:20 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 019: 100%|▉| 251/252 [00:38<00:00,  6.32it/s, loss=5.181, nll_loss=3.824, ppl=14.16, wps=17590.9, ups=6.62, wpb=2656.4, 2025-11-22 10:16:58 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:16:58 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:17:10 | INFO | valid | epoch 019 | valid on 'valid' subset | loss 6.026 | nll_loss 4.695 | ppl 25.9 | bleu 11.89 | wps 3252.6 | wpb 1534.8 | bsz 72.3 | num_updates 4787 | best_bleu 12.28
+2025-11-22 10:17:10 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 19 @ 4787 updates
+2025-11-22 10:17:10 | INFO | fairseq.trainer | Saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.8900.pt
+2025-11-22 10:17:11 | INFO | fairseq.trainer | Finished saving checkpoint to /home/logyre22/Projects/nlp/machine_translation/fairseq_mt/checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.8900.pt
+2025-11-22 10:17:11 | INFO | fairseq.checkpoint_utils | Saved checkpoint ../../checkpoints/augmentation/aug4_ceb_eng/checkpoint.best_bleu_11.8900.pt (epoch 19 @ 4787 updates, score 11.89) (writing took 0.999612535990309 seconds)
+2025-11-22 10:17:11 | INFO | fairseq_cli.train | end of epoch 19 (average epoch stats below)                                  
+2025-11-22 10:17:11 | INFO | train | epoch 019 | loss 5.172 | nll_loss 3.813 | ppl 14.06 | wps 13580.2 | ups 4.94 | wpb 2751.7 | bsz 129.2 | num_updates 4787 | lr 0.000299228 | gnorm 0.962 | clip 30.2 | loss_scale 64 | train_wall 38 | gb_free 1.4 | wall 979
+2025-11-22 10:17:11 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:17:11 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 020:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:17:11 | INFO | fairseq.trainer | begin training epoch 20
+2025-11-22 10:17:11 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 020: 100%|▉| 251/252 [00:38<00:00,  6.38it/s, loss=5.082, nll_loss=3.705, ppl=13.04, wps=17894.9, ups=6.5, wpb=2752.4, b2025-11-22 10:17:49 | INFO | fairseq_cli.train | begin validation on "valid" subset
+2025-11-22 10:17:49 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+                                                                                                                             2025-11-22 10:18:00 | INFO | valid | epoch 020 | valid on 'valid' subset | loss 6.071 | nll_loss 4.76 | ppl 27.1 | bleu 11.52 | wps 3607.8 | wpb 1534.8 | bsz 72.3 | num_updates 5039 | best_bleu 12.28
+2025-11-22 10:18:00 | INFO | fairseq.checkpoint_utils | Preparing to save checkpoint for epoch 20 @ 5039 updates
+2025-11-22 10:18:00 | INFO | fairseq_cli.train | end of epoch 20 (average epoch stats below)                                  
+2025-11-22 10:18:00 | INFO | train | epoch 020 | loss 5.049 | nll_loss 3.67 | ppl 12.73 | wps 14071.7 | ups 5.11 | wpb 2751.7 | bsz 129.2 | num_updates 5039 | lr 0.000314975 | gnorm 0.973 | clip 31.7 | loss_scale 64 | train_wall 38 | gb_free 1.4 | wall 1028
+2025-11-22 10:18:00 | INFO | fairseq.tasks.fairseq_task | can_reuse_epoch_itr = True
+2025-11-22 10:18:00 | INFO | fairseq.data.iterators | grouped total_num_itrs = 252
+epoch 021:   0%|                                                                                      | 0/252 [00:00<?, ?it/s]2025-11-22 10:18:00 | INFO | fairseq.trainer | begin training epoch 21
+2025-11-22 10:18:00 | INFO | fairseq_cli.train | Start iterating over samples
+epoch 021:  37%|▎| 93/252 [00:14<00:24,  6.61it/s, loss=4.947, nll_loss=3.552, ppl=11.73, wps=10589.1, ups=3.84, wpb=2756.5, bTraceback (most recent call last):                                                                                            
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/bin/fairseq-train", line 10, in <module>
+    sys.exit(cli_main())
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq_cli/train.py", line 574, in cli_main
+    distributed_utils.call_main(cfg, main)
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq/distributed/utils.py", line 404, in call_main
+    main(cfg, **kwargs)
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq_cli/train.py", line 205, in main
+    valid_losses, should_stop = train(cfg, trainer, task, epoch_itr)
+  File "/home/logyre22/.local/share/uv/python/cpython-3.10.19-linux-x86_64-gnu/lib/python3.10/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq_cli/train.py", line 331, in train
+    log_output = trainer.train_step(samples)
+  File "/home/logyre22/.local/share/uv/python/cpython-3.10.19-linux-x86_64-gnu/lib/python3.10/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq/trainer.py", line 843, in train_step
+    loss, sample_size_i, logging_output = self.task.train_step(
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq/tasks/fairseq_task.py", line 536, in train_step
+    optimizer.backward(loss)
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/fairseq/optim/fp16_optimizer.py", line 108, in backward
+    loss.backward()
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/torch/_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/torch/autograd/__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "/home/logyre22/Projects/nlp/machine_translation/fairseq_mt/.venv/lib/python3.10/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
+(fairseq_mt)

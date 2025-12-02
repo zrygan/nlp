@@ -1,0 +1,49 @@
+\section{Methodology}
+
+\subsection{Data Representation and Tokenization}
+
+Philippine languages are considered morphologically rich due to the extensive use of affixes to describe tenses and generate new words that are akin to the original definition of the root word. For example, the word \texttt{gawa} can turn into \texttt{pagawa}, \texttt{gumawa}, \texttt{pagawaan}, \texttt{magagawa}. With just a few affixes, the words meaning changes entirely. This level of morphology makes it difficult to train a model if it were to identify each and every word as a completely separate token as it would mean ignoring the shared structure and unnecessarily increasing the vocabulary.
+\\
+
+Deciding in which way we process these data is important in training the model and how effective will the model be at translation. Due to the nature of the Philippine languages' morphologically rich structure, subword tokenization allows us to properly analyze the structure of the word and dissect the root word and its corresponding affixes.
+\\
+
+Among the numerous subword tokenization strategies, we chose unigram tokenization. This method addresses the Philippine languages' morphologically rich structure. Unigram tokenization addresses this by utilizing a probabilistic algorithm based on frequency that selectively chooses a set of subwords that reaches the target size of the vocabulary.
+\\
+
+As an alternative, we had considered BPE; however, its method in frequently merging the subwords pairs together aligns more for a large corpora. This would not be applicable to our small corpus which would lead to a vocabulary that is overly small and insufficient for analyzing Filipino languages' rich morphology.
+\\
+
+We implemented unigram tokenization using the SentencePiece library with a vocabulary size of 4,000 subword units and character coverage of 1.0 to capture all Unicode characters in Philippine languages. We trained a single shared vocabulary across all language pairs, incorporating language tags (\texttt{<bik>}, \texttt{<ceb>}, \texttt{<tgl>}, etc.) for multi-language processing. This shared vocabulary approach reduces model complexity, facilitates transfer learning between related languages, and naturally handles cognates that appear across Philippine languages.
+
+\subsection{Model Architecture}
+
+We tested several large transformer models including mBART50 and various Meta models with millions of parameters. However, each attempt resulted in BLEU scores ranging from 10-20, indicating significant challenges in training large models with limited corpora and computing resources.
+\\
+
+Due to these constraints, we selected the \texttt{transformer\_iwslt\_de\_en} model with 1024 parameters—a notably smaller architecture compared to modern models. This model was specifically chosen to address our computing and time limitations while remaining suitable for low-resource translation tasks.
+\\
+
+The \texttt{transformer\_iwslt\_de\_en} architecture is specifically designed to perform translation tasks, originally developed for the IWSLT German-English translation shared task. The model uses a standard encoder-decoder transformer structure with a reduced number of dimensions compared to the base transformer. This smaller architecture prevents overfitting on our limited training data while maintaining the self-attention mechanisms necessary for capturing dependencies in morphologically complex sentences.
+
+\subsection{Training Configuration}
+
+We used the Adam optimizer (betas 0.9, 0.98) with learning rate 0.0005, inverse square root scheduler, and 8,000 warmup steps (4,000 for pivot training). To combat overfitting, we applied dropout 0.3, weight decay 0.0001, and label smoothing 0.1. Training ran for 50 epochs maximum with 4,096 token batches using mixed precision (FP16), saving the top 3 checkpoints based on validation BLEU. We enabled \texttt{share-all-embeddings} to tie source, target, and output projection layers. This was justified by the high similarity between Cebuano and Tagalog (orthographic similarity 0.8877).
+
+\subsection{Translation Strategies}
+
+We investigated two translation strategies to evaluate the tradeoff between linguistic similarity and resource availability.
+
+\subsubsection{Direct Translation: Cebuano → Tagalog}
+
+The direct translation approach trains a single model on the Cebuano-Tagalog parallel corpus. This strategy was based on the high orthographic (0.8877) and phonetic (0.9698) similarity between the languages. The model learns direct correspondences between Cebuano and Tagalog subwords, potentially capturing those morphological transformations.
+\\
+
+Training was conducted using the script \texttt{train\_src\_dest.bash}, which preprocesses the data, initializes the transformer model, and trains until convergence or the maximum epoch limit. The direct approach maximizes exposure to the specific language pair but is constrained by the limited corpus size.
+
+\subsubsection{Pivot Translation: Cebuano → English → Tagalog}
+
+The pivot translation strategy trains two separate models: one for Cebuano → English and another for English → Tagalog. At inference time, Cebuano input is first translated to English using the first model, then the English output is translated to Tagalog using the second model. This approach is implemented in \texttt{train\_src\_pivot\_dest.bash}, which sequentially trains both models.
+\\
+
+While pivot translation introduces compounding errors (mistakes from both models accumulate), it benefits from substantially larger training corpora for each language pair. English Bible translations are complete and extensively parallel with both Cebuano and Tagalog, providing more training examples than the direct Cebuano-Tagalog corpus. The pivot strategy trades linguistic similarity for data abundance.
