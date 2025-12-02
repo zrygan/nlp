@@ -19,20 +19,20 @@ baloxavir            -> baloksabir           ? baloksabir           : True
 beclomethasone       -> beklometasown        ? beklometason         : False
 betamethasone        -> betametasown         ? betametason          : False
 bisacodyl            -> bisakodil            ? bisakodil            : True
-brompheniramine      -> brompeniramin        ? bromfeniramin        : False
+brompheniramine      -> bromfeniramin        ? bromfeniramin        : True
 budesonide           -> budesonayd           ? budesonayd           : True
-bupropion            -> bupropyon            ? bupropiyon           : False
+bupropion            -> bupropiyon           ? bupropiyon           : True
 buspirone            -> buspirown            ? buspiron             : False
-calcium carbonate    -> kalsium karbonate    ? kalsium karboneyt    : False
+calcium carbonate    -> kalsiyum karboneyt   ? kalsiyum karboneyt   : True
 captopril            -> kaptopril            ? kaptopril            : True
 carbamazepine        -> karbamasepine        ? karbamasepin         : False
 carbimazole          -> karbimasol           ? karbimasol           : True
 carvedilol           -> karbedilol           ? karbedilol           : True
 celecoxib            -> selekoksib           ? selekoksib           : True
-cephalexin           -> selekoksib           ? sefaleksin           : False
+cephalexin           -> sefaleksin           ? sefaleksin           : True
 cetirizine           -> setirisin            ? setirisin            : True
 chloramphenicol      -> kloramfenikol        ? khloramfenikol       : False
-chloroquine          -> kloroquin            ? khlorokwin           : False
+chloroquine          -> klorokwin            ? khlorokwin           : False
 chlorpromazine       -> klorpromazin         ? khlorpromasin        : False
 ciprofloxacin        -> siprofloksasin       ? siprofloksasin       : True
 clindamycin          -> klindamaysin         ? klindamaysin         : True
@@ -41,23 +41,23 @@ clonazepam           -> klonasepam           ? klonasepam           : True
 clopidogrel          -> klopidogrel          ? klopidogrel          : True
 clotrimazole         -> klotrimasol          ? klotrimasol          : True
 clozapine            -> klozapin             ? klosapin             : False
-codeine              -> kodeyn               ? kodeen               : False
+codeine              -> kodeen               ? kodeen               : True
 cyanocobalamin       -> sayanokobalamin      ? sayanokobalamin      : True
 cyclosporine         -> sayklosporin         ? sayklosporin         : True
-cyproheptadine       -> sipropetadin         ? sayproheptadin       : False
+cyproheptadine       -> sayproheptadin       ? sayproheptadin       : True
 daptomycin           -> daptomaysin          ? daptomaysin          : True
 desloratadine        -> desloratadin         ? desloratadin         : True
 dexamethasone        -> deksametasown        ? deksametason         : False
 dextromethorphan     -> dekstrometorfan      ? dekstrometorfan      : True
-diazepam             -> diyasepam            ? diasepam             : False
+diazepam             -> diyasepam            ? diyasepam            : True
 diclofenac           -> dayklofenak          ? diklofenak           : False
 dimenhydrinate       -> dimenhaydrineyt      ? dimenhaydrineyt      : True
-diphenhydramine      -> daypenhaydramin      ? difenhaydramin       : False
+diphenhydramine      -> dayfenhaydramin      ? difenhaydramin       : False
 dolutegravir         -> dolutegrabir         ? dolutegrabir         : True
 domperidone          -> domperidon           ? domperidon           : True
-doxycycline          -> doksisaykline        ? doksisayklin         : False
+doxycycline          -> doksisayklin               ? doksisayklin         : False
 duloxetine           -> duloksetin           ? duloksetin           : True
-efavirenz            -> epabirens            ? efabirens            : False
+efavirenz            -> efabirens            ? efabirens            : False
 enalapril            -> enalapril            ? enalapril            : True
 ertapenem            -> ertapenem            ? ertapenem            : True
 erythromycin         -> eritromaysin         ? eraytromaysin        : False
@@ -70,8 +70,8 @@ ferrous sulfate      -> ferus sulfeyt        ? feroyus sulfeyt      : False
 fexofenadine         -> feksofenadin         ? feksofenadin         : True
 finasteride          -> finasterayd          ? finasterayd          : True
 fluconazole          -> flukonasol           ? flukonasol           : True
-fluoxetine           -> pluoksetin           ? fluoksetin           : False
-fluticasone          -> flutikason           ? flutikason           : True
+fluoxetine           -> fluoksetin           ? fluoksetin           : True
+fluticasone          -> flutikasown          ? flutikason           : False
 folic acid           -> folik asid           ? folik asid           : True
 formoterol           -> formoterol           ? formoterol           : True
 furosemide           -> furosemayd           ? furosemayd           : True
@@ -81,7 +81,7 @@ glimepiride          -> glaymepirayd         ? glimepirayd          : False
 guaifenesin          -> gwayfenesin          ? guaifenesin          : False
 haloperidol          -> haloperidol          ? haloperidol          : True
 heparin              -> heparin              ? heparin              : True
-hydrochlorothiazide  -> haydroklorotayasayd  ? haydrokhlorotiasayd  : False
+hydrochlorothiazide  -> haydroklorotayasayd  ? haydrokhlorotiyasayd : False
 hydrocortisone       -> haydrokortisown      ? haydrokortison       : False
 hydroxychloroquine   -> haydrosayklorokwin   ? haydroksikhlorokwin  : False
 hydroxyzine          -> haydroksisin         ? haydroksisin         : True
@@ -89,8 +89,8 @@ ibuprofen            -> aybuprofen           ? ibuprofen            : False
 imipenem             -> imipenem             ? imipenem             : True
 insulin              -> insulin              ? insulin              : True
 interferon           -> interferon           ? interferon           : True
-ipratropium          -> ipratropyum          ? ipratropium          : False
-isoniazid            -> aysoneyasid          ? isoniasid            : False
+ipratropium          -> ipratropiyum         ? ipratropiyum         : True
+isoniazid            -> aysoneyasid          ? isoniyasid           : False
 ivermectin           -> aybermektin          ? ibermektin           : False
 ketoconazole         -> ketokonasol          ? ketokonasol          : True
 ketorolac            -> ketorolak            ? ketorolak            : True
@@ -103,13 +103,13 @@ levofloxacin         -> lebofloksasin        ? lebofloksasin        : True
 levothyroxine        -> lebotayroksin        ? lebotayroksin        : True
 linezolid            -> linesolid            ? linesolid            : True
 lisinopril           -> lisinopril           ? lisinopril           : True
-lithium              -> lityum               ? litium               : False
+lithium              -> litiyum              ? litiyum              : True
 loperamide           -> loperamayd           ? loperamayd           : True
 loratadine           -> loratadin            ? loratadin            : True
 lorazepam            -> lorasepam            ? lorasepam            : True
 losartan             -> losartan             ? losartan             : True
-magnesium oxide      -> magnesyum oksayd     ? magnesium oksayd     : False
-malathion            -> malasyon             ? malatiyon            : False
+magnesium oxide      -> magnesiyum oksayd    ? magnesiyum oksayd    : True
+malathion            -> malatayon            ? malatayon            : False
 mebendazole          -> mebendasol           ? mebendasol           : True
 meclizine            -> meklisin             ? meklisin             : True
 meloxicam            -> meloksikam           ? meloksikam           : True
@@ -142,8 +142,8 @@ paracetamol          -> parasetamol          ? parasetamol          : True
 paroxetine           -> paroksetin           ? paroksetin           : True
 paxlovid             -> pakslobid            ? pakslobid            : True
 permethrin           -> permetrin            ? permetrin            : True
-phenylephrine        -> penileprin           ? fenilefrin           : False
-phenytoin            -> penitoyn             ? fenaytoyin           : False
+phenylephrine        -> fenilefrin           ? fenilefrin           : True
+phenytoin            -> fenitoyn             ? fenaytoyin           : False
 polymyxin b          -> polimiksin bi        ? polaymayksin b       : False
 praziquantel         -> prasikwantel         ? prasikwantel         : True
 prednisone           -> prednisown           ? prednison            : False
@@ -151,15 +151,15 @@ pregabalin           -> pregabalin           ? pregabalin           : True
 prochlorperazine     -> proklorperasin       ? prokhlorperasin      : False
 promethazine         -> prometasin           ? prometasin           : True
 propranolol          -> propranolol          ? propranolol          : True
-pseudoephedrine      -> sudoyepedrin         ? sudoyefedrin         : False
-psyllium             -> silyum               ? silium               : False
+pseudoephedrine      -> sudoyefedrin         ? sudoyefedrin         : True
+psyllium             -> silyum               ? siliyum              : False
 pyrantel pamoate     -> payrantel pamoeyt    ? payrantel pamoyeyt   : False
 pyrazinamide         -> payrasinamayd        ? payrasinamayd        : True
-quetiapine           -> kwetiyapin           ? kwetiapin            : False
+quetiapine           -> kwetiyapin           ? kwetiyapin           : True
 ranitidine           -> ranitidin            ? ranitidin            : True
 remdesivir           -> remdesibir           ? remdesibir           : True
 rifampicin           -> rifampisin           ? rifampisin           : True
-risperidone          -> risperidon           ? risperidon           : True
+risperidone          -> risperidown          ? risperidon           : False
 rivaroxaban          -> ribaroksaban         ? ribaroksaban         : True
 rosuvastatin         -> rosubastatin         ? rosubastatin         : True
 salbutamol           -> salbutamol           ? salbutamol           : True
@@ -179,12 +179,12 @@ tenofovir            -> tenofobir            ? tenofobir            : True
 tetracycline         -> tetrasayklin         ? tetrasayklin         : True
 theophylline         -> teofilin             ? teofilin             : True
 tigecycline          -> taygasayklin         ? tigesayklin          : False
-tiotropium           -> tiyotropiyum         ? tiyotropium          : False
+tiotropium           -> tiyotropiyum         ? tiyotropiyum         : True
 tobramycin           -> tobramaysin          ? tobramaysin          : True
 topiramate           -> topirameyt           ? topirameyt           : True
 tramadol             -> tramadol             ? tramadol             : True
 trazodone            -> trasodown            ? trasodon             : False
-triamcinolone        -> triamsinolown        ? triamsinolon         : False
+triamcinolone        -> triamsinolown        ? triyamsinolon        : False
 trimethoprim         -> trimetoprim          ? trimetoprim          : True
 valacyclovir         -> balasayklobir        ? balasayklobir        : True
 valproic acid        -> balproyik asid       ? balproyik asid       : True
@@ -196,7 +196,7 @@ vitamin d            -> bitamin di           ? bitamin d            : False
 warfarin             -> warfarin             ? warfarin             : True
 xylometazoline       -> saylometasolin       ? silometasolin        : False
 zanamivir            -> sanamibir            ? sanamibir            : True
-zinc sulfate         -> sink sulpate         ? sink sulfeyt         : False
-Trues:        134
-Falses:         65
-Accuracy:   67.34%
+zinc sulfate         -> sink sulfeyt         ? sink sulfeyt         : True
+Trues:        148
+Falses:         51
+Accuracy:   74.37%
