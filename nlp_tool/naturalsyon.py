@@ -117,7 +117,7 @@ class FilipinoCFGParser:
         # Handle anything ending with -one
         
         result = re.sub(r'one$', 'own', result)
-        
+
         # Handle anything ending with -e
         
         result = re.sub(r'e$', '', result)
@@ -150,10 +150,9 @@ class FilipinoCFGParser:
         result = result.replace('eu', 'u')
         
         # 'ee' -> 'i', 'oo' -> 'u'
-        result = result.replace('ee', 'i')
-        result = result.replace('oo', 'u')
+        result = re.sub(r'ee', 'i', result)
+        result = re.sub(r'oo', 'u', result)
         
-
         
         # Step 3: Apply Spanish-specific patterns
         # if source_lang in ['spanish', 'auto']:
