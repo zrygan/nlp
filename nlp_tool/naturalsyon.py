@@ -65,26 +65,20 @@ class FilipinoCFGParser:
     
     def single_letters_to_phonetic(self, word, i=0):
         if len(word) <= i:
-            return word
+            return word.removesuffix("-")
         
-        if i == len(word) - 1:
-            tri = word[i]
-        else:
-            tri = word[i] + word[i+1]
-            
-        if re.match(r"[A-Z](?![a-z])", tri):
-            first_half = word[:i]
-            secnd_half = word[i+1:]
-            mapped = self._phonetic_alphabet(word[i]) + " "
+        first_half = word[:i]
+        secnd_half = word[i+1:]
+        # add space here for abbreviations (e.g., IV -> ay vi not ayvi)
+        # but this is optional
+        mapped = self._phonetic_alphabet(word[i]) + "-"
 
-            word = first_half + mapped + secnd_half
+        word = first_half + mapped + secnd_half
 
-            # adjust index wrt to the mapped length
-            # simplified of: i + len(mapped) + 1 - 1
-            return self.single_letters_to_phonetic(word, i+len(mapped))
-        else:
-            return self.single_letters_to_phonetic(word, i+1)
-        
+        # adjust index wrt to the mapped length
+        # simplified of: i + len(mapped) + 1 - 1
+        return self.single_letters_to_phonetic(word, i+len(mapped))
+    
     def _phonetic_alphabet(self, string) -> str:
         string = string.strip()
         match string.lower():
@@ -131,7 +125,7 @@ class FilipinoCFGParser:
         for sb in substrings:
             if re.match(f"[A-Z]+", sb):
                 print("if", sb)
-                nativized += " "+self.single_letters_to_phonetic(sb).strip()
+                nativized += " "+self.single_letters_to_phonetic(sb)
             else:
                 print("el", sb)
                 result = sb.lower()
@@ -491,5 +485,5 @@ class FilipinoCFGParser:
 if __name__ == "__main__":
     parser = FilipinoCFGParser()
     
-    x = parser.apply_phonological_rules("ako si D O G na may IV")    
+    x = parser.apply_phonological_rules("ibuprofen IV XL")    
     print(x)
