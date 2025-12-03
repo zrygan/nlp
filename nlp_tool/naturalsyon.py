@@ -62,6 +62,60 @@ class FilipinoCFGParser:
             (r'ter$', 'ter'),
             (r'ble$', 'bol'),
         ]
+    
+    def single_letters_to_phonetic(self, word, i=0):
+        if len(word) <= i:
+            return word
+        
+        if i == len(word) - 1:
+            tri = word[i]
+        else:
+            tri = word[i] + word[i+1]
+            
+        if re.match(r"[A-Z](?![a-z])", tri):
+            first_half = word[:i]
+            secnd_half = word[i+1:]
+            mapped = self._phonetic_alphabet(word[i]) + " "
+
+            word = first_half + mapped + secnd_half
+
+            # adjust index wrt to the mapped length
+            # simplified of: i + len(mapped) + 1 - 1
+            return self.single_letters_to_phonetic(word, i+len(mapped))
+        else:
+            return self.single_letters_to_phonetic(word, i+1)
+        
+    def _phonetic_alphabet(self, string) -> str:
+        string = string.strip()
+        match string.lower():
+            case 'a':  return "ey"
+            case 'b':  return "bi"
+            case 'c':  return "si"
+            case 'd':  return "di"
+            case 'e':  return "i"
+            case 'f':  return "ef"
+            case 'g':  return "dyi"
+            case 'h':  return "eyts"
+            case 'i':  return "ay"
+            case 'j':  return "dyey"
+            case 'k':  return "key"
+            case 'l':  return "el"
+            case 'm':  return "em"
+            case 'n':  return "en"
+            case 'ñ':  return "enye"
+            case 'o':  return "o"
+            case 'p':  return "pi"
+            case 'q':  return "kyu"
+            case 'r':  return "ar"
+            case 's':  return "es"
+            case 't':  return "ti"
+            case 'u':  return "yu"
+            case 'v':  return "vi"
+            case 'w':  return "dobolyu"
+            case 'x':  return "eks"
+            case 'y':  return "way"
+            case 'z':  return "zi"
+            case _:    return string
         
     def apply_phonological_rules(self, word: str, source_lang: str = 'auto') -> str:
         """
@@ -71,120 +125,128 @@ class FilipinoCFGParser:
             word: Word to naturalize
             source_lang: 'spanish', 'english', or 'auto'
         """
-        result = word.lower()
-        
-        # Step 1: Apply basic phoneme mappings (works for both Spanish and English)
-        for pattern, replacement in self.phoneme_rules:
-            result = result.replace(pattern, replacement)
-        
-        # Only if starts with x, change to s
-        result = re.sub(r'^x', 's', result)
-        
-        # if y is after x, change to i (e.g., acyclovir -> asayklobir)
-        result = re.sub(r'(?<=[x])y', 'i', result)
-        
-        # Every other case, replace with ks
-        result = re.sub(r'x', 'ks', result)
-        
-        # if y is before s, change to i (e.g., acyclovir -> asayklobir)
-        result = re.sub(r'y(?=[s])', 'i', result)    
-        
-        # If y is before l, change to i (e.g., acetylcysteine -> asetilsisteen)
-        result = re.sub(r'(?i)y(?=l)', 'i', result)    
-        
-        # c before e/i -> s (centro -> sentro)
-        result = re.sub(r'c([eyi])', r's\1', result)
-        
-        # c elsewhere -> k (computer -> kompyuter)
-        result = result.replace('c', 'k')
-        
-        # Any ch -> k instead
-        result = result.replace('kh', 'k')
-        
-        
-        # Special handling for 'sy' -> 'sayk' (e.g., cyclosporine -> siklosporine)
-        result = re.sub(r'(?i)y', 'ay', result)
-        
-        
-        # switch y and i if y does not preceed with a
-        result = re.sub(r'(?<!a)y', 'i', result)
-        
-        # Account for g special case
-        result = re.sub(r'g([eiy])(?![sck])', r'dy\1', result)
-        
-        # Handle anything ending with -ate
-        result = re.sub(r'ate$', 'eyt', result)
-        
-        # Handle anything ending with -ide
-        
-        result = re.sub(r'ide$', 'ayd', result)
-        
-        # Handle anything ending with -one
-        
-        result = re.sub(r'one$', 'own', result)
+        substrings = word.split(" ")
+        print(substrings)
+        nativized = ""
+        for sb in substrings:
+            if re.match(f"[A-Z]+", sb):
+                print("if", sb)
+                nativized += " "+self.single_letters_to_phonetic(sb).strip()
+            else:
+                print("el", sb)
+                result = sb.lower()
+                
+                # Step 1: Apply basic phoneme mappings (works for both Spanish and English)
+                for pattern, replacement in self.phoneme_rules:
+                    result = result.replace(pattern, replacement)
+                
+                # Only if starts with x, change to s
+                result = re.sub(r'^x', 's', result)
+                
+                # if y is after x, change to i (e.g., acyclovir -> asayklobir)
+                result = re.sub(r'(?<=[x])y', 'i', result)
+                
+                # Every other case, replace with ks
+                result = re.sub(r'x', 'ks', result)
+                
+                # if y is before s, change to i (e.g., acyclovir -> asayklobir)
+                result = re.sub(r'y(?=[s])', 'i', result)    
+                
+                # If y is before l, change to i (e.g., acetylcysteine -> asetilsisteen)
+                result = re.sub(r'(?i)y(?=l)', 'i', result)    
+                
+                # c before e/i -> s (centro -> sentro)
+                result = re.sub(r'c([eyi])', r's\1', result)
+                
+                # c elsewhere -> k (computer -> kompyuter)
+                result = result.replace('c', 'k')
+                
+                # Any ch -> k instead
+                result = result.replace('kh', 'k')
+                
+                # Special handling for 'sy' -> 'sayk' (e.g., cyclosporine -> siklosporine)
+                result = re.sub(r'(?i)y', 'ay', result)
+                
+                # switch y and i if y does not preceed with a
+                result = re.sub(r'(?<!a)y', 'i', result)
+                
+                # Account for g special case
+                result = re.sub(r'g([eiy])(?![sck])', r'dy\1', result)
+                
+                # Handle anything ending with -ate
+                result = re.sub(r'ate$', 'eyt', result)
+                
+                # Handle anything ending with -ide
+                
+                result = re.sub(r'ide$', 'ayd', result)
+                
+                # Handle anything ending with -one
+                
+                result = re.sub(r'one$', 'own', result)
 
-        # Handle anything ending with -e
+                # Handle anything ending with -e
+                
+                result = re.sub(r'e$', '', result)
+                
+                # Anything with thion should be tayon
+                
+                result = re.sub(r'thi([ao])', r'tay\1', result)
+                
+                # Handle th specifically
+                
+                result = result.replace('th', 't')
+                
+                # Sub out for double letters in a row
+                
+                result = re.sub(r'([^\d])\1', r'\1', result)
+            
+                # Anything with ein turns into eene
+                result = result.replace('ein', 'in')
+                
+                # Anything with 'o[vowel][!consonant]' has a y in middle
+                
+                result = re.sub(r'o([aeiou])(?![aeiou])', r'oy\1', result)
+                
+                # Anything with 'i[vowel]' has a y in middle
+                
+                result = re.sub(r'i([aeiou])', r'iy\1', result)
+                
+                # Anything with 'u[vowel]' has a w in middle
+                
+                result = re.sub(r'u([aeiou])', r'uw\1', result)
+                
+                # Anything with 'eu' should be u in middle
+                
+                result = result.replace('eu', 'u')
+                
+                # 'ee' -> 'i', 'oo' -> 'u'
+                result = re.sub(r'ee', 'i', result)
+                result = re.sub(r'oo', 'u', result)
+                
+                
+                # Step 3: Apply Spanish-specific patterns
+                # if source_lang in ['spanish', 'auto']:
+                #     for pattern, replacement in self.spanish_patterns:
+                #         result = re.sub(pattern, replacement, result)
+                
+                # Step 6: Apply vowel shifts
+                # for eng, fil in self.vowel_shifts.items():
+                #     result = result.replace(eng, fil)
+                
+                # Step 4: Apply English-specific patterns
+                if source_lang in ['english', 'auto']:
+                    for pattern, replacement in self.english_patterns:
+                        result = re.sub(pattern, replacement, result)
+                
+                # Step 5: Handle double consonants (reduce to single in most cases)
+                # But preserve important doubles like 'dd' in 'adda'
+                for consonant in 'bdfghjklmnpqrstvwxz':
+                    if consonant + consonant + consonant in result:
+                        result = result.replace(consonant + consonant + consonant, consonant)
+                
+                nativized += " "+result
         
-        result = re.sub(r'e$', '', result)
-        
-        # Anything with thion should be tayon
-        
-        result = re.sub(r'thi([ao])', r'tay\1', result)
-        
-        # Handle th specifically
-        
-        result = result.replace('th', 't')
-        
-        # Sub out for double letters in a row
-        
-        result = re.sub(r'([^\d])\1', r'\1', result)
-    
-        # Anything with ein turns into eene
-        result = result.replace('ein', 'in')
-        
-        # Anything with 'o[vowel][!consonant]' has a y in middle
-        
-        result = re.sub(r'o([aeiou])(?![aeiou])', r'oy\1', result)
-        
-        # Anything with 'i[vowel]' has a y in middle
-        
-        result = re.sub(r'i([aeiou])', r'iy\1', result)
-        
-        # Anything with 'u[vowel]' has a w in middle
-        
-        result = re.sub(r'u([aeiou])', r'uw\1', result)
-        
-        # Anything with 'eu' should be u in middle
-        
-        result = result.replace('eu', 'u')
-        
-        # 'ee' -> 'i', 'oo' -> 'u'
-        result = re.sub(r'ee', 'i', result)
-        result = re.sub(r'oo', 'u', result)
-        
-        
-        # Step 3: Apply Spanish-specific patterns
-        # if source_lang in ['spanish', 'auto']:
-        #     for pattern, replacement in self.spanish_patterns:
-        #         result = re.sub(pattern, replacement, result)
-        
-        # Step 6: Apply vowel shifts
-        # for eng, fil in self.vowel_shifts.items():
-        #     result = result.replace(eng, fil)
-        
-        # Step 4: Apply English-specific patterns
-        if source_lang in ['english', 'auto']:
-            for pattern, replacement in self.english_patterns:
-                result = re.sub(pattern, replacement, result)
-        
-        # Step 5: Handle double consonants (reduce to single in most cases)
-        # But preserve important doubles like 'dd' in 'adda'
-        for consonant in 'bdfghjklmnpqrstvwxz':
-            if consonant + consonant + consonant in result:
-                result = result.replace(consonant + consonant + consonant, consonant)
-        
-        
-        return result
+        return nativized.strip()
     
     def add_affixes(self, root: str, affix_type: str = 'mag') -> str:
         """
@@ -429,241 +491,5 @@ class FilipinoCFGParser:
 if __name__ == "__main__":
     parser = FilipinoCFGParser()
     
-    # Run comprehensive demonstrations
-    parser.demonstrate_naturalization()
-    
-    # Interactive examples
-    print("\n" + "=" * 70)
-    print("INTERACTIVE EXAMPLES")
-    print("=" * 70)
-    
-    # print("\nSpanish words:")
-    # for word in ['gobierno', 'educacion', 'teléfono', 'baño']:
-    #     print(f"  {word:15} → {parser.apply_phonological_rules(word, 'spanish')}")
-    
-    # print("\nEnglish words:")
-    # for word in ['computer', 'facebook', 'television']:
-    #     print(f"  {word:15} → {parser.apply_phonological_rules(word, 'english')}")
-        
-    # Dictionary of drug names -> list of acceptable outputs
-    drug_table = {
-        'Acetaminophen': ['asetaminofen'],
-        'Acetylcysteine': ['asetilsisteen'],
-        'Acyclovir': ['asayklobir'],
-        'Albendazole': ['albendasol'],
-        'Albuterol': ['albiyuterol'],
-        'Alendronate': ['alendroneyt'],
-        'Alprazolam': ['alprasolam'],
-        'Amikacin': ['amikasin'],
-        'Amlodipine': ['amlodipin'],
-        'Amoxicillin': ['amoksisilin'],
-        'Apixaban': ['apiksaban'],
-        'Aripiprazole': ['aripiprasol'],
-        'Aspirin': ['aspirin'],
-        'Atorvastatin': ['atorbastatin'],
-        'Azithromycin': ['asitromaysin'],
-        'Aztreonam': ['astreonam'],
-        'Bacitracin': ['basitrasin'],
-        'Baloxavir': ['baloksabir'],
-        'Beclomethasone': ['beklometasown'],
-        'Betamethasone': ['betametasown'],
-        'Bisacodyl': ['bisakodil'],
-        'Brompheniramine': ['brompeniramin', 'bromfeniramin'],
-        'Budesonide': ['budesonayd'],
-        'Bupropion': ['bupropyon', 'bupropiyon'],
-        'Buspirone': ['buspirown'],
-        'Calcium Carbonate': ['kalsiyum karboneyt'],
-        'Captopril': ['kaptopril'],
-        'Carbamazepine': ['karbamasepin'],
-        'Carbimazole': ['karbimasol'],
-        'Carvedilol': ['karbedilol'],
-        'Celecoxib': ['selekoksib'],
-        'Cephalexin': ['sefaleksin'],
-        'Cetirizine': ['setirisin', 'sitirisin'],
-        'Chloramphenicol': ['kloramfenikol'],
-        'Chloroquine': ['klorokwin'],
-        'Chlorpromazine': ['klorpromasin'],
-        'Ciprofloxacin': ['siprofloksasin'],
-        'Clindamycin': ['klindamaysin'],
-        'Clobetasol': ['klobetasol'],
-        'Clonazepam': ['klonasepam'],
-        'Clopidogrel': ['klopidogrel'],
-        'Clotrimazole': ['klotrimasol', 'klotrimasowl'],
-        'Clozapine': ['klosapin'],
-        'Codeine': ['kodeyn', 'kowdeyn', 'kodin', 'kowdin', 'kowdeen', 'kodeen'],
-        'Cyanocobalamin': ['sayanokobalamin'],
-        'Cyclosporine': ['sayklosporin'],
-        'Cyproheptadine': ['sayproheptadin'],
-        'Daptomycin': ['daptomaysin'],
-        'Desloratadine': ['desloratadin'],
-        'Dexamethasone': ['deksametasown'],
-        'Dextromethorphan': ['dekstrometorfan', 'dektrometorpan'],
-        'Diazepam': ['diyasepam'],
-        'Diclofenac': ['diklofenak'],
-        'Dimenhydrinate': ['dimenhaydrineyt'],
-        'Diphenhydramine': ['daypenhaydramin'],
-        'Dolutegravir': ['dolutegrabir'],
-        'Domperidone': ['domperidown'],
-        'Doxycycline': ['doksisayklin'],
-        'Duloxetine': ['duloksetin'],
-        'Efavirenz': ['efabirens'],
-        'Enalapril': ['enalapril'],
-        'Ertapenem': ['ertapenem'],
-        'Erythromycin': ['eritromaysin'],
-        'Escitalopram': ['eskitalopram'],
-        'Esomeprazole': ['esomeprasol', 'esomeprasowl'],
-        'Ethambutol': ['etambutol'],
-        'Famciclovir': ['famsiklobir'],
-        'Fentanyl': ['fentanil'],
-        'Ferrous Sulfate': ['peryus sulpeyt'],
-        'Fexofenadine': ['feksofenadin'],
-        'Finasteride': ['finasterayd'],
-        'Fluconazole': ['flukonasol', 'flukonasowl'],
-        'Fluoxetine': ['fluoksetin'],
-        'Fluticasone': ['flutikasown'],
-        'Folic Acid': ['folik asid'],
-        'Formoterol': ['formoterol'],
-        'Furosemide': ['furosemayd'],
-        'Gabapentin': ['gabapentin'],
-        'Gentamicin': ['hentamaysin'],
-        'Glimepiride': ['glaymepirayd'],
-        'Guaifenesin': ['gwaypenesin', 'gwafenesin'],
-        'Haloperidol': ['haloperidol'],
-        'Heparin': ['heparin'],
-        'Hydrochlorothiazide': ['haydroklorotayasayd'],
-        'Hydrocortisone': ['haydrokortisown'],
-        'Hydroxychloroquine': ['haydroksiklorokwin'],
-        'Hydroxyzine': ['haydroksisin'],
-        'Ibuprofen': ['aaybuprofen', 'aybuprofen', 'aaybupropen', 'aybupropen'],
-        'Imipenem': ['imipenem'],
-        'Insulin': ['insulin'],
-        'Interferon': ['interferon'],
-        'Ipratropium': ['ipratropiyum'],
-        'Isoniazid': ['aysoneyasid'],
-        'Ivermectin': ['aybermek­tin'],
-        'Ketoconazole': ['ketokonasol', 'ketonasowl'],
-        'Ketorolac': ['ketorolak'],
-        'Lamivudine': ['lamibudin'],
-        'Lamotrigine': ['lamotridyin'],
-        'Levamisole': ['lebamisol'],
-        'Levetiracetam': ['lebetirasetam'],
-        'Levocetirizine': ['lebosetirisin'],
-        'Levofloxacin': ['lebofloksasin'],
-        'Levothyroxine': ['lebotayroksin'],
-        'Linezolid': ['linesolid'],
-        'Lisinopril': ['lisinopril'],
-        'Lithium': ['litiyum'],
-        'Loperamide': ['loperamayd'],
-        'Loratadine': ['loratadin'],
-        'Lorazepam': ['lorasepam'],
-        'Losartan': ['losartan'],
-        'Magnesium Oxide': ['magnesiyum oksayd'],
-        'Malathion': ['malatayon'],
-        'Mebendazole': ['mebendasol'],
-        'Meclizine': ['meklisin'],
-        'Meloxicam': ['meloksikam'],
-        'Meropenem': ['meropenem'],
-        'Metformin': ['metformin'],
-        'Methimazole': ['metimasol'],
-        'Methylprednisolone': ['metilprednisolown'],
-        'Metoclopramide': ['metoklopramayd'],
-        'Metoprolol': ['metoprolol'],
-        'Metronidazole': ['metronidasol', 'metronidasowl'],
-        'Midazolam': ['midasolam'],
-        'Minocycline': ['minosayklin'],
-        'Mirtazapine': ['mirtasapin'],
-        'Molnupiravir': ['molnupirabir'],
-        'Mometasone': ['mometasown'],
-        'Montelukast': ['montelukast'],
-        'Morphine': ['morfin', 'morpin'],
-        'Naproxen': ['naproksen'],
-        'Neomycin': ['neomaysin'],
-        'Nitrofurantoin': ['nitropurantoyin', 'nitrofurantoyin'],
-        'Ofloxacin': ['ofloksasin'],
-        'Olanzapine': ['olansapin'],
-        'Omeprazole': ['omeprasol'],
-        'Ondansetron': ['ondansetron'],
-        'Oseltamivir': ['oseltamibir'],
-        'Oxycodone': ['oksikodown'],
-        'Oxymetazoline': ['oksimetasolin'],
-        'Pantoprazole': ['pantoprasol', 'pantoprasowl'],
-        'Paracetamol': ['parasetamol'],
-        'Paroxetine': ['paroksetin'],
-        'Paxlovid': ['pakslobid'],
-        'Permethrin': ['permetrin'],
-        'Phenylephrine': ['fenilefrin'],
-        'Phenytoin': ['penitoyn', 'fenitoyn'],
-        'Polymyxin B': ['polimiksin bi'],
-        'Praziquantel': ['prasikwantel'],
-        'Prednisone': ['prednisown'],
-        'Pregabalin': ['pregabalin'],
-        'Prochlorperazine': ['proklorperasin'],
-        'Promethazine': ['prometasin'],
-        'Propranolol': ['propranolol'],
-        'Pseudoephedrine': ['sudoyepedrin', 'sudoyefedrin'],
-        'Psyllium': ['sillyum', 'silium', 'siliyum'],
-        'Pyrantel Pamoate': ['payrantel pamoeyt'],
-        'Pyrazinamide': ['payrasinamayd'],
-        'Quetiapine': ['kwetiyapin'],
-        'Ranitidine': ['ranitidin'],
-        'Remdesivir': ['remdesibir'],
-        'Rifampicin': ['rifampisin'],
-        'Risperidone': ['risperidown'],
-        'Rivaroxaban': ['ribaroksaban'],
-        'Rosuvastatin': ['rosubastatin'],
-        'Salbutamol': ['salbutamol'],
-        'Salmeterol': ['salmeterol'],
-        'Senna': ['sena'],
-        'Sertraline': ['sertralin'],
-        'Sildenafil': ['sildenafil'],
-        'Simethicone': ['simetikown'],
-        'Simvastatin': ['simbastatin'],
-        'Sitagliptin': ['sitagliptin'],
-        'Spironolactone': ['spironolaktown'],
-        'Sulfamethoxazole': ['sulfametoksasol'],
-        'Tacrolimus': ['takrolimus'],
-        'Tadalafil': ['tadalapil', 'tadalafil'],
-        'Tamsulosin': ['tamsulosin'],
-        'Tenofovir': ['tenofobir'],
-        'Tetracycline': ['tetrasayklin'],
-        'Theophylline': ['teofilin'],
-        'Tigecycline': ['tigesayklin'],
-        'Tiotropium': ['tiyotropiyum'],
-        'Tobramycin': ['tobramaysin'],
-        'Topiramate': ['topirameyt'],
-        'Tramadol': ['tramadol'],
-        'Trazodone': ['trasodown'],
-        'Triamcinolone': ['triyamsinolown'],
-        'Trimethoprim': ['trimetoprim'],
-        'Valacyclovir': ['balasayklobir'],
-        'Valproic Acid': ['balproyik asid'],
-        'Valsartan': ['balsartan'],
-        'Vancomycin': ['bankomaysin'],
-        'Venlafaxine': ['benlafaksin'],
-        'Vitamin C': ['bitamin si'],
-        'Vitamin D': ['bitamin di'],
-        'Warfarin': ['warfarin'],
-        'Xylometazoline': ['silometasolin'],
-        'Zanamivir': ['sanamibir'],
-        'Zinc Sulfate': ['sink sulpeyt', 'sink sulfeyt'],
-    }
-    
-
-    # Testing loop
-    for drug, expected_list in drug_table.items():
-        result = parser.apply_phonological_rules(drug, 'english')  # your parser function
-        match = '✓' if result in expected_list else '✗'
-        print(f"{match} {drug:25} → {result:25} (expected: {', '.join(expected_list)})")
-
-    metrics = parser.evaluate_parser(drug_table)
-    print(metrics)
-    
-    # print("\nWith affixes:")
-    # print(f"  luto + mag → {parser.add_affixes('luto', 'mag')}")
-    # print(f"  kain + um  → {parser.add_affixes('kain', 'um')}")
-    
-    # print("\nLigatures:")
-    # print(f"  maganda + bahay → {parser.apply_ligature('maganda', 'bahay')}")
-    # print(f"  malinis + silid → {parser.apply_ligature('malinis', 'silid')}")
-    
-    print("\n" + "=" * 70)
+    x = parser.apply_phonological_rules("ako si D O G na may IV")    
+    print(x)
