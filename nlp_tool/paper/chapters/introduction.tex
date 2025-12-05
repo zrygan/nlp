@@ -1,8 +1,8 @@
 \section{Introduction}
 
-The Filipino language is one of the two official of the Philippines, the other
-one being American English~\cite{Ethnologue}. Given that the country has two
-official languages and are both widely used in multiple contexts, it is common
+The Filipino language is one of the two official languages of the Philippines, the other
+one being English~\cite{Ethnologue}. Given that the country has two
+official languages that are both widely used in multiple contexts, it is common
 for Filipinos to use both languages simultaneously: borrow words through translation
 or nativization, or code switching~\cite{Bautista_2004}.
 
@@ -35,17 +35,19 @@ English-based names.
 
 These standardization efforts allow for consistency and clarity in drug
 identification and communication within the healthcare industry. We can see how
-these standardization efforts have allowed work on natural language processing
+these standardization efforts have enabled the development of natural language processing
 (NLP) software, such as the United States FDA's Phonetic and Orthographic
-Computer Analysis (POCA) Program which can confusible~\cite{FDA_POCA}. However,
-this tools are primarily designed for English drug names and may not account for the
+Computer Analysis (POCA) program, which detects confusable drug names~\cite{FDA_POCA}. However,
+these tools are primarily designed for English drug names and may not account for the
 nativization patterns present in Filipino drug names. Thus, there is a need to
 develop NLP tools that can effectively handle nativized Filipino drug names to
 ensure accurate identification and communication within the Philippine context.
 
-In this paper, we present a nativization algorithm for Filipino loan words,
-specifically focusing on English drug names. The proposed method is evaluated
-on three gold standard datasets. [... results]
+In this paper, we present a rule-based nativization algorithm for Filipino loan words,
+specifically focusing on English drug names. The algorithm applies phonological
+transformation rules derived from the Komisyon sa Wikang Filipino (KWF) orthography
+guidelines~\cite{KWF_MMP}. We evaluate the method on three datasets and analyze its
+performance across different word types.
 
 The proposed method is a preliminary step that aims to contribute to the construction
 of a more comprehensive NLP tool for Filipino drug names, which can aid in
