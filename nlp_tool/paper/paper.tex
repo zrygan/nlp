@@ -50,7 +50,7 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-We present a nativization algorithm for Filipino loan words. The method is evaluated on three gold standard datasets with ... results.
+We present a rule-based nativization algorithm for converting English loan words to Filipino orthography. The algorithm applies phonological transformation rules derived from the Komisyon sa Wikang Filipino (KWF) orthography guidelines. We evaluate the method on three datasets: generic drug names, drug brand names, and common English words used in Filipino. The algorithm achieves 88.94\% accuracy on generic drug names, 67.18\% on brand names, and 36\% on common English words. The results indicate that while rule-based approaches are effective for standardized terminology such as drug names, they face limitations when applied to words with irregular pronunciations.
 \end{abstract}
 
 \input{chapters/introduction.tex}
@@ -61,15 +61,22 @@ We present a nativization algorithm for Filipino loan words. The method is evalu
 
 
 \section*{Limitations}
-ACL 2023 requires all submissions to have a section titled ``Limitations'', for discussing the limitations of the paper as a complement to the discussion of strengths in the main text. This section should occur after the conclusion, but before the references. It will not count towards the page limit.
-The discussion of limitations is mandatory. Papers without a limitation section will be desk-rejected without review.
 
-While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. 
-Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative.
-In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
+The proposed algorithm has several limitations that should be considered when interpreting the results and applying the method to other contexts.
+
+\paragraph{Grapheme-based approach.} The algorithm operates purely on orthographic representations and does not utilize phonetic information. English orthography lacks a consistent one-to-one correspondence between graphemes and phonemes. For instance, the letter ``i'' in ``diphenhydramine'' represents two distinct sounds: /a\textsc{i}/ (as in ``eye'') for the first occurrence and /\textsc{i}/ (as in ``bit'') for the second. Without access to phonetic transcriptions or pronunciation dictionaries, the algorithm cannot reliably distinguish such cases, leading to incorrect nativizations.
+
+\paragraph{Domain specificity.} The transformation rules were derived primarily from patterns observed in pharmaceutical terminology. Generic drug names follow relatively standardized naming conventions based on International Nonproprietary Names (INN), which exhibit consistent phonological patterns. The lower accuracy on common English words (36\%) indicates that these rules do not transfer well to the broader lexicon, where historical borrowing patterns, regional variations, and irregular pronunciations introduce inconsistencies that rule-based methods cannot capture.
+
+\paragraph{Gold standard construction.} The reference nativizations were created by the authors, who are native Filipino speakers, following the KWF orthography guidelines. However, no inter-annotator agreement was computed, and nativization can be inherently subjective. Different speakers may produce varying nativized forms for the same source word depending on dialect, education, and individual pronunciation habits.
+
+\paragraph{Scope of source languages.} This work addresses only English-to-Filipino nativization. The Filipino language has historically borrowed from multiple languages, including Spanish (e.g., ``kutsara'' from \textit{cuchara}) and Hokkien Chinese (e.g., ``pansit'' from \textit{pi\^{a}n-sit}). The nativization patterns for these source languages differ from English and are not covered by the proposed algorithm.
 
 \section*{Ethics Statement}
-Scientific work published at ACL 2023 must comply with the ACL Ethics Policy.\footnote{\url{https://www.aclweb.org/portal/content/acl-code-ethics}} We encourage all authors to include an explicit ethics statement on the broader impact of the work, or other ethical considerations after the conclusion but before the references. The ethics statement will not count toward the page limit (8 pages for long, 4 pages for short papers).
+
+The datasets used in this study were compiled from publicly available sources. The generic drug names consist of International Nonproprietary Names (INN), which are standardized designations published by the World Health Organization. The brand names were obtained from the Philippines Food and Drug Administration's public verification database. The common English words were collected from publicly accessible posts on the r/Tagalog subreddit. No private, proprietary, or personally identifiable information was collected or used in this research.
+
+This algorithm is developed for research purposes and is not intended for direct clinical or pharmaceutical application. We acknowledge that nativization of drug names in healthcare settings carries inherent risks. Errors in nativization could result in phonetically similar outputs for distinct drug names, potentially contributing to confusion and medication errors. Therefore, any deployment of this or similar tools in clinical contexts should incorporate verification by qualified healthcare professionals and should not replace established drug name safety protocols.
 
 \section*{Acknowledgments}
 This work represents a preliminary work as part of an ongoing undergraduate thesis research project by Zhean Ganituen and others, advised by Nathaniel Oco, on computing confusible drug names in the Philippine setting.
