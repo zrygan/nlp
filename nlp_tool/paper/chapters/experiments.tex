@@ -1,12 +1,64 @@
 \section{Experimental Setup}
 
-As a test bench, three word sets of English loan words adapted into Filipino
-were created with their corresponding nativized form.
+To evaluate the nativization algorithm, three datasets of English words with
+their corresponding Filipino nativized forms were constructed.
 
-The first set consists of 100 random drug names taken from the internet. The
-second set consists of 262 random drug names taken from the Philippines FDA
-list of approved human.
-drugs~\footnote{\url{https://verification.fda.gov.ph/drug_productslist.php}} The
-third set consists of 100 random English words commonly used in Filipino
-sentences or conversations, the words in this list were taken from random posts
-on the r/Tagalog subreddit.~\footnote{\url{https://www.reddit.com/r/Tagalog}}
+\subsection{Datasets}
+
+The first dataset consists of 199 generic drug names. These are International
+Nonproprietary Names (INN) of pharmaceutical substances commonly available in
+the Philippines. The names were compiled from publicly available pharmaceutical
+references and represent drugs across various therapeutic categories.
+
+The second dataset consists of 262 drug brand names registered with the
+Philippines Food and Drug
+Administration.\footnote{\url{https://verification.fda.gov.ph/}} These include
+proprietary names used by pharmaceutical companies in the Philippine market.
+Unlike generic names which follow INN conventions, brand names exhibit more
+varied orthographic patterns.
+
+The third dataset consists of 100 common English words frequently used in
+Filipino conversations. These words were collected from posts on the r/Tagalog
+subreddit,\footnote{\url{https://www.reddit.com/r/Tagalog/}} representing
+informal usage of English loan words in everyday Filipino.
+
+Each dataset is stored as comma-separated values with the English word and its
+corresponding Filipino nativization. Table~\ref{tab:examples} shows sample
+entries from each dataset.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\hline
+\textbf{Dataset} & \textbf{English} & \textbf{Filipino} \\
+\hline
+Generic drugs & acetaminophen & asetaminofen \\
+              & amoxicillin & amoksisilin \\
+              & azithromycin & asitromaysin \\
+\hline
+Brand names   & abilify & abilifay \\
+              & votrient & botriyent \\
+              & vitaplus & baytaplus \\
+\hline
+Common words  & sorry & sori \\
+              & download & dawnlowd \\
+              & screenshot & skrinshat \\
+\hline
+\end{tabular}
+\caption{Sample nativization pairs from each dataset.}
+\label{tab:examples}
+\end{table}
+
+\subsection{Gold Standard Construction}
+
+For each word in the datasets, the corresponding Filipino nativized form was
+manually created by the authors, who are native Filipino speakers, following
+the orthographic guidelines from the KWF Manwal sa Masinop na
+Pagsulat~\cite{KWF_MMP}.
+
+\subsection{Evaluation Metric}
+
+The algorithm's output was compared against the gold standard nativizations
+using exact string matching. Accuracy was computed as the proportion of words
+where the algorithm's output exactly matched the expected nativized form. An
+analysis of common error patterns is presented in the Results section.
