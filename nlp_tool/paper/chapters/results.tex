@@ -1,20 +1,25 @@
 \section{Results and Discussion}
 
-In testing the  effectiveness of this nativization algorithm, we utilized multiple datasets containing drug names, drug brand 
-names, and regular words. The performance of the algorithm was evaluated based on its ability to accurately nativize drug names
-into Filipino. We calculated the accuracy of the nativization by comparing the algorithm's output against a manually curated 
-list of nativized words. The goal of this evaluation was to determine how well the algorithm could generalize across different 
-datasets whether it be for drug names, brand names, or common words. The results indicated that the algorithm performed well 
-on the initial dataset, achieving an accuracy of 88.94\%. However, when tested on additional datasets, the accuracy varied, with 
-a drop to 67.18\% on brand names and 36\% on regular words. This suggests that while the algorithm is effective for drug names, 
-it may require further refinement to handle the nuances of brand names and common words. Overall, it achieved its desired result 
-in capturing the nativized forms of drug names in Filipino, but further work is needed to enhance its versatility across different
-types of words.
+We evaluated the algorithm on the three datasets described in the experimental
+setup: 199 generic drug names, 262 drug brand names, and 100 common English
+words used in Filipino. The performance was measured as accuracy, computed as
+the proportion of words for which the algorithm's output exactly matched the
+manually curated nativized form.
 
-The most significant limitation of this project is the persistent dilemma involving the correct use of “y,” “ay,” and “i,” as the 
-algorithm produces forms based on observed rules and patterns found within the dataset. These inconsistencies underscore the 
-difficulty of fully capturing nuanced pronunciation and orthographic patterns through rule-based methods alone. Nevertheless, 
-while the algorithm successfully meets its primary objective of nativizing drug names into Filipino, the challenges identified
-particularly in handling vowel-glide variations highlight opportunities for further refinement. Future iterations of the tool 
-may benefit from incorporating more advanced approaches, such as phonetic modeling or machine learning techniques, to enhance 
-both the accuracy and adaptability of the nativization process across a broader range of word types.
+On the generic drug names, the system achieved an accuracy of 88.94\%,
+correctly producing nativized forms such as \textit{acetaminophen}
+$\rightarrow$ \textit{asetaminofen} and \textit{azithromycin} $\rightarrow$
+	extit{asitromaysin}. Accuracy decreased to 67.18\% on brand names and 36\%
+on common English words. This pattern reflects the greater orthographic and
+phonological variability of proprietary names and informal borrowings compared
+with standardized International Nonproprietary Names.
+
+Many of the remaining errors involve the treatment of ``y'', ``i'', and the
+diphthong ``ay'', particularly in cases where multiple plausible Filipino
+realizations exist. Words containing sequences such as ``ria'' or ``thia" may
+be pronounced and nativized in more than one way, and the current set of
+rules does not capture all of these possibilities. These observations
+underscore the difficulty of modeling fine-grained pronunciation and
+orthographic patterns through fixed rules alone and motivate future work that
+incorporates phonetic information or data-driven methods to improve coverage
+on brand names and common words.
