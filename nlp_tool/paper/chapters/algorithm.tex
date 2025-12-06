@@ -54,6 +54,28 @@ a single letter mapping, they are instead replaced with ``ks'' (inde\textbf{ks},
 In the table below, we summarize the common monograph substitutions used in our
 nativization algorithm.
 
+\begin{table}[h]
+\centering
+\caption{Monograph Phoneme Mappings}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Source} & \textbf{Target} & \textbf{Source} & \textbf{Target} \\
+\hline
+b & b & p & p \\
+k & k & r & r \\
+d & d & s & s \\
+g & g & t & t \\
+h & h & w & w \\
+l & l & y & y \\
+m & m & v & b \\
+n & n & f & p \\
+\hline
+j & dy & z & s \\
+q & k & x & ks \\
+\hline
+\end{tabular}
+\end{table}
+
 \subsection{Digraphs}
 
 English has several letter combinations or digraphs that represent specific
@@ -73,6 +95,26 @@ equivalents. For example, the digraph ``oo'' (\textbf{oo}ze) is replaced with
 
 In the table below, we summarize the common digraph substitutions used in our
 nativization algorithm.
+
+
+\begin{table}[h]
+\centering
+\caption{Digraph Phoneme Mappings}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Source} & \textbf{Target} \\
+\hline
+ph & p \\
+th & t \\
+ch & ts \\
+sh & sy \\
+ng & ng \\
+ny & ny \\
+qu & kw \\
+ñ & ny \\
+\hline
+\end{tabular}
+\end{table}
 
 \subsection{Vowel Unpredictability}
 
