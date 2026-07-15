@@ -1,0 +1,165 @@
+\section{Data Collection}\label{sec:data_collection}
+
+The orthographic and phonetic analyses in this paper are computed over a corpus
+of Biblical translations that we collected ourselves. Because that corpus is
+unpublished, its provenance cannot be established by citation, and we therefore
+document the collection procedure here in full rather than referring the reader
+elsewhere.
+
+\subsection{Source and Procedure}
+
+The corpus was drawn from YouVersion (\url{https://www.bible.com}), an online
+Bible platform that hosts translations under licence from their publishers. One
+translation was selected per language for each of the sixteen languages
+in~\cref{tab:ph_languages}. \Cref{tab:seeds} records the exact translation used
+for each, together with the number of chapters obtained from it. Eight of the
+translations are complete Bibles and were seeded at Genesis 1. The remaining
+eight are New Testament translations still in progress and were seeded at
+Matthew 1, which is why their chapter counts are uniformly lower.
+
+\begin{table}[h!]
+    \centering
+    \footnotesize
+    \begin{tabular}{llr}
+        \hline
+        \textbf{Language} & \textbf{Seed chapter}        & \textbf{Chapters} \\
+        \hline
+        Tagalog           & \texttt{2195/GEN.1.ABTAG01}  & 977               \\
+        Cebuano           & \texttt{562/GEN.1.RCPV}      & 977               \\
+        Ilocano           & \texttt{782/GEN.1.RIPV}      & 977               \\
+        Hiligaynon        & \texttt{2190/GEN.1.MBBHIL12} & 1{,}104           \\
+        Bikol             & \texttt{890/GEN.1.MBBBIK92}  & 1{,}104           \\
+        Waray-Waray       & \texttt{2198/GEN.1.MBBSAM}   & 1{,}104           \\
+        Kapampangan       & \texttt{1141/GEN.1.PMPV}     & 1{,}104           \\
+        Pangasinan        & \texttt{1166/GEN.1.PNPV}     & 1{,}104           \\
+        Adasen            & \texttt{2812/MAT.1.YBT}      & 209               \\
+        Chavacano         & \texttt{1129/MAT.1.CBKNT}    & 209               \\
+        Paranan           & \texttt{438/MAT.1.PRF}       & 209               \\
+        Tausug            & \texttt{1319/MAT.1.TSG}      & 209               \\
+        Romblomanon       & \texttt{2244/MAT.1.BKR}      & 209               \\
+        Masbatenyo        & \texttt{1222/MAT.1.MSB}      & 209               \\
+        Kinaray-a         & \texttt{1489/MAT.1.KRJNT}    & 209               \\
+        Yami              & \texttt{2364/MAT.1.SNT}      & 209               \\
+        \hline
+                          & \textbf{Total}               & \textbf{10{,}123} \\
+        \hline
+    \end{tabular}
+    \caption{Seed chapter and yield per language. Each seed is given relative to
+        the prefix \url{https://www.bible.com/bible/}.}\label{tab:seeds}
+\end{table}
+
+YouVersion serves each chapter as an HTML document in which every span whose
+class is prefixed with \texttt{ChapterContent\_verse\_\_} encloses one verse.
+Within such a span, the verse text is carried by descendants prefixed
+\texttt{ChapterContent\_content\_\_}, while editorial apparatus supplied by the
+platform rather than by the translators, such as footnotes and
+cross-references, occupies \texttt{ChapterContent\_note\_\_} descendants
+interleaved with the text. We retained only the \texttt{content} descendants,
+concatenated in document order, and discarded every sibling class. The corpus
+consequently contains the translated text alone, and no editorial contribution
+of YouVersion's own. Each chapter page also carries a navigation anchor to its
+successor, which the collector followed from the seed, so each translation was
+traversed as a linear chain rather than as a general crawl of the site.
+
+Collection was performed once, in September 2025, using a purpose-written
+crawler in Go built on the Colly framework. Traversal from each seed terminated
+when the next-chapter link was exhausted rather than at the configured ceiling
+of 30,000 chapters, which was never binding. Each language was collected in its
+own goroutine, giving sixteen
+concurrent request streams, and the implementation issued two requests per
+chapter, one to extract the verses and a second to resolve the next-chapter
+link. The sixteen streams together therefore placed on the order of 20,000
+requests on the host. No crawl delay or rate limit was configured. The crawler
+transmitted Colly's default user agent, which identifies the client as an
+automated agent rather than imitating a browser.
+
+Only pages that YouVersion serves publicly and anonymously were retrieved. The
+crawler held no account, transmitted no credentials, and circumvented no
+paywall, login, or other access control; it read the same markup that the site
+returns to any unauthenticated visitor.
+
+\section{Ethical Considerations}\label{sec:ethics}
+
+Because the corpus underlying this paper was collected from a third party's
+website rather than obtained from a published dataset, the procedure
+of~\cref{sec:data_collection} requires scrutiny against the two instruments that
+govern automated access to that site: its robots exclusion file and its Terms of
+Use. We reviewed both, and we report the outcome in full, including where it is
+unfavourable to us.
+
+\subsection{Robots Exclusion}
+
+At the time of review, the robots exclusion file at
+\url{https://www.bible.com/robots.txt} applied a single rule set to all user
+agents. It disallows \texttt{/bible/*/*/notes}, the user and plan search
+endpoints, and five language-code directories, and it specifies no
+\texttt{Crawl-delay}. The chapter pages we retrieved lie under \texttt{/bible/}
+but match none of the disallowed patterns, and no disallowed path was requested.
+The crawl therefore conformed to the robots exclusion file.
+
+This conformance was, however, incidental rather than enforced. The Colly
+collector sets its \texttt{IgnoreRobotsTxt} option to true on construction and
+our implementation did not override it, so the crawler never retrieved or
+evaluated the exclusion file at run time. Conformance was established by our own
+later inspection, not by the software: had the file disallowed \texttt{/bible/},
+the crawler would have proceeded regardless. We record this because a claim of
+conformance that rests on coincidence is weaker than one that rests on
+enforcement, and the reader is entitled to the distinction.
+
+\subsection{Terms of Use}
+
+The YouVersion Terms of Use are less permissive than the exclusion file. Under
+the heading ``Permitted and Unpermitted Use'' they prohibit the user from
+
+\begin{quote}
+    ``us[ing] any robot, spider, or other automatic device, process, or means to
+    access YouVersion for any purpose, including monitoring or copying any of the
+    material on YouVersion''.
+\end{quote}
+
+We do not claim that our collection complies with this clause. It does not. The
+crawler described in~\cref{sec:data_collection} is an automatic device that
+accessed YouVersion for the purpose of copying material from it, which is the
+conduct the clause names. A permissive robots exclusion file does not cure this,
+as the two instruments are independent and the Terms are the governing agreement
+between the site and its users. The order of events is likewise material and we
+state it plainly: collection was carried out in September 2025, and the review
+reported here was conducted afterwards. The Terms were not consulted before the
+corpus was obtained, and the question was settled after the fact rather than in
+advance.
+
+We disclose this rather than assert a compliance we do not have. So that the
+reader may weigh the matter independently, we set out the circumstances on both
+sides.
+
+Four circumstances mitigate. The use is non-commercial and academic, and no
+revenue is derived from the corpus or from any work built upon it. No technical
+protection measure was defeated: every page retrieved is served publicly and
+anonymously, and the crawler bypassed no paywall, login, or access control. The
+crawler identified itself honestly rather than imitating a browser, so its
+automated character was apparent in the host's request log and was never
+disguised. The collection was a single bounded pass rather than a standing
+service, and nothing continues to poll the site.
+
+Three circumstances aggravate, and we do not minimise them. No crawl delay was
+configured, so requests were issued as fast as the parser allowed rather than at
+a rate calibrated to the host's capacity. Sixteen concurrent streams ran
+simultaneously. The implementation fetched each chapter twice, once for its
+verses and once for its next-chapter link, which doubled our load on the host
+for no benefit to us and could have been avoided by resolving both from a single
+response. The approximately 20,000 requests we placed were thus roughly twice as
+many as the task required, delivered without pacing. A defensible crawl would
+have used one request per chapter, a fixed delay, and a single stream.
+
+\subsection{Remediation}
+
+The defect identified here is remediable, and the remedy is specific. YouVersion
+operates a Platform API at \url{https://developers.youversion.com} which provides
+programmatic access to its Bible collections under a developer agreement, at no
+cost, and with a non-commercial restriction that an academic project satisfies by
+construction. It covers substantially more versions and languages than the
+sixteen used here. Obtaining the corpus through that interface would place the
+collection within the terms the site sets for automated access, and would
+dissolve the conflict described above rather than merely mitigate it. We
+recommend that any continuation of this work re-collect through the Platform API,
+and that the present corpus be treated as provisional until it does.

@@ -110,17 +110,14 @@ The source code of the methodology may be accessed in this GitHub repository:
 
 \subsection{Web Scraping and Parsing}
 
-Since YouVersion is an online platform written in the Hypertext Markup Language
-(HTML). We started by analyzing the structure of each webpage, pinning down the
-location of the relevant biblical content in each page. In this case, we need
-to find the location of the verses of each chapter in the HTML source.
-
-Doing a manual scan of the source code, we determined that all spans with
-\texttt{ChapterContent\_verse\_\_} as the prefix of its class is biblical text.
-
-The listing below contains an excerpt of the source code with the specific tag
-which contains a verse of that chapter. The \cref{list:chapter_content} is the
-first verse of Genesis chapter 1.
+YouVersion serves each chapter as an HTML document, so extraction reduces to
+identifying the markup that carries translated text and discarding everything
+else. A manual scan of the source revealed a stable convention: every span whose
+class is prefixed with \texttt{ChapterContent\_verse\_\_} encloses exactly one
+verse, and within it the verse number and the verse text are carried by spans
+prefixed with \texttt{ChapterContent\_label\_\_} and
+\texttt{ChapterContent\_content\_\_} respectively.
+\Cref{list:chapter_content} shows the markup for Gen 1:1.
 
 \begin{lstlisting}[language=HTML, caption={\texttt{ChapterContent\_verse\_\_} tag}, label={list:chapter_content}]
 <span 
@@ -154,45 +151,26 @@ to as Gen 1:1. For a range of verses we will instead use
 For example, we will use Gen 1:1-3 to refer to the first three verses of
 Genesis chapter 1.
 
-Furthermore, we will only extract all those children-spans whose class is
-prefixed with \texttt{ChapterContent\_content\_\_}. While we will discard the
-rest. For instance, we will disregard the \texttt{CharcterContent\_note\_} tag
-which are notes provided by YouVersion to the reader.
+Two properties of this structure determine the extraction rule. First, a verse is
+not necessarily contained in a single \texttt{content} span. In
+\cref{list:chapter_content} the verse is split across two of them, and the text
+is recovered only by concatenating them in document order. Second, editorial
+apparatus supplied by YouVersion rather than by the translators, such as
+footnotes and cross-references, occupies \texttt{ChapterContent\_note\_\_} spans
+interleaved with the text. Taking every descendant string of a verse span would
+therefore splice editorial content into the middle of the verse it annotates. We
+consequently retain only the \texttt{content} descendants, concatenate them in
+document order, and discard every sibling class, so that the corpus contains the
+translated text alone.
 
-To make the solution efficient, the web scraping and parsing step occur
-simultaneously. The web scraper uses the Colly framework for Go (or Golang).
-While the parsing uses a combination of string search functions and regular
-expressions for cleaning.
-
-On~\cref{list:parse_and_clean}, we scrape the HTML source code and find all
-instances of the desired tag. We then extract and clean the contents within
-that tag. The code uses a couple of regular expressions (RE) for cleaning which
-are enumerated in~\cref{tab:regex}.
-
-\begin{lstlisting}[language=Go, caption={Parsing and Cleaning Step}, label={list:parse_and_clean}]
-c := colly.NewCollector()
-
-c.OnHTML("span[class^='ChapterContent_verse__']", func(e *colly.HTMLElement) {
-    verseNumber := e.ChildText("span[class^='ChapterContent_label__']")
-    verseNumber = regexp.MustCompile(`\D`).ReplaceAllString(verseNumber, "")
-    var verseTexts []string
-    e.DOM.Find("span[class^='ChapterContent_content__']").Each(func(_ int, s *goquery.Selection) {
-        text := strings.TrimSpace(s.Text())
-        if text != "" {
-            clean := text
-            for _, re := range cleaningRes {
-                clean = re.ReplaceAllString(clean, "")
-            }
-            if clean != "" {
-                verseTexts = append(verseTexts, clean)
-            }
-        }
-    })
-    if len(verseTexts) > 0 {
-        verses = append(verses, fmt.Sprintf("%s: %s", verseNumber, strings.Join(verseTexts, " ")))
-    }
-})
-\end{lstlisting}
+Scraping and parsing are fused into a single pass. The crawler registers a
+handler on the verse selector and cleaning is applied to each match as it is
+encountered, so no intermediate copy of the markup is retained. The
+implementation uses the Colly framework for Go. Cleaning is a sequence of
+regular expression substitutions, enumerated in~\cref{tab:regex}, which
+restrict the character set to letters, digits, whitespace, and basic
+punctuation, and strip the residual verse numbering contributed by the label
+spans.
 
 \begin{table}[h!]
     \centering
@@ -208,41 +186,22 @@ c.OnHTML("span[class^='ChapterContent_verse__']", func(e *colly.HTMLElement) {
     \caption{REs used for text cleaning}\label{tab:regex}
 \end{table}
 
-To allow for the algorithm to continuously run, we now needed to find the
-location of the next Bible chapter in the webpage. Again, the approach is
-straightforward and we simply needed to determine the tag or class containing
-the hyperlink to the next page.
+Traversal exploits the same principle as extraction. Every chapter page carries
+a navigation anchor to its successor, which is distinguishable from the other
+links into \texttt{/bible/} by its accessible title of ``Next Chapter''. The
+crawler resolves this anchor and follows it, so a translation is walked as a
+linear chain from its seed chapter rather than as a general crawl of the site. A
+hash set of visited URLs guarantees termination, which matters because the final
+chapter of a translation links back into the same book rather than to nothing.
+Because each chain is sequential, parallelism is available only across
+languages, and each of the sixteen translations was therefore collected in its
+own concurrent stream.
 
-We found that any \texttt{<a>} tag with the \texttt{href} leading to a
-\texttt{/bible/} page are navigation buttons. So, we simply created a
-\texttt{visited} hash table containing all visited hyperlinks. And all
-\texttt{<a>} tags are cross-referenced with that hash table. Excerpts of this
-routine are found in~\cref{list:next_chap,list:open_next}
-
-\begin{lstlisting}[language=Go, caption={Finding the next chapter using the HTML tags}, label={list:next_chap}]
-c := colly.NewCollector()
-
-c.OnHTML("a[href^='/bible/']", func(e *colly.HTMLElement) {
-    title := e.DOM.Find("svg title").Text()
-    if title == "Next Chapter" {
-        nextURL = "https://www.bible.com" + e.Attr("href")
-    }
-})    
-\end{lstlisting}
-
-\begin{lstlisting}[language=Go, caption={Opening the next chapter}, label={list:open_next}]
-if nextURL != "" && !visited[nextURL] {
-    wordCount += ScrapeAndParse(nextURL,
-    language,
-    outputDir, cleaningRes,
-    visited,
-    chapterCounter,
-    maxCount,
-    )
-}
-\end{lstlisting}
-
-Finally, concurrency was used to make the algorithm efficient.
+The class names in \cref{list:chapter_content} carry a build-specific suffix,
+such as \texttt{\_\_57FIw}, that changes whenever YouVersion redeploys its front
+end. Matching on the stable prefix rather than the full class name is what makes
+the scraper robust to those redeployments, though a change to the underlying
+convention would still require the manual scan to be repeated.
 
 \section{Segmenting the Corpus}
 

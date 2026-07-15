@@ -1,84 +1,52 @@
-\section{Geographic Determinants}
+\section{Geographic Determinants}\label{sec:geo}
 
 This section employs linguistic cartography and a focused literature review to
 examine how geography has shaped the distribution and divergence of Philippine
-languages. Linguistic cartography—mapping language data onto spatial terrain—enables
-the visualization of geolinguistic variation, while literature contextualizes these
-patterns through historical and sociocultural perspectives. Together, these methods
-offer complementary insight into how environmental constraints have contributed to
-linguistic diversification across the archipelago.
+languages, combining the visualisation of geolinguistic variation with the
+historical and sociocultural context that accounts for it.
 
-The Philippines is a topographically complex nation, composed of over 7,600 islands
-grouped into \emph{Luzon}, \emph{Visayas}, and \emph{Mindanao}. Each region
-possesses distinct ecological and historical conditions that correspond to linguistic
-variation~\cite{Boquet_2017}. Scholars attribute this diversity largely to the
-archipelago's fragmented geography, which has historically restricted mobility and
-sustained linguistic isolation~\cite{Blust_1991}. Mountains, rivers, and ocean
-channels function both as connectors and separators, influencing how language
-communities form, expand, and maintain distinct identities.
+Each of the three regions introduced in \cref{sec:intro} possesses distinct
+ecological and historical conditions corresponding to linguistic
+variation~\cite{Boquet_2017}, a diversity scholars attribute largely to the
+archipelago's fragmented geography, which has historically restricted mobility
+and sustained linguistic isolation~\cite{Blust_1991}. Mountains, rivers, and
+ocean channels act as both connectors and separators. The \emph{barangay}, the
+smallest socio-political unit of pre-colonial society, was typically sited near
+rivers or coasts, locations that facilitated trade while simultaneously creating
+micro-environments of linguistic autonomy in which neighbouring islands could
+remain mutually unintelligible despite their proximity.
 
-Historically, the smallest socio-political unit of pre-colonial society—the
-\emph{barangay}—was typically situated near water sources such as rivers or coastal
-areas. These locations facilitated trade and communication, yet simultaneously
-created micro-environments of linguistic autonomy. The archipelagic layout of the
-country further intensified this phenomenon: neighboring islands could remain
-mutually unintelligible despite geographic proximity. Over time, these conditions
-produced a mosaic of related but distinct linguistic systems.
-
-Blust's Austronesian dispersal hypothesis~\cite{Blust_1991} suggests that a single
-protolanguage, introduced by early settlers from the Asian mainland, gradually
-diverged through localized adaptation and restricted contact. As communities became
-geographically isolated, subtle phonological and lexical innovations accumulated,
-leading to the 175 documented Philippine languages, two of which are now
-extinct~\cite{ethnologue2025}. This section highlights a representative subset of
-these languages—ranging from dominant regional lingua francas to endangered local
-tongues—shown in \cref{tab:ph_languages}.
-
-These languages collectively represent the major linguistic regions of the
-Philippines. Tagalog, Kapampangan, and Pangasinan
-dominate Central Luzon's plains; Ilocano and
-Paranan reflect the mountainous north and isolated Sierra Madre
-communities. In the Visayas, Cebuano, Hiligaynon,
-Kinaray-a, and Waray form a contiguous yet
-diversified cluster of Bisayan languages separated by narrow sea channels.
-Meanwhile, Bikol, Romblomanon, and Masbatenyo
-occupy transitional zones between Luzon and the Visayas, serving as
-intermediate varieties shaped by frequent inter-island contact. Mindanao's
-linguistic landscape, represented by Tausug and Chavacano
-, displays intense multilingual interaction and creolization due to
-historic trade networks. Yami, spoken in the Batanes Islands, marks
-the northern Austronesian periphery, maintaining archaic features shared with
-Formosan languages.
+Blust's Austronesian dispersal hypothesis~\cite{Blust_1991} holds that a single
+protolanguage, introduced by early settlers from the Asian mainland, diverged
+through localised adaptation and restricted contact, accumulating phonological
+and lexical innovations as communities became isolated and yielding the 175
+documented Philippine languages, two of which are now
+extinct~\cite{ethnologue2025}. The sixteen studied here, located
+in~\cref{sec:intro}, range from dominant regional lingua francas to endangered
+local tongues.
 
 \subsection{Methodology}
 
 We employed two official linguistic atlases published by the Komisyon ng Wikang
-Filipino (KWF): the \emph{Mapa ng mga Wika} and the \emph{Mapa ng mga Wika ng
-Katutubong Pamayanang Kultural}. These maps delineate the spatial distribution of
+Filipino (KWF), the \emph{Mapa ng mga Wika} and the \emph{Mapa ng mga Wika ng
+Katutubong Pamayanang Kultural}, which delineate the spatial distribution of
 languages across Philippine administrative boundaries and identify overlapping
 zones of multilingual interaction~\cite{Marrion2025MapaKultural,
-KWF2025MapaPilipinas}. To enhance precision, we generated a custom digital map
-using boundary data from the United Nations Office for the Coordination of
-Humanitarian Affairs (OCHA) and rendered it with
-Matplotlib\footnote{\url{https://matplotlib.org/}} and
-GeoPandas\footnote{\url{https://geopandas.org/en/stable/}} in
+    KWF2025MapaPilipinas}. To enhance precision, we generated a custom digital map
+from boundary data published by the United Nations Office for the Coordination of
+Humanitarian Affairs (OCHA), rendered with Matplotlib and GeoPandas in
 Python~\cite{OCHA_Philippines_2018_PHL_Admin_Boundaries, Hunter:2007,
-kelsey_jordahl_2020_3946761}. This process ensured spatial consistency between
+    kelsey_jordahl_2020_3946761}, ensuring spatial consistency between the
 linguistic and geographic datasets.
 
-Topographic data were obtained from the National Mapping and Resource Information
-Authority (NAMRIA)~\cite{NAMRIA_Downloads}, including elevation models, hydrology,
-and terrain classifications. By overlaying linguistic boundaries on these physical
-features, we identified correlations between geography and language distribution.
-In particular, we focused on how elevation and water systems delineate the
+Topographic data, comprising elevation models, hydrology, and terrain
+classifications, were obtained from the National Mapping and Resource
+Information Authority (NAMRIA)~\cite{NAMRIA_Downloads}. The analysis proceeded by
+geospatial alignment of the linguistic and physical layers, detection of
+convergence between linguistic boundaries and terrain discontinuities, and
+qualitative interpretation through historical and sociolinguistic literature,
+with particular attention to how elevation and water systems delineate the
 boundaries of the languages in \cref{tab:ph_languages}.
-
-The analysis followed three phases: (1) geospatial alignment of linguistic and
-physical layers; (2) detection of convergence between linguistic boundaries and
-terrain discontinuities; and (3) qualitative interpretation through historical and
-sociolinguistic literature. This mixed-method approach integrates computational
-mapping with cultural geography, facilitating both quantitative and interpretive
-insights.
 
 \subsection{Results and Discussion}
 
@@ -91,31 +59,17 @@ Masbatenyo, and Romblomanon illustrates an intermediate linguistic zone where
 mutual intelligibility correlates with ease of maritime travel.
 
 In contrast, lowland regions such as Central Luzon and Northern Mindanao show
-diffuse linguistic borders, reflecting trade, migration, and urbanization. The
-presence of Chavacano in Zamboanga exemplifies contact-induced
-change, where Spanish influence merged with Cebuano and Tausug substrates to form
-a stable creole. Similarly, Yami in the Batanes archipelago
-preserves linguistic continuity with Taiwan's indigenous languages due to
-geographic proximity and historical seafaring ties.
+diffuse linguistic borders, reflecting trade, migration, and urbanisation. The
+presence of Chavacano in Zamboanga exemplifies contact-induced change, in which
+Spanish influence merged with Cebuano and Tausug substrates to form a stable
+creole. Yami, situated beyond the archipelago's northern limit, correspondingly
+preserves continuity with the languages of Taiwan through geographic proximity
+and historical seafaring ties.
 
-Overall, the spatial correlations underscore geography as both a limiting and
-enabling force: rugged terrains and isolated islands encourage linguistic
-diversification, while navigable waterways foster linguistic contact and hybrid
-formation. These findings align with global typologies of geography-driven
-diversity, placing the Philippines alongside regions such as Indonesia and Papua
-New Guinea in the broader Austronesian context.
+The spatial correlations therefore underscore geography as both a limiting and an
+enabling force: rugged terrain and isolated islands encourage linguistic
+diversification, while navigable waterways foster contact and hybrid formation.
+These findings align with global typologies of geography-driven diversity,
+placing the Philippines alongside regions such as Indonesia and Papua New Guinea
+in the broader Austronesian context.
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=\columnwidth]{chapters/artifacts/lingmap_out.png}
-    \caption{Generated linguistic map showing the spatial distribution of selected
-    Philippine languages overlaid on topographic contours.}
-    \label{fig:lingmap_out}
-\end{figure}
-
-The mapping code and datasets are publicly available in the
-\href{https://github.com/zrygan/nlp/tree/master/language_similarity/lingmap}
-{\texttt{language\_similarity/lingmap}} directory for transparency and
-reproducibility. The results affirm that the Philippine archipelago's natural
-terrain and hydrology are central to understanding the historical pathways and
-current distribution of its languages.
