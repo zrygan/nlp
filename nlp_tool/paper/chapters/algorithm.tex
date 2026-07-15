@@ -1,33 +1,6 @@
 \section{Algorithm}
 
-% THIS IS CLARENCE'S ORIGINAL WRITE-UP
-% INCORPORATE IF NEEDED LATER
-% ===========================================
-% In order to evaluate the nativization of drug names, we conducted preliminary research on standardized rules by the KWF on English loaned words. 
-% Based on these translations, we conducted basic letter substitutions such as replacing ``ph" with ``f", ``z" with ``s", ``th" with ``t", ``ch" with ``k", ``v" with ``b", and 
-% "x" with ``ks". Furthermore, there were other letter substitutions such as replacing ``c" with ``s" when followed by ``e", ``y", or ``i", and replacing ``c" with ``k" in other cases.
-% This captures the soft and hard ``c" sounds in English. However, there are important limitations to note with the letter ``g". This letter has both a ``soft" and ``hard"
-% pronunciation depending on the following vowel, similar to ``c". However, there are multiple special cases in which this algorithm is not followed. One such example
-% is the word ``get", which has a hard ``g" sound despite being followed by ``e". Due to these exceptions, there are limitations to drug names that contain the letter ``g" within them.
-
-% Aside from these basic letter substitutions, there are other special exceptions and rules that were applied. For example, any drug name that has ``ee" in it's spelling will be
-% substituted with ``i". The same occurrence applies to ``oo", which will be replaced with the letter ``u". However other characters that have duplicated letters in a row are substituted with just 
-% one letter instead. Additionally, if a drug name ends with the letter ``e", it is highly noticeable that the ``e" is silent and removed in pronunciation. Therefore, any drug name that ends with ``e" 
-% will have the final ``e" removed. Moreoever, there are multiple drug names that end with the following: ``-ide", ``-ate", and ``-one", which are typically pronounced as ``ayd", ``eyt", and ``own" 
-% respectively. To account for these common endings, we have replaced the endings accordingly. There are also a considerable amount of other spellings in drug names such as ``ein" that gets 
-% substituted with ``in" and ``thi" that may follow with a ``a" and ``o" with ``ti[a/o]" depending on the following letter.
-
-% Lastly, one of the biggest limitations that we faced whilst encountering the drug names were the various difference of pronunciations between ``y", ``i", and ``ay". Throughout different drug names,
-% there are multiple pronunciations that may involve these letters. For example, the drug name ``diphenhydramine" has the first ``i" as a ``ay" sound, compared to the second ``i" which has a ``ee" sounnd.
-% These multiple different types of of pronunciations made it difficult to standardize a single rule based on graphemes on how to nativize these drug names. There are other occurences in which two words such as 
-% ``triamcinolone" and ``hydrochlorothiazide" in which possess both ``ria" and ``thia" respectively. In these cases, ``ria" is pronounced as ``ree-ea" while ``thia'' is pronounced as ``thi-a". Due to these
-% cases, there occurs a limitation on being able to diagnose the correct letter substitution for these types of pronunciations.
-% ===========================================
-% THIS IS CLARENCE'S ORIGINAL WRITE-UP
-% INCORPORATE IF NEEDED LATER
-
-The regulating body for the Filipino language of the Philippine government is
-the Komisyon sa Wikang Filipino (KWF) provides a manual on the orthography of
+The regulating body for the Filipino language of the Philippine government, the Komisyon sa Wikang Filipino (KWF), provides a manual on the orthography of
 the language~\cite{KWF_MMP} which includes guidelines on nativization of loan
 words.
 
@@ -54,6 +27,25 @@ a single letter mapping, they are instead replaced with ``ks'' (inde\textbf{ks},
 In the table below, we summarize the common monograph substitutions used in our
 nativization algorithm.
 
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\hline
+	extbf{English} & \textbf{Filipino} & \textbf{Example} \\
+\hline
+ph & f   & phone $\rightarrow$ fon \\
+v  & b   & volleyball $\rightarrow$ bolibol \\
+z  & s   & zipon $\rightarrow$ sipon \\
+j  & dy  & jeep $\rightarrow$ dyip \\
+\~n & ny & ba\~no $\rightarrow$ banyo \\
+q(u) & kuw & queen $\rightarrow$ kuw\'in \\
+x  & ks  & index $\rightarrow$ indeks \\
+\hline
+\end{tabular}
+\caption{Common monograph substitutions used in the nativization algorithm.}
+\label{tab:mono-rules}
+\end{table}
+
 \subsection{Digraphs}
 
 English has several letter combinations or digraphs that represent specific
@@ -74,18 +66,61 @@ equivalents. For example, the digraph ``oo'' (\textbf{oo}ze) is replaced with
 In the table below, we summarize the common digraph substitutions used in our
 nativization algorithm.
 
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\hline
+	extbf{Pattern} & \textbf{Filipino} & \textbf{Example} \\
+\hline
+ch & ts      & chocolate $\rightarrow$ tsokolate \\
+sh & sy / s  & ship $\rightarrow$ syip; squish $\rightarrow$ iskuwis \\
+ng & ng      & sing $\rightarrow$ sing \\
+oo & u       & ooze $\rightarrow$ uz \\
+ea & i       & easy $\rightarrow$ isi \\
+c + e/i/y & s & centro $\rightarrow$ sentro \\
+c elsewhere & k & computer $\rightarrow$ kompyuter \\
+th & t       & thiamine $\rightarrow$ tayamin \\
+tion / sion & syon & education $\rightarrow$ edukasyon \\
+\hline
+\end{tabular}
+\caption{Common digraph and pattern substitutions used in the nativization algorithm.}
+\label{tab:digraph-rules}
+\end{table}
+
 \subsection{Vowel Unpredictability}
 
 Lastly, one of the biggest limitations that we faced whilst encountering the
-drug names were the various difference of pronunciations between ``y", ``i",
-and ``ay". Throughout different drug names, there are multiple pronunciations
-that may involve these letters. For example, the drug name ``diphenhydramine"
-has the first ``i" as a ``ay" sound, compared to the second ``i" which has a
-``ee" sounnd. These multiple different types of of pronunciations made it
-difficult to standardize a single rule based on graphemes on how to nativize
-these drug names. There are other occurences in which two words such as
-``triamcinolone" and ``hydrochlorothiazide" in which possess both ``ria" and
-``thia" respectively. In these cases, ``ria" is pronounced as ``ree-ea" while
-``thia'' is pronounced as ``thi-a". Due to these cases, there occurs a
-limitation on being able to diagnose the correct letter substitution for these
-types of pronunciations.
+drug names were the various differences in pronunciation involving ``y",
+``i", and the diphthong ``ay". Throughout different drug names, there are
+multiple pronunciations that may involve these letters. For example, the drug
+name ``diphenhydramine" has the first ``i" pronounced with an ``ay" sound,
+compared to the second ``i" which has an ``i" sound. These multiple types of
+pronunciations make it difficult to standardize a single rule based purely on
+graphemes. There are other occurrences in which two drug names such as
+``triamcinolone" and ``hydrochlorothiazide" both contain sequences like
+``ria" and ``thia" respectively. In these cases, ``ria" may be pronounced as
+something close to ``ree-a" while ``thia" may be realized as ``thi-a". Due to
+these cases, it is challenging to diagnose the correct letter substitution for
+these types of pronunciations using a fixed set of orthographic rules.
+
+In addition to the basic substitutions, the algorithm also handles several
+common English suffixes and spelling patterns that occur in drug names. For
+instance, words ending in ``-ide", ``-ate", and ``-one" are typically
+pronounced as ``ayd", ``eyt", and ``own" respectively, so the algorithm maps
+these endings to ``-ayd", ``-eyt", and ``-own" in Filipino spellings.
+Similarly, final silent ``e" in English words is usually dropped in the
+nativized form, and sequences such as ``ein" are simplified to ``in". These
+patterns were incorporated based on recurring forms observed in pharmaceutical
+terminology and are implemented alongside the monograph and digraph rules
+described above.
+
+The rules described in this section are implemented in the
+	exttt{apply\_phonological\_rules} method of the
+	exttt{FilipinoCFGParser} class in \texttt{naturalsyon.py}. In addition to
+the substitutions summarized in Tables~\ref{tab:mono-rules} and
+\ref{tab:digraph-rules}, the implementation includes suffix mappings (e.g.,
+	extit{-ate} $\rightarrow$ \textit{-eyt}, \textit{-ide} $\rightarrow$
+	extit{-ayd}, \textit{-one} $\rightarrow$ \textit{-own}) and vowel-glide
+patterns (e.g., inserting \textit{y} or \textit{w} in sequences such as
+	extit{oa}, \textit{ia}, \textit{ua}), which were tuned to better capture
+the behavior of pharmaceutical terms.
