@@ -11,19 +11,15 @@ df = pd.read_csv('orthographic_similarity_matrix.tsv', sep='\t', index_col=0)
 # strict lower triangle carries information. Dropping the first row and last
 # column removes the two bands that the diagonal mask would leave empty, giving a
 # 15x15 staircase. Excluding the diagonal also frees the colour scale for the
-# values that vary, and lets each cell be labelled without a leading zero, which
-# is what keeps the annotations legible once the figure is scaled to a column.
+# values that vary rather than pinning it at the self-similarity of 1.0.
 df = df.iloc[1:, :-1]
 mask = np.triu(np.ones_like(df, dtype=bool), k=1)
 
-# ".3423" rather than "0.3423": every off-diagonal value is < 1, and dropping the
-# leading zero is what lets four decimal places fit the cell.
-labels = np.vectorize(lambda v: f'{v:.4f}'[1:])(df.values)
-
+# Values are read from the colour bar rather than printed in the cells.
 plt.figure(figsize=(7.0, 6.4))
-sns.heatmap(df, mask=mask, cmap='viridis', annot=labels, fmt='',
-            annot_kws={'size': 9}, linewidths=0.4, linecolor='white',
-            square=True, cbar=False)
+sns.heatmap(df, mask=mask, cmap='viridis', annot=False,
+            linewidths=0.4, linecolor='white', square=True,
+            cbar_kws={'shrink': 0.6, 'pad': 0.02, 'aspect': 40})
 
 plt.xlabel('Language A')
 plt.ylabel('Language B')
