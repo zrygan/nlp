@@ -58,6 +58,7 @@ machine_translation/fairseq_mt/checkpoints/*
 *.blg
 *.brf
 *.bst
+!language_similarity/docs/acl_natbib.bst
 *.dvi
 *.fdb_latexmk
 *.fls
