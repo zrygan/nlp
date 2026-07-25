@@ -1,16 +1,40 @@
-\section{Results and Discussion}
+\section{Results and Discussion}\label{sec:synthesis}
 
-Across the sixteen languages analyzed, orthographic similarity ranges from
-0.3423 to 0.9391, while phonetic similarity occupies a much narrower and higher
-band with 0.7622 to 0.9927. This discrepancy reveals that spelling has diverged
-far more rapidly than sound. Orthography is highly susceptible to external
-standardization, bearing the marks of disparate missionary, educational, and
-administrative decisions even among neighboring communities. By contrast,
-Phonology is markedly more conservative. The spoken word preserves a shared
-Austronesian history that modern spelling conventions obscure. Compared
+The two similarity matrices are presented as heat maps
+in~\cref{fig:ortho_sim_matrix,fig:phonetic_sim_matrix}. Across the sixteen
+languages analyzed, orthographic similarity ranges from 0.3423 to 0.9391, while
+phonetic similarity occupies a much narrower and higher band with 0.7622 to
+0.9927. This discrepancy reveals that spelling has diverged far more rapidly
+than sound. Orthography is highly susceptible to external standardization,
+bearing the marks of disparate missionary, educational, and administrative
+decisions even among neighboring communities. Phonology, by contrast, is
+markedly more conservative. The spoken word preserves a shared Austronesian
+history that modern spelling conventions obscure. Compared
 against~\cref{fig:lingmap_out}, it becomes evident that while geographic
-features like rugged terrain explains part of this pattern, historical maritime
+features like rugged terrain explain part of this pattern, historical maritime
 contact and creolization frequently override geographic boundaries.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]{chapters/artifacts/orthographic_heat_map.png}
+    \caption{Orthographic similarity matrix, computed as the Jaccard similarity
+        coefficient over trigram inventories. The matrix is symmetric and its
+        diagonal is 1 by construction, so only the strict lower triangle is
+        shown; cell shade encodes similarity per the color bar, and figures
+        quoted in the text are exact.}
+    \label{fig:ortho_sim_matrix}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]{chapters/artifacts/phonetic_heat_map.png}
+    \caption{Phonetic similarity matrix, computed as the cosine similarity of
+        Double Metaphone frequency vectors. The matrix is symmetric and its
+        diagonal is 1 by construction, so only the strict lower triangle is
+        shown; cell shade encodes similarity per the color bar, and figures
+        quoted in the text are exact.}
+    \label{fig:phonetic_sim_matrix}
+\end{figure}
 
 \subsection{Visayas and Archipelagic Connectivity}
 
@@ -23,8 +47,8 @@ Waray-Waray remain closely tied to this core; remarkably, Waray-Waray maintains
 a 0.9550 phonetic similarity with Kinaray-a despite being geographically
 separated by the Samar Sea.
 
-Martitime connectivity is best exemplified by Romblomanon, as a language
-situated between the northen and southern routes of migration. Its linguistic
+Maritime connectivity is best exemplified by Romblomanon, as a language
+situated between the northern and southern routes of migration. Its linguistic
 profile is highly phonetically similar to Hiligaynon (0.9734), Cebuano
 (0.9708), and Tagalog (0.9716). Similarly, Bikol and Masbatenyo form a tight
 pair (0.9206 orthographically, 0.9857 phonetically), reflecting their adjacency
@@ -49,13 +73,20 @@ However, terrain does not account for all northern variations. Paranan and
 Pangasinan display an unexpectedly high phonetic affinity (0.9677) despite
 geographic separation, suggesting either the retention of conservative features
 lost in central varieties, or parallel trajectories of simplification in
-isolated communities. Similarly, Kapampangan proves that geographic adjacency
+isolated communities. Similarly, Kapampangan suggests that geographic adjacency
 does not guarantee orthographic convergence. Despite a long literary history in
 Central Luzon, its spelling diverges significantly from neighboring Ilocano
 (0.5421). Phonetically, however, Kapampangan is closer to the distant Kinaray-a
 (0.9456) than to its immediate neighbors. This mismatch characterizes lowland
 regions, where historical trade, migration, and urbanization blur the strict
 linguistic borders imposed by terrain.
+
+Pangasinan is never markedly distant from anything, which positions it as an
+orthographic middle ground between northern and southern conventions rather
+than as a member of either group. Setting the creole aside, its lowest
+orthographic score against any language in the sample is 0.6079 and it
+simultaneously reaches further south than any other northern language, at
+0.7926 with Bikol and 0.7906 with Masbatenyo.
 
 \subsection{The Impact of Creolization}
 
@@ -73,16 +104,198 @@ similarity it does share with other Philippine languages is an artifact of the
 shared Latin script, not common ancestry. Its profile firmly suggests that the
 mechanics of creolization overwrite inherited Austronesian traits.
 
-\subsection{Summary}
+Tausug supplies the contrast that lends this reading its force. It is the
+southernmost language in the sample, remote from the remainder of it and
+subject to maritime Southeast Asian influence, and its historical connection to
+Arabic script traditions might be expected to set its orthography apart as
+sharply as Chavacano's. It nonetheless remains moderate orthographically
+(0.5533--0.7762 against the non-creole languages) and squarely central
+phonetically (0.9587 with Pangasinan, 0.9538 with Masbatenyo, 0.9519 with
+Bikol). Geographic distance and language contact are therefore not of
+themselves sufficient to restructure a sound system, whereas creolization
+demonstrably is.
 
-Taken together, these measures demonstrate that phonetic and orthographic data
-record two different histories. Orthographic similarity serves as a modern
-record of which communities learned to write together under shared
-administrative or educational standards. Phonetic similarity offers a deeper,
-more conservative record of shared descent and historical contact. Geography
-predicts these patterns only where terrain, like the Cordillera, restricts
-human movement. Where communities could navigate waters, engage in trade, or
-experience colonization, human contact readily overwrote the geographic map.
-Languages that resist geographic explanation on the phonetic measure,
-particularly Yami and Paranan, present clear targets for future diachronic
-study.
+\subsection{Terrain and Linguistic Boundaries}
+
+Read against the generated linguistic map in~\cref{fig:lingmap_out}, whose
+construction is described in~\cref{sec:geo}, several of these divisions align
+closely with physical terrain. Ilocano and Paranan are separated by the
+Cordillera and Sierra Madre ranges, and the seas dividing Panay, Negros, and
+Leyte correspond precisely to the divisions among Hiligaynon, Kinaray-a, and
+Waray-Waray. Bikol, Masbatenyo, and Romblomanon illustrate an intermediate
+zone, one in which mutual intelligibility tracks the ease of maritime travel
+rather than distance overland.
+
+Lowland regions display the opposite pattern. Central Luzon and Northern
+Mindanao show diffuse linguistic borders that reflect trade, migration, and
+urbanization rather than elevation. Chavacano in Zamboanga exemplifies
+contact-induced change, in which Spanish influence merged with Cebuano and
+Tausug substrates to form a stable creole, while Yami, situated beyond the
+archipelago's northern limit, correspondingly preserves continuity with the
+languages of Taiwan through geographic proximity and historical seafaring ties.
+
+Geography therefore operates as both a limiting and an enabling force: rugged
+terrain and isolated islands encourage diversification, while navigable
+waterways foster contact and hybrid formation. This places the Philippines
+alongside regions such as Indonesia and Papua New Guinea in the broader
+typology of geography-driven linguistic diversity.
+
+\subsection{Comparative Structure of the Two Matrices}
+
+The preceding subsections examined the two matrices region by region.
+Considered jointly and in full, they sustain an inference that neither supports
+in isolation. A comparison of
+\cref{fig:ortho_sim_matrix,fig:phonetic_sim_matrix}, which share a common row
+and column ordering, indicates that the two measures agree closely with respect
+to the ordering of language relationships while differing substantially with
+respect to its scale. Across the 120 distinct language pairs, the two rank
+those pairs in a near-identical sequence, yielding a Spearman rank correlation
+of \( \rho = 0.83 \) (\( p < 10^{-30} \)). The pairs that are orthographically
+proximate are, with few exceptions, the same pairs that are phonetically
+proximate, and the two measures may therefore be understood as recording a
+common underlying ordering rather than two unrelated properties.
+
+However, the distributions themselves are not commensurable, as
+\cref{tab:metric_comparison} sets out. Orthographic similarity is centered on
+0.6596 and occupies a range of 0.5968, whereas phonetic similarity is centered
+on 0.8985 and occupies a range of 0.2305, approximately 39 percent of the
+orthographic figure. The relationships that both measures identify are
+consequently registered in a considerably more attenuated form in speech than
+in writing.
+
+\begin{table}[h!]
+    \centering
+    \scriptsize
+    \setlength{\tabcolsep}{3.5pt}
+    \begin{tabular}{lrrrrr}
+        \hline
+                       &                & \multicolumn{2}{c}{\textbf{Orthographic}} & \multicolumn{2}{c}{\textbf{Phonetic}}                                  \\
+        \textbf{Pairs} & \textbf{\(n\)} & \textbf{Mean}                             & \textbf{Range}                        & \textbf{Mean} & \textbf{Range} \\
+        \hline
+        All            & 120            & 0.6596                                    & 0.5968                                & 0.8985        & 0.2305         \\
+        Complete       & 28             & 0.6909                                    & 0.4473                                & 0.8956        & 0.2305         \\
+        NT only        & 28             & 0.6262                                    & 0.5282                                & 0.9008        & 0.1495         \\
+        Mixed          & 64             & 0.6605                                    & 0.5819                                & 0.8987        & 0.1976         \\
+        \hline
+    \end{tabular}
+    \caption{Distribution of off-diagonal similarity under each measure, overall
+        and stratified by the completeness of the two corpora compared.
+        \emph{Complete} denotes pairs in which both corpora are complete Bibles,
+        \emph{NT only} pairs in which both are New Testaments, and \emph{Mixed}
+        one of each.}\label{tab:metric_comparison}
+\end{table}
+
+\subsection{Robustness of the Scale Difference}
+
+Because the two measures are computed by different procedures, a Jaccard
+coefficient over trigram sets in the orthographic case and a cosine over
+frequency vectors in the phonetic, the possibility must be considered that the
+difference in scale is an artifact of the instruments rather than a property of
+the languages. The Jaccard coefficient is in principle sensitive to disparities
+in set size, and eight of the sixteen corpora comprise only the New Testament
+(\cref{tab:seeds}); corpus size therefore presents itself as a candidate
+confound, and one that would, if operative, inflate the orthographic range
+precisely as observed.
+
+It does not appear to be operative. Neither the absolute difference in corpus
+size between the members of a pair (\( \rho = 0.06 \) for the orthographic
+measure, \( \rho = 0.03 \) for the phonetic) nor the size of the smaller corpus
+in a pair (\( \rho = 0.09 \) and \( \rho = -0.01 \) respectively) is
+appreciably associated with either similarity score. The disparity in range
+moreover persists when the comparison is restricted to pairs of equal corpus
+completeness, as the lower rows of \cref{tab:metric_comparison} show: among the
+28 pairs in which both corpora are complete Bibles the orthographic range
+remains approximately twice the phonetic, and among the 28 pairs in which both
+are New Testaments it remains more than three times the phonetic. The
+compression of the phonetic scale relative to the orthographic is accordingly a
+property of what is being measured rather than of the corpora from which the
+measurements derive.
+
+\subsection{Interpretation}
+
+Taken together, the two measures record two different histories. Orthographic
+similarity serves as a modern record of which communities learned to write
+together under shared administrative or educational standards, while phonetic
+similarity offers a deeper and more conservative record of shared descent and
+historical contact. The conjunction of close agreement in ordering with
+substantial disagreement in scale is consistent with the two layers differing
+in age. Every language in the sample acquired the Latin script within
+approximately the last four centuries, through a colonial encounter that varied
+by region, by missionary order, and by the period in which each translation was
+standardized. Orthography constitutes the most recent and the most
+administratively tractable layer of a language, and it registers those
+variations at full amplitude. Phonology is subject to neither condition, having
+been established by no administrative decision and having diverged from a
+common Austronesian ancestor over a period of millennia before any of these
+languages was committed to writing. The narrower phonetic band may therefore be
+understood as the residue of that shared inheritance, which remains legible
+beneath four centuries of divergent orthographic practice. The colonial
+imposition of writing did not reconfigure the relationships obtaining among
+these languages; it amplified distinctions that phonology continues to preserve
+in a more attenuated form.
+
+\subsection{Convergent Findings}
+
+Three findings recur across all three analyses and may be regarded as
+comparatively secure, in that they rest upon measurements that could have
+disagreed and did not.
+
+Chavacano occupies a peripheral position under every measure. It is the most
+orthographically distant language in the sample, with a mean similarity of
+0.4190, and likewise the most phonetically distant, at 0.8414, while the
+geographic analysis independently identifies Zamboanga as a contact zone in
+which Spanish merged with Cebuano and Tausug substrates. Tausug furnishes the
+comparison that lends this observation its force, for the reasons given above.
+
+Romblomanon occupies a central position under every measure. It records the
+highest mean orthographic similarity in the sample, at 0.7468, together with
+the highest mean phonetic similarity, at 0.9174, and the geographic analysis
+places Romblon between the Luzon and Visayan spheres. That a language situated
+at a crossroads should resemble the varieties lying on either side of it, in
+writing as in speech, is the expected consequence of sustained contact with
+both.
+
+Northern Luzon constitutes a distinct zone under every measure. Ilocano is the
+second most peripheral language both orthographically, at 0.5858, and
+phonetically, at 0.8491, while remaining proximate to Paranan and Pangasinan,
+and the Cordillera and Sierra Madre ranges appear in \cref{fig:lingmap_out} at
+precisely the boundary that division implies. In this instance the three
+analyses converge upon a single explanation, and that explanation is
+topographic.
+
+The center--periphery ordering is in general preserved between the two measures
+(\( \rho = 0.81 \) over per-language mean similarity), with Chavacano, Ilocano,
+and Kapampangan the three most peripheral languages under both, and Kinaray-a,
+Bikol, and Romblomanon the three most central under both.
+
+\subsection{Systematic Divergences}
+
+The disagreements between the measures are as instructive as the convergences,
+and they are not randomly distributed. The pairs that are most similar
+phonetically relative to their orthographic ranking are consistently pairs of
+geographically remote languages. Ranking the 120 pairs from least to most
+similar under each measure, Kapampangan and Waray-Waray, separated by Central
+Luzon and the Eastern Visayas, rank fourteenth orthographically but
+seventy-sixth phonetically; Paranan and Tausug, separated by the length of the
+archipelago, rank thirty-ninth and ninety-fourth respectively; and Yami and
+Tausug, occupying its northern and southern extremities, rank thirtieth and
+eighty-fourth. The Paranan--Pangasinan affinity exhibits the same asymmetry,
+being strong phonetically at 0.9677 and merely moderate orthographically at
+0.7828, and Kapampangan is phonetically closer to the distant Kinaray-a, at
+0.9456, than to adjacent Ilocano, at 0.8483.
+
+That this divergence should concentrate among distant pairs is consistent with
+the interpretation advanced above. Orthographic practice would be expected to
+diverge most freely between communities whose writing was standardized
+independently of one another, by different missionary orders, translation
+committees, and regional traditions of literacy, whereas phonological
+inheritance persists irrespective of any such decision. On this reading
+distance is a proxy for that independence rather than its cause: remote
+communities are simply less likely to have had their spelling fixed by the same
+hands. Cases of this kind nevertheless mark the limits of what a similarity
+matrix computed over trigrams can settle. They are equally consistent with the
+retention of conservative features lost elsewhere, with convergent innovation,
+and with historical contact along routes that the terrain does not record.
+Distinguishing among these possibilities requires evidence that the present
+study does not contain, namely cognate sets, reconstructed proto-forms, and
+documented migration histories.
