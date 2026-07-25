@@ -1,10 +1,10 @@
 \documentclass[11pt]{article}
 
 % ACL style file (https://github.com/acl-org/acl-style-files).
-% Options: "review" for anonymous submission (line numbers + page numbers),
-% "preprint" for a non-anonymous version with page numbers, or no option at
-% all for the final (camera-ready) version.
-\usepackage{acl}
+% Final / camera-ready version: load the style with no option.
+% Use \usepackage[review]{acl} for anonymous submission or
+% \usepackage[preprint]{acl} for a non-anonymous preprint with page numbers.
+\usepackage[final]{acl}
 
 % Standard package includes recommended by the ACL template
 \usepackage{times}
@@ -28,45 +28,43 @@
 \crefname{figure}{Figure}{Figures}
 \crefname{equation}{Equation}{Equations}
 
-\graphicspath{{../}} % makes root = language_similarity/
-\newcommand{\todo}{\textcolor{blue}{--- TODO ---}}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%% FOR TODOs OR MISSING INFORMATION
-%%%%%%%%%% Add the \todo annotation
-%%%%%%%%%% and make its font color blue
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \title{Orthographic, Phonetic, and Socio-Geographic Similarity of Philippine Languages}
 
 \author{
-  \textbf{Clarence Ang},
-  \textbf{Clive Ang},
-  \textbf{Roan Campo},
-  \textbf{Zhean Ganituen}
+  \textbf{Clarence Ang} \quad
+  \textbf{Clive Ang} \quad
+  \textbf{Roan Campo} \quad
+  \textbf{Zhean Ganituen} \\
+  De La Salle University\\
+  2401 Taft Ave, Malate, Manila, Philippines\\
+  \small{
+    \texttt{\{clarence\_ivan\_ang, clive\_jarel\_c\_ang, roan\_campo, zhean\_robby\_ganituen\}@dlsu.edu.ph}
+  }
 }
 
 \begin{document}
 \maketitle
 
-\input{chapters/intro.tex}
-\input{chapters/orthographic.tex}
-\input{chapters/phonetic.tex}
-\input{chapters/geo.tex}
-\input{chapters/synthesis.tex}
+\begin{abstract}
+  \input{chapters/1-abstract.tex}
+\end{abstract}
+
+\input{chapters/2-intro.tex}
+\input{chapters/3-orthographic.tex}
+\input{chapters/4-phonetic.tex}
+\input{chapters/5-geo.tex}
+\input{chapters/6-synthesis.tex}
 
 % ACL requires Limitations and (optionally) Ethics Statement as unnumbered
 % sections placed after the body and before the references.
-\input{chapters/limitations.tex}
-\input{chapters/ethics_statement.tex}
-
-\section*{Declaration of Generative AI Use} \todo
+\input{chapters/7-limitations.tex}
+\input{chapters/8-ethics_statement.tex}
 
 \bibliography{refs}
 
 \appendix
 \crefalias{section}{appendix}
 \crefalias{subsection}{appendix}
-\input{chapters/data.tex}
+\input{chapters/9-data.tex}
 
 \end{document}
