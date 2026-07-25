@@ -1,0 +1,50 @@
+\section{Methodology}
+
+To establish the relationships among the selected languages, we evaluated them
+across three dimensions: orthographic, phonetic, and geospatial.
+
+\subsection{Linguistic Distance Metrics}
+
+We extracted unique trigrams from the standardized biblical corpus of each
+language to compute two distinct similarity matrices.
+
+First, we measured orthographic similarity using the Jaccard similarity
+coefficient, which quantifies the direct overlap of written forms. It is
+defined as the intersection of two trigram sets divided by their union:
+
+\begin{equation}
+    J(A, B) = \frac{|A \cap B|}{|A \cup B|}
+\end{equation}
+
+where \(A\) and \(B\) represent the unique orthographic trigrams for two
+languages.
+
+Second, we measured phonetic similarity to capture acoustic properties
+independent of spelling conventions. We converted all corpus trigrams into
+phonetic representations using the Double Metaphone algorithm, which accounts
+for non-English phonological patterns and variant pronunciations. We then
+computed the pairwise cosine similarity of these phonetic frequency
+distributions:
+
+\begin{equation}
+    \text{cos}(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} = \frac{\sum_{i=1}^{n} A_i B_i}{\sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2}}
+\end{equation}
+
+where \(\mathbf{A}\) and \(\mathbf{B}\) are the phonetic frequency vectors.
+Cosine similarity accounts for the relative distribution of features rather
+than absolute frequencies, making it robust to corpus size variations.
+
+\subsection{Geospatial Mapping}
+
+To model how physical terrain influences these linguistic similarities, we
+aligned the linguistic data with geospatial boundaries. We sourced language
+distribution boundaries from the Komisyon ng Wikang Filipino (KWF)
+atlases~\cite{Marrion2025MapaKultural, KWF2025MapaPilipinas} and administrative
+data from the UN Office for the Coordination of Humanitarian
+Affairs~\cite{OCHA_Philippines_2018_PHL_Admin_Boundaries}. Topographic data
+(elevation and hydrology) were obtained from the National Mapping and Resource
+Information Authority (NAMRIA)~\cite{NAMRIA_Downloads}. We rendered the
+combined digital map using Matplotlib and GeoPandas in
+Python~\cite{Hunter:2007, kelsey_jordahl_2020_3946761} to visually and
+quantitatively assess the convergence of linguistic boundaries and terrain
+discontinuities.
