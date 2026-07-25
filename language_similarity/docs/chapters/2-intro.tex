@@ -11,41 +11,10 @@ This paper quantifies the orthographic and phonetic relationships among 16
 Philippine languages, listed in~\cref{tab:ph_languages}. Traditional
 Austronesian linguistics maps historical divergence using lexical comparisons,
 such as cognate counts in standard word lists. We use a corpus-based method
-instead. By extracting \( n \)-gram frequencies from standardized text, we measure
-structural and acoustic patterns without relying on direct word meanings. We
-then test these linguistic matrices against geographic distances using a Mantel
-test to model how physical barriers affect language variation.
-
-
-% Motivation for why ortho, phonetic, and geospatial are selected
-The orthographic similarity of languages refers to the spelling convention of a
-certain language. This metric is important because it can give insights into
-the historical and cultural relationships between languages. Languages that
-share similar orthographic systems may have been influenced by the same writing
-systems or may have had significant contact in the past. This gives us valuable
-insights as to how languages have evolved over time and how they are related to
-one another.
-
-The phonetic similarity of languages refers to the sound patterns and
-pronunciation features that characterize speech. This metric reveals deeper
-linguistic relationships that may not be apparent from orthographic analysis
-alone. Languages that share similar phonetic structures often indicate common
-ancestry, historical contact, or parallel phonological evolution. Phonetic
-analysis is particularly useful for understanding the Austronesian language
-family, where phonics have been important to reconstructing proto-languages and
-tracing migration patterns~\cite{Blust_1991}.
-
-This section employs linguistic cartography and a focused literature review to
-examine how geography has shaped the distribution and divergence of Philippine
-languages, combining the visualisation of geolinguistic variation with the
-historical and sociocultural context that accounts for it.
-% == end of motivvation to rewrite
-
-To support this analysis, we compiled a text corpus for each language using
-translated biblical texts. A biblical parallel corpus ensures semantic
-alignment across the dataset; because the underlying source material is
-identical, variations in \( n \)-gram frequencies reflect genuine linguistic
-differences rather than topic bias.
+instead. By extracting \( n \)-gram frequencies from standardized text, we
+measure structural and acoustic patterns without relying on direct word
+meanings. We then test these linguistic matrices against geographic distances
+using a Mantel test to model how physical barriers affect language variation.
 
 \begin{table}[h!]
     \centering
@@ -74,6 +43,46 @@ differences rather than topic bias.
     \caption{Philippine languages with their ISO 639 codes}\label{tab:ph_languages}
 \end{table}
 \footnotetext{The code \texttt{bcl} is also used for the Bikol language.}
+
+Philippine languages can be compared in three ways. We can compare how they are
+written, how they sound, and where they are spoken. Orthographic similarity
+reflects spelling convention. It can show which languages were standardised
+under the same missionary, educational, or administrative influence. Phonetic
+similarity reflects sound pattern and pronunciation. It tends to say more about
+genetic relationships, because it is not filtered through the comparatively
+recent and externally imposed layer of Latin script spelling
+convention~\cite{Blust_1991}. This distinction matters for Philippine languages
+in particular. Many of them adopted the Latin script during Spanish
+colonization while keeping distinct, indigenous phonological systems, so two
+languages can share a spelling convention for reasons that have little to do
+with shared ancestry. In the same way, two languages can differ in spelling
+while remaining phonetically close, which points to a shared Austronesian
+history that the orthography does not show. Geography is the third point of
+comparison, and it helps explain the other two. Each of the three regions of
+the Philippines has its own ecological and historical conditions, and these
+correspond to patterns of linguistic variation~\cite{Boquet_2017}. Much of this
+diversity is attributed to the archipelago's fragmented geography, which has
+restricted mobility and sustained linguistic isolation~\cite{Blust_1991}.
+Mountains, rivers, and ocean channels have acted as both connectors and
+separators. The \emph{barangay}, the smallest socio-political unit of
+pre-colonial society, was typically sited near rivers or coasts. This location
+supported trade, but it also created small pockets of linguistic autonomy,
+where neighbouring islands could remain mutually unintelligible despite being
+close to one another. Blust's Austronesian dispersal
+hypothesis~\cite{Blust_1991} holds that a single protolanguage, introduced by
+early settlers from the Asian mainland, diverged through localised adaptation
+and restricted contact. Communities became isolated and accumulated their own
+phonological and lexical innovations over time, and this process produced the
+175 documented Philippine languages, two of which are now
+extinct~\cite{ethnologue2025}. The sixteen languages studied here range from
+dominant regional lingua francas to endangered local languages, and they are
+examined below using all three points of comparison together.
+
+To support this analysis, we compiled a text corpus for each language using
+translated biblical texts. A biblical parallel corpus ensures semantic
+alignment across the dataset; because the underlying source material is
+identical, variations in \( n \)-gram frequencies reflect genuine linguistic
+differences rather than topic bias.
 
 Geographically, these 16 languages span the length of the archipelago and
 beyond. Tagalog, Kapampangan, and Pangasinan are spoken in the plains of
