@@ -1,12 +1,26 @@
 \section{Introduction}\label{sec:intro}
 
-The goal of the project is to computationally determine the similarity of the
-16 selected Philippine Languages which are enumerated
-in~\cref{tab:ph_languages}. The GitHub repository of the project may be
-accessed here:
-\begin{center}
-    \url{https://github.com/zrygan/nlp}
-\end{center}
+The Philippines is an archipelago of over 7,600 islands, comprising three main
+regions: Luzon, the Visayas, and Mindanao. The country's mountainous terrain
+and inter-island sea channels have historically restricted and directed contact
+among language communities~\cite{Boquet_2017}. While linguists have documented
+over 180 indigenous languages in the country~\cite{ethnologue2025},
+quantitative measurements of their cross-linguistic similarities are rare.
+
+This paper quantifies the orthographic and phonetic relationships among 16
+Philippine languages, listed in~\cref{tab:ph_languages}. Traditional
+Austronesian linguistics maps historical divergence using lexical comparisons,
+such as cognate counts in standard word lists. We use a corpus-based method
+instead. By extracting \( n \)-gram frequencies from standardized text, we measure
+structural and acoustic patterns without relying on direct word meanings. We
+then test these linguistic matrices against geographic distances using a Mantel
+test to model how physical barriers affect language variation.
+
+To support this analysis, we compiled a text corpus for each language using
+translated biblical texts. A biblical parallel corpus ensures semantic
+alignment across the dataset; because the underlying source material is
+identical, variations in \( n \)-gram frequencies reflect genuine linguistic
+differences rather than topic bias.
 
 \begin{table}[h!]
     \centering
@@ -36,24 +50,18 @@ accessed here:
 \end{table}
 \footnotetext{The code \texttt{bcl} is also used for the Bikol language.}
 
-The Philippines is an archipelago of more than 7,600
-islands in three groups: Luzon in the north, the Visayas in the centre, and
-Mindanao in the south. Its mountainous terrain and the sea channels dividing its
-islands have historically both restricted and channelled contact between
-language communities~\cite{Boquet_2017}.
-
-Tagalog, Kapampangan, and Pangasinan are spoken across the plains of Central
-Luzon; further north, Ilocano occupies the coastal lowlands, Adasen the
-Cordillera interior of Abra, and Paranan the Sierra Madre coast facing the
-Pacific. The Visayas hold a contiguous but diversified cluster of Bisayan
-languages, namely Cebuano, Hiligaynon, Kinaray-a, and Waray-Waray, divided by
-narrow sea channels, with Bikol, Masbatenyo, and Romblomanon in the transitional
-zone between the Visayas and Luzon. In the south, Tausug is spoken in the Sulu
-archipelago and Chavacano, a Spanish-based creole, in Zamboanga. Yami alone lies
-outside the Philippines, on Orchid Island off southeastern Taiwan; a Batanic
-language closest to the Ivatan of Batanes, it is included as a northern
-Austronesian outgroup. Below in \cref{fig:lingmap_out} shows the image of
-what the linguistic map looks like.
+Geographically, these 16 languages span the length of the archipelago and
+beyond. Tagalog, Kapampangan, and Pangasinan are spoken in the plains of
+Central Luzon. In the north, Ilocano is spoken in the coastal lowlands, Adasen
+in the Cordillera interior of Abra, and Paranan on the Sierra Madre coast. The
+Visayas contain a contiguous cluster of Bisayan languages—Cebuano, Hiligaynon,
+Kinaray-a, and Waray-Waray—separated by narrow sea channels. Bikol, Masbatenyo,
+and Romblomanon sit in the transitional zone between the Visayas and Luzon. In
+the south, Tausug is spoken in the Sulu archipelago and Chavacano, a Spanish
+creole, in Zamboanga. Yami, the only language outside the Philippines in this
+dataset, is spoken on Orchid Island, Taiwan. As a Batanic language closely
+related to Ivatan, we include it as a northern Austronesian outgroup.
+\cref{fig:lingmap_out} maps the spatial distribution of these languages.
 
 \begin{figure}[h]
     \centering
@@ -63,10 +71,3 @@ what the linguistic map looks like.
         construction is described in~\cref{sec:geo}.}
     \label{fig:lingmap_out}
 \end{figure}
-
-The corpora used for the orthographic and phonetic similarity were collected by
-the authors from Biblical translations, and are not drawn from any published
-dataset. The collection procedure is documented in full
-in~\cref{sec:data_collection} rather than by reference to an external source,
-and the ethical and contractual questions it raises are stated
-in the~\nameref{sec:ethics_stmt} and analysed in~\cref{sec:ethics}.
