@@ -5,16 +5,19 @@ regions: Luzon, the Visayas, and Mindanao. The country's mountainous terrain
 and inter-island sea channels have historically restricted and directed contact
 among language communities~\cite{Boquet_2017}. While linguists have documented
 over 180 indigenous languages in the country~\cite{ethnologue2025},
-quantitative measurements of their cross-linguistic similarities are rare.
+quantitative measurements of their cross-linguistic similarities remain rare.
 
 This paper quantifies the orthographic and phonetic relationships among 16
-Philippine languages, listed in~\cref{tab:ph_languages}. Traditional
+Philippine languages (listed in~\cref{tab:ph_languages}). While traditional
 Austronesian linguistics maps historical divergence using lexical comparisons,
-such as cognate counts in standard word lists. We use a corpus-based method
-instead. By extracting \( n \)-gram frequencies from standardized text, we
-measure structural and acoustic patterns without relying on direct word
-meanings. We then test these linguistic matrices against geographic distances
-using a Mantel test to model how physical barriers affect language variation.
+such as cognate counts in standard word lists, we propose a corpus-based
+approach. By extracting $n$-gram frequencies from a biblical parallel corpus,
+we measure structural and acoustic patterns without relying on direct word
+meanings. Because the underlying source material is identical across all
+translations, variations in $n$-gram frequencies reflect genuine linguistic
+differences rather than topic bias. We then test these linguistic matrices
+against geographic distances using a Mantel test to model how physical barriers
+affect language variation.
 
 \begin{table}[h!]
     \centering
@@ -44,58 +47,45 @@ using a Mantel test to model how physical barriers affect language variation.
 \end{table}
 \footnotetext{The code \texttt{bcl} is also used for the Bikol language.}
 
-Philippine languages can be compared in three ways. We can compare how they are
-written, how they sound, and where they are spoken. Orthographic similarity
-reflects spelling convention. It can show which languages were standardised
-under the same missionary, educational, or administrative influence. Phonetic
-similarity reflects sound pattern and pronunciation. It tends to say more about
-genetic relationships, because it is not filtered through the comparatively
-recent and externally imposed layer of Latin script spelling
-convention~\cite{Blust_1991}. This distinction matters for Philippine languages
-in particular. Many of them adopted the Latin script during Spanish
-colonization while keeping distinct, indigenous phonological systems, so two
-languages can share a spelling convention for reasons that have little to do
-with shared ancestry. In the same way, two languages can differ in spelling
-while remaining phonetically close, which points to a shared Austronesian
-history that the orthography does not show. Geography is the third point of
-comparison, and it helps explain the other two. Each of the three regions of
-the Philippines has its own ecological and historical conditions, and these
-correspond to patterns of linguistic variation~\cite{Boquet_2017}. Much of this
-diversity is attributed to the archipelago's fragmented geography, which has
-restricted mobility and sustained linguistic isolation~\cite{Blust_1991}.
-Mountains, rivers, and ocean channels have acted as both connectors and
-separators. The \emph{barangay}, the smallest socio-political unit of
-pre-colonial society, was typically sited near rivers or coasts. This location
-supported trade, but it also created small pockets of linguistic autonomy,
-where neighbouring islands could remain mutually unintelligible despite being
-close to one another. Blust's Austronesian dispersal
-hypothesis~\cite{Blust_1991} holds that a single protolanguage, introduced by
-early settlers from the Asian mainland, diverged through localised adaptation
-and restricted contact. Communities became isolated and accumulated their own
-phonological and lexical innovations over time, and this process produced the
-175 documented Philippine languages, two of which are now
-extinct~\cite{ethnologue2025}. The sixteen languages studied here range from
-dominant regional lingua francas to endangered local languages, and they are
-examined below using all three points of comparison together.
+Analyzing these languages requires distinguishing between orthographic and
+phonetic layers. Orthographic similarity reflects spelling conventions,
+revealing which languages were standardized under shared missionary,
+educational, or administrative influences. On the other hand, phonetic
+similarity is a more conservative measure of sound patterns and pronunciation.
+It serves as a stronger indicator of genetic relationships because it is not
+filtered through the recent imposition of the Latin script~\cite{Blust_1991}.
+This distinction is particularly critical for Philippine languages. Many
+adopted the Latin script during Spanish colonization while retaining distinct
+indigenous phonological systems. Consequently, two languages might share
+spelling conventions due to colonial history, or differ in spelling while
+remaining phonetically close which reveals a shared Austronesian ancestry that
+orthography obscures.
 
-To support this analysis, we compiled a text corpus for each language using
-translated biblical texts. A biblical parallel corpus ensures semantic
-alignment across the dataset; because the underlying source material is
-identical, variations in \( n \)-gram frequencies reflect genuine linguistic
-differences rather than topic bias.
+Geography serves as the third axis of comparison, providing the ecological
+context for these linguistic divergences. Much of the country's diversity is
+attributed to its fragmented topography, where mountains, rivers, and ocean
+channels have acted simultaneously as connectors and
+separators~\cite{Boquet_2017}. Historically, the \emph{barangay}, the smallest
+socio-political unit of pre-colonial society, was typically sited near rivers
+or coasts. While this supported trade, it also created pockets of linguistic
+autonomy where neighboring islands could remain mutually unintelligible. This
+aligns with Blust's Austronesian dispersal hypothesis~\cite{Blust_1991}, which
+argues that a single protolanguage diverged as localized adaptation and
+restricted contact allowed isolated communities to accumulate unique
+phonological and lexical innovations over time.
 
-Geographically, these 16 languages span the length of the archipelago and
-beyond. Tagalog, Kapampangan, and Pangasinan are spoken in the plains of
-Central Luzon. In the north, Ilocano is spoken in the coastal lowlands, Adasen
-in the Cordillera interior of Abra, and Paranan on the Sierra Madre coast. The
-Visayas contain a contiguous cluster of Bisayan languages—Cebuano, Hiligaynon,
-Kinaray-a, and Waray-Waray—separated by narrow sea channels. Bikol, Masbatenyo,
-and Romblomanon sit in the transitional zone between the Visayas and Luzon. In
-the south, Tausug is spoken in the Sulu archipelago and Chavacano, a Spanish
-creole, in Zamboanga. Yami, the only language outside the Philippines in this
-dataset, is spoken on Orchid Island, Taiwan. As a Batanic language closely
-related to Ivatan, we include it as a northern Austronesian outgroup.
-\cref{fig:lingmap_out} maps the spatial distribution of these languages.
+The 16 languages examined in this study range from dominant regional lingua
+francas to endangered local varieties, spanning the length of the archipelago
+and beyond, see \cref{fig:lingmap_out}. In the northern plains of Central
+Luzon, we examine Tagalog, Kapampangan, and Pangasinan. Further north, the
+dataset includes coastal Ilocano, Adasen in the Cordillera interior, and
+Paranan on the Sierra Madre coast. The Visayas are represented by a contiguous
+cluster of Bisayan languages separated by narrow sea channels: Cebuano,
+Hiligaynon, Kinaray-a, and Waray-Waray. With Bikol, Masbatenyo, and Romblomanon
+occupying the transitional zone between the Visayas and Luzon. In the south, we
+analyze Tausug which is spoken in the Sulu archipelago. And, Chavacano a
+Spanish creole in Zamboanga. Finally, Yami, spoken on Orchid Island, Taiwan, is
+included as a northern Austronesian outgroup.
 
 \begin{figure}[h]
     \centering
