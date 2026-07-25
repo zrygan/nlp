@@ -12,9 +12,9 @@ First, we measured orthographic similarity using the Jaccard similarity
 coefficient, which quantifies the direct overlap of written forms. It is
 defined as the intersection of two trigram sets divided by their union:
 
-\begin{equation}
+\begin{equation*}
     J(A, B) = \frac{|A \cap B|}{|A \cup B|}
-\end{equation}
+\end{equation*}
 
 where \(A\) and \(B\) represent the unique orthographic trigrams for two
 languages.
@@ -26,11 +26,11 @@ for non-English phonological patterns and variant pronunciations. We then
 computed the pairwise cosine similarity of these phonetic frequency
 distributions:
 
-\begin{equation}
+\begin{equation*}
     \text{cos}(\theta) = 
         \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} = 
         \frac{\sum_{i=1}^{n} A_i B_i}{\sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2}}
-\end{equation}
+\end{equation*}
 
 where \(\mathbf{A}\) and \(\mathbf{B}\) are the phonetic frequency vectors.
 Cosine similarity accounts for the relative distribution of features rather
